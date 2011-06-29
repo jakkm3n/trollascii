@@ -1,0 +1,16 @@
+              _,.......____                                                   
+          _.-'      /  `-._`-.   REOPENING A BUG AND ADDING SCREENSHOTS       
+        ,'         /     / `. `.   ONE BY ONE OVER SEVERAL DAYS THAT          
+      ,'   ___    / _   /  __`. `.   PROVE THAT THE BUG ...... REALLY WAS     
+     /    /   \  / (_) /  / /  \  \   FIXED BUT I'M STILL INSISTING THAT      
+    :    / /) / / __  /  / /    L  L  IT'S NOT FOR SOME INEXPLICABLE REASON   
+    |   / __,' / / / /  / /     |  |                                          
+    |  / /    / / / /  / /___   |  |  LOOK THE SCREENSHOT OF THE OLD          
+    : /_/    / /_/ /  /_____/   F  F  VERSION SHOWS IT DOESN'T WORK BUT THE   
+     \      /     /            /  /  SCREENSHOT OF THE NEW VERSION YOU        
+      `.   /     /           ,' ,'  SAID YOU FIXED DOES NOT SHOW THE PROBLEM  
+        `./     /         _,'_,'   SO I'M REOPENING THIS BUG BECAUSE BY       
+cjr       `-.__/______,.;:.-'    SOME THOUGHT PROCESS I OBVIOUSLY CANNOT      
+                              EXPRESS IN WORDS I THINK THERE'S STILL A PROBLEM
+                                                                              
+      PROBABLY BECAUSE LIKE ALL PEOPLE IN QUALITY ASSURANCE I'M RETARDED      

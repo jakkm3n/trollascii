@@ -1,0 +1,20 @@
+               import               
+        java.io.PrintStream;        
+     public class ASmileyFace {     
+  public static void main(String[]  
+a) { PrintStream out = System.out ; 
+out.print(     "This"     + " is " +
+"both a "        +         "reform"+
+"atted J"    +  "av"  +    "a prog"+
+"ram, an"        +         "d a sm"+
+"i".concat(   "ley " +   "face. Th"+
+"is "    + "shows how to " +    "f"+
+  "orm"     + "at Jav" +     "a "+  
+    "usi"                  +"n"+    
+       "g whitespace only.")        
+               ) ;} }               
+                                    
+                                    
+  PROGRAMMING IN THE 21ST CENTURY   
+  SURE DID GAIN SOME AFFECTATIONS   
+  DON'T YOU THINK SO ??????? I DO   

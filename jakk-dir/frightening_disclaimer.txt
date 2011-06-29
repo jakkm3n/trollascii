@@ -1,0 +1,18 @@
+                   .                 JAVA TECHNOLOGY IS NOT FAULT    
+                    `:.              TOLERANT AND IS NOT DESIGNED,   
+                      `:.            MANUFACTURED, OR INTENDED FOR   
+              .:'     ,::            USE OR RESALE AS ON-LINE        
+             .:'      ;:'            CONTROL EQUIPMENT IN HAZARDOUS  
+             ::      ;:'             ENVIRONMENTS REQUIRING FAIL-SAFE
+              :    .:'               PERFORMANCE, SUCH AS IN THE     
+               `.  :.                OPERATION OF NUCLEAR FACILITIES,
+      _________________________      AIRCRAFT NAVIGATION OR          
+     : _ _ _ _ _ _ _ _ _ _ _ _ :     COMMUNICATION SYSTEMS, AIR      
+ ,---:".".".".".".".".".".".".":     TRAFFIC CONTROL, DIRECT LIFE    
+: ,'"`::.:.:.:.:.:.:.:.:.:.:.::'     SUPPORT MACHINES, OR WEAPONS    
+`.`.  `:-===-===-===-===-===-:'      SYSTEMS, IN WHICH THE FAILURE OF
+  `.`-._:                   :        JAVA TECHNOLOGY COULD LEAD      
+    `-.__`.               ,' met.    DIRECTLY TO DEATH, PERSONAL     
+,--------`"`-------------'--------.  INJURY, OR SEVERE PHYSICAL OR   
+ `"--.__                   __.--"'   ENVIRONMENTAL DAMAGE.           
+        `""-------------""'                                          

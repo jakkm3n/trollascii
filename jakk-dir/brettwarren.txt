@@ -1,0 +1,23 @@
+13,1DC Number:	 G11432  0                   
+4,1Name:	 WARREN, BRETT  0                 
+7,1Race:	 WHITE0                           
+8,1Sex:	 MALE 0                            
+9,1Hair Color:	 BROWN  0                   
+12,1Eye Color:	 BLUE  0                     
+6,1Height:	 6'04''       12  6 0              
+11,1Weight:	12 11160 lbs. 12     0                
+9,1Birth Date:	 12/10/1981 0               
+8,1Supervision Begin Date:	 05/02/2005 0   
+7,1Current Location:	ORLANDO  0            
+4,1Current Status:	 ACTIVE 0               
+13,1Supervision Type:	 PROBATION FELONY  0  
+4,1Scheduled Termination Date:	 10/01/2009
+0,1                                       
+7,1Current Verified Address: 0             
+8,011160 S. LAKE SYBELIA DR    0            
+9,1MAITLAND, FL 32751 0                    
+12,1                  0                     
+12,1Aliases:   0                            
+6,1BRET T WARREN 	BRETT WARREN   0         
+11,1BRETT T WARREN 	BRETT THOMAS WARREN  0  
+
