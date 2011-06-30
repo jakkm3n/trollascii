@@ -1,0 +1,61 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 3/1/1998
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01ice-9802.mem,ANSI,iCE - February 98 Members,iCE staff
+15,01ice-9802.nfo,ANSI,iCE - February 98 Info,iCE staff
+15,01ice-9802.sit,ANSI,iCE - February 98 Sites,iCE staff
+15,01----
+15,01(PICS)
+15,01----
+15,01c0-n4gvn.ice,ANSI,Unforgiven,Count Zer0
+15,01sq2-legi.ice,ANSI,Legion,Squidgalator2/Aoh
+15,01sq2-ooze.ice,ANSI,Ooze,Squidgalator2/Aoh
+15,01----
+15,01(LOGO)
+15,01----
+15,01c0-fw.ice,ANSI,Force Works,Count Zer0
+15,01c0-lucid.ice,ANSI,Lucidity,Count Zer0
+15,01c0-ooze3.ice,ANSI,Ooze,Count Zer0
+15,01sq2-lg19.ice,ANSI,Logo Colly #19,Squidgalator2
+15,01----
+15,01(MPEG)
+15,01----
+15,01jm-intro.mpg,EXTERNAL,Intro (MPEG Movie),Jamie McCarter
+15,01----
+15,01(VGA)
+15,01----
+15,01ci-beast.jpg,EXTERNAL,The Beast,Cyberise
+15,01ci-lips.jpg,EXTERNAL,Lips,Cyberise
+15,01ci-mind.jpg,EXTERNAL,In My Mind,Cyberise
+15,01di-bd2.jpg,EXTERNAL,Eyes,Digital Interface
+15,01ffh-mtv.jpg,EXTERNAL,MTV,Fire From Heaven
+15,01hf-angr.jpg,EXTERNAL,Anger,hFaze
+15,01hf-euth.jpg,EXTERNAL,Euthanasia?,hFaze
+15,01hf-tv.jpg,EXTERNAL,TV,hFaze
+15,01hf-wtr.jpg,EXTERNAL,Water,hFaze
+15,01id-shark.jpg,EXTERNAL,Shark,Ian Dale
+15,01ja-reign.jpg,EXTERNAL,Reign,Jae
+15,01ls-sly.jpg,EXTERNAL,Sly Stone,Lord Soth
+15,01me-crime.jpg,EXTERNAL,Crime Scene,Megalith
+15,01mi-end.jpg,EXTERNAL,End,Mongi
+15,01pn-lunat.jpg,EXTERNAL,Lunatic,Pnakotic
+15,01pn-srpnt.jpg,EXTERNAL,Serpent,Pnakotic
+15,01psy-lg1.jpg,EXTERNAL,iCE,Psyanide
+15,01psy-musc.jpg,EXTERNAL,Music,Psyanide
+15,01sd-crstl.jpg,EXTERNAL,Crystal,Shadow
+15,01sk-self.jpg,EXTERNAL,Self-Portrait,Sprite
+15,01ss-pilot.jpg,EXTERNAL,Pilot,Steven Stahlberg
+15,01ss-tokim.jpg,EXTERNAL,Girl,Steven Stahlberg
+15,01tr-nymf.jpg,EXTERNAL,Nymph,Tear
+15,01tr-scare.jpg,EXTERNAL,Scare,Tear
+15,01tr-star.jpg,EXTERNAL,Star Girl,Tear
+15,01tw-bordr.jpg,EXTERNAL,Border Patrol,Tim Wallace
+15,01tw-ice1.jpg,EXTERNAL,iCE,Tim Wallace
+15,01tw-ktchn.jpg,EXTERNAL,The Cook In The Kitchen,Tim Wallace
+15,01tw-postc.jpg,EXTERNAL,Postcard,Tim Wallace
+15,01tw-smrfn.jpg,EXTERNAL,Fountain,Tim Wallace
+15,01us-jelly.jpg,EXTERNAL,Jello,Squidgalator2/MW
+15,01ve-back.jpg,EXTERNAL,iCE T-Shirt,Vesalius
+15,01wx-atimr.jpg,EXTERNAL,Absolut Timer,Wix
+15,01wx-mndla.jpg,EXTERNAL,Kosmopol Mandala,Wix

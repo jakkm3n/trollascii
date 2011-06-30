@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                  N  O  V  E  M  B  E  R     1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+15,011.  The boys and girls of the chilliest crew in the art scene return this month
+15,01sporting  new  action  figure toys!   Yes, you too can have  your  own  quality
+15,01Lemonade, Tetanus, Lord Soth, and more!  And, for a limited time,  get a flashy
+15,01Syntax Error action figure!   Fight the evil  figures from  rival groups!  Save
+15,01the art scene from the family dog!  The possibilities are endless!  Only $19.95
+15,01each + shipping!
+
+15,012.  After well over a year of  service to the group,  the senior staff foursome
+15,01of  Force Ten/Friar Tuck/Lord Soth/Syntax Error is no more.   Three of the four
+15,01have stepped down to member status.  Friar Tuck will rejoin the coding section,
+15,01Lord Soth  will rejoin  the  ANSI/VGA departments,  and Syntax Error  will be a
+15,01member coordinator. Best of luck to all three in their less-stressful roles! :)
+
+15,013.  In a related note,  we grabbed two enterprising advisors and convinced them
+15,01to be senior staff. Welcome Cold and Ugly and Mass Delusion to the Senior Staff
+15,01of iCE, promoted from the Advisory Council! =)
+
+15,014.  The aformentioned promotions left a hole in the Advisory Council.  Stepping
+15,01up to help the group is BoA, our Logomafia king and longtime iCE member!  He'll
+15,01do a great job for the group.  Congratulations, BoA!
+
+15,015.  It was reported in the IRCNews(tm) today that Aneurysm is responsible for a
+15,01recent outbreak of mysterious brown goo in bathrooms in the Northern New Jersey
+15,01area. The heinous sludge appears without cause or explanation, and is extremely
+15,01diffiult to clean.  More on this later.
+
+15,016.  ice.org update:   the servers are back  on-line with our new provider and a
+15,01faster connection!   The web and ftp  sites are back,  and shell account e-mail
+15,01will  be flowing  again during  this month.   Sorry for  the inconvenience  and
+15,01thanks for your patience!
+
+15,017.  After carving its own splendid impression into the art scene,  Apathy is no
+15,01more.   We're fortunate to have been able to welcome Apathy into iCE.   Joining
+15,01the crew from Apathy are:  Misfit, P-Chan, Prizm, Trip,  and Degenerit.  Others
+15,01may follow shortly.  Welcome aboard!
+
+15,018.  The 3:11 commuter train pulled up  this  month and  dropped several blanket
+15,01wrapped artists to iCE's doorstep!  Also joining were Noodles & Kyp in the ANSI
+15,01section, and Azrael and Twitch to the VGA/RIP section.
+
+15,019.  Leaving this month on the same train and heading into the  sunset are Snake
+15,01Grunger and Egoteq.  We wish them luck in their future endeavors.
+
+15,0110. Recently, it has been reported that iCE has been found on the dark side of
+15,01the moon.  This is further evidence of our universal appeal! 9 out of 10 aliens
+15,01agree: iCE is out of this world!
+
+15,0111. We would like to  take the opportunity  to dispel rumours that the group is
+15,01indeed a subsidiary of Microsoft with a sole  purpose to dominate the art scene
+15,01for Microsoft Windows 95.  The pack will NOT be called Microsoft Ice (mm/yy) 95
+15,01anytime soon!   We do not know who started these vicious lies,  but they're not
+15,01true.  Right, Bill?
+
+15,0112. Please note that the proper term  of endearment  for new  staffers Cold and
+15,01Ugly and Mass Delusion is "newbie". =)
+
+15,0113. Another great month.  There's been a lot of talk and a lot of bologna  from

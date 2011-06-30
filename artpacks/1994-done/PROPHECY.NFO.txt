@@ -1,0 +1,18 @@
+15,01                                                                             
+15,01      |""""""||""""""||"""""||""""""||"""||""|"""""""|""""""||"""||""|
+15,01      |mmmmm "|mmmmm "|mmmm "|mmmmm "|-+ ||--|mmmmmmm|mmmmm "|==+||  |
+15,01           |--|    |--|   |=-|    |--| | ||--|            |- |-+|||=-|
+15,01      |"""|" m|"""|" m|"""|  |"""|" m| | |"# |""""|  |"""||mm| |||" m|
+15,01      |   |mm||-+ |m ||+--|-=|==+|mm||+| |m--| # m|  |=+ |   |++||mm|
+15,01      |--+|   |+| || "|++#|  |-+||   ||++|| #|-++|   |#+=||""||#+|
+15,01      |=#+|   |||#||  |-+ |=-|#|+|   ||#|||-- #++|   |---|| #||# |
+15,01      |   |   |++-||==|m==| m14,15 15,01-+ |   |+-+||==|===""""|m- - -m|+--|      
+15,01      |mmm|   |mmm||mm||mm14,15 15,01m||mmm|   |mmm||mm14,15 15,01mmmmmmm||mmmmm||mmm|            
+
+15,01      Computer Arts Oriented 0 6oo Mb Online 0 NO RATIOs for Everyone
+15,01         Creativity Demo Network 94:77O/2OO Centre/North Italy Hub
+15,01          Damage iNC Italian HeadQuarter 0 MAUi Distribution Site
+15,01              OPTiK Italian OutPost 0 Renegade Support Areas
+15,01              Programming ToolKits 0 Huge Modules Collection
+15,01                 The Only Demos/ArtS Based Board in Italy!
+15,01                     FidoNet 2:335/342 0 SySoP WaRRioR

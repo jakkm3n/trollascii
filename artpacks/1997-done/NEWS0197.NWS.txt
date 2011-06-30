@@ -1,0 +1,80 @@
+
+00,01 15 00   _ __ __________ 15  00__ ______,-,,,______ _15 00__ _,--,____ __ _     
+15,01          00__\      /_____//    \\_       /__    \\\      |-,_______ __
+15,01        00.:|___ 15   00___15 00   \15       00`\__15      00/______\_15     00|15   00   _//
+15,01             00|  15 00\\_/'15   00//15   00|  15   00|_15     00\15 00     _/'15    00|15     00 _\
+00,01 .:::: : :..::: 15   00 15 00___/; 15   00|15     00_/15     00/15    00` `\______ 15     00;\..::::::. .
+15,01 00:.. . . .15   00|15 00 15     00\\_15     00:::15   00|||15    00//15      00;\15     00|15       00/ 15  00. .::: :
+00,01  15      00 :..:| 15       00 /15      00|15     00\15     00\ 15      00//15    00:::15    00//. ..:
+15,01            00_|15      00 ``\_15         00__/15     00\\ 15    00 /; 15    00|15     00/_
+15,01        00/ //____        /___    .:|______       //\___        __/
+15,01          00. .://___,-,__\15  00/____,---':.15 00/___   __\15   00`-,______\\ \
+15,01          00: ..::::15  00polyester newsletter15   00:`-'15 00the lord god mHz[ACiD]
+15,01                 00:.. . .::::::.. .. . . ::::
+15,01                                                                             
+15,01   00!@#$%15 odd that when you have to pee bad and when u do you feel good 00!@#$%15 
+15,01                                                                             
+15,01    ack..00another15 month. another newsletter forced upon you. phooze shall be  
+15,01    all newsletters now on...and that is part of this months news that will  
+15,01    revealed to you in a matter of moments(or never if your scroller broke)  
+15,01    regardless, polyester is on pack number 00two15.   brief discussion of this  
+15,01    is later.                                                                
+15,01                                                                             
+15,01   00!@#$%15  artificial intelligence is _00no15_ match for natural stupidity  00%$#@!15 
+15,01                                                                             
+15,01    ok, now on with the good 00sctuff15..(ugh isnt that a cool word: sctuff. it  
+15,01    just kinda rolls of your tongue..schtuff...anyway on with the massacre:  
+15,01    here at 00polyester15 we are so talented that we know stuff (schtuff,maybe)  
+15,01    that is beyond the call of your 00average15 ansi/ascii group.  yes, we dare  
+15,01    to know something:  (irc log from 00late15 dec 00late15 night):                  
+15,01                                                                             
+15,01    <00koDEN15> there's some guy in #rgu trying to say a t1 is faster than a t3  
+15,01    <00phooze15> #rgu?                                                           
+15,01    <00koDEN15> #rgu = home of the 714 elite                                     
+15,01    <00phooze15> oh                                                              
+15,01    <00phooze15> but a t1 is faster, here's why:                                 
+15,01    <00koDEN15> :)                                                               
+15,01    <00phooze15> ok: a t1 has one byte of transmittion for each byte of data: (  
+15,01    +hence 't1') while a t3 has three transmittions for each byte of data..  
+15,01    +one for the CTS byte, another for actual data,and the 3rd byte for the  
+15,01    +CRC on the second. so therefore the t1 is faster but less reliable for  
+15,01    +errors that come from line noise (gotta have fiber optic line noise..)  
+15,01    (koDEN doesnt respond, personally i think he realized he was wrong!)     
+15,01                                                                             
+15,01   00!@#$%15  two guys walk into a bar ... the third one ducks - intensity 00%$#@!15 
+15,01                                                                             
+15,01    (intensity 00grabs15 the keyboard and demands himself to be heard.)          
+15,01                                                                             
+15,01      ok... i am here.. i came into the group hrm... what was it saturday..  
+15,01    yeah...saturday the 20th so i have been here for a short amount of time  
+15,01    at first it was just a casual thing to do over xmas break,but polyester  
+15,01    is an intersting combination, akin to the diamond in the rough theory..  
+15,01    of course there are a bunch of lameass groupie people who are in for no  
+15,01    reason i can see (not mentioning any names), but there is some true raw  
+15,01    talent, that is improving.. sure this is nothing like acid or any other  
+15,01    groups i have been in, because it is close-knit and relatively politics  
+15,01    free group... high productivity - due to less critisism and more help..  
+15,01    anyways enough chit-chat..my intentions are to simply ride along & help  
+15,01    along with tK and some other backbone members..... things will start to  
+15,01    rock here and we will prolly take the scene by storm  ;)... anyways..on  
+15,01    to less personal stuff... (as if there is much heh..)                    
+15,01                                                                             
+15,01                         -+-00chapter15 00215.. 00whoops15 -+-                           
+15,01                                                                             
+15,01   00.15 i came in this month replacing drseuss as inet coordinator, in addition 
+15,01    to being a senior staffer.. he was then reduced to a vga primate/gopher  
+15,01                                                                             
+15,01   00.15 grey became the new ascii dpt head,replacing empty who quit due to time 
+15,01    management problems (cough) traitor (cough)                              
+15,01                                                                             
+15,01   00.15 kryptik aka "dead elmo" became a groupie... non-official, but hey, he's 
+15,01    our human pinata...                                                      
+15,01                                                                             
+15,01   00.15 bC was christened senior staffer...for no apparent reason (biased cmnt) 
+15,01                                                                             
+15,01   00.15 phooze is now the offical pr head (bwahhaha..), who after all that hard 
+15,01    work on the spiffy website needed some sort of title.. ;x (phooze pipes  
+15,01    in: www.cris.com/~Lobe/poly)                                             
+15,01                                                                             
+15,01   00.15 stupid people were bountiful on the net..ranging from your average joe  
+15,01    lamer to super-morons (cough) pyscho (cough)

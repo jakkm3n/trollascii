@@ -1,0 +1,36 @@
+15,01                             AREA LiSTiNG
+15,01                             ------------
+15,01                        ! = Sysop Access only
+15,01                        # = Areas you must carry
+15,01                       
+15,01                        !#CIP-SYS    Sysop Base
+15,01                        !#CIP-TEST   Test Messages
+15,01                         #CIP-MISC   General Chatter
+15,01                          CIP-ANSI   ANSi Base
+15,01                          CIP-LIT    Literature
+15,01                          CIP-RIP    RiP Discussion
+15,01                          CIP-HVK    Havok Discussion
+15,01                          CIP-WARE   Warez Talk
+15,01                          CIP-CONS   Console / Arcade
+15,01                          CIP-HP     Hacking / Phreaking
+15,01                          CIP-BBS    BBS Software
+15,01                          CIP-ADS    BBS Ads
+15,01                          CIP-BMKT   Black Market
+15,01                          CIP-DEBT   Current Debates
+15,01                          CIP-MUSC   Musical Interests
+15,01                          CIP-GTIP   Game Tips
+15,01                          CIP-ENT    Entertainment
+15,01                          CIP-SPRT   Sports Forum
+15,01                          CIP-PROG   Programming
+15,01                          CIP-HARD   Hardware
+15,01                          CIP-SUGG   Suggestions
+15,01   
+15,01   Changes Since Echolist #3
+
+15,01        Added CIP-RIP  = RIP Discussion
+15,01        Added CIP-HP   = HP Discussion
+15,01        Added CIP-LIT  = Literature 
+15,01        Added CIP-WARE = Warez Discussion
+
+15,01        Deleted CIP-GRPS = Group Discussion
+15,01        Deleted CIP-NREL = New Releases

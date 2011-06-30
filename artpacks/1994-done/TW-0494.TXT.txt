@@ -1,0 +1,80 @@
+
+15,01                04m13,04#14 04,01"|13,04# 04,01m m04,04 13#04,01|06"14,11 13,06#06,01m15     04m13,04#14 15,01     04m14,04 13#04,01|"14,04 13#04,01m m04,04 13#04,01|
+15,01               04|13,04#04@14#04,01 |04,04@13#14#04,01 14,04#13#04@04,01| 14,11#04,06@13#06,01|   04|13,04#04@14#04,01"14,04# 04,01m 14,04#13#04@04,01| 14,04#04@13#04,01|14,04#13#04@04,01|
+15,01               04|04,04@13,13#13,01@04 |13,13#04,04@13,01@04 13@04,04@13,13#13,01| 10@13,13#04,06@06,01|13@13,13#04,04@04,01|04,04@13,13#13,01@04 13@04,04@13,13#04,01|13@04,04@13,13#13,01| @13,13#04,04@04,01|13@04,04@13,13#13,01|
+15,01               13|13,13##04,01# 13|13,13##04,01# #13,13##13,01| 11#13,13##13,01|04#13,13##13,01|13,13##04,01# #13,13##13,01|04#13,13##13,01| 04#13,13##13,01|04#13,13##13,01|
+15,01                13,13#04,06@11,01# 13|04,06@13,13#11,01# #13,13#04,06@13,01| 04#04,04@13,13#13,01|11#04,06@13,13#13,01|13,13#04,06@11,01# #13,13#04,06@13,01|11#13,13#04,06@13,01| 11#04,06@13,13#13,01|11#13,13#04,06@13,01|
+15,01                    06|13,06#04@10,01@11 10@04,06@13#06,01| 13@13,04#04@04,01|10@13,06#04@13,01|04,06@13#10,01@11 10@04,06@13#06,01|10@04,06@13#06,01| 10@13,06#04@06,01|10@04,06@13#06,01|
+15,01                    06|06,06 13#14,11#11,01 14,11#13,06# 06,01| 04""" 14,11#11,06 13#06,01|13,06# 14,11#11,01 14,11#13,06# 06,01|14,11#13,06# 06,01|m14,11#11,06 13#06,01|14,11#13,06# 06,01|
+15,01                    06|06,06  14,11 11,01 14,11 11,06  06,01|15     14,11 11,06  15,01 06"06,06 14,11 06,01|14,11 14,06 06,01" 14,11 11,06  06,01| 14,11 11,06  06,01|14,11#11,06  06,01|
+
+15,01             04m13,04# 04,01||13,04# 04,01|14,04 13#04,01m  m04,04 13#04,01|06"14,11 13,06#06,01m15     04m13,04#14 04,01"|13,04# 04,01m m13,04#14 04,01"14,04 13#04,01m m13,04#14 04,01"14,04 13#04,01m
+15,01             14,04#04@13#04,01||04,04@13#04,01|14,04#04@13#04,01| 14,04#13#04@04,01| 14,11#04,06@13#06,01|   04|13,04#04@14#04,01 |04,04@13#14#04,01|13,04#04@14#04,01 13,04#04@14#04,01|13,04#04@14#04,01 13,04#04@14#
+15,01             13@13,13#04,04@04,01|13|13,13#04,04@04,01|13@13,13#04,04@04,01| 13@04,04@13,13#13,01| 10@13,13#04,06@06,01|13@13,13#04,04@04,01|04,04@13,13#13,01@04 |13,13#04,04@13,01@04|04,04@13,13#13,01@04 04,04@13,13#13,01@04|04,04@13,13#13,01@04 04,04@13,13#13,01@
+15,01             04#13,13##13,01||13,13##13,01|04#13,13##13,01| 04#13,13##13,01| 11#13,13##13,01|04#13,13##13,01|13,13##04,01# 13|13,13##04,01#13|13,13##04,01# 13,13##04,01#13|13,13##04,01# 13,13##04,01#
+15,01             11#04,06@13,13#13,01||04,06@13,13#13,01|11#04,06@13,13#13,01| 11#13,13#04,06@13,01| 04#04,04@13,13#13,01|11#04,06@13,13#15,01 13,13#04,06@11,01# 13|04,06@13,13#11,01#13|13,13#04,06@11,01# 13,13#04,06@11,01#13|13,13#04,06@11,01# 13,13#04,06@11,01#
+15,01             10@13,06#04@13,01|06|13,06#04@13,01|10@13,06#04@13,01| 10@04,06@13#06,01| 13@13,04#04@04,01|10@13,06#04@15,01     06|13,06#04@10,01@13|04,06@13#10,01@06m04,06@13#10,01@06|04,06@13#10,01@11 06mm
+15,01             14,11#11,06 13#06,01||06,06 13#06,01|14,11#11,06 13#06,01| 14,11#13,06# 06,01| 04""" 14,11#11,06 13#15,01     06|06,06 13#14,11#06,01|13,06# 14,11#11,01 06mm11m 06""  13,06# 14,11#
+15,01             11|11,06  06,01|14,06 06  14 14,11 11,06  06,01| 14,11 11,06  06,01|15     14,11 11,06  15,01     06|06,06  14,11 11,01 06"06,06 14,11 06,01|13,06# 11,01"06|13,06# 14,11 11,01 11,06  11,01"
+15,01                                                              (mt)
+15,01 14------------------------------------------------------------------------------
+14,01   04T13R15i00BAL WRiTES - 04T13h15e 00TR13i00BE Newsletter - 04V13o15l00ume #1 / 04I13s15s00ue #11 - 04A13p15r00il 1994
+00,01 14------------------------------------------------------------------------------
+
+14,01 13#  00The poop, for those of you out of the loop is, TRiBE was briefly disbanded
+00,01    and restarted.  The whereas and whyfores aren't important here.  The result
+00,01    was everyone was stripped of thier TRiBAL Status and only certian people
+00,01    extended invitations to join or re-join the new TRiBE.  You can read the
+00,01    OLDTONEW.NFO file (originally intended to be an Iridium Article, but as you
+00,01    can plainly see, Iridium has major problem just releasing an issue these
+00,01    days) for more information.  Regardless, this is not the same group.
+
+00,01 13#  00TV is here.  SiDS rejoins TRiBE after the Gothic fiasco and finishes what
+00,01    we started in his previous stint, TRiBE ViEW.  TV is *STiLL* a Beta of the
+00,01    pre-1.0-release.  Even as such it is clearly the hands down winner of the
+00,01    new generation of viewers today.  As Hitman said, "Damn.. I've got alot of
+00,01    work to do in the months ahead."  You can (and should) report any BUGS to
+00,01    us, perferably over IRC or netmail (sids or shihear @cyberspace.com).  It
+00,01    does everything everyone else does, better, and we've still not got all of
+00,01    our plans emplimented.  Look for a major update next month.  We welcome
+00,01    any suggestions or feedback you might have.  ("Hey, SiDS, come join iCE."
+00,01    is not the type of suggestion we're talking about, PAWL!)
+
+00,01 13#  00Yes.  There are a total of 6 Artists in TRiBE as of this pack.  Yes.  It
+00,01    only contains 6 .TRI files (4 ANSi's and 2 Logo's, er, and one Menu Set).
+00,01    This is the FIRST TRiBE Archive where I can stand up and say that there's
+00,01    nothing in here that *I* wouldn't want for my board.  Nothing *I* wouldn't
+00,01    use, and nothing I'm not PROUD to have associated to me or TRiBE.  All of
+00,01    you artists out there, stop, look at the packs of your respective groups
+00,01    and ask yourself if you can say the same. . .  food for thought, no?   It
+00,01    is time to put to test the "Quality over Quantity" theory once and for all.
+00,01    ACiD proclaims 50+ Artists, but only some 30+ pieces of Artwork last pack.
+00,01    iCE has simular distribution of artist to artwork ratios.  We're batting
+00,01    a thousand so far, 6 Artists, 6 Pieces of Art by those 6 Artists. . .
+00,01    TRiBE is and will remain a SMALL group in respect to the size of it's
+00,01    Membership.  You will never see a 1 meg TRiBE Archive, true, but ONLY
+00,01    because you won't see us trying to scarf up anyone who comes along, and
+00,01    let them sit there for ages doing nothing at all.  This pack could have
+00,01    contained more artwork, nearly a piece per day delayed.  It was, however
+00,01    released ON TIME, before Midnight MST on the 10th of the Month, and will
+00,01    continue to be so from here on.
+
+00,01 13#  00Rumor control: Syntax Error is not Gay.  He's a mean, grumpy old fart.
+
+00,01 13#  00This is Quazar.  I hope that you all are enjoying the pack <as small as
+00,01    it may be>, if you are wondering why there is a massive difference in
+00,01    the ammount of ansis, just talk with the guys at NATiON.  I am not here
+00,01    to rag on the group, even if I am totally disgusted with their stunt
+00,01    early in the month, but I'd like to say a few things.  I dont usually
+00,01    write in the "TRiBAL WRiTES", but I am going to do it any ways.  All
+00,01    you guys at NATiON: I hope that one day, you will realize what a big
+00,01    mistake it was you all made. . . Need I stress the word 'big'?  Surely
+00,01    not.  I had a feeling that TRiBE would at one point go 'sour' in a
+00,01    sense.  Most all groups have this problem, <i.e. iCE's 'sour' was
+00,01    Valiant, and whatever else.  etc.> and I was hopeing that it wouldnt
+00,01    have happened to TRiBE.  I am letting the public know now, that I plan
+00,01    to stay with TRiBE, as long as the group is still alive.  And that
+00,01    could be a while, considering if Shihear was ever to leave the group,
+00,01    I would want the "pack organizer" position to be passed down to me.
+00,01    TRiBE, in my "oh-so-humble" opinion, is probably the best group I have
+00,01    ever taken part in.  TRiBE is <all-in-all> "Wonderful".  I am glad

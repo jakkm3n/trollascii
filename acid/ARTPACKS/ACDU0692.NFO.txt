@@ -1,0 +1,55 @@
+
+15,01   #------------------------------------------------------------+
+15,01   |  "The Acquisition" - Contains A-Z of the ANSi Collection.  |
+15,01   |  Background History:    The Acquisition was originated in  |
+15,01   |  San Jose, California.   After  it had been organized and  |
+15,01   |  its contents  sorted,  it  first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To  this day the original zips are still  |
+15,01   |  floating around,  but  as  more  and  more high  quality  |
+15,01   |  computer graphics  are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                    |
+15,01   +============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |    The Acquisition : May Update *      June  1st, 1992    |
+15,01   +-----------------------------------------------------------+
+15,01     || Note: The file ACDU0692.ZIP is only an update of the ||
+15,01     || latest ANSis not  included  in  the  May Aquisition. ||
+15,01     ++-- --  -  -                                -  -  -- --++
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01*|1  |ACID-QS  ANS |   4414 | 5.19.92 |%   | ACiD Logo                    (8)|
+15,01*|2  |ACID92   ANS |   5827 | 5.28.92 |%+  | ACiD Member List for May        |
+15,01*|3  |ACIDZN1  ANS |  22077 | 5.15.92 |%+  | ACiD Productions Logo/Members   |
+15,01*|4  |BARTMAN2 ANS |   8397 | 6.28.92 |%+  | Bart Man     - "ACiD Rules"     |
+15,01*|5  |BCACID2  ANS |  10670 | 5.11.92 |%+  | Body Count                   (2)|
+15,01*|6  |BCH1ACID ANS |  30311 | 5.14.92 |%A+ | Burning Chrome                  |
+15,01*|7  |BLCACID2 ANS |   9284 | 5.11.92 |%+  | Blue Light Cemetary             |
+15,01*|8  |DPG1ACID ANS |  28223 | 5.14.92 |%+  | The Devil's Playground          |
+15,01*|9  |FB1ACID  ANS |   6942 | 5.04.92 |%+  | FlashBack BBS ware Logo         |
+15,01*|10 |FFACID3  ANS |  12621 | 5.20.92 |%+  | Final Fantasy                (3)|
+15,01*|11 |HELLACD2 ANS |   7482 | 4.24.92 |%x  | The Depths of Hell           (2)|
+15,01*|12 |SH-ACID1 ANS |   9982 | 5.14.92 |%+  | Splatter House                  |
+15,01*|13 |SOKRACD2 ANS | 111547 | 5.16.92 |%A+ | So-Krate's BBS                  |
+15,01*|14 |SOT1ACID ANS |  13442 | 5.27.92 |%+  | Sea of Tranquility              |
+15,01*|15 |TED1ACID ANS |  12789 | 5.03.92 |%+  | The Elusive Dream               |
+15,01*|16 |TRACFIST ANS |   7339 | 5.25.92 |%A  | File Stats Screens              |
+15,01*|17 |TRACMAST ANS |   4998 | 5.25.92 |%+  | Main Stats Screens              |
+15,01*|18 |VOIDACD1 ANS |   4478 |12.29.91 |%   | The VOID                     (1)|
+15,01*|19 |WSACID   ANS |   7507 | 4.24.92 |%+  | The Warez Shoppe                |
+15,01*|20 |ACDU0692 NFO |   3715 | 6.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = ANSiMated             |
+15,01  | M = ANSi Music           + = Scrolling             |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 20         Average Compression Rate: %78  |
+15,01  |   Total Bytes: 321,595    Total Bytes Zipped:    74,712  |
+15,01  |                                                          |
+15,01  +----------------------------------------------------------+

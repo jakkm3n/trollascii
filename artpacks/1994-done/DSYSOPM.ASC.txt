@@ -1,0 +1,5 @@
+
+15,01+============================+ SYSOP DATABASE MENU +==========================+
+15,01| O) Re-order databases    R) Rename database    C) Change entry    Q) Quit   |
+15,01| E) Set access level      K) Kill database      D) Delete entry              |
+15,01+=============================================================================+

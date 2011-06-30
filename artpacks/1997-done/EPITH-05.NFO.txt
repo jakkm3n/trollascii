@@ -1,0 +1,70 @@
+15,01--------------------------------------------------------------------------
+15,01                                        Dark Demo -- Program Information
+15,01--------------------------------------------------------------------------
+
+15,01Code by:  Epitaph
+15,01Graphics by:  Epitaph
+15,01Music by:  Magmalus (an old MOD I found)
+
+
+15,01General Information :
+15,01=======================
+
+15,01*** MAKE SURE TO VIEW THIS DEMO WITH SOUND! ***
+
+15,01This demo NEEDS the sound to play, otherwise the cool effects won't run!
+15,01It's synchronized to the music.  Without music, it'll still look cool, but
+15,01remember -- you're missing out!  Read the next section for info on getting
+15,01the sound to run.
+
+
+15,01Problems / Fixes / Answered Questions :
+15,01=========================================
+
+15,01The main problem will be the .MOD not playing or not loading.  There are
+15,01(as always) several reasons for this:
+
+15,01     # Not enough free conventional memory available
+15,01       + You must have at least 600k free base RAM (it may work with
+15,01         about 580k, but if you don't have too much free, that's your
+15,01         problem.)
+
+15,01     # You're running Windows95 and it's done something silly
+15,01       + I won't be the first one when I say that Windows95 does some
+15,01         really stupid things while trying to emmulate DOS.  If the MOD
+15,01         doesn't play, quit your DOS window, open a new one and try
+15,01         to run it again.  If that doesn't work, reboot in DOS.
+
+15,01     # Incompatible Memory Managers
+15,01       + Often called IMM's, these wonderful programs sit in memory and
+15,01         try to move pieces of RAM around while the program is running.
+15,01         Now, I have no idea how the .MOD player works -- there's no
+15,01         source -- but I'm certain that EMM386 and possibly QEMM will
+15,01         mess it up.  If it doesn't run, that might be your problem.
+
+15,01     # Fate has it in for you
+15,01       + The bhuddists believe in fate, or a pre-determined path in life.
+15,01         If the universe has it in for you, there's no way you're going
+15,01         to be able to run this demo.  Tough luck!
+
+
+15,01History :
+15,01===========
+
+15,01Okay, well, the thing was coded badly -- I admit that.  It's not really the
+15,01code, but the compiler and the MOD player that make it horrible. It was done
+15,01using Turbo C++ and a really crappy MOD library, all for real mode.  I
+15,01wanted to rewrite it for Watcom C++, but there's so many things I'd have to
+15,01redo that it wouldn't be worth it.
+
+15,01This thing was finished in June, and wasn't released until September because
+15,01of a bunch of weird stuff.  It would've come out in the July pack, but that
+15,01wasn't released.  I held out in August because I wanted to re-code it in
+15,01Watcom C++ to make it faster, but didn't.  Now, here it is, finally.
+
+15,01ENJOY!
+
+15,01                                - Epitaph
+15,01                                 (Dark / Twisted Fishies)
+15,01>SAUCE00Dark Demo Information              Epitaph             Dark Illustrated 
+15,01   19970824$                                     

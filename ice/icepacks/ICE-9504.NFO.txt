@@ -1,0 +1,76 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01ice ice ice ice ice ice 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m nfo nfo nfo nfo nfo nfo
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,011. Welcome to the April #     |14,15   15,01  00@15  "    |14,15 15,01|   00@15       iCE  Pack!   This  is
+15,01   Cheese Grater here      #   14,15  15,01   #     #  "14,15 15,01   #  "   writing to you for the
+15,01   first time.  This month 00@15  # "|  #     00@15    "     # we the Senior Staff were
+15,01   joined again by Aphex   14,15#15,01   |m         14,15#15,01       #    Twin,  now  returned for
+15,01   the summer from college. m    00@15         |          .
+15,01                                          #     .
+15,012. We've had an influx of new members this month and what a great lot they are.
+15,01   Asphixia  and  Grateful Dead have  joined us from ACiD,  also  Chromatik and
+15,01   and last but not least the two brothers Grimace and Turtle.  To the VGA
+15,01   Department we received Azagoth, Falic, and Jamie McCarter.  Also, Airborn is
+15,01   a new Member, and our Web Master, White Knight, finally got listed this
+15,01   month.  Gratz to you all!!
+
+15,013. The iCE World  Wide Web Home  Page is now  fully operational!   It is  still
+15,01   being  improved each  day, but you  can now enjoy  all the art  and graphics
+15,01   from iCE.  From the iCE Home Page,  you can also access other members' pages
+15,01   as well.   ANSIs from the most current iCEPack are also  viewable as well as
+15,01   the VGA.  HTTP to http://www.wit.com/~ice
+
+15,014. With the  new release of  iCEView 0.64,  it now supports some new  features,
+15,01   such as  multiple file-tagging  and viewing.  But most  importantly, iCEView
+15,01   now supports  external viewers.  This can be set up in the ICEVIEW.CNF file,
+15,01   and allows you to do  such things as add in ability to  play *.S3M and *.MOD
+15,01   with DMP,  *.JPG with Qpeg (the  recommended JPeg viewer*), etc.  This opens
+15,01   the  possibility of  setting it up  to even run  Word Perfect on *.WPD, etc.
+15,01   iCEView does not perform a CRC Check on the external viewers.
+
+15,01   * Qpeg is available at ftp.wustl.edu   /pub/msdos_uploads/graphics
+
+15,015. This month  we have configured  iCEView to run a  seperate viewer, PView, on
+15,01   all pictures not  viewed internally in  iCEView.  This is in no way the best
+15,01   viewer out there, although  it is very small and views  an ungodly amount of
+15,01   formats.  But we  must warn you  that it can very somewhat unstable, such as
+15,01   when under DesqView.  But  this month  iCEView now has  the ability to view:
+
+15,01       JPG,TIFF,IFF,LBM,CUT,BMP,PCX,PIC,TGA,RLE,PCD,ICO,EPS,WPG,IMG,MSP,
+15,01       MAC,RIX,VMG,FLM,PNM,PCC,PBM,ACBM,CEG,VI,DCX,RAS,PMC,ANI,DAT,SCR,
+15,01       RAW,SFI,SGF,TXT,BAT,HLP,LST,SAT,CVP,FLI,FLC,DL,GL,SLD,AVI
+
+15,01   Although, with the external viewer support, iCEView can  display, play, run,
+15,01   hide, eat, and create an unlimited amount of formats :)
+
+15,016. This  month sees the second  special release.  We are  releasing some of our
+15,01   winning releases at NAID.  In the music competition, the top 4 winners were:
+
+15,01       *1st - Necros  [LD/PM/FM/iCE] - Ascent of the Cloud Eagle
+15,01        2nd - Maelcum         [KFMF] - HitchHiking
+15,01       *3rd - Basehead [KFMF/FM/iCE] - Can't Fake the Funk
+15,01        4th - Mosiac       [Ren/iCE] - Tears
+
+15,01   Also, taking 4th in the public choice awards for the Intro Competition,
+15,01   Friar Tuck [iCE] and DareDevil [Ren] created in an afternoon Pisstro!
+15,01   The special release this month contains Pisstro, and the above songs
+15,01   marked with an asterisk, along with Inertia Player to play the songs.
+
+15,01                                        Have fun viewing!
+15,01                                        - Cheese Grater [iCE SS]
+
+15,01+=============================------------------==============================+
+15,01|              ... Aphex Twin .. Cheese Grater .. Lord Soth ...               |
+15,01+=============================------------------==============================+
+15,01>SAUCE0004/95 iCE Info                     iCE Staff           iCE              
+15,01   19950501z<  @@P v                             

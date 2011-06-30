@@ -1,0 +1,80 @@
+00,01@14,15##################00,01@
+14,15#15,01 The Enchanter    14,15#
+14,15#15,01   by Cyber Quail 14,15#
+00,01@14,15##################00,01@
+
+
+
+15,01The Enchanter,
+15,01He is mighty,
+15,01He is great.
+
+15,01He has the power to destroy,
+15,01Or to create.
+15,01He can raise a mountain,
+15,01Or sink an island.
+15,01He can call down the lightnings,
+15,01Or quell a storm.
+
+15,01The Enchanter,
+15,01He is mighty,
+15,01He is all-powerful.
+
+15,01The Enchanter can alter the flow of time.
+15,01He can see the truth in men's lies.
+15,01He can make slaves out of the proudest of men.
+15,01His very name causes heroes to shake in fear.
+
+15,01The Enchanter,
+15,01He is mighty,
+15,01He is unequaled in power.
+
+15,01He can kill with a word,
+15,01He has mastered time and nature,
+15,01He spits in the face of gods,
+15,01He has enslaved mankind,
+15,01He has been to the stars and back,
+15,01His power is only matched by his pride.
+
+15,01The Enchanter,
+15,01He is mighty,
+15,01He is ageless.
+
+15,01The Enchanter has out lived,
+15,01All his enemies.
+15,01He is older then the moon.
+15,01He bore witness to,
+15,01Mother Earth's birth.
+
+15,01The Enchanter,
+15,01He is mighty,
+15,01He is doomed.
+
+15,01He has conquered all,
+15,01Save one.
+15,01He is undefeated in all battles,
+15,01But his greatest battle is yet to come.
+15,01He fears no force in this,
+15,01Or any universe,
+15,01Save one.
+
+15,01The Enchanter,
+15,01He is mighty,
+15,01He is mortal.
+
+15,01The Enchanter,
+15,01He is old,
+15,01But Death is far older.
+
+15,01The Enchanter
+15,01He is great,
+15,01But Death's power is unfathomable.
+
+15,01The Enchanter,
+15,01He was defeated,
+15,01By the only true everlasting power.
+15,01The Enchanter,
+15,01He is dead.
+
+
+

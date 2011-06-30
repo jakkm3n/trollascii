@@ -1,0 +1,27 @@
+15,01------------------------------------------------------------------------------
+15,01                                 -=ECLiPSE=-
+15,01                              July '94 Art Pack
+15,01------------------------------------------------------------------------------
+
+15,01    Ok, so here we are again, ECLiPSE.  There have been a lot of changes over
+15,01the past month, including the dropping of a few members, so this pack doesn't
+15,01include very much artwork.  However, we feel that what is here is better than 
+15,01what was included in last month's pack.  
+
+15,01    We have also had the pleasure of recruting a new coder, Travis Bickle.  
+15,01He's new to the whole BBS thing, and unfortunately doesn't have a very good 
+15,01sense of what people are looking for, but once he gets into things he'll be
+15,01the creator of some great demos for us.  He's also quite a talented VGA artist,
+15,01but again, he doesn't know what people are looking for.  We decided to include
+15,01one of his best pieces, made with a graphics program that he wrote.  
+
+15,01    Other than that, there's not much new...  We have an apps program, so now
+15,01you don't have to fill out that ansi pic made by Dragon any more (heh).  It
+15,01will hopefully work on all computers, as long as you have ANSi.SYS installed.
+15,01Send your apps to any eclipse member board, listed in "MEMBERS.ECP".  Send 
+15,01any comments or bitchings to those places too, and they'll be forwarded to 
+15,01the appropriate people.  Thanks for your time, and here's to making eclipse
+15,01'94 better than ever!
+
+15,01                                                -Vlad the Impaler
+15,01                                                    Eclipse Senior Member

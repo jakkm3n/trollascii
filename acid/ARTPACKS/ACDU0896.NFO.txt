@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :      July Update *     August 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0896.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0896 ANS |  45096 |08.01.96 |%+   | August Member/Site Listing     |
+15,01*|2  |ACIDAPP  EXE |  45307 |08.01.96 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW DAT | 125438 |07.01.96 |%    | ACiD View BGI/RIP font data    |
+15,01*|4  |ACIDVIEW EXE |  72377 |07.01.96 |%    | ACiD View V4.21                |
+15,01*|N/C|ACIDVIEW NFO |  51480 |07.01.96 |%+   | ACiD View Documentation        |
+15,01*|5  |ADF2XBIN EXE |  13953 |08.01.96 |%    | Artworx Draw to XBIN converter |
+15,01*|6  |ADF2XBIN PAS |  20812 |05.18.96 |%+   | "       "    "  "    " source  |
+15,01*|7  |BIN2XBIN EXE |  15969 |08.01.96 |%    | BIN to XBIN convertor          |
+15,01*|8  |BIN2XBIN PAS |  21971 |05.18.96 |%+   | "   "  "    " source           |
+15,01*|9  |BN-OUTLA JPG |  25997 |08.01.96 |%    | Outlandish                     |
+15,01*|10 |BN-RAZOR GIF |  11549 |08.01.96 |%    | Razor 1911                     |
+15,01*|11 |CS-MALE1 JPG | 100845 |08.01.96 |%    | Malevolence                    |
+15,01*|12 |CS-ROCK1 JPG |  53806 |08.01.96 |%    | The Rock                       |
+15,01*|13 |CT-XBIN  XB  |   6217 |08.01.96 |%    | XBIN Logo - eXtended BIN       |
+15,01*|N/C|FILE_ID  DIZ |    472 |08.01.96 |%    | Acquisition FILE ID by {T1}    |
+15,01*|14 |GD-SPYDR ANS |  33159 |08.01.96 |%+   | Street Spyders                 |
+15,01*|15 |IF-HLPB  ANS |  17466 |08.01.96 |%+   | Horny Little Piggy Bank        |
+15,01*|16 |IF-TAWTL ANS |  17355 |08.01.96 |%+   | The Animal With Three Legs     |
+15,01*|17 |KO-ED209 JPG | 143036 |08.01.96 |%    | Kosh's Other Bot               |
+15,01*|18 |QS-ACID  JPG |  67810 |08.01.96 |%    | "...To It's Knees"             |
+15,01*|19 |SIMPLEXB EXE |  19217 |08.01.96 |%    | Simple XBIN Viewer             |
+15,01*|20 |SIMPLEXB PAS |  17319 |05.18.96 |%+   | "      "    " source           |
+15,01*|21 |SM-WHARF ANS |  39511 |08.01.96 |%+   | Admiral's Wharf                |
+15,01*|22 |SPOON    EXE |  39281 |08.01.96 |%    | Spoon II V1.00                 |
+15,01*|23 |SPOON    INI |   8091 |08.01.96 |%+   | Spoon Initialization Info      |
+15,01*|24 |STM      PAS |   9345 |07.31.96 |%+   | Unit Streams                   |
+15,01*|25 |T1-ANKH  JPG |  82876 |08.01.96 |%    | Ankh Advo                      |
+15,01*|26 |T1-XBIN  XB  |   5330 |08.01.96 |%    | XBIN Logo - eXtended BIN Forma |
+15,01*|27 |TH-KOIRR JPG | 130756 |08.01.96 |%    | A Dog's Soul                   |
+15,01*|28 |TH-MOPPY JPG | 138749 |08.01.96 |%    | Moppin' Around...              |
+15,01*|29 |UN-ACID  XB  |   5138 |08.01.96 |%    | ACiD Advo                      |
+15,01*|30 |UN-ACID2 XB  |   5208 |08.01.96 |%    | ACiD Advo                      |
+15,01*|31 |US-ABST2 JPG | 160192 |08.01.96 |%    | Abstract Too                   |
+15,01*|32 |US-MYST  RIP | 115738 |08.01.96 |%    | Myst Advo                      |
+15,01*|33 |US-ROCK  ANS |  47995 |08.01.96 |%+   | The Rock                       |
+15,01*|34 |US-XBIN  XB  |   6317 |08.01.96 |%    | XBIN Logo - eXtended BIN Forma |
+15,01*|35 |VG-PROJE JPG | 115160 |08.01.96 |%    | Project Creation               |
+15,01*|36 |VGA      PAS |  16097 |08.01.96 |%+   | Unit VGA                       |
+15,01*|37 |WE-WILL  SUE |   1531 |08.01.96 |%+   | ACiD Legal Disclaimer          |
+15,01*|38 |XBIN     HIS |    903 |08.01.96 |%+   | eXtended BIN history           |
+15,01*|39 |XBIN     TUT |  30871 |08.01.96 |%+   | eXtended BIN programming tutor |
+15,01*|40 |XBIN     TXT |  21161 |08.01.96 |%+   | eXtended BIN format specificat |
+15,01*|41 |ACDU0896 NFO |   6741 |08.01.96 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |

@@ -1,0 +1,27 @@
+15,01 
+
+15,01                                       |11|17+----------------------+|16
+15,01                                       |11|17| L.S.D. BBS File Menu ||16
+15,01                                       |11|17+----------------------+|16
+15,01    |11|17+--------------------------+|16
+15,01    |11|17| A - Change File Area     ||16
+15,01    |11|17| R - View Archives        ||16
+15,01    |11|17| T - Type a File          ||07-|11|17----------------------------+|16
+
+15,01    |11|17| Y - Your File Status     ||07W|11|17 - Extended File List       ||16
+
+15,01    |11|17| H - Help                 ||07X|11|17 - Extract from a .ZIP file ||16
+
+15,01    |11|17| + - Add to Batch Queue   ||07U|11|17 - Upload a File            ||16
+
+15,01    |11|17| L - List Files           ||07V|11|17 - Newscan this File Area   ||16
+
+15,01    |11|17| I - Generate FILELIST.ZIP||07B|11|17 - Batch Menu               ||16
+
+15,01    |11|17| N - Newscan All Areas    ||07G|11|17 - Logoff BBS               ||16
+
+15,01    |11|17| S - Search for a File    ||07D|11|17 - Download a file          ||16
+
+15,01    |11|17| Q - Quit File Areas      ||07-|11|17----------------------------+|16
+
+15,01    |11|17+--------------------------+|16

@@ -1,0 +1,56 @@
+15,01From: Nate Cull                        Base   : [FIDO] - Team OS/2
+15,01To  : All                              Refer #: None
+15,01Subj: * Microsoft World *              Replies: None
+15,01Stat: Sent                             Origin : 07 May 95  21:36:00
+
+15,01This is a spoof I wrote last year; my big brother talked me into posting it.
+15,01It's dedicated to all you other Windows survivors out there who've felt that
+15,01unmistakeable urge to re-arrange William Gates' desktop with a heavy, blunt
+15,01instrument.   :)
+
+15,01'It's a Microsoft World'
+15,01(to the tune of "What a Wonderful World")
+
+15,01I see desktops blue
+15,01Mouse cursors white
+15,01And files all askew
+15,01In the deep dead of night
+15,01And I think to myself
+15,01It's a Microsoft world
+
+15,01I see dialogs green
+15,01And errors red
+15,01I hear bone-chilling screams
+15,01And words best unsaid
+15,01And I think to myself
+15,01It's a Microsoft world
+
+15,01The colours of the hologram
+15,01So pretty on the pack
+15,01Are all over my monitor
+15,01But I want my cursor back
+
+15,01I see friends wringing hands
+15,01Saying What can I do
+15,01They're really saying,
+15,01We're All Doomed
+
+15,01I see networks vast
+15,01Across the globe
+15,01With hardware so fast
+15,01But software so slow
+15,01And I shudder and say
+15,01It's a Microsoft world
+
+15,01I see software crash
+15,01And cities burn
+15,01As our world turns to ash
+15,01Somebody'll learn
+15,01Not to push the wrong key
+15,01In a Microsoft world
+
+15,01And I weep to myself
+15,01It's a Microsoft world
+
+
+15,01Copyright (C) 1994 by Nate Cull, Christchurch, New Zealand

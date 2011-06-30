@@ -1,0 +1,78 @@
+
+15,01   #------------------------------------------------------------+
+15,01   |  "The Acquisition" - Contains A-Z of the ANSi Collection.  |
+15,01   |  Background History:    The Acquisition was originated in  |
+15,01   |  San Jose, California.   After  it had been organized and  |
+15,01   |  its contents  sorted,  it  first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To  this day the original zips are still  |
+15,01   |  floating around,  but  as  more  and  more high  quality  |
+15,01   |  computer graphics  are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                    |
+15,01   +============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |  The Acquisition : July Update    *     August 1st, 1992  |
+15,01   +-----------------------------------------------------------+
+15,01   || Note:   The file ACDU0892.ZIP is only an update of the  ||
+15,01   || latest ANSis not included in the preceding Acquisition. ||
+15,01   ++-- --  -  -                                   -  -  -- --++
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01*|1  |ACID-BR  ANS |   3958 | 7.20.92 |%   | ACiD Logo                       |
+15,01*|2  |ACID-SD2 ANS |   3222 | 7.16.92 |%   | ACiD Logo                       |
+15,01*|3  |ACID-SD3 ANS |   4505 | 7.30.92 |%   | ACiD Logo                       |
+15,01*|4  |ACID92   ANS |   6129 | 7.30.92 |%+  | ACiD Member List For August     |
+15,01*|5  |AOFACID2 ANS |  79475 | 6.28.92 |%Ax+| Agents of Fortune            (2)|
+15,01*|6  |AOFACID3 ANS |   5504 | 7.11.92 |%+  | Agents of Fortune            (3)|
+15,01*|7  |AOFACID4 ANS |   2614 | 7.07.92 |%   | Agents of Fortune            (4)|
+15,01*|8  |AT2DEMO  ANS |  88697 | 7.09.92 |%Ax+| ANSi TooNs II - Demo            |
+15,01*|9  |CRYPTACD ANS |  10559 | 7.24.92 |%+  | The Crypt                       |
+15,01*|10 |CH-ACID1 ANS |  14708 | 7.30.92 |%+  | Criminals House                 |
+15,01*|11 |CYBRACD1 ANS |  15732 | 7.13.92 |%+  | Cyber City                      |
+15,01*|12 |CYGNUSX  ANS |   3529 | 7.03.92 |%+  | Cygnus X                        |
+15,01*|13 |DPG2ACID ANS |   9495 | 6.13.92 |%+  | The Devil's Playground       (2)|
+15,01*|14 |DRAGON   ANS |  10297 | 7.09.92 |%+  | Dragon's Gold                   |
+15,01*|15 |EITWACD1 ANS |   9387 | 7.09.92 |%+  | Echoes In The Well              |
+15,01*|16 |ETPGACD1 ANS |   8783 | 7.28.92 |%+  | Eternal Plague                  |
+15,01*|17 |FARSIDE  ANS |   5205 | 7.18.92 |%   | The Far Side                    |
+15,01*|18 |FLT-ACD2 TXT |   1306 | 7.03.92 |%   | Fairlight Text Logo          (2)|
+15,01*|19 |FX2ACID  ANS |   6113 | 7.16.92 |%+  | FX/2 Graphics Logo              |
+15,01*|20 |HOSTILE  ANS |   1947 | 7.10.92 |%   | Hostile Logo                    |
+15,01*|21 |INN2ACID ANS |  61489 | 7.14.92 |%Ax+| Inn of the Last Home         (2)|
+15,01*|22 |KEEB-SB  ANS |  14625 | 7.20.92 |%+  | ACiD Logo with Keebler Elf      |
+15,01*|23 |MIC-ACID ANS |  11482 | 7.15.92 |%+  | ACiD Logo with Mickey Mouse     |
+15,01*|24 |MIDNACD3 ANS |  46325 | 7.24.92 |%A+ | Midnite Oil ]I[ "Threes A Charm"|
+15,01*|25 |NET54ACD ANS |   4651 | 7.22.92 |%   | Net 54                          |
+15,01*|26 |NWLACID2 ANS | 135473 | 7.08.92 |%Ax+| Nuclear Wastelandz           (2)|
+15,01*|27 |OKCORRAL ANS |   7051 | 7.19.92 |%+  | O.K. Corral                     |
+15,01*|28 |PHANTASM TXT |    982 | 7.15.92 |%   | Phantasm Text Logo              |
+15,01*|29 |PSYCACID ANS |   5541 | 7.28.92 |%+  | Psycho-Neurosis                 |
+15,01*|30 |RAZACID3 ANS |   5205 | 7.19.92 |%+  | Razor 1911                   (3)|
+15,01*|31 |RED1ACID ANS |   8073 | 6.25.92 |%+  | The Red Sector                  |
+15,01*|32 |RELMACD5 ANS |  42934 | 6.02.92 |%A+ | Beyond The Realm of Reality  (5)|
+15,01*|33 |ROADRUN  ANS |   4649 | 7.06.92 |%+  | Road Runner                     |
+15,01*|34 |SANC-SD  ANS |   7766 | 7.11.92 |%+  | Sanctuary                    (1)|
+15,01*|35 |SANCACD2 ANS |  14608 | 7.17.92 |%+  | Sanctuary                    (2)|
+15,01*|36 |SHARK    ANS |   7801 | 7.11.92 |%+  | Great White Shark               |
+15,01*|37 |SH-ACID2 ANS |  22582 | 7.31.92 |%A+ | Splatter House               (2)|
+15,01*|38 |SSACID3  ANS |   5132 | 7.29.92 |%+  | Street Spydrz                (3)|
+15,01*|39 |TOCACID  ANS |   4308 | 5.05.92 |%   | Time of Chaos                   |
+15,01*|40 |TPCACID1 ANS |   9391 | 7.13.92 |%+  | The Private Collection          |
+15,01*|41 |WARDACD1 ANS |  13683 | 7.23.92 |%+  | Psychiatric Ward                |
+15,01*|42 |WHIRLKP  ANS |   6379 | 7.16.92 |%+  | WhirlWind                       |
+15,01*|43 |ACDU0892 NFO |   5558 | 8.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = ANSiMated             |
+15,01  | M = ANSi Music           + = Scrolling             |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 43         Average Compression Rate: %79  |
+15,01  |   Total Bytes: 736,763    Total Bytes Zipped:   161,486  |
+15,01  |                                                          |
+15,01  +----------------------------------------------------------+

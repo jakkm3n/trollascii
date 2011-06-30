@@ -1,0 +1,80 @@
+15,01This listing shows which states are which region.  
+
+15,01To join Static Net, simply fill out the application
+15,01included and rename it with the extension of your initials...(i.e. if your
+15,01initials are JDR then you should send your application as STATAPP.JDR) to
+15,01either the World HQ or the Central HQ (*NOTE*: You will get added in quicker
+15,01if you send it direct to the Central HQ as I do all of the nodelist changes 
+15,01myself.)  Be sure to fill out all applicable information and YOU MUST include
+15,01a valid voice number and the best time to call or you WILL NOT BE ACCEPTED.
+
+
+15,01Western Region 92:100/*
+
+15,01Alaska
+15,01Hawaii
+15,01Washington
+15,01Oregon
+15,01California
+15,01Nevada
+15,01Arizona
+15,01Utah
+15,01Idaho
+15,01Montana
+15,01Wyoming
+15,01Colorado
+15,01New Mexico
+
+15,01Central Region 92:200/*
+
+15,01North Dakota
+15,01South Dakota
+15,01Nebraska
+15,01Kansas
+15,01Oklahoma
+15,01Texas
+15,01Minnesota
+15,01Iowa
+15,01Missouri
+15,01Arkansas
+15,01Louisiana
+15,01Wisconsin
+15,01Illinois
+15,01Tennesee
+15,01Alabama
+15,01Mississippi
+
+15,01Eastern Region 92:300/*
+
+15,01Michigan
+15,01Indiana
+15,01Kentucky
+15,01Georgia
+15,01Florida
+15,01North Carolina
+15,01South Carolina
+15,01Virginia
+15,01West Virginia
+15,01Maryland
+15,01Deleware
+15,01Washington D.C.
+15,01Pennsilvania
+15,01Ohio
+15,01New York
+15,01Connecticutt
+15,01New Jersey
+15,01Massachuses
+15,01New Hampshire
+15,01Vermont
+15,01Maine
+15,01Rhode Island
+
+15,01Canada Region 92:400/*
+
+15,01ALL (Hosts or HUBS will be assigned as the NET grows)
+
+15,01South America Region 92:500/*
+
+15,01ALL (Host or Hubs will be assigned as the NET grows)
+
+

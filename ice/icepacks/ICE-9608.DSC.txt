@@ -1,0 +1,57 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 9/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+
+15,01ice-9608.nfo,ANSI,iCE August 1996 info,iCE staff
+15,01ice-9608.mem,IDF,iCE memberlist,iCE staff
+15,01ice-9608.sit,ANSI,iCE sites,iCE staff
+15,01ice-9608.sts,ANSI,iCE August stats,iCE staff
+15,01-ansi---.---,ANSI,,
+15,01cu-lv3.ice,ANSI,Lethal Vengeance,Cold and Ugly
+15,01cu-rick.ice,ANSI,Happy Birthday Force Ten!,Cold and Ugly
+15,01cu-rust.ice,ANSI,Rust,Cold and Ugly
+15,01cu-sp.ice,ANSI,Surrogate Providence,Cold and Ugly
+15,01eq-adm02.ice,ANSI,Adment Digital Art,Egoteq
+15,01lm-tot1.ice,ANSI,Total,Lemonade
+15,01md-tmato.ice,ANSI,Screaming Tomato 2 Yr Anniv,Mass Delusion 
+15,01pa-ear1.ice,ANSI,Earth,Parasite
+15,01SG-CS1.ice,ANSI,Color Shock,Snake Grunger
+15,01SG-LV2.ice,ANSI,,Snake Grunger
+15,01SG-MO2.ice,ANSI,Midnight Oil,Snake Grunger
+15,01SG-REA1.ice,ANSI,,Snake Grunger
+15,01TE-RUST2.ice,ANSI,Rust,Tetanus
+15,01TE-RUST3.ice,ANSI,Rust,Tetanus
+15,01TE-RUST4.ice,ANSI,Rust,Tetanus
+15,01us-boom.ice,ANSI,Boom Boom,LM/AX/SL/CU/MM
+15,01-logo---.---,ANSI,,
+15,01ax-ilc4.ice,ANSI,Logo Colly,Apox
+15,01mm-tsk's.ice,ANSI,The Gas Chamber,Magnetic M
+15,01pa-logo3.ice,ANSI,Logo Colly,Parasite
+15,01SG-DV3.ice,ANSI,Disembodied Voices,Snake Grunger
+15,01TE-SP1.ice,ANSI,Surrogate Providence,Tetanus
+15,01tna-lgo2.ice,ANSI,Logo Colly,The Night Angel
+15,01-vga----.---,ANSI,,
+15,01at-risc.jpg,EXTERNAL,RISC,AphidTwix
+15,01ep-extc.jpg,EXTERNAL,,Eporue
+15,01ja-s71.jpg,EXTERNAL,,Jae
+15,01MA-RWT96.jpg,EXTERNAL,,Mantis
+15,01MA-WOMB.jpg,EXTERNAL,,Mantis
+15,01me-sands.jpg,EXTERNAL,,Megalith
+15,01NX-JUSTD.jpg,EXTERNAL,,Nixus
+15,01NX-MOS.jpg,EXTERNAL,,Nixus
+15,01RB-TEA.JPG,EXTERNAL,Tea Bag Graphics,Renderbrandt
+15,01rb-slve3.jpg,EXTERNAL,,Renderbrandt
+15,01rb-sunsv.jpg,EXTERNAL,Sun Slave,Renderbrandt
+15,01rb-bandt.jpg,EXTERNAL,Bandit,Renderbrandt
+15,01RB-FPAGE.JPG,EXTERNAL,,Renderbrandt
+15,01RB-CAN1.JPG,EXTERNAL,,Renderbrandt
+15,01sh-eag.jpg,EXTERNAL,Edmonton Art Gallery,Shiva
+15,01sk-ice3.jpg,EXTERNAL,iCE,Sprite
+15,01td-arma1.jpg,EXTERNAL,Armageddon Fighters,Tonedef
+15,01td-ind.jpg,EXTERNAL,,Tonedef
+15,01TE-ICE3.jpg,EXTERNAL,iCE,Tetanus
+15,01ve-jizz.jpg,EXTERNAL,For The Whole Family,Vesalius
+15,01ve-necks.jpg,EXTERNAL,,Vesalius
+15,01TE-HELL.GIF,EXTERNAL,Hell,Tetanus
+15,01file_id.diz,ANSI,,

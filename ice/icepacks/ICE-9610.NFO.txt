@@ -1,0 +1,71 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                   O  C  T  O  B  E  R     1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+
+
+15,011. In an effort to escape from the monkeys, 4th jumped ship.  We all sat on the
+15,01edge of the boat and waved, but we're not sure how much it helped him.
+
+15,012. After the offer to the Beatles was rejected, members of iCE were offered
+15,01the 150 million to do a reunion concert.  Currently we have the following
+15,01lineup:
+15,01Guitarists:
+15,01        Lemonade
+15,01        Isosceles
+15,01        Friar Tuck
+15,01        Greater Evil
+15,01        Syntax Error
+15,01Keyboards:
+15,01        Force Ten
+15,01Drums:
+15,01        Lord Soth
+15,01Jungle DJ:
+15,01        Shaggy
+15,01Flute:
+15,01        Black Viper
+15,01Roadie:
+15,01        Boa
+
+15,01The distinct lack of singers and songs do not worry us at this point.  We would
+15,01like to thank our fans at Acid Productions for reserving a full 15 rows at all
+15,01our concerts.  We thank you for your patronage!
+
+15,013. The reports you heard yesterday about a certain Senior Staffer learning
+15,01Latin for sexual purposes is completely untrue.  The correct language was
+15,01Russian, and Pez were NOT involved in this incident.
+
+15,014. We apologize sincerely for the problems with our ice.org servers this month.
+15,01We assure you it was no party for us, either.  Hopefully we will not have any
+15,01more problems of this nature in the future.
+
+15,015. Airlifted in on our new 1997 model helicopters were Elastic, Mass Murderer,
+15,01and Heat.  Elastic and Mass Murderer are both very talented ansi artists, and
+15,01Heat is a great addition to our stong VGA team.  We're simply eudaemonical
+15,01about them joining us.
+
+15,016. If you think this is in the right wrong, then you're dead order.
+
+
+15,01-------------------------------------------------------------------------------
+15,01           Force Ten     Friar Tuck      Lord Soth      Syntax Error
+15,01-------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+15,01KiTSCH Net .NFO file v0.08
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~        
+15,01        
+15,01        
+15,01Message area's
+15,01~~~~~~~~~~~~~~
+
+15,01        Area's Description                  EchoArea's Name
+15,01        ~~~~~~~~~~~~~~~~~~                  ~~~~~~~~~~~~~~~
+15,01        Sysop's Only (s255)                 KCH_SYS
+15,01        General Discussion                  KCH_GEN
+15,01        Ansi Discussion                     KCH_ANSI
+15,01        Lit Discussion                      KCH_LIT
+15,01        VGA Discussion                      KCH_VGA
+15,01        Music Discussion                    KCH_MUSC
+15,01        Coding Discussion                   KCH_CODE
+15,01        Mist Discussion                     KCH_MIST
+15,01        Acid Discussion                     KCH_ACID
+15,01        Ice Discussion                      KCH_ICE 
+15,01        Relic Discussion                    KCH_REL
+15,01        Other Art Groups                    KCH_OTHR
+15,01        E-Mags Discussion                   KCH_EMAG
+15,01        Pack Reviews                        KCH_REVU
+15,01        Art Requests                        KCH_REQ 
+15,01        ANSI/Lit display                    KCH_SHOW
+15,01        Pablo Support                       KCH_PBLO
+15,01       *[MiST Private]                      KCH_MPRV
+15,01       *[MiST News]                         KCH_MNWS
+15,01       *[MiST General Chat]                 KCH_MGEN
+15,01       *[MiST Assignments]                  KCH_MASG
+15,01       *[MiST Monthly Movie]                KCH_MOVE
+15,01       *[MiST Kithe Emag]                   KCH_KTHE
+15,01       *[MiST Project A]                    KCH_MPA
+15,01       *[MiST Project B]                    KCH_MPB
+15,01       *[MiST Voting]                       KCH_VOTE
+
+15,01* - Private for mist members only
+15,01 

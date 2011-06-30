@@ -1,0 +1,80 @@
+00,01                          _______________
+15,01-----------------------------------------------------------------------------
+00,01   ____ _ _   |        ___ ______    _  |  ___\    /_________ _ ___
+15,01nickname: stoned militia (sm-)00  //_____ __\\__  _______\\   /__  _ _ ________
+15,01real name: mike00\    /__ \ \\__   |   _/_\    /____   |       _//   ___\\    /_
+15,01age: 1600 _   \__      _/__    |   | __|   _   \\  |  _/   |   |  ___\\__      |
+15,01position at polyester: ansi artist/ascii artist00  |  \_   |  _|__\    _// |   |-
+15,01current affiliations: polyester00_ |   |   ____|__ |   |   | /__   _   |   |   |
+15,01past affiliations: taura, insomnia00  _|   |   __/ |  _|   |   |   |   |   |   |
+15,01email: ushiro@cris.com00   |  _|   | \\_   |  _|   __/_____|    \  ____|_  |   |_
+00,01| |||____//__|   |   |   | /_____    |   | /______\\ \   |   _/  |   __\ |___//
+15,01-----------------------------------------------------------------------------
+00,01               _ _ __|   |   __//      /____\\             __|   |  _|
+15,01nickname: tek (tk_)00/____     | mHzacid  |              \ \\\________\
+15,01real name: withheld   00 //____\          polyester15             00  |
+15,01age: 15al*00 08yellow00 15pages.00                |_____________          |
+15,01position at polyester: founder/senior class/ascii artist---------------------
+15,01current affiliations: polyester, cia, affinity emag, ascent 
+15,01past affiliations: acidic bbs modding, taura  
+15,01email: tk01@hotmail.com (no file attachments)
+15,01age: 16
+15,01-----------------------------------------------------------------------------
+15,01current affiliations: polyester, entity, hook-ups
+15,01nickname: trax (tr)gas, force
+15,01real name: adamation.com
+15,01age: 19
+15,01position at polyester: ansi artist-------------------------------------------
+15,01current affiliations: polyester
+15,01past affiliations: none
+15,01email: trax@prostar.com (no file attachments)
+15,01age: 16
+15,01-----------------------------------------------------------------------------
+15,01current affiliations: polyester, motiv8
+15,01nickname: umaro (uo)as, purg, force, ls, flip, plan9
+15,01real name: glen@cris.com
+15,01age: 14
+15,01position at polyester: ascii artist------------------------------------------
+15,01current affiliations: polyester
+15,01past affiliations: surge, order, threat
+15,01email: uo@hotmail.com
+00,01age:
+15,01-----------------------------------------------------------------------------
+15,01current affiliations: polyester
+15,01nickname: unique phreak (7up)
+15,01real name: jaspal.com
+15,01age: 13
+15,01position at polyester: ansi artist-------------------------------------------
+15,01current affiliations: polyester, blade
+15,01past affiliations: trance, blind
+15,01email: <none>stin
+15,01age: 1600 
+15,01-----------------------------------------------------------------------------
+15,01>urrent affiliations: polyester, cia, demonic, aws
+15,01past affiliations: rile, sinister, tric, 666, illusion, taura
+15,01email: trahma@discover-net.net  
+
+15,01-----------------------------------------------------------------------------
+
+15,01nickname: discyple (dy)
+15,01real name: gallagher
+15,01age: 17
+15,01position at polyester: canadian sex toy
+15,01current affiliations: polyester, acid, awe, noname
+15,01past affiliations: cia
+
+15,01-----------------------------------------------------------------------------
+
+15,01nickname: driftwood (dw-)
+15,01real name: ryan
+15,01age: 16
+15,01position at polyester: founder/alumni class
+15,01current affiliations: polyester
+15,01past affiliations: taura, sinister
+15,01email: driftwood@juno.com
+
+15,01-----------------------------------------------------------------------------
+
+15,01nickname: drseuss (drs)  
+15,01real name: eric
+15,01age: 14

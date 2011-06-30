@@ -1,0 +1,8 @@
+15,01@X0F------------------------------------------@X07----------------------@X08----
+15,01@X07-@X08---@X07----@X08---@X07
+15,01Select Conference (@X0F#@X07) . @X07(@X0FS@X07)@X07elect All . @X07(@X0FD@X07)es
+15,01elect All . (@X0FQ@X07)uit ->
+
+
+15,01; --- Line 1 is the replacement line for the '-------' lame looking crap
+15,01; --- Line 2 is the prompt to display 

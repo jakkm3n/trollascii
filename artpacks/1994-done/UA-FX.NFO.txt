@@ -1,0 +1,61 @@
+15,01       The Underground Alliance Effects/Graphics Team Information File
+15,01                  Written by FIRE SHADOW and SPANKY in '93
+
+15,01                   +==========+ UA-F/x MEMBERS +=========+
+15,01                   | Dark Avenger   -  Coding(ASM)/VGArt |
+15,01                   | Dark Matter    -        Coding(C++) |
+15,01                   | Spanky         -    Senior VGArtist |
+15,01                   | Drakkhen       -           VGArtist |
+15,01                   | Nasfaratu      -           VGArtist |
+15,01                   | Alley Cat      -           Musician |
+15,01                   | Fire Shadow    -        Coordinator |
+15,01                   +=====================================+
+
+15,01If you want to do any of the following things, then contact one of the UA-F/x
+15,01World Headquarters :
+15,01    # Get a loader done for your BBS
+15,01    # Join UA-Net
+15,01    # Try and join the UA-F/x team
+15,01    # Or just to give us your comments/suggestions
+
+
+15,01+=============================================================================+
+15,01| UA-F/x Support Boards                                                       |
+15,01| NAME                      NUMBER         STATUS   SYSOP         SPEED  NODES|
+15,01+=============================================================================+
+15,01+=========================+==============+========+=============+=======+=====+
+15,01| The Underground Outpost | 215.493-7703 | CO-WHQ | Spanky      | 14400 |  1  |
+15,01+-------------------------+--------------+--------+-------------+-------+-----+
+15,01| Tactical Command ][     | 215.493-6282 | CO-WHQ | Fire Shadow | 14400 |  1  |
+15,01+-------------------------+--------------+--------+-------------+-------+-----+
+15,01| Razor's Edge            | 208.664-8356 |  DIST  | Warlock     | 14400 |  1  |
+15,01+-------------------------+--------------+--------+-------------+-------+-----+
+15,01| Lost Colony             | 215.461-6963 |  DIST  | Dr Piracy   | 14400 |  2  |
+15,01+-------------------------+--------------+--------+-------------+-------+-----+
+15,01| Black Gate              | 714.562-0618 |  DIST  | Avatar      | 14400 |  1  |
+15,01+=========================+==============+========+=============+=======+=====+
+
+15,01                        +=================+
+15,01                        | * G R E E T S * |
+15,01                        +=================+
+
+15,01                           GROUP GREETS
+
+15,01    EMPiRE        - You guys have potential, did PC mention us to you?
+15,01    HEAT          - You guys also got potential!  Hope you liked the logo!
+
+
+15,01                         INDIVIDUAL GREETS
+
+15,01    SILVER SURFER     - Thanks for the distribution!!
+15,01    DR PIRACY         - Keep jamming on that guitar!
+15,01    OLYMPIAN ZEUS     - Thanks for helping with the Net so much!
+15,01    JAY               - Are you still thinking of rejoining?  Or is
+15,01                        that out of the question..
+15,01    PRIMORDIAL CHOWDER- Thanks for all the KILLER ansis
+15,01    SUB ZERO          - Nice to see you again!
+
+
+
+15,01                      Thank you for viewing this loader!
+15,01                  The loader is CopyRighted - CopyRight 1993

@@ -1,0 +1,9 @@
+
+15,01                          06V13i06S13i06ON-X Line Editor Help
+15,01                       11P10refix 11c10ommand 11w10ith 00/ 11C10haracter
+
+
+12,01A - Abort15            13E - edit mode15         09m - center line15       08s - save
+09,01B - back a line15      08f - fix line number   10n - new message15       00t - new title
+10,01C - continue15         00i - insert line15       13q - quote
+13,01D - delete line(s)   12l - list message15      13r - search & replace

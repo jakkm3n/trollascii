@@ -1,0 +1,8 @@
+15,01News:
+
+15,01   Nokturnal Net and Nuclear Net merged... There was a nodelist change:
+15,01   you are no longer 1:xxx/x you are  NOW 77:xxx/x... Please make  note
+15,01   of the change and fix it.. ALSO, all of the message  areas, or  some
+15,01   of them at that, have been re-named and combined to smallen the  msg
+15,01   list.. Please take of that as  well.. We are  trying to make  noknet
+15,01   a big art net, and make it as comfortable for you as possible. latah

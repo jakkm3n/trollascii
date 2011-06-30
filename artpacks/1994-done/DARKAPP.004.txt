@@ -1,0 +1,80 @@
+
+15,01 ----+---+-----------------------------------------------------------+---+----
+15,01     | D |                                                           | D |
+15,01     | A |              Digital Artists of the Rare Kind             | A |
+15,01     | R |                                                           | R |
+15,01     | K |                                                           | K |
+15,01 ----+---+-----------------------------------------------------------+---+----
+
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 Revision 2.05                 APPLiCATiON FORM                     April 1994
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 Please look over the application BEFORE filling it out.
+
+15,01 [ Personal Information ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                       |
+15,01 | Your Real Name        | >
+15,01 | Your Alias            | >
+15,01 | Other Alias(s)        | >
+15,01 |                       | >
+15,01 | Real Voice Number     | > Give this to BW at the HQ, for security reasons.
+15,01 | Real Data  Number     | > 
+15,01 | Your Real Age         | > 
+15,01 |                       |
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+
+15,01 [ Computer Information  ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                       |
+15,01 | Video Adaptor Type    | >
+15,01 | Highest Modem Speed   | >
+15,01 | System RAM            | >
+15,01 |                       |
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+
+15,01 [ What You're Good At ... ]===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |
+15,01 |  - Star (*) all boxes that apply. 
+15,01 |  - "Which Editor" means what software do you use to create that product.
+15,01 |  - "Multimedia" menas sound and graphics together.
+15,01 |
+15,01 |                       |
+15,01 | Programming           | [ ] - Which Language(s) ? :
+15,01 | VGA Still Art         | [ ] - Which Editor(s) ?   :
+15,01 | VGA Animated Art      | [ ] - Which Editor(s) ?   :
+15,01 | Ansi Still Art        | [ ] - Which Editor(s) ?   :
+15,01 | Ansi Animated Art     | [ ] - Which Editor(s) ?   :
+15,01 | Digital Music         | [ ] - Which Editor(s) ?   :
+15,01 | Multimedia            | [ ] - Which Editor(s) ?   :
+15,01 | Loaders               | [ ] - Which Editor(s) ?   :
+15,01 |                       |
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+
+15,01 [ Group Affiliations    ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |
+15,01 |  List any other groups that you are a part of, and a brief description of
+15,01 |  what the groups main activities are.
+15,01 |
+15,01 | Group Name              Description
+15,01 |                       |
+15,01 | >                     | >
+15,01 | >                     | >
+15,01 | >                     | >
+15,01 | >                     | >
+15,01 | >                     | >
+15,01 |                       |
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+
+15,01 [ Do you run a BBS ?    ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |
+15,01 | [ ] - YES    [ ] - NO
+15,01 |
+15,01 |                       |
+15,01 | Software Used         | >
+15,01 | System Name           | >
+15,01 | System Number         | > (a/c) pre-suff
+15,01 | (P)rivate ?           | >

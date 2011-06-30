@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01IcE IcE IcE IcE IcE IcE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+
+15,011.  Welcome to another installment of "iCE and the wacky computer art scene."
+15,01    It seems iCE is the only big name group who DIDN'T undergo a merger or
+15,01    split this month. Unsurprisingly, things here in iCE were pretty stable,
+15,01    with the exception of Lord Soth's arrival at his homecoming dance WEARING
+15,01    his date. ;)  Oh, and Friar has started a new entrepreneureal venture with
+15,01    his new line of plaster of paris undergarments for hermaphrodites.
+
+15,012.  Many iCE artists are becoming known in commercial circles as dependable
+15,01    sources of quality art. One of our VGA lords, Mascot, did a picture for
+15,01    "The Computer Paper"'s December issue, where the pic was used on the
+15,01    cover. ImageX, Tonedef, Visigoth and Devastator have strong webpage
+15,01    businesses, and Borian continues his many professional contract services.
+15,01    In addition, Necros and Basehead continue to offer their musical skills to
+15,01    such gaming giants as Origin, and Force Ten is still trying to get his
+15,01    escort service started in Botswana.
+
+15,012a. Blazer is rumored to be running a Tilt-a-Whirl off I-20 in the suburbs of
+15,01    Memphis, TN. Look for the guy in the Jerry Garcia T-shirt with a pink
+15,01    goatee.  Take him some elephant ears, he might let you on for a quick
+15,01    spin.
+
+15,012b. Syntax Error has bought stock in Jolt Cola, after hearing that they'll be
+15,01    offering Diet- and Caffeine-Free- versions of their product. Better living
+15,01    through chemistry! =)
+15,01    (Guys, that's DOUBLE-caf Jolt.. DOUBLE caf. :) - syntie)
+
+15,012c. Rumour has it that Lemonade is living vicariously through newly returned
+15,01    iCE persona Toxic Marshmallow's insane party habits.  But, the two plan to
+15,01    get together sometime soon and create a new malt beverage for all to agree
+15,01    on, called Toxic Lemonmallow iCE-Cooler.
+
+15,013.  Heretics, an australian demo group, released their "Halloween" intro this
+15,01    past month. It features VGA art by our own Squidgalator ][. It can be
+15,01    found at ftp.cdrom.com as /demos/incoming/weener.zip. Friar is still
+15,01    wondering just what the hell a "weener" is, anyway. I guess they didn't
+15,01    have that term when he grew up in the Great Depression.  Slothy knows what
+15,01    a "weener" is, according to impartial sources at the New York Times who
+15,01    also wish to say they never molested those animals. Syntax keeps wondering
+15,01    why Neurotic keeps asking him to send a picture of his "weener".  Force
+15,01    Ten prefers not to discuss his "weener" anymore because it causes certain
+15,01    Senior Staff-type people from other art groups to call him a lot.
+
+15,014.  Some new faces showed up on the block this past month. Cold-N-Ugly didn't
+15,01    want to go with the Integrity merge with ACiD; and Venom, Obsidian,
+15,01    Amorphis, and The Night Angel came at us from somewhere over the rainbow.
+15,01    When Saga then merged with ACiD without asking their artists, a number of
+15,01    them found themselves headed for a group they didn't want to be in.  This
+15,01    brought us Tetanus, Apox, Parasite, and Kadaver.  Welcome guys!  It's
+15,01    great to have you as a part of our family!  Cat also managed to introduce
+15,01    us to his partner in crime, Icto.. needless to say, we liked what we saw.
+15,01    This really doesn't have anything to do with "weeners", you know.
+
+15,014a. A bunch of corpses were resurrected this month by Syntax's continued
+15,01    display of medical miracles. Welcome back to Leonardo, Isosceles, Aphid
+15,01    Twix (also known as Aphex Twin, Ephex Trix, and Latex Twin), Shaggy,
+15,01    Juice, Elminster and Toxic Marshmallow.  Shaggy, Aphid Twix, and Toxic
+15,01    Marshmallow are all former staffers, all of whom still proudly display
+15,01    their iCE Tattoos, which we have had redone by Catbones.
+
+15,014b. Devine Styler changed his handle to Tical. In an effort to prove that we

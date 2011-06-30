@@ -1,0 +1,80 @@
+
+08,01"09,08                   08,01"m09,08 15,01 09,08      08,01m"09,08    08,01m"09,08  08,01m
+08,01  "09,08#08,01|  09,08##15,01      08m09,08##08,01"  mm15     08m09,08##08,01" 09,08##08,01"09,08##08,01m"09,08##08,01m
+08,01    "  08,03@@15,01    03m08,03@@08,01"    08,03@@15,01   03m08,03@@08,01"03m  08,03@@03,01mm08"08,03@@03,01m08"08,03@@03,01m
+15,01       08,03##15,01  03m08,03##03,01"m08,03#03,01m   08,03##15,01 03m08,03##03,01" "08,03##03,01m"08,03#03,01""" "08,03##03,01m"08,03##03,01m15                           08,03#03,01m
+15,01       03,03  15,01 03,03  03,01"   "03,03  03,01m "m03,03  03,01"m03,03    03,01"m03,03   03,01m    "03,03  03,01m"03,03  03,01m"03,03                      08##@@09,08#08,01m
+14,03#####08##########@@@@@@@@@@@@@@@09,08####################14                           09#08,01"
+03,01"03,03        15,01             03m03,03 03,01m"14,03 03        03,01"m03,03 15,01 03,03            03,01m"03,03        03,01"m03,03        08##@09,08##08,01"
+08,01  03"08,03#03,01|  08,03##15,01   03m15       03m08,03##03,01"15      03m08,03##03,01"  mm15     03m08,03##03,01"15       08,03##15,01  08,03#03,01"   "08,03##03,01m15     03|08,03#03,01"
+03,01    "  08,03@@15,01 08m"08,03@@08,01m   m08,03@@03,01"15      08m08,03@@03,01"    08,03@@15,01   08m08,03@@03,01"15         08,03@@03,01m15        03"08,03@@08,01m   03"
+15,01       08"m09,08##08,01" "09,08#08,01"m09,08##08,01"15      08m09,08##08,01"m09,08#08,01m   09,08##15,01 08m09,08##08,01"15           09,08##15,01    08m15      08"09,08##08,01m
+15,01       08"09,08 08,01"15     08"09,08 08,01"15      08m09,08  08,01"   "09,08  08,01m "m09,08  08,01"15           08m09,08        14 08,01m"09,08     08,01"
+
+08,01 14------------------------------------------------------------------------------
+14,01   08TRiBAL WRiTES - The TRiBE Newsletter - Volumn #1 / Issue #6 - December 1993
+08,01 14------------------------------------------------------------------------------
+
+14,01 00#  15Welcome to the 7th TRiBE Archive(-LiTE).  It's the Holiday season, and we
+15,01    TRiBE Guys don't take this stuff seriously enough to do alot this time of
+15,01    the year.  It's now 1994, and we're going onto our 8th Month (January '94)
+15,01    of existance.  Remember when TRiBE was a "One-Man-Group" with only myself?
+15,01    God, it seems like only yesterday it was the iCEAGE, ACiD wasn't doing dick
+15,01    and I, as iCE Senior Staff was all too happy to point it out.  Today, iCE
+15,01    is mainly in Canada and calling themselves GOTHIC, ACiD is full of little
+15,01    dicks like Kronos, but you have to admit they're clearly kicking iCEASS.
+15,01    Six months from now, the Teeter-Totter that is the Scene may very well be
+15,01    the exact opposite, who knows.  Of course, you're dealing with TRiBE guys
+15,01    here and now, so we say, who cares. . .
+
+15,01 00#  15Gee, you'd think we had a membership drive!  This may take awhile...
+
+15,01 00#  15BeeZ is in from Mirage XXIVIII: The Reconstructification.  He wanted to
+15,01    actually get his ANSi's released from time to time.  For those interested,
+15,01    yes, his voice is getting deeper!  (Ducking)
+
+15,01 00#  15Asriel makes an ASSAULT on The Spawning Ground to become a TRiBE Member!
+15,01    For your own safety, we suggest you do not ask him to draw you an ANSi...
+15,01         (Warning: Inside Joke, you're not meant to understand it...)
+
+15,01 00#  15Dark Deception, the Independant in from the HEAT, a rappatapptappin.
+15,01    Our little yuletide drummer boy earns us the Sub-Title: Logos'r'us!
+
+15,01 00#  15Village Idiot was a BAD boy, he joined TRiBE.  His very first ANSi ever is
+15,01    included here.  Not a bad begining.  (Honest!  I barely touched it, Ben.)
+
+15,01 00#  15King Midas, our new Southern Knight!  Another talent dug up from the
+15,01    dreggs of 4O4.  He's a reletive newcomer to ANSi, only "months old".  Of
+15,01    course, I remember Leper Messiah's and Quazar's first ANSi's locally,
+15,01    and neither were this good, this early on.  I shudder to think where he'll
+15,01    be three months from now, talent wise.
+
+15,01 00#  15Mr. Sinister, ANOTHER 4O4er!  He's here to help us with coding and prose,
+15,01    while we help him with his ANSi skills.  NaG and iMAGE have made use of
+15,01    his doings, but now he's doing with us.  Just don't give him your voice
+15,01    number, eh... ;)
+
+15,01 04#  15This just in!  This just in!  Killean has left ACiD.  The forgotten man
+15,01    at ACiD (or was that ignored) now completes our collection of Great 404
+15,01    Artists.  (Can you believe it?  They called him a "coder", apparently
+15,01    ashamed of his ANSi?   Check out his new ANSi!)  Even with TLGX gone,
+15,01    he just couldn't get any respect.  Now he's going to play with us!  He
+15,01    may even do ANSi's for boards other than Free Beer, someday!  Oh yeah,
+15,01    and he can code too.  Won't be needing ANSIM much longer...
+
+15,01 #  14(Digression: Is 4O4 being ignored by all the other groups, or do they
+15,01     14just conceed it to TRiBE?  Things that make you go huh-huh-huh-huh.)
+
+14,01 00#  15You'll see LogaN's "Lost" Paradigm Cover ANSi in this Archive.  Since
+15,01    Issue #3 wasn't released, and won't be, he's free to release it now.
+15,01    Gotta admit, it is classic Logiepoo, eh?  For those who don't know, he
+15,01    is in 4O4.
+
+15,01 00#  15Speaking of Logiepoo, you'll find a .PCX file of his included in this
+15,01    Archive.  Apon my rebirth (New Computer) I'd wanted to put together a
+15,01    special Christmas greet to the Scene.  Nothing fancy, just alittle loader
+15,01    that'd show off LogaN's VGA talent, as well as play some very appropriate
+15,01    music.  ("It's Christmas in Heaven" - Monty Python Sings.)  Alas, it was
+15,01    not to be, as the evil Grynch stole our X-Mas coder.  So, we're just going
+15,01    to release the .PCX and leave the coding crap to ACiD.  (Remeber, iCE
+15,01    coders have better things to do!)

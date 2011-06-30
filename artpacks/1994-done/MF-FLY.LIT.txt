@@ -1,0 +1,13 @@
+15,01The Fly Does
+
+15,01Jump, land, look, congregate does the fly
+15,01Pause, observe, explore does the fly
+15,01Fly in mass confusion and land does the fly
+15,01Investigate new sources of sustenance does the fly
+15,01Encounter another and swirl to procreate does the fly
+15,01Stretch out and loosen the limbs does the fly
+15,01Land on me does the fly
+15,01Die does the fly
+15,01Based on a true story
+
+15,01Maxfactor [CiA]

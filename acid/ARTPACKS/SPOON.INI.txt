@@ -1,0 +1,80 @@
+15,01;===========================================================================
+15,01;
+15,01; SPOON INI FILE.
+15,01; This file influences the way SPOON operates.
+15,01;
+15,01; Lines starting with semicolon (;) are remarks.
+15,01; Lines containing SPOON information start with a keyword, followed by a
+15,01; list of options.
+15,01; Some keywords may have multiple entries, these are then 'stacked' meaning,
+15,01; they all take effect, usually in a list.  Some options can only be set once
+15,01;
+15,01;===========================================================================
+
+15,01;---------------------------------------------------------------------------
+15,01; FILESORT=<Sortorder>
+15,01; Possible <Sortorder> values are :
+15,01;   EN  : Sort by Extention then Name.
+15,01;   NE  : Sort by Name then Extention.
+15,01;   END : Sort by Extention then Name.  List all directories at the end
+15,01;   NED : Sort by Name then Extention.  List all directories at the end
+15,01;   DEN : Sort by Extention then Name.  List all directories at the start
+15,01;   DNE : Sort by Name then Extention.  List all directories at the start
+15,01; For NO sorting, do not specify a FILESORT= line
+15,01;---------------------------------------------------------------------------
+15,01FILESORT=DNE
+
+15,01;---------------------------------------------------------------------------
+15,01; DATATYPE=<Number>,<Description>
+15,01; FILETYPE=<DataType>,<Number>,<Description>[,<FileExtentions>]
+15,01;
+15,01; DATATYPE and FILETYPE identify the SAUCE specified numbers for the DataType
+15,01; and Filetype fields.
+15,01;
+15,01; DATATYPE :
+15,01;   <Number>      : Any number from 0 to 255 (SAUCE DataType)
+15,01;   <Description> : A descriptive text up to 25 characters wide.
+15,01;                   - Must be unique
+15,01;                   - Can not contain commas or spaces.
+15,01;                   - Case insensitive
+15,01;                   - Can not start with a number
+15,01;                   Will be used when displaying the file selection menu in
+15,01;                   SPOON, and also for defining FILETYPE in this INI file.
+15,01;
+15,01; FILETYPE :
+15,01;   <DataType>    : A name previously defined by a DATATYPE line.
+15,01;   <Number>      : Any number from 0 to 255 (SAUCE FileType)
+15,01;   <Description> : A descriptive text up to 25 characters wide.
+15,01;                   - Must be unique
+15,01;                   - Can not contain commas or spaces.
+15,01;                   - Case insensitive
+15,01;                   - Can not start with a number
+15,01;                   Will be used when displaying the file selection menu in
+15,01;                   SPOON.
+15,01;   <FileExtentions> : This field is optional
+15,01;                      File extentions that will default to this FileType.
+15,01;                      Multiple fileextentions can be given on one line by
+15,01;                      listing one after another.
+15,01;                      The file-extention includes the leading dot and is
+15,01;                      case insensitive.
+15,01;
+15,01; A Maximum of 250 Filetypes can be specified.
+15,01;
+15,01; ! WARNING, change <number> values with caution, as they are what
+15,01; identifies the filetype.
+15,01;
+15,01; ! TIP ! Comment any filetypes you won't be using, this will reduce the
+15,01; size of the filetype selection menu.
+15,01; Place the filetypes you use most often first.
+15,01;
+15,01;---------------------------------------------------------------------------
+
+15,01DATATYPE=0,NONE
+15,01FILETYPE=None,0,Undefined
+
+15,01DATATYPE=1,Character
+15,01FILETYPE=Character,0,ASCII     ,.ASC
+15,01FILETYPE=Character,1,ANSi      ,.ANS
+15,01FILETYPE=Character,2,ANSiMation
+15,01FILETYPE=Character,3,RIP       ,.RIP
+15,01FILETYPE=Character,4,PCBoard   ,.PCB

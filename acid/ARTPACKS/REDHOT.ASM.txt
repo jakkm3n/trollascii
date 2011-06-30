@@ -1,0 +1,80 @@
+15,01        mov     dx,03dah    ; use video retrace, pretty standard from
+15,01delay1: in      al,dx       ; one machine to anothertack
+15,01        test    al,08       ; test VR (bit 3) outsb is 286 or higher code
+15,01        jz      delay1; start of the data segment
+15,01delay2: in      al,dx ; external file containing picture data and palette
+15,01        test    al,08 ; start of code segment
+15,01        jnz     delay2; external file containing the greyscale palette
+15,01        mov     ah,1        ; check for a keystrokee ansi data
+15,01        int     16h         ; was a key pressed?8 zeros for fading purposes
+15,01        jnz     delay3      ; if so, exit this procedureage for non VGA lamers
+15,01        loop    delay1      ; do it 100 times
+15,01delay3: ret                 ; return to calling procedure
+15,01delay   ENDP    es,ax        ; move cs to es
+15,01        END startx,1a00h     ; set up to check video card
+15,01        int     10h          ; do it
+15,01        cmp     bl,7         ; was a mono VGA detected?
+15,01        je      vgaok        ; if so go run the program
+15,01        cmp     bl,8         ; was a color VGA detected?
+15,01        je      vgaok        ; if so go run the program
+15,01        mov     dx,offset sorry   ; if not, set up for message
+15,01        mov     ah,9         ; set up to print string
+15,01        int     21h          ; do it
+15,01        mov     ah,4ch       ; set up for exit
+15,01        int     21h          ; back to dos you lamer
+15,01vgaok:  mov     ax,0013h     ; set up for 320X200X256
+15,01        int     10h          ; do it
+15,01        mov     dx,offset fadepalette ; move dx to the offset of the palette
+15,01        mov     ax,1012h     ; setup for setting the palette
+15,01        mov     bx,0         ; start at the first color
+15,01        mov     cx,256       ; do all 256 colors, the easy way
+15,01        int     10h          ; pallete setup complete, all zeros (black)
+
+15,01        mov     ax,@data     ; move ax to data segment
+15,01        mov     ds,ax        ; move data segment to ds
+15,01        mov     ax,0a000h    ; point ax to start of video memory for this mode
+15,01        mov     es,ax        ; point ex to start of video memory
+15,01        mov     di,0         ; be sure di is at the start
+15,01        mov     si,offset image ; move si to the offset of the image
+15,01        mov     cx,32000
+15,01        rep     movsw        ; moves 64000 bytes of picture to the screen
+15,01stayin: call    fadeup       ; calls fadeup procedure
+15,01        call    delay        ; keep it grey for about 3 seconds using delay proc
+
+15,01        call    fadeupred    ; calls fadeupred procedure
+15,01        call    delay        ; keep it red for about 3 seconds
+15,01        mov     ah,1         ; check keystroke buffer
+15,01        int     16h          ; was a key hit?
+15,01        jz      stayin       ; if not, loop back to label stayin
+15,01        call    fade         ; if key pressed call fade procedure to go to black
+
+15,01        call    putansi      ; calls putansi, sets 50 line mode and display ansi
+
+15,01        mov     ah,0         ; clear keyboard buffer
+15,01        int     16h          ; done
+15,01        mov     ax,1         ; has another been hit? if not you see the ansi
+15,01        int     16h          ; until you hit another key
+15,01        call    fade         ; calls fade procedure to fade out ansi
+15,01        mov     ax,0003      ; set up for normal text mode
+15,01        int     10h          ; do it
+15,01        mov     ax,4c00h     ; setup for exit
+15,01        int     21h          ; back to good 'ol dos, windows sux
+
+15,01fade    PROC                 ; start of fade procedure
+15,01        mov     ax,cs        ; moves code segment to ax
+15,01        mov     ds,ax        ; now code segment to ds
+15,01        mov     es,ax        ; now code segment to es
+15,01        mov     dx,03c7h     ; Read pallette entries
+15,01        xor     al,al        ; set for read/write
+15,01        out     dx,al        ; output the control
+15,01        add     dx,2         ; setup dx to point to 03c9h
+15,01        mov     di, offset fadepalette ; Sets up ES:DI to point to fadepalette
+15,01        mov     cx,3         ; set up to do loop three times
+15,01fade1:  push    cx
+15,01        mov     cx,256       ; get ready for 768 bytes from port 03c9h, 256 at a
+15,01 time
+15,01        push    dx           ; let's check for retrace so no snow occurs
+15,01        mov     dx,03dah     ; this is standard retrace checker
+15,01fade2:  in      al,dx        ; wait until writing to the screen
+15,01        test    al,08h
+15,01        jz      fade2

@@ -1,0 +1,25 @@
+15,01             +     .+@+.         .
+15,01  `7MMMb._  dSb` .dMMMMP'   . _.,7,._                   kresile iesone &
+15,01   NMMMMP' dSSSb `7MMMM: .dP'.`MMMMMMMMM'++++++++++ +   discyple the great
+15,01   MMMM:  dSSSSSb `7MMMMMP'.dSb,`MMMMMMM+.`YSSSSSSS
+15,01   MMM(  d+SSSSS`b `7MMP'.dSSSSSb.`MMMMMMM+.`YSSSb. .
+15,01   MMMM `  lSSSS: `,dM`.dSSSSSSSSSb`MMMMMMMM+.`YSSSb.____________
+15,01   MMMMb._ :SSSSl MP',dSSSSS'`YSSSSS.`MMMMMMMMb.`YSSSSSSSSSSSSSSS   (j)ust
+15,01   lMMMMMMM SSSSS ',dSSSSSSl   `YSSSS,`MMMMMMMM' +SSSl|SSSS.
+15,01   :MMMMMMM lSSSS:dSSSSSSSSS `b. YSSSS.`MMMMM+',dSSSP lSSSS: M+` .+gp+.
+15,01  .dMMMMMM' :SSSSSSSSP'lSSSS: lM: $SSSS `MP+`,+SSSY' ,:SSSSl '.dSSSSSSSSb.
+15,01  MMMMMMMMb. lSSSSSP'. :SSSSl :Ml lSSSS: '.+dSSSS' ,dM SSSSS.dSSSP+^^+YSSSb.`+
+15,01  `````````'__YSSSSb`M. SSSSS  MM :SSSSl#lSSSS+`,d+`+M lSSSSSSSP' ,db, `YSSSb ++
+15,01 `YSSSSSSSSSSSSSSSSSb.` lSSSS: lM: SSSSSS|$+` _.,+sS M :SSSSSP' ,dMM|Mb. lSSSb `
+15,01   `YSSSSSS..++++++++++ :SSSSl :Ml lSSP+` .+* :SSSSl ` .SSSY' .+2"^` _.,+dSSSSb
+15,01  b. `SSSSSS,`MMMM|M*+2  SSSSS  MM '` *'`_.,++:SSSSk#SSSSSSSb.,++s#SSSSS|SY*+2"`
+15,01  MMb. YSSSSS, `2` _.,++sSSSSSl.,,++s%#SSSSSS|SSSSS|Y*+2YSSSSSSSS|S*+2^.,+@MP'`
+15,01  `7MM) YSSSSS,++SSSSS|SY*+2"^+SSSSSS|$*+2"^``SSSSS ,s#, YSS|S*2`.,+@MMMMMMMb.
+15,01  .MMP'  SSSSS|$Y+2"``.+MMMMMM+ YSSY`   ,+dM :SSSSl MMMM. Y`.,+@MMMMMMMMMMMMMMb.
+15,01 .MP'    SP+"`.+MMMMMMMMMP'''''` YSSb`YMMMMl lSSSS: MMM|P,+SMMMMMMMMMMMMMMMMMMMM
+15,01 :MMb.  `.+MMMMMMMMMMMMMM: SSSSSSSSSSS,`7MM: SSSSS  +2`'7MMMMMMMMMMMMMMMMMMP'`7`
+15,01 `7MMMMb.  `````'7M|||MM+' +++++++++++++ :M :SSSSS|P+` .+MMMMMMMMMMMMMMMMP'   '
+15,01   `7MMMMMb.      `'7`   `'7MMMMMMMMMMMMMMM lSSP+` .+MMMMMMMMMMMM+'` `'7'
+15,01     `7MMP'` `  .   '  .   `'27MMMMMMP2'` . '` .+MMMMMMMMMMMMP'`       '
+15,01       `'           .          `'27'`
+15,01>

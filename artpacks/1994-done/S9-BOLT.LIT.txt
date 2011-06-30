@@ -1,0 +1,25 @@
+
+
+15,01                     14Lightning, powerful as many.
+
+
+15,01               00A bolt of lightning|streaks down the sky.
+00,01   It licks the sky like rain slid09|00ing down a tin roof to the ground.
+15,01           00This lightning tends to03|00choose not what it hits,
+15,01                      00but where it14|00wishes to go.
+15,01           00The lightning selects a14|00friendly tree to aid it.
+15,01      00The noble tree mocks the pow14|00erful streak of lightning,
+15,01                00but it stays stead15|00fast to its goal.
+15,01            00--09--03--14-------------15--00-+-15--14-------------03--09--00--
+00,01  It nears the tree and enters it,15|00carressing the branches gently.
+15,01            00The electricity slides14|00through the limbs,
+00,01 sending the purifying force of fi14|00re throughout the lifehood of the tree.
+15,01             00The tree feels the pa03|00in of its remembrance.
+15,01               00It falls, lightning09|00smiles upon itself.
+15,01                                  00|
+
+
+15,01                         14Strict9 [Shv/Alv]
+
+15,01>SAUCE00Bolt of Lightning                  Strict9             Shiver           
+15,01   19940925E*  @@P v                             

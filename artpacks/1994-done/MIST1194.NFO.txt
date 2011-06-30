@@ -1,0 +1,80 @@
+
+15,01 08,14#01,08@08,01"14m12,14# 14,01"mm"15 14mm08,14###14 08#14,01"""m12,14#01,02@14#02,01"15 14,02  #15,01 14,08Qt##01@@15,01 14,14 12#01,02@02,01m"14,02#01@15,01 14,08#01@08,14##14,01"08mm14,08#01@14,01m"12,14##14,01m"08,14 # 14,01mm"08,14#01,08@15,01 12,14  #15,01 12,14 #01,02@15,01 08,14#
+15,01 01,08@08,01 01,02@12,14#14,01"02m01,02@12,14#02,01 08m01,08@@@14,01""08mmm14,08#02,01 12,14##01,02@02,01"14m#14,02## 15,01 08,14#14,01m08"14,08####01@14,01m"01,02@14#02,01m"#14,08##01@14,01"m01,08@@14#01@14,01""02 14"12,14#01,02@02,01m14""08,14## #14,01m08"14,08#02,01 12,14##01,02@02,01 01,02@15,01 01,08@08,14#
+15,01 08 14,02#01@14,01"02m14,02#01@15,01 01,08@08,01""mm"""11mm02 12,14#01,02@14#02,01"15 14m01,02@@02,01"14m08,14#01,08@@08,01m"14,08# ##01@08,14#14,01m02"14,02#02,01m08"14,08 #08,01 08,14##01,08@08,01""14m""00m02 01,02@14##02,01m08"#m14""08,14##14,01m08"#01,02@@14#02,01#14,08##01@
+15,01 08m02"14,02#02,01m""08m14,08#08,01m""00mm14,00 10#15,11@00#02,01 12,14#01,02@02,01"14mm12,14#01,02@08,01 11m08"mm""01,08@14#08,01 14,08 # #01@08,14#01,08@14,01mm02"#08#08,14# 14,01"m08,14#14,01"11m00,11#15@@10,00#02,01 14,02# #02,01 10,00 00,01mm08"#m14"08,14#08,01#m02"14,02##02,01 14,08 #
+15,01 08"02m"14,02#02,01m08"14,08#08,01"00m14,00 10 #14 10#15,11@00#11,01""14mm12,14#14,01""11mm00,11###11,01#08"01,08@14#08,01mmm14,08##01@08,14#14,01"m08,14#01,08@08,14#14,01"08,14#01,08@14#08,01m01,08@08,14#11,01#00,11## #15@@02,01 14,02 # 02,01 10,00##   00,01m08"m14"02 12,14#14,01m02"14,02#02,01m08"
+15,01 02 14,02 #02,01 "m08"14,08#08,01mmmmmm15 14m12,14#14,01""02mm08 mmmmmm01,08@08,14##01,08@14## #01@08,14#14,01"m08,14#01,08@14#01@08,14#14,01 08,14#01,08@14##01@08,14#08,01mmmmm02 m14,02# 02,01"08mmmmmmm14,08##01@08,14#02,01 12,14#01,02@02,01m#"
+15,01 14m02"14,02 02,01m08"mm14,08##  #08,01"14m12,14#14,01"08m02 14,02##01@14,01 14,08 ###01@08,14## ##01,08@14##01@08,14##14,01m08,14#01,08@14###01@08,14#14,01 08,14#01,08@14### #  #15,01 14,02##01@15,01 14,08    # ####01@08,14#02,01 01,02@14# 08,01#
+15,01 08,14#14,01m02"14,02#02,01m08,14#01,08@@@14##08,01"14m12,14#15,01 14,08# #02,01 01,02@@12,14#14,01 01,08@@08,14## ##01,08@14#01@08,14##14,01""08,14#01,08@@14#  # 01@08,14#14,01""08,14#01,08@@14# ##15,01 01,02@@14#15,01 14,08 # #  ## #01@14#01@08,14#14,01m02"14,02# 
+15,01 08,14 # 14,01m02"14m08,14###01,08@@15,01 12,14#15,01 14,08# ##01@08,01m14"12,14##14,01m"08,14 ##01,08@@14#01@08,14#14,01"m08,14##01,08@08,01m14,08# #  #01#@@08,14#14,01m"08,14#01,08@14# 14,01m12,14##14,01"m01,02@02,01m08"14,08  # # #01@14#01@08,14#01,08@08,14##14,01m02"
+15,01 14mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+15,01 14,14 14,01|00Mist News Extra!14                   |14,14 14,01|00Cthulu the rushed
+15,01 14"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01 
+
+15,01         00M15IST 00N15OVEMBER 00199415 00I15NFORMATION00:
+
+
+15,01         Note: This was originally intended to be a coupla articles for Kithe.
+15,01         However, as time constraints and the dilemma of dinner versus mist
+15,01         crept ever nearer, it was decided to just throw everything leftover
+15,01         into a big ole text file, like the big boys do.
+
+15,01         As was the original purpose of this text, I URGE you STRONGLY to unzip
+15,01         00KITHE#2.ZIP15 included in the archive RIGHT NOW and read it 20 times. OK,
+15,01         you can stop now. But it's a valuable source of information for anyone
+15,01         interested in mist (contains our member and site lists), entertaining,
+15,01         and has a new MUSIC PLAYING FEATURE! (w-o-w). So, go out and unzip it
+15,01         today. And while you're at it, check out 00QT-MIST1.ZIP15... a bouncy
+15,01         .BIN Mist promo. Boy, can our dad beat yours at bowling or what?
+15,01         Also of note, our viewer isn't screwed up massively this time, so all
+15,01         the pieces of artwork should do fine under it (except 00ALLEYCAT.MOD15...
+15,01         it makes my printer shart going crazy. So be warned...)
+
+15,01         As to the site listing, all the boards with (Net) next to them
+15,01         indicates that, although the boards do not currently have 00k15itschnet up
+15,01         and running, they will shortly. (Hopefully 8)
+
+15,01         Lit... if you don't like it, don't read it, but don't complain about it
+15,01         'cause there are those of us who DO like it. Besides, you're grouping
+15,01         us all together, and that's being narrow-minded. So read lit, and
+15,01         become enlightened. Blah.
+
+15,01         To get info on 00m15ist, in quebec, talk to 00E15erie... on the internet,
+15,01         you should be able to find 00D15r. 00C15PU, 00W15hite 00I15nsanity, and others cruising
+15,01         the 00IRC15 in 00#15ansi, 00#15art, and, best of all, 00#15mist...
+15,01         For you non-net-surfers, call 00T15he 00S15creaming 00T15omato 00(1560400)1543000-158805.
+15,01         00N15itty will be there on call to answer most questions, and I respond
+15,01         to mail there within one day...
+
+15,01         Last of all (sheesh, I haven't even started the article yet... this
+15,01         really should've gone in 00k15ithe), I have been forced to retract my
+15,01         terms of being willing to merge that I stated in last month's pack.
+15,01         Though I am willing to merge, the artists aren't, so, sorry, 00S15hiver.
+
+15,01         And now... the actual ARTICLE! (Yaayyyayyay!)
+
+
+15,01         001)15 NEW MEMBERS 00/15 OLD MEMBERS WELCOMED IN 00/15 KICKED OUT00:
+
+
+15,01         NEW MEMBERS00:
+
+15,01         00Y15og, 00P15urple 00H15aze, 00E15xcrement-00E15ater are all honourary lit members, me
+15,01         having found them on 00A15l's 00H15ouse of 00M15eats, home of the 00i15magination
+15,01         00l15iberation 00f15ront. Good board. Call it for REAL art.
+
+15,01         00P15haze 00(15yes, the guy who drew that neat turkey last month and got us
+15,01         00m15isters a buck off admission for 00N15ew 00M15edia 00'1594, yes, him.00)15 and
+15,01         00R15ed 00S15corpion are welcomed into our 00ANSI15 drawing department.
+
+15,01         00P15rofessor 00P15ukoid is welcomed into our music department...
+15,01         And 00I15llusionary 00E15nigma is welcomed 00BACK15 into our music department as
+15,01         well...
+
+15,01         DEAD MEMBERS00:
+
+15,01         00D15arkseid, 00V15isionary, and 00A15rchangel have been KICKED OUT due to
+15,01         inactivity. You COULDA called, guys. Sheesh.
+

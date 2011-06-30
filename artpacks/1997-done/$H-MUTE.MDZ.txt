@@ -1,0 +1,12 @@
+15,01MODINFO1
+
+15,01MODULE $H-MUTE.XM
+15,01SIZE 690577
+15,01  TYPE XM
+15,01  TITLE Mute Corridors
+15,01  CHANNELS 12
+15,01  PLAYTIME 4:00
+15,01  CDATE 01.06.1997
+15,01  COMPOSER shinigami
+15,01  STYLE Quake style music
+15,01  COMMENT write me complaints at shinigami@deathsdoor.com

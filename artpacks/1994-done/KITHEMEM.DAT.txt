@@ -1,0 +1,80 @@
+15,01Begin1
+15,01Mist Mem's 10/94
+15,01Cthulu
+15,0145 
+15,01<BOF>
+15,01MiSTiGRiS
+
+15,01"By the artists, for the artists"
+15,01"Letting the inmates run the asylum" -Pure Voltage/Raid
+
+15,01MiSTiGRiS Member list:
+15,01MEMBERS: 37
+
+15,01                + Lit +
+15,01      +-----------------------------------------------------------------+
+15,01      | Cthulu, Grateful Dead, White Insanity, D'Artangnan, Magik Elvis |
+15,01      | Beatle, Toxic Cockroach, James Joyce (Lionbird of Thor Mountain |
+15,01      | and Battered Crow), Darkseid, Soul of Allusion, fUp, Livewire,  |
+15,01      | Tzeentch, Eoanya, Etana, Binty, Merkury.                        |
+15,01      +-----------------------------------------------------------------+
+15,01                + Ansi +
+15,01      +-----------------------------------------------------------------+
+15,01      | Mavrik, Nitnatsnoc, The Mage, Visionary, Minus, Questor,        |
+15,01      | Tzeentch, Eerie, Zoltar, The Naughty Tycoon, Diamond Traveller, |
+15,01      | Etana, Adidas, The Extremist.                                   |
+15,01      +-----------------------------------------------------------------+
+15,01                + VGA +
+15,01      +-----------------------------------------------------------------+
+15,01      | Archangel, Tzeentch.                                            |
+15,01      +-----------------------------------------------------------------+
+15,01                + Music +
+15,01      +-----------------------------------------------------------------+
+15,01      | Darkseid, Raidair X.                                            |
+15,01      +-----------------------------------------------------------------+
+15,01                + Coding +
+15,01      +-----------------------------------------------------------------+
+15,01      | Mavrik, Dr. CPU, Minus, Toxic Cockroach, Helter, Questor.       |
+15,01      +-----------------------------------------------------------------+
+15,01                + Couriers +
+15,01      +-----------------------------------------------------------------+
+15,01      | Master of Darkness, The Narccissist, Minus, Cool Hand.          |
+15,01      +-----------------------------------------------------------------+
+
+15,01                + Good-Bye's +
+15,01      +-----------------------------------------------------------------+
+15,01      |  Inquisitor (ANSI), Eternal Silence (ANSI), The Edge (VGA),     |
+15,01      |  Illusionary Enigma (Music), Admiral Skuttlebutt (Music),       |
+15,01      |  Pestilence (VGA/Courier).                                      |
+15,01      +-----------------------------------------------------------------+
+15,01<EOF>
+15,01Begin2
+15,01Mist Sites 10/94
+15,01Cthulu
+15,0127 
+15,01<BOF>
+15,01 +--------------------+ +------------+ +---------------+ +--------------------+
+15,01 | Boards Name        | | Number     | | SysOps Name   | | Affiliation        |
+15,01++--------------------+++------------+++---------------+++--------------------++
+
+15,01|The Screaming Tomato  |(604) 430-8805| *Nitty/Cthulu   | WHQ/Net              |
+
+15,01|Sarcastic Toaster     |(418)    -    | Eerie           | CHQ/Net              |
+
+15,01|Daemon's Gate         |(604) 948-0363| Mavrik          | KiTSCHNet WHQ/Mem/Net|
+
+15,01|InterZone             |(604)    -    | Beatle          | Member               |
+
+15,01|Neo-Graceland         |(604)    -    | Magik Elvis     | Member/Net           |
+
+15,01|Fast & Furious        |(604)    -    | minus           | Member/Net           |
+
+15,01|Al's House of Meat    |(604)    -    | James Joyce     | Member               |
+
+15,01|Salem's Lot           |(604)    -    | Helter          | Member/Net           |
+
+15,01|Destructive Revolution|(604)    -    | Eternal Silence | Net                  |
+
+15,01|Atlantis              |(604)    -    | The Edge        | Net                  |
+
+15,01|Chaos Domain          |(604)    -    | DIgital Ranger  | Net                  |

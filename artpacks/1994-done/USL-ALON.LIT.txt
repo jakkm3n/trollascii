@@ -1,0 +1,31 @@
+14,01Alone
+15,01#...............................
+
+02,01Alone
+14,01No one is near
+14,01Down from my eye
+14,01Drips a small tear
+
+02,01Sadness
+14,01All has gone wrong
+14,01Deeper I sink
+14,01When singing her song
+
+02,01Love
+14,01Gone but once mine
+14,01She left my soul empty
+14,01Though it healed in time
+
+02,01Recovery
+14,01Life starts to improve
+14,01Yet still the thought lingers
+14,01She watches each move
+
+02,01Resolution
+14,01My life again flows
+14,01For she's watching me always
+14,01Guiding my growth
+
+15,01-usl [vi]
+
+15,01Dedicated to my late Aunt/guardian.  May she rest in peace.

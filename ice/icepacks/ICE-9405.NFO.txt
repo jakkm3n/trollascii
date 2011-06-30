@@ -1,0 +1,62 @@
+15,01                                            00mm|14,00  00,01mm14"15"00,15"14,00 00,01"  "
+15,01                                       00mmm14,00 00,15"15,01 00"14,00  00,15"00,01""14,00 00,01m
+15,01                                 00m14,00   00,15"00,01""15             00,15"00,01m15      00mm00,15m14,00   00,15m15,01m
+15,01                                  00"15                    00"15,15@15,01"00"00,15"14,00         00,15m
+15,01                                   14 15       m00,15m14,00     00,15m15,01      00"14,00 00,01mm "00,15"14,00      00,01|
+15,01                                  00,15|14,00 15,01      00,15m14,00 00,01"15"00""14,00 00,15"15,01    00|00,15m15,01   00,15"14,00  00,01m  14,00    00,15"
+15,01                                 00m14,00  00,15|15,01    00,15|14,00 00,01|15         00,15m14,00   00,15m15,01   00,15"14,00 00,01m|14,00 00,01 mmm15m
+15,01                             00mm00,15m14,00     00,01    14,00  15,01m      00m00,15m14,00       00,15m15,01  00"14,00 00,15"15,01 00|14,00     00,15m
+15,01        What's new in:   m00,15m14,00          00,15|15,01   14,00   00,01mm00,15m14,00             00,01| 14,00 00,01| 00,15m14,00       00,01|
+15,01                             "00""00,15"14,00     00,01mm 00,15|14,00                  00,01  00,15|14,00         00,15"
+15,01                                   "00""15"   00,15"14,00               00,15"15,01"   00"00,15"14,00    00,15"00,01"
+15,01                                   00DT/i10C11E   15"00""00,15"14,00     00,15"00,01""15"
+
+15,01 001.  15Hey, it's me again.  Not much been happening this month, been sorta slow
+15,01     mostly due to the fact that everyone worked their hearts out last month.
+15,01     Well let's see what HAS happened though . . .
+
+15,01 002.  15A great loss that 00i15CE has suffered this month is the loss of 00Inquisitor15,
+15,01     definately the best Courier Coordinator that the group has ever had, and
+15,01     possibly the best CC that I have ever seen in the ANSi scene.  We'll miss
+15,01     you man.  Also leaving is 00Amroth15, 00Magnus15, 00Prime Evil15, and 00Spaceman Spiff15.
+
+15,01 002X. Xerobe 15will be temporarily be taking the place of 00The Inquisitor 15until
+15,01     a replacement is found.
+
+15,01 003.  15A new member is an ANSi artist coming over from ACiD, 00Iron Man15.
+15,01     Quite an artist, and though he didn't release anything for us this month
+15,01     we are definately looking forward to seeing him produce in the months to
+15,01     come.  Also joining back up with us is 00Lord Carnuss15, a great artist.
+15,01     As for our VGA section, an artist named 00Critical Perspective 15has been
+15,01     added this month, and some very nice work by him is in this pack.  Last
+15,01     but not least is the coder 00Cap-n-Crunch15.
+
+15,01 004.  15A minor policy change this month is that literature will no longer be
+15,01     released as stand alone files, rather it will be incorperated into ANSi &
+15,01     VGA pictures.
+
+15,01 005.  15The iCN hub is Sanctuary(tm), 3o5.792.8771.  If you are an iCE
+15,01     member, and a sysop of your own board, call there and apply to get
+15,01     the network.  The net has been condensed, and it is all private now.
+
+15,01 006.  15There are a couple pictures that can't be viewed with Multi-View this
+15,01     month, they are the .EXE by 00Cid Vicious15, and a .JPG by 00Twink15.  Also is
+15,01     the .EXE CC-AL1.EXE.
+
+15,01 007.  15In handle changing news 00Aphex Twin 15changed his handle to 00Ellis Dee15.
+15,01     Hmmm, how much worse could these handle changes get you ask?!?!  Well
+15,01     let's take for example that 00White Devil 15just changed his handle to 00El
+15,01     00Jaffe15, that's how much worse it could get! :)
+
+15,01 008.  15Also, the 00i15CE US HQ has gone down and is being replaced by the non-
+15,01     existant-as-of-yet-(yeah right) 00Pantheon15!
+
+15,01                                                           - 00Shaggy 14[00i15CE14] 15Staff
+15,01                                                                  shaggy@io.org
+
+15,01 Greets:      00iNKY 14- 15Trust me, she resembles the Aerosmith girl
+15,01         00Lord Soth 14- 15Is your middle name "Opie"?  01BTW, you're GODLY...
+15,01           00Memphis 14- 15Uhh on time?!?!  As Senior Staff I can't let that happen.
+15,01        00Inquisiton 14- 15CC go bye bye?  You should use codezzzzzz.
+15,01            00Syntax 14- 15How's Juicy Lucy doing? :)
+15,01            01Froggy - I think i'm in love :)

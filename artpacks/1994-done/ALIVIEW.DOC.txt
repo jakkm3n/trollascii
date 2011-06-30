@@ -1,0 +1,40 @@
+
+15,01                             ALiViEW v2.1
+15,01                            --------------
+
+15,01Coded by-
+15,01  Ascension
+15,01     w/ assistance from Byteman [/+LiVE/Sen]
+
+15,01All Viewer Art by-
+15,01  Mass Delusion
+15,01  \|ariation
+
+
+
+15,01    ALiViEW was coded specifically to be included as a viewing utility
+15,01for ALiVE productions. Although lacking in many high rez features common
+15,01to a lot of viewers out there, it maintains some unique features of it's
+15,01own. This includes-
+
+15,01  # Full Sound Card Support for .MOD play
+15,01  # Variable Volume Control
+15,01  # Internal .GIF routines
+15,01       . Rez 640x480x256+ require VESA support
+15,01  # Shells out to DeadView for RiP Support
+15,01  # Easy to use Interface
+
+
+15,01    We regret the fact that higher resolution ansi viewing is not included
+15,01in this months version but we promise it will be included in months upcoming
+15,01along with scrollback and a host of unique VGA routines. Hopefully, we'll get
+15,01a decent looking .DOC file too. ;)
+
+15,01-------------------------------------------------------------------------------
+15,01Side Note:  (not mentioned in viewer os)
+
+15,01  "P" will pause
+15,01  all ansi displays,
+15,01  otherwise any key
+15,01  will abort.
+15,01                                                       -asc [ali/prog]

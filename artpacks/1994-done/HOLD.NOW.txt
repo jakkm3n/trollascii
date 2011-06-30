@@ -1,0 +1,48 @@
+15,01                                                                     14ans -SZ MAD
+14,01--------------------------------------------------------------------------------
+15,01          00. 08*15.   00,00 00,04"""""""""""""""00,01m  15.  00m00,04"""""""00,00 15,01    .00m00,04""""""00,01m15           .     00.
+15,01                 14,00 00,04mm04@@@00mm04@@@@00mm04@@@14,00 00,01   "00,04mmmmmm04@@00,00#15,01 00.  "00,04mmmmm04@@@00,00#15,01  .       08*
+08,01  15.                15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01 08*    15.  15,15@13,04##15,15@15,01     mmmm.15,15@13,04##15,15@15,01         00.
+15,01                   00,15#00,04  00,15#15,01. 00,15#00,04  00,15#15,01 00.00,15#00,04  00,15#15,01    m15,04"""""  00,15#15,01     00,15#00,04  00,15#15,01 00,15#00,04  00,15#15,01  00.
+15,01                   00,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01 00. 00,15 14,04##04,01""""14,04##14,15 15,01 08* 00. 00,15 14,04##14,15 15,01z15,15 14,04##14,15 
+15,01     .       .     14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01   14,15#01,04@@04,01mmmm01,04@@15""14,15#15,01   14,15#01,04@@@15""01@@14,15#15,01 .      .      08*15.
+15,01  00.15     08*   00.15      01,15@14,04mm01,15@00,01. 01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01 .  14"14,04mmmmmmmmm01,15@15,01  . "14,04mmmmmm01,15@15,01       .      00.
+14,01--------------------------------------------------------------------------------
+15,01             00Malicious Art Denomination  -  Site Listing - May '94
+14,01--------------------------------------------------------------------------------
+14,01---------------------------------+04-13-00-MAD-HQs-13-04-14+--------------------------------
+14,01   00System Name15            00System Sysop15       00System Number15       00System Status
+15,01Terminal Psychosis        Sub-ZeroX          (713)837-9708       MAD WHQ
+15,01The Visage                Brimstone          (708)965-4643       MAD Central HQ
+15,01OPEN!                     00YOU15                00(WOW)YOU-HERE15       00MAD ?HQ
+14,01--------------------------------------------------------------------------------
+14,01----------------------------+04-13-00-MAD-Member-Boards-13-04-14+---------------------------
+14,01   00System Name15            00System Sysop15       00System Number15       00System Status
+15,01Silicon Wasteland         Dark Spyre         (713)TMP-DOWN           Down
+15,01Black Sunshine            Doomsday           (713)427-6837       Member Board
+15,01The Wall                  Cougar             (713)723-3113       Member Board
+15,01G.O.D.                    Toxic Carnage      (713)PRi-VATE       Member Board
+15,01Shock Of The Hour         Bozack             (713)PRi-VATE       Member Board
+14,01--------------------------------------------------------------------------------
+14,01----------------------------+04-13-00-MAD-Distro-Sites-13-04-14+----------------------------
+14,01   00System Name15            00System Sysop15       00System Number15       00System Status
+15,01State of Euphoria         Haze               (713)469-9589       Distro Site
+15,01I.C.E.                    Corporate Spy      (XXX)MAD-SiTE       Distro Site
+15,01Heretic Asylum            Jello              (404)947-2500       Distro Site
+15,01The Morbid Sacrilege      The Duellist       (514)492-8067       Distro Site
+15,01Harvest Moon              QuR'aN             (216)951-7059       Distro Site
+15,01Digital Rift              Stony              (805)527-8495       Distro Site
+15,01Ravenhill                 Soul Seeker        (908)536-0025       Distro Site
+15,01Necropolis                Cyberbeast         (713)MAD-SiTE       Distro Site
+15,01Cyber Hell                Hectic             (209)465-9606       Distro Site
+15,01Entrapment                Temptor            (410)558-5113       Distro Site
+15,01Toal Chaos                Evil Syndicate     (209)432-7915       Distro Site
+15,01Action and Reaction       Suicide Jack       (810)348-3994       Distro Site
+15,01Fade2Black                Kreiger            (810)348-9405       Distro Site
+15,01Federal Reserve Elite     Intruder           (XXX)MAD-SiTE       Distro Site
+15,01Permanent Illusion        Shadow             (908)537-7896       Distro Site
+15,01DNA                       Narcissus          (813)751-3069       Distro Site
+15,01Psychotic Evolution       Rustic Albino      (818)879-0905       Distro Site
+15,01Maniac Depression         Black Magic        (713)TMP-DOWN       Distro Site
+15,01Alive Affects             Dax                (713)420-1916       Distro Site
+14,01--------------------------------------------------------------------------------

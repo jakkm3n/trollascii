@@ -1,0 +1,25 @@
+15,01o9/29/93: Beta 9
+
+15,01  Beta 9 is released. No other betas before this were released due to MAJOR
+15,01  bugs :). Now this should be virtually bug-free! (Still testing it though).
+15,01  Next release will include names of the people who enter rumors so that only
+15,01  that person (or someone with the sysop-defined SL) can delete that rumor.
+15,01  P.S. There is a delete, but I dont tell everyone else that, and it works
+15,01  :). Otherwise this is a totally working version and I hope you like it.
+
+15,011o/o4/93: Release 1.o!
+15,01 
+15,01  I forgot to add the goodies in here but I beta'd until Beta 12!
+15,01  Now there is username support w/delete! SYSOP can delete ANYTHING. Otherwise
+15,01  to delete you have to be the user who entered the rumor.
+
+15,01o1/o3/94: Release 1.2 - Defcon 4 Revision
+
+15,01  Configurabilty added.  You can now set which symbols you want to use for
+15,01  the opening and closing rumor marks.  You can also set the color of these
+15,01  marks and the color of the rumor itself.  Added it an optional external 
+15,01  menu and a configurable prompt.  Fixed bug in the sysop deletetion.  
+15,01  Sysop now really can delete anything and his name doesn't have to be sysop.
+15,01  Added a install program and sample rumor file too simplify installation.
+
+15,01--- <EOF>  

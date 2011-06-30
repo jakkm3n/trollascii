@@ -1,0 +1,48 @@
+15,01LOADFONT: Load a user-defined font to EGA/VGA. Version 1.5, Apr 16 1993
+15,01Copyright (c) 1991-1993 by Yossi Gil, P.O.Box 3148, Jerusalem, ISRAEL.
+
+15,01Email: yogi@cs.technion.ac.il
+15,01Usage:   LOADFONT [height] [range] [flags]                 (use standard input)
+15,01  or     LOADFONT [height] [rangeop(s)] [flags] fontfile        (use font file)
+
+15,01Will load a text-mode font from stdin/fontfile to the EGA/VGA adapter memory.
+15,01LOADFONT looks for 'fontname' in the current directory and then in all
+15,01the directories specified in the FONTPATH environment variable. Multiple
+15,01directories in FONTPATH are separated by ';' chars.
+
+15,01    'height' is the number of scan lines per character. When this parameter
+15,01is absent LOADFONT tries to make an educated guess of the height based on the
+15,01system's display adapter (1st form), the last two charcaters of the FONFILE
+15,01extension, and the size of FONTFILE (2nd form).
+
+15,01    'range' in the form of n:m specifies that font has to be loaded for
+15,01characters n..m. The default is 0:255. Range aliases such as 'digit' are
+15,01recognized. 'rangeop' in the form of [+|-]RANGE allows a finer control on
+15,01which characters a font is to be loaded. Rangeop aliases such as 'alnum' are
+15,01recognized.
+
+15,01FLAGS   -b<n> Load font to bank (block) n    -H   Display another help screen
+15,01        -h    Display this help screen       -?   Display all help information
+
+15,01RANGE ALIASES
+15,01   full   0:255      print 32:126      misc  128:175      heb7    96:122
+15,01   ascii  0:127      graph 33:126      draw  176:223      hebibm 128:154
+15,01   meta 128:255      digit 48:57       other 224:255      hebdec 224:250
+15,01   ctrl   0:31       upper 65:90       greek 224:235      heb    128:154
+15,01                     lower 97:122      math  236:254      heb8   224:254
+15,01   alpha = +lower +upper, alnum = +alpha +digit, punct = +print - alnum,
+15,01   xdigit = +digit +65:70 +97:102, space = 9:13+32:32,
+15,01   accent= +128:154 +160:166
+
+15,01EXAMPLES
+15,01   loadfont 14 < italic.fnt                (load an italic font of height 14)
+15,01   loadfont sanserif.f16                  (load a sanserif font of height 16)
+15,01   loadfont 16 128:255 < rom.fnt   (Let 8th-bit-set chars be like 7bit ascii)
+15,01   loadfont +0:128 -punct smallcaps.f08          (Load non punct ascii chars)
+
+15,01SEE ALSO
+15,01   withfont, dumpfont, charset, breakcpi
+
+15,01COPYING POLICY Copy freely for private use. Usage as part of any commercial
+15,01  package is under the same restrictions as of Rhaul Dehsi ZOO program. If
+15,01  you cannot obtain ZOO, you cannot use 'loadfont' commercially.

@@ -1,0 +1,78 @@
+15,01                    00_.++g%#$$$$$$$ffffffffffff$$$$$$$$$$$$7`4$$$$$$$$$$#$L
+15,01               00,+g#$$$+$$$$$$$$$$$ffffffffffff$$$$$$$$$$$7 d$$JJJ$$$$$$$$$L.
+15,01           00, `4$bY`4$$b`4$$$$$$$$$ffffffffff$$$$$$$$$$$7`+$$JJJ$$$$$$$$$$$$$$%+ 
+00,01_.,+%#SL   `$+,'$$$,`T$b,`4$$$$$$$$$$$$$$$$$$$$$$$$$d\`,+$$JJJ$$$$$$$$$$$$$$$$$
+00,01SUUUUIIiI+_+4S#,`+|$$,`!$b,`4$$$$$$$$$$$$$$$$$$$$$$\' +$$$JJJ$$$$$$$$$$$$$$$$$$
+00,01UUUUUUUIiUUUUIIib. +$$h,`T$b,'/|$$$$$$$$$$$$$$$$$\' ,\$$JJJ$$$$$$$$$$$$$$$$$$$$
+00,01UUUUUUUUUUUUUUUIiih, `+$b,`+$b+.`+4$||$$$$||$\+' .+\$$$$$JJJJJJJJJJJJJ$$$$$$$$$
+00,01UUUUUUUUUUUUUUUUUIiII%+4$$h+$$$$S/_,._````_.,_+%$$$$$$$$JJJIIIIIIIIIJJJJ$$$$$$$
+00,01IIIUUUUUUUUUUUUUUUUUUIIIIIIIIIIbY$$$$$$$$$$$$$$$$$$$$IIIIIIIUUUUUUUIIIIII$$$$$$
+00,01;;UUUUUUUUSSSSUUUUUUUUUUIIiiiIIUDIY$$$$$$$$$$$$$$$IIIIIIUUUUUUSSSUUUIIIIIII$$$|
+00,01;+i$$SSSSSSSSSSUUUSUUUUUUUUUUUUUUUU$$$$$$$$$$$$$IIIIIIUUUUUSSSSSSSSSUUUIII|\+''
+15,01   00 `'+*S|SSSSSSSSSSSUUUUUUUU$7^Y$;Y$S$$c$$$$$$IIIIUUUUUUSSSSSSSSSSSS|7+'` 
+15,01          00`'+*Q|SSSSSSSSUUUUUUUb Yb `$7 ,$',Y$$P`+/UUUUSSSSSSSSS|7+'`
+00,01  15              00`n*K|SSSSSSUUUU$: Tb `/ \\ d$lll+. `4|SSSSS|7+'`  _.,
+15,01      00+#+.15          00 `'n*4Q|SS$7' :JJlJl:::lJJll$$|/, 47+'`15      00`+Q'
+15,01        00`'15                  00`'^  ,$\ \ $,`$b `+'^` 
+00,01  10 15     10 15                     00,d$UU',\\'\/d$b
+00,01+, 15    00    15     00 15             00`4IIIIUUbd7d$$7'b+:15                             00+
+00,01ISb.   15   00 15    00 15               00 YIIIIU$$bY$$b,d$$,15                    00.  15   00.d$
+00,01UIII$S+._15                   00.,._ TIIUUS$$$8888887,b,15   00 15          00.. `15    00.+$$$
+00,01UUUUUIII$$Cp+,._15         00 .;,`+$$bYIIU$7`/$7`,88887,4+._  15    00`... `15   00.+|$$$$$
+00,01UUUUUUUUUUUUSSSI$S#%p++++#$$$b,`/IIIUU7 di7 ,$888888888$$/p+_,.__.,_+#$$88$$$$$
+00,01UISSSSSSSUUUUUSSSS$$$$$$ #,;IIIUUSSSSS8y$7y4$U+88888888888888S$$$U8888888$$$$$$
+00,01SSIISSSSSISSSSSSSSSSSSSIIUUUUU88888SSSSU88888888',88888UIiiiiIU88888888888$$$$$ 
+00,01IIISSISSSSIISSSSSSSSSSSSSSSIIIUUU88SNNNNS88ff$88U+8d$8888888UIiiiiIU88888888$$$
+00,01SISSUIISSIISSISSSSSSSSSSSSIIUIIUUU8NNNNSSUU',d88',8888888888888UIiiiiIU8888888$
+00,01IIUUUUUUUUUUUIISSSSSSSSSUUUIIIUUUU8SNNNSSUUd$7+Yd$888888888888888UIiiiiIU88888$
+00,01I7;, 7+nU$IISSSSSSSSSSSSUUUIIIIUUU8SSNNSSUUU7',d888888888UUUUUUUUUUUIiiiiIU888l
+00,01+c$U;s#S ;iISSUUUUUUUUUUUUUUUUUIIIUSSNNSSUU7 d8888888888UUUUUUUUUUUUUUIiilliii:
+00,01:iiIIIUUSSUSUUUUUUUUUU$$$$$UUUUUUIUSSNNSSUbydI88888888888UUUUUUUUUUUUUUIllli::.
+00,01.`:iiIIIUUSSUUS$$$$$$$$$$UU$ll;:.;USSNNSUUUUUU888888$\+''YUUUUUUUUUUUllll:.... 
+00,01.. :iiIIIUUSSUUS$$S$$$$$JJ7ll:..:iUIINNSUUUUUIII888$;  .d##+,,iiIUUUll::...... 
+00,01....:iiIIiiJJUUS$$S$$JJilF:,..:lIUI;ISSSSSSIUUUII887 ,dUUUUUUUUUUlll;.....15   00 
+00,01....:IiIIiiJJUUS$$S$$Jilf:..:iIIIUI;ISSSSSI;IUUII88b4UUUUUUUUIIIIlll.....15     00 
+00,01.....:iiI:iiJUUUS$USlll$$   ...+IUUI;ISSSI;IdU\n'4UUUUUUUUUUIIiiIII;.....15    00   
+00,01 ....:iiIiiJJUUS$SS$ilS$$: 15   00..:l|UI;ISSI;I\'  .UUUUUUUUUUUUIIiiiiI;.....15    00 
+00,01  .....::ii:iiUUSSUJllSS$& 15       00 `+*SSS\+`15   00,\JJJJJJUUUUUIIiiiiiiII....
+15,01   00.....:iiJJJUUUUUllJJSUSL 15           00   15    00,UUJJJJJJUUUUUIIii;;;;ii....
+15,01    00.....iiJJJSUUSUllJJSSSSL  15              00,dUUUUUUUUUUUUUIIii;;;;;;;....
+15,01    00.....:iiiJJUUJUUJUUUSSSSL,  15         00,+\lliiiilllllllllIIii;;;;;;;...
+15,01     00.....iiiiJJUJJUJUUUUlllllb+.15          00::::::: `^'2+==4$|i;;;;;;:...
+15,01     00.....iiJJUUUUSSSUII|\++n+15                             00  `^'+.::...15       00 
+15,01      00....:iJJJUUU||\+'`.,+++,15                  00,._
+15,01      00....;IU|Q7+'` ,+#$$$IIIib15              00,dUUUUU##s+,.15                    :
+15,01/     00....:''..,+g#$$IIIIIIIIIIb,15           00dUUUUUUUUUUUUUb.....15              \
+15,01/     00....:$$$UUIIIII||\++''^^`` 15           00`^'n+=*^cS$|$$$.....15             \+
+15,01++    00.....:+47^*+2'^`    15                              00`^'++l,.15           .\++
+15,01+++.   00   15                                                              .++++++
+15,01++++/+l                  00.,++%#CCL  15   00  jCC#%p+,._15                  .+\+++++++
+15,01++++++++\'        00_._+%S$$$$$$$$!   15     00 `$$$$$$$$$S#%p+,.....15    /+++++++++++
+15,01++++++\'    00..::l|fff$$$$$$$$$$$:          !$$$$$$$$$$ffllli;..15     '/+++++++++
+15,01| |+++     00. .:::iiUff$$$$$$$$$$/,        ,$$$$$$$$$$ffflli;..15        :+++++| |
+15,01| |+++        00.::iiUff$$$$$$$$$$$$b+_,,+g$$$$$$$$$$fffllIi;..15         :+++++| |
+15,01+++|||/        00..:iifff$$$$$$UUUUUUUUUUUSSJJJJJ$$$fffllIi;.. 15        .\++++++++
+15,01+++++++/         00..:iff$$$$UUUJJJlllllllllUJJJJJffffflll;.   15       .++++++++++
+15,01++++||||+,       00   '+*4$Q||JJlllllllllllllJJJJ|Q$J\+n"``     15    ,\+++++++++++
+15,01 |||||+++||/+,.//_          00```````````````````15          _\\_.,+\|||++++|| ||||
+15,01 |||||| ||||||||||$$$SSS@##%%%\+'`00_..,_15++00++++++++  15 %#S$||+++|||||||||||+| |++|
+15,01 |+++++++||||++++++++++++||+`00.+\$|QS7^=^**===++++   15++++||| ||||+++||++++++++++
+15,01++||||+++||||||||||||||||F'00,|$$7' 15.,_++++++gyyy%%%##||||||| |||||+++|||||||||++
+15,01||++++| ++++++++++||||||+ 00.88$$15&00 15`+/Q||||||||||||||||+++++| |+|||+++|||||||++++
+15,01++++++| +++++++++++++++++/.00'/|ff$p_,_ 15`^'+*4$+++++++++++++| |++++++++++++++++++
+15,01||||||| |||||||||||||||||||++.00`'+*4Q|ff#p+,._ 15`^'+4Q||||||| |||||| ||||||||||||
+15,01+++++|| ||||||||||||||||||||\+`      00`'+*Q|fff$#%+._ 15`+4||| |||||| ||||||||||++
+15,01+++++|| ||||||||||||||||\+`00 .++15            00`'+|ffff|f/, 15`4+++||||| +++++++++++ 
+15,01|||$00\++15 *4Q|||||||||\+` 00.+:|||$15                00`4ff|f|f|, 15`+|||||| +++++++++++ 
+15,01|7          `+/|\+`00 .+:||||||||/15                00:+|f||f||.15 `+||||| ||||||||||++
+15,01$:              00.+:|||||||||||||/.15            00_,\|f|ff|f|f.15 Q|\+'^ `^'++||||||$
+15,01|$.        00 .+:||||||||||||||||||||S#%+++g%#S|||||f|||||f|:15 :'          T\+'`  
+15,01++++\+` 00.+:|||||||||||||||||||||||||||||||||||||||||||||||j15 .           `      
+15,01                                                                               
+00,01xavii's spur posse15            00                                                 
+00,01never released this officially--very old ascii --the "s" is the only new part
+
+
+15,01                                              00 15                00-The Upright Man
+15,01                                             00 15                 00[Remorse Senior]
+15,01>

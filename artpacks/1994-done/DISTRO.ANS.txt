@@ -1,0 +1,80 @@
+15,01                                   04m   #  m
+15,01                            04m # m##m14,04 04,01m#m14,04 04,01mm# m #m #
+15,01                        04# m#m14,04 04,01m14,04 04,01m13,04mm13,01"""13,04m14,13   13,04 04,01|14,04 04,01m14,04 04,01mm14,04 04,01m#m m
+15,01                      04#m#m14,04 13mm13,01"13,04m14,13  13,01" 15m14,15 00m15,01m13"15mm13"13,04mm14,13 13,01"""""13,04m04,01m14,04 04,01#m #
+15,01                     04# m14,04 04 14,13 13,01| 14,15 15,01  m |14,15  00||15,01||00,15||13,01| 15mm14,15  15 00m15,01m13"13,04m14 04,01m#
+15,01                    04# #m14,04 13|13,01| 14,15   15,01|14,15 00#15,01m"14,15  15,01" 14,15  15,01"m14,15   15,01"14,15  00||15,01|13|13,04 04,01#m #
+15,01                     04m"14,04 13|13,01| 14,15  15,01||14,15 15,01|14,15 15  15,01 mmm m 14,15   15,01|14,15   00#15,01"13m13,04"14 04,01"#
+15,01                   04# #m04,04 14,13 13,01 15|14,15  13,01| 14,15 15,01 |14,15 15 14 15,01 14,15 00|15,01|14,15 00#15,01 ""14,15 15,01m""mm13"13,04m04,01m"#
+15,01                   04#"m|13,04|13,01| 14,15   15,01|14,13 13,01m| 14,15  00|15,01||00,15#15,01|14,15 00|15,01|14,15  15,01mm"14,15    15,01 14,13 13,04 04,01m#
+15,01                  04#m"m13,04m13,01" 15m14,15    15,01m13| 15m14,15  00#15,01|14,15  15,01|14,15  15,01m"14,15      15,01"13m13,04"04,01"#m# #
+15,01                04-  - ---13-04--13-04-13--------------------04-13-04--13-04--- -  -
+15,01                   04///13// Me15mber B00oard-Dis15tro listi13ng //04////
+13,01+04--- -  -15       04-  - ---13-04--13-04-13--------------------04-13-04--13-04--- -  -15         04-  - ---13+
+04,01|15                                                                              04|
+15,01      14B15oa00rd Name15              00Sysop15             00A/C15            00Descript15io14n
+04,01|15                                                                              04|
+
+15,01     14S15tr00eet Rage15             00Ryu15                0081315            00World 15H14Q
+
+15,01     14T15hu00nder Strike15          00Thunder15            0081315            00Member Bo15ar14d
+
+15,01     14A15sh00es of Dune15           00Lord Ash15           0081315            00Member Bo15ar14d
+
+15,01     14A15.O00.A15                   00Ali Baba15           0081315            00Member Bo15ar14d
+
+15,01     14K15ro00nic Physcosis15        00Physco Chaser15      0070815            00Member Bo15ar14d     
+14,01             
+15,01     14D15a 00UnderGround  15        00The Exorcist 15      0081315            00Member Bo15ar14d
+
+15,01     14Bl15ue 00Water15              00Thorax15             00+4115            00Switzer15la14nd
+
+15,01     14Wa15rn00er Studios15          00White Noise15        0060415            00Canadi15an 14HQ
+
+15,01     14Te15rr00a Firma15             00Soma15               0071415            00South Weste
+
+15,01     14Da15ze00d & Confused15        00Demented P.15        0090815            00Distro Si14te
+
+15,01     14T15.S00.A.15                  00Righteous15          0021515            00Distro S15it14e
+
+15,01     14P15le00asure Island15         00Dark Lighting15      0081315            00Distro S15it14e
+
+15,01     14D15ar00k Shadows Elite15      00Kronic G15           0090415            00Distro S15it14e
+
+15,01     14Sh00adowy Descent15         00Contact MiiS WHQ   61515            00Distro Si14te
+
+15,01     14E15ve 00of Chaos15            00Wire Fashion15       0091515            00Distro S15it14e
+
+15,01     14Pa15ck00aged Rebelion15       00Mass Delusion15      0091615            00Distro S15i14te
+
+15,01     14De15at00h Row15               00Flatlined Reality  41315            00Distro S15i14te
+
+15,01     14Th15e 008th Note15            00Domino15             0081015            00Distro S15i14te
+
+15,01     14Ha15rv00est Moon15            00Qu'Arn15             0021515            00Distro S15i14te
+
+15,01     14Th15e 00Spade15               00Mad Dog15            0060915            00Distro S15i14te
+
+15,01     14S15ke00letal Remains15        00Brimstone15          0061515            00Distro S15i14te
+
+15,01     14.15A.00....M.....F.15         00Gaurdston15          0081315            00Distro S15i14te
+
+15,01     14T15he 00Darker Image15        00Cyric Bane15         0020115            00Distro S15i14te
+
+15,01     14S15ku00lly Brothers15         00Rage15               0020315            00Distro S15i14te
+
+15,01     14S15te00ler Nites   15         00Someone  15          0061015            00Distro S15i14te
+
+04,01|    14T15em00ples of Syrnix15       00Urick15              0081315            00Distro S15i14te15     04|
+
+04,01|15                                                                              04|
+13,01+04--- -  -15                                                              04-  - ---13+
+
+15,01          04W13ell 15we 00got our second pak, and even though it to15ok an13othe04r
+15,01          042 13mo15nths00, we are close to being able to release m15onthl13y pa04ks.
+15,01          04W13e j15ust 00need a couple more artists, though we hav15e pic13ked 04up
+15,01          04m13any 15new 00artists within the last 2 months. We hav15e the 13Gre04at
+15,01          04A13nsi 15tal00ent of The Exorcist, Rip from Pit, Chaos'15s mod13s, a04nd
+15,01          04T13hra15sher 00(even though he was in the last member l15ist, 13he i04s
+15,01          04a13n a15ctiv00e member now).  And we have picked up a c15ourie13r from
+15,01          04T13iME15, Fl00are.  To all of you annoying people who m15ade m13e aw04are

@@ -1,0 +1,43 @@
+14,01afs.com 80x50 
+
+15,01       14_15                                                        14_
+15,01     14_/_\______________________________________________________/_\_   
+15,01    14(/15   08   15    08_15    08_15      08 _ _15       08 15  08__15                08_15     14\)  
+15,01    14/15  08|__ |_|15 08|_15 14 15 08|_|15 08|\/|15  08|15 08 __ \/15 08 15 08|__15  08|__15 08|__|15 08|15   08|_15  08_|15  14\
+15,01   14/|15  08|__15 08|15 08|15 08|_15   08|15 08|15 08|15  08|15 08_|_15 08   /\15 08 15 08 __|15 08|__15  08__|15 08|__15 08|_15 08|_|15  14|\
+15,01  14/_|______________________________________________________________|_\
+15,01 14))_____/15      14\__|15  08___15  08 _15    08__15         08__ 15  08__15   14|__/15      14\_____((
+15,01                14\/|15   08|15   08|_|15  08|15      08|15   08|  |15 08|15 08_ 15  14|\/
+15,01                 14\|15  08_|_15  08| \15  08|__15    08|__15 08|__|15 08|__|15  14|/
+15,01               14  _|__________________________________|_
+15,01              14  (_/15                                  14\_)15    08by thorass.
+15,01                14 
+
+
+03,01/server15 08vancouver.bc.ca.undernet.org15 086667
+14,01__[02crEEd14_)03:15 11Connected at the Vancouver Undernet Server
+14,01__[02crEEd14_)03:15 11thorax_ nickname already in use, please choose other:
+03,01/nick15 08thorass
+14,01__[02crEEd14_)03:15 11thorax_ is now knows as thorass
+14,01__[02crEEd14_)03:15 11Notify list:
+
+08,01***04 SpeedFrk is on IRC
+14,01__[02whois list14_)03:15 11SpeedFrk
+14,01__[02ident/ip14_)03:15 11~grunt@javacafe.co.za
+14,01__[02name/comment14_)03:11 Ian van Schalkwyk
+14,01__[02channels14_)03:15 11+#GaySelfPix
+14,01__[02server14_)03:15 11Vancouver.BC.CA.Undernet.Org, Canada Internet Direct Inc, - www.
+14,01__[02whois list14_)03:15 11SpeedFrk
+
+03,01/join15 08#gayselfpix
+08,01*** 04Now talking in #GaySelfPix
+14,01__[02topic14_)03:15 11the place where gays can meet.. no ! commands
+
+14,01<11Doctor_K14>15 oh yeah speedfreak, do it to me
+03,01* SpeedFrk likes the dick of the Doc in his tight ass... oh baby 
+14,01<11Doctor_K14>15 Hello thorass (i like yar name!), you want to join in?
+
+03,01/part15 08#gayselfpix
+08,01***15 04You have left #GaySelfPix
+15,01>SAUCE00irc log                            thorax              atb              
+15,01   19971206e   @           SAUCE-ADDER V1.4      

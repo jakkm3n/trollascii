@@ -1,0 +1,71 @@
+15,01Unit APPRecs;
+
+15,01Interface
+
+15,01Const
+15,01   VerNum = 'v2.0';
+15,01   A1 = '11';          { Cyan   #3  }
+11,01   A2 = '08';   { Yellow #14 }
+08,01   A3 = '';
+08,01   A4 = '';
+
+08,01Type
+08,01   BasicType = Record
+08,01      Alias: String;                        { Alias }
+08,01      Real: String;                         { Real Name }
+08,01      Phone: String;                        { Voice Phone Number }
+08,01      DataPhone: String;                    { Data Phone Number }
+08,01      CityState: String;                    { City, State}
+08,01      ModemSpeed: String;                   { Highest Modem Speed }
+08,01      TypeComputer: String;                 { Type of Computer }
+08,01      GraphicsCard: String;                 { Type of Moniter }
+08,01      SoundCard: String;                    { Type of SoundCard }
+08,01      References: Array [1..3] of String;   { Holds References }
+08,01      Affils: Array [1..3] of String;       { 3 Affils }
+08,01      BoardRef: Array [1..3] of String;     { 3 Board References }
+08,01      Notes: Array [1..4] of String;        { 4 Notes }
+08,01   End;
+
+
+08,01   ExtendedType = Record
+08,01                       Coder: Array [0..1, 0..2] of Boolean;
+08,01                     Courier: Array [0..2] of String;
+08,01                        ANSi: Array [0..2] of Boolean;
+08,01                         VGA: Array [0..1] of Boolean;
+08,01                       Music: Array [0..2] of Boolean;
+08,01                         Lit: Array [0..2] of String;
+08,01                    DistSite: Record
+08,01                                 BBSName: String;     { BBS's Name }
+08,01                                 BBSPhone: String;    { BBS's Number }
+08,01                                 BBSNUP: String;      { BBS's NUP }
+08,01                              End;
+08,01                  End;
+08,01   ListType = Record
+08,01                  Choices: Array [0..19] of String;
+08,01                  x, y : Byte;
+08,01                  c1, c2, c3, c4 : Byte;
+08,01                  Marked_Char: Char;
+08,01                  Limit: Byte;
+08,01                  Chosen: Array[0..19] of Boolean;
+08,01               End;
+
+08,01    ChoiceType = Record
+08,01                    Choices: Array [0..19] of String;
+08,01                    C1, c2: Byte;
+08,01                    x, y: Byte;
+08,01                    Limit,Max: Byte;
+08,01                 End;
+
+08,01   ScreenType = Array [0..4000] of Byte;
+
+08,01Var
+08,01   Screen: ScreenType Absolute $B800:000;
+08,01   BasicInfo: BasicType;
+08,01   ExtendedInfo: ExtendedType;
+08,01   tempc: choicetype;
+08,01   List: ListType;
+08,01   I:Word;
+
+08,01Implementation
+
+08,01End.

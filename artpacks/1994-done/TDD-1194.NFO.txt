@@ -1,0 +1,80 @@
+15,01                                                                              
+15,01          /(______________________/(________           /(________             
+15,01        -/                                  \ ------- /          \ -----------+
+15,01       -/                                    \ ----- /            \  ---------|
+15,01      -(_____        _________________        |\ -- /______        |\ ------- |
+15,01     -- \   /       /\        _____   )       | \ -_____   )       | \ -----  |
+15,01    ---- \_/       /  \______/    /\_/       /   |/    /\_/       /   | ---   |
+15,01   ------ /       /   / --- /    /__/       /   //    /__/       /   / ---    |
+15,01  ------ /       /   / --- /               /   //               /   / ---     |
+15,01 ------ (_______/   / --- (_______________/   /(_______________/   / ---      |
+15,01-------- \      \  / ----- \              \  / -\              \  / ---       -
+15,01+-------- \______\/ ------- \______________\/ -- \______________\/ ---+      -
+15,01| The Dirty Dozen Proudly (More or Less) Presents :                   |     - 
+15,01|=======[ TDD NOVEMBER ART PACK ]==------------------------------ - . |    -  
+15,01|=======[ Featuring Art done by all the TDD members ]==---------- - . |   -   
+15,01|=======[ Release Date : November 3, '94 ]==--------------------- - . |  -    
+15,01|=======[ Number of disks : 1 ]==-------------------------------- - . | -     
+15,01+---------------------------------------------------------------------+-      
+15,01      +----------------------------------------------------------+            
+15,01   +=--------- -  -   -   .   .            .   .   -   -  - -----------=+     
+15,01   |========[ Group News : ]============================================|     
+15,01 +.|  As you probably noticed, the school started for most people since |.+   
+15,01 | | our last pack came out, and our members have not been able to do   | |   
+15,01 | | as much work as fast as before, which is why our packs will from   | |   
+15,01 | | now on be less regular. <And it's not like they ever been regular  | |   
+15,01 | | before, since this is only our third pack. >                       | |   
+15,01 | |  Another funny thing happened since the last pack:                 | |   
+15,01 | | some lame boards started to turn up all around 718 AC, claiming to | |   
+15,01 | | be TDD Member Boards. ONLY THOSE LISTED IN THIS FILE ACTUALLY ARE. | |   
+15,01 | | Just because a board carries a piece of TDD artwork DOES NOT MEAN  | |   
+15,01 | | that it is a TDD member board.                                     | |   
+15,01 | |  You will notice that this pack is somewhat bigger then the last   | |   
+15,01 | | one. It is due to the fact that we finally got a great VGA for you | |   
+15,01 | | (thanx, PO), and while we still do not have ace coders, we were    | |   
+15,01 | | still able to make up a few intro's with the tools that we have.   | |   
+15,01 | |========[ Member Concerns : ]=======================================| |   
+15,01 | |  One of our artists, CHAPLIN, has left our midst seeking a better  | |   
+15,01 | | life, and started his own group called PIC. "NO", as he would say, | |   
+15,01 | | "NOT `PARTNERS IN CRIME' !!!". His "PIC" stands for something so   | |   
+15,01 | | weird that I am not even going to try and repeat it here.Of course | |   
+15,01 | | we all wish him luck down the road.                                | |   
+15,01 | |  I am also sorry to inform you that one of our most active members,| |   
+15,01 | | who also thinks that I am a blabbermouth, has temporarily left the | |   
+15,01 | | 718 scene, and went away to college. But he does call us up once   | |   
+15,01 | | in a while. A big "WE MISS YOU" goes away to RALPH LAUREN.         | |   
+15,01 | |  There is also a TDD member who deserves to recieve some credit    | |   
+15,01 | | for the hard work he's been doing for this group. Although he is   | |   
+15,01 | | listed as a courier, he also does regular software reviews for our | |   
+15,01 | | WHQ, ~TSL, and participates a lot in the group itself. Even though | |   
+15,01 | | he only uploads his reviews to ~TSL itself, they have been known   | |   
+15,01 | | be uploaded to other boards of the area code. Let's hear it for    | |   
+15,01 | | our own TORNADO.                                                   | |   
+15,01 | |  Then of course there is POSYDEN. The best artist in the group, he | |   
+15,01 | | joined us before the last pack, and since then did not stop to     | |   
+15,01 | | producing top-quality ANSi's for those who really deserve them.    | |   
+15,01 | |  And last, but not least, a big THANX goes to POWER BLADE, GOBLIN, | |   
+15,01 +.| CRYPT KICKER and our newest member - TRINITRON for superb work     |.+   
+15,01   | despite all the obstacles <LIKE SCHOOL>                            |     
+15,01   +=--------- -  -   -  .  .              .  .  -   -  - -------------=+     
+15,01      +----------------------------------------------------------+            
+15,01                                                                              
+15,01                                                                              
+15,01      +----------------------------------------------------------+            
+15,01   +=--------- -  -   -   .   .            .   .   -   -  - -----------=+     
+15,01   |========[ This Release Contains : ]=================================|     
+15,01 +.| CK-HELL  TDD | Nomad's Room ANSi                                   |.+   
+15,01 | | CK-PITT  TDD | TSL ANSi                                            | |   
+15,01 | | CK-XFACT TDD | X-Factor ANSi                                       |A|   
+15,01 | | NM-BA    TDD | Blown Away ANSi                                     | |   
+15,01 | | NM-CSTL  TDD | The Magic Castle ANSi                               |R|   
+15,01 | | NM-TCBB  TDD | The CardBoard Box ANSi                              | |   
+15,01 | | NM-WHITE TDD | White House ANSi                                    |T|   
+15,01 | | PB-BLOWN TDD | Blown Away ANSi                                     | |   
+15,01 | | PB-ORION TDD | Orion BBS ANSi                                      |W|   
+15,01 | | PB-TDD   EXE | TDD Intro                                           | |   
+15,01 | | PB-TSL   EXE | TSL Intro                                           |O|   
+15,01 | | PO-BA    TDD | Blown Away ANSi                                     | |   
+15,01 | | PO-FATAL TDD | Fatal Concepts ANSi                                 |R|   
+15,01 | | PO-HELL  GIF | THE SILO BBS VGA by POSYDEN                         | |   
+15,01 | | PO-INS   TDD | INSIGNIA ANSi... I hope I spelled the name right :) |K|   

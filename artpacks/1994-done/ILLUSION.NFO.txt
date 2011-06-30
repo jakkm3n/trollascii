@@ -1,0 +1,80 @@
+
+15,01                     14,15 15,01""""" """ "" "  "   "  " .  #
+15,01                       14,15 15,01 14,15 15,01  14,15 15,01  14,15 15,01 14,15 15,01 14,15   15,01 14,15 15,01 14,15   15,01 14,15 15,01  14,15 15,01 .
+15,01                     14,15 15,01 -------------------------- #
+15,01                       14,15#15,01 14,15#15,01  14,15#15,01  14,15#15,01 14,15 15,01 14,15#  15,01 14,15#15,01 14,15#15,01 14,15 15,01 14,15# 15,01 14,15 15,01 m
+15,01                     # 00@15 00@15  00@15  00@15 14,15 15,01   14,15 15,01 00@15 00@15 14,15 15,01 00@15 14,15  
+15,01                     . # #00@15 #00@15 #00@14,15#15,01 #00@14,15#15,01 # #00@14,15#15,01 #  14,15 15,01 14,15 
+15,01                     # .  m  m   m  m mm mmm mmmmm14,15 
+15,01                     - -- --- -[April'94]- --- -- -
+
+15,01     Welp here we are!  Finally got the first packet out and things are 
+15,01looking pretty good for the group.  As of now we don't have many artist and
+15,01such, but have been talking to a few people about joining the group and they
+15,01are considering seeing how new we are, since they are more established.
+15,01There is one thing though that many have asked about iLLUSiON, "Is this
+15,01the previous iLLUSiON that ShadowSorcerer started,  then left to start 
+15,01EMPiRE?"  No, this is not the same iLLUSiON as the previous, we are though
+15,01considering changing the name of the group next month to something
+15,01different, yet undecided on a name.  Possibly MORBiD/RuNE/ViPER, who knows.
+15,01     We are still looking for many artist of types and any coders who
+15,01feel that they can contribute and produce for the group.  So if you
+15,01are interested fill out the application and upload it to one of the
+15,01HQ's that will be listed in the application.
+
+15,01iLLUSiON Viewer|
+15,01---------------+
+15,01    A coder named Static is working on an ansi viewer as of the moment.
+15,01Until our viewer is completed we recommend using the best one out there,
+15,01ACiD View, and view the ansi's in 320x200 mode also, some look good in both
+15,01modes ansi and 320x200.  
+15,01                    
+15,01HOW IT ALL STARTED  |
+15,01--------------------+
+15,01    Well I decided to go ahead and throw in how this group was started.
+15,01A while back, say January, I did my first ansi.  It was for a upcoming
+15,01net in this area called iNiQUiTY Net.  Which is still around and the
+15,01message packets are getting bigger day by day.  Everyone though that
+15,01the ansi logo I did was pretty cool and so I continued to fool around for
+15,01a week or so with TheDraw.  I gained access on a very cool board here
+15,01called Shadowy Descent (which you will see many ansi's for in this
+15,01pack by me.) and he had just become a Distro for a Couriering/File
+15,01group called MCC which is based in Belgium.  They had just started
+15,01up an ansi division of there group and asked me to put together a small
+15,01packet for them, because they wanted me to join.  I didn't think I was
+15,01good enough really to join and only had been drawing for about a week.
+15,01     Everyone said that I should join them but I decided not to.  So
+15,01I just fooled around with TheDraw and becoming more interested in ansi 
+15,01drawing.  One day I call this board called Channel Zero and gained access
+15,01there.  I had always been a fan of ACiD!  So I started talking with Beastie
+15,01one day and I uploaded some of the ansi's I had done which wasn't many
+15,01and he said that I wasn't quite ready for a group such as ACiD.  We talked
+15,01a little more and gave me some very helpful advice "Thanks!" and off
+15,01I went starting to draw more and one day someone said "Hey, why don't you
+15,01start an ansi group!".  I said ,"Yeah, that's a possible idea and it
+15,01will help me develop into a better artist and stuff."  So lets go for it.
+15,01     I meet a guy named Kingpin who is really great and he gave me some
+15,01advice also and it helps getting advice from other artist.  So I contacted
+15,01a guy named Deathmonger who was in EMPiRE Trial at the moment and asked 
+15,01him if he would like to join the group and help develop it and he said
+15,01sure that he was tired of waiting from hearing from EMPiRE.  Also meet
+15,01another really great artist named Mr. CoRRuPTiON through Midnite Xpress
+15,01Net and thought his stuff was good and asked him if he wanted to join
+15,01up with us.  He was a little hesitant at first, because some previous
+15,01groups that he had joined up with never put out there first packet and
+15,01he wasn't sure if iLLUSiON would be different from the other groups.  
+15,01     So basically that is the beginning of iLLUSiON and how the senior
+15,01members were picked up and etc.
+15,01                
+15,01NEW iLLUSiONiST |
+15,01----------------+
+
+15,01     Blazing Shadow, sysop of Shadowy Descent has joined up with iLLUSiON
+15,01and will be head of VGA.  His stuff will not be appearing in the packet
+15,01since he was picked up to late for anything to be done excpet for a loader
+15,01he done a month ago or so for his board (which will be in the packet.).
+15,01     A really smoothe artist out there named Esoteric was supposed to join
+15,01but I haven't heard from him lately.  If you are still out there give me a 
+15,01ring sometime so we can talk about ansi again and stuff.  
+15,01     A coder named Static is about to start work on an ansi viewer for
+15,01iLLUSiON.  He remains undecided because of classes, work, and spare time

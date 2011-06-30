@@ -1,0 +1,12 @@
+15,01Founder :
+15,01The Weasel
+
+15,01Senior Staff :
+15,01The Weasel - Kano
+
+15,01Artists :
+15,01The Weasel - Kano - Shatterstar - Lumberjack - Hacker Cracker - Einstien - Blaze
+
+
+15,01Coders :
+15,01Kano - Einstien

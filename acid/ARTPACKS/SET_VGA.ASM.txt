@@ -1,0 +1,9 @@
+15,01.model small
+15,01.code
+15,01     PUBLIC _set_vga
+15,01_set_vga proc near
+15,01         mov    ax,0013h
+15,01         int    10h
+15,01         ret
+15,01_set_vga ENDP
+15,01         end

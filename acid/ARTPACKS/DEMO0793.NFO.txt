@@ -1,0 +1,80 @@
+15,01re: ACiD MEGA-DEMO 1993
+15,01re: Cetis's first notice 06/27/93
+
+
+15,01Organizers: Cetis [DEMO COORDINATION]
+15,01            Der Schatten [INTERNET COORDINATION.FILE TRANSFER]
+15,01            Camber [C.ASSEMBLER]
+15,01            Acoustik [VGA]
+15,01            Rhythm Addiction [HOUSE/RAVE]
+
+
+15,01Support: Deadbolt [ASSEMBLER]
+15,01         Dyinhell [RENDERING]
+15,01         Shockwave [VGA]
+15,01         Diehard [VGA]
+15,01         Raiden [VGA]
+15,01         DJ Krython D [HARDCORE TECHNO]
+15,01         Nocturnal Intruder [TECHNO]
+15,01         Low Profile [TECHNO/RAVE]
+15,01         Piano Man [DEMO MUSIC]
+
+
+15,01        It became increasingly obvious after three months of discussion
+15,01that there was not going to be any progress in the mega-demo if nobody was
+15,01willing to coordinate the efforts and make the first move. Fine, that is all
+15,01behind us now and I have taken the first steps towards making this baby fly!
+15,01The demo is not going to be a 'slightly larger loader' by any means, in fact
+15,01it is being conceived as a full-scale, Future Crew rivaling, iCE destroying
+15,01masterpiece. There are a few obstacles in our way, however, and some of them
+15,01are halting progress as I type. First off, there must be a way in which all
+15,01of us can communicate. I have entertained suggestions of using the internet
+15,01and IRC, but immediately realized that most people are not local to a dialup
+15,01port. Internet may work for some of the coders, but it definately will not
+15,01help out any of the artists, musicians, or myself. If somebody has found a 
+15,01way to get on IRC through SprintNET let me know, or if anyone knows how to
+15,01use internet e-mail through FidoNET speak now. Conferences, alliances, and
+15,01three ways are great, but some people like Rocket Scientist and Machine Head
+15,01and Mr. F/X are not capable of joining in. I have a hell of a time trying to
+15,01coordinate three people's efforts into a simple loader, I cannot imagine my-
+15,01self trying to do this.
+
+15,01        So here we stand as individuals and not as a team. The fact is,
+15,01if we are going to pull this off, we will have to communicate and get every-
+15,01one together. Something is going to have to give here - and everyone is going
+15,01to have to put 100% faith and trust into everyone else. We cannot have people
+15,01saying that they will do this and that in these early stages and end up short
+15,01in the final stages. The coding, artwork, and music is all within reach, and
+15,01with the right concentration and determination we can create a demo that is 
+15,01truly UNREAL. Camber has suggested that we forgoe our ego's and do this 
+15,01demo in C with the speed routines and what not in Assembler. He swears that
+15,01when you need to incorporate so many different types of code into one project
+15,01that C is perfect. Anyone can voice their opinion on any aspect of this demo,
+15,01and everything will be done by popular vote. The music aspect of this demo is
+15,01covered, I am in hope that one of our coders will take the time to talk with
+15,01Daredevil of Renaissance about obtaining routines for their .669 8-track
+15,01composer. Most of the better songs written by the musicians are in that for-
+15,01mat, yet nobody has written drivers for coding it. There is a major obstacle
+15,01involved, and I believe it is the fact that Tran coded that module in V86
+15,01mode to make it run quicker. I do know, however, that .669's are based of off
+15,0133,000 Mhz instead of the normal 50,000 Mhz. Whatever that means, I know we
+15,01need to write the drivers.
+
+15,01        The art aspect of the demo will be a collaboration between standard
+15,01VGA (320x200) drawings and standard VGA renderings from 3DStudio and what not.
+15,01There is a small chance that we will go hi-rez, however, because more people
+15,01are accepting the VESA standard every day. One chief reason for going hi-rez
+15,01is because of the routines we already have for mode-x 360x480 and the quality
+15,01of the artwork that we can produce. You can have my word that we will not go 
+15,01hi-color though (1024x768x16,000,000). I know for a fact that Acoustik and
+15,01Shockwave draw in the 640x480 mode most comfortably. And I also know that
+15,01Dyinhell goes 1024x768 by choice. Thank god for Diehard and Raiden, they 
+15,01make magic in 320x200. 
+
+15,01        As far as coders are concerned, Camber is extremely versatile in
+15,01all makes and shapes of vectors and has developed some kind of 3 dimensional
+15,01graphics engine that absolutely flies due to hidden polygon jargon. He also
+15,01has spoken of some mind boggling effect he can put to any 3DStudio picture
+15,01which makes it look like it came from a time warp or something having to
+15,01do with adjusting the wire frame or something. As I'm sure you can see, I am
+15,01hardly programming literate. Deadbolt is the most anxious to get started and

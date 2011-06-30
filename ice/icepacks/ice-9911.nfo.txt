@@ -1,0 +1,65 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01             S   E   P   T   E   M   B   E   R       1   9   9   9
+15,01-------------------------------------------------------------------------------
+
+
+15,011.  As Kwanza, Ramadan, Christmas, and Ch-ch-ch-channuka fall  upon us, the
+15,01iCE  team would like take this opportunity to wish you all a happy holidays
+15,01-
+15,01filled  with  warm fires, presents, and ham.  It's all about ham, isn't it?
+
+15,012.  eTantrum, Inc., co-founded by our very own Farmicus, has  been gobbling
+15,01up iCE members and whisking them  off to the corporate world.  Rumor has it
+15,01that Lord Soth, Greater Evil, and Jamie  McCarter have  all joined the team
+15,01with  Mr. Mister, bringing  the  total  casualties to five.  When  will the
+15,01madness stop?  Post-IPO, we hope.
+
+15,013.  Update: for those interested, the iCE Thought Police recently caught up
+15,01up to Steven Stahlberg, now working for Digital Anvil. What's he been doing
+15,01recently, you may  ask?  You  can  see  some of his  handiwork in the intro
+15,01cinematic for "Quake 3:Arena", recently  released  by id  Software.  Steven
+15,01designed the "thugs", did  the  textures  for  Sarge, created  all  of  the
+15,01explosions and  muzzle flashes, and did  some other animations, such as the
+15,01falling cigar at the end.  Steven Stahlberg is officially awarded the "Best
+15,01Swedish 3D  Animator Working on  Quake 3: Arena to  come  from Hong Kong to
+15,01Texas."  The  competition  was  fierce, but he  ended up  taking the prize.
+
+15,014.  Obviously this was a  quiet  month, but we're still recovering from the
+15,01whole  lemon  fiasco.  Don't  worry, we'll be back in a big way to kick off
+15,012000  (which  is  NOT  in  the  next  century  or millenium)!  Have a Merry
+15,01Christmas,  Happy  Hanukkah, a Super  Kwankaa, or just  an enjoyable winter
+15,01solstice!
+
+15,015.  Although we want to make an impression, don't wait up through the power
+15,01outages,  alien  invasions,  mass  rioting, accidental FBI  assassinations,
+15,01exponential function growth, buffer overflows, massive fungus growth, moist
+15,01socks, terrorist  attacks, world-wide drunkenness, and also y2k glitches to
+15,01deliver you  your  pack  at  midnight on  New Years Eve.  Well, also nobody
+15,01volunteered to be sober enough to do it.
+
+15,01-brian
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------
+15,01>>SAUCE0099/11 Ice info file                iCE Senior staff    Ice Advertisemen
+15,01ts  199911 1'M                                    

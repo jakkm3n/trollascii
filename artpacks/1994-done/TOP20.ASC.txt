@@ -1,0 +1,36 @@
+
+15,01                 ___________________________ _______________
+15,01                 \_____    ______/   _  \   :   \_______   /
+15,01                     /      \    \   |   \____   \/  _____/
+15,01                    /        \    \  |    \   \_  \  :    \
+15,01                    \________/____/__|____/_______/_______/
+15,01          ______________________________     ___________  _____
+15,01          \______  _________  ________  \    \_______   \/ ___ \
+15,01              /      \/  \_/  \/   __/   \      /   ____/  \_/  \
+15,01             /        \        \   \_____/     /   /    \        \
+15,01             \________/________/_____|tz!      \________/________/
+15,01  ----------------------------------------------------------------------------
+15,01  \*/ filename .ext Oo. description          o comment                     \*/
+15,01  *|*-*|*- -*|*- -*|.Oo |*- -*|*- -*|*- -*|* . *|*- -*|*- -*|*- -*|*- -*|*-*|*
+15,01  /*\ 1ST-EVER .ASC o.O tinyz crew file_id   o this is my FIRST ascii ever /*\
+15,01  --- KTS8     .ANS Oo. katharsis            O best color ascii            ---
+15,01  \*/ QUAD2!   .ANS .Oo quadrillion          o colorized by morbid angel   \*/
+15,01  *|* ANONPSY3 .ASC o.O anonymous psychosis  . my favorite font            *|*
+15,01  /*\ AYS12    .ASC Oo. are you sure?        o re-cycled logo...           /*\
+15,01  --- AYS13    .ASC .Oo are you sure?        O my favorite ays? logo       ---
+15,01  \*/ CHZ0     .ASC o.O channel zer0         o like the "channel" font     \*/
+15,01  *|* DIXIE-7  .ASC Oo. dixie bbs            . little optical illusion     *|*
+15,01  /*\ FALLDWN1 .ASC .Oo falling down         o droppin' down wit the arrow /*\
+15,01  --- KTS9     .ASC o.O katharsis            O best katharsis logo         ---
+15,01  \*/ NDOE1    .ASC Oo. ndoe                 o my own board (soon-up ;>)   \*/
+15,01  *|* NEWHOPE2 .ASC .Oo new hope             . / my two best new hope      *|*
+15,01  /*\ NEWHOPE3 .ASC o.O new hope             o \ ascii logos...            /*\
+15,01  --- S!P1     .ASC Oo. surprise!productions O surprised "productions" fit ---
+15,01  \*/ TAURUS4  .ASC .Oo taurus               o something different         \*/
+15,01  *|* TRACKER1 .ASC o.O tracker              . just doe                    *|*
+15,01  /*\ TZ-KTSC2 .ASC Oo. katharsis couriers   o no comment                  /*\
+15,01  --- TZ-SKIL2 .ASC .Oo skill                O did this one during class   ---
+15,01  \*/ ICE_ID1  .DIZ o.O iCE                  o originally just a logo      \*/
+15,01  *|* KTS_ID1  .DIZ Oo. katharsis            . most popular kts file_id    *|*
+15,01  /*\ SONIC_ID .DIZ .Oo sonic                o did it for the hell of it   /*\
+15,01  ---Oo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo---

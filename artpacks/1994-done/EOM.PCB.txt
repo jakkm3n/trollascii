@@ -1,0 +1,4 @@
+15,01@X08----------------------------------------------------------------------------
+15,01---
+15,01|@X4CCont@X04 Forw Back Reply Jump Kill Again Edit List Trace- Trace+ Other Quit
+15,01@X08|@X07t@X08:@X0F@TIMELEFT@>

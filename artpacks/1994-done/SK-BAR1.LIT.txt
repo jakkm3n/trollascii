@@ -1,0 +1,62 @@
+
+15,01                          14. 00T13h04e 00L13o04st 00I13n 00T13i04me 00T13a04vern 14.
+
+15,01           +14------------------------------------------------------15+
+15,01           14| 00A S13e04ries 00o13f 00s13h04ort 00s13t04ories 00b13y 00S13h04attered 00L13i04nk 14[00S13H04iVER14] |
+15,01           +14------------------------------------------------------15+
+
+14,01--------------------------------------------------------------------------------
+15,01        00T15he tavern doors swing open fiercly, and a stranger appears in th14e
+00,01d15oorway. The bar room lights reflect off his dark sunglasses which hide hi14h
+00,01e15yes from the other patrons. Men and women stop their activities and look u14p
+00,01t15o the stranger. Dozens of eyes fall upon him, but he calmly walks up to th14e
+00,01b15ar, and turns toward the bar keeper, a large, burly man14.
+15,01        00"15May I help you?" The bar keeper says nervously. The stranger says no14t
+00,01a 15word but casts his eyes upon a bottle of hard liquor14.
+15,01        00"15You...want...that...?" The bar keeper says beginning to worry14.
+15,01        00"15Yes" The stranger mumbles14.
+15,01        00T15he bar keeper takes the bottle and slowly pours the drink, looking u14p
+00,01e15very few seconds to see what the stranger is doing.  He finishes pouring th14e
+00,01d15rink and puts the bottle away14.
+15,01        00T15he stranger grabs the shot and drinks it down in one gulp. The soun14d
+00,01o15f ice hitting the bottom of the glass echoes through the silenced room lik14e
+00,01a 15bat, shouting off of walls14.
+15,01        00"15I'm looking for Griego!" The stranger shouts turning around. One ma14n
+00,01s15lowly sinks down in his seat. The Stranger sees this14.
+15,01        00"15There you are, you little shit!" The Stranger shouts at the man14,
+15,01        00"15Where the hell is my money?14"
+15,01        00"15Now, I'll get you your money, Grant. All I need is one more week...14"
+00,01G15riego says nervously14.
+15,01        00"15Fuck that! I want it now! I WANT MY FUCKIN' MONEY!!!!" Grant roars14.
+15,01        00"15The only thing you'll get is six fucking feet under!" Griego scream14s
+00,01p15ulling out a .45 Colt Combat Commander. Patrons jump under their tables14,
+00,01s15creaming14.
+15,01        00"15Rick! Tony!" Griego calls out. Two men get up, one with a mini-uzi14,
+00,01t15he other with a sawed-off shotgun. "Kill this asshole!14"
+15,01        00O15ne hood, Tony, nods like a punch drunk fighter and aims at Grant14.
+00,01G15rant pulls out a 4:4mm Soft Slug and fires at Tony. The bullet slams int14o
+00,01a15nd through the shotgun's scope and continues to sizzle into the man's righ14t
+00,01e15ye and finally, his brain. The man jerks backward and falls out the windo14w
+00,01w15ith a high-pitched scream14.
+15,01        00"15Dammit!" The bar keeper yells, "Not again!". He pulls out his 44m14m
+00,01s15hotgun and chugs ten rounds into the twisted body of Rick. Rick falls back
+00,01w15ards and fires at the ceiling, only causing the chandleier to crash down o14n
+00,01h15is dying body.
+15,01        00G15rant grabs another calibur, locks it into place, and looks up onl14y
+00,01t15o see Griego leaping off a table in his direction14.
+15,01        00G15riego lands on Grant and throws him to the ground14.
+15,01        00A15s they wrestle on the floor, Griego screams, "I'm gonna kill you, yo14u
+00,01s15on of a bitch!  I'm gonna carve out your lungs and wrap them around my...14"
+15,01        00G15rant slams his concealed bowie knife into Griego's shoulder. Greig14o
+00,01j15umps off, screaming profantities and curses14.
+15,01        00G15rant levels his .45 at Greigo's face and fires14.
+15,01        00T15he bullet makes connection directly in the center of Griego'14s
+00,01f15orehead, causing him to fall back into a big-screen television set.  Ton14s
+00,01o15f electric sparks flow through Greigo's body until his skin becomes a dark14,
+00,01g15olden brown14.
+15,01        00G15rant puts his gun away, takes a roll of bills out of Griego's bac14k
+00,01p15ocket, and leaves the tavern14.
+14,01--------------------------------------------------------------------------------
+
+15,01>>SAUCE00The Lost In Time Tavern            Shattered Link      Shiver          
+15,01    19941001o!  @@P v                             

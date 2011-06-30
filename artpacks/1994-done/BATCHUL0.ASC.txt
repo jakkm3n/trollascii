@@ -1,0 +1,10 @@
+15,01Warning!  No upload batch files specified yet.
+
+15,01To make the transfer easier, the files to be uploaded should exist
+15,01in your upload batch queue.  Add files to this queue by using the
+15,01(U)pload command from the main file menu, and specifying the
+15,01protocol type as "B" for Batch.
+
+15,01If you upload files that are not already in this queue, you will
+15,01have to enter file descriptions for them after the transfer is done
+15,01to receive credit for them.

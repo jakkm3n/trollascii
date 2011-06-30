@@ -1,0 +1,18 @@
+15,01RemorseView v0.9b
+
+15,01This is a beta version of RemorseView.  We released it publically because
+15,01we figured it would be the best way to beta test it.  Of course that
+15,01implies that there are some bugs.  Unfortunately this is the case, but
+15,01hopefully, you won't run into any.
+
+15,01If you do run into a bug, please email seank@u.arizona.edu  concerning
+15,01the bug.  Try to replicate the bug, and if there is an offending ansi,
+15,01please email the ansi along with the bug report.
+
+
+15,01Thank You.
+
+15,01Sean Kasun
+15,01aka, Mr Kite of ACiD Productions
+15,01>SAUCE00Remorseview Notes                  MrKite              ACiD Productions 
+15,01   19970326_14,15@15,01                                    

@@ -1,0 +1,49 @@
+15,01                                   14#15                                     14#
+15,01     14#    #15        14#15                14#15          14#  #15      14#15           14#15     14#   #
+14,01#  12@02   14#15        14#15        14#   ## #15      14# #01@14  #15          12@02  14#01@14 #15         14#
+14,01   14,02#02,01|m12m10m00m#   14#01@14  12@02    mm12m10m00m#  14#01@14  #  14,02#02,01   14##15     14#01@14 ##   14,02#02,01|m12m10m00m# 14#02mm12m10m00m#   01@14# #02|
+02,01#mm14,02 02,01m14,02 02,01mm#| 12@02  14## 14,02#02,01 mmm14,02 02,01mmm#  14,02#02,01 14#15     14,02 02,01m12m10m  00m10m12m14,02 02,01mmmm  #mm14,02 02,01m14,02 02,01mm#mmm14,02 02,01mmm##m  14#01@14  14,02#
+02,01  |14,02#02,01||   "m14,02#02,01m 14#  14,02 02,01   ||14,02#02,01  14,02#02,01mm14,02 02,01mm12m10m00m#02m14,02 02,01   00"#  12|14,02 02,01 14#01@14 02"m  |14,02#02,01||15     02||14,02#02,01  #m "# 14# 02|||
+14,01#  14,02 02,01|14,02 02,01 14#  02|14,02 02,01m"#  14,02 02,01 01@14 02||14,02 02,01 14# 02||14,02 02,01  14#  14,02 #02,01| 14#01@14    02|14,02 02,01  14#  14,02#14,01#  14,02 02,01|14,02 02,01 14##  02||14,02 02,01 14#  02"14,02 02,01m   14,02 02,01|
+01,01@14# 14,02 02,01|14,02#02,01 14#01@14 02|14,02 02,01"14,02 02,01m  14,02 02,01 01@14 02||14,02 02,01   ||14,02 02,01mmm#||||  14#    02|14,02#02,01#mmm"    14,02 02,01|14,02#02,01 14#01@14  02||14,02 02,01  14#   02"14,02 02,01m14,02 02,01||
+02,01   14,02 02,01||  14# 02|14,02 02,01  "14,02 02,01m14,02#02,01 14# 02||14,02#02,01   ||14,02#02,01|  14#02|||| #m""14,02#02,01 |14,02 02,01 "m  14#   14,02 02,01||  14#  02||14,02#14,01# #01@14#   02"14,02#02,01| 14#
+14,01# 02|14,02#02,01||15     14,02#02,01 14#  02"14,02 02,01m  ||14,02 02,01 14# 02||14,02 02,01| 14#  14,02 02,01|| 14# 02| | |14,02 02,01 #m"12m   02|14,02#02,01||15     02||14,02 02,01  14#01@14  # 02m14,02 
+02,01#""14,02 02,01""""#14# 12@02 01@14#  12,02m15,01 02"# ||   12@02"14,02 02,01|"""# "14,02 02,01m  "|| |14,02 02,01|  "12m10"00m02""14,02 02,01""""#   || 14#    12m14,02#02,01"  14#
+00,01m10m12m14,02 02,01 14#   #    00#m10"15      02| 14#   14,02#02,01| 14#    14,02#02,01 """| 14# 14,02#02,01 14#   10"00m10m12m14,02 02,01   14#  #  02|   00#m10"02m"# 14#
+14,01   02|    14#01@14#   #    #15      14##   #01@14#   12@02  14#  #01@14#   ##15     14#  #  #01@14#   #  10m12"
+14,01#    #15               14#15     14#15                14#15           14#15            00#"
+14,01--------------------------------------------------------------------------------
+14,00 14,10 14,12 14,02 #12,01@02#15     a00ns15i c00reated 15b00y 15i00llum15i00nat15i00on 15o00n 15f00ebruary 15s00eventeenth 15100994    02#12@14,02# 14,12 14,10 14,00 
+14,01--------------------------------------------------------------------------------
+
+00,01W10e12l02l SHIT it's about time we released a packet, eh?  Humph, this idea origina12l10l00y
+00,01s10t12a02rted out as Integrity, a magazine for poets and writers.  Then along came 12o10l00'
+00,01D10a12r02khawk and Max Shadowdrake with their idea for EDGE Productions, and we mer12g10e00d
+00,01s10o 02that we could benefit from each other.  'Twas cool, then I started  prepar12i10n00g
+00,01t10h12e 02packet for release under the Integrity/EDGE banner.  Well wouldn't ya kno12w10i00t
+00,01S10o12l02ar Sexx and his Aussie group idea PREMiER showed up asking questions.  We 12g10o00t
+00,01t10o 02talking and BAM! we're merged with him as well.  So I don't know what da h12e10l00l
+00,01w10e12'02re going to be called now.  I supposed in the meantime we'll go by Integri12t10y00.
+00,01I10'12m 02tired of switching things back and forth, so I guess that's what we'll go 10b00y
+00,01a10n12d 02we'll have different group headers.  Integrity will be the overall name, 12b10u00t
+00,01i10t12'02s specifications are for Poetry and Literature.  I want EDGE and PREMiER b12o10t00h
+00,01a10s 02one in the Integrity pack because EDGE is for the artists and musicians,  12a10n00d
+00,01P10R12E02MiER is for artists looking to get into some sort of stable group.  Who kn12o10w00s
+00,01w10h12a02t exactly it's for:)  Actually, I think it is a pretty good idea, Solar  S12e10x00x
+00,01w10a12n02ts all members in PREMiER to be temporary, meaning they are part of the gr12o10u00p
+00,01u10n12t02il they find a 'home', so to speak.  If you ask me, that is a pretty good 12w10a00y
+00,01t10o 02go about it, UNLESS there is poor distribution or recognition.  So regard 12o10u00r
+00,01p10a12c02k as one big talent scout.  All members of any other group are welcome to 12s10u00b
+00,01m10i12t 02anything they want to our packet.  We will leave it UNEDITED if you want  10i00t
+00,01t10h12e 02way it is.  We put no rules or restrictions, however we discourage  rip-o12f10f00s
+00,01u10n12l02ess you give credit where it's due.  If this is to work, we'd like a bunch 10o00f
+00,01d10i12s02tribution sites, only one per area code, however.  If somebody in your sec12t10o00r
+00,01a10l12r02eady has a position with Integrity, then you may challenge them for the sp12o10t00.
+00,01E10i12t02her way, you may contact Freaky Styley and Solar Sexx on the Elysian Field12s10.00.
+00,01D10a12r02khawk & Max ShadowDrake have internet addresses on the application gererat12o10r00.
+
+00,01-10-12-02--------------------------------------------------------------------------12-10-00-
+00,01W10e 02hope you enjoy this packet.  Remember we're not a full group, we are  here 10t00o
+00,01s10p12r02ead the work of artists wanting to be known.  Anybody with talent worthy o12f 00a
+00,01g10r12o02up may submit their work to us, and we'll give full credit. ANYBODY can jo12i10n00!
+00,01-10-12-02--------------------------------------------------------------------------12-10-00-

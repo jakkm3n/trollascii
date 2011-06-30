@@ -1,0 +1,71 @@
+14,14    14,01 13,12           15,01 13,12     15,01 13,12          12,01m 14|14,14 14,01 13,12           15,01 13,12     15,01 14,14     14,01 13,12     15,01 12m13,12           
+14,14   14,01|12|13,12##########12,01||13,12####12,01||13,12############15,01 14,14 12,01|13,12##########12,01||13,12####12,01|14|14,14    14,01|12|13,12####12,01||13,12###########12,01|
+14,14    14,01mmmmmmmmmmmmmmmmmmmmmmmmmm 13,12##02,06@13,12#12,01|14,14 14,01mmmmmmmmmmmmmmmmmm14,14     14,01mmmmmm 13,12##02,06@13,12#12,01"" 14mmmmmm
+14,14  14,01"""""""""""""""""""""""""14,14  14,01|12|13,12#02,06@@@12,01|14""""""""""""""""""14,14     14,01"""""" 12|13,12#02,06@@12,01| 14"""""14,14   
+14,14  14,01 02,06@@@@@@@@@@@15,01 02,06@@@@@15,01 02,06@@@@@15,01 14,14  14,01 02,06@@@@@15,01 02,06@@@@@@@@@@@15,01 02,06@@@@@15,01 14,14     14,01 02,06@@@@@14,01|12|02,06@@@@@@@@@06,01m 14,14  
+14,14 14,01|06|12,06##########06,01||12,06####06,01||12,06####06,01|14|14,14 14,01|06|12,06####06,01||12,06##########06,01||12,06####06,01|14|14,14    14,01|06|12,06####06,01|14| 06"12,06#########06,01|14|14,14 
+14,14 14,01 14,06     15,01 14mmmmm 14,06     15,01 14,06     15,01 14,14  14,01 14,06     15,01 14,06     15,01 14mmmmm 14,06     15,01 14,14     14,01 14,06     15,01 14,14  14,01mm 06""06,06     15,01 14,14  
+14,01|06|13,06####06,01|14|14,14    14,01|06|13,06####06,01||13,06####06,01|14|14,14 14,01|06|13,06####06,01||13,06####06,01|14|14,14    14,01|06|13,06####06,01|14|14,14    14,01|06|13,06####06,01|14|14,14     14,01|06|13,06####06,01|14|14,14  
+14,01 06,06@@@@@15,01 14,14     14,01 06,06@@@@@15,01 06,06@@@@@15,01 14"" 06,06@@@@@15,01 06,06@@@@@15,01 14""""" 06,06@@@@@15,01 14""""" 06,06@@@@@15,01 14"""" 06mm06,06@@@@@15,01 14,14   
+13,01|13,13####13,01|14|14,14    14,01|13|13,13####13,01||13,13#############13,01||13,13##########13,01||13,13##########13,01||13,13####13,01||13,13###########13,01|14|14,14   
+13,13     15,01 14,14     14,01 14,13     13,01 14,13             13,01" 14,13           13,01 14,13           13,01 14,13     13,01 14,13           13,01" 14,14    
+15,01                                                                              14SC
+15,01               12F 13i 06D E 13L 12i 13S   12P 06R O D 13U C T I O N S 12,   1 069 139 4
+
+14,12 12,01""""""""""""""""06"12"""06""12""06"""12"06""""""""""""""""""""13"06""""13""06"""13"""06"13""""""""""""""""14,13 
+14,12 15,01                     12F13i06DE13L12i13S 12N06ews13letter 12F06o13r 12N06ove13mber 121069139415                     14,13 
+15,01                            12I06ss13ue 12I13V06, 12B13y 12S06at13an 12C06la13us
+14,12 15,01                                                                              14,13 
+15,01     12We're finall06y 12ba06ck12! 06Aft12e06r a two month depart13u06re, 13we 06at 12F13i06DE13L12i13S have a new
+13,01  12pack out and ar06e 12ba06ck 12o06n t12r06ack. We've gone thro13u06gh s13om06e m13ajo06r 13reorganization
+12,01# and gained  som06e 12ve06ry 12t06ale12n06ted people in the  p13a06st c13ou06ple 13of months, and are #
+13,01  12still alive and str06on12g.
+
+12,01#    Let's start 06w12ith 06t12he 06re12o06rganization. In an e13f06for 13to 06im13pro06v13e communication #
+13,01  12within F13i06DE13L12i13S 06a12nd 06to 12s06hif12t 06some of the load of runn13in06g t13he 06g13roup around, we
+13,01  12have assigned  06d12iff06er12en06t r12e06sponsibilities to ou13r  06he13ad06qua13rte06r 13boards instead
+12,01. of just a regio06n 12or 06U12S 06or 12W06orld HQ or whatever. Cybe13rP06Huc13k, 06b13ack up at a new .
+13,01  12number,  (813)3069129-20616122,  06i12s 06now 12F13i06DE13L12i13S06'  appli13c06atio13n 06and 13ar06t13ist  HQ -- this
+13,01  12means  that any app06li12ca06tio12n06s  for artists or si13t06es,  13a06s w13ell as any finished
+13,01  12work from  arti06s12ts 06sh12ou06ld 12c06ome here.  Primal Co13m06plex 13i06s n13ow 06o13ur  courier HQ,
+12,01. in charge  of s06p12rea06di12ng 06th12e  06wonderful art we  13c06reat13e 06to 13all  corners of the .
+13,01  12globe.  The Ver06s12ed 06Dr12ip06,  12a06lso at a new number,  (40134)0629913-14064131,  remains our
+13,01  12programer  HQ, 06a12nd  06o12ur 06co12d06ers  are at work on  vari13ou06s  12F13i06DE13L12i13S  utilities.
+13,01  12Asylum Systems, Inc06. 12wi06ll 12m06ake it's return soon as o13ur 06mu13sic and MOD HQ.
+
+15,01     12F13i06DE13L12i13S 12has 06a12lso  ad06ded a couple of talented  Lit 13a06rti13sts  to its  ranks,
+13,01  12Charon and Lady Car06a.  Thi12s 06marks the beginning of 12F13i06DE13L12i13S'  Lit department,
+13,01  12and so far we a06r12e  06ve12ry 06pl12e06ased with  the resul13t06s.  13Ch06eck 13ou06t 13the  many Lits
+13,01  12in this pack, a06n12d w06at12ch 06ou12t 06for more in future 13p06acks13.
+
+15,01     12We have also add06ed 12a06rti12s06ts No Fear,  Paladin13,  06an13d 06Yag13a,  who are already
+13,01  12hard at work pr06o12duc06in12g 06for us. Some of Yaga's w13o06rk i13s 06inc13lud06e13d in this pack,
+13,01  12so check it out06.
+
+15,01     12Also  we wel06c12ome  a 06few new boards  to 12F13i06DE13L12i13S06,  13Ni06hil13ist06i13c Order in  404,
+13,01  12Virtual Hell in 91606, 12an06d S12u06nken Galleon in our 13h06ome 1381063.  13On06e 13other note: the
+13,01  12BBS  Project Bl06a12ck, 06I12nc06.,  formerly Interzone,  has  13c06han13ged  it's name  once
+13,01  12again, this tim06e 12to 06T12he 06Se12c06ret Order BBS.
+
+15,01     12All in all,  F13i06DE13L12i13S 06ha12s  06prospered over the  pas13t 06cou13ple  of months, and,
+13,01  12hopefully,  wit06h 12ou06r 12ne06w  12o06rganization  we will cont13in06ue  13to do so.  Look for
+13,01  12another pack fr06o12m u06s 12NE06XT 12m06onth (thats right, D13e06cmeb13er06, n13ot 06F13ebruary).
+
+
+12,01.15                                      06-= 12S06at13an 12C06la13us =-15                       13.
+15,01                                           06[12F13i06DE13L12i13S 12S06en13ior06]
+
+
+12,01.    If you or an06y12one 06y12ou 06kn12o06w  would like a piec13e 06of  12F13i06DE13L12i13S artwork of your .
+13,01  12very own,  plea06s12e c06on12ta06ct  one of our  talented arti13st06s o13n  06a13ny of our head-
+13,01  12quater boards. 06P12lea06se 12b06e s12u06re to include the bo13a06rd o13r 06org13ani06z13ation name, and
+12,01# any pertinent s06t12ats06.15                                                         13#
+
+15,01     12If you would lik06e 12to 06ap12p06ly to 12F13i06DE13L12i13S06,  we a13r06e ac13ce06pti13ng 06a 13limited number
+12,01# of sites right 06n12ow. 06W12e 06are also always on the l13o06okou13t 06for 13ta06l13ented new ANSi, #
+13,01  12Lit, MOD,  RiP, and 06V12GA 06ar12t06ists.  Just call Cyb13e06rPHu13ck 06BB13S  06a13t (813)399-2162
+13,01  12or Primal Compl06e12x   06a12t 06(8112306)363-1701 and  logon usin13g  06th13e  12F13i06DE13L12i13S  account
+14,12 12,01 (User: F13i06DE13L12i13S12, Pas06sw12or06d: 12F13i06DE13L12i13S06) and leave E-13M06ail 13in06clu13din06g 13your name, the 14,13 
+13,01  12name of your bo06a12rd, 06o12th06er 12a06ffils, reasons for w13a06ntin13g 06to 13joi06n13, etc., etc.
+14,12 15,01                                                                              14,13 
+14,12 12,01mmmmmmmmmmmmmmmm06m12mmm06mm12mm06mmm12m06mmmmmmmmmmmmmmmmmmmmmm13m06mmm13mm06mm13mmm06m13mmmmmmmmmmmmmmmm14,13 

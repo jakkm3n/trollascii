@@ -1,0 +1,71 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 2/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,ICEVIEW Documentation,Friar Tuck
+15,01ice-9601.nfo,ANSI,iCE Information,iCE Staff
+15,01ice-9601.mem,ANSI,iCE Active Memberlist,iCE Staff
+15,01ice-9601.sts,ANSI,Pack Statistics,iCE Staff
+15,01ice-9601.sit,ANSI,iCE Sites Listing,iCE Staff
+15,01ck-hello.ice,ANSI,Goodbye Message,Chromatik
+15,01cu-gote.ice,ANSI,Gothic Error,Cold and Ugly
+15,01hn-taz01.ice,ANSI,Taz's Crib,Highness
+15,01ka-aill.ice,ANSI,abstractiLLUSIONs,kadaver
+15,01ka-misd4.ice,ANSI,misplaced dimension,kadaver
+15,01kz-sd.ice,ANSI,Snake Domain,Kamikazee
+15,01lm-os1.ice,ANSI,Oculus Sinister,Lemonade
+15,01ls-ice.ice,ANSI,iCE - 1996 Style,Lord Soth
+15,01pa-lw1.ice,ANSI,Live Wire,Parasite
+15,01pa-mtrx1.ice,ANSI,Matrix Collection,Parasite
+15,01pa-tph1.ice,ANSI,The Programmer's Haven,Parasite
+15,01sg-hp2.ice,ANSI,High Pressure,Snake Grunger
+15,01sg-js1.ice,ANSI,Jive Soda,Snake Grunger
+15,01sl-trn1.ice,ANSI,The Ravaged Nightmare,Surreal Logic
+15,01te-splat.ice,ANSI,Splat,Tetanus
+15,01te-stats.ice,ANSI,Stat Screens,Tetanus
+15,01us-ice69.ice,ANSI,iCE Oldschool,LS/SE/AT
+15,01us-nwld.ice,ANSI,NetherwOrld,surreallogic/kadaver
+15,01us-terb.ice,ANSI,Terbium!,Magnetic M/LS
+15,01us-tsc.ice,ANSI,The Star Chamber,Snake Grunger/LS
+15,01vk-js1.ice,ANSI,Jive Soda,Veks
+15,01vk-prie1.bin,BIN,Priest,Veks/Priest TSC
+15,01ax-colly.ice,ANSI,Logo Colly 1,Apox
+15,01cu-foru2.ice,ANSI,Forum Magazine,Cold and Ugly
+15,01cu-gote2.ice,ANSI,Gothic Error Menu,Cold and Ugly
+15,01cu-gyro.ice,ANSI,Gyromite,Cold and Ugly
+15,01cu-tm.ice,ANSI,Tainted Meat,Cold and Ugly
+15,01kz-rats.ice,ANSI,The Rat's Nest,Kamikazee
+15,01ma-egod0.ice,ANSI,Egod,Maestro
+15,01ma-good1.ice,ANSI,Goodies Ansi Utils,Maestro
+15,01ma-siege.ice,ANSI,Seige,Maestro
+15,01mp-soez1.ice,ANSI,SoE-Z,Mephistopheles
+15,01sg-logo1.ice,ANSI,Logo Colly 1,Snake Grunger
+15,01sq-lgos8.ice,ANSI,Logo Collection #8,Squidgalator ][
+15,01te-pro1.ice,ANSI,Prophecy ,Tetanus
+15,01tg-jn1.ice,ANSI,JellOnet,tOon gOon
+15,01tg-sd1.ice,ANSI,Snakes Domain,tOon gOon
+15,01tg-tf1.ice,ANSI,The Forum EMag,tOon gOon
+15,01vk-0196c.ice,ANSI,Logo Colly 1,Veks
+15,01vk-ice1.ice,ANSI,iCE,Veks
+15,01vk-rotd3.ice,ANSI,Realm of the Dead,Veks
+15,01cu-tdu.rip,RIP,The Deep Umbra,Cold and Ugly
+15,01an-dragn.jpg,EXTERNAL,Dragon,Anarchy
+15,01at-antic.jpg,EXTERNAL,Antichrice,Aphid Twix
+15,01az-bs1.jpg,EXTERNAL,Excalibur :),Azagoth
+15,01az-sat1.jpg,EXTERNAL,Proxima Centauri,Azagoth
+15,01bn-rzr1.jpg,EXTERNAL,Razor 1911,Borian
+15,01cu-ice.jpg,EXTERNAL,iCE Advertisements(tm),Cold and Ugly
+15,01di-em.jpg,EXTERNAL,What Love Makes People Do,Digital Interface
+15,01hf-dthr.jpg,EXTERNAL,Dither,Hfaze
+15,01is-blah.jpg,EXTERNAL,iCE Promo,Isosceles
+15,01kb-astrl.jpg,EXTERNAL,Love - Astral Style :),Kabal 13
+15,01kb-f1.jpg,EXTERNAL,Average Country Landscape,Kabal 13
+15,01sk-ice2.jpg,EXTERNAL,iCE Promo,Sprite
+15,01sq-gunk.gif,GIF,GUNK!,Squidgalator ][
+15,01vs-frdge.jpg,EXTERNAL,Pic for the Fridge,Visigoth
+15,01vs-oz.jpg,EXTERNAL,Nothing Promo,Visigoth
+15,01vs-t3c.jpg,EXTERNAL,Don't Abuse Mice,Visigoth
+15,01vs-vison.jpg,EXTERNAL,Cyber-Visions Sketch,Visigoth
+15,01vs-vlogo.jpg,EXTERNAL,Versanet,Visigoth
+15,01xt-esd.gif,GIF,Elusive System Designs,Xten
+15,01xt-ma.jpg,EXTERNAL,Mystical Aura,Xten
+15,01xt-toevu.gif,GIF,Toe-View,Xten

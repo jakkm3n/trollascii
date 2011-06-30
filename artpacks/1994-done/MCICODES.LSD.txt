@@ -1,0 +1,80 @@
+15,011/9/94                                      Page 1 of 2
+
+15,01OK, Literally about 5 different people have asked me for the MCI codes in
+15,01LSD within the past 4 days. So here's a list of them for you.
+
+15,01GLOBAL MCI CODES
+15,01----------------
+15,01  These codes can be used ANYWHERE, text files, prompts, ANYTHING. They
+15,01are proceeded by a "|" symbol. The "|" symbol will not be listed in this
+15,01document before the codes. They are as follows:
+
+15,0100-15 - Attribute Set:Foreground colors
+15,0116-24 - Attribute Set:Background colors
+15,01PC - Attribute Set:Set to users "Prompt" color
+15,01IC - Attribute Set:Set to users "Input" color
+15,01RC - Attribute Set:Set to users "Regular" color
+15,01SC - Attribute Set:Set to users "Status" color
+15,01CL - Attribute:Clear screen
+15,01CR - EOL:Carriage Return
+15,01BP - BELL:Send a ^G (bell)
+15,01DA - System:Display current date
+15,01TI - System:Display current time
+15,01KE - Entry:Wait for a character
+15,01Px - Pause for <x> seconds (Range is 0-9)
+15,01HP - User:Display Users Phone #
+15,01UN - USER:Display Users Name
+15,01@H - User:Display Users Name
+15,01@L - User:Display last user
+15,01@# - System:Display total calls to system
+15,01@N - User:Display new callers to system
+15,01@M - System:Display total new messages
+15,01@F - System:Display total new files
+15,01@D - User:Display users last call date
+15,01@T - User:Display users last call time
+15,01@C - User:Display users total number of calls
+15,01@O - User:Display users total minutes used online
+15,01@A - User:Display users minutes left this call
+15,01@V - User:Display users security level
+15,01@E - User:Display users security file level
+15,01@P - User:Display users number of posts
+15,01@U - User:Display users total uploads
+15,01@I - User:Display users total downloads
+15,01@S - User:Display users ud points <- note will be switched to K-Bytes avail
+15,01          today
+15,01@B - User:Display usernote (centered)
+15,01@* - System:Wait for enter to be pressed
+15,01@R - System:Display systems login header
+15,01@G - User:Display total download K-Bytes
+15,01@J - User:Display total uploaded K-Bytes
+15,01@Q - User:Display Users REQUIRED Post/Call ratio
+15,01@! - User:Display users REQUIRED Upload/Download ratio
+15,01@$ - User:Display users REQUIRED Upload/Download K ratio
+15,01@K - User:Display if the user passed or failed the Upload/Download ratio
+15,01@W - User:Display if the user passed or failed the Upload/Download K ratio
+15,01@X - User:Display if the user passed or failed the Post/Call ratio
+15,01@| - User:Display users phone #
+15,01@~ - User:Display current Upload/Download ratio
+15,01@^ - User:Display current Upload/Download K Ratio
+15,01@+ - User:Display user number
+15,01@& - User:Display current Post/Call ratio
+15,01 
+15,01LSD MCI Codes                                      page 2 of 2
+
+15,01The following are "@" codes used with the file MSGHEAD.ANS when a message
+15,01is read. They are ALL preceeded with a "@", so that will not be displayed.
+15,01They are as follows:
+
+15,01MB - Current message base name
+15,01MC - Current message number
+15,01MN - Highest message in current base
+15,01MT - Who message is to
+15,01MW - When message was posted
+15,01MF - Who message is from
+15,01MS - Message subject
+15,01FL - Message "Flags"
+
+
+
+15,01Please note: In LSD 1.55 there will be MCI codes for the following fields:
+15,01Daily number of calls allowed,

@@ -1,0 +1,50 @@
+
+15,01                   12m
+15,01                  12"02"15     12m14,12#02,01@12m14,02 02,01m14,02  02,01m   12m14,12#02,01@14,02  02,01m15     12m02mmm15     12mm14,12#02,01@12#02m
+15,01                 12|02@|    12|14,12#02,01@12"14,12#02,01@14,02 02,01"14,02  02,01| 12|02@12"  02"14,02 02,01|   14,12#02,01@""14,02  02,01m  12|02@12"  02"14,02  
+15,01                 14,12#02,01@15      14,12#02,01@15  12"  14,02  02,01   12m14,12#02,01@14,02 02,01m14,02 02,01|  14,12#02,01@15    14,02  02,01| 14,12#02,01@15 02m14,02  02,01" m
+15,01                 14,12#02,01@m m|  12|02@|   |14,02 02,01|  12|14,12#02,01@15  02m14,02  02,01  12|02@m  m14,02  02,01| 12|02@12m   02m14,02 02,01|
+15,01                  12"02@12#02"   12m14,12#02,01@15   14,02  02,01m   12"14,12#02,01@@"14,02   02,01  12"14,12#02,01@12#14,02 02,01"14,02  02,01  12"14,12 02,01@12#14,02  02,01"
+15,01                                                12m02m   |14,02 02,01|
+15,01                              00Pack #0115         12|02@m  m14,02  
+15,01                                                12"14,12#02,01@12#14,02 02,01"
+
+
+14,01--------------------------------------------------------------------------------
+15,01         00Welcome to the first installment of 13I06MA14GES00, the monthly pack of
+15,01         00the art group 13I06MA14GE00.  This is our first pack and hopefully we
+15,01         00will be producing more "13I06MA14GES00" every month, getting better and
+15,01         00better.  13I06MA14GE 00is a new group and we are currently looking for
+15,01         00members and Distribution Sites.  If you think you have a talent
+15,01         00to draw 12ANSi 00or 12VGA00, can program, can supply other boards with
+15,01         00our art, or would like to be a site for 13I06MA14GE 00please fill out
+15,01         00our Application Generator that comes with the pack and Upload it
+15,01         00to our WHQ 04Realm of Terror 13(201)256-2942 00or any of our Distribution
+15,01         00Sites.
+14,01--------------------------------------------------------------------------------
+
+
+15,01                                 00I10M11A12G02E 00Members
+
+15,01              00GRiM HUMOR15         00Senior Member/Ansi/VGA/Coder
+15,01              00Warrior Soul15       00Senior Member/Ansi
+15,01              00Jester15             00Ansi
+15,01              00MightyMan15          00Ansi
+15,01              00Chronic15            00Ansi/VGA
+15,01              00Sarcastic15          00VGA
+15,01              00Rasta Planet15       00Ansi
+15,01              00El Diablo15          00Courier
+15,01              00Drum15               00Coder
+15,01              00Cyberstorm15         00Courier
+
+15,01                                 00I10M11A12G02E 00Sites
+
+15,01              00Realm of Terror    (201)256-2942   World Headquaters
+15,01              00The Heavens15        00(201)XXX-XXXX   Courier Headquaters
+15,01              00Paranor15            00(201)XXX-XXXX   Distribution Site
+15,01              00Electric Cool-Ade  (908)XXX-XXXX   Distribution Site
+15,01              00Drum's Abode15       00(201)XXX-XXXX   Member Board
+15,01              00Sinful Killer15      00(201)XXX-XXXX   Distribution Site
+
+
+15,01                                              00W15ar14rior 00S15ou14l[00I10M11A12G02E14]

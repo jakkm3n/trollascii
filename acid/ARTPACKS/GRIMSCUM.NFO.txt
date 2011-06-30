@@ -1,0 +1,80 @@
+15,01 mm m   m14,15 15,01mm m     m mm# m  mm mmm mmmm    mmm #  mm m  m mm  mmm mmm mm mmm mm
+15,01 " mm|14,15#15,01|m14,15 #15,01 m m14,15# #15,01|m mm"14,15#15,01| m  m   m     m00@15mm    "m   mmm    m    m   m  m   m "
+15,01 m"14,15#15,01"   ""m m"    "|||14,15#15,01"""#14,15 15,01|"14,15# 15,01|"14,15# 15,01|  00@14,15#15,01" "|14,15#15,01mm|| m"  "|14,15#15,01m| m  "14,15#15,01|#14,15# 15,01|"14,15# 15,01|"14,15 #15,01|
+15,01 14,15 15,01| ##   "14,15#15,01 14,15#15,01|  # m" "m00@15| |00@15| |00@15| |00@15| |14,15#15,01| ## """" 14,15#15,01|  #  "" m| # |14,15#15,01||00@15| |00@15| |00@15|
+15,01 |14,15 15,01m  m14,15 15,01"m14,15 15,01 00@15"m14,15#15,01|14,15#15,01mm  |14,15#15,01| |14,15#15,01| 14,15 #15,01| 14,15 #15,01|  00@14,15 15,01m  mmm#m00@15|  # ## |14,15##15,01 ## |14,15 15,01||14,15#15,01| 14,15 #15,01| 14,15 #15,01|
+15,01  "14,15#  #15,01 #14,15 #15,01 m"  ""00@15"| 14,15# 15,01| 14,15 #15,01| 14,15 #15,01  14,15 #15,01    "14,15# #15,01" #|14,15#15,01|00@15|   #  00@15"| #  14,15 #15,01 14,15 #15,01| 14,15 #15,01  14,15 #
+15,01|m  "" mm14,15#00,01@15 14,15#15,01| ##  14,15# 15,01 14,15 #15,01  "14,15#15,01 |14,15 15,01| |14,15 15,01|  |m     mm14,15# 15,01|14,15##15,01m     m|#m m14,15#15,01m" "14,15#15,01 |14,15 15,01| |14,15 15,01|
+15,01 |14,15 15,01m||"" "|"00@14,15#15,01m # m|||14,15 15,01| |14,15#15,01"m14,15 #15,01"m14,15 #15,01"   |14,15#15,01mm|"" "| "14,15## #15,01mm14,15#15,01| 00@15m""00@15" |14,15#15,01"m14,15 #15,01"m14,15 #15,01"
+15,01  "14,15#15,01" """"  "   " 00@15" ""  ""  "   "  ""  "00@15" """" "   """"" " ""  " ""  "   " sa
+15,01                               G R i M  S C U M (TM)             August 6, 1996
+
+
+
+
+15,011-The Usual Disclaimer
+15,01~~~~~~~~~~~~~~~~~~~~~
+
+15,01    We are in no way responsible for any  damages arising from the use of this
+15,01    program, and blah blah blah, and so on...
+
+
+
+
+15,012-System Requirements
+15,01~~~~~~~~~~~~~~~~~~~~~
+
+15,01Required:
+
+15,01    * 386 CPU or later
+15,01    * 4 megs of RAM (2560k of free memory needed at runtime)
+15,01    * VGA graphic card
+
+15,01Optional:
+
+15,01    * SVGA graphic card  and a VESA BIOS  or a driver like UNIVBE installed if
+15,01      you want to use higher resolutions (640x480 and above).
+15,01    * Gravis Ultrasound  (with 512k of DRAM)  or Sound Blaster  if you want to
+15,01      hear music and sound effects.
+
+
+
+
+15,013-Questions & Answers
+15,01~~~~~~~~~~~~~~~~~~~~~
+
+15,01Q:  I tried to run your eLiTe PRoGGY, but it crashed and my computer froze!
+
+15,01A:  Type GRIMSCUM /?  at the DOS prompt  for help about that.  If this freezes
+15,01    your  computer again,  e-mail  Overbored (ovrbored@ice.org)  and  complain
+15,01    about it.
+
+
+15,01Q:  I have a GUS/SB but i can't hear any sound!
+
+15,01A:  As it says when you type GRIMSCUM /?,  make sure your environment variable
+15,01    is set correctly.  If you already checked that and there's still no sound,
+15,01    maybe your  sound card's  IRQ is  above 7,  which is  known to  cause some
+15,01    problems with the music player (that bug should be fixed soon).
+
+
+15,01Q:  I tried everything but I still can't hear any sound!!
+
+15,01A:  Bah.. just use the /nosound switch and shut up.
+
+
+15,01Q:  Ok.  I just got the program working. But... how does the interface work? I
+15,01    wanna know! Tell me!! Please!!!
+
+15,01A:  er.. press F1.
+
+
+15,01Q:  Could you tell me more about Kris?
+
+15,01A:  Well... Kris is a young mass murderer. You'll learn more about him and his
+15,01    weird personnality in upcoming issues of Grim Scum.
+
+
+15,01Q:  What are  those "coordinators"  in the  member list at  the end?  Are they
+15,01    really doing something useful?
+

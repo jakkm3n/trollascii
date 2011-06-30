@@ -1,0 +1,22 @@
+15,01ET - No more Mr. Nice Alien
+
+15,01        This is my entry for the next Blender. A little late, but hopefully
+15,01        it'll still make it.  I dunno if anyones ever done some code for
+15,01        Blender, but I decided to give it a try.  Lemme tell you, it's not
+15,01        very easy to code a project in 3 hours :)  (But I did it all right
+15,01        on time! Really! Check the file dates. 10:00pm sunday night!)
+
+15,01        Anyways, this is just a shabby little game, which isn't fun to play
+15,01        but it meets the three restrictions for this weeks Blender.
+
+15,01                E.T. killing SCARED tourist at the STONE HENGE.
+
+15,01        To play, move E.T. up and down, wait until his finger is glowing
+15,01        yellow, and press ENTER to shoot at the running tourists.
+
+15,01        The bikers in the sky mean nothing to the game, they're just
+15,01        there for effect :)
+
+15,01        l8r
+
+15,01- Mavrik (Mistigris/Fire)

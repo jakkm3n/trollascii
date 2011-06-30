@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01IcE IcE IcE IcE IcE IcE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,011.  Whoo hoo... It's been a busy month, although a number of people took some
+15,01    well-deserved time off for their families, grandparents, friends, part-
+15,01    time lovers, random homeless people on the street, aging men who shine
+15,01    shoes in local airports, and assorted farm animals.  All in all it was an
+15,01    emotionally climacic month and we're still sobering up and trying to
+15,01    scrub all the guilt marks off ourselves.
+
+15,012.  First on the agenda is the member update.  Catbones was swept away by a
+15,01    giant teddy-bear that sang Kwanzaa carols and fed on gummi worms.  He
+15,01    later rejoined ACiD in an unprecedented move to corner the orange juice
+15,01    market along with Eddie Murphy and Dan Aykroyd.
+
+15,012.5 We would like to welcome back Veks, the graffiti-type font stud from the
+15,01    West Coast.  Also, new this month is Misfit, a talented ansi artist who
+15,01    joins us from ACiD.  It's great to have both of you with us :)
+
+15,013.  This month saw a rare promotion.  Lemonade now joins Toon Goon as Ansi
+15,01    Coordinator.  We can't wait to see how far iCE will go under the caring
+15,01    loving touches of everyone's favorite sour beverage.  Knock back another
+15,01    to a successful future!
+
+15,014.  This month saw the first print advertisement for iCE(tm).  In LOGON
+15,01    magazine appears a vga of the Daffy Duck iCE ansi by Lemonade, MM, and
+15,01    Lord Soth, with the famous iCE font by Pnakotic, as well as the usual
+15,01    information on how to get in contact with us.  For subscription
+15,01    information for LOGON magazine, call 1-800-585-9846.  The magazine covers
+15,01    mostly BBS topics, but also plans on covering the art scene, the web,
+15,01    and other net-related topics.
+
+15,015.  Mascot's MS-TCP.JPG is his cover from The Computer Paper magazine, which
+15,01    we mentioned last month.  Congrats on the well-deserved publicity Mascot,
+15,01    I hope the magazine is on your mantle right next to your other trophies,
+15,01    awards, and sexual apparatus.
+
+15,016.  Hannibal has been in Tibet for the past few months, meditating, waiting
+15,01    for buddha.  Just thought you should know.
+
+15,017.  iCE heartily supports everyone changing their names to unpronouncable
+15,01    symbols which are all pronounced "little bikkhu."
+
+15,017.5 mmmmmmm... beer.
+
+15,018.  Smash!, the Australian demogroup of which Squidgalator ][ is a member,
+15,01    finally released their megademo, entitled 'Awakening.'  You can pick it up
+15,01    on ftp.cdrom.com /demos/alpha/1995/s/sm-awake.zip;  This marks Slothy's
+15,01    second demo greet, something which makes him proud :)  We would also like
+15,01    to encourage everyone who will be attending the upcoming Australian
+15,01    democompo to vote for the Heretics demo, which is SQ2's current active
+15,01    demogroup, as Awakening marked the end of Smash.
+
+15,019.  The following statement is true.
+
+15,0110. The preceding statement is false.
+
+15,0111. The Party 95 was held from December 27th to the 29th.  Regardless of the
+15,01    already-surfacing Party 95 voting problems (with Lizardking nabbing last
+15,01    place on the 4 channel music compo), Necros was placed 7th, and Mellow-D
+15,01    took a suspicious 18th place in the multichannel music compo.  Regardless,
+15,01    they are really some amazing tunes, and we recommend you hunt them down
+15,01    and give them a listen.  At the time of pack release, Mellow-D has not
+15,01    released his song yet, so the filename is unknown.

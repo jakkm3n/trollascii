@@ -1,0 +1,28 @@
+15,01***GeL `97***
+15,01***IMAGES & LINKS***
+
+15,01***Images and links are VERY simple to anyone who can read, first I will  ***
+15,01***First i will start with IMAGES: <IMG SRC="gel3.jpg"> </IMG>            *** 
+15,01***that line would load the file GEL3.JPG included in our pack, anyways   ***
+15,01***that is basically how you load a IMAGE into a HTML document            ***
+15,01***No for the Parameters, the only parameter that has been of ANY use to  ***
+15,01***me has been the <IMG BORDER=2 SRC="gel3.jpg"> </IMG>. This would make  *** 
+15,01***a border around the image, honestly i don't know the measurement it    ***
+15,01***it uses but 2 is a pretty safe bet.                                    ***
+
+15,01***Links are not that hard, believe it or not a link is much like a IMAGE ***
+15,01***<A HREF="NAME.htm"> </A> This line here by itself is of NO use to the  ***
+15,01***user a clickable link must be added that is done like this:            ***
+15,01***<A HREF="NAME.HTM"> Name.Htm </A> that would allow the user to click on***
+15,01***a line that said: Name.Htm :. Which in turn would pass them onto that  ***
+15,01***page.                                                                  ***
+
+
+15,01***Using IMAGES in LINKS is actually quite simple watch.                  ***
+15,01***<A HREF="NAME.HTM"> <IMG SRC="GEL3.JPG"> </IMG> </A> thats it! Now lets***
+15,01***break it down. <A HREF="NAME.HTM">= The actual LINK.                   ***
+15,01***<IMG SRC="GEL3.JPG">=The GEL3.JPG picture                              ***
+15,01*** Well what you did is instead of making text for the user to click on  ***
+15,01***you made a image, do you see it now?                                   ***
+15,01***<A HREF="NAME.HTM"> <IMG SRC="GEL3.JPG"> </IMG> </A> you see instead of***
+15,01***having NAME.HTM as the clickable object you had "Gel3.JPG" the picture!***

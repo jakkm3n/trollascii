@@ -1,0 +1,18 @@
+10,01(150897 ansi files...10)
+15,01FLX-NEW.ans
+15,01PYX-AGNY.ans
+15,01PYX-BLT3.ans
+15,01PYX-CNF2.ans
+15,01PYX-EUPH.ans
+15,01PYX-FC.ans
+15,01PYX-LUNA.ans
+15,01PYX-OI4.ans
+15,01PYX-OOZE.ans
+15,01PYX-UPL3.ans
+15,01RCT-SFG.ans
+15,01RCT-WEED.ans
+15,01US-BOX.ans
+15,01US-DOA.ans
+15,01US-ILLB.ans
+15,01>SAUCE00---------- ANSI ----------                             bamboosh         
+15,01   199708242   @@P >                             

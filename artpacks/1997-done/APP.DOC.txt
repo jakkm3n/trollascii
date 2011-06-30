@@ -1,0 +1,6 @@
+15,01tripp appgen 1.0
+
+15,01Just run the program, and if you need more info, look in the outfile it creates
+15,01(tripp97.app)
+15,01>SAUCE00application info                                       trippin productio
+15,01ns 19970330t                                     

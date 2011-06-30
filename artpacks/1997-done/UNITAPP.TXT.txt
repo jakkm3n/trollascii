@@ -1,0 +1,14 @@
+15,01This file is to tell you about the file enclosed in UNIT#06.ZIP.  This is
+15,01no real documentation to the files but a hurried little readme thingie.
+
+15,01There should be NO problems with the executable... If anything does go
+15,01wrong, it is not the responsibility of the coders or the members of UNiT.
+
+15,01file description:
+
+15,01   UNiT app generator by Druid - UNITAPP.EXE
+
+15,01this file was compiled on December 1, 1996 and should not be modified in
+15,01any shape or form.  Plus, when you send this application, we require that
+15,01send at least 5 piece of new work.  Thank you.
+15,01>

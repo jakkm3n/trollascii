@@ -1,0 +1,80 @@
+
+15,01                 'What's new' for the December iCEPACK.
+
+15,011.  We've now started including .MOD files with the zips!  Music is just
+15,01    another form of art, as are poetry, and writing, which we plan to
+15,01    expand to in the future.  The .MOD files will go in a file directory
+15,01    called iCE (Mods), and will hopefully be used as a 'sound pool' that
+15,01    other iCE members can use in their VGA's and demo's.
+
+15,012.  We've decided to include .GIF files with all VGA's done in hi-resolution.
+15,01    We had many complaints that people couldn't experience the beautiful
+15,01    work by Mushroom last month, and while I myself try to encourage all the
+15,01    VGA artists to use 3oox2oo mode, we still get a number of hi-res works.
+15,01    Plus, the art by Mushroom just couldn't be represented accurately in
+15,01    low-res.  Hopefully this will make things easier even if it does take up
+15,01    more room.
+
+15,013.  The memberlist is now being abridged, and only includes active, and semi-
+15,01    active members.  We've heard too many people flippantly say "iCE is too
+15,01    big", but when we ask them to explain they usually cannot come up with a
+15,01    good answer.  The most common general idea however, is that we have too
+15,01    many people in the group who appear to do nothing.  So, we came up with
+15,01    the solution of creating the memberlist which only includes members who
+15,01    have met the quota for that month (2 full ANSi ads, or 1 VGA for those of
+15,01    you not up on your iCE history).  This month's list contains those guys
+15,01    who have done something in the last two months, or I've talked to and I
+15,01    know they're working on something, or some other good excuse :).  We will
+15,01    be getting more strict on this, and hopefully the January memberlist will
+15,01    list only those who have met the quota for activity.  Note:  The virtual
+15,01    iCE Memberlist is much larger than the actual list here in the iCEPACK,
+15,01    there are many iCE members in 'layaway' that come out of hiding every once
+15,01    in awhile.  Not being included in the monthly memberlist does NOT mean the
+15,01    person is 'kicked out'.  Consider it a temporary demotion due to lack of
+15,01    activity.
+
+15,01                       'What's new' in iCE recently.
+
+
+15,011.  A couple new guys have been producing like demons, namely: AADA, and
+15,01    the man who's art did a complete 18o* in a short time, Killer (though
+15,01    some of you might know him as Kleeb).
+
+15,012.  Liquid Image, formerly of Legacy, is the newest addition to the gang.  An
+15,01    artist who has dramatically improved while in Legacy joined us in one of
+15,01    the wierdest group changes I've ever been involved in.  It'll have to be
+15,01    explained in an article.
+
+15,013.  Rivendell, the iCE World Headquarters, as well as the TCS World Hq, has
+15,01    temporarily become Hq for CCi while Midnight Sorrow takes a break for a
+15,01    month.
+
+15,014.  Black Wolf, Mr. Mister, and Wire Tap are working on a mondo (no pun
+15,01    intended) VGA production that should be out in January.  Look forward to
+15,01    this one art lovers, it'll knock your socks off!
+
+15,015.  Eight Ball and Mad Hatter are also working on a demo for the new year,
+15,01    stay tuned to the iCE CCi discussion for more information on this one.
+
+15,016.  We're starting what has loosely been called the 'iCE Amiga division',
+15,01    and are looking for Amiga VGA artists.  If you draw, or code on the amiga,
+15,01    and can meet our standards, get in contact with us.  Note that there won't
+15,01    really be an 'Amiga Division', but it makes it easier to use that term for
+15,01    now.
+
+15,017.  Even more people are starting to rip Slum Dweller's (HC's) font.  It's
+15,01    becoming a fad!
+
+15,018.  Buffy still drinks beer in the garage and gives head.
+
+15,019.  Tempus beat Quicksilver, 4 to 1, and won the bet!  Now he has to make
+15,01    another ansi for Sanctuary(tm), oh darn!  I'm so upset..laugh.  You
+15,01    didn't want to join Legacy anyway, did you man? :)
+
+15,0110. Silicone Nightmare ACTUALLY couriered a bit this month.
+
+
+
+15,01        Well, that pretty much ends December's info file.
+
+

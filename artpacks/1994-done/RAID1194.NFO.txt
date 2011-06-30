@@ -1,0 +1,80 @@
+12,01#15 14#m"#15 14Elysius.RAiD15                       12,14#15,01                         14#"m#15 02#14#15  14#
+12,01@15 14,14 01,01@15   14m#15  14mm14,14#02,01""14,02#14,01#02mmm15                    02m14,02# 12,01m15                         01@14,02 15,01 12@15 14"m01@
+14,02# 15,01 14#15 14#02"14#m"01@15  01@15  12@15   14#14,02#02,01"m15                  14#12"15    14#15                     14#12@14,02 #15,01 02#14#14,14 
+14,02 15,01  14m14,14    14,01mmm15  14#15  02#15    12@15 14#14,02 15,01                 14m14,14   14,01mm01@15                  14#15   02#15 14,02 15,01   02#14,02 
+12,01@15 02#14,14#14,01"14,14   12##01,02@@14 02,01m15       02#15  14,02# 15,01                14|14,14  12##01,02@14,14 15,01 02#15           14mm15      14#15  14,02 02,01#15 02#15 14,02 
+02,01#14,02 14,01#01@02#15 14,14 12##01,02@@14##  15,01          01@02|15               14,14# 12##01,02@@14#14,01|12@15        14#15 14,14     14,01m#15  01@15 14,02 #15,01   14,02 12,01@
+02,01#15 14,14 14,01#14,02 15,01 01@14,14 01,02@@14##   02,01|15        14#14,02 02,01#15               01@15 14,14 01,02@@14## #15,01         14|14,14   12#01,02@@14,14 15,01   14,14 15,01 12@15 14#14,14 15,01 02#
+01,01@15 14,14 01,01@15 14,02 14,01#15 14,14 14,02##   12#14 15,01     14#02m#"14,02#15,01       02mm15       14#15  01,02@14##  02,01|15         01@14,14  12#01,02@@14# 14,01|15 14#14,14 15,01 02#15  14,14 
+15,01 14,14 15,01   14,14 15,01  14#14,02#   12#02@@12,01|15 14#02m""15   12@15    02m14,02#02,01"14#14,02#14,01""m15 14m14,14 14,01m15  02#|14,02   12#02,01|15         14#14,14 12#01,02@@14#  14,01|15   14,02 15,01  14#15 14,02 02,01#
+14,14 15,01 14#15 14,14 15,01 01@15 02|14,02   12#02@@12,12#12,01|15  14,02#14,01""mm15 02#15   14,02 14,01#02#15  12@15   14|01,02@12,14#14 14,01|15 12@02|14,02  12#02@@15,01        02m14m12,14#01,02@@14#  12#02@15,01 02#15 12@14,02 14,01#15 02#15 14,02 02,01#
+14,02 02,01  14,14 14,01 ## 14,02   12#02@@12,12## 15,01  12@02   14#"m  02|01@14    02#   14|14,02#01@12,14#14,01|  14,02  12#02@@12,12#15,01    02m14#02"14,02#02,01 14,14#14,01|01,02@14#  12#02@@15,01   02# 14,14 14,01  01@14,02 
+14,02# 15,01 14#14,02 15,01 02#15 14,02  12#02@@12,12##  15,01  02#15     14#14,14 15,01 02|#15        12,02# 14#01@14,01|02#15 14,02 12#02@@12,12#12,01|15   14,02 12,01@15  12@15 02#14,02    12#02@@12,12#15,01 14#15 14#15 14,14 14,01#15 14,14 12,01@02#
+12,01@02 14,02 02,01 12@14,02 12,01@14,02  12#02@@12,12##  12,01|02@15         14| 14,02 14,01#15       02,02@12# 14,14 14,01  12,02##02@@12,12#14 #12,01  02|14#02#  #   |14,02 12#02@@12,12#12,01|    14,14 14,01 01@14,14 14,01 02#
+02,01#15 02#14,02 02,01#15 14,02 12#02@@12,12###  #15,01 12#15        14#|15 14,02#02,01"m12@14#15    12,12#02,02@12#14,14 12,02 #02@12,12##  15,01 02@15   14,02 15,01 14#15      14,02 02@@12,12# 12,01|15   14,02 15,01 01@14#14,14 14,01#
+15,01   14,14 14,01#14,02 02@@12,12###  #14 15,01            14#15 12@15  02#""#14#m12,12 #02,02@14,01"15 12#"12,12  12,01"12,12#15,01 12#15   14,02#02,01"m#15  14#02m14mm12,02#12,12# 14 #15,01  14,02 02,01#15 14#15  14,02 15,01 02#
+02,01 14#14,14 14,01 02m12@02"02,02@12,12##  12,01"02,02@15,01               02#15         02,02@15,01 12,02#15,01   02,02@15,01  12,02#15,01     12@02   12@02""  14# 02,02@12,01"12,12#02,01@12 14#14,14 14,01 #  02# 14,02 
+14,01m"14,14#14,01"#02#12,02 # 02@15,01   12,02#15,01                          14#15 12,02#02,01m15   02m12,02#15,01                12,02#15,01  12#15  14,14# 15,01  02#15 02"14,02#
+14,01#15 01@14#15     12,02#15,01                                                             01@15 14"#15   12@
+15,01  14#15                                                                    14#15      02#
+15,01  14-06-15 06---15 06----15 06----13-06-13-00-13-00--------------------------13-00-13--06--13-06----15 06-------15 06--15 06-14-
+15,01                00R15e14ndering15     00A15r14tistically15     00I15n14sane15     00D15e14signs
+15,01  14-06-15 06---15 06----15 06----13-06-13-00-13-00--------------------------13-00-13--06--13-06----15 06-------15 06--15 06-14-
+
+
+15,01         00W15elcome to the first edition of the monthly RAiD Newsletter, first
+15,01    I guess you would like to know some shit about this group.  Well lets
+15,01    start off from our beginings, RAiD was formed under the merger of two
+15,01    young new groups in the 604.  My group was the Clan, which I had just
+15,01    quit NATiON for, we had some good talent under our belt but were lacking
+15,01    in other areas.  Clan was a mostly ANSi oriented art group, with 5 ANSi
+15,01    Artists, 1 VGA and 1 Coder.  Not very big but every member was highly
+15,01    talented in their field.  The group CLAN merged with is PATRiOT, another
+15,01    group that had been around for about 1/2 a month.  PATRiOT was having
+15,01    some problems getting off the ground and needed a boost in their ANSi
+15,01    department.  PATRiOT filled in the CLAN's holes in the other divisions
+15,01    while the CLAN helped boost PATRiOT's ANSi department.  Shortly after
+15,01    this merge we aquired several new but talented members from another local
+15,01    group DEATHSTAR or DTS for short.  RAiD is oriented around a completely
+15,01    relaxed atmosphere you do what you want when you want, as long as you do
+15,01    contribute something.  Otherwise there isn't really any point of being in
+15,01    an art group is there?  RAiD isn't here to compete with any of the other
+15,01    groups in 604 or outside, we are here just to have fun producing quality
+15,01    art then bein recognized for it under the RAiD banner.  If your interested
+15,01    in getting in touch with RAiD there are three things you can do:
+15,01      100)15 Find Pestilence.RAiD Senior, or another RAiD Member on the IRC
+15,01      200)15 InterNet E-Mail me at grateful.dead@f883.n153.z1.fidonet.org
+15,01      300)15 Call Rise of the Midnight Sons RAiD WHQ at 00(1560400)1543100-15651500/153821
+
+15,01100)15 00A15rrivals
+15,01         00S15ome new arrivals here at RAiD that we are rather pleased with are
+15,01    00C15orn 00D15og00(15ANSi00)15 and 00E15merald 00S15kelter00(15ANSi00)15 who both came over from a
+15,01    inactive local group DTS.  00A15didas00(15ANSi00)15, 00A15pex00(15ANSi/Coding00)15, 00E15to00(15Coding00)
+15,01    and 00T15he 00W15arlord00(15Coding00)15 have all joined us from nowhere to give us a
+15,01    much appreciated help in the ansi and coding divisions.  Last but
+15,01    definately not least is 00Y15oung00(15ANSi/RIP00)15.  These new additions look very
+15,01    promissing for the future of RAiD, and we welcome each and every one
+15,01    of them.
+
+15,01200)15 00D15epartures
+15,01         00T15here is only one departure this month which is due to the artist
+15,01    not having any spare time at the moment.  00I15nquisitor00(15ANSi00)15 who came out of
+15,01    nowhere in the past month has proven he is one of the top artists in this
+15,01    A/C he will be sorely missed and we will forever have a place for him
+15,01    here.
+
+15,01300)15 00R15AiDViEW
+15,01         00R15AiDView is being programmed using Assembly by our head coder 00E15to,
+15,01    RAiDView supports 80x25, 80x50, and VGA Modes.  ICEColor is also supported
+15,01    along with BIN File viewing.  Many more features will be added in the up
+15,01    and comming months to hopefully make RAiDView the best in the scene.
+
+15,01400)15 00N15ifty Spiffy Future Notes
+15,01         00W15ell RAiD has some ideas that will make viewing the Renditions alot
+15,01    more than just seeing great artwork, we hope to make them entertaining.
+15,01    So in the upcomming months look forward to seeing fresh new ideas being
+15,01    poked around in the Renditions.  I can't say what any of them are right
+15,01    now but they will definetly add a certain twist to an already great pak.
+
+15,01500)15 00V15oice your opinion!
+15,01         00I15f you have a problem or a question about RAiD that you would like

@@ -1,0 +1,80 @@
+15,01Imperial
+15,01: Members :
+15,01IMP   Imperial
+15,01AN    Annihilatus
+15,01BL    Black Lightning
+15,01BN    Benny
+15,01BNY   Benny
+15,01CO    Coluche
+15,01CY    Cypher
+15,01DI    Disturbance
+15,01HR    Headless Rider
+15,01ME    Magik Elvis
+15,01RU    Rumplestilskin
+15,01SM    Suicidal Manic
+15,01SN    Sniper
+15,01TA    The Assassin
+15,01TMP   The Masked Pirate
+15,01TN    The Narccissist
+15,01TNP   The Night Prowler
+15,01TS    The Summoner
+15,01TT    Twisted Terrorist
+15,01TZ    Tzeentch
+15,01V     Visionary
+15,01VDO   Voodoo
+15,01VO    Voodoo
+15,01US    Multiple Artists
+15,01: Nets :
+15,01EN    Empty Net
+15,01GRIP  GRiPnet Logo
+15,01PROT  Prototype Logo
+15,01SPAM  S.P.A.M.
+15,01: Groups :
+15,01ACD   ACiD Logo
+15,01ACID  ACiD Logo
+15,01ICE   ICE Logo
+15,01IMP   Imperial Logo
+15,01QC    Quality Control
+15,01: Mags :
+15,01BLUR  BLUR Magazine
+15,01DSD   Distorted Magazine
+15,01IRID  Iridium Magazine
+15,01MER   Merciless Magazine
+15,01: Boards :
+15,01AF    April Fool's
+15,01APFLS April Fool's
+15,01FOOL  April Fool's
+15,01ADC   After Dark Club
+15,01ST    Board Stats
+15,01BBS   Board Stats
+15,01BRINK Brink of Insanity
+15,01BOI   Brink of Insanity
+15,01DI    Damage Inc.
+15,01DS    Death Scape
+15,01FE    Fatal Edge
+15,01FC    Final Chaos
+15,01FS    Fire in the Sky
+15,01GOH   Gates of Hell
+15,01HA    Holocaust: Armageddon
+15,01HOS   House of Style
+15,01IOI   Isle of Illusions
+15,01I0I   Isle of Illusions
+15,01LOS   Legion of Silence
+15,01LOF   Line of Fire
+15,01MH    Mortal Haze
+15,01NL    Never Land
+15,01PL    Paradise Lost
+15,01PS    Phase Shift
+15,01PSYC  Psycho Analysis
+15,01RASH  Rash Reflections
+15,01RR    Rash Reflections
+15,01SB    Skully Brothers
+15,01SWIT  Someware in Time
+15,01STSYA Saint Seiya
+15,01SS    Suicidal Shrimp
+15,01CULT  The Cult
+15,01KEG   The Keg
+15,01TBS   The Blue Sky
+15,01TMS   The Morbig Sacriledge
+15,01VD    Virtual Dreams
+15,01VD    Virtual Delusions

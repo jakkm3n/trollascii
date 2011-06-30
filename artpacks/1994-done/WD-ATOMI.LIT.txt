@@ -1,0 +1,35 @@
+15,01                       02m"m ""14,02 02,01""  m""m m""m""14,02 02,01 "14,02 02,01"  m"""m
+15,01                      14,02#02,01  14,02 02,01   14,02#02,01   14,02#02,01   14,02#02,01 14,02#02,01  14,02#02,01  14,02#02,01  14,02#02,01   14,02#02,01   14,02 
+15,01                      12@02  14,02#02,01   12@02   12@02   12@02 12@02  12@02  12@02  12@02   12@
+15,01                      12m  m   m   m   m m15     12m  m   m
+15,01                      14,12#15,01  14,12#15,01   14,12#15,01   14,12#15,01   14,12#15,01 14,12#15,01     14,12#15,01  14,12#15,01   14,12#15,01   02@
+15,01                      02@15  02@15   02@15   02@@@@@15 02@15     02@15 02@@@15  02@@@@@
+
+15,01               02m"""m m""" m""m""14,02 02,01  m""" ""14,02 02,01""  m"m  m"""m  14,02 02,01   14,02 
+15,01               14,02#02,01   14,02 02,01 14,02#02,01    14,02#02,01  14,02#02,01  14,02#02,01  14,02#15,01      14,02#02,01   14,02#02,01  14,02#02,01  14,02#02,01   14,02#02,01  14,02#02,01   14,02#
+15,01               12@15     12@@@02  12@02  12@02  12@02  12@@@02    12@02   12@02  12@02  12@02   14,02#02,01  12@02   12@
+15,01               12m15     12m    m15     12m  m15      12m   m  m  m  m15       12m
+15,01               14,12#15,01   14,12#15,01 14,12#15,01    14,12#15,01     14,12#15,01  14,12#15,01      14,12#15,01   14,12#15,01  14,12#15,01  14,12#15,01  14,12#15,01       14,12#
+15,01               02@@@@@15 02@@@@15 02@15     02@15  02@@@@15   02@15   02@15  02@15  02@15  02@15   02@@@@@
+
+02,01Whodini 12[02FUT12i02LE12] 02presents:
+15,01                                 12Atomic Burial
+
+15,01                      12D02on't you hate it on your birthday,
+15,01                    02when you are going through each present,
+15,01                 02altering physical aspects to make the present
+15,01               02somehow able to be a 12N02intendo Tape, Computer Game,
+15,01                        02Red Box, or working 9 mm pistol,
+15,01                02yet you get Dallas Mavericks shirts, underewear,
+15,01               02tube socks, cheap cologne, and black sweat suites?
+
+15,01              12I02f you do, talk to 12B02ill.  He can get you new shoes.
+15,01            12Y02ou see, when some one dies, it is human tradition that
+15,01             02you take the person's shoes, and hang them onto Bill's
+15,01             02limbs.  12B02ill is a Oak who spends too much time at the
+15,01              02pub.  12I02f you get bill really drunk, he will give you
+15,01              02a pair of those shoes.  12T02his pisses off the family,
+15,01              02they have no were to put the anniversary 12O02dor 12E02aters
+15,01             02that the dead usually get.  12S02ometimes the family will
+15,01              02track you down, knock you out, and replace your 12O02dor
+15,01                12E02aters with their new ones.  12D02on't be offended.

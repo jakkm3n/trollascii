@@ -1,0 +1,59 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 9/6/1995
+15,01###############################################
+15,01ice-9508.nfo,ANSI,Info for 8/95,iCE Staff
+15,01ice-9508.mem,ANSI,Memberlist for 8/95,iCE Staff
+15,01ice-9508.sit,ANSI,iCE Sites,iCE Staff
+15,01ice-9508.sts,ANSI,iCE Stats,iCE Staff
+15,01us-ice.ice,ANSI,iCE Promo,Lemonade/MM/LS
+15,01ck-bad1.ice,ANSI,the badlands! ..,chromatik
+15,01ck-lan1.ice,ANSI,lan's laughter?!,chromatik
+15,01dr-hole.ice,ANSI,hOle,Drakul
+15,01el-glory.ice,ANSI,Neo Nacho,Elsyius
+15,01sl-aldr1.ice,ANSI,alderAAn,Surreal Logic
+15,01sl-cd1.ice,ANSI,chrOnic disOrder matrix,Surreal Logic
+15,01tg-no1.ice,ANSI,Nihilistic Order,tOOn gOOn
+15,01tg-tma4.ice,ANSI,The Mourning After 2,TooN GooN
+15,01un-ago2.ice,ANSI,agOny #1,unsane
+15,01ls-ice.idf,IDF,iCE Promo (IDF),Lord Soth
+15,01ck-ice6.ice,ANSI,iCE Promo,Chromatik
+15,01hl-ter5.ice,ANSI,Terbium #5,Hannibal Lecter
+15,01hn-atl01.ice,ANSI,Atlas,Highness
+15,01hn-ice01.ice,ANSI,iCE Promo,Highness
+15,01hn-lgd01.ice,ANSI,Legend,Highness
+15,01lo-force.ice,ANSI,Force Works,Leonardo
+15,01lo-order.ice,ANSI,The Order,Leonardo
+15,01mm-logos.ice,ANSI,Logo Collection,Magnetic M
+15,01mp-lgo1.ice,ANSI,Logo Collection,Mephitopeles
+15,01sl-psyc1.ice,ANSI,Psycho City,Surreal Logic
+15,01sq-arm.bin,BIN,Armageddon,Squidgalator ][
+15,01sq-lgos3.ice,ANSI,Logo Collection #3,Squidgalator ][
+15,01uns-col1.ice,ANSI,Logo Collection,Unsane
+15,01us-agony.ice,ANSI,Agony,SL/Unsane
+15,01us-btrp.ice,ANSI,Bad Trip,BoA/Deepstah
+15,01us-end1.ice,ANSI,Endow,Boa/Lord Soth
+15,01sl-egod1.rip,RIP,maestro's egOd!,Surreal Logic
+15,01bn-ibox1.gif,GIF,The Ice Box,Borian
+15,01nd-ice3.gif,GIF,A really neat toilet,Nukedawg
+15,01sb-m71.gif,GIF,M7 Promo,Sober
+15,01sb-sbpw.gif,GIF,Sober Productions,Sober
+15,01sq-eu4ia.gif,GIF,State of Euphoria,Squidgalator ][
+15,01sq-revlt.gif,GIF,Revolt,Squidgalator ][
+15,01sw-ice02.gif,GIF,iCE Promo from hell,Shockwave
+15,01sp-wind.exe,EXE,Wynonna's Piggy,sPIFF
+15,01sq-tdu.com,EXE,The Deep Umbra,Squidgalator ][
+15,01iceview.doc,ANSI,iCEView documentation,Friar Tuck
+15,01ripfonts.zip,ANSI,RIP Fonts for iCEView,iCE Staff
+15,01az-droid.jpg,EXTERNAL,Droid,Azagoth
+15,01az-water.jpg,EXTERNAL,Watery iCE,Azagoth
+15,01jm-rebls.jpg,EXTERNAL,Rebel Base,Jamie McCarter
+15,01lo-tash.jpg,EXTERNAL,The Art Scene Homepage,Leonardo
+15,01rl-bruce.jpg,EXTERNAL,Bruce Lee iCE Promo,Rogue Leader
+15,01rl-dp.jpg,EXTERNAL,Droolpuddy,Rogue Leader
+15,01rl-par.jpg,EXTERNAL,Paradise,Rogue Leader
+15,01rl-shi.jpg,EXTERNAL,Shi,Rogue Leader
+15,01rl-unrl.jpg,EXTERNAL,Unreal,Rogue Leader
+15,01rl-vader.jpg,EXTERNAL,Darth Vader,Rogue Leader
+15,01td-mercu.jpg,EXTERNAL,Mercury VR platform,Tonedef
+15,01xt-drool.jpg,EXTERNAL,Droolpuddy,Xten
+15,01xt-free.jpg,EXTERNAL,Freedom CD,Xten

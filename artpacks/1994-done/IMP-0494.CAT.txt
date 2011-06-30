@@ -1,0 +1,80 @@
+
+
+15,01   #                                                 #
+15,01   00@15                                                 00@
+15,01  m14,15#15,01m                                               m14,15#15,01m
+15,01   "                                                 "
+15,01   14,15#15,01     14,15 15,01m14,15 ## 15,01m14,15 15,01     14,15 15,01m14,15 15,01"14,15#00,01@15m  14,15 15,01m14,15#15,01""14,15 15,01m   14,15 15,01m14,15 15,01"14,15#00,01@15m     14,15 15,01     14,15 15,01m14,15 15,01"14,15#00,01@15m    14,15 15,01m
+15,01  |14,15#15,01|   |14,15 #15,01||||14,15# 15,01|   |14,15 #15,01|  "14,15#15,01||14,15 #15,01|      |14,15 #15,01|  "14,15#15,01|   |14,15#15,01|   |14,15 #15,01|  "14,15 15,01|  |14,15 #15,01|
+15,01  14,15#00,01@15#   14,15##00,01@15    14,15###15,01   14,15##00,01@15 m |00@15 14,15##00,01@15#mm    14,15##00,01@15 m |00@15    14,15##15,01#   14,15##00,01@15   m14,15#15,01|  14,15 #00,01@
+15,01 |14,15#15,01#00@15| |14,15#00,01@@15|  |00@@14,15#15,01| |00@@15#| "" |14,15#00,01@@15|     |14,15#00,01@15#| "00@15m   |14,15#00,01@@15| |14,15#00,01@@15|""#00@15| |14,15#00,01@15#|
+15,01 14,15 #00,01@15## 14,15 00,01@@15##  00@15#00@@14,15#15,01 14,15#00,01@15###    14,15#00,01@@15#00@15     14,15 00,01@15#00@14,15 15,01  |00@14,15#15,01m 14,15 ##00,01@15# 00@@@15#00@15  |00@14,15#15,01 14,15 #00,01@15#00@15 Zor
+15,01 "14,15 #00,01@@15"00@@15#00@15"  "00@15##00@15"14,15 #00,01@15#00@15"  "14,15#00,01@15###00@14,15#15,01m"|14,15#15,01##00@14,15#15,01"  #00@14,15#15,01|"14,15 ##00,01@15"00@15##00@14,15#15,01" 00@14,15# 15,01|"00@15###00@14,15#15,01m"
+
+15,01    Catalog IMP-0494.CAT for IMPerial Viewer 1.00 (by Coluche [Imperial])
+15,01             for the Imperial pack of April 1994: ***Untitled***
+
+15,01      +------------------------------------------------------------+
+15,01      |   This file can be read only by the program, dont try to   |
+15,01      |   make any sence from this catalog file!  (Easy anyway!)   |
+15,01      +------------------------------------------------------------+
+
+15,01EOrF (End of Readable File)  :>
+
+01,01;
+01,01;           Informations Box
+01,01*INFO      """""""""""""""""""""""""
+01,01^FImperial
+01,01^E"Bringing New Creations to the World!"
+01,01^3April 1994 ^9(^3Pack #01^9)
+01,01^FImperial^9 - ^BApril^3'^B94^9
+01,01;
+01,01*MENU
+01,01__Section,  ANSis Graphics
+01,01__Blank    """""""""""""""""""""""""
+01,01AK-PSYC1.IMP, ANS, Asian Knight     , Psyco Analysis           , Ansi, 80x25
+01,01AK-KEG1 .IMP, ANS, Asian Knight     , The Keg                  , Ansi, 80x25
+01,01BL-GRIP1.IMP, ANS, Black Lightning  , GripNet                  , Logo, 80x25
+01,01BL-SWIT .IMP, ANS, Black Lightning  , SomeWare in Time         , Ansi, 80x25
+01,01BL-TMS  .IMP, ANS, Black Lightning  , The Morbid Sacrilege (closed), Ansi, 80x25
+
+01,01BL-TNL  .IMP, ANS, Black Lightning  , NeverLand                , Ansi, 80x25
+01,01DF-APFLS.IMP, ANS, Darkforce        , April Fool's             , Ansi, 80x25
+01,01DF-BRINK.IMP, ANS, Darkforce        , Brink of Insanity        , Ansi, 80x25
+01,01DF-IMP  .IMP, ANS, Darkforce        , Imperial Logo            , Logo, 80x25
+01,01DF-STSYA.IMP, ANS, Darkforce        , Saint Seiya              , Ansi, 80x25
+01,01SN-EN1  .IMP, ANS, Sniper           , Empty Net                , Logo, 80x25
+01,01SN-IMP1 .IMP, ANS, Sniper           , Imperial                 , Logo, 80x25
+01,01SN-QC1  .IMP, ANS, Sniper           , Quality Control          , Logo, 80x25
+01,01TNP-DI1 .IMP, ANS, The Night Prowler, Damage Inc.              , Logo, 80x25
+01,01TNP-MH1 .IMP, ANS, The Night Prowler, Mortal Haze              , Ansi, 80x25
+01,01TZ-PS1  .IMP, ANS, tZeentch         , Phase Shift              , Logo, 80x25
+01,01TZ-WN1  .IMP, ANS, tZeentch         , Waking Nightmare         , Logo, 80x25
+01,01V-AFOOL2.IMP, ANS, Visionary        , April Fool's             , Ansi, 80x25
+01,01V-IMPAD .IMP, ANS, Visionary        , Imperial                 , Ansi, 80x25
+01,01ZOR-IMP1.IMP, ANS, Zorlak           , Imperial                 , Logo, 80x25
+01,01ZOR-IMP2.IMP, ANS, Zorlak           , Imperial #2              , Logo, 80x25
+01,01;COULD-BE .!, A50, ansi of 80x50    , Superb Title.            , Ansi, 80x50
+01,01;
+01,01__Blank
+01,01__Section,  Literature
+01,01__Blank    """""""""""""""""""""""""
+01,01;this is an example for a lit. ";" are comments, not readed by IMPVIEW
+01,01CT-HUNT .LIT, ANS, Cthulu           , The Hunt                 , LIT, 80x25
+01,01SN-DD1  .LIT, ANS, Sniper           , Digital Dreamland        , LIT, 80x25
+01,01SN-HELL1.LIT, ANS, Sniper           , Hell                     , LIT, 80x25
+01,01SN-IOI  .LIT, ANS, Sniper           , Isle Of Illusion         , LIT, 80x25
+01,01SN-LOS2 .LIT, ANS, Sniper           , Legion Of Silence        , LIT, 80x25
+01,01SN-PL1  .LIT, ANS, Sniper           , Paradise Lost            , LIT, 80x25
+01,01SN-TELD1.LIT, ANS, Sniper           , The Ever Lasting Darkness, LIT, 80x25
+01,01TN-BOI1 .LIT, ANS, The Narccissist  , Brink of Insanity        , LIT, 80x25
+01,01TN-TELC1.LIT, ANS, The Narccissist  , Totally Electrified      , LIT, 80x25
+01,01Z&S-DMNT.LIT, ANS, Sniper & Zorlak  , Domination From Above    , LIT, 80x25
+01,01;
+01,01__Blank
+01,01__Section,  Menu/Stat Sets
+01,01__Blank    """""""""""""""""""""""""
+01,01STATUS  .ANS, ANS, Masked Pirate/Vq , Obv Stats Screens        , Ansi, 80x25
+01,01USERSTAT.ANS, ANS, Masked Pirate/Vq , Obv Stats Screens        , Ansi, 80x25
+01,01FILESTAT.ANS, ANS, Masked Pirate/Vq , Obv Stats Screens        , Ansi, 80x25
+01,01;

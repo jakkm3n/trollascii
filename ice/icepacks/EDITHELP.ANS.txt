@@ -1,0 +1,19 @@
+15,01                         00O12blivion/002 F12ull 00S12creen 00E12ditor
+
+15,01^00E 12Cursor up15          ^00R 12Page up15        ^00Y 12Delete line15     ^00J 12Join lines
+15,01^00X 12Cursor down15        ^00C 12Page down15      ^00T 12Delete word15     ^00B 12Break line
+15,01^00S 12Cursor left15        ^00A 12Word left15      ^00G 12Delete char15     ^00N 12Insert line
+15,01^00D 12Cursor right15       ^00F 12Word right15     ^00P 12To end of line  15^00K 12Other commands
+15,01^00V 12Toggle insert mode 15^00Q 12Start of line  15^00W 12End of line15     ^00Z 12User Macro
+
+12,01  02These normal commands work,15        02Or, when you press ^K, the following
+02,01as with most all BBS Softwares:15      02commands are valid at the Cmd: prompt...
+
+02,01    15/00A  12To Abort a Message15          00^15K 00A  12Abort Message    00^15K 00Q  12Quote Message
+12,01    15/00Q  12To Quote a Message15          00^15K 00F  12Format Paragraph 00^15K 00S  12Save Message
+12,01    15/00S  12To Save a Message15           00^15K 00P  12Page Preview
+
+15,01                  12Type 00|12## right before your text for 04C13o08l09o03r09.10.13.
+
+13,01 14|00 15Black 02|01 Blue 03|02 Green 11|03 Cyan 04|04 Red 06|05 Magenta 08|06 Brow 15|07 White12|
+12,01 14|08 GREY  12|09 BLUE 09|10 GREEN 10|11 CYAN 13|12 RED |13 MAGENTA 08|14 YELL 00|15 WHITE12|

@@ -1,0 +1,33 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 11/1/1995
+15,01###############################################
+15,01boa-kog.ice,ANSI,King of Grove,Boa
+15,01cs-agony.jpg,EXTERNAL,Agony,Catbones
+15,01cs-evolu.gif,GIF,Evolution Emag,Catbones
+15,01cs-ice1.jpg,EXTERNAL,iCE Promo!,Catbones
+15,01di-ii.jpg,EXTERNAL,Castle,Digital Interface
+15,01ds-ice1.ice,ANSI,iCE Promo!,Devine Styler
+15,01hm-ad.ice,ANSI,Atomic Dust,Handyman
+15,01ice-9510.mem,ANSI,iCE Active Memberlist,iCE Staff
+15,01ice-9510.nfo,ANSI,What's new with iCE,iCE Staff
+15,01ice-9510.sit,ANSI,iCE Sites Listing,iCE Staff
+15,01ice-9510.sts,ANSI,iCE Info & Pack Stats,iCE Staff
+15,01iceview.doc,ANSI,iCEView Documentation,Friar Tuck
+15,01lm-intx1.ice,ANSI,Intoxica,Lemonade
+15,01lm-spd1.ice,ANSI,Speed Net,Lemonade
+15,01ls-sg3.rip,RIP,Shadow Gate,Lord Soth
+15,01mm-ferre.ice,ANSI,The Holy Ferret Nibbles,Magnetic M
+15,01mm-gzer0.ice,ANSI,Ground Zer0,Magnetic M
+15,01mm-press.ice,ANSI,High Pressure,Magnetic M
+15,01prm-eurk.ice,ANSI,Eureka,Prism
+15,01ripfonts.zip,EXTERNAL,RIP Fonts for iCEView,iCE Staff
+15,01rl-stars.jpg,EXTERNAL,Martial Arts Weapons,Rogue Leader
+15,01sl-sstd1.jpg,EXTERNAL,Surreality Studios,Surreal Logic
+15,01sl-tdu1.ice,ANSI,The Deep Umbra,Surreal Logic
+15,01sq-lgos5.ice,ANSI,Logo Collection #5,Squidgalator ][
+15,01td-escap.jpg,EXTERNAL,Escape CD Pic,Tonedef
+15,01tg-su2.ice,ANSI,The Superunknown,TooN GooN
+15,01tgh-necr.ice,ANSI,Necropolis,The Green Hornet
+15,01us-votb.ice,ANSI,Valley of the Buffalo,LS & Boa
+15,01us-hlwn.idf,IDF,Happy Halloween!,LS & Lemonade
+15,01xt-b2b.gif,GIF,Back 2 Basics 320x240,Xten

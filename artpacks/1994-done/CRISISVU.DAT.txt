@@ -1,0 +1,80 @@
+15,01"NAMES"
+15,01"Sludge           . [SL]","HunchBack        . [HB]","Kid Frost        . [KF]",
+15,01"Dr. Love         . [DL]","Liquid Motion    . [LQ]","Band Saw         . [BA]",
+15,01"Bloodlust        . [BL]","Freaky Styley    . [FS]","Midnight Sun     . [MS]",
+15,01"Morphix          . [MX]","Nivenh           . [NI]","OverLord         . [OL]",
+15,01"Point Blank      . [PB]","Ru Manchu        . [RM]","Rustic Albino    . [RA]",
+15,01"Viper            . [VI]"
+15,01EOF
+
+15,01"HEADER"
+00,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+00,00 #15,15@00#               = CRISIS Cronicles Chapter 3: Shattered Man =             14,01#01@14,14 
+00,00 15,15@00#                          = Released on: 05/01/94 =                      14,01#01@14,14# 
+00,01"14"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+14,01"[SL]"
+
+14,01                       . ..SL Salutations for May 1994.. .
+
+14,01-Personal-Greets----------------------------------------------------------------
+
+
+14,01          Viper - I got just one word to say.. .  SCHWEET!
+14,01      Kid Frost - Didn't Daniel owe you an ANS-EYE for your birthday?
+14,01      HunchBack - Siva?  I hate drawing v's in ansi, but I could try again. :)
+14,01  Freaky Styley - Just to let you know, I doubt you'll be gettin' much more
+14,01                  than some lit from me next month, glad you liked the anzis!
+14,01  Liquid Motion - Here's the pack, you got it?  I hate it when the release date
+14,01                  is on the fucking weekend, ah well, it's 10 minutes late and
+14,01                  counting, first time I was tardy, I should be in detention.
+14,01      Righteous - Happy Birthday slim, You'll have an ansi in next months pack.
+14,01  Rustic Albino - Beware of cigarette carton collecting hitmen.. .  Did you
+14,01                  get that job?  You a "Suit and Tie Guy" now?
+14,01                  Interface, complete.  PS: your modem no like mine.
+14,01Future Assassin - If gave one to you, then everybody would want one.. .
+14,01                  Let's get a group going, strickly musicians.. .
+14,01       Neurotic - Are you sure you're Canadian?  Funny, you don't sound French.
+14,01                  Monica said you guys sounded "kee-ute", call me, I'll give
+14,01                  you her number, we'll do her three-way.
+14,01          Flood - Greetings, Again.  How you bean?  Nice work in the April
+14,01                  packet.. .  stay coo.
+14,01          Stile - Look for some E-mail on Channel Zero, soon.
+14,01    Argon / Ash - I know I flaked on you guys when you tried calling me
+14,01                  back, some friends stopped by and I didn't make it home
+14,01                  until noon.. .  Sorry bros.. .
+14,01   Jello / Fuct - Every generation has it's own disease, you got choors... .
+14,01                  Hope you got yo' bidness all dialed in again.. .  Take care.
+14,01        Megaman - Die peanut, die.. .
+
+14,01Group Greets.. .  Oh boy, oh boy.. .
+
+14,01            iCE - Whatcha gonna do when the Hulkamania runs wild on you?
+14,01                  You guys are already Legend, you'll never die.
+14,01                  TT equals Tha shiT, You've been doing this for so long, and
+14,01                  you still kick ass.
+14,01         GOTHID - I'd hate to be your courier. :)
+14,01          RELiC - Sick em.. .  Let's merge with iCE and call it "RELICESIS"!!
+14,01          UNiON - When you gonna get a veiwer with sound, so you can hear
+14,01                  FA's fat 669 tracks?
+14,01         NATION - Good Luck guys, stay cool RL, thanks again for the CHQ!
+14,01          ALiVE - Still?
+14,01          LAPSE - No merge YET, we have some other offers we're considering,
+14,01                  although anything, or nothing is still possibly.
+14,01          TRiBE - Back for the attack?
+14,01EOF
+14,01"[HB]"
+
+14,01 Group Greets from Hunchback go out to:
+
+14,01 Relic: You guys have all the luck: Gwar, Azrael..
+14,01 Gothic:
+14,01 Gothid: You're going to be pretty tough to beat. :(
+14,01 Ice: Good luck..
+
+14,01 Individual Greets from Hunchback go out to:
+
+14,01 Bad Karma: Thanks for saying my UC ansi didn't suck. :)
+14,01 Sludge: Yoy're in Crisis, I HAVE to greet you.
+14,01 Korrupt: !Quiero mi dinero!

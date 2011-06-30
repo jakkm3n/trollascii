@@ -1,0 +1,56 @@
+00,01            m  #
+00,01       mm"" 
+00,01   mm""
+00,01 m14,00  00,01              mm"
+00,01|14,00  00,01|           m14,00  00,01"
+00,01 "14,00  00,01m         |14,00  00,01m                                                            m#
+00,01 "m14,00 00,01m"14,00 00,01mm      "14,00 00,01|                                                       mm14,00   00,01|
+00,01   14,00  00,01m   ""mm    "#   m14,00 00,01mmm   mmmm14,00  00,01mmmm   mmmm     m mmm14,00  00,01mmmm         "14,00     
+00,01    14,00 00,01|   "m14,00 00,01m"#  14,00 00,01|   m14,00 00,01""14,00   00,01"  "|14,00   00,01""14,00   00,01" "14,00    00,01"14,00 00,01mm  "|14,00   00,01""14,00   00,01"      m#14,00    
+00,01    |14,00 00,01     14,00   00,01   |14,00 00,01  "|| "14,00  00,01|     14,00  00,01| "14,00  00,01|   m14,00  00,01| |14,00   00,01m  14,00  00,01| "14,00  00,01|    mm14,00 00,01  |14,00  00,01|
+00,01    |14,00  00,01m    14,00  00,01|  |14,00  00,01m  "mm  "#   |14,00  00,01   m "#   14,00  00,01| ""14,00 00,01"  |14,00  00,01#m14,00 00,01mm"# m14,00   00,01|   14,00  00,01|
+00,01    14,00   00,01|    14,00   00,01  14,00   00,01| "   "14,00 00,01mm   14,00   00,01| |14,00   00,01m   |14,00 00,01|       14,00   00,01| m"   |14,00    00,01    14,00  00,01|
+00,01   14,00  00,01"14,00 00,01"#  14,00   00,01| 14,00     00,01#14,00 00,01m   |14,00  00,01| 14,00     00,01  14,00   00,01|   14,00   00,01 mm#" 14,00     00,01 |14,00 00,01m  "14,00    00,01|   |14,00  
+00,01  "  """mm14,00   00,01" " "14,00  00,01||14,00   00,01 m14,00   00,01"# "14,00  00,01|  "14,00  00,01   |14,00  00,01m""     "14,00  00,01| 14,00    00,01|  ""14,00  00,01m m14,00  00,01""
+00,01          ""mm     "  "14,00 00,01""""       "     ""mm""           " ""  ""m   mm""
+00,01              "#                                                    #"
+
+15,01          00d I S T O R T E d15  -  Emag  By private parts of  twilight
+
+15,01 - Note:  There are a few mistakes in the memberlist portion of distorted
+15,01          if your name does not  apear on it and  it should please notify
+15,01          the staff of twilight,  e-mail at  00fbernier@aei.ca15 the changes,
+15,01          or  we will forget :)   thank  you and  sorry for  the mess up.
+15,01          We also fergot  to greet  00Fuel15,  one of the best  art group out
+15,01          there.  Also fergot to say  00Cardiac15 did  the ansi design in the
+15,01          mag. Sorry guys :) This just show how professional we are. 
+
+15,01                                                                - SG & DD
+
+15,01 This is very simple to use.  If you have a mouse you can use that and click
+15,01   on only the standout word(s) which are Links. You can also use your mouse
+15,01   to scroll the 00WHOLE15 page. just goto the top of the screen or the bottom
+15,01   with the mouse.
+
+15,01 The up down arrow keys scroll the page, along with pagedown/pageup/home/end
+15,01   control(pgdn/pgup/end/home), and the leftarrow key AND the right mouse
+15,01   button will Quit the program i had to change this from "RETURNING" because
+15,01   it would go in a huge loop..
+
+15,01 - If you want a 00ANSI/TEXT15 base version of the mag type :
+00,01   15 X:\>nws-XXX /extract   which will extract all the links.
+
+15,01 - Im very sorry to those of you who dont have a mouse. because of the time
+15,01    i had to rewrite this i wasn't able to fully test out / implement the
+15,01    tab feature. hopefully next month i'll have the stuff early enough
+15,01    to add in everything ..
+
+15,01 - If the program exits with a ' bad check size ' error on start up, you
+15,01    might have a 00virus15, as the mag automaticaly checks the encoded file
+15,01    size of the mag before starting and exits with a ' bad check size '
+15,01    error if it doesnt match with the actual size of file at the time of
+15,01    operation.
+
+15,01    Thats about it, you can find me on irc as 00pparts15 or in #twilight ..
+15,01>>SAUCE00Distorded 9703 News                Private Parts       Twilight        
+15,01    19970316)                                     

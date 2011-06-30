@@ -1,0 +1,30 @@
+
+15,01[Disease]
+
+15,01Dashing in a panic
+15,01Mind racked in fear
+15,01Rushing in no specific direction
+15,01The end seems far from near
+
+15,01Out of breath
+15,01Take a seat on the curb
+15,01Take a hit
+15,01Feel your lungs burn
+
+15,01A few moments later
+15,01The rush hits your head
+15,01Away from it all
+15,01Floating like dead
+
+15,01Hours of escape
+15,01Temporary way out
+15,01Then back to it all
+15,01Time to scream and shout
+
+15,01To this disease
+15,01I cannot tend
+15,01Addicted to fear
+15,01The cycle never ends
+
+
+15,01Flash [Revolt]

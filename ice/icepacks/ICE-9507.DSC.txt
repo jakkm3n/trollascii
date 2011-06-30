@@ -1,0 +1,67 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 8/3/1995
+15,01###############################################
+15,01al-tt.ice,ANSI,Termite Terrace,Animal
+15,01ck-gold1.ice,ANSI,golden image,chromatik
+15,01gr-sd.ice,ANSI,The Syndicate,Grimace
+15,01gr-zh.ice,ANSI,Zero Hour,Grimace
+15,01hm-grndz.ice,ANSI,Ground Zero,Handyman
+15,01kz-ac.ice,ANSI,Alpha Centauri,Kamikazee
+15,01kz-tsc.ice,ANSI,The S,Kamikazee
+15,01ma-unh1.ice,ANSI,Unholy Salvation,Maestro
+15,01tg-as2.ice,ANSI,Altered Sanity,TooN GooN
+15,01tg-tmes1.ice,ANSI,The Mos Eisley Spaceport,TooN GooN
+15,01tr-votb.ice,ANSI,Valley of the Buffalo,Turtle
+15,01us-dg1.ice,ANSI,Demon's Gate,Lord Soth/Shaggy
+15,01us-en.ice,ANSI,Eutopic Nightmare,Lord Soth/Silver Rat
+15,01us-ice1.ice,ANSI,iCE Promo,Biscuit/Kamikazee
+15,01us-mr1.ice,ANSI,Magic Reality,Lord Soth/Juice
+15,01us-tt.ice,ANSI,termite terrace,Turtle/Grimace
+15,01al-terb5.ice,ANSI,Terbium #5,Animal
+15,01ar-syn.ice,ANSI,The Syndicate,Argon
+15,01boa-f409.ice,ANSI,Flight 409,BoA
+15,01boa-phnk.ice,ANSI,Do you have the pHUNk?,BoA
+15,01ck-halo1.ice,ANSI,halo,Chromatik
+15,01ck-sbz4.ice,ANSI,Sushi Bar Z,Chromatik
+15,01kz-bi.ice,ANSI,Black Ice,Kamikazee
+15,01kz-insnt.ice,ANSI,,Kamikazee
+15,01kz-me.ice,ANSI,Mos Eisley,Kamikazee
+15,01lc-evili.ice,ANSI,Evil Intentions,Lord Carnuss
+15,01lc-trn.ice,ANSI,The Ravaged Nightmare,Lord Carnuss
+15,01ma-egd1.ice,ANSI,Egod,Maestro
+15,01ma-egd2.ice,ANSI,Egod,Maestro
+15,01sq-lgos2.ice,ANSI,Logo Pack #2,Squidgalator ][
+15,01us-bice.ice,ANSI,Black ICE [book2],Lord Soth/BoA
+15,01us-cd.ice,ANSI,Cyber Dreams,Apoc/Maestro/Argon
+15,01da-ac.rip,RIP,Alpha Centauri,Death Adder
+15,01ls-ice1.rip,RIP,iCE Promo,Lord Soth
+15,01us-beynd.rip,RIP,Beyond Vision,Tek/69
+15,01nf-earth.exe,EXE,Earth,Nightfire
+15,01nf-gc.exe,EXE,Gas Chamber,Nightfire
+15,01nf-mhunt.exe,EXE,Minehunt,Nightfire
+15,01nf-mken!.exe,EXE,Master Ken!,Nightfire
+15,01nf-oil.exe,EXE,Oil,Nightfire
+15,01sp-ice.exe,EXE,iCE Promo,Spiff
+15,01ice-9507.nfo,ANSI,iCE Information,iCE Staff
+15,01ice-9507.mem,ANSI,iCE Memberlist,iCE Staff
+15,01ice-9507.sit,ANSI,iCE Site Information,iCE Staff
+15,01ice-9507.sts,ANSI,iCEPack Statistics,iCE Staff
+15,01iceview.doc,ANSI,iCEView Documentation,Friar Tuck
+15,01ripfonts.zip,EXTERNAL,RIP Fonts for iCEView,iCE Staff
+15,01az-vos1.gif,GIF,Vision of Sacrifice,Azagoth
+15,01bn-kknr.gif,GIF,Koders Korner,Borian
+15,01bn-motn.gif,GIF,Motion,Borian
+15,01cg-panth.jpg,EXTERNAL,The Pantheon,Cheese Grater
+15,01hf-space.jpg,EXTERNAL,Space,hFaze
+15,01ls-ice2.gif,GIF,iCE Promo,Lord Soth
+15,01ms-bedrm.jpg,EXTERNAL,Bedroom,Mascot
+15,01ms-bell.jpg,EXTERNAL,Bell,Mascot
+15,01nd-hero1.gif,GIF,Hero Time,Nuke Doggy Dawg
+15,01rl-anvi.jpg,EXTERNAL,The New Republic,Rogue Leader
+15,01rl-maxx.jpg,EXTERNAL,The Maxx,Rogue Leader
+15,01rl-web.jpg,EXTERNAL,iCE Webpage Graphic,Rogue Leader
+15,01rl-what.jpg,EXTERNAL,iCE Promo,Rogue Leader
+15,01sw-ice01.gif,GIF,iCE Promo,Shockwave
+15,01td-neplo.jpg,EXTERNAL,Neptune Software,Tonedef
+15,01xt-media.jpg,EXTERNAL,MediaNet Logo,Xten
+15,01xt-v5.jpg,EXTERNAL,V5 Creative Imaging,Xten

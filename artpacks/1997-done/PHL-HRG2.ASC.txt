@@ -1,0 +1,18 @@
+
+00,01                                                      .  .  .
+00,01                     :::::::::::::                 .           .
+00,01         _pHL$$$$$$$$lllllllllllll$$$$SSZZZSS$$$$$$$SSSSSSSSSSSSSSSSSS;
+00,01         $$$$$""   $SSZZZSS$$$$$$$$$$S++"""++S$$$$$  $$$SSZZZSS$$$ZZZ$;
+00,01         $$$$$l  ,yS++"""++S$$$$$$+" ,ySS$SSy, "S$$$$$$S++"""++S$$SZZ$;
+00,01         $$$Z$$y$"" ySS$SSy, "$$l   l$$$ZZSS$y   l$$+" ,ySS$SSy, "S$$$l
+00,01         l$ZSZ$l   l$$$$ZZ$l   l    $$$$$$ZZ$$    l'  l$$$SS$$$l   l$$l
+00,01         l$$Z$$    $$$$$$$$$  ,m,   $$SS$$$$$$        $$$$mm$$$"""$$$$l
+00,01         l$$$$$;   l$ZZ$$$$l  $$$   ;$ZZSSS$Syyy,     $ZZ$$$$$$$,   $$l
+00,01         ;$$$$"    $$$$$$$$$  `"'   $$SS$$$$$$$$$$l   l$$$$$$ZZ$;  l$$$
+00,01         ;$yy$$    "$$ZZZZ$yyy,     "$$$$ZZZZZZZ$$$$y, `+SS$SS+' ,$ZZ$$
+00,01         ;SSSS$yySS$ZZSSSSZZZZ$SyyS$$$ZZZlllllllZZ$$$$$S@@yyy@@S$S$$S+'
+00,01                                         :::::::
+00,01         HellRaiser Group
+
+15,01>>SAUCE00HRg (numba 2)                      _pHL                HRg             
+15,01    19971111%x  @                                 

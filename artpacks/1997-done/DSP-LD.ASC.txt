@@ -1,0 +1,38 @@
+15,01                     .
+15,01                    d
+15,01           .      ,d$b                               d
+15,01          ,d..   :$$$$$b.      _.,a%%a,.           ,d$b
+15,01        ,dYP' .   `+Y$$P'    .d$P`    `"Y,        :$$$$$b.   .' .
+15,01: :ilP'.v%@P'.,;i.`Y@%v. .i:.v%@P :il$P $$b :il$$b `+Y$$P'.d$P ..b,`:ilTTli :.
+15,01.:ill',$$$',:il$$$b `$$$,,:,$$$',il$P',d$$$ '.`n+Y,`Y@%v.`Y$$'. `TYb,`:ilTi:
+15,01 .:i'.$$$':ilPn*~`Yb `$$$..$$$':ilP' `Y$$P' b. `Y,._ `$$$,`ilb  `Y@%v. :ilTi:.
+15,01.  : :$$$      `b,.   $$$::$$$      `b,`P        `$$b.`$$$.   ,b. `$$$,
+15,01      Y$$,     .dP'  ,$$P  Y$$,     .dP'.,d'      $$$$ $$$: ,dP'`b,`$$$:
+15,01       *T$b+,.d$'.,+d$P'    *T$b+,.d$'  `Yb.     ,$$P',$$P.d$'    ` $$$$: : .
+15,01          `'Y$$':$P+n'  -dsp   `'Y$$'     `$b.,+d$P*,+d$P'`Yd.     ,$$P'
+15,01  .          `P `Y                `P       `$$P'` .dP+n'    `$b.,+b$P'
+15,01     ` 'd+,._         _.,+b' `  '           Y'    `Y         `$$P+`
+15,01          `Y$$b,   ,d$$P` ,db,           .                    P'
+15,01      .d'   Y$$$b d$$$Y   ~*n$b        ,d. .      :i.                 :     :
+15,01     d$'    l$$$$ $$$$l    ,dP' .,+b. d$$$b:b+,._   :ilTW$$$$$$$$$$WTli:.  :i
+15,01    d$l  .,dP+n"` `"n+Yb,    ,d$P` ,db,`Y$'   `Y$$b, :ilTW$$$$$$$$$$WTlii..il
+15,01    `+Yv4n*~ Desperado `T'  d$$Y d.  `$b '.d'   Y$$$b :ilTW$$$$$$$$$$WTlliilT
+15,01                           :$$$l `+b,dP' d$'    l$$$$: :ilTW$$$$$$$$$$$WTllTW
+15,01                            `"+Yb,  `'  d$l  .,dP+n"`                `$$$TT$W
+15,01                                `T'     `+Yv4n*~ _.,+d d d+,._        WW$W$WT
+15,01                                 '            ,d$$P' .d$b, `Y$$b,     TTWTWTl
+15,01                                             d$$$Y   `Y$P'   Y$$$b    llTlTli
+15,01                                            :$$$$l     '     l$$$$:   iilili:
+15,01                                             `"n+Pb,       ,dP+n"`    ::i:i:
+15,01                                                    _,ss,_            . :.:.
+15,01                                                  ,dn*~*Y$b,            .  .
+15,01. : ilTWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWP',d$$,`i.`P' ,ilTW$WTli;.
+15,01  . :ilTWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWb `~*nYb,. .::ilTWWTli:.
+15,01 . :ilTWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWP'.d',i Y$$b. :ilTWWTli: : .
+15,01                                               d$'    l$$$$
+15,01                                              d$l  .,dP+n"`
+15,01                                              `+Yv4n*~
+15,01                          Liquid Dreams
+
+15,01                            +o Oxygen
+15,01>

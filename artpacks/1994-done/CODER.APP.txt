@@ -1,0 +1,25 @@
+
+15,01-=[ GENOCiDE Application ]=-
+15,01Coder Application
+
+15,01Handle :
+15,01Real Name/Age :
+15,01Phone Number :
+15,01Time Available :
+15,01City/State :
+15,01Modem Type/Speed :
+15,01Graphics Card :
+15,01Years coding :
+15,01Language #1 :
+15,01Language #2 :
+15,01Boards Called #1 :
+15,01Boards Called #2 :
+15,01Board Name (Sysop?):
+15,01Board Number/info :
+15,01Why GENOCiDE? :
+15,01:
+15,01:
+15,01:
+
+15,01Please zip this app with at least 1 program that you think is your best.
+15,01Then give to a GENOCiDE SENIOR MEMBER.  Read the .nfo file for directions

@@ -1,0 +1,17 @@
+15,01 __/|________ /|_______ __  /|  __________|\ ___________/|______|\     ____|\__
+15,01  \_______  /  |____  /| |/ /   \   ______|  \ ___  ___\___  ___  |    \  ___/
+15,01    |  |/ / __ | |/ /  |   <      \  \    | __ \  \  \    /  \  | |    |  _>___
+15,01    |   /  / | | _  \  | |\ \       \  \  | | \  \ _\  \/      \| |____|      |
+15,01    | /__/   |_| /|___\| |  \_\       \__\|_|   \_____/  \  ____| ____ |____ /
+15,01                       |/                                  \|   \(    )/
+15,01                             The Dark Castle BBS
+15,01                                 815.729.o188
+15,01            SysOp: The_Keeper -/- Open 24 Hours A Day -\- 12oo-24oo
+15,01             -/- A BBS For Mature Users That Post Good Messages -\-
+
+15,01  Greets Go To:
+15,01       Tribe: Your 'Diz Looked So Cool I Had To Make Something Like It!
+15,01       Cryptkeeper: Try To Poll For Messages Regularly Dude!
+15,01       Karnaaj: Where Are Those ANSi's You Said You'd Make?!
+
+15,01-Terminal Psychosis<Vi>

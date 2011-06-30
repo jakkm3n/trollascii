@@ -1,0 +1,80 @@
+15,01Interview with Farmy by iCE Staff for iCE PACK 9/2002
+15,01Converted to ASCII text by RaD Man of ACiD Productions (www.acid.org)
+15,01HTML version available at http://www.ice.org/interviews.php?interview=10
+
+15,01                                          m##m
+15,01                        m14,15 15,01"      #mm#"  m"#14,15 
+15,01                     ##"    " mm14,15 00,01@14,15 15,01  m"  14,15 00,01@14,15 15,01  #
+15,01                     m  m   m14,15 15,01" 14,15 #15,01| |14,15 00,01@15m 14,15 # 15,01m"
+15,01                       m00@14,15 15,01m14,15 #15,01|  14,15  15,01"#|14,15 #15,01| |14,15 15,01"  #
+15,01                       |14,15# 15,01 14,15 00,01@15|  #" m 14,15  15,01 #"    00@
+15,01                     #  14,15  15,01m "|  mm14,15#15,01| |14,15 15,01|#m14,15#00,01@15m "
+15,01                     00@15  14,15 # 15,01"#m  |14,15 00,01@14,15#15,01  14,15 15,01|  14,15 15,01m14,15 # 15,01m
+15,01                     " m14,15 15,01# #m#"m14,15  #15,01m#" "# |14,15  00,01@14,15 15,01 "#
+15,01                      "14,15 15,01|     " ""   kz"#m14,15  #15,01#|
+15,01                        "# m               14,15#15,01"#
+15,01                              "    "#  m #"
+
+15,01iCE: for starters, please tell us about yourself.  first name, age, 
+15,01     occupation, hobbies
+
+15,01Farmy: My name is Scott.  I'm a busy dancer.  I'm unemployed and I live
+15,01       with my parents.  My hobbies include minimalism, and lying during
+15,01       interviews
+15,01 
+15,01iCE: How did you come up with the nick name Farmy?
+
+15,01Farmy: Well I lie and tell people now that its short for Franklin L. Army,
+15,01       but I think I got it originally when creating a character for 
+15,01       Tradewars 2002 in 1989
+15,01 
+15,01iCE: That was a long time ago.  How long have you been following the art
+15,01     scene?
+
+15,01Farmy: since early 1993, when I ran my first bulletin board
+15,01 
+15,01iCE: Would we have heard of it?
+
+15,01Farmy: It was first called the Texas School Book Depository, and later on
+15,01       The Pantheon, which was where I first got involved with ice in an
+15,01       official capacity, as the pantheon was an iCE BBS
+15,01 
+15,01iCE: Did you ever draw ansi's for your BBS?
+
+15,01Farmy: Yeah I did a couple, the only one I ever liked was for another guy's
+15,01       board.  I have no talent for digital artwork sadly.
+15,01 
+15,01iCE: How long have you been a member of ice?
+
+15,01Farmy: I joined iCE in 1996 or so, I think because of my White House
+15,01       security job at the time.
+15,01 
+15,01iCE: What the hell do you do for the group anyway?
+
+15,01Farmy: I run everything
+15,01 
+15,01iCE: Like God?
+
+15,01Farmy: yes
+15,01 
+15,01iCE: Can you be a little more specific please?
+
+15,01Farmy: I host and run the ice servers, and handle everything related to
+15,01       that from account management, to the occasional subpoena we get. I
+15,01       also deal with all the emergencies, like when Verizon in their
+15,01       infinite wisdom so completely fucked our T1 in the ear that its not
+15,01       going to work for 4 weeks.  And that's if they rush it.  You've got
+15,01       to be some kind of extra special dumbass if you can screw up
+15,01       something that bad, but hey, only the best for iCE huh?  In the end
+15,01       I had to pack up all our servers and move them upstream to our ISP.
+15,01       I can recall another time when one of our original servers got sent
+15,01       to us from New Jersey, well someone took one of the ethernet cards
+15,01       out and left it inside the box to rattle around needless to say,
+15,01       when I finally got it, there were a great many "loose parts" 
+15,01       scattered about inside the server.  You know, like the CPU, RAM,
+15,01       misc. transistors, wires etc.  That box went right in the trash.
+15,01       Another time we got a subpoena for our logs from a DA in Ohio.  They
+15,01       sent it to Rick (force ten), who sent it to me.  The fun part was
+15,01       that they wanted it printed out and sent to their office when I
+15,01       informed them that it would be over 50,000 pages, would use 9 toner
+15,01       cartridges, and weigh in excess of 450lbs they were kind enough to

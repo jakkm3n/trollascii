@@ -1,0 +1,80 @@
+
+
+15,01                                    00m00,00#00,15#14 15   15,01m
+15,01                                   |15,15@00# 14 15   14#15,01|
+15,01#28 [Union]                         ""15,15 14 15  15,01""
+00,01m00,00#00,15# 14       00##14,01#15|14,15#15,01m14# 00m00,00#00,15#14         15,01"14,15 15,01m 00"00,00#15,15@00#14  ##01@14,01|00m00,00#00,15#14        ##15,01"00,15#14 15,01m14# 00m00,00#00,15#   14   15  14#15,01"14,15 15,01m
+00,00#00,15# 14        15 00#14,01#15|14,15 #15,01|00|00,00#15,15@14         #15,01||14,15 15,01|14#00m00,15#14    ##14,01#00,00#00,15#14          #14,01#15|15,15 14 15,01|00|00,00#00,15#14         15 15,01||00,15#15,01|
+15,15@14            14,01#15|14,15 #15,01|00,00#00,15##14         #15,01||14,15 #15,01 15,15@00# 14    #14,01#15,15@00#14        15  14#14,01#15|14,15 #15,01|00,15#15@14          #15,01||00,15#15,01|
+00,15#14           #15,01||15,15 14#15,01|15,15@00#14 00#14        #14,01#15|00,15#14#14,01#00,15#14     ##14,01#00,15#14          15 14#15,01||14,15 #15,01|00,15##  14        #14,01#15|14,15 #
+15,01|14,15  15  14       #15,01|m14,15  14,01#00,15##14         15 14#14,01#15|00,15#14#14,01#00,15#14     15 14#15,01||14,15           #15,01|m14,15 01@14,01#00,15# #14         01@14,01#00,15#14 #
+15,01  """""""""""""  """""""""""""" """""""""""""" """""""""""""  """""""""""""" """
+02,02@02,01mmm mmm12,02#02,01mmmmmmmm01,02# 02,01mmmm14,02  12#02,01mmmmmmmmmmmm01,02# 02,01mmmmmm01,02#02,01mmmmmmmmmmmmm14,02#01#02,01mmmmmmmmmm mmm01,02#02,01mm12,02#
+02,02@02,01m12,02#                       01union august 94 info file                           12##
+12,02##14 02,01"#14,02@02,01"""""" """"""14,02@02,01"""  """" """""01,02#02,01"01,02mmmmmmm02,01""" """" ""#14,02@01m15,01  01,02mmmm#02,01"""12,02#02,01""""""14,02 02,01"01,02#12#02@
+12,02#02,01|14,02@15,01                                                                          14,02@02,01|12,02#
+14,02 02,01"#15      From the eyes of an outsider to many of Union's accomplishments     02#m12,02#
+12,02#02,01|   15every month, I perceive a Union to be the solemn giant of the art        02|14,02 
+02,02 15,01    community.  Union has the overwhelming ability to sail through the        12,02#
+12,02 15,01    month virtually unnoticed by many of the art appreciators in the         02|14,02 
+02,02 02,01|   15global computer environment.  However, this striking force of die-hard   02|14,02 
+14,02 02,01|   15professionals ceases to amaze me at the turn of a new month.  Once        12,02#
+12,02#02,01|   15again I bring you, the Union Compendium for August 1994.                  02,02@
+14,02 15,01                                                                              14,02 
+14,02 15,01        In an effort to conform to their original motives, Union has         02|14,02 
+12,02#15,01    streamlined their acceptance process to allow the best group of artists  02|14,02 
+14,02 02,01|   15to be formed.  The "power trip" of the ever egotistical group giant has  02|14,02 
+14,02 02,01    15attempted to lift its head within Union and each time the members try     14,02 
+14,02 02,01|   15to remind themselves that egos are not wanted here.                       12,02#
+14,02 02,01|15                                                                             14,02 
+12,02#02,01|15       Joining Union this month are several talented individuals,           02|14,02 
+14,02 02,01|   15hopefully with no underlying ego motives, although only time will tell.   14,02 
+14,02 02,01|   15In a second attempt merger with Visual Insanity, a few of our dedicated  02|14,02 
+12,02#15,01    followers may remember the fall out the last merger had, Union has       02|14,02 
+14,02 02,01|   15acquired six new ansi artists.  Peak Velocity, #28, God Speed,           02|14,02 
+14,02 02,01    15Thadicus, Terminal Psychosis, and Prometheus all brought their           02|12,02#
+14,02 02,01|   15support to Union.  A long lost Tribe member teams up with Union this      14,02 
+14,02 02,01|   15month, we welcome Aerosol to Union's ansi department.  Other additions   02|14,02 
+14,02 02,01    15this month into the ansi camp are Juice (formerly of CMOS), Bishop,      02|14,02 
+14,02 02,01|   15Zoro, and Splint from Breed has joined Union on a trial basis.           02|14,02 
+14,02 15,01                                                                             02|14,02 
+12,02#02,01|15       While trying not to let our ansi department to out number the rest   02|14,02 
+02,02 15,01    of the group, Union has gathered a few more members to its VGA/RIP        12,02#
+12,02 15,01    department.  Reefer has joined us as a dedicated RIP artist, while       02|14,02 
+02,02 02,01|   15Formic Acid (from Manifest) and Mole Brain have enlisted as VGA artists. 02|14,02 
+14,02 15,01                                                                              14,02 
+14,02 15,01        On a side note, Union's music department has elected *not* to put    02|14,02 
+12,02#15,01    any more music into the Union packs due to size restrictions.  In an     02|14,02 
+14,02 02,01|   15effort to be the best group and not the largest pack group, Union has    02|14,02 
+14,02 02,01    15attempted to follow suit of other great music groups and distribute a     14,02 
+14,02 02,01|   15"music disk" once there is sufficent amounts of quality music sure to     12,02#
+14,02 02,01|   15but some zing back into that lifeless sound card of yours.  While in      02,02@
+12,02#02,01|   15the music deparment, I shall mention a new arrival, Lord Pegasus,        02|14,02 
+14,02 02,01|   15formerly of Relic.                                                        14,02 
+14,02 02,01|15                                                                            02|14,02 
+12,02#15,01        I would especially like to welcome our new couriers this month.      02|14,02 
+14,02 02,01|   15Maniac and StarDust join the list of members that make the computer      02|14,02 
+14,02 02,01    15groups in this world go 'round.  Without the couriers, none of the       02|12,02#
+14,02 02,01|   15groups would have life.  I'd like all the "big heads" out there in        14,02 
+14,02 02,01|   15*every* group to remember that.  While praising the hell out of the      02|14,02 
+14,02 02,01    15couriers, I'd like to remind those who want to make it a full-time       02|14,02 
+14,02 02,01|   15job, there is life outside of your terminal program.                     02|14,02 
+14,02 15,01                                                                             02|14,02 
+14,02 02,01"15       And in other departments this month, Fantom joins in to assist in     14,02 
+12,02#02,01|   15coding and Mr. Sinister and Mr. Dawson join in the (hopefully) helpful   02|14,02 
+02,02 15,01    telecom division.  The telecom division of Union is not comprised of      12,02#
+12,02 15,01    "phreakers" or any other illegally oriented individual.  Union does not  02|14,02 
+02,02 02,01|   15base its grounds for telecom acceptance on any means of defrauding the   02|14,02 
+14,02 02,01|   15telephone companies of the world of any monies for which they are right-  12,02#
+12,02#02,01|   15fully owed.  Please do not contact Union or its telecom division members  02,02@
+14,02 02,01    15if you have intents on requesting "codez", or calling card numbers.       14,02 
+14,02 02,01    15Union is organized for an artistic means of expression only and not in   02|14,02 
+12,02#15,01    any means to be associated with phone fraud.                             02|14,02 
+14,02 02,01|15                                                                            02|14,02 
+14,02 15,01        With that out of the way, Union must bid its farewells to some        14,02 
+14,02 02,01|   15members.  Mind Rape did not seem to meet the competitive standard among   12,02#
+14,02 02,01|   15the other Union ansi artists and was let go to disallow oversizing the    14,02 
+12,02#02,01|   15department.  Marshmellow Hex was released on the grounds of consider-    02|14,02 
+14,02 02,01|   15able conflicts of interest with other group members.  Vandal followed     14,02 
+14,02 02,01|   15Marshmellow Hex as he leaves the VGA department.  Lord Exile is on       02|14,02 
+12,02#15,01    vacation until September, but since he too was a close friend of         02|14,02 

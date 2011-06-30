@@ -1,0 +1,29 @@
+15,01 
+
+15,01|11|17+-----------------------------+|16
+15,01|11|17| E - Emulation Mode          ||16        |11|17+-------------------------
+15,01------+|16
+15,01|11|17| G - Hi-Bit Graphics Chars   ||16        |11|17| L.S.D. BBS Configuration
+15,01 Menu ||16
+15,01|11|17| F - Full Screen Editor      ||16        |11|17+-------------------------
+15,01------+|16
+15,01|11|17| L - Line Feeds              ||16
+15,01|11|17| M - More Prompts            ||07-|11|17------------------+|16
+15,01|11|17| N - Configure Newscan       ||07Y|11|17 - Your Status    ||07-|11|17----
+15,01--------------------+|16
+15,01|11|17| O - Message Post Prompts    ||07I|11|17 - Input Color    ||07C|11|17 - M
+15,01enu Background Color||16
+15,01|11|17| Q - Quit Configuration      ||07P|11|17 - Prompt Color   ||07J|11|17 - B
+15,01ox Border Color     ||16
+15,01|11|17| T - Time Display            ||07R|11|17 - Regular Color  ||07K|11|17 - B
+15,01ox Text Color       ||16
+15,01|11|17| U - Upper Case Filter       ||07S|11|17 - Status Color   ||07A|11|17 - P
+15,01ull Down Menus      ||16
+15,01|11|17| W - Screen Width Selection  ||07Z|11|17 - Macros         ||07H|11|17 - M
+15,01enu Highlight Color ||16
+15,01|11|17+-----------------------------+|07D|11|17 - Display Length ||07*|11|17 - C
+15,01aps Filter          ||16
+15,01                             |07| B|11|17 - Menu Border    ||07!|11|17 - Avatar 
+15,01Support       ||16
+15,01                             |11|17+--------------------+|07-|11|17-------------
+15,01-----------+|16

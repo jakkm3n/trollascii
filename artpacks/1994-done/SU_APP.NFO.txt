@@ -1,0 +1,51 @@
+15,01             
+15,01             mmmmmmm mm  mmmm mmmm mmmmmmm mmmm  mmmmmm   mmmmm
+15,01            14,15       15,01" 14,15   15,01  14,15   15,01 "14,15  15,01" 14,15      15,01" "14,15  15,01" 14,15       15,01| 14,15      15,01"
+15,01            14,15    15,01     14,15   15,01  14,15   15,01      14,15    15,01         14,15   15,01| 14,15   15,01 14,15    15,01nd
+15,01            "14,15      15,01m 14,15   15,01  14,15   15,01 14,15    15,01 14,15    15,01    14,15    15,01 14,15   15,01| 14,15   15,01 14,15      15,01"
+15,01               14,15     15,01 14,15   15,01  14,15   15,01 14,15    15,01 14,15    15,01    14,15    15,01 14,15   15,01| 14,15   15,01 14,15    
+15,01            14,15        15,01 14,15        15,01 14,15    15,01 14,15      15,01m 14,15    15,01 14,15       15,01| 14,15      15,01m
+15,01             """"""   """"""   """  """"""  """  """"""   """"""
+
+
+15,01                      .SUiCiDE... Is Always An Option.
+15,01-------------------------------------------------------------------------------
+15,01                                SU-APP.NFO
+15,01                              SUiCiDE APP 1.0
+15,01                            Coded By: ShadowLord
+15,01                      ANSi By : The Dark Knight/Nuclear Dreamer
+15,01-------------------------------------------------------------------------------
+
+
+15,01If you're looking to join SUiCiDE just run SU-APP.EXE and fill it out..
+15,01After you are done with the app you need to U/l it to the SUiCiDE WHQ..
+15,01Logon to BioHazard: [8i7]XxX.xXxX Metro (8i7/2i4)
+15,01             Logon as: SUiCiDE
+15,01             Password: SUiCiDE
+15,01OR...
+15,01Logon to ATOMiC DELUSiONS: [8i7]295-2780
+15,01             Select SUiCiDE Menu from the matrix,
+15,01             Then select Upload Application. And 
+15,01             leave Message To Senior Member.
+
+15,01If you have any question logon to A.D and write feedback...
+
+15,01=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+15,01List of Filez in SU_APP.ZiP
+
+15,01ATOMiC.EXE  -
+15,01SU_APP.EXE  - ShadowLord (Coder)
+
+15,01Notes - This version has no noticiable (We hope) bugs. If you find a bug in
+15,01        the program please call and leave feedback to a Sr. Member of SUiCiDE
+15,01        or leave E-Mail to ShadowLord. We have plans to release a version 1.2
+15,01        of the App-Gen as soon as we put out our next packet. If you feel that
+15,01        you have a talent to offer the group that is not in the app-gen such
+15,01        as music or something else then go ahead and write a short file on
+15,01        what you can do and we'll get in touch with you.
+
+
+15,01Greetz - Shadowlord: Good job.
+15,01         Cyber Wolfe: Congrats on the DARK position dude.
+15,01         Everyone else that helped out...

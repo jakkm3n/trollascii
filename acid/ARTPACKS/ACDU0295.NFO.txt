@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :   January Update *   February 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0295.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0195 ANS |   4935 |02.01.95 |%+   | January 1995 Member/Board List |
+15,01*|2  |ACIDAPP  EXE | 106288 |09.01.94 |%    | ACiD Application Form Generator|
+15,01*|N/C|ACIDVIEW CFG |   3973 |02.01.95 |%+   | ACiD View configuration        |
+15,01*|3  |ACIDVIEW EXE | 167449 |02.01.95 |%    | ACiD View version 3            |
+15,01*|4  |ACIDVIEW NFO |  42051 |02.01.95 |%+   | ACiD View Documentation        |
+15,01*|5  |AK-DCTC  ANS |  25256 |02.01.95 |%+   | Damage Control Trade Center    |
+15,01*|6  |AN-BADL1 RIP |  32386 |02.01.95 |%    | The BadLands                   |
+15,01*|7  |BG-COC2  EXE |  26804 |01.31.95 |%M   | Citadel of Chaos               |
+15,01*|8  |BK-BADL1 COM |  20793 |01.30.95 |%+   | The BadLands                   |
+15,01*|9  |BM-FOUR3 RIP |   8251 |01.24.95 |%    | Four Degrees                   |
+15,01*|10 |BZ-NEO1  GIF |  15834 |02.01.95 |%    | Neo Tokyo                      |
+15,01*|11 |CS-ELEUT GIF | 248099 |02.01.95 |%    | Eleutheria                     |
+15,01*|12 |CS-EVO1  GIF | 175141 |02.01.95 |%    | Evolution's End                |
+15,01*|13 |CS-HM1   GIF | 214927 |02.01.95 |%    | Harvest Moon                   |
+15,01*|14 |CS-SOD1  GIF | 223744 |02.01.95 |%    | State of Devolution            |
+15,01*|15 |CS-TMMH1 GIF | 200272 |02.01.95 |%    | The Morbid Messhall            |
+15,01*|16 |CS-TSN1  GIF | 183028 |02.01.95 |%    | The Stellar Nights             |
+15,01*|17 |33-BLOOD ANS |  16630 |01.27.95 |%+   | Bloodstorm/2                   |
+15,01*|18 |33-DOOMS ANS |  30942 |01.08.95 |%+   | Doomsday                       |
+15,01*|N/C|FILE_ID  DIZ |    488 |02.01.95 |%    | Acquisition FILE ID by {33}    |
+15,01*|19 |FM-BADL1 GIF | 130509 |02.01.95 |%    | The BadLands                   |
+15,01*|20 |FM-DOOMS GIF |  96806 |02.01.95 |%    | Doomsday                       |
+15,01*|21 |GS-TF    ANS |  21003 |01.27.95 |%+   | Terra Firma                    |
+15,01*|22 |IO-DOMIN GIF | 166611 |02.01.95 |%    | The Dominion                   |
+15,01*|23 |LOGO0295 ZIP |  13564 |02.01.95 |%    | Logo Assortment for February   |
+15,01*|24 |MB-UREV  ANS |  26819 |01.17.95 |%+   | Utopian Revolt                 |
+15,01*|25 |NEWS0295 ANS |  13801 |02.01.95 |%+   | ACiD Newsletter Issue #7 (02/9 |
+15,01*|26 |P1-TV3   ANS |  31487 |02.01.95 |%+   | Terminal Velocity              |
+15,01*|27 |SR-UG    ANS |  18085 |01.25.95 |%+   | Undergrown Magazine            |
+15,01*|28 |SS-BADL2 GIF | 197487 |02.01.95 |%    | The BadLands                   |
+15,01*|29 |SS-GRAV5 GIF | 169058 |02.01.95 |%    | The Shallow Grave              |
+15,01*|30 |STC-REBL ANS |  18579 |02.01.95 |%+   | Rebellion                      |
+15,01*|31 |STC-SEED ANS |  18091 |02.01.95 |%+   | Seeds of Destruction           |
+15,01*|32 |STC-TT   ANS |  24796 |02.01.95 |%+   | Termite Terrace                |
+15,01*|33 |TT-CC1   ANS |  16345 |02.01.95 |%+   | Cat's Cradle                   |
+15,01*|34 |TY-BADL1 GIF | 178268 |02.01.95 |%    | The BadLands                   |
+15,01*|35 |US-LOKI  RIP |  38412 |02.01.95 |%    | Loki's Error                   |
+15,01*|36 |US-SOD1  RIP |  37001 |02.01.95 |%    | State of Devolution            |
+15,01*|37 |US-TT1   GIF | 161893 |02.01.95 |%    | Termite Terrace                |
+15,01*|38 |US-UT1   RIP |  17160 |02.01.95 |%    | Under Tow                      |
+15,01*|39 |ACDU0295 NFO |   6581 |02.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |

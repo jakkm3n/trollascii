@@ -1,0 +1,80 @@
+15,01                                                        00m                       
+00,01                     m                                m14,00  15,15@01,01e00                     
+00,01                    15|00,15#00,00#00,01m01y00          14mm14,14##14,01mm00           m14,00   00 00,15|15,01|01o00                   15 
+00,01                    14,15 00,00#14   00,01m      14m""00  14##00  14""m00      m14,00       14,15 01,01o00                   15 
+00,01                   15|00,15|14,00      00,01m                    m14,00     00  ##00,15#15,01|00                   15 
+14,01m02mmmmmmmmmmm12mmm02  15  14,15 14,00   00##14    00,01m  12m|00   ""   12|m00  m14,00           00,15|00,01    12mmm02mmmmmmmmmmmm14m
+14,14 14,02mm  15##14   12##02@12,12##  15,01 00#01,15#14,00        00,15|00,01 "m01u12"00##15@14,00##15,01@00##01on00m14,00             00,15|01,01o12|14,12  12##02,02@12##14  15##14    ||14,14 
+14,14#14,01"""""02""""""""12""00 15 00 15|00,15#15@00,00##14   00 15,01|00 12"01f00"m01ki00|14,00  00,01|  m" 14,00           00#15,15@00#00,01   12""02"""""""""""14""14,14#14,01"
+00,01                    15"00"00,15""14,00   00#00,15|00,01  15m15,15@00,00#14 00,01m14,00 00,01""14,00 00,01m"01one00|14,00        00##15,15@00#00,01                      
+00,01                         15""15,15@15,01"14,15#15,01""00   "    00,15|m01,01on00 00,00##14      00##15,15@00##00,01                      
+00,01                                        15|00,15|m15,01m00,15m14,00         00#00,15#15,01""00                      
+15,01                                          "00"00,15"14@00"00,00#00,15"""00,01""15" 00 15                        
+13,01""08"13""14,13#08,01""00 15" 13"15 13"06""13,06 13,13  14,00  00,01""15 03m09m14,09 09,01"00""09"14,09 09,01m00m 08""13"""08"13""15          08"13"14,13#13,01""""""""08"""""15 10mmm00mm15 13"08"13"
+14,01m13"15 13"13,06"13,13##    13,01m00m15 14"06|13,06|13,13   00,01|14|00 14,03 14,09    15,01 14|03|09,03|14,09  14,00 00,01|08|14,08|14,01"15 09"09,03"14,09  14,00  00,01"" 15 03m15 03mm09mm00m15 08"14"14,08m15,01 11m14,10  14,00 10,01"""11"10,11#10,10## 14,00 15,01 14,08 ##
+14,08 #08,14#15,01 13,06 13,13    06,01"13,06"13,13   13,01m13,06m13,13 ## 00,01|08|14|03|09,03|00,09##14 09,01|14"15 14,03 14,09   14,00 15,01 14"00m14,00 15,01 14,03 14,09   14,00 09,01 01,08@14,01"15  08m14m15 03"09,03"14,09  14,00 00,01m08  11"10"00"""10,11"14,10 10,01mmmm00m15  14"08,14#01,08@
+14,08  |15,01 13,06 13,13 ## 15,01  06"13,06"13,13       13,01|08|14,08|14,01 03"14,09    09,01m00m15 14mm00  m14,09 00##15,01 03|09,03|14,09   00,01 15 03m14,00 00,01m15 14"08,14#14,01|03|09,03|14,09  14,00 00,01|10,11 10,10  14,00  15,01 14m08mm15 11"10,11 10,10   00,01m15 08,14#
+14,08 #08,14#14,01|06|13,06|13,13   13,01|08|14m 06"13,06"13,13  00##13 15,01 14"00 03m14,09    09,01"03"15 14m"15 00m14,09     15,01 03|09,03#09,09##14 09,01m09,03m14,09   14,00 00,01m15  09,03 14,09 00##14 00,01|10,11 10,10   14,00 15,01 14,08|   08,01|11|10,11|10,10   00,01|14|
+14,08##08,14#14,01|06|13,06|13,13   13,01|08|01,08@08,14#14,01m15 13,06 13,13    15,01 09#01,03#14,09    00,01|08 14,08#08,14#14,01|03m14,09   03,03@09,09#14  15,01 03|09,03|14,09      09,01"09,03"14,09   03,01m03,03@14,09    15,01 11|10,11|10,10   00,01|14|08,14#01,08@14#08,01|11|10,11|00,10##14 00,01|14|
+14,08#01@03,01 06mm13,06#06@13,13# 13,01mm15 13m14"|13,06 06@@13,13  15,01  14,03 03@@14,09  15,01 08""14,08#14,01m15 03"09,03"14,09 03,03@09,09#14  15,01 14m03"09,03"00,09##14 09,01"15 14m15 03"09,03"14,09  09#14   09,01|14m11|10,11#10,10## 00,01|15 14"08""15 10,11 10,10    10,01|14|
+13,01mm08mmm13mmmmmm08mm13mm08m13mmmmm14,13#09,01 03"09"09,03"14,09   09,01mmmm09,03m14,09 09,03mm14,09 09,03"09,01"15 13mm08mm13mm14,13#13,01mmmm15 03"09,03"14,09   09,01"00 13m11|10,11|10,10    10,01"""""""""09 08m13m
+15,01                            03"09"""""""15                         00 11"10""""15         
+
+15,01   01,02""12,01m
+14,01%%12#01,02#10S 15,01 10ynthetic Organization 13 14%%15                14 15   14#
+15,01   01,02mm#12,01#
+15,01Australia's most awaited artpack, 00Synth 1315 is finally released! we hope you
+15,01enjoy this pack, as much as you enjoyed our 1yr anniversay party feaver!
+15,01Thanks to those who send in feedback on pack 12, with 00amazing results15, that
+15,01we'd never thought we would achieve!
+
+
+15,01   14,02#12,01mm
+14,01%% 01,02 10S12"15,01 10ynthetic WHQ change!! 14%%15  10   
+15,01   02""14,02#02,01##
+15,01After some 00problems15 with trippah's cash flow/drug problems, 00Decay BBS is back
+00,01online15, decaying faster then ever! Give it a dial on 9816-9771, where all ozzy
+15,01productions are 00free15 of downloads!
+
+
+15,01  02#12@14,02#02,01m
+14,01%% 10,02 I14#02,01#10nternet issues, www/ftp15 14%%15                           
+15,01   02"""
+15,01After all the bullshite with changing the web page and deciding on one, my 
+15,01account has 00died on aXs connection15 and 00now we have jack shit15.
+15,01All i have is my email account from midian, where i cant send large amounts of
+15,01files. I will try my best to upload the synthetic packs to 00cdrom.com15 however,
+15,01it may take some time after the release for all you fast art crazed citizens.
+15,01                                                         
+15,01i, 00trippah15 need a 00good fast inet account15 to distrobute synthetic packs as much 
+15,01as possible. if anyone can offer me a 00free, decent account15, i will do any
+15,01amount of art for you! if you can help me out here, please mail me 00asap
+
+
+15,01  02#14,02#12,01mm
+14,01%% 10,02 M14,12#12,01#10embers stuff!15 14%%
+15,01   02"""
+15,01We have gained a reasonable amount of 00active artists15 this month, this only 
+15,01shows 00the prospect of synthetic art15!
+
+15,01we firstly 00welcome back Phoenix15! after leaving for the USA, he decided to come
+15,01back to Ozland, and join synthetic once again! Hope you release some sick ass
+15,01shit dude!
+15,01Also welcoming 00Sikko15, the sysop of nO eND. He'll be showing us how real ascii's
+15,01are done, hopefully.
+15,01A new distrobution site, 00frayed endz15 will have most if not all synthetic packs
+15,01online, for free of downloads. the staff is Arkenstone.
+
+15,01we 00welcome15 all new members with warmth and a bunch of banannas.      
+
+00,01c'mon15 ozzie artists! we need all the help we can get to 00kick ACiD's ass!15 join
+15,01in all the funny funs, and 00contact synthetic today!15 we will be awaiting for u!
+
+
+15,01   02mm12m
+14,01%%02#14,02#10S 02,01 10ynthetic tshirts!15 14%%
+15,01   02"""
+15,01We are unsure at this moment of time, whether or not, we should continue with
+15,01our 00little t-shirt production15. We will keep you 00informed15 if anything is updated
+15,01or if we are going to trash the idea.
+

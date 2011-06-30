@@ -1,0 +1,31 @@
+
+
+
+
+15,01                          RELiC Gif Viewer
+15,01                      Documentation Type Stuff
+
+
+15,01           First off, this is Jello typing, and i have NO idea
+15,01             what FTL wants to put in this thing, or even if
+15,01             he wants a .txt with it at all. But it's 4am here
+15,01             and i'm NOT gonna call him to find out. =)
+15,01             So if i fuck up, i'll let him bitch at me later,
+15,01             for now, i'll live with it...
+
+15,01           As of now, RGV is only has a works with command line
+15,01             input, and has no dithering. By the next release
+15,01             there will be a file lister and and interface,
+15,01             posssibly even a VGA interface. The dithering may
+15,01             be implemented by the next release but that is
+15,01             indefinate at this point.
+
+15,01           This proggy was coded by FTL maily for the fuck of it.
+15,01             It's nothing special right now, but it has a really
+15,01             smooth fade in/out, it's pretty quick, and is rather
+15,01             tiny. It'll be better soon, and untill then, fuck it.
+
+
+15,01                                                Jello
+15,01                                                RELiC
+15,01                                           "This Ok, Don?"

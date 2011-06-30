@@ -1,0 +1,80 @@
+15,01^2-^4=^3= ^0Renegade BBS ^3=^4=^2-
+15,01OP-- Main Menu --
+15,0122
+15,01MAIN
+15,01MAIN
+15,01|00
+15,01Y
+
+15,01-FIN
+15,01mainyou
+15,014
+15,01(Y)our Info - Display your SL, mail waiting, and other account info
+15,01(Y)our Info
+15,01Y
+15,01C
+15,01OY
+
+15,01A
+15,01($)Time Bank - Deposit time for use during future calls
+15,01($)Time Bank
+15,01$ainaut
+15,01s50
+15,01-/)uto-Message - Go to the auto-message menu
+15,01timebankessage
+15,01A
+15,01(*)SysOp Menu - Go to the SysOp menu
+15,01(*)SysOp Menu
+15,01*uto
+15,01s250
+15,01-/
+15,01sysop
+15,01B
+
+15,01-F
+15,01mainbbs
+
+15,01(B)BS List - Go to the BBS list menu
+15,01(B)BS List
+15,01B
+15,01s50
+15,01-/
+15,01bbslist
+
+
+
+15,01C
+
+15,01-F
+15,01maincha
+
+
+
+15,01C
+
+15,01DC
+15,01chat.bat %U
+
+15,01(C)hat w/SysOp - Chat with the SysOp (send Email if not available)
+15,01(C)hat w/SysOp
+15,01CHAT
+15,01s200
+15,01OC
+15,011
+
+
+
+15,01F
+
+15,01-F
+15,01mainfil
+
+15,01(F)ile Menu - Go to the file system menu
+15,01(F)ile Menu
+15,01F
+15,01s50
+15,01-^
+15,01scanfile
+
+
+

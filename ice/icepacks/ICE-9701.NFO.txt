@@ -1,0 +1,72 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                   J  A  N  U  A  R  Y       1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  Happy New Year!!  We hope that you all enjoyed a wonderful first  month and
+15,01are having  (so-far) a great 1997!   We at iCE  celebrated the new year in fine
+15,01fashion,  getting drunk at the hidden iCE castle,  Rivendell  (old-school scene
+15,01reference).
+
+15,012.  We at iCE are happy to announce yet another promotion from within our ranks
+15,01this month.  Now assisting BoA on the Advisory Council is Tetanus, our longtime
+15,01ANSI artist.  Congratulations, Tet!
+
+15,013.  We also would like to announce a demotion.   Sadly,  for many undisclosable
+15,01reasons,  we hereby demote Lord Soth to Trial Courier.  We wish him luck in his
+15,01new position.
+
+15,014.  THIS JUST IN:  The first-ever iCE baby was born at the very very end of the
+15,01month!  G. Washington and his wife are the proud parents of a new bouncing baby
+15,01boy!  Congratulations to them both, and good luck raising iCE's future prodigy!
+
+15,015.  It's been discovered that Friar Tuck has joined the circus, along with ANSI
+15,01head Lemonade.   It would  appear that they are a two-man floppy  disk juggling
+15,01act.  When asked about it, they said "Well, with computers becoming mainstream,
+15,01it only makes sense that the circus would adapt!"  Tuck added "It's always been
+15,01my lifelong dream to be in the circus!"  Hmm.
+
+15,016.  Joining the intrepid crew this month were Shadow in the ANSI department and
+15,01Tiny3d in the VGA department.  Both knocked our socks off (and made Friar  drop
+15,01a floppy disk)  with their applications,  so look for their work  in the packs!
+
+15,017.  Heading for the hills last month was Eporue. We wish him luck in his future
+15,01endeavors within and outside of the art scene.
+
+15,018.  Trip led a small iCE gang consisting of Mass Delusion, Joker, Kabal 13, and
+15,01Corpcow into  a well-fortified village  controlled by a terrorist group.   They
+15,01destroyed the village using automatic machine guns, firebombs,  grenades, and a
+15,01secret  weapon that Kabal for some  reason seems embarassed to disclose.   Each
+15,01received medals of honor from the President,  who offered to give  each of them
+15,01one of his women for the night.   Being upstanding citizens, they all declined.
+15,01(Except for Mass Delusion.  We STILL haven't seen him!)
+
+15,019.  The Rumour Mill: Some new exciting custom-coded applications will be coming
+15,01from the coding staff in the next few months. Plus, some new public design work
+15,01is rumoured to be underway.  More here later.
+
+15,0110. A quiet month,but a spectacular month. Kudos go out to the entire team once
+15,01again.  The first month of what will be a great year for the iCE team.  Keep up
+15,01the great work!
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

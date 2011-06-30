@@ -1,0 +1,23 @@
+15,01Ok, the viewer is a TOTAL beta!
+15,01We ran into about 15 last minute problems.
+15,01The graphics routines are fucked if you try viewing a slew of ansi's
+15,01at once. It's recommended that you just use the Text modes.
+15,01There won't be any problams as long as you don't speed up the graphics
+15,01cascade by more then one Down/Up arrow press. (If you try to go up any
+15,01faster then one UP arrow, it fucks up!
+
+15,01For best results, tag the whole pack and View it.
+
+15,01For the command line stuff, none of the switches are working yet so
+15,01if you go UV *.ans it will always be viewing in the default modes.
+
+15,01This is really shitty that we couldn't get it all going perfect in time but
+15,01I can gaurentee that you will be extremely impressed with the Text mode
+15,01viewing routines.
+
+15,01Seeing as we will have a whole 'nother month, you can look forward to 
+15,01TONS of improvements.
+
+15,01Shitty.
+
+15,01PennyWise [Apex]

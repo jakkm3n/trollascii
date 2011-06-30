@@ -1,0 +1,80 @@
+15,01     BL/+DE '94 Presents - The Edge: The Official Blade Information File.
+15,01                                               08m
+15,01                                        08m  mm14,08 08,01"
+15,01            08m"15             08mmm"15     08mm" m14,08    15,01                08m"15           08m"
+15,01       08mmmm14,08  08,01    m    mm14,08   08,01"   mmm14,08 #01@14 ##08,01m14,08  08#14  15,01          08mmmm08,08#14 15,01       08mmmm14,08 08#
+08,01  mmm14,08    08#14  08,01 14"m08"mm14,08 08,01m14,08    08#14 08,01 m   |14,08 ##01@08,14#01,08@14  08,01"" 14,08 08##08,01|    mmm14,08    08###15,01 14"m08"mm14,08  08 #14 08##15,01 "14,15#01@14,01m
+08,01"14,08 #       08#08,01| " 14"m08"14,08# #    08#@15,01  08m 14,08  #01@08,14#14,01"15       14,08 08#@15,01 08"14,08   #   08#14 08#@08,01| m14||08|14,08   08 14 08##08,01|m   00,14#14,01|
+14,01 14,08###   08#14 08##@15,01    00,14#14,01|14,08####  08##08,01|   14,08  # 01@08,14#14,01"m15     08|08,08###@15,01  14,08## #   08###@15,01 08||14,14 14,01 14,08#   08 #@@15,01    14|
+14,01 08|01,08@14###  08##08,01"15     14|14,14 08,01|14,08##  08###15,01    08|14,08   #01@08,14#14,01|00,14#14,01mm  14,08 08 # #15,01  08|14,08###    08#08,01"  14,08##14,01||08|14,08## 08##@
+08,01  14|01,08@14#  08##08,01|15      00,14#14,01| 01,08@14##  08#08,01m    m14,08    #01@14,01m ""00,14#14,01mm08"08,08   #15,01  14|01,08@14##  08#08,01|  14"|01,08@15,01 00,14#15,01 14,08# 08#14 08##
+08,01  08,14##01,08@08,01" mm"m  14mm00,14##15,01 14|08,14#01,08@08,01"mm"m   "mmm""""m    mm14"08m"m"m 08,14##01,08@14#15,01 08mm"m   01,08@14,01|00,14#14,01|08" mm"m   14m"
+14,01m""""08m14,08  08,01m 14m14,14  00#14,01"" m""08m14,08  08,01m m   " 14,08      08,01m    m"mm14,08 08,01  14m""08mmm14,08  08,01m    14m""||08m14,08  08,01m 14mm01,15@00,14#14,01"
+14,01  08m"08,08#14  08#08,01|   14""00,14##14,01m 14,08       08,01    14mm08" 14,08      08,01m  m14,08     08,01  m"08,08#14 08#14   08,01    m 14,08 00,14##08,01|14,08  08,01|
+08,01   |14,08 08#14 08#15,01       14|00,14#01,15@15,01 14,08    08#08,01|15     00,14##01,15@15,01m08"14,08  08#14 08,01|   08,08#14 08#14  08,01   08,08###14     08,01    14,08 08,01|00,14#01,15@08,01|08,08#14 
+08,01"mm14,08  08###08,01|15       01,15@14#15,01|08|14,08  08#14 08#15,01    08|14|00,14#01,15@14#15,01|14,08   08##15,01  08|08,08@#14   08,01|"mm08,08@##14   08,01|"  14,08  14,01|01,15@14#08,01|14,08 08#08,01|
+08,01 |08,08#14 08##@@#15,01      14|00,14#01,15@15,01 14,08    08##15,01    14,08 08,01|14|00,14#01,15@15,01 08,08#14  08#@15,01  08,08#@###14  08,01m|08,08##@14 08##14 08,01   m"14m00,14#01,15@15,01|14,08 08###15,01      14m"
+14,01 08m14,08 08#@@#08,01"    "14mm14,14 00#14,01"08m14,08 08#14 08#@08,01| "mm" 00,14##14,01"08|14,08 08#@@@15,01  08|08,08#@@08,01"   "08,08#@@#14 08,01" 14m mm00,14##14 14,01"08,08#@@#15,01 08"  14mm00,14#14,01|
+08,01"""  08,08#08,01m14"mmm00,14#14,01"""08mm""""08,08@##08,01m 14mmm14,14 14,01""08m08,08#@#@##15,01    08"    m"""  "m14"mm14,14 00##14,01"" 08"08,08@##15,01 08" 14"01,15@00,14#14,01""
+15,01       08"15                08""m   """""08,08#08,01"  ""m15              08"    m"15      08"
+08,01  15S        e        p        t         e        m        b        e        r
+15,01                   11mmm  m  m mmmm    mmmm m mm mmmm mmmm
+15,01                    11m " 10,11#15,01 11m10,11#15,01 10,11#15,01 11mm    10,11#15,01 11mm 10,11#15,01  10,11#15,01 10,11#15,01 11mm 10,11#15,01 11mm
+15,01                    10,10#15,01   11,11@15,01  11,11@15,01 11,11@15,01 11mm    11,11@15,01 11mm 11,11@15,01 11m11,11@15,01 11,11@11,01m 11,11@15,01 11,11@15,01 11mm
+
+11,01  00T15his is the Blade Info File. 00A 15monthly publication from Blade Productions.
+15,01  00T15his file outlines the past months happenings of Blade.................
+15,01  00T15his text is written by MindCrime, Blade founder and president. 00I15f there
+15,01  are any spelling or grammatical errors within this text, please remember
+15,01  that MC is only human, as are most other people. 00B15lade is a group much like
+15,01  that of iCE or ACiD [At least, we like to think so] which releases a monthly
+15,01  pak of the prior months work [Or something like that]. 00B15lade paks are released
+15,01  on the first of each month [They can be found at any one of our lovely
+15,01  distribution sites]. If you wish to contact Blade in any way, please
+15,01  call Eternal Insanity @ 908.224.8780; All blade members can be reached
+15,01  on Ei. 00I15f you like the work of Blade, let us know. 00L15eave a message to
+15,01  MindCrime at his lame ass internet address............[MCBLADE@DELPHI.COM]
+15,01  or call up Eternal Insanity . 00E15njoy the pack.
+
+00,01115) Starting this month, Blade has changed it's policy regarding the quality
+15,01   of ansi's included in the pak. I <mc> now reserve the right to reject any
+15,01   and all artwork that does not live up to 'blade standards'. Hopefully
+15,01   this will boost the quality of the packs.
+
+00,01215) In name changes this month, 00Zephyrus15, who changed his handle last month,
+15,01   changes it again. This time to 00Rai15.
+
+00,01315) New members this month: Paendragon joins us in the lit department and brings
+15,01   some excellent work with him.. We welcome him to one of the best lit dept.'s
+15,01   in the scene today.
+
+00,01415) 00<15note: this section left out due to last minute pak changes...>
+
+
+
+
+
+00,01515) Flux's poetry pik for this month is STJOHN.PIK. Check it out, some pretty
+15,01   interesting lit there..
+
+00,01615) After a two month hiatus, 00Soul Seeker 15is back in action. Be expecting some
+15,01   great work from him in the coming months, as well as the always great work
+15,01   from all our other artists. Also in store for next month and the months
+15,01   beyond, comes a new idea from the mind of 00StyX15. Watch for it.
+
+
+
+15,01...00Group Greets15.................................................................
+
+00,01CiA 15- You guys are gettin on my nerves <big grin>
+00,01UNiON 15- Can you suck up any more groups?
+00,01TEAM2 15- Pagan'z got nuttin on us..
+00,01EDEN 15- Good luck folks.. I liked the first pak!
+00,01ALiVE 15- DEAD? :)
+
+15,01...00MC Greets15....................................................................
+
+00,01BiSHOP 15- Call me assmunch!.. We need codes...
+00,01Napalm 15- Do me a fucking ansi..
+00,01Mr. Dawson 15- Thank you so kindly for your gracious donation to the scene. ;)
+00,01TechnoPhreaK 15- Get back here! We neeeeed ya..

@@ -1,0 +1,80 @@
+
+
+
+15,01                        "What's New" in iCE Recently.
+
+
+15,011.  In a move that started a lot of confusion amongst iCE aficionados
+15,01    everywhere, two artists have left the group.  iCE Veteran of nearly a year
+15,01    Quick Silver, and newer member Liquid Image, left iCE to form a new group,
+15,01    Valiant, with Havoc.  The reason given by Mr. Silver and Mr. Image was that
+15,01    there had been a lack of competition in the art scene as of late, and it
+15,01    was becoming boring.  Although we all were friends with the two artists,
+15,01    we must respect their decision no matter how little we agree with it.
+15,01    Good luck to two of our more influential artists!
+
+15,012.  A couple of artists believed that because of those two, iCE was falling
+15,01    apart.  This is not so.  However, other artists to join the hiatus
+15,01    bandwagon were: Dreamevil and iCY to Valiant, and Leper Messiah, who
+15,01    accepted the ANSI President position in ACiD.  We hope they change their
+15,01    minds, of course, but we wish them luck in their new positions.
+
+15,013.  We would like to extend a warm welcome to two new artists on the ANSI
+15,01    Trial side.  Welcome to Joker and Cyber-X!  Hope to see you on the
+15,01    memberlist soon!
+
+15,014.  iCE.VGA has now become a legitimate power in the demo world.  Hopefully,
+15,01    within the next month or two (the FUTURE is NOW! -SK :), production and
+15,01    coordination will take effect to show this.  One man has single-handedly
+15,01    brought the largest collection of VGA and Coding talent together under
+15,01    the banner of iCE.  That person is Syntax Error.  There simply isn't
+15,01    enough room here to thank him adequately, so we'll just leave it at this:
+15,01    He would make the consumate Senior Staff Member.
+
+15,015.  While one person assembled and revived this collection of VGA artists and
+15,01    coders, the work produced in this pack would not have been possible if it
+15,01    hadn't been for two other people.  Getting work like this produced requires
+15,01    innumerous hours on the phone with artists and coders, calling long
+15,01    distance to pick up beta's of VGA's and demo's, sending them to coders, and
+15,01    artists, just to hear them say "One part's not right, send it back", and
+15,01    repeating the cycle as many times as it takes to get it right.  Late hours,
+15,01    and often thankless devotion are required to direct a team of this size,
+15,01    and iNSANE Creators Enterprise would like to honor our two VGA Directors,
+15,01    Quazar (Logo man) and Vapor (he's SOOooo Cute!).  Thank you guys.
+
+15,016.  To follow up on the previous note, iCE would like to welcome a whole mess
+15,01    of new coders and and artists, and rather than inadequately list them
+15,01    ourselves, we'll let Syntax do it here:
+
+15,01A.  Hi y'all!  Syntax Error here... wanted to spend a few minutes to talk
+15,01    about my experiences with iCE for the past month.  I can't even begin
+15,01    to tell you about the amount of fun I've had meeting some of the nicest
+15,01    guys in the art scene.  It's nice to look at our VGA/Coding/MOD member
+15,01    lists and be able to compare the talent with some of the foremost
+15,01    designers in the world.  I sincerely hope that you enjoy this fresh,
+15,01    new look for iCE's non-ansi departments!
+
+15,01B.  To get everyone up to speed with iCE VGA developments, I'll try to
+15,01    briefly summarize what's taken place within the past month.  Among our
+15,01    first acquisitions of talent, the three uzi-wielding Isrealies from the
+15,01    group The Phoney Coders have joined iCE in what has proved to be a most
+15,01    beneficial move for us.  Ford Prefect, Mr. Bug, and Codesafe Hawk all
+15,01    bring along extensive talent in the coding arena.  Ford, eager to have
+15,01    something put in this month's pack, released his 1.0 version of the
+15,01    3dview utility.  With it, Ford has created a whole new art form for
+15,01    iCE artists to explore.  The utility allows for art pieces, created
+15,01    in 3-d studio, to be transformed into vectors, which allow for unlimited
+15,01    angle and view observation.  Even though the program is in it's initial
+15,01    stages, we are all excited to see what it will become in the future.
+15,01    Mr. Bug also contributed to the iCE pack this month with two vector
+15,01    demos: one with balls and one with dots. These don't even begin to
+15,01    demonstrate the full scope of this coder's capabilities, so we also
+15,01    look forward to his future projects.
+
+15,01C.  Shortly after signing up the fellows from TPC, iCE soon managed to bring
+15,01    about a merger with the famous folks at THG/FX.  Yes, that's right... we
+15,01    would like to proudly welcome Sauron, Iridium (formerly Quick Silver),
+15,01    ZigZag, and Renegade Bithead to iCE's expanding coding department.  I
+15,01    can't even begin to describe how much of a pleasure it has been to work
+15,01    these guys in the past month.  Their motivation, intuitiveness, and
+15,01    knowhow are definite assets to the group no matter which way you look

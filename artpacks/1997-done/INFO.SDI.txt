@@ -1,0 +1,80 @@
+15,01                                             m
+15,01  # history:   Puhh.. that's too long to explain, the mostlym
+15,01               important thing is, that we are exists...14,15  15,01     m
+15,01            mm14,15    15,01m mmm"" mm mm mmm"" " mmm mmm"14,15 15,01 mmm"" 14,15  15,01mmm 14,15   15,01mm
+15,01  # partys:  # party name [location]:     mekka'96 [hamburg/germany]
+15,01               date:                      end of april'9614,15#15,01# 14,15  #15,01 14,15 15,01#
+15,01               members which were there:  sound-runner" "" m14,15      15,01m
+15,01               * competition:             multichannel      m  "+
+15,01                 name [author]:           don't touch it [sr]
+15,01                 place (out of):          16 (30)
+15,01               comment:                   never release a bb/jungle at a party
+15,01                                          and advance payment suxx if you get
+15,01                                          ill ( und wieder 50,- in den sand
+15,01                                          gesetzt - magus&e605 )  ""  14,15#15,01m
+15,01       m#                       news : all the news                      m
+15,01             # party name [location]:     summer encounter'96 [randers/denmark]
+15,01               date:                      end of july'96                   #14,15# 
+15,01               members which were there:  magus, e605s/...                  00@14,15 
+15,01               * competition:             fast musicwe take part/ ...    m #14,15 
+15,01                 name [author]:           3 strips rave [e!]          m  mm
+15,01                 place (out of):          8 (11)                  "    m#
+15,01               * competition:             music                 ""  ""
+15,01                 name [author]:           performing test's [e!]
+15,01                 place (out of):          25 (27)
+15,01               comment:                   was a nice party (except the 1st day)
+15,01                                          my music competition was nearly played
+15,01                                          as last (7 o'clock in the morning), so
+15,01                                          everybody sleepd (after all compos was
+15,01                                          held after 2 o'clock).
+
+15,01             # party name [location]:     katholischer kongreB
+15,01                                          [hildesheim/germany]
+15,01               date:                      12 - 15 september'96
+15,01               members which were there:  sound-runner
+15,01               comment:                   well organised ;)thalle weismain'
+15,01                                          not bad if you can escape from school
+15,01                                          for some days ...ore;(
+15,01                                          [und so langweilig , wie es zu werden
+15,01                                           drohte , war es nun doch nicht :)]
+15,01  - new members! 'hades' and 'the softy' welcome guys!
+15,01             # party name [location]:     mekka'97 [fallingborstel/germany]
+15,01               date:                      end of march'97
+15,01               members which were there:  sound-runner, e605, magus, srj
+15,01                                          atom ant, shamadahe 'tojs!'
+15,01               * competition:             multichannel
+15,01                 name [author]:           thesearchforsoreness [sound runner]
+15,01                 place (out of):          -- (15) preselected;(
+15,01               * competition:             multichannel
+15,01                 name [author]:           s i x  O  fi v  e [e605]ansi&ascii)
+15,01                 place (out of):          -- (15) preselected;(
+15,01               * competition:             multichannel
+15,01                 name [author]:           hymbla [magus]
+15,01                 place (out of):          -- (15) preselected;(14,15 15,01mm
+15,01               * competition:             ansi14,15  15,01 ## members ## 14,15 #   15,01 14,15  #15,01mmmmm
+15,01                 name [author]:           killer! [e!]      mmm14,15  15,01""  """""
+15,01                 place (out of):          o9 (15)         """""
+15,01               * competition:             shoe - fun - competition
+15,01                 took part:               sound runner               country
+15,01                 place (out of):          o1 (??)
+15,01               comment:                   multichannel compo suxxed! germany
+15,01                                          big surprise: sound runner wonmany
+15,01                                          the shoe - fun - competition ;)any
+15,01  #  atom ant               ra, coder                                germany
+15,01             # party name [location]:     wired`97 [wasmes/belgium]  germany
+15,01               date:                      18 - 20 july'97            germany
+15,01               members which were there:  e605                       germany
+15,01               * competition:             multichannel               germany
+15,01                 name [author]:           amateur widower [sound-runner]many
+15,01                 place (out of):          ?? (??)                    germany
+15,01               * competition:             multichannel               germany
+15,01                 name [author]:           sound & intoxication [hades]ermany
+15,01                 place (out of):          ?? (??)                    germany
+15,01               * competition:             ansi                       germany
+15,01                 name [author]:           death of an ansi artist [e!]ermany
+15,01                 place (out of):          ?? (??)                    germany
+15,01               comment:                   present                    germany
+15,01  #  the softy              coder, musican, vga                      germany
+15,01  #  pulzar                 musican                                  germany
+15,01             # sdi on-tour - tourplan for the next months:           germany
+

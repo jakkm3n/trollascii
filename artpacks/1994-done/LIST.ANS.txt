@@ -1,0 +1,63 @@
+14,01+--------------+---------------------------------+-----------------------------+
+14,01|00F15ILE14S15         14|00D15ESCRIPTIO14N15                      14|00A15RTIS14T15                       14|
+14,01+--------------+---------------------------------+-----------------------------+
+14,01| 00A13T04M-APP  ZI14P | 00A13T04OMiC Application generato14r    | 15Killing Joke & Frost Byte   14|
+14,01| 00A13T04OMVIEW EX14E | 00A13T04OMiC Viewe14r15                   14| 15B'jorn & Sinister Outlaw    14|
+14,01| 00B13R04-BLURR AN14S | 00B13l04urred Visio14n15                  14| 15Blurr                       14|
+14,01| 00B13R04-DFS01 AN14S | 00D13a04mn Fucking Shit Magazin14e15      14| 15Blurr                       14|
+14,01| 00B13R04-HORIZ AN14S | 00H13O04RiZONe14t15                       14| 15Blurr                       14|
+14,01| 00B13R04-HYBRD AN14S | 00H13y04brid Magazin14e15                 14| 15Blurr                       14|
+14,01| 00C13N04-ATOM7 MO14D | 00A13T04OMiC Mod #14715                   14| 15Cerebral Neurosis           14|
+14,01| 00C13N04-ATOM9 MO14D | 00A13T04OMiC Mod #14915                   14| 15Cerebral Neurosis           14|
+14,01| 00C13N04ATOM12 MO14D | 00A13T04OMiC Mod #114215                  14| 15Cerebral Neurosis           14|
+14,01| 00C13U04-ATM1  EX14E | 00A13T04OMiC Dem14o15                     14| 15Custer                      14|
+14,01| 00C13U04-CSNAP EX14E | 00C13o04ld Snap Dem14o15                  14| 15Custer                      14|
+14,01| 00D13R04-REN   GI14F | 00R13e04n15                             14| 15Drakken                     14|
+14,01| 00F13B04-BIOSP AN14S | 00B13i04osphere BB14S15                   14| 15Frost Byte                  14|
+14,01| 00F13B04-CAT1  AN14S | 00C13a04ttle Kingdo14m15                  14| 15Frost Byte                  14|
+14,01| 00F13B04-CCIL1 AN14S | 00C13y04berCrime Log14o15                 14| 15Frost Byte                  14|
+14,01| 00F13B04-CIA   AN14S | 00C13i04A15                             14| 15Frost Byte                  14|
+14,01| 00F13B04-CULT  LI14T | 00T13h04e Cult Li14t15                    14| 15Frost Byte                  14|
+14,01| 00F13B04-CURTN LI14T | 00C13u04rtain Cal14l15                    14| 15Frost Byte                  14|
+14,01| 00F13B04-CYBER LI14T | 00C13y04ber Dream14s15                    14| 15Frost Byte                  14|
+14,01| 00F13B04-DRKS1 AN14S | 00D13a04rkSun System14s15                 14| 15Frost Byte                  14|
+14,01| 00F13B04-ELUS1 LI14T | 00E13l04usive Drea14m15                   14| 15Frost Byte                  14|
+14,01| 00F13B04-FOX1  AN14S | 00F13o04xFir14e15                         14| 15Frost Byte                  14|
+14,01| 00F13B04-GSA1  AN14S | 00G13r04inning Skulls Administratio14n  | 15Frost Byte                  14|
+14,01| 00F13B04-HARV1 AN14S | 00H13a04rvest Moo14n15                    14| 15Frost Byte                  14|
+14,01| 00F13B04-HORZ4 AN14S | 00H13O04RiZONe14t15                       14| 15Frost Byte                  14|
+14,01| 00F13B04-INSAN LI14T | 00I13n04sanity Waitin14g15                14| 15Frost Byte                  14|
+14,01| 00F13B04-LIGHT LI14T | 00L13i04GH14T15                           14| 15Frost Byte                  14|
+14,01| 00F13B04-MAUI  AN14S | 00M13A04U14i15                            14| 15Frost Byte                  14|
+14,01| 00F13B04-MCAS1 AN14S | 00M13y04stical Castl14e15                 14| 15Frost Byte                  14|
+14,01| 00F13B04-MYST1 AN14S | 00M13y04stic Sanctuar14y15                14| 15Frost Byte                  14|
+14,01| 00F13B04-PLOST LI14T | 00P13a04radice Los14t15                   14| 15Frost Byte                  14|
+14,01| 00F13B04-STAR1 AN14S | 00S13t04ar-Li14t15                        14| 15Frost Byte                  14|
+14,01| 00F13B04-TOD   AN14S | 00T13e04mple of Doo14m15                  14| 15Frost Byte                  14|
+14,01| 00F13B04-VAULT AN14S | 00T13h04e Vaul14t15                       14| 15Frost Byte                  14|
+14,01| 00F13B04-VECT1 AN14S | 00V13e04ctor Magazin14e15                 14| 15Frost Byte                  14|
+14,01| 00F13B04-YAKH1 AN14S | 00Y13a04k Hous14e15                       14| 15Frost Byte                  14|
+14,01| 00G13R04EETS   AN14S | 00G13r04oup and member greet14s15         14| 15Group                       14|
+14,01| 00I13P04-BYTE  AN14S | 00B13y04te Me...14.15                     14| 15Icepick                     14|
+14,01| 00K13J04-DOG1  AN14S | 00D13o04gNe14t15                          14| 15Killing Joke                14|
+14,01| 00K13J04-DUNG2 AN14S | 00T13h04e Dungeo14n15                     14| 15Killing Joke                14|
+14,01| 00K13J04-EM    AN14S | 00E13x04otic Menuever14z15                14| 15Killing Joke                14|
+14,01| 00K13J04-PENT2 AN14S | 00P13e04ntago14n15                        14| 15Killing Joke                14|
+14,01| 00K13J04-STAT1 AN14S | 00S13t04atistic14s15                      14| 15Killing Joke                14|
+14,01| 00K13J04-WIZ   AN14S | 00W13i04zard Cov14e15                     14| 15Killing Joke                14|
+14,01| 00L13I04ST15     04AN14S | 00L13i04sting of Files (this file14)    | 15Group                       14|
+14,01| 00M13E04MBER   AN14S | 00M13e04mbership Listin14g15              14| 15Group                       14|
+14,01| 00M13P04-HORZ  GI14F | 00H13O04RiZONe14t15                       14| 15Master Prog                 14|
+14,01| 00N13A04S-UA1  GI14F | 00F13l04aming Skul14l15                   14| 15Nasfaratu                   14|
+14,01| 00N13E04WZ0594 AN14S | 00W13h04ats Newz in the ATOMiC scen14e  | 15Frost Byte                  14|
+14,01| 00S13P04-DKCR  GI14F | 00D13a04rk Crusad14e15                    14| 15Spanky                      14|
+14,01| 00S13P04-DRAG  GI14F | 00D13e04ath Drago14n15                    14| 15Spanky                      14|
+14,01| 00S13P04-WOLF  GI14F | 00W13o04lverin14e15                       14| 15Spanky                      14|
+14,01| 00U13A04-FITE2 GI14F | 00U13A04/F14X15                           14| 15Dark Avenger                14|
+14,01| 00V13T04-DC3_2 AN14S | 00D13e04vils Cauldron II14I15             14| 15Void Traveller              14|
+14,01| 00W13-04CNEST  AN14S | 00C13r04ows Nes14t15                      14| 15Willard                     14|
+14,01| 00W13-04ETHER  AN14S | 00E13t04he14r15                           14| 15Willard                     14|
+14,01| 00W13-04ETHER2 AN14S | 00E13t04he14r15                           14| 15Willard                     14|
+14,01| 00W13-04LOGOFF AN14S | 00L13o04goff for ATOMiC distro BBSe14s  | 15Willard                     14|
+14,01| 00W13-04NC15     04AN14S | 00N13o 04Carrie14r15                      14| 15Willard                     14|
+14,01+--------------+---------------------------------+-----------------------------+

@@ -1,0 +1,80 @@
+15,01SSC v1.01  - Super Splitscreen Chat!
+15,01by: Mr. Data   (Shawn Poulson)
+
+
+15,01-------------
+15,01Requirements:
+15,01-------------
+15,01 - PCBoard 15.1+
+
+
+15,01-------------
+15,01Introduction:
+15,01-------------
+15,01This is a full featured and fairly fast split screen chat kit for PCBoard
+15,0115.1.  You are able to set up this chatter such that sysop and user window
+15,01areas are CONFIGURABLE!  Did you ever want some sort of logo or ansi pic on
+15,01the side of the chatter?  Well here it is very possible!
+
+15,01Have 2400 users (if you allow them on your board) ever complain at the speed
+15,01of the chatters?  Well you can set a secondary configuration file for 2400 and
+15,01below speeds so as to speed things up (but not be as pretty).
+
+
+15,01--------------
+15,01Quikie Set up:
+15,01--------------
+15,01Like most PPEs these days, this is very easy to set up.
+15,01Unzip to any directory you want, but you want to keep all the related files
+15,01in the same directory.
+15,01If you want to use the setup I have included then simple go into PCBSETUP,
+15,01go to G-Configuration Options, then H-Function Keys.  To whatever function key
+15,01you want to assign this chatter to put:
+
+15,01!c:\pcb\ppl\ssc\ssc.ppe ssc.cfg 2400.cfg
+
+15,01This says that for users faster than 2400 use SSC.CFG for configuration, 2400
+15,01and below use the configuration file 2400.cfg.
+
+
+15,01----------------
+15,01Advanced Set up:
+15,01----------------
+15,01Those who want to modify or create their own set ups here's the guide to doing
+15,01so.  You will find you can do a hells of a lot more than other chatters out
+15,01there...  For simplicity purposes the Sysop window will be referred to as the
+15,01top window and the User's the bottom window, even though it doesn't matter
+15,01where the windows are.
+
+15,01Format for CFG files:
+
+15,01Line 1 - Sysop name
+15,01         Name you want to appear in the Sysop's name field
+15,01Line 2 - Header ansi/pcb file, do not include path.  Put NONE for no header
+15,01         If you want a background, border, or a header ansi then provide the
+15,01         filename here.
+15,01Line 3 - Put YES if you want to use faster line clearing (you can't use
+15,01         borders), otherwise it uses slower space fillings to clear lines
+15,01         allowing borders, also allows vertically aligned windows.
+15,01         Fast line clearing is the Esc[K ansi code to clear from the cursor
+15,01         space to the end of the line.  Slow line clearing is simply spacing
+15,01         over the area.  Slow clearing is not recommended for 2400 setup.
+15,01Line 4 - Top window text color
+15,01         Text color for Sysop's (top) type color.  Put in @X code format.
+15,01Line 5 - Bottom window text color
+15,01         Text color for User's (bottom) type color.  @X code format.
+15,01Line 6 - # of lines to leave displayed at top when scrolling up
+15,01         When the window scrolls up, this is the number of lines that are kept.
+15,01Line 7 - Position data for top window's id line
+15,01         xx,yy:len  xx = xpos  yy = ypos  len = justified len of user name in
+15,01         OPTEXT
+15,01         This is the X,Y position for the Sysop's 'Name Tag' that displays the
+15,01         name and any niceties.
+15,01         MUST follow format above.
+15,01Line 8 - Data line for top window's id, put @OPTEXT@ in for the name
+15,01         This is the text for the 'Name Tag'.  @OPTEXT@ is the macro for the
+15,01         Sysop's name.
+15,01Line 9 - Position data for bottom window's id line  (same format as above)
+15,01         X,Y Position for User's 'Name Tag'
+15,01Line 10- Data line for bottom window's id, put @OPTEXT@ in for the name
+15,01         Text for User's 'Name Tag'

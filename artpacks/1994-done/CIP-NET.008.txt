@@ -1,0 +1,80 @@
+15,01;
+15,01;      14,15 15,01"" 14,15   15,01 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01"14,15 15,01    14,15 15,01 14,15 15,01m||   14,15   15,01 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15 15,01""
+15,01;      14,15 15,01mm 14,15 15,01"m 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01mm    14,15 15,01 14,15 15,01|14,15 15,01|   14,15 15,01   14,15 15,01"m 14,15 15,01m14,15 15,01 14,15 15,01m14,15 15,01 14,15 15,01"m 14,15 15,01mm mm14,15 15,01 mm14,15 
+15,01;
+15,01;AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01;                     ### CRiME iN PROGRESS NETWORK ###
+15,01;                          Nodelist #8 (08/18/94) 
+15,01;AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01;
+15,01;                          -/- iLLEGAL EMBASSY -/-
+15,01;                               513-923-4954
+15,01;                       CiPNet WHQ (18:18/0) Main Hub
+15,01;                           Tron - Net Staff Member
+15,01;
+15,01;         -/- CELL BLOCK 4 -/-                    -/- Stellar Nights -/-
+15,01;             815-282-8732                             610-896-9140
+15,01;          CiPNet Cen. US Hub                        CiPNet E. US Hub
+15,01;             (18:815/0)                                (18:610/0)
+15,01;  Malicious Intent - Net Staff Member         The Wizard - Net Staff Member
+15,01;
+15,01;   NOTE TO SYSOPS! - If you are the first or only board listed in your
+15,01;                     area code, and are listed as a HOST, and then on the
+15,01;                     next line listed as a ,1, you could use 18:xxx/0  OR
+15,01;                     18:xxx/1. BUT, we need to know which one you choose.
+15,01;                     We default with /0 meaning HUB for your area, but
+15,01;                     we can change that if notified.
+15,01;
+15,01;AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01Zone,18,CiPNet_WHQ,CiPNet_OH,Tron,1-513-923-4954,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 201 - New Jersey  |
+15,01;
+15,01Host,201,201_Hub,CiA_Board,Napalm,1-201-934-5618,9600,XT,CM,V32B,V42B
+15,01,1,Apocalypse,CiA_Board,Napalm,1-201-934-5618,9600,XA,CM,V32B,V42B
+15,01,2,Lords_of_the_Underground,CIP_Board,Dionysys,1-201-267-4001,9600,XQ,CM,V32B,V4
+15,012B
+15,01;
+15,01;   |  Region 203 - Connecticut  |
+15,01;
+15,01Host,203,203_Hub,Stratford_CT,Hawk,1-203-386-0246,9600,XT,CM,V32B,V42B
+15,01,1,The_WarezHouse,Stratford_CT,Hawk,1-203-386-0246,9600,XT,CM,V32B,V42B
+15,01;
+15,01;   |  Region 215 - Pennsylvania  |
+15,01;
+15,01Host,215,215_Hub,CiA_Board,Targa_Phantom,1-215-493-6282,9600,XT,CM,V32B,V42B
+15,01,1,Tactical_Command_2,CiA_Board,Targa_Phantom,1-215-493-6282,9600,XT,CM,V32B,V42
+15,01B
+15,01,2,Arcadaes,CiA_Board,Drakkhen,1-215-295-0178,9600,XT,CM,V32B,V42B
+15,01,3,Underground_Outpost,CiA_Board,Spanky,1-215-493-7703,9600,XT,CM,V32B,V42B
+15,01,4,The_Futile_Frontier,RaVE_Board,Jay,1-215-943-1309,9600,XT,CM,V32B,V42B
+15,01;
+15,01;   |  Region 312 - Illinois |
+15,01;
+15,01Host,312,312_Hub,Chicago_IL,Hitman,1-312-745-7899,9600,XA,CM,V32B,V42B
+15,01,1,The_Squared_Circle,Chicago_IL,Hitman,1-312-745-7899,9600,XA,CM,V32B,V42B
+15,01,2,Falcon's_Nest,Chicago_IL,FaLcoN,1-312-604-8940,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 313 - Michigan  |
+15,01;
+15,01Host,313,313_Hub,CiA_Board,Dalamar_the_Dark,1-313-721-7731,9600,XA,CM,V32B,V42B
+15,01,1,Mental_Gridlock,CiA_Board,Dalamar_the_Dark,1-313-721-7731,9600,XA,CM,V32B,V42
+15,01B
+15,01,2,Digital_Distortion,DoPE_Board,Ares,1-313-420-1032,9600,XA,CM,V32B,V42B
+15,01,3,Cause_&_Effect,CiA_Board,Aarzak,1-313-451-9974,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   | Region 404 - Georgia  |
+15,01;
+15,01Host,404,404_Hub,DoPE_Board,Illusion_2,1-404-928-2072,9600,XT,CM,V32B,V42B
+15,01,1,Chains_of_Destruction,DoPE_Board,Illusion_2,1-404-928-2072,9600,XT,CM,V32B,V4
+15,012B
+15,01;
+15,01;   |  Region 405 - Oklahoma  |
+15,01;
+15,01Host,405,405_Hub,DoPE_Board,False_God,1-405-677-6910,9600,XA,CM,V32B,V42B
+15,01,1,Terminal_State,DoPE_Board,False_God,1-405-677-6910,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 414 - Wisconsin  |
+15,01;
+15,01Host,414,414_Hub,CiPNet_WI,Mr_Corruption,1-414-463-9556,9600,XT,CM,V32B,V42B
+15,01,1,Corrupted_Society,Milwaukee_WI,Mr_Corruption,1-414-463-9556,9600,XT,CM,V32B,V

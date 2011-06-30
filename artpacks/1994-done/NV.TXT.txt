@@ -1,0 +1,16 @@
+15,01  
+15,01   OK, whats up folks. Just thought I would take this time to give MindCrime
+15,01 a great big pat on the back for creating such a neat viewer in such a short
+15,01 period of time. I would also like to thanks Cyber-Tike for his help in the
+15,01 beginning (Yes, I am still doing that Velocity menu set:) ). Well, I guess
+15,01 NationView is pretty self explanatory. This month we left out the RIP code
+15,01 and other Graphic formats code because you guys were going insane waiting
+15,01 for this thing:) They will be featured next month however. It will probably
+15,01 be pretty buggy but hell, if it views the ansis then it works in my opinion.
+15,01 Eventhough we lack a few features we made up for it with some features that
+15,01 no other viewer has ever dabbled in. So, enjoy the pack and if you have any
+15,01 comments or suggestions for future versions of NationView we would really
+15,01 love to hear them. Oh yea, while you are viewing an ansi you can toggle
+15,01 iCE Color, Grey Scale, and Ascii Mode by hitting the key that corresponds
+15,01 to the option. That wasn't in the help file so just thought I'd let you
+15,01 know:) OK, I'm outta here.

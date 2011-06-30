@@ -1,0 +1,27 @@
+15,01       14the Blitzkrieg
+
+13,01What mak06es t00he blitz?
+13,01It is th06e st00uff of whic06h dre13ams are made.
+13,01This is 06not 00all, for
+00,01   13it is 06a t00hought crea06ted i13n the mind.
+13,01A blitz 06of t00he mind,
+13,01a part o06f ni00ght,
+13,01contrive06d in 00day,
+13,01created 06at n00ight.
+
+13,01A violen06t ex00pression
+15,01     13of 06the 00creativity 06of ma13nkind,
+13,01yet a st06rang00e appeal to
+15,01     13the 06ima00gination.
+13,01More tha06n wa00r, in the m06inds 13of many,
+13,01always m06ore 00than what i06t see13ms.
+
+13,01To a chi06ld i00t is a play06thing 13idle,
+13,01for a hi06stor00ian a book 06waiti13ng to be written.
+13,01Strange 06as a00lways to th06e unt13rained eye,
+13,01but appa06rent 00always to 06the e13ducated mind.
+
+15,01                              06[13Apothecary06]
+
+15,01>SAUCE00Blitzkrieg                         Apothecary          READ THE INI FILE
+15,01   19941201>x  @@P v                             

@@ -1,0 +1,78 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :   October Update *   November 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file(s) ACID-52?.ZIP are only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-52   NFO|   5540 |11.01.96 |%+   |Acquisition Information File    |
+15,01*|2  |ACID-52   XB |  14699 |11.01.96 |%+   |November Member/Site Listing    |
+15,01*|3  |ACIDAPP   EXE|  45307 |08.01.96 |%    |ACiD Application Generator V2.1 |
+15,01*|4  |ACIDVIEW  DAT| 125438 |09.01.96 |%    |ACiD View BGI/RIP font data     |
+15,01*|5  |ACIDVIEW  EXE| 122037 |09.01.96 |%    |ACiD View V4.30                 |
+15,01*|6  |ACIDVIEW  NFO|  51993 |09.01.96 |%+   |ACiD View Documentation         |
+15,01*|7  |FILE_ID   DIZ|    562 |11.01.96 |%    |Acquisition FILE ID by {KHZ}    |
+15,01*|8  |POSTCARD  JPG| 184621 |11.01.96 |%    |Postcards!                      |
+15,01*|9  |POSTCARD  NFO|   3603 |11.01.96 |%+   |Postcards! Contest Information  |
+15,01*|10 |KH-SFISH  ANS|  35066 |11.01.96 |%+   |Skullfish                       |
+15,01*|11 |N4-ACID1  ANS|  18255 |11.01.96 |%+   |Star Wars Tribute - Boba Fett ..|
+15,01*|12 |OK-DARTH  ANS|  10975 |11.01.96 |%+   |Star Wars Tribute - Darth Vader |
+15,01*|13 |EV-JAG    ASC| 114062 |11.01.96 |%+   |Jagoff                          |
+15,01*|14 |B1-TSG    JPG|  32165 |11.01.96 |%    |The Shallow Grave               |
+15,01*|15 |BN-BAMO   JPG| 151507 |11.01.96 |%    |Bad Monkey                      |
+15,01*|16 |CS-DARTH  JPG|  42478 |11.01.96 |%    |Star Wars Tribute - Darth Vader |
+15,01*|17 |J1-DUSTC  JPG| 108221 |11.01.96 |%    |Dust Chaos                      |
+15,01*|18 |KJ-BOBA1  JPG|  44401 |11.01.96 |%    |Star Wars Tribute - Boba Fett   |
+15,01*|19 |KO-JBBA   JPG|  92160 |11.01.96 |%    |Star Wars Tribute - Jabba The Hu|
+15,01*|20 |PR-RUST   JPG|  48638 |11.01.96 |%    |Rusted                          |
+15,01*|21 |QS-ACID3  JPG|  54681 |11.01.96 |%    |ACiD Advo                       |
+15,01*|22 |TQ-PEYOT  JPG|  63899 |11.01.96 |%    |Peyote Sands                    |
+15,01*|23 |BM-ANGEL  RIP|  23285 |11.01.96 |%    |Blue Angel                      |
+15,01*|24 |ST-GOD2   RIP|  49888 |11.01.96 |%    |God Slayer                      |
+15,01*|25 |ST-PEYOT  RIP|  29553 |11.01.96 |%    |Peyote Sands                    |
+15,01*|26 |ST-YODA   RIP|  45406 |11.01.96 |%    |Star Wars Tribute - Yoda        |
+15,01*|27 |US-JEDI   RIP|   7121 |11.01.96 |%    |Star Wars Tribute - The Admiral |
+15,01*|28 |WC-PX     RIP|  15524 |11.01.96 |%    |Project X                       |
+15,01*|29 |WE-WILL   SUE|   1531 |11.01.96 |%+   |ACiD Legal Disclaimer           |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net): 29       Total Bytes: 1,542,620                 |
+15,01|                                      Average Of Bytes/File: 53,194          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

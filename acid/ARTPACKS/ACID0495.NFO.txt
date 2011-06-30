@@ -1,0 +1,80 @@
+15,01                                        "#
+15,01                        mmm"#         mmm mmm             mmm m #
+15,01                   mm14,15  #  15,01|      mm14,15  #  15,01||14,15 00,01@14,15#15,01|      mm14,15  15,01"14,15   15,01mmm
+15,01               mm14,15  15,01"" 14,15 00,01@14,15  15,01   mm14,15  15,01"" 14,15 00,01@14,15  15,01  "14,15#15,01" m14,15 15,01"#m14,15  15,01m14,15  15,01    14,15 00,01@14,15 15,01|
+15,01             m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01    m14,15  15,01| |" 14,15 15,01 14,15# 15,01    14,15 15,01#14,15# 
+15,01            |" 14,15 15,01 14,15# 15,01  m14,15 00,01@14,15  15,01|" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01| m"14,15 15,01m14,15 15,01|    14,15 15,01#14,15  15,01    14,15 00,01@14,15  
+15,01               14,15 15,01#14,15  15,01m"m"00@14,15  15,01   14,15 15,01#14,15  15,01     """m  14,15 15,01 14,15# 15,01    14,15 00,01@14,15  15,01    "00@14,15  
+15,01-------------- 14,15 00,01@14,15  15,01m14,15 15,01"14,15 #  15,01   14,15 00,01@14,15  15,01 m"m       14,15 15,01#14,15  15,01    14,15 00,01@14,15  15,01    14,15 #  15,01 --------------
+15,01ACiD ACiD ACiD 14,15 00,01@14,15  15,01   14,15 #  15,01   14,15 00,01@14,15  15,01   14,15   15,01m #m 14,15 00,01@14,15  15,01 m  14,15 #  15,01    14,15 #  15,01 iNFO iNFO iNFO
+15,01-------- #m -- 14,15 #  15,01   14,15 #  15,01   14,15 #  15,01   14,15 00,01@14,15  15,01"m "14,15 #  15,01m|| 14,15 #  15,01m   14,15 #  15,01 --------------
+15,01               14,15 #  15,01   14,15 15,01m14,15  15,01   14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01  #m "14,15 00,01@14,15# 15,01  14,15 #  15,01"   14,15 15,01m14,15  
+15,01               14,15 #  15,01  m m14,15  15,01|  14,15 #  15,01" m m14,15  15,01|  |14,15#15,01m 14,15#15,01" m|14,15   15,01||14,15  15,01m||14,15  15,01| #"
+15,01             m14,15  # 15,01 m14,15#15,01| |14,15 15,01" m14,15  # 15,01 m14,15#15,01| |14,15 15,01"    00@15       14,15   15,01  14,15 00,01@14,15#   15,01"
+15,01          #"  |14,15   15,01  00@15  "    |14,15   15,01  00@15  "      #       |14,15 15,01|   14,15#15,01"
+15,01               14,15  15,01   #        14,15  15,01   #         | .      "14,15 15,01   00@15  pe/fm
+15,01                "|  #         "|  #    #               "  #
+15,01X.  "So we beat             m    00@15         |          .     on, boats against
+15,01    the current.   Borne            .          #  .      back     ceaselessly
+15,01    into the past"  (F. Scott         #               Fitzgerald).   The end-
+15,01    less struggle of  ACiD Productions continues into the future with the re-
+15,01    lease of  The  April  1995  Acquisition.  With  every  release, ACiD Pro-
+15,01    ductions not only continues to  maintain its position as a dominant force
+15,01    in the art scene, but we also continue to set precedents.
+
+15,011.  Most recently, we have seen all of  the  inferior art groups mimic ACiD's
+15,01    unique tradition of an  "April Fool's Pack".  One  of  these followers is
+15,01    iCE, who released  their  parody  pack  in  which  they showcased some of
+15,01    their silliest work ever!  This  is  just  one  of the many examples that
+15,01    sets the rest apart from the best.
+
+15,011K. During the past month, ACiD  has  undergone  many  changes, these include
+15,01    the loss of many members and  the  addition  of  new members all mixed in
+15,01    with a bit of drama and excitement.
+
+15,011X. Our first bit of news is  the  sudden  departure  of Formic Acid who left
+15,01    by mutual agreement  and  hostile  feelings  towards  Smooth.  Most of us
+15,01    concur that these feelings  of  jealousy  arose  after  Smooth was chosen
+15,01    to be RIP Coordinator  even  though  everyone  knew  that FM was the most
+15,01    qualified.  Anyhow,  Formic  leaves  and  moves  on to form his own "VgA"
+15,01    group called Ambulance.
+
+15,012.  Next, is Stone the Crow who has  decided  to  take a break from the scene
+15,01    because he will be bedridden  for  the  next  month  due  to an emergency
+15,01    liver transplant.  Get well soon STC!
+
+15,013.  Asian Knight was recently  approached  by  a musical group called Nelson.
+15,01    Originally,  he planned to  leave  ACiD  in  order to pursue a  full time
+15,01    career in singing terrible  music  and  growing out his long blonde hair.
+15,01    Fortunately, AK decided not to  join  the music business, thus he remains
+15,01    a member of ACiD.
+
+15,014.  Corwin of Amber was recruited  by  a  new  group called Sealy to be their
+15,01    official conference  sleeper.  Sealy  is  a  young  uprising  group which
+15,01    provides the best upper back  and  lower  lumbar  support around.  Corwin
+15,01    has not yet decided to take the position.
+
+15,015.  In other news,  Icy has not  been heard  of  in the last few weeks.  Many
+15,01    suspect that he has  taken  a  break  from  the  scene  in order to spend
+15,01    more time with  his  new  girlfriend,  Amanda.  Others swear that Icy and
+15,01    his girlfriend are in  the  process  of  making  secret negotiations with
+15,01    Alka Seltzer.
+
+15,016.  VGA Artist,  Typhus,  has  been  demoted  to  courier.  When  hearing the
+15,01    news,  Typhus  emphatically  exclaimed,  "[How] Can you do dis?  You  can
+15,01    have someone come down and just knock it ova'?"
+
+15,017.  In an off-the-wall story,  RedMaN and Blue Gravity have decided that they
+15,01    are  bored  of  the  same  old  colors.  Therefore,  from  now  on,  they
+15,01    will  be  known  as  ReD  Gravity  [RG]  and  BlueMaN  [BM].   After  the
+15,01    announcement,  BlueMaN  commented,  "We just wanted to add a little color
+15,01    to the scene?"  He  continued  with  a  somewhat odd statement by saying,
+15,01    "Play the  bongos  on  your  stomach  and  make  sounds  like  a monkey."
+15,01    Following these words, he announced that his new handle will be Raoul.
+
+15,018.  The famous VGA artist Cat was recently arrested in Kansas for illegal use
+15,01    of a tattoo needle.  It  is  reported  that he tried to tattoo a hi-liter
+15,01    pen  on  one  of  his   customer's   hands.  This   was  obviously  Cat's
+15,01    way of displaying his  anti-social  attitude  since it is obvious that he
+15,01    used the idea of a yellow hi-liter mark in order to satirize the mindless
+15,01    club-going youths throughout  the  world.  For  some  reason, whenever he

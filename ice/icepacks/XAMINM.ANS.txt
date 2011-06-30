@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+15,01                                04XAMINE ACCOUNTS
+
+
+15,01                           (04D14)00Find Duplicate Accounts
+15,01                           (04I14)00Find Inactive Users
+15,01                           (04Q14)00uit back to Sysop Menu

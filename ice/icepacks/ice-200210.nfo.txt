@@ -1,0 +1,80 @@
+15,01iCE PACK 10/2002 NFO File by iCE Staff
+15,01Converted to ASCII text by RaD Man of ACiD Productions (www.acid.org)
+15,01HTML version available at http://www.ice.org/fullGallery.php?year=2002&month=10
+
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    O   C   T   O   B   E   R           2   0   0   2
+15,01---------------------------------------------------------------------
+15,011. Just like Heinz Ketchup (http://root88.ice.org/root.jpg), we're a little
+15,01   slow out of the bottle this month.  We would like to blame Neitzsche for
+15,01   the delay.  And since we have no new members this month, we might as
+15,01   well toss some more love towards J-Tec.
+
+15,012. We did a massive server migration this month across the US to our new
+15,01   server, mango.ice.org, as hinted in last month's interview.  After
+15,01   Slothy's move out to California from Virginia, the iCE server was
+15,01   feeling blue and missed him.  So Farmy put together a new spankin
+15,01   server out in California on an even fatter pipe.  Hopefully the site
+15,01   feels faster now.  But we must point out that Farmy is possibly the
+15,01   greatest person in the world.  Even though ever since he was audited by
+15,01   the IRS when he was 15, he does get a little TOO excited when people
+15,01   ask for shell accounts.
+
+15,013. Much like Heinz Ketchup, Darkmage has even more snakes in his yard.  And
+15,01   Greater Evil is working on contracting the Black Death in time for
+15,01   Christmas.  Hey, speaking of Christmas, guess what the most popular
+15,01   product on our Christmas lists is?  That's right, Krispy Kreme donuts!
+15,01   Unfortunately they don't ward off speeding tickets...
+
+15,014. We're all gunning for Stereophoenix, who, like Heinz Ketchup, comes in
+15,01   a new squeezable container as part of a fresh marketing perspective.
+15,01   Thankfully, though, Stereophoenix isn't being sold in a frightening
+15,01   green color!  And he doesn't have much in common with the random guy who
+15,01   comes from 90 degrees away to grab Jason and piggyback him through the
+15,01   atmosphere in Jason X.
+
+15,015. iCE has some big and exciting new plans for our website in the coming
+15,01   months.  We would love to get one or two guys or gals to help with
+15,01   bringing it all together.  So if you are a web coding guru who would
+15,01   love to be a part of our little family (and know how to find your way
+15,01   around a MySQL database), drop us a line at apply@ice.org with a bit
+15,01   about yourself and some sites you've done.
+
+15,016. Halloween is really creepy and scary, which makes totally unlike Heinz
+15,01   Ketchup.  This is different from "hell on earth" though, which
+15,01   apparently describes TonchyZ's school as of late.  I bet they don't
+15,01   serve Heinz Ketchup there...
+
+15,017. Did you know that in Swedish, the term used for bullshitting is
+15,01   literally translated as "word shitting" ? If you're a member of the
+15,01   awesome DeviantArt, our apologies if this is old news.
+15,01   (http://web.archive.org/web/20030613144558/http://www.ice.org/~slothy/oldnews
+15,01.jpg)
+
+15,01Happy Halloween, Root88, Trip and Slothy
+
+
+15,01-------------------------------------------------------------------------------
+15,01          Lord Soth                    Root88                    Trip
+15,01-------------------------------------------------------------------------------
+15,01>SAUCE00iCE PACK 10/2002 NFO File          iCE Staff           iCE Advertisement
+15,01s  20021031J<  @ P N                             

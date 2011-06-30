@@ -1,0 +1,80 @@
+15,01                                           mmmm
+15,01                                         m00,15m00,00    00,15m15,01m
+14,08#######################################08,01m 15"00,15"00,00    00,15"15,01" 14,08#############################
+14,08#####08,01"""14,08###08,01""""14,08########08,01""""14,08##########08,01""15m08"mm15"""" 14,08######08,01""""14,08#########08,01"""14,08###08,01""""14,08##
+08,01 15mmmm00,15mm14 15,01 mm00,15mmmm15,01m     mm00,15m 14 00m15,01mm      mm00,15mm14 15,01  mmm00,15mm14 15,01m   mm00,15mmmm15,01mm   mmmm00,15mm14 15,01 mm00,15mmmm15,01m
+15,01 |14,00    00 14,15  15,01"|00,15|00,00    14,15 15,01  m00,15m00,00  00,15|15,01||00,15|00,00  00,15m15,01m mm14,15 14,00   00 14,15 15,01mm|14,00   00 14,15 15,01" m00,15m00,00  00,15|15,01||00,15|00,00  00,15m15,01m |14,00    00 14,15  15,01"|00,15|00,00    14,15 
+15,01 |14,00     00,15 15,01  14,15 00,00     00,15 15,01 00,15 m00,00   00,15 15,01  00,15 00,00    00,15 15,01  |14,00    00,15 15,01  |14,00    00,15 15,01 00,15 00,00    00,15 15,01  00,15 00,00    14,15 15,01|14,00     00,15 15,01  14,15 00,00     00,15 
+15,01 |14,00     14,15 15,01  14,15 00,00 14    14,15 15,01 """""   15,15 00,00    00,15|15,01| |14,00    14,15 15,01  |14,00    14,15 15,01|00,15|00,00    00,15 15,01  00,15 00,00    00,15 15,01|14,00     14,15 15,01  14,15 00,00 14    14,15 
+15,01 |14,00     14,15 15,01  14,15 14,00     14,15 15,01 m00,15mmmm14 15,01" 15,15 00,00    00,15|15,01| |14,00    14,15 15,01  |14,00    14,15 15,01|00,15|00,00    00,15 15,01  00,15 00,00    00,15 15,01|14,00     14,15 15,01  14,15 14,00     14,15 
+15,01 |14,00     14,15 15,01  14,15 14,00     14,15 15,01|00,15|00,00    00,15 15,01  00,15 00,00   14 00,15|15,01| |14,00    14,15 15,01  |14,00    14,15 15,01 14,15 00,00    00,15 15,01  00,15 00,00   14 14,15 15,01|14,00     14,15 15,01  14,15 14,00     14,15 
+15,01 |00,00 14    14,15 15,01  14,15 14,00     14,15 15,01|14,15 00,00    00,15|15,01|m|00,15|00,00   00,15|15,01| |00,00  14  14,15 15,01  |00,00  14  14,15 15,01  14,15 00,00   00,15|15,01||00,15|00,00   14,15 15,01 |00,00 14    14,15 15,01  14,15 14,00     14,15 15,01|
+15,01m00,15m00,00     14 00,15m15,01m 14,15 14,00     14,15 15,01 "00,15""00,00  00,15 15,01 |00,15|00,00   00,15|15,01| |00,00   00,15"14 15,01  |00,00    14 00,15m15,01m ""00,15""00,00  00,15""15,01"" m00,15m00,00     14 00,15m15,01m 14,15 14,00     14,15 
+15,01""""""""""" """""""   ""   """""" |00,15""15,01""   """""""      ""    """""""""""" """"""
+14,01" We even stay crunchy in milk! " 15"             14deeply disturbed nation....
+14,01--------------------------------------------------------------------------------
+15,01                00N a t i o n   0 7 - 9 4   I n f o   U p d a t e
+14,01--------------------------------------------------------------------------------
+
+
+15,01     0007/94
+00,01    14-------
+
+15,01      Greetings and salutations all you catatonic ansi schmuckwads! Maestro
+15,01    here to tickle your nogg'n a little with this months Nation Extravaganza
+15,01    Info. As most of you know, last months Extravaganza was quite a success.
+15,01    Well it just keeps getting better and better. We're here again with
+15,01    another great pack of artwork for you to gander at. We've listened to
+15,01    some of your suggestions, and have even implemented some of them into the
+15,01    production of this months release. We cannot stress enough how important
+15,01    your comments and suggestions are. Please do not hesitate to let us know
+15,01    what's on your mind regarding each months Nation release. Before I move
+15,01    on to the announcements I'd like to reiterate some information pertaining
+15,01    to the actual application progress involved in becoming a Nation member.
+15,01    The progress is very simple, call the WHQ and leave some feedback with
+15,01    some information that we could get back to you with, plus some samples of
+15,01    your work (Ansi,VGA,Program,etc). If we are interested, we will get back
+15,01    to you immediately. If we don't contact you within a week, my advice to
+15,01    you would be to re-apply again at a later date. However, if wanted, we
+15,01    will take the time to answer any questions you have regarding your
+15,01    application. We encourage everyone to give it a shot, after all, you
+15,01    never know until you try.
+
+
+15,01     00Announcements  07/94
+00,01    14----------------------
+
+14,01    00114.  15This month we debut the very first issue of Poop! Which I'm sure
+15,01        you know about because you wouldn't be reading this right now if
+15,01        you didn't. We will release an issue of Poop in the Nation
+15,01        Extravaganza every two months. Poop is closed to Nation members
+15,01        only, soooo nanny nanny boo boo. You can't be in Poo poo!
+
+15,01    00214.  15This month we also debut the very first Yuck! packet. If you are
+15,01        not familiar with Yuck! I will take this time to enlighten you.
+15,01        On an occasion we will release a collection of various Nation
+15,01        artists first ansis. Most of these are never before seen pieces
+15,01        of crap.. Err.. I mean art, that marked the beginning of some of
+15,01        the many talented artists we have here in Nation today. Now, we
+15,01        hope that the Yuck! pack will not only humor you, but motivate
+15,01        some of the newer beggining artists. To show that everyone has
+15,01        the potential to become one of the greats.
+
+15,01    00314.  15This month Sociopath and I have decided to take our hardcore
+15,01        anti-drug viewpoints to the next level and have created
+15,01        Proclaim. If you would like to get involved with Proclaim it
+15,01        is very simple. All you have to do is be drug free. We don't
+15,01        care what group you are in or not in, or what you do. Just
+15,01        pop it in your sig and you are an honorary member. And if you
+15,01        run a board you get to be really cool and be a Proclaim Member
+15,01        board! Zonkers!
+
+15,01    00414.  15This month we gained four new members. 08Swami 15came over from iCE
+15,01        to help out with some of the Administrative responsibilities
+15,01        on the American side. 08Vector15, formerly of Empire, came over to
+15,01        help us out in the area of VGA coding. 08Lord Vice15, a newcomer to
+15,01        the ansi art scene joins up from nowhere as one of our newest
+15,01        ansi artists. And finally, 08Asian Knight 15comes to us from Imperial
+15,01        to show off some of his great ansi art. A big warm welcome goes
+15,01        out to all of them.
+

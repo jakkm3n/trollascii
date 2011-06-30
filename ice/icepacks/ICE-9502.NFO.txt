@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. Howdy everyone, this    m    00@15         |          .    is  Lord Soth here,
+15,01    delivering your monthly               #     .       iCE Pack.   This month
+15,01    has witnessed Tempus getting     #              in  a  car  accident, Soul
+15,01    Rebel losing close friends in a        car accident, and hardly comparable,
+15,01    hard drive crashes by Deeply Disturbed,  Golgotha, and Incubus.   Our Best
+15,01    goes out to Tempus and especially Soul Rebel.  As for DD, GL, and IN, feel
+15,01    free to contact us if you want to  send them complimentary Tape Backups :)
+15,01    I hope all our little  problems don't reflect in the quality of  the pack.
+
+15,01 2. New Members:  We'd all  like to  welcome (in alphabetical  order):  Argon,
+15,01    Frog,   Future   Assassin,   Hfaze,   Magnetic  M,    Neurotic,    Skitzo,
+15,01    Tonedef, and finally Veks.
+
+15,012X. This month  saw the  departure of Zer0,  who had some other things to tend
+15,01    to in his life.
+
+15,01 3. There are some great VGAs that aren't viewable yet in iCEView.   These are
+15,01    the  all  the  JPGs:  IX-ONE.JPG,  IX-TWO.JPG,  LO-ICE01.JPG,  TD-FC1.JPG,
+15,01    TD-FC2.JPG, TD-JOURN.JPG, and finally CG-TERMT.JPG.
+
+15,01 4. This month there are two major changes in the Senior Staff section.   Both
+15,01    Shaggy and Pnakotic  have stepped down.   Pnakotic  feels he  doesn't have
+15,01    enough time,  as much as he  would like to remain  Senior Staff.   In case
+15,01    you're worried,  he still finds Shaggy and myself very attractive.  Shaggy
+15,01    has  stepped down to an Advisor  position,  ending his two-and-a-half year
+15,01    Senior Staff career  (for those who don't know, Shaggy used to be known as
+15,01    Metal Head).  Fear not fair maidens, neither Pnakotic nor Shaggy will stop
+15,01    drawing.
+
+15,01 5. I want to apologize for not listing in last month's pack that Sanctuary(tm)
+15,01    has changed numbers.   The new number for  Sanctaury(tm), the iCE World HQ,
+15,01    is 305-340-SUCK.
+15,01              (7825)
+
+15,01 6. We  have a couple  big coding  announcements!   First  off, we are  finally
+15,01    unveiling  our  new viewer,  iCEView.  Cheers out to Friar Tuck for working
+15,01    so  damn hard  on this, and no,  this is  definately  not the last  version
+15,01    you'll see.   Also, due to  problems with  people adding virii to the packs
+15,01    and  spreading them,  this pack sees  the  implementation  of CRC checks on
+15,01    executable files.   You can  check all  the executable  files  in the packs
+15,01    by  typing  CRCCHECK *.EXE.   It also will be  used on COM files,  although
+15,01    in this pack  there are no COM files.   If any of  the executables fail the
+15,01    CRC  check,  you can call  any of the  iCE Headquarter Boards  and download
+15,01    the pack  for yourself.   We guarantee  that the pack on  these boards will
+15,01    be virus  free.  If you  find any bugs in  iCEView, email  friar@netcom.com
+15,01    with  the  subject  "iCEView Bug" and then  send a  filled-out  ICEVIEW.BUG
+15,01    (which is included in the pack).   If you  have problems  getting your SVGA
+15,01    card to work with iCEView, try running UNIVESA (also included in the pack).
+
+15,01 7. For those of you who are Web Browsers, iCE now has a WWW Homepage at
+15,01       http://www.wit.com/~ice
+15,01    Isosceles has a Homepage at http://www.io.org/~iso
+15,01    Tonedef has a Homepage at http://192.96.7.160/~kon
+15,01    ImageX has a Homepage at http://www.rtd.com/~imagex/index.html
+15,01    Cheese Grater has a Homepage at
+15,01       http://ftp.netcom.com/pub/cg/cgrater/index.html
+15,01    Finally Friar Tuck has a Homepage at http://www.cs.alfred.edu/~sparkssc
+
+15,01 8. I want to  thank all the iCE guys again  this month for doing  such a great
+15,01    job!   You all get my "groovey-people"  award for this month.   Keep up the
+15,01    great work guys! and Anarchy!
+
+15,01                                               - Lord Soth

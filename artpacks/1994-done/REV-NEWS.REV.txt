@@ -1,0 +1,80 @@
+13,01m14,13 13,01"14,13 13,01 m13,13 13,01"14,13 13,01 m14,13 13,01 14,13 13,01 m14,13 13,01"14,13 13,01 m14,13 13,01 14,13 13,01"m14,13 13,01  12m12,12 12,01"12,12 15,01 12m12,12 12,01"14,12 12,01 m12,12 15,01 12,12 15,01 12,12 15,01 12m12,12 12,01"14,12 12,01 m12,12 12,01"  m12,12 12,01"14,12 12,01 14,12 12,01"m12,12 15,01 14,12 12,01"m12,12 15,01 12m12,12 12,01"14,12 12,01 m12,12 12,01"14,12 
+13,13#14 13,01   13,13# 15,01   13,13# 15,01 13,13#15,01 13,13# 15,01 13,13#15,01 13,13# 15,01   13,13# 15,01  12,12# 15,01 12,12#15,01 12,12# 15,01   12,12# 15,01 12,12#15,01 12,12#15,01 12,12# 15,01   12,12# 15,01   12,12# 15,01     12,12# 15,01   12,12# 15,01 12,12# 15,01   12,12# 
+04,04@13,13#15,01   04,04@13,13#13,01"  04,04@13,13#15,01 04,04@15,01 04,04@13,13#15,01 04,04@15,01 04,04@13,13#15,01   04,04@13,13#15,01  02,02@12,12#15,01 02,02@15,01 02,02@12,12#12,01"  02,02@12,12#15,01 02,02@15,01 02,02@15,01 12""02,02@12,12#15,01 02,02@12,12#15,01   02,02@12,12#12,01"    02,02@12,12#15,01   02,02@12,12#15,01 02,02@12,12#12,01"  02,02@12,12#
+13,04#04@15,01   13,04#04@15,01 04m 13,04#04@15,01 13,04#15,01 13,04#04@15,01 13,04#15,01 13,04#04@15,01 04m 13,04#04@15,01  12,02#02@15,01 12,02#15,01 12,02#02@15,01 02m 12,02#02@15,01 12,02#15,01 12,02#15,01 02m 12,02#02@15,01 12,02#02@15,01 02m 12,02#02@15,01 02m   12,02#02@15,01   12,02#02@15,01 12,02#02@15,01 02m 12,02#02@
+04,01"|   " ""  ""  " "" " "" "   02"  " " "" " " "  """  " "" " ""   "    "  " "" "
+14,01--------------------------------------------------------------------------------
+14,01 04|
+15,01             00The Revolt Newsletter #01 Completed on May 31st, 1994
+00,01 04.
+15,01                            Section 1 o The Founding
+
+15,01      14As of 05/04/94, at approximately 9:30 PST, the literary group Revolt
+14,01was founded...
+15,01      14Woohoo.
+15,01      14As far as organization is concerned, Liquidator and I have been
+14,01up all night trying to initiate the group, and Liquidator is getting
+14,01the sites and handling the member recruiting...
+15,01      14The World Headquarters is Dimension X, and that is where most of the
+14,01activity will take place as far as discussions / compilation / releases.
+14,01In the future we may have a Couriering Headquarters, but that is not needed
+14,01at this time.
+15,01      14One thing I am trying to avoid in the formation of this new lit group
+14,01is a pack delayal.. The packs will be out on the 1st of the month, whether I
+14,01or anybody else likes it or not. That is the set date, and thats the way things
+14,01are gonna go.
+15,01      14Right now we need more poets and sites. All applications should go to
+14,01Dimension X at (805)499-6865... Send 3 or more lits in a zipfile once you
+14,01are validated and your name and number or VMB, and I'll look over the lits
+14,01and tell you whats up with the decision...  Personally I'm looking for poetry
+14,01that portrays and image, or a meaning, and projects a feeling or emotion.
+14,01Those are the poems that will catch my attention. Rhyme, rhythm, and general
+14,01sound of the poem is not as important to me as meaning.
+
+15,01                             Section 2 o The Group
+
+15,01      14Resident members, start writing.. Short stories, essays, and articles
+14,01will also be accepted for submission.
+15,01      14Thanks go out to Gnome for making me an awesome revolt font. I really
+14,01appreciate it... and to Psyber for accepting an article about Revolt in the
+14,01upcoming DAMAJ magazine.
+15,01      14Great poets to look for this month: Liquidator, The Fugitive, and Faust
+14,01(although his stuff is a bit morbid, its good)...
+15,01      14Of course, that doesn't mean you should skim by the others.. The poets
+14,01I listed up there are currently the ones who gave me the best submissions and
+14,01are also new..(except for The Fugitive, but he's not really in the scene anyways
+14,01save for a few random calls here and there. Nevertheless, It's great to have
+14,01him in the group)
+15,01      14Good lit's to look for this month: AR-DEATH.REV, AR-TWIL1.REV (if you
+14,01got like an hour to read it), TF-SYSTX.REV, ALL of Liquidator's lits, and
+14,01all of Faust's lits...
+15,01      14Yay! I just finished the review for Blur Magazine issue #2... I hope it
+14,01gets submitted..
+15,01      14Argh.. I'm droning on and on.. Well, if you got this far without falling
+14,01half-dead asleep (hell im falling asleep too..) I just wanted to say that all
+14,01in all, we hope this literature gets spread all around the nation/world/universe
+14,01and I personally hope all the members in Revolt get the credit adue to them
+14,01for their submission of ALL of this great literature, and remember guyz that
+14,01poetry is poetry, and there is no real rating for it...latuh!
+
+15,01                             Section 3 o The Greetz
+
+15,01      14I just had to do it didn't I... Aren't I a little devious tonight...
+14,01Well if your wondering who the complete moron was that put greets as an actual
+14,01section in the newsletter, its Ash.. <g> nah you guessed it.. yours truly..
+14,01Greets go out to...    (specifically but not exclusivly nor explicitly..)
+15,01Ash 14- snooze... snore.. . hmf... snore... snooze... snore... zzz ... zz...
+15,01Liquidator 14- Thanks for everything... handling the sites, members.. great job.
+15,01Faust 14- greets for whatever you've done that i've so blatantly forgotten.
+15,01Qur'aN 14- Thanks for answering my page, unlike some people...
+15,01Israfel 14- Thanks for ignoring my e-mail about Revolt and joining ACiD lit.. <g>
+15,01Hot Rod 14- ACiD Lit!?!?!?? (=
+15,01Swami 14- see section labeled "15Hot Rod14" ...
+15,01Gnome 14- thanks for callin' me up to remenisce on when our area code was bitchen'
+15,01Psyber 14- [|=^>
+15,01Defiance 14- you didn't do anything, what the hell are YOU doing in the greets? (=
+15,01Ronin 14- thanks for the help with the literature, and for the general criticism.
+15,01Defurhur 14- You still want to get hooked up with us man, you know where to go...
+15,01The Fugitive 14- Greets... many literature curses upon you! (=
+15,01Chaun 14- 09hmhmmhmhmhm,.,,.., hmhmhhmhmmh,,,,.,., me tink u ar lamre,.. |)
+15,01The Assasin 14- You too.

@@ -1,0 +1,67 @@
+
+15,01                                                       14##
+15,01                      14###15                              01@@
+15,01                      01@@@14   ##  ##15                14##   14,14##14,01mmm##
+15,01                02####  14,14###   14,01    01@@14 02####  mmmm15     01@@15      14,15m00,14#14 14,01 02####
+15,01               02|12,02|12,12  14,02 02,01 14|14,14  14,01"" 02mm14,02 02,01  14,14##14,01 14,02 12mmmm14 02,01"""14,02 12mm14 02,01  14,14####14,01   02mm 14"02|12,02|12,12  14,02 
+15,01                14,02 12,12   14,02 02,01 00,14#14,01|02|14,02 12m12,12 #02,01|14|14,14  14,01 02|12,02|12,12 ##02,01"    """14,02 12m02,01|14|14,14  14,01 02|14,02 12m14,12 14,02 02,01#  14,02 12,12   14,02 
+15,01               02,02 12,12###14,02 02,01 14|01,15@14m15,01 14,02 12,12 12,00  12,02|15,01 14,14  14,01| 14,02 12##14 02,01|15     02|12,12  12,02|15,01 14,14   14,01| 14,02 12,12 14 12,02|02,01| 02,02 12,12###14,02 
+15,01               02|02,02 12###02,01|14,15"#15,01 14,02 12,12   14,02#02,01 14|00,14#14,01| 14,02  11##02,01|  ###  12,02|12,12  02,01|14|00,14#14 14,01 14,02 12,12   14,02#02,01  |02,02 12###02,01|
+15,01                14,02 11###14 02,01  14,02 12,12   12,02|02,01| 14,14 01,15@@15,01 02|14,02 10@@@02,01| 12,02mmm15,01 02|12,12  02,01| 00,14#14 14,01 14,02 12,12 14,00  12,02|02,01|  m14,02 11###14 02,01|14,02 02,01 | |
+15,01       02| |14,02 02,01mmm14,02#02,01|14,02 10@@@02,01|m02,02  12|12,12   14,02 02,01 15|14,15##15,01| 14,02 12,11###14,02 02,01 12,00  12,12 12,02mm12,12 12,02 15,01 14,15"#15,01 14,02 14,12    12 14,02 02,01""14,02  10@@@02,01|m
+15,01           02|12,11  11,02mm12,11 ###14,02 02,01"  14,02 12,12  12,02|02,01| 15""" 02|11,02|12,11  11,02|02,01| """14,02##02,01   15""   14,02 12,12  12,02|02,01| 14,02 11m12,11 ###14,02 02,01"
+15,01          02##11,02|10,10  10,11 12   11,02|02,01|  |12,02|12,12  14,02 02,01  00dky 14,02 12,11 10,10  12,11 14,02 15,01        00nph  02|12,02|12,12  14,02 02,01  |11,02|10,11" 12 11,02|02,01|
+15,01           02|11,02""""02,01""14,02##02,01    |12,02|12,12  14,02 15,01      14,02 12,11    14,02 15,01             02|12,02|12,12  14,02 02,01 14,02 11"02,01""14,02##
+15,01           02"15            14,02####15,01      02#""14,02##02,01""15             14,02####
+
+
+15,01                               00n e w z l e t t a h
+
+
+15,01           10hi there! 11wow.. there are so many thingz that changed since
+15,01           11last pack.. that i really dont know what ta begin with.. ok
+15,01           11let's start with membahz.. as the memberlist generally gets
+15,01           11updated each month..
+15,01           10babyloon 11joined as both a coder and an askii artist.. he iz
+15,01           11very active in the demo scene, as he still works for 10zen 11'n
+15,01           10revelation11.
+15,01           114 other coderz joined this month.. 10sandworm11, sysop of 10ghost
+15,01           10city 11and 10defiance 11member.. also drawz ansi/ascii..  whereaz
+15,01           10severe trauma 11codez in ppe/exe/html. 10james11, sysop of the up
+15,01           11coming 10flip bbs11, also joined as ppe coder and ansi artist..
+15,01           11as well as 10cleaner11, sysop of 10the prophecy 11and member of two
+15,01           11other demo groups (10fire dream 11and 10adrenaline pc11) who joined
+15,01           11as ansi/ascii artist and ppe coder.
+15,01           11last but not least, 10mr.splif11, very well known on the french
+15,01           11scene, accepted to join us to make the group representative
+15,01           11of the art scene in france.
+15,01                                         11..ok, here it is for memberz.
+
+15,01           11now let's talk of something of 10great importance11.. nph's zik
+15,01           11section.. yes.. right.. 10kromozome11, founded by 10gOO-r0011.. one
+15,01           11of the 10best french muzik groupz 11joined nph.. as a muzik sub
+15,01           11-label.. you can find the releases under the name of KMZ*.*
+
+15,01           11hey! what a month right? well.. iam quite happy to see such
+15,01           11a group grow up and become kewl.. in a country like 10france11,
+15,01           11where they hadn't been any active art group for long..
+
+15,01           11as i want 10nitrophusion 11to be gr8.. an 10international section
+15,01           11will be opened next month..  in order to bring more quality
+15,01           11artists to contribute to nph packs.. i still want to gather
+15,01           11the french scene.. but doing this is not enough to make nph
+15,01           11good.. we'll also try to release one pack a month.. because
+15,01           11until now.. releases werent numerous =) its gonna 10change11!!!
+
+15,01           11we're also setting up an 10art network 11called 10nitronet11, so if
+15,01           11you're a sysop and are interested in joining the net.. call
+15,01           10datacrawler 11or 10divide by zero 11to get infoz..
+
+
+15,01                                       11thats it.. up for this month =)
+
+
+15,01                                                        ^ 00darky' / nph
+
+15,01>SAUCE00.% 08/97 group newz %.             darky'              .:(nitrophusion):
+15,01.  19970813Y<  @@P v                             

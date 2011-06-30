@@ -1,0 +1,80 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 6/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+
+15,01ice-9605.nfo,ANSI,iCE May 1996 info,iCE staff
+15,01ice-9605.idf,IDF,iCE memberlist,iCE staff
+15,01ice-9605.sit,ANSI,iCE sites,iCE staff
+15,01ice-9605.sts,ANSI,iCE May stats,iCE staff
+15,01-ansi---.---,ANSI,,
+15,01die-drkl.ice,ANSI,Dark Lands,Dieznyik
+15,01die-fate.ice,ANSI,Fate,Dieznyik
+15,01die-reg.ice,ANSI,The Regency,Dieznyik & Eerie
+15,01gw-tsanc.ice,ANSI,The Sanctuary,G. Washington
+15,01iv-apt3.ice,ANSI,Apartment 213,Inner Vision
+15,01iv-lv1.ice,ANSI,Lethal Vengeance,Inner Vision
+15,01iv-lv3.ice,ANSI,Lethal Vengeance,Inner Vision
+15,01lm-rust1.ice,ANSI,Rust BBS Screens,Lemonade
+15,01lm-xbbs1.ice,ANSI,X-BBS,Lemonade
+15,01te-goop1.ice,ANSI,dA gOOp,Tetanus
+15,01tg-23l2.ice,ANSI,misc. small ansis #2,Toon Goon
+15,01tg-rust1.ice,ANSI,Rust,Toon Goon
+15,01tg-sd1.ice,ANSI,Snake's Domain,Toon Goon
+15,01sg-nuv1.ice,ANSI,New User Voting,Snake Grunger
+15,01ri-rare.ice,ANSI,Rare Soma,rai
+15,01zc-itch.ice,ANSI,Itching Desire,Zaico
+15,01zc-tmdrm.ice,ANSI,Time Drome,Zaico
+15,01zc-tmlog.ice,ANSI,Time Drome logo,Zaico
+15,01zk-rust.ice,ANSI,Rust,Zarkon
+15,01us-kow1.ice,ANSI,Kow matrix,Kadaver & Defiant
+15,01-logo---.---,ANSI,,
+15,0109-darki.ice,ANSI,Darker Image,Fluor
+15,0109-e2.ice,ANSI,Earth 2,Fluor
+15,0109-egod.ice,ANSI,eGOD,Fluor
+15,0109-evil.ice,ANSI,Evil Intentions,Fluor
+15,0109-freek.ice,ANSI,Free Coke,Fluor
+15,0109-regy.ice,ANSI,The Regency,Fluor
+15,0109-shock.ice,ANSI,System Shock,Fluor
+15,01ax-rev3.ice,ANSI,Revolt,Apox
+15,01ax-trem3.ice,ANSI,Tremor,Apox
+15,01die-coke.ice,ANSI,Free Coke,Dieznyik
+15,01die-qst.ice,ANSI,Quest,Dieznyik
+15,01gn-gamma.ice,ANSI,Spinal Gamma,Grindstone
+15,01gn-vi1.ice,ANSI,Virtual Infinity,Grindstone
+15,01gn-vi2.ice,ANSI,Virtual Infinity,Grindstone
+15,01iv-colly.ice,ANSI,logo colly,Inner Vision
+15,01ka-kow1.ice,ANSI,Kow,Kadaver
+15,01lm-synt.ice,ANSI,Happy Birthday Syntax!,Lemonade
+15,01pa-rust1.ice,ANSI,Rust,Parrasite
+15,01sg-eg1.ice,ANSI,Egod,Snake Grunger
+15,01sg-mido1.ice,ANSI,Midnight Oil,Snake Grunger
+15,01sg-sg1.ice,ANSI,,Snake Grunger
+15,01sq2-lg12.ice,ANSI,logo colly #12,Squidgalator2
+15,01te-lgo4.ice,ANSI,logo colly,Tetanus
+15,01tna-ffg.ice,ANSI,Fall From Grace,The Night Angel
+15,01tna-flop.ice,ANSI,Flop,The Night Angel
+15,01tna-ice.ice,ANSI,iCE,The Night Angel
+15,01tna-rust.ice,ANSI,Rust,The Night Angel
+15,01us-cdi.ice,ANSI,Ode to CDi,boa.halaster.sl
+15,01-vga----.---,ANSI,,
+15,01at-tkcc1.jpg,JPG,Character Sketch,Aphid of Twix
+15,01an-red.gif,GIF,Naid Competition Pic,Annihilatus
+15,01ja-no1.gif,GIF,Freehand #1 (Woman),Jae
+15,01ja-no2.gif,GIF,Freehand #2 (Ninja),Jae
+15,01ja-no3.jpg,JPG,Freehand #3 (Dragon),Jae
+15,01kb-arma3.jpg,JPG,Armageddon #3,Kabal 13
+15,01kb-dance.gif,GIF,Dance,Kabal 13
+15,01kb-dream.jpg,JPG,Dream,Kabal 13
+15,01ME-DROID.JPG,JPG,Droid Bounty,Megalith      
+15,01OD-EYSCP.JPG,JPG,Eyescape,Obsidian
+15,01od-nplm.jpg,jpg,Napalm,Obsidian
+15,01RL-DRAGN.JPG,JPG,Dragon!,Rogue Leader
+15,01RL-UNI.JPG,JPG,Unicycle Experiment,Rogue Leader      
+15,01SH-OXYGN.JPG,JPG,Oxygen,Shiva    
+15,01SK-ICEPG.JPG,JPG,iCE WWW Page,Sprite    
+15,01TD-IBM.JPG,JPG,Virtual IBM,Tonedef     
+15,01TD-SUP1.JPG,JPG,Superheroez Still #1,Tonedef    
+15,01TD-SUP2.JPG,JPG,Superheroez Still #2,Tonedef
+15,01TM-FREAK.JPG,JPG,Freak Station,ToxMox       
+15,01VG-HP.JPG,JPG,High Plains Internet,Visigoth    

@@ -1,0 +1,80 @@
+15,01 Man and woman not in Garden.edn. 1 errors.
+15,01                IN THE BEGINNING /
+15,01        >> Scan Garden.edn for man, woman
+15,01  """"""""""""""""""""""""""""""
+15,01 Search failed.
+15,01   the beginning there was the computer.  And God said:
+15,01        >> Delete shame""""""""""""""""""""""""""""""""
+15,01  
+15,01 Shame cannot be deleted once evil has been activated.
+15,01  
+15,01        >> Destroy freewill
+15,01  
+15,01 Freewill is an inaccessible file and cannot be destroyed.
+15,01 Enter replacement, cancel, or ask for help.
+15,01  nter password.
+15,01        >> Stop
+15,01        >> Omniscient
+15,01 Unrecognizable command. Try again.
+15,01  assword incorrect. Try again.
+15,01        >> Break
+15,01        >> Breakotent
+15,01        >> Break
+15,01  assword incorrect. Try again.
+15,01 *** ATTENTION ALL USERS ***
+15,01 ATTENTION ALL USERS: COMPUTER GOING DOWN FOR REGULAR DAY OF MAINTENANCE
+15,01 AND REST IN FIVE MINUTES.  PLEASE LOG OFF.
+15,01  
+15,01        >> Create new world00 AM, Sunday, March 1.
+15,01  """""""""""""""""""""""""""""""""""""""""""""""" 
+15,01 You have exceeded your allocated file space. You must destroy old files
+15,01 before new ones can be created.
+15,01  
+15,01        >> Destroy earth Try again.
+15,01  
+15,01 Destroy earth: Please confirm.
+15,01  
+15,01        >> Destroy earth confirmed.
+15,01  
+15,01 *** COMPUTER DOWN ***and earth
+15,01 COMPUTER DOWN.  SERVICES WILL RESUME SUNDAY, MARCH 8 AT 6:00 AM.  YOU MUST
+15,01 SIGN OFF NOW.ed Day and Night.
+15,01  nd God saw that there were 0 errors.
+15,01 And God logged off at 11:59:59 PM, Friday, March 6.
+15,01 Approximate funds remaining: $0.00.
+15,01 Approx. funds remaining: $92.50.
+15,01  
+15,01         
+15,01And God logged on at 12:01:00 AM, Monday March 2.
+15,01"""""""""""""""""""""""""""""""""""""""""""""""""
+15,01 
+15,01        >> Let there be firmament in the midst of water and light
+15,01  
+15,01 Unrecognizable command. Try again.
+15,01  
+15,01        >> Create firmament
+15,01  
+15,01 Done.
+15,01  
+15,01        >> Run firmament
+15,01  
+15,01 And God divided the waters.
+15,01 And God saw there were 0 errors.
+15,01 And God logged off at 12:02:00 AM, Monday, March 2.
+15,01 Approx. funds remaining: $84.60.
+15,01  
+15,01 
+15,01And God logged on at 12:01:00 AM, Tuesday, March 3.
+15,01"""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01  
+15,01        >> Let the waters under heaven be gathered together unto one place
+15,01        >> and let the dry land appear
+15,01  
+15,01 Too many characters in specification string. Try again.
+15,01  
+15,01        >> Create dry_land
+15,01  
+15,01 Done.
+15,01  
+15,01        >> Run dry_land
+15,01  

@@ -1,0 +1,80 @@
+15,01     BL/+DE '94 Presents - The Edge: The Official Blade Information File.
+
+15,01                   06mmmm mm   mmmm mmmm mmmm  m mmmm m mm
+15,01                   14,06##15,01 14,06#15,01 14,06##15,01   14,06##15,01 14,06#15,01 14,06##15,01 14,06#15,01 14,06##15,01 06"    14,06#15,01 14,06##15,01 14,06#15,01 14,06##
+15,01                   13,14##06,01"13,14#15,01 13,14##15,01   13,14##06,01"13,14#15,01 13,14##15,01 13,14#15,01 13,14##06,01"15     06""13,14##15,01 06""13,14##
+15,01                   14,14  14,01m14,14 14,01 14,14  14,01m14,14 14,01 14,14  14,01 14,14 14,01 14,14  14,01m14,14 14,01 14,14  14,01m14,14 15,01      14,14  14,01   14,14  
+15,01                   13J15           13U15           13N15           13E
+15,01                   06mmm  m  m mmmm    mmmm m mm mmmm mmmm
+15,01                    06m " 13,06#15,01 06m13,06#15,01 13,06#15,01 06mm    13,06#15,01 06mm 13,06#15,01  13,06#15,01 13,06#15,01 06mm 13,06#15,01 06mm
+15,01                    06,06@15,01   06,06@15,01  06,06@15,01 06,06@15,01 06mm    06,06@15,01 06mm 06,06@15,01 06m06,06@15,01 06,06@06,01m 06,06@15,01 06,06@15,01 06mm
+
+06,01  00T15his is the Blade Info File. 00A 15monthly publication from Blade Productions.
+15,01  00T15his file outlines the past months happenings of Blade.................
+15,01  00T15his text is written by MindCrime, Blade founder and president. 00I15f there
+15,01  are any spelling or grammatical errors within this text, please remember
+15,01  that MC is only human, as are most other people. 00B15lade is a group much like
+15,01  that of iCE or ACiD [At least, we like to think so] which releases a monthly
+15,01  pak of the prior months work [Or something like that]. 00B15lade paks are released
+15,01  on the first of each month [They can be found at any one of our lovely
+15,01  distribution sites]. If you wish to contact Blade in any way, please
+15,01  call Eternal Insanity @ 908.224.8780; All blade members can be reached
+15,01  on Ei. 00I15f you like the work of Blade, let us know. 00L15eave a message to
+15,01  MindCrime at his lame ass internet address............[MCBLADE@DELPHI.COM]
+15,01  or call up Eternal Insanity . 00E15njoy the pack.
+
+
+15,01  00115] 00M15any changes have taken place in the art scene in the past few months.
+15,01     00B15lade has idly sat back and watched whats been taking place and as
+15,01     president, I have especially been watching the way other groups are run.
+15,01     00A15lot of shit has been going on between groups, but out of it have come
+15,01     greater competitions and several excellent ideas. 00P15ersonally, I like
+15,01     what has come out of these changes: Quality. 00I15ce produced one of the
+15,01     nicest paks I've ever seen last month, and tribe had some very
+15,01     insperatoinal material as well as an excellent new viewer. 00I 15have
+15,01     desided to impliment some of these changes into my group. 00B15ut, rather
+15,01     than give them k-rad names, we'll simply make use of the systems. 00I15ce's
+15,01     "US" system seems like a great idea, and tribes "Tribe Pride" is also
+15,01     something that would be usefull to the groups. 00A 15sence of pride in your
+15,01     group is needed, rather than all this crap of battles between groups
+15,01     and seeking fame and glory by starting your own new megagroup. 00B15lade
+15,01     will soon impliment many of these new systems and the end result will
+15,01     be nothing but quality. 00H15owever, Blade will in no way take part in the
+15,01     senseless bashing of others, or battles between groups. 00W15e're here
+15,01     to produce quality art for the art freaks to admire, and we will never
+15,01     stop doing so. 00E15njoy the pak and the new changes.
+
+15,01  00215] 00T15his month, Blade introduces a new idea from the mind of Flux. 00B15lade
+15,01     Has always been a source of good literature, and now we would like to
+15,01     introduce something new. 00I15n each Blade pak we will release one text
+15,01     which contains a peice of literature from a modern poet. 00T15his months
+15,01     literature is 00#1_RILKE.PIK. I 15think you'll like it.
+
+15,01  00315] 00T15he Blade viewer [BV] will not be released until we feel that it ranks
+15,01     with TV,XV,and ACiDViEW. 00T15hese are excellent viewers, and as always
+15,01     quality is our main consern. 00W15e're not out to compete, but theres no
+15,01     sense in releasing something that isn't top quality.
+
+15,01  00415] 00T15his summer, one of Blade's premier artists, 00Soul Seeker15, will be taking
+15,01     a hiatus from the scene and heading off to India. 00W15e hope he has some
+15,01     serious fun and is back and ready to draw before fall.
+
+15,01  00515] 00N15ew members this month include HOOPTiE, who comes to us and brings some
+15,01     of his classic ansi and vga skills. 00T15he master of DREADLoC was looking
+15,01     for a new group to kick back in. 00D15eletions this month: The Dark Half, who I
+15,01     haven't heard from in ages; D. Control has been takin off courier status,
+15,01     but will stay on lit util I decide to take him off (I also haven't heard
+15,01     from him in over a month); and Ziggy is taken off the Courier list due to
+15,01     inactivity. 00A15fter a long stay with Blade, we are sad to say that The Exile
+15,01     has left to pursue a spot on the CiA member list. 00H15e never produced for
+15,01     Blade but was a constant help in several areas. 00F15lux will be taking his
+15,01     position as Blade Senior Staff in charge of Literature. Congrats to Flux.
+
+15,01  00615] 00T15hat about concludes it for this month. 00I15'd like to thank all the people
+15,01     who worked hard on this pak and on Blade in its rise to power. 00W15e wouldn't
+15,01     be here without them.
+
+15,01--------------------------
+00,01Blade Would like to Greet:
+
+00,01CiA 15- NO, We're NOT interested in a merger ;)

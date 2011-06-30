@@ -1,0 +1,80 @@
+04,01flame15                                                       04   15     04harklandelum
+15,01                                            02#14,02 02,01#15   02#
+15,01                                            02#12,02|02,01|  |12#15     02#14,02 12#12,01@
+15,01        02##m#  #15                             02#12,15m12,02m02,01mm12,02m#02,01 m15   02|12,02"#02,01|
+15,01       02 12,02m12,15"12,02|02,01| 14,02#02,01|15                            02##00,12#12,15| "00,12#02,01m|"  m12,02m00,12#02,01" 
+15,01       02|00,12#12,15#12,02|02,01|m12,02"02,01|15                              02""12"""12,02"02,01  m12,02m12,15"02,01" 
+15,01      12m14,12#12,01"02|12,12 12,02m|02@15,01         02 #  15    02 m#m@12,02m00,12 12,15|m12,12#02,02@12#14#12,01@@@02##   |@12"12,02|02,01mm
+15,01   02 04 12,02m12,01"02 13#12,02|00,12##12,02|02@15,01     02# 12@14,02 #00,12#12,15 m12,02m02,01mm# "|12,02"00,12##12,02m02,01m15      02m#mm12@02 15   02  "11,02"m02,01m
+02,01  m|11|04 08m02 |12,02|10##12#12,01@08###   02      14,02 02,01m12,02"12,12 11,02#12,01#02m# "12,02"12,15m12,02|02,01| 15   02#14,02 11m14 02,01 m15      02 |10,11##02,01|
+02,01 #"13#08m08,08m08,01m02 12,02| "12,12 12,15"12,02m12,12 12,02m14#02,01mm08 #02m12,02m00,12#02,02@02,01"13 08#13#02"12,02"11 |14#02,01# |11,02m#12,01#02 15   02|11,02#mm02,01m15     02"|  10,11| 11,02|11,01#
+02,01  08#08,08m |08,01|02|12,12 12,02m02,01"|12,02"02,01"#08m#11"11,02m#02,01m 12,15m12,02"02,01|08     02#14,02#11 #12,01@02# 12,11#10#11,02m11,01#15   02 "11,02"02,01"12,11 11,02m02,01mm11,02m02,01|    10,10 10,11m#02,01#
+02,01 13#08,04|14,00  08,08"08,01#12,02#"#02,01m14,02#02,01#08|m13,08 #08,01|11|12,11 11,02m02,01||12,02#04,01#m## 08 04#02|11,02#12,11#10,01#02# 11,02|10,11|11,01@#15    02 m11,02m10,11|m12 11,02"02,01"#15   10#10,10  #02,01#
+02,01 14,04@08,08 14,00 08,08|08,01|02|"m12,02#14#12,01@08|m13,08  08,04"#11,01#10,11# 10,02@12,01#02|04|14,04   04,01mm#02|11,02|10,11|14,10#02,01# 10,11m10,10 11,01@#15    10@11,02m10,11 #11,02"02,01"15      10#10,10   12,01@
+13,01#14,04@08,08@"08,04#02,01 #|12,02|11#14 02,01 04,08#13#14 08,04|##04,01|10,11|#12 12,01#02| 04"14,04# 04,01|"02m11,02m10,11m14,10 #11,01#02 14,10 #11,01@10#15   11#14,11 10m||11,01#15       10#11@@@
+02,01 13#14,08#08m08,01|02 #11,02#m12,11#02,01|08#04,08#14 13#08,04 14  08,01@10,10 10,11m#12,01#02# "mm11m11,02m10,11m10,10 10,01|14,10 11,01@02  10###15    11#10,10#14  10#10,01@
+15,01   08"13#02 14,02#11|10,11#m11,01|08#14,08#  08,04m|14 08,01@14,10#10 #02,01 04m14,04 04,01m08    02 11"10|10,10#10,01#15          14,10    11,01@10##
+15,01     02|11,02m10,11m10,10  10,01|02  08##""04"08#10##12#02 13@14,04 04,01"08 04m14,04 04,01| 15              10####
+15,01   12##14,11#10,10#  #10,01#15        12##15       04"02 04 "15   04#
+15,01   12#####
+15,01                                                  08           15     09   15  09intro,new
+03,01======================================================================----------
+
+08,01hello, and welcome to another rile portfolio.  i'm really really pressed for   
+08,01time, so i'm gonna make things very quick.  this month, a couple of people 
+08,01decided that they wanted to be a part of rile.  one of which, is 06ize08, who
+08,01i believe is a great artist.  next, 06drynwhyl08, who i really don't need to 
+08,01introduce.  he has already made a name for himself here, and in a few other
+08,01groups currently alive.15  06seraphim08, from dark i believe, joined up with a 
+08,01style that really sticks out in front of others.  and last, but not least, 
+08,01is 06outraider08.  he has really showered this pack with much of his artwork.
+08,01definately do not miss his stuff!  leaving this month, unfortunately, is15 04flesh08,
+08,01who has no time to draw anymore.  it was nice having you around, jason.
+
+15,01                                                               09     15   09why rile?
+03,01======================================================================----------
+
+08,01why is rile here.  why?  well, here's my plan:  with rile, i hope to open up 
+08,01people's minds.. to show them, that art is far more than just silly frills,
+08,01and competition; it is about the artists themselves.. what they express.
+
+08,01their emotions.
+
+
+04,01+- what 13avenger04 said in 06black maiden04 book #12 -+-------------------------------+
+04,01 15i think i've said it often enough, but once again ;) we draw for fun and we
+04,01 15draw what we like.08 15 if it's a comic rip, fine - if it's original, even 
+04,01 15better. but we do not want to be the best group in the world, europe etc.
+04,01 15i personanally think, there're way too much "politics" in the scene
+04,01 15you shouldn't force people to draw original or to make recognizable fonts
+15,01 or to draw "not that colourful". so, just draw.
+
+04,01here's my02(12flame02's)04 response13;
+04,01/msg to 13avenger04 on irc:  15hey.  about what you said.. it's not about politics..  
+15,01                         it's about what art *should* be about, and not what
+15,01                         it has turned into (the majority of the scene today..)
+
+13,01avenger04's reply13;15 yeah. you're sure right.  fuck.  you're right..
+
+08,01not much on the reply, but i kid you not, that's what he said.  i think he 
+08,01said something else to the extent of liking mine, diez's and defiant's work, but
+08,01that has nothing to do with this matter.  anyways, i think you get the point. 
+08,01i'm not sure why i'm writing this, and i've gotten a little grief from a few
+08,01people for talking about such matters.  i won't mention any names, 06ZeusII08.
+
+08,01i mean, *we* (the artists of today) are the picassos, the leonardos, and the
+08,01michaelangelos15 08of the world today.  you wouldn't see them copying other's works.
+08,01it'd be considered outrageous.
+
+08,01anyways, on to other things.  just dwell on it for awhile.. 
+
+15,01                                                                   03   15   09alkohol
+03,01========================================================================--------
+
+08,01outraider is constructing his own german-based ezine, known 06ALKOHOL08.  be on the 
+08,01lookout for it.  
+
+03,01             15                                                         09  15 09goodbye
+03,01========================================================================--------
+
+08,01that's it for this month.  please excuse the lack of art.  but, it's still a 

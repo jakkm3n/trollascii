@@ -1,0 +1,24 @@
+15,01keo!L..
+
+15,01well.. umm if you are reading this you had some trouble with the
+15,01dox!application 4.1a.  the reason this is,.. is because you havent installed
+15,01your ansi.sys... (err) to do this.. simply modify your config.sys
+
+15,01(located most likely in):
+
+15,01c:\config.sys
+15,01d:\config.sys
+
+15,01whatever drive your hardrive works off of..
+
+15,01then simply add a line to your config.sys saying
+
+15,01device = c:\dos\ansi.sys
+
+15,01or
+
+15,01device = d:\dos\ansi.sys
+15,01(depending on locaion of that dir)
+15,01well thats it.. your set, reboot your computer and run the exe file again!
+
+15,01l8ters. lst

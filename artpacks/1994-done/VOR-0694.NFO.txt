@@ -1,0 +1,46 @@
+
+
+
+00,01............###### Visions of Reality Info File For June 1994 #####.............
+
+00,01Welp, here we are, yet again.  Visions of Reality is proud to release thier June
+00,01pack.  Things have been kind of slow lately, especially with the seniors (a maj-
+00,01ority of the group), because of senior college stuff.  The pack was delayed for
+00,01several reasons: (1) I caught the intestinal flu on the day of release, (2) the
+00,01seniors in the group and (3) plain laziness by certain group members.  This will
+00,01not be our best pack, but it won't be our worst.  The work in the pack is good,
+00,01but there isn't much work to be shown.  Next month will be much, much better for
+00,01us, as the seniors (and hopefully everyone else) will be able to concentrate on
+00,01the group more.  (yep, we have lives outside VOR :)  As a lot of IRC'ers know, I
+00,01(Widow Maker) have been trying to expand VOR a lot throughout the internet.  Be-
+00,01fore, we were primarily a small local group based in the Maryland/Virginia/D.C.
+00,01area, and to be honest, we basically still are.  :)  But we slowly and surely
+00,01are expanding.  I have picked up several distro sites, and a couple couriers to
+00,01spread the pack.  We have a lot of people depending on this pack release, also,
+00,01to make a decision on which way to go.  Some will be disappointed, others wont.
+00,01We've had several merge requests with well-known groups, but we've had to turn
+00,01them down, because we are stubborn (we wanted to keep our name and our WHQ).
+00,01We are working on picking up artists, but honestly, we only picked up one artist
+00,01this month, and he is a font guy -- Captain Solo.  I'll quit jabbering and let
+00,01the pack speak for itself, no matter which impression you get from it.  Oh, one
+00,01more thing, if you need to contact me, I can be reached through the internet
+00,01through several ways.  My e-mail account is robbh@cap.gwu.edu.  My full internet
+00,01account is eliphas@clark.net.  If you around IRC, my nick is widow_mak.  Our
+00,01President, Dark Wolf, can be reached through the internet as well.  His address
+00,01is darkwolf@arcanum.clark.net.  Our other senior members can be reached through
+00,01either Dark Wolf or myself, or if you prefer you can call our WHQ and EHQ and
+00,01find them there.  Have fun!
+15,01         00Oh yeah, Lifo O'Pardy has released his first loader. Take a look at it.
+00,01He's been struggling a little bit with getting VGA coding down, but I think 
+00,01he's got it.  Thanks to some help from Sinister Outlaw.  BTW - The viewer (by 
+00,01him) has been updated, too.  The name is ILLUME.EXE.  And Asterix, one of our 
+00,01other coders, has updated the application generator to include a section for 
+00,01couriers and lit people.  So check it out! :>
+00,01..........###### Visions of Reality Info File For June 1994 #####...............
+
+00,01Greets go out to:
+
+00,01ICE, ACID, BAD, DIE, SHIVER, Visual Imagery, The Guardian, Dosage, Syntax Error,
+00,01Scythe, IFX, The Weasal (grow some pubes), Sinister Outlaw, X-P, Lord Scarlet,
+00,01Voodoo Child, Osceola, Thor, Drizz (see The Weasal), Quazar, Entropy, Brightman,
+00,01 etc. etc. etc.  (I could go on for lines, but I'll spare ya :)

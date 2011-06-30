@@ -1,0 +1,72 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                   O  C  T  O  B  E  R         2   0   0   0
+15,01-------------------------------------------------------------------------------
+
+15,011. Another month, another absolutely hizouse r0xin pack.  Congrats to everyone
+15,01   in iCE for the stunning pack this month.  This group kicks ass.
+
+15,012. We did a bit of a house cleaning in the active memberlist this month. Again,
+15,01   the point of the active memberlist is only to list the members who are
+15,01   (drumroll please...) currently active.  Members who go inactive are still 
+15,01   members of iCE, and only need to release something to be listed once again.
+
+15,013. Welcome Jack Moffitt to iCE!  Jack is the VP of Technology for iCast and is 
+15,01   the author of the icecast music streaming software.  Jack is the donor for 
+15,01   the heart transplant which we hope will bring the iCE Music division 
+15,01   back from a very long coma.  We expect that Jack will On that note, we'd i
+15,01   like to announce a few new musicians in iCE.  
+
+15,014a. Valtone, aka Purple Motion, joined iCE to be a part of our music division.  
+
+15,01    http://www.valtone.com/ is where you can find his company web page.  
+15,01    Jonne needs no introduction to any demoscene fans, but for those who aren't
+15,01    familiar with Jonne's work or the demo group Future Crew, you can find 
+15,01    samples of his music at the aforementioned web site.
+
+15,014b. Also on board, Basehead is back with iCE to be a part of the music 
+15,01    division.  Basehead has done music for Origin games as well as Epic 
+15,01    Megagames, including music for Unreal and Unreal Tournament.  
+
+15,014c. Finally, Necros is also part of the iCE Music division resurgance.
+15,01    Necros has also done music for Origin, on the game "Crusader".  Necros's
+15,01    music can be found nowadays on the web site http://www.alphaconspiracy.com/
+
+15,015. Of course, iCE is always looking for new artists and musicians, so if you 
+15,01   want to apply, send an email to apply@ice.org and tell us about yourself.
+15,01   Include a few samples of your work, or a URL to a web page that has the 
+15,01   samples.
+
+15,016. You can see some of Jamie McCarter's handiwork in the 3D Imax film called 
+15,01   "Cyberworld".  You can find the web site for this first-ever 3d animated
+15,01   film at http://www.imax.com/cyberworld/.  Jamie worked on the cut-scenes
+15,01   between clips.  See www.imax.com for theater locations.
+
+15,017. Since we seem to have only delivered timely, relevant information and a
+15,01   really solid pack of artwork, we hope you've also noticed that something 
+15,01   is seriously wrong here.  Conspiracy theories to massd@ice.org.
+15,01 
+
+15,01                                                - Slothy and Mass Delusion
+
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion
+15,01-------------------------------------------------------------------------------

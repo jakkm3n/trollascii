@@ -1,0 +1,38 @@
+15,01LAST SOLDIER
+
+15,01Booted feet through desert march,
+15,01Instrument of death held ready.
+15,01Searching for an enemy to kill,
+15,01Footsteps long and steady.
+
+15,01The sun bears down mercilessly;
+15,01The desert shows no end.
+15,01Still no sign of the enemy,
+15,01But no sign of a friend.
+
+15,01Where did all the people go?
+15,01Where are all the trees?
+15,01There are no more animals,
+15,01No elephants, no fleas.
+
+15,01He has searched for three long years,
+15,01Across the wasted land.
+15,01Through dead rainforests and mountain range,
+15,01And now through desert sand.
+
+15,01All he has found so far is death;
+15,01Of an enemy, of a friend.
+15,01No one is alive to greet him;
+15,01Is this how the war shall end?
+
+15,01He is the last soldier.
+15,01His side wins, but at what cost?
+15,01There is no one to celebrate victory.
+15,01In reality, all have lost.
+
+15,01He is all alone in the barren world;
+15,01The last of a race long dead.
+15,01There is no one left to kill,
+15,01Or see him raise the gun to his head.
+15,01>SAUCE00Last Soldier                       Eoanya              MiSTiGRiS        
+15,01   19941024A*  @@P v                             

@@ -1,0 +1,4 @@
+15,01This is a program joe nobody wrote to add to the autoexec.bat in the 
+15,01comuters at his school.  If you run it, it will freeze your computer and
+15,01disable ctrl-break and ctrl-alt-del.  It is harmless other than that.
+15,01Feel free to use it for what you wish.

@@ -1,0 +1,22 @@
+
+15,01    Sharpy's color 16 Color EGA driver - v1.0000000001B
+15,01    ----------------------------------------------------
+15,01  
+15,01 Sharpy's color is a small program which turns off the blinking color of the
+15,01 screen and enables you to draw with ForeGround colors in the background.
+15,01 this Driver is doing just the same things as leviathan's of ice - iceColor,
+15,01 but this one is much smaller and its not using a bit of your computer's mem.
+15,01 
+15,01  Features: 
+15,01 ------------
+15,01   A) Smaller as possible - 2.7k instead of 10k in ice color
+15,01   B) Doesnt catch even a bit in your computer's memory!
+15,01   C) doesnt slow your system down.
+15,01   D) its working.. 
+
+15,01 Welp i cant think of anything else that will convince you to use this one
+15,01 instead of ice's .. :)
+
+15,01        Cio - Sharp Edg [UNION/RELiC]!
+
+15,01  

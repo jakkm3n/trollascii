@@ -1,0 +1,73 @@
+15,01                                 |                                              
+
+15,01                  m|            14,15 
+15,01             mmmm14,15  15,01 m14,15  15,01 mmmmmmm|14,15 15,01 mmmmmm mmmmmm mmmmmmmmmmmmmmmmmmmmmmm
+15,01       mm14,15     15,01""14,15 15,01"  14,15 ##15,01 ##00@@14,15## 15,01|14,15 15,01 mmmmm|14,15 15,01m"mmm|14,15 15,01m"mmmmmmmmmmmmmmmmmmmm14,15    15,01mm
+15,01    m14,15     15,01""   "     ""         14,15 15,01       14,15   15,01    14,15   
+15,01  m14,15      15,01                    mm "|"14,15           15,01 14,15   15,01  mm        mm      mm
+15,01 14,15       15,01                  mm14,15 15,01""14,15 15,01mm  "   14,15   15,01    14,15   15,01m"14,15   15,01m    m14,15  15,01|   mm14,15 15,01""14,15 15,01mm
+15,01|14,15      15,01|                14,15    15,01    14,15    15,01    14,15   15,01    14,15   15,01   "14,15   15,01   14,15   15,01  14,15    15,01    14,15    
+15,01"""""""              mm  """    """     """    """    """   """   """    """
+15,01#######         mm14,15###15,01"   ###    ###     ###    ###    ###   ###   ###
+15,01 00@@@@@@@15      ""14,15##  15,01|    00@@@15    00@@@15     00@@@15    00@@@15    00@@@15   00@@@15   00@@@
+15,01  "14,15######15,01       |14,15   15,01    |14,15###15,01    14,15###15,01|    14,15###15,01    14,15###15,01    14,15###15,01   14,15###15,01  |14,15###15,01    14,15###15,01|
+15,01    ""14,15    15,01m     14,15    15,01    14,15    15,01    14,15    15,01   |14,15   15,01    14,15   15,01    14,15   15,01   14,15   15,01  14,15    15,01    14,15    
+15,01    "mm ""14,15  15,01mmm14,15     15,01|     ""14,15 15,01mm14,15 15,01""    m14,15  15,01"   "14,15    15,01    14,15    15,01"|14,15 15,01" mmm ""14,15 15,01mm14,15 15,01"" m
+15,01      "14,15  15,01mm   """"""" m14,15 15,01mm   ""      """  mm14,15 15,01m """    """  " m14,15     15,01m  ""  m14,15 
+15,01       |14,15   15,01" "14,15 15,01mmmmm   14,15    15,01mmmmm"   ""mm14,15          15,01mmmmm14,15 15,01""  ""14,15     15,01""14,15 15,01mm14,15   
+15,01        14,15  15,01| ## "14,15  15,01"    |14,15  15,01" #""        14,15   15,01"   "14,15    15,01""##   #    14,15  15,01| #00@15 "14,15  15,01"
+15,01        |14,15 15,01  00@15   ||      14,15 15,01   00@15          |14,15 15,01|  #   14,15 15,01"  00@@15    00@15    |14,15 15,01  "   14,15 15,01|
+15,01        14,15  15,01||14,15#15,01|  14,15  15,01      14,15 15,01  |14,15#15,01|         |14,15 15,01   "  |14,15 15,01|  "    |14,15#15,01|   14,15  15,01|    |14,15 15,01| [GL]
+15,01       |14,15   15,01 "  |14,15  15,01|    |14,15 15,01|  "          14,15  15,01|      "         "     "     14,15   
+15,01""""""" ""  ""  "" """" " """"""""""""  " """""""""""""""""""""""""""  "  """"""
+
+15,01              14,15 #00,01@15# The Gothic Revival - Febuary 1994 edition #00@14,15# 
+15,01               "Loyalty, Trust, and Friendship shall guide us."
+
+15,01 The Gothic Revival is a monthly release of ALL the attained Gothic artwork for
+15,01the respective month. Free of censorship (quality control) and other undesirable
+
+15,01elements, the Revival is a true representation of our art.
+
+15,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+15,011. New arrivals to the group this month include Kronos, Quick Silver, Genocide,
+15,01Cap'n Cruch, Basehead, Wonder Monkey, Dark Vision, Scimitar Wraith, Crimson
+15,01Shroud, Drak Angel, and in trial: Killer and Blade
+
+15,012. We have a new director by the name of Pnakotic, he will be taking care of
+15,01western Canada.
+
+15,013. We would like to congradulate a few members on their fine work which they
+15,01have dedicated themselves to this month. First and Foremost Sinned Soul. He
+15,01has proven to be very usefull and resourcefull in the past and constantly
+15,01proves his loyalty to the group. Soul Blazer is next in line, what can I say
+15,01'cept he's one helluvan artist. The entire coding division (especially Skull-
+15,01Leader and Cap'n Crunch) for their hard work this month.
+
+15,014. We have a new viewer and a helluva viewer it is, be sure to check it out!
+
+15,015. Genocide has done us some high quality rips which adds to the diversity of
+15,01the group, be sure to check em out.
+
+15,016. The Immortal is busy working away at a large project so we won't be seeing
+15,01a whole lot from him in the next little while.
+
+15,017. Thanx to all the members for their hard work this month.
+
+15,01Greets n' Shit
+
+15,01Quasar - Hay man, sorry about that...
+15,01Sharp  - 'sup?
+15,01Eternal Darkness - Hi Kevin.
+15,01Lord God Xerobe - Its commin... Its Commin
+15,01STiLE - Where ALL GUNNA DiE!!!!
+15,01Technical Disrupter - Hay Hay Hay
+15,01Raider -
+
+15,01ACiD
+15,01iCE
+15,01TRiBE
+15,01ETERNiTY
+15,01PAW

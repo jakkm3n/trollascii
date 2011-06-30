@@ -1,0 +1,17 @@
+00,01The Chosen
+
+00,01Lead me to the land of wonders
+00,01Allow me to fortify my boundaries
+00,01Beckon me for now
+00,01For I shall be the chosen
+00,01Traveling on an endless journey
+00,01Seems to me, quite uninhabitated
+00,01Destroy me with your words no more
+00,01For I know I"m the chosen
+00,01Deliver yourself from the evils within
+00,01Come and sell your soul
+00,01Be admonished of your sins
+00,01For I've become the chosen
+
+15,01>SAUCE00"The Chosen"                       Leper Messiah       Eden             
+15,01   19940831i@  @@P *                             

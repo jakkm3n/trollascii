@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 S  E  P  T  E  M  B  E  R    1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  Welcome  aboard the ongoing  train of  excellence known  as the iCEPACK.  A
+15,01month after  celebrating with an artscene record breaking 5th Anniversary pack,
+15,01the iCEPACK returns to its normal course this month, delivering quality artwork
+15,01for all to enjoy.
+
+15,012.  The iCE oldschool barrage continues this month as seminal iCE VGA superstar
+15,01Eight Ball makes his return to the group with a new VGA this month.   Check out
+15,01the oldschool style from years gone.  More next month!
+
+15,013.  iCE members Dev,  Aneurysm,  and Mass Delusion were  partying last month in
+15,01celebration of the super iCEPACK.  Mass Delusion brought the beer, and Aneurysm
+15,01the herb.   The night was going  along just fine until  Dev had a bong  hit too
+15,01many.   Aneurysm,  noticing the overly  inebriated inventor of frozen delivery,
+15,01pointed out that the girl across the street had the "Juggs" he was looking for.
+15,01Dev decided that  this was his big  moment,  and ran across the street.   About
+15,01an hour of kissing and fondling ensued, until Anny and MassD crossed the street
+15,01and forcibly scraped lil' Dev off the signpost.
+
+15,014.  The iCE  Department  for Abduction and  Other Criminal  Activity  kidnapped
+15,01Mr4tune and  locked him up in  the ANSI department this month.   The group bids
+15,01him a great welcome and looks forward to seeing his work soon!   Our top-secret
+15,01agents have also  scooped up Taron and Christian Haley  for the VGA  department
+15,01department.  Welcome to all!
+
+15,015.  The iCE Chief Warden  reports that nobody  escaped the confines of the evil
+15,01empire this month,  however six people jumped from the third floor, four people
+15,01made license  plates,  three people  copulated  with small  farm  animals,  two
+15,01people feigned ignorance, and one person went legally insane.
+
+15,016.  In the "What's New  With iCE Artists" department,  iCE's newest  VGA member
+15,01Christian Haley just won the 1997 Fractal Design / Meta Creations art  contest!
+15,01His winning  entry was entitled  "Need to Choose".   Christian  said,  "I am so
+15,01surprised and  thrilled to be a winner.   I have only been a digital artist for
+15,01about  2 years.   I  found Painter to be  the perfect medium  to carry  out  my
+15,01surrealistic imagery."  Congratulations, Christian!   But,  we aren't surprised
+15,01at all! :)
+15,01* To find out more see http://www.metacreations.com/press/beyondcontest.shtml *
+
+15,017.  Information Systems Director  Lickbert  returns this month with a fresh new
+15,01attitude,  and beat the living crap out of Corpcow.   He reports that Sanctuary
+15,01will be delayed in its grand re- opening, as Tempus and the Stepsons are taking
+15,01their time building the city.   Lickbert also reports that  ftp.ice.org now has
+15,01a more complete archive of packs from groups that have merged into iCE.   Check
+15,01it out today!  irc.ice.org will also be down for another  month due  to the new
+15,01X-Net IRC daemon that is having some  compatibility issues with our server.  It
+15,01will be back as soon as those details are ironed out.
+
+15,018.  As a personal aside,  September 1997  marks my own  Fifth Anniversary  as a
+15,01member of iCE.  I (Force Ten, if you didn't know already) am really proud to be
+15,01a part of such a great organization for so long.  Thanks and greets to everyone
+15,01that I've had the pleasure of working with in this group, and I look forward to
+15,01another five great years!
+
+15,019.  A great month to continue our celebration.   Once again the group has shown
+15,01that we never say die.   Congratulations again for the 60th pack,  and congrats
+15,01on a super 61st.  Here's to the future...
+

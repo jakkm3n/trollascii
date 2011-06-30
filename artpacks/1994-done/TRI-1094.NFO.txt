@@ -1,0 +1,80 @@
+15,01+--------- mmm14,15    15,01mmm ------------------------------------ mmm14,15    15,01mmm ---------+
+
+15,01|      mm14,15              15,01mm  [ TRiAD Information File ]  mm14,15              15,01mm      |
+
+15,01+--- m14,15                    15,01m ------------------------ m14,15                    15,01m ---+
+
+15,01   m14,15                     15,01"                            "14,15                     15,01m
+15,01 m14,15        15,01"" m ""14,15      15,01"                                "14,15      15,01"" m ""14,15        15,01m
+15,01m14,15      15,01"     14,15   15,01mm "14,15 15,01"                                    "14,15 15,01" mm14,15   15,01     "14,15      15,01m
+
+14,15       15,01m     14,15      15,01                                          14,15      15,01     m14,15       
+
+15,01 14,15        15,01mm  ""14,15    15,01  +-14,15      15,01-14,15     15,01m-14,15      15,01-14,15      15,01-14,15    15,01m-+   14,15    15,01""  mm14,15        
+15,01  "14,15          15,01" 14,15    15,01  |   14,15  15,01   14,15  15,01  14,15  15,01   14,15  15,01   14,15  15,01  14,15  15,01 14,15  15,01" 14,15 15,01 |   14,15    15,01 "14,15          15,01"
+15,01    ""14,15     15,01" m14,15     15,01  +---14,15  15,01---14,15  15,01""mm-mm14,15  15,01mm-14,15  15,01""14,15  15,01-14,15  15,01mm14,15 15,01-+   14,15     15,01m "14,15     15,01""
+15,01             14,15#     15,01                                     TM   14,15     #
+15,01             00@14,15#    15,01                                          14,15    #00,01@
+15,01             #00@14,15#   15,01                                          14,15   #00,01@15#
+15,01              #00@14,15#  15,01                                          14,15  #00,01@15#
+15,01               #00@14,15# 15,01                                          14,15 #00,01@15#
+15,01                #00@14,15#15,01                                          14,15#00,01@15#
+15,01                 #00@15                                          00@15#
+15,01m Info mmmmmmmmmm # mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm # mmmmmmmmmmmmmmmmm
+
+
+15,01Eh!  The Unknown here, representing Triad in our second release. Triad's better
+15,01than ever and growing stronger every second. I am known as many as the beast or
+15,01the mouth of Triad so excuse my attitude, but thats the way I am =).  Triad has
+15,01taken on many new areas of interest since our last pack.  We consumed a smaller
+15,01local group known as Crow thus creating the H/P area of Triad so be looking for
+15,01some quality texts released by Triad.  Also, after a few talks with Stone Angel
+15,01of Blur we uncovered that SA will be putting Blur on  hold for a while so Triad
+15,01recruited Immortal Shadow to code us a small Info/E-Mag in the future, so be on
+15,01the lookout for that. Triad also obtained 2 amazing new coders, Spyre and Heat.
+15,01Well, thats the lowdown on Triad so on to the Greetz and Closing comments...
+15,01                                                                      *TU*
+15,01m Greetz mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+15,01Lord Draxxon (Triad Chairman)
+
+15,01##> Sabotage : Nice Board man!  Geez SA did a good job! :)
+15,01##> PM / Skaven : Hey guys, if you manage to see this pak...
+15,01##> Immortal Shadow : Thanx for helping us with the mag!
+15,01##> AcidFlash : Thank you for locking me off your board... !#!$@!#
+
+15,01Hill (Triad President)
+
+15,01##> Corrupt : C'ya Dude!
+15,01##> FBI : Fuck You And DiE!!!!!!!!
+
+15,01The Unknown (Triad Vice President)
+
+15,01##> BioCide : Good Luck with the new identity..watch the ego this time around =)
+
+15,01##> Pyro Maniac : LAME!!!! =)
+15,01##> Stone Angel : Sorry to see you're putting blur on hold, thanks for the help!
+
+15,01##> Radian : Shiver's really coming along, keep up the good work!
+15,01##> Future Assasin : I'm tellin yah man, release Night Rave, it's the best!
+15,01##> EvilOne : Geez, I never knew there was more than 1 computer person at WC!
+
+15,01Sangdrax (me)
+
+15,01##> Lord Soth: can I still get that interview with ya?
+15,01##> Spyre: Demo Demo!!!
+15,01##> AcidFlash: You're an immature lamer
+
+15,01##> SPEED! CONTROL! POOOOWER!!!! <GRUNT>!!!
+
+15,01m Closing Comments mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+15,01Well, to all those who frequent the 613 and 819 area you may have noticed a bit
+15,01of cofusion as to my identity.  Yes, I am Dark Half, I assumed the Handle, 'The
+15,01Unknown' as my artsy handle.  And if you don't call out to 613/819, you should,
+15,01it is a fastly expanding area code boasting now 3 amazing groups (Union, Shiver
+15,01and now Triad), Blur, Axidental (a group featured in ASM 94),and a multitude of
+15,01fast multi-node boards. See everyone in Triad Pack #3.
+

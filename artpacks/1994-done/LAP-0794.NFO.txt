@@ -1,0 +1,80 @@
+15,01                     10L11a14pse Information File July 1994
+14,01""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+14,01  Well, after a long month without releasing a pack we finally decided to let
+14,01you take a look at our new work. Hellspawn is most definetly the star of this
+14,01pack. He released quite a bit of work this month and all of it was quality. Of
+14,01course, this pack is a little large considering it's two months of work.
+14,01  LapseView was finished and we thank The Red Flame for putting in so much
+14,01time and effort on this project. It turned out to be one of the best viewers
+14,01out there, along with AGSE and SAUCE support. Considering it was codes in
+14,01pure c/assembly it is alot faster than most viewers. It also autodetects your
+14,01graphics capabilities etc.
+14,01  As for sites, I have totally cut off all applications for sites in the US.
+14,01Anyone who runs a board in Europe or Canada is welcome to apply if they
+14,01please. If you are accepted you also have the choice of picking up Slime-Net
+14,01Lapse's Official Network run by yours truly..
+14,01  We were working on a merger with a smaller group called "Illegal FX"..
+14,01Unfortunatly, it didn't work out due to conflicts of interests between the
+14,01two of us. We were then offered a merger with VOR, which was quickly turned
+14,01down due to both of our overwhelming demands.. =)
+14,01  Lapse takes to the internet... I've basically taken over the internet
+14,01coordination. We now have an irc channel called #lapse, and a bot to keep
+14,01the channel up and running 24 hrs a day. If you have access to internet and
+14,01need to contact me or any lapse member, we can usually be found on #ansi or
+14,01#lapse. If you're applying for a certain position /dcc your application to
+14,01LpsServ.. our bot. Our packs will also be available on hornet.eng.ufl.edu..
+
+14,01""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+14,01  I'm glad to get this pack out. Over the past through months, I've seen
+14,01a lot of ugly things in modem world. And I was about ready to call the whole
+14,01thing quits... But, after seeing that there were still some decent people
+14,01out there, I convinced myself to stay with the scene. My thanks go out to
+14,01the members who continue to support and stick with the group. Including,
+14,01(But not limited to..<g>) The Red Flame, Conan, DT, Insanitor, Rodent,
+14,01HellSpawn, Ghent, and of course, Time Killer.. Who has probably put more hours
+14,01into the group than anyone else. There are others that I'm just not
+14,01remembering right now.. Probably because I haven't heard from them for so
+14,01long.. But that's getting off-topic.
+
+
+14,01    This month will contain the awesome new viewer by The Red Flame. As well
+14,01as contributions from some of our other awesome coders.. (Let's face it.
+14,01Our Coders ROCK.. <g> This means you, Insanitor, Conan and Ghent. :))
+14,01Some great ANSI's by Hellspawn.. Who turned out to be the worker that the
+14,01ANSI department really needed. Hopefully, some VGA stuff by MindChild will
+14,01included in the pack when it's released... And finally Music.. Some GREAT
+14,01stuff by insanitor should be included. And I should have two or three .s3m's
+14,01in as well.. My first attempts at the .s3m format..
+14,01    Anyways.. We will keep plugging away, trying to produce quality art
+14,01of all kinds, and flipping the bird at the established art hierachy.
+
+14,01:game:#:lapse:
+
+14,01"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+14,01Well, it's finally here: the July Lapse pack.  I'm in truth I'm15                14"
+14,01surprised that we got it out; there has been so much schlop we've had to deal
+14,01with that, all the odds were basically against us.  But it's here.  I'd like
+14,01to think that that fact says something about Lapse, but I could be wrong.
+14,01This pack marks the debut of LapseView which many people contributed
+14,01to.  I'd personally like to thank all of the Lapse members who offered
+14,01invaluable programming assistance, as well as those who downloaded each and
+14,01every update and encouraged its development every step of the way.  This means
+14,01a lot and in all probability, without the support, interest in the continued
+14,01development of LapseView would probably not have been nearly as intense as
+14,01it was.
+14,01As many of you know, there was no June pack.  This was mainly because
+14,01of conflicts within the Lapse hierarchy, and the fact that we basically had no
+14,01new art to put in the pack.  It seemed as if the future of Lapse might be
+14,01in jeopardy.  A solution was reached: we would continue on and produce a July
+14,01pack with the combined work of both months.  But as the July 7th deadline
+14,01loomed uncomfortably close, it seemed as if the situation indeed had not
+14,01changed.  Having spent countless hours writing the viewer, it was particularly
+14,01discouraging to think that there would be no art to view!!
+14,01Suddenly, about a week before the deadline, the art began to literally
+14,01flow in.  And it is good art, not just hurried work.  I am very excited about
+14,01the quality of the art we have to display this pack, and the music is of
+14,01unparalleled excellence.  I'd like to thank all the people who worked feverishl
+14,01to meet the deadline, and especially would like to thank Time Killer for15       14y
+14,01sticking with us again, since we really can't do it without him.
+
+14,01--TRF [Lapse] (mo0959@u.cc.utah.edu)

@@ -1,0 +1,78 @@
+15,01             12mm12,12 12,01"    mm14,12 10###12,01mm15      12mm14,12 10###12,01mm "m15     12mm14,12 10###12,01mm15     12mm12,12 12,01"
+15,01            12,12##12,01"15     12,12#14 12,01"12,12## 12,01"14,12  12#15,01    02,02@12,12#12,01""""12,12  #02,02@15,01 12||   02,02@12,12#12,01""""14,12 12 #02,02@15,01   12,12##12,01"
+15,01           02,02@12,12#12,01|15     12,12##15,01 02|02,02@12,01"   "12,12##15,01  02,02@02,01"15      02"02,02@12#02,01|12|12,12#15,01  02,02@02,01"15      02"02,02@12#02,01| 02,02@12,12#12,01|
+15,01          02|12,02#02@12,12#12,01mmm"02|02,02@02,01|  "15     02|02,02@02,01|02,02@02,01|15        02|12,02#02,01||02,02@02,01|02,02@02,01|15        02|12,02#02,01||12,02#02@12,12#12,01mmm"
+14,14 14,01"""""""""02|12,02##02@12,12#12,01" 14"02|12,02#15,01 14"""""""" 02,02@02,01|12,02#15,01 14"""""""" 12,02#15,01 02|02,02@02,01|12,02#15,01 14"""""""" 12,02#15,01 02|12,02##02@12,12#12,01" 14"""""""""""14,14 
+14,14 15,01          12,02###02,01"    12,02#02,01|15        02|12,02#15,01 02||  "mmmmm"  |12,02#15,01 02||  "mmmmm14,02 02,01m  12,02###02,01"15             14,14 
+14,14 15,01           12,02##02,01m15     12,02#15,01        12,02#15,01   14,02 15,01           02||  14,02 15,01        02""14,02 02,01m 12,02##02,01m15             14,14 
+14,14 15,01            02""12,02##02,01mmm "m    m"15     02"m15        02m"    "m15         02"m ""12,02##02,01mmpc15       14,14 
+14,14 15,01                                                                              14,14 
+14,14 15,01                   00++++++++++|| +|   +++++|+++| ++++++++++15                    14,14 
+14,14 15,01                   12||||||| |++| ++   ||+ |||++| +  || + |+15                    14,14 
+14,14 15,01                   02+|++++| |++++++   +|+++++++++++ || +++|15                    14,14 
+14,14 15,01                                                                              14,14 
+14,14 14,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,14 
+
+
+02,01E12m15p00ire Monthly News Update for the date of 01/0115/129024 00-----13-00-13--00--13-00-13---06-13-06-13--06-13-06--13-06--
+
+06,01   14Okay... Time for the Monthly News Flash. Here's what's happening in Empire...
+
+00,01#    11Having taken our internal restructuring efforts into the month of December,
+11,01  our group has now taken a turn toward  the  better . This month, we acquired a
+11,01  few new members, including new positions  for   West Coast, the United States,
+11,01  and the World Coordinators.  Their efforts make the politics of the group more
+11,01  stable and secure,  as well as spread the group's packs into Australia, Europe
+11,01  and any number of  other  places as  well.  We see  European  sites,  HQs, and
+11,01  artists in our future... and we have already expanded into  Australia, picking
+11,01  up Flick as an artist, and Violent Crimes as our Australian HQ  along the  way
+11,01  I truly believe that within 3  months,  this  group  will  be  a  considerable
+11,01  alternative to ACiD or iCE, without as much of the  competition  and pressure.
+11,01  This was one of my major long term  goals  in the creation of Empire, and  I'm
+11,01  proud to say that soon that goal may be achieved. I'd like to take this  space
+11,01  to thank Dark Vision, Shadow Hawk, Night Crawler, Flick, and Sudden Death  for
+11,01  their contributions in this matter.
+
+00,01#    11With the crippling retirement of Killraven, and the end of the year, come
+11,01  the end of the short age or Empire's birth. This event has saddened us all,
+11,01  but we continue on into the next year. With the death of our first age (I call
+11,01  it this because I cannot call it a year, and this year having passed marks a
+11,01  turn in Empire's history... therefore I refer to it as an 'age'), comes the
+11,01  beginning of our next 'age', ushering in a relative prosperity in the group.
+11,01  In October of '93, we set out with big plans to become a respected group, but
+11,01  without becoming media slaves in the process. We have taken a large step in
+11,01  that direction with the first three months of our existence, and ahead of us
+11,01  seems to lie a stable future, filled with much more prosperity. With the
+11,01  retirement of Killraven we have the recruitment of many great artists. There
+11,01  are so many artists now in Empire, I can not and will not name them all. I
+11,01  don't put any of them above the other, so I never express my favorite...
+11,01  besides... they know. ;)
+
+00,01#    11EmpireNet was a codename for the net which was to be born hosting Empire.
+11,01  That name has now been officially set to ConquestNet. However, ConquestNet is
+11,01  now no longer ready for applicants from the United States. We are in a testing
+11,01  stage and plan to carry boards in Australia and Europe, and are accepting only
+11,01  their applications at this time. Sorry if it disappoints you.
+
+00,01#    11Premier Magazine continues production. Artists and coders are hard at work
+11,01  getting the interface together, but we are not accepting articles or writers
+11,01  until we have finished the coding and art for the magazine. We were unable to
+11,01  release a demo this month, due to the Christmas Events eating up our time.
+11,01  We predict a release sometime in March, but we still refuse to set a hard
+11,01  date.
+
+
+11,01   14That's the news for January 1st, 1994... Stay tuned: more news at eleven...
+
+00,01++++++++++++   ++++   +++|++   ++++
+13,01|+|++ +  |++   |+||   |||||15     13|||   00---------13-00--13-00-13--00-13-----06-13--06-13-06--13--06-13-06---- -- -
+04,01+++|++++ |++   ++++   ++++|15     04|++
+
+00,01Beastie 14---------------- 15Get me into Federation, please. ;) 14--------------------
+00,01Primordial Chowder 14----- 15Woops. Spelled it wrong... 14----------------------------
+00,01Shattered Mind 14--------- 15Dip the envelope, please. ;) 14--------------------------
+00,01Flick and Sudden Death 14- 15Greets to Australia! G'Day! ;) 14------------------------
+00,01Vector 14----------------- 15We need a bug zapper... ;) 14----------------------------
+00,01Dieter 14----------------- 15Still going... nothing outlasts the energizer greets.;)
+00,01Dark Vision 14------------ 15Hey... It's me. ;) 14------------------------------------
+00,01Flick of the Switch 14---- 15For as many users as you have, your board's real busy.;

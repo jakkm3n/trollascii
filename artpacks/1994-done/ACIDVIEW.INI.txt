@@ -1,0 +1,66 @@
+15,01; 00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01; |  ACiDView 2.02 Initialization (.INI) file - ACiD Productions(tm) 1994   |
+15,01; |                   See ACiDVIEW.NFO for more information                 |
+15,01; 00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+15,01;---------------------------------- Notes -----------------------------------
+15,01;  The format of the commands below MUST be left as it is.  You should only
+15,01;  modify the information between the "" marks, or after the = mark if it
+15,01;  is a toggle.
+15,01;  For example... putting SCROLL_BACK=SURE,DUDE! most likely would not work.
+
+15,01;----------------------------- Start Up Config ------------------------------
+15,01DEF_FILE_SPEC="*.TDD"
+15,01;  The file mask used when ACiDView is run with no command line arguments.
+15,01;  DEFAULT specifies the loading of *.ANS and *.RIP.
+
+15,01FILE_SPEC2="*.ME*"
+15,01FILE_SPEC3="TDD*.*"
+15,01;  ACiDView allows you to load up to 3 file masks at start-up.
+
+15,01DEFAULT_DIRECTORY="."
+15,01;  This is the default directory ACiDView will attempt to mask files from.
+15,01;  EG:  "D:\ANSI\ACID" or "." to load from the current directory.
+15,01;  You may or may not use a backslash at the end.  If this directory is
+15,01;  invalid or not found, the current directory is used.
+
+15,01SCROLL_BACK=ON
+15,01;  This is the default state of the Scroll-Back function.
+15,01;  ON - ScrollBack is ON at Start-up   OFF - ScrollBack is OFF at Start-up
+
+15,01ANSI_SPEED=0
+15,01;  This is the default state of the Ansi-Delay function.  This is given in
+15,01;  CPS (Characters Per Second)
+15,01;  If 0 is placed for this answer, there will be NO DELAY at start-up.
+15,01;  EXAMPLES: 240 would simulate a default 2400 baud state.  960 would be 9600.
+15,01;  MAX:  A maximum of 3840 is permitted.
+
+15,01VIEW_MODE=1
+15,01;  This is the default ansi viewing mode.
+15,01;  1=80x25   2=80x50   3=VGA 16   4=MCGA 256   5=640x480   6=800x600
+15,01;  7=1024x768
+
+15,01;--------------------------- Misc. Configuration ----------------------------
+15,01VGAFADE=ON
+15,01;  This is the toggle for the VGA fading when you exit ACiDView
+
+15,01USE_SAUCE=ON
+15,01;  This is the toggle for reading the SAUCE Definition.  If this is ON, a short
+15,01;  description and the artist are shown.  If toggled OFF, ACiD View will
+15,01;  Initialize MUCH faster.
+
+15,01LOG_DIRECTORY=ON
+15,01;  This is the toggle for ACiD View to load directories into the file listing.
+15,01;  If turned off, no directory changing will be available.
+
+15,01LOG_DRIVE=ON
+15,01;  This is the toggle for ACiD View to load drives into the file listing.
+15,01;  If turned off, no drive changing will be available.
+
+15,01BAUD_SIM=ON
+15,01;  This is the toggle for the Baud-Simulation.  If ON, Baud-Simulation will be
+15,01;  initialized when ACiDView starts.  If you are running ACiDView in a shell
+15,01;  that uses the timer in any way (IE:  Music (DMP) shells while music is
+15,01;  playing) then turn this OFF or use the /NB command line parameter.
+
+15,01; --------------------------- END OF ACiDVIEW.INI ---------------------------

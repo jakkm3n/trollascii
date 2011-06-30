@@ -1,0 +1,79 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                          J  U  N  E     1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Welcome to the iCE Physical Therapy Ward!   On your left -  the man we know
+15,01as Doctor SlipperyFinger, Force Ten!   He's not the one with the Frito-flavored
+15,01nipple clasps, but you can see the top of his head over that large man we found
+15,01on the street  pawning dollar  bills.   Next to him you  can see Mass Delusion,
+15,01teaching those small naked children Spanish  and holding up that one to get the
+15,01funnel from the nice woman baking pies.  Boy!  I hope that plastic tube doesn't
+15,01catch the hook holding up the suspension-harness, or that old woman is going to
+15,01get some SERIOUS rug-burn!
+
+15,012.  Doodlebug, our PR  Spokeperson and  star of Cleopatra Jones,  was seriously
+15,01wounded during the mad rush when the tour  bus unloaded the new members of iCE.
+15,01In order of the number of testicular  nodules, here is the new crew that can be
+15,01seen walking the cramped  halls of our office  space:  The Knave - an old  ACiD
+15,01fellow, attended his first iCE Sleep-over,  and held the candle with the lights
+15,01out and told us  all about his childhood  fears.  Needless  to say, we all felt
+15,01the same  way  about the  Kool-Aid Man(tm),  so  he was  admitted  immediately.
+15,01Shoten, an energetic vga artist,  told us of his love for fresh packing tape on
+15,01his "nether regions",  and was unanimously  welcomed.   Mads Vester, a friendly
+15,01Dane,  felt funny  around dogs -  resulting in  a fantastic  welcome!   Nosegos
+15,01showed  us his embarassing  birthmark and the fun just didn't stop there, so he
+15,01was quickly brought into the fold.
+
+15,013.  Trauma and iCE have parted ways,  sadly rather  unpleasantly.   Trauma will
+15,01most likely  never be  returning  to  iCE,  but we  wish him  well in  all  his
+15,01endeavors and sexual conquests.
+
+15,014.  Inazone, along with his sock  puppet Guido, will be taking over for Kadaver
+15,01and Count Zer0  as the new  ansi coordinator.   He told us to let everyone know
+15,01that he has a  shiny new bike  and rides it every day and his mom said they can
+15,01take the training wheels off next week if he's good.  But he refuses to eat the
+15,01broccoli, and  complains that  it's not fair  that he  has to  ride a bike with
+15,01training wheels at age 22.  She told him to go to his room.
+
+15,015.  Vesalius, now a full doctor with a family and a serious love for turds, has
+15,01just become too busy to keep up his zany,  crazy job of VGA Coordinator.  While
+15,01we were sulking over who to choose  as the new VGA head, Roland came around the
+15,01corner  holding aloft his  brand new  AK-47 with a  crowd  of angry  FBI agents
+15,01directly behind him.   As a result,  Roland is the new VGA Head.  His first act
+15,01was to declare  himself VGA  Coordinator  For Life  (VCFL),  so we expect to be
+15,01working with him for quite some time in the future.
+
+15,016.  Slothy, that assy Lord Soth turd, is now Senior Staff again.  Bad move, but
+15,01everyone's entitled  to their mistakes.   Word on the street  is that Slothy is
+15,01already plotting to collect  a tax on  childbirth in order  to finally purchase
+15,01his very own Oscar Meyer food plant.  Grand plans - let's see what comes of it.
+
+15,017.  We hope you enjoy this pack!  The ansi team all came out this month to take
+15,01part in the grand party we had.  We put on our skimpiest clothes and showed off
+15,01what we got and shook  it all around the  dance floor, and we  think you'll dig
+15,01our swinging shimmy - we know that Sinned Soul of ACiD sure does.
+
+15,01                                                        - Lord Soth
+
+15,01-------------------------------------------------------------------------------
+15,01   Lord Soth       Cold and Ugly          Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

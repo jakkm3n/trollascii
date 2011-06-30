@@ -1,0 +1,80 @@
+15,01Next Valueing PPPrintLn If (FlagFPutLny 2, Outeptable but cannot be added to the
+15,01FCloseX01,@X0E"(Shawn PoEndIf)  Inc     NumericalThing
+15,01Pop     Count   Next ValuedIfs full@X06,@X0E Damnit!"
+15,01ReturnesNext CountmmentsBreaked to get rid of money?
+15,01;=======PrintLn="@X05(@X0D"+String(Current)+" entries deleted@X05)"=============
+15,01; Mr. DaOut = "BBSL.PPE: User deleted "+String(Current)+" entries in bbs listing
+15,01" SearchElseu for searching... duh!D, S_DN way, ;keypress aborte list fileuys)
+15,01:SearchBLog CounOut, FalseBsSoft+1
+15,01ElseS.A.        PrintLn "@X0CAborted@X04."
+15,01PrintLn PrintLn-"@X0CAborted@X04."------------------+"
+15,01EndIfLn EndIf| @X1F BBs list PPE  v0.02KB by: Mr. Data @X07 |"
+15,01FClosele2@X08+--------------------------------------+"
+15,01Waitsee 0
+15,01Goto--maStart this source in your own programs but you MUST at least greet
+15,01;===============================================================================
+15,01PrintLn="@X05(@X0D", NumericalThing, " Entries Found@X05)"nes for description."=
+15,01:WaitStat@X06[@X0EN@X06]@X0Fumber"@X04Sysop Name, Hard drive meggage, CPU type/s
+15,01BackUpSt1pX06[@X0ES@X06]@X0Foftware"
+15,01IncotLn WaitNumX0EZ@X06]@X0Fippy Scan"anything that pertains to this BBs."
+15,01If (WaitNum > Len(StripAtX(WaitString))) Then-----------------------------------
+15,01PrintLnnWaitNum = 1nter@X06/@X0EX@X06/@X0EQ@X06]@X0Fuit" and handle empty notes
+15,01EndIfIt BBsNote(BBsNumNotes+1) = ""     ; while counting valid notes.
+15,01PrintFlaMid(WaitString, (WaitNum*5-4), 5)sNumNotes+1), @X06, BBsNoteLen-1, Mask_
+15,01Returnm SearchInitNewLinDefault, False                  ;Boyer-Moore search
+15,01;===============================================================================
+15,01EndIfStrIf (BBsN"@X0EWell@X06", Cmd, @X06, 1, " ANSZQX", Guide + FieldLen + Upca
+15,01Return  Count, VInce, NuBBsNumNotesg, Current, Total, FindIt, Poo
+15,01;===============================================================================
+15,01If (Cmd = "A") Then BBsNodes, BBsACNumLen, BBsNumberLen, BBsSpeedLen, BBsLocLen
+15,01; Delete a bbs from the listen
+15,01:DeleteBBsmd = "N") ThensNumNotes, MaxSoft, SoftRows, SoftCols, LocalAreaCode
+15,01Clsord  GotopeedNumberSearch                    ;generate output
+15,01Printf  "@X0EReading in List@X06..." StatFlag
+15,01FClose  0otolaySSoftSearch
+15,01FOpenf==0, BBsListFile, O_RD, S_DN==============;count total entries============
+15,01Total = 0oto    ZippySearch
+15,01EndIfStrInitiali"Is This What You Want@X07", Cmd, @X0F, 1, " yYnN", Guide + Fiel
+15,01While (FErr(0) = False) Do
+15,01;-------Gosub---GetListEntry----------------------------------------------------
+15,01BBsListFIncub   TotalEntry)+"BBS.LST"
+15,01EndWhilerch by Area Codeh()+"BBSSOFT.LST"
+15,01DeceaSeaTotal   = PPEPath()+"BBSTEMP.LST"
+15,01NewLineiFinished= PPEPath()+"BBSL.LOG"
+15,01If (Total = 0) ThenPEPath()+"BBSMODEM.LST"
+15,01Default PrintLn "@X05(@X0DNo Entries in listing@X05)"
+15,01InputStrWait----"@X0EPartial or Full Area Code to Search@X06", Default, @X06, BB
+15,01ElseumLen, Mask_Num()+"o", FieldLen+Guide
+15,01Cls---tLPrintLnn"@X05(@X0DThere Are ", Total, " Entries@X05)"
+15,01PrintLnnCurrent = 1ing for Area Code @X0C", Default, "@X04..."
+15,01Gosub-beNumericalThing = 1
+15,01FCloseed0en     = 10
+15,01FCloseisFCloseis0File)) Then+1+BBsLocLen+1+BBsSoftLen+1
+15,01FOpenteLFOpensLi0, BBsListFile, O_RD, S_DN      ;Open Li;reopen list file
+15,01NumericalThing = 0ReadLine(BBsCfg,3)
+15,01SearchInGosubtLnListHeaderalseing ", BBsListFile
+15,01BBsACNumCmd = ""0, BBsListFile, O_RW, S_DN      ;Create if necessary
+15,01While (FErr(0) = False) Do
+15,01BBsNumbe:DelStartetListEntry
+15,01;-----edGosub ItGetListEntry
+15,01FPutLnX :DelDispndBsNameString(BBsACNum), Flag
+15,01FPutLntXGosublagDisplayStuff)
+15,01FPutLneXPrintrim"@X04(@X0C", Current, "@X04)@X08, @X03(@X0A+@X02/@X0A-@X03)@X08,
+15,01 @X03(@X0AN@X03)@X02ext@X08, @X03(@X0AP@X03)@X02rev@X08, @X03(@X0AD@X03)@X02elet
+15,01e@X08, @X03(@X0AL@X03)@X02ist@X08, @X03(@X0AQ@X03)@X02uit@X06"
+15,01For CounFor Count = 1 to NumericalThing
+15,01EndWhileFPutLn  If (Hold(Count) = Current) Then
+15,01FCloset 0PutLn  0, RTrimPrintpee"@X0F*@X06" ")
+15,01BackUpou1tode   = ReadLiCount = NumericalThing
+15,01PrintLni"@X05(@XEndIfNumericalThing, " Entries Found@X05)"
+15,01WaitCounNext CountBsNumNotes
+15,01SearchStoputLn==0, RTrim(BBsNote(Count), " ")===================================
+15,01Goto CouInputStr        "", Cmd, @X06, 1, " +-dDlLqQnNpP", Guide + FieldLen + Er
+15,01aseLine + Upcase + NewLine------------------------------------------------------
+15,01;=======If (Cmd = "+") Then=====================================================
+15,01; Do Search by PGoto NumNext
+15,01:NumberSElseIf (Cmd = "N") Thenry for '" + BBsName + "' in bbs listing"
+15,01NewLine Out, FalGoto    Next
+15,01NewLine ElseIf (Cmd = "") Then_DN
+15,01Default = "" + MGoto(U_NNext)) + "@X03 added @X09" + BBsName + "@X08."
+15,01While (DElseIf (Cmd = "-") Thenme so I make the border width adjustable :)

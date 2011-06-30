@@ -1,0 +1,5 @@
+
+15,01+==========================+ MAIL SCANNING COMMANDS +=========================+
+15,01| Number) Change scan point    E) Edit sender    S) Send mail    D) Delete    |
+15,01| R) Edit receiver             A) Read again     Enter) Next     Q) Quit      |
+15,01+=============================================================================+

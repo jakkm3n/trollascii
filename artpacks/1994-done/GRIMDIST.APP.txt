@@ -1,0 +1,45 @@
+15,01                [.....]  GRiM Distrobution Application [.....]
+
+15,01                Handle [.........................................]
+15,01             Real Name [.........................................]
+15,01    VOICE Phone Number [.........................................]
+15,01  Current Affiliations [.........................................]
+15,01     Past Affiliations [.........................................] 
+15,01 
+15,01                 Name [..........................................]
+15,01               Number [..........................................]
+15,01                Speed [........]  Storage [.......]  Nodes [.....] 
+15,01             Software [.............]  NUP [.....................]
+15,01               Affils [..........................................]
+15,01        Months Online [....] Active Users [.....] Percent LD [...]
+15,01             Networks [..........................................]
+15,01               Mailer [.......................]
+15,01               Tosser [.......................]
+15,01  
+15,01  Will you carry GRiMNET, The Official GRiM Support Net?  [.]Yes   [.]No
+15,01                     
+15,01                     Why are you applying to GRiM
+15,01[...........................................................................]
+15,01[...........................................................................]
+15,01   
+
+15,01[---------------------------------------------------------------------------]
+15,01  Rename this textfile to the first 8 characters of your BBS then send 
+15,01  it to the GRiM WHQ listed below.  
+
+15,01                          Violent Playground
+15,01                        (908)/920-2575 - 14.4k
+15,01                        (908)/920-7920 - 28.8k 
+
+15,01  When logging on, you may either logon new and attatch it to mail, or use
+15,01  the GRiM Guest Account available from the Matrix to upload your application
+15,01  pack quickly.  All accepted applicants will be notified within one week by
+15,01  phone of their acceptance.  A courtesy call will be made to those not 
+15,01  accepted into the group, but dont expect us to go crazy trying to get a hold
+15,01  of you.
+
+
+
+
+15,01[---------------------------------------------------------------------------]
+15,01 

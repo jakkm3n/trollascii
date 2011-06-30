@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01IcE IcE IcE IcE IcE IcE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,011. Once upon a time,       14,15#15,01   |m         14,15#15,01       #         there was a little
+15,01   ferret who ran around happily 00@15         |         .in the frozen wasteland.
+15,01   Nibbles the ferret enjoyed     .       #    .hopping, bopping, and playing.
+15,01   Until one day, when the big bad NetSplit came and threatened to eat her up!
+15,01   What's a poor little ferret to do?  So Nibbles called her  good friends and
+15,01   cohorts Force Ten, Friar Tuck, and Mass Delusion to set her up with new tcl
+15,01   scripts.  And they all lived happily ever after in iCE.org.
+
+15,011X.Oh boy.  If you haven't already noticed, I've lost it.
+
+15,012. Wow October is a slow month...
+
+15,013. Viper was removed from the active memberlist because he moved to Jupiter on
+15,01   a bicycle built for two.
+
+15,01   Also Split decided Motion is the group for him, although not because of the
+15,01   apology listed below.  Sorry to see ya' leave, cornholio.
+
+15,014. On a more  serious note,  iCE would like to  extend a warm welcome to a few
+15,01   new  cohorts in  artistic  representation.   (uh, that's  like,  doodleboys
+15,01   and stuff -BH  yeah! m m heh heh m -B)  They are: Visigoth, VGA Studmuffin,
+15,01   Devine Styler,  ANSI Starlet, and The Green Hornet, ANSI Insect and overall
+15,01   super guy.  Yep.   That's as serious  as it gets  when I do  the .NFO file,
+15,01   folks.
+
+15,015. Lemonade has  shocked  the  United States  by  introducing  a  new  line of
+15,01   freshly  squeezed ANSI juices.   The juices are advertised  with the slogan
+15,01   "OJ will kill you, drink some nice cool Lemonade!"
+
+15,016. Mass Delusion failed another midterm and has been demoted to Trial Courier.
+15,01   He will report to Lord Soth, who is the Senior Trial Courier. Force Ten has
+15,01   been appointed  Administrative Head  to the Chief Trial  Courier Assistant,
+15,01   who was not available for questioning.
+
+15,017. Site News!  arpeggio.res.cmu.edu in /othergroups/ice is one site that holds
+15,01   our packs!  New packs  can be found in the  /incoming directory.  Our world
+15,01   wide web page is still under construction at  http://www.ice.org.  Speaking
+15,01   of which, our very own domain (ice.org) is evolving as we speak!  E-mail us
+15,01   with a hello to ice@kiwi.ice.org!  More ice.org news to come... stay tuned.
+
+15,018. I'd like to  encourage everyone  to check out  the rad  Freedom  Intro with
+15,01   graphics by our very own XTen!   It's better than audio tapes of Friar Tuck 
+15,01   winning the Alfred University Belching Competition.   Go Xten!  Get this on 
+15,01   ftp.cdrom.com at /demos/hornet/freedom/freedom.zip
+
+15,019. There is no  number nine.   I don't like  this number.   Actually,  I don't
+15,01   really  mind it, but since this is my first .NFO  in a long time,  I wanted
+15,01   to do  something interesting to  make people think.   Bet you're  thinking.
+15,01   Bet you're  thinking about number  ten huh?  What if I told you there isn't
+15,01   a number ten either?   Heh Heh Heh.   Ooooooooooohhhh Baby.   You know, now
+15,01   that I  think about it,  I like the number  nine.  Why?   Because  the lead
+15,01   singer of  Love  Battery's name is  Ron Nine,  and I think  they're kind of
+15,01   rad.  So there, I guess there is a nine.   A pseudonine.  Don't use that as 
+15,01   your handle.  It's like, mine.  And don't use my real name on a conference.  
+
+15,01   If you know what that means, you're oldskewl.  Hi.
+
+15,0110. This spot is reserved in memory of Shannon Hoon.
+
+15,0110X.Hi J'onn.  High Ben.  Hi Defect.
+
+15,0111. iCE's Canadian Headquarters, The Twisted Tower, has been attacked by large 
+15,01    armies of  satanic lemmings.  The lemmings  fought nobly and  overtook the 
+15,01    walls of the great Tower, which is now completely run by the lemmings. The 

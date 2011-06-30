@@ -1,0 +1,48 @@
+15,01UNIVERSITY GRADING POLICIES ACCORDING TO EACH DEPARTMENT
+15,01 
+15,01 DEPT OF STATISTICS:
+15,01 - All grades are plotted along the normal bell curve.
+15,01 
+15,01 DEPT OF PSYCHOLOGY:
+15,01 - Students are asked to blot ink in their exam books, close them and turn
+15,01   them in. The professor opens the books and assigns the first grade that
+15,01   comes to mind.
+15,01 
+15,01 DEPT OF HISTORY:
+15,01 - All students get the same grade they got last year.
+15,01 
+15,01 DEPT OF RELIGION:
+15,01 - Grade is determined by God.
+15,01 
+15,01 DEPT OF PHILOSOPHY:
+15,01 - What is a grade?
+15,01 
+15,01 LAW SCHOOL:
+15,01 - Students are asked to defend their position of why they should receive
+15,01   an A.
+15,01 
+15,01 DEPT OF MATHEMATICS:
+15,01 - Grades are variable.
+15,01 
+15,01 DEPT OF LOGIC:
+15,01 - If and only if the student is present for the final and the student
+15,01   has accumulated a passing grade then the student will receive an A else
+15,01   the student will not receive an A.
+15,01 
+15,01 DEPT OF COMPUTER SCIENCE:
+15,01 - Random number generator determines grade.
+15,01 
+15,01 MUSIC DEPARTMENT:
+15,01 - Each student must figure out his grade by listening to the instructor
+15,01   play the corresponding note (+ and - would be sharp and flat
+15,01respectively).
+15,01 
+15,01 DEPT OF PHYSICAL EDUCATION:
+15,01 - Everybody gets an A. ( I wish I was here)
+15,01 
+15,01 DEPT OF Finance:
+15,01 - Each student must invest in stock market and the one who get the
+15,01 highest ROA will get an A
+15,01 
+15,01 DEPT OF Accounting:
+15,01 - Whoever can balance the Balance Sheet and skip the IRS will get an A.

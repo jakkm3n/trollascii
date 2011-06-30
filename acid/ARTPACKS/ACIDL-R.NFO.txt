@@ -1,0 +1,80 @@
+
+15,01   #-----------------------------------------------------------+
+15,01   |  "The Aquisition" - Contains L-R of the ANSi Collection.  |
+15,01   |  Background History:    The Aquisition was originated in  |
+15,01   |  San Jose, California.   After it had been organized and  |
+15,01   |  its contents  sorted,  it first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To this day the original zips are still  |
+15,01   |  floating around,  but as  more  and  more high  quality  |
+15,01   |  computer graphics are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                   |
+15,01   +===========================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |     The Aquisition : Volume L-R *      May  1st, 1992     |
+15,01   +-----------------------------------------------------------+
+
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01 | 1 |L0GIX    ANS |   6961 | 5.03.90 |A   | L0gix Probe                     |
+15,01 | 2 |LEXACID  ANS |  19272 |11.15.90 |%Ax | Lexicon of the Cabal         (1)|
+15,01 | 3 |LEXACID2 ANS |  23038 | 1.27.91 |%Ax | Lexicon of the Cabal         (2)|
+15,01 | 4 |LEXACID3 ANS |   5703 | 3.27.91 |%   | Lexicon of the Cabal         (3)|
+15,01 | 5 |LOGNSTAT ANS |   5271 | 1.09.91 |%   | Logon Stats for Celerity        |
+15,01 | 6 |LOGONHRS ANS |  26132 | 2.04.91 |%A  | Logon for House o/Rising Sun    |
+15,01 | 7 |LUCIDACD ANS | 176985 | 3.26.92 |%Ax+| Lucid Dreams                    |
+15,01 | 8 |LYEACID3 ANS |   7513 |11.24.91 |%A  | Crewel Lye                      |
+15,01 | 9 |MARAUDER ANS |  11458 | 1.03.92 |%+  | Marauder's Hideout              |
+15,01 |10 |MARLON   ANS |   3276 | 1.23.91 |%+  | Marlon for TFP                  |
+15,01 |11 |MAXIMUM1 ANS |   3917 | 5.27.91 |%   | Maximum Security             (1)|
+15,01 |12 |MAXIMUM2 ANS |   3924 |12.21.90 |%   | Maximum Security             (2)|
+15,01 |13 |MAXIMUM3 ANS |  18308 |12.29.90 |%Ax | Maximum Security             (3)|
+15,01 |14 |MAXIMUM4 ANS |  34989 | 6.11.91 |%Ax+| Maximum Security             (4)|
+15,01 |15 |MAXIMUM6 ANS |  20077 |11.02.91 |%   | Maximum Security             (6)|
+15,01 |16 |MAXIMUM7 ANS |   3559 |10.07.91 |%A  | Maximum Security             (7)|
+15,01 |17 |MAZEACID ANS |  82053 | 1.27.91 |%Ax | Maze Enterprises                |
+15,01 |18 |MCROACID ANS |   9866 |10.08.91 |%   | Macro Land                      |
+15,01 |19 |MECCA    ANS |   7784 |10.17.91 |%   | Red Mecca                    (1)|
+15,01 |20 |MECCACD2 ANS |  13862 | 1.21.92 |%   | Red Mecca                    (2)|
+15,01 |21 |MMACID   ANS |  42286 | 3.22.91 |%A  | Magical Mystery                 |
+15,01 |22 |NEUA1    ANS |   2778 | 4.12.91 |%   | NEUA Logo                    (1)|
+15,01 |23 |NEUA2    ANS |   3002 | 4.12.91 |%   | NEUA Logo                    (2)|
+15,01 |24 |NEUA3    ANS |   2812 | 4.12.91 |%   | NEUA Logo                    (3)|
+15,01 |25 |NEUA4    ANS |   4325 |11.23.91 |%   | NEUA Logo                    (4)|
+15,01 |26 |NTGACID  ANS |   8035 |12.02.91 |%+  | Nevada Testing Grounds          |
+15,01 |27 |OE-ACID2 ANS |   5569 |12.13.91 |%   | Oriental Express             (2)|
+15,01 |28 |OE-ACID3 ANS |   3919 | 1.19.92 |%   | Oriental Express             (3)|
+15,01 |29 |OIL      ANS |   2226 |12.21.90 |%   | Midnight Oil                 (1)|
+15,01 |30 |OIL2     ANS |  10607 |12.21.90 |%+  | Midnight Oil                 (2)|
+15,01*|31 |OORACID3 ANS |   6515 | 3.28.92 |%+  | Out of Reach                 (3)|
+15,01 |32 |OVERKILL ANS |   3278 | 1.25.91 |%   | Over Kill                       |
+15,01 |33 |PALAD1   ANS |   3540 | 5.24.91 |%   | Paladium                        |
+15,01*|34 |PARADACD ANS |   9228 | 4.16.92 |%+  | Paradise City                   |
+15,01 |35 |PARTYPIG ANS |   9722 | 3.12.92 |%A+ | "Party Pig" (TSA Logoff)        |
+15,01 |36 |PCP1     ANS |  12480 |11.03.91 |%Ax | PCP Systems                  (1)|
+15,01 |37 |PCP5     ANS |  34939 | 1.04.91 |%A  | PCP Systems                  (5)|
+15,01 |38 |PCPAD    ANS |   7724 | 5.28.91 |%A  | PCP Systems                     |
+15,01*|39 |PE1ACID  ANS |   6965 | 4.08.92 |Ax  | Public Enemy                    |
+15,01 |40 |PEJOKE   ANS |  33842 |12.25.90 |Ax  | P.E./911 Is A Joke              |
+15,01 |41 |PENTHOUS ANS |  31774 | 1.21.91 |%Ax | Penthouse                    (1)|
+15,01 |42 |PENTHOU2 ANS |  13222 | 3.11.91 |%A  | Penthouse                    (2)|
+15,01 |43 |PENTHOU3 ANS |  41416 | 3.04.92 |%A  | Penthouse                    (3)|
+15,01 |44 |PHANT-3  ANS |   3744 | 5.15.91 |%   | Phantasy Zone                (3)|
+15,01 |45 |PHANT-4  ANS |   4153 | 5.15.91 |%   | Phantasy Zone                (4)|
+15,01 |46 |PITSACD1 ANS |  39655 |11.30.91 |%Ax | P.I.T.S.                     (1)|
+15,01 |47 |PITSACD2 ANS |  10431 |11.30.91 |%+  | P.I.T.S.                     (2)|
+15,01 |48 |PORACID  ANS |  19236 | 8.18.91 |%A  | Pool of Radiance                |
+15,01 |49 |RAZOR    ANS |   4240 | 5.28.91 |    | Razor 1911 Logo                 |
+15,01*|50 |RCKYACD2 ANS |   9186 | 4.22.92 |%+  | Rocky Mountains              (2)|
+15,01 |51 |REACHACD ANS |   2422 | 1.03.92 |%   | Out of Reach                 (1)|
+15,01 |52 |REALMACD ANS |  53159 |12.12.91 |%A+ | Beyond the Realm of Reality  (1)|
+15,01 |53 |REALMS   ANS |   4421 |12.10.90 |%+  | Realms of Fantasy               |
+15,01 |54 |REDACID  ANS |   3875 | 5.15.91 |%   | Blood Red Sky                (1)|
+15,01 |55 |REDACID2 ANS |   7536 | 1.22.91 |%   | Blood Red Sky                (2)|
+15,01 |56 |RELM2ACD ANS |   5495 | 1.04.92 |%   | Beyond the Realm of Reality  (2)|
+15,01*|57 |RELMACD3 ANS |   2874 | 3.31.92 |%   | Beyond the Realm of Reality  (3)|
+15,01 |58 |ROCKYACD ANS |   5495 | 3.20.92 |%   | Rocky Mountains "Don't Panic"(1)|
+15,01 |59 |RZRACID1 ANS |  59137 | 5.23.91 |%Ax | Razors Edge                  (1)|
+15,01 |60 |RZRACID2 ANS | 185402 | 6.07.91 |%Ax | Razors Edge                  (2)|
+15,01 |61 |RZRACID2 MUS | 187712 | 6.12.91 |%AMx| Razors Edge                  (2)|
+15,01 |62 |ACIDL-R  NFO |   6872 | 5.01.92 |%   | This File                       |

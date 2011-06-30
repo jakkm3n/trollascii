@@ -1,0 +1,80 @@
+15,01                END,I+,L+,N-,O-,P-,Q+,R+,S+,T-,V-,X+,Y+}
+15,01              END;
+15,01PROGRAM ADF_TO_XBIN_Converter;
+15,01              CHAR_COMP     : BEGIN*******************************************
+15,01                { Character compression needs to be ended when the new        }
+15,01                { character no longer matches the run-character               }
+15,01                IF (BIN[BIN_Index].Character<>RunChar.Character) THEN BEGIN
+15,01                   EndRun:=TRUE;o a fully compliant compressed XBIN file.
+15,01                END
+15,01                { === Aborting an character compression run will only have    }
+15,01                {     benefit if we can start a run of at least 3 char/attr   }
+15,01                {     pairs.                                                  }
+15,01                ELSE IF (BIN_Width-BIN_Index>=3) AND
+15,01                        (BIN[BIN_Index].CharAttr=BIN[BIN_Index+1].CharAttr) AND
+15,01                        (BIN[BIN_Index].CharAttr=BIN[BIN_Index+2].CharAttr) THEN
+15,01 BEGIN
+15,01                   EndRun:=TRUE;rmation is copied into the XBIN as-is.  No
+15,01                ENDmed to see if the used palette and/or font match the
+15,01              END;ult font and/or palette are indeed used, they could be
+15,01 stripped out of the XBIN.
+15,01              ATTR_COMP     : BEGIN
+15,01                { Attribute compression needs to be ended when the new        }
+15,01                { attribute no longer matches the run-attribute               }
+15,01                IF (BIN[BIN_Index].Attribute<>RunChar.Attribute) THEN BEGIN
+15,01                   EndRun:=TRUE;
+15,01                END
+15,01                { === Aborting an attribute compression run will only have    }
+15,01                {     benefit if we can start a run of at least 3 char/attr   }
+15,01                {     pairs.                                                  }
+15,01                ELSE IF (BIN_Width-BIN_Index>=3) AND
+15,01                        (BIN[BIN_Index].CharAttr=BIN[BIN_Index+1].CharAttr) AND
+15,01                        (BIN[BIN_Index].CharAttr=BIN[BIN_Index+2].CharAttr) THEN
+15,01 BEGINChar35   = ARRAY [0..34] OF Char;
+15,01                   EndRun:=TRUE;F Char;
+15,01                END
+15,01              END;
+15,01{ ================================= SAUCE ================================= }
+15,01              CHARATTR_COMP : BEGIN
+15,01                { Character/Attribute compression needs to be ended when the  }
+15,01                { new char/attr no longer matches the run-char/attr           }
+15,01                IF (BIN[BIN_Index].CharAttr<>RunChar.CharAttr) THEN BEGIN
+15,01                   EndRun:=TRUE;       { +-- Implemented in Version ?        }
+15,01                ENDID       : Char5;   { 00  'SAUCE'                         }
+15,01                { === Aborting a char/attr compression will never yield any   }
+15,01                {     benefit                                                 }
+15,01              END; Author   : Char20;  { 00  Creator of the file             }
+15,01           END; { CASE }    : Char20;  { 00  Group creator belongs to        }
+15,01        END; { IF }Date     : Char8;   { 00  CCYYMMDD                        }
+15,01                   FileSize : Longint; { 00  Original FileSize               }
+15,01        IF EndRun THEN BEGIN: Byte;    { 00  Type of Data                    }
+15,01           CompressBuf[0] := RunMode + (RunCount-1);pe of file is it ?       }
+15,01           STM_Write(XB,CompressBuf,CB_Index);                               }
+15,01           IF (XB.LastErr<>STM_OK) THEN Abort('Error Writing File');         }
+15,01                   TInfo3   : Word;    { 00   /                              }
+15,01           RunCount:=0;                { Run no longer busy                   }
+15,01        END; { IF }Comments : Byte;    { 00  Number of Comment lines         }
+15,01     END; { IF }   Flags    : Byte;    { 00* Bit flags                       }
+15,01                   Filler   : Array[1..22] of Char;
+15,01     IF (RunCount>0) THEN BEGIN        { Run is still busy ?                  }
+15,01         { === Add new char/attr to current run as appropriate for compression}
+15,01         {     method in use                                                  }
+15,01         CASE RunMode OF
+15,01            NO_COMP       : BEGIN
+15,01               { Store Char/Attr pair                                         }
+15,01               CompressBuf[CB_Index]:=BIN[BIN_Index].Character;
+15,01               CompressBuf[CB_Index+1]:=BIN[BIN_Index].Attribute;
+15,01               Inc(CB_Index,2);ord;
+15,01            END;    Height  : Word;
+15,01                    FontSize: Byte;
+15,01            CHAR_COMP     : BEGINe;
+15,01               { Store Attribute                                              }
+15,01               CompressBuf[CB_Index]:=BIN[BIN_Index].Attribute;e pair. }
+15,01               Inc(CB_Index);ean OF
+15,01            END;    TRUE  : (
+15,01                             CharAttr : Word;
+15,01            ATTR_COMP     : BEGIN
+15,01               { Store character                                              }
+15,01               CompressBuf[CB_Index]:=BIN[BIN_Index].Character;
+15,01               Inc(CB_Index);Attribute : Byte;
+15,01            END;            );

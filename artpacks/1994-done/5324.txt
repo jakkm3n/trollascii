@@ -1,0 +1,2 @@
+15,01@POS=01,23@|d+-|W@P=1@|d-@REOL=-@@XPOS=62@|w[ |W@TIMELEFT:R03@ min left |w]|d-+
+15,01@POS=61,24@|WTechnical Ecstasy|d-+@POS=01,24@|d+-|W@USER@ |d- |WCommand |d>

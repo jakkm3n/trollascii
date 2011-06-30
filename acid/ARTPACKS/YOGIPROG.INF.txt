@@ -1,0 +1,80 @@
+15,01Here is a partial list of programs by Yossi Gil. Please contact the
+15,01author at the addresses given at the bottom of this file if you wish 
+15,01to gain access to any of these programs. None of the programs require 
+15,01shareware fee from private users. 
+
+15,01I also maintain a large (over 200) collection of EGA/VGA text mode fonts.  
+15,01All these fonts can be freely used and distributed.
+
+15,01Some more information on TERSE a 4096 bytes editor, and SLIM,
+15,01its bigger brother is given below.
+
+
+15,01File name     Description
+15,01------------------------------------------------------
+15,01outb.com      Write to I/O byte port from DOS cmd line
+15,01inw.com       Read an I/O word port from DOS cmd line
+15,01obsolete.com  Remove old junk files
+15,01palette.com   Show current palette of chars. atttibute
+15,01loadfont.com  Load a user defined font to EGA/VGA
+15,01breakcpi.com  Extract fonts from DOS 3.3+ *.cpi files
+15,01prnstat.com   Display LPT1: printer status
+15,01dumpfont.com  Dump text mode font from EGA/VGA adapter
+15,01rm.com        Tiny, but powerful file removal utility
+15,01prnstat.com   Displays current printer status
+15,01prn2file.com  Redirect printer output to a file
+15,01inb.com       Read an I/O byte port from DOS cmd line
+15,01outw.com      Write to I/O word port from DOS cmd line
+15,01no.com        Run command supplying N's from keyboard
+15,01int.com       Invoke an interrupt from DOS cmd line
+15,01lf.com        DOS to UNIX text file translation prog.
+15,01scan2str.com  Given scan code, find key name.
+15,01charset.com   Display the currently loaded font
+15,01t.com         The TERSE programmer's editor
+15,01_.com         Run cmd on EGA/VGA using undeline attr.
+15,01withfont.com  Run prog. with a user defined E/VGA font
+15,01yes.com       Run command supplying Y's from keyboard
+15,01every.com     Run programs periodically from autoexec
+15,01crlf.com      UNIX to DOS text file translation prog.
+15,01which.com     Locate commands and display pathname
+15,01s.com         SLIM Editor. Extended Terse
+15,01cat.com       Concatenate files. Like UNIX cat
+15,01rot13.com     A ``rotate 13'' encrypt/decrypt filter
+15,01mxify.com     Makes editors work in EMACS style
+15,01quote.com     Quote text by prepending '> ' to lines
+15,01wc.com        Count lines, words, chars. Like UNIX wc
+15,01expand.com    Expand tabs into spaces
+15,01unexpand.com  Compress spaces into tabs
+15,01fold.com      Fold long lines of text files
+15,01uudecode.com  Convert uudecode files back to binary
+15,01whatkey.com   Obtain information about key pressed
+15,01h.com         SLIM Editor for the HP95lx palmtop
+15,01esc.com       Send ESC+args; to cls C:\DOS> esc [2J
+15,01----------------------------------------------------
+
+15,01TERSE is a tiny (only 4096 bytes) but amazingly powerful full-screen
+15,01editor for files of up to 64K in length.  TERSE runs on all PC compatible
+15,01machines.  Its command keys are very similar to those of the famous
+15,01BRIEF editor (by UnderWare Inc.).  TERSE can edit both UNIX and MS-DOS
+15,01style text files as well as binary files.  No hacker's disk is complete
+15,01without it.  No disk, be it hard or floppy, is too full to include it.
+
+15,01TERSE is free (but copyrighted) to private users.  If you are a private
+15,01user who uses TERSE "for pleasure", you are not required to register.
+15,01However, if you use TERSE for any commercial application, i.e., in
+15,01your company, at work, etc., or make money from selling software or
+15,01distributing shareware, you are *required* to register your copy of TERSE.
+15,01Registration cost is only $15 and buys you a personalized version, and
+15,01grant your institution a site license.  For an additional payment of 
+15,01only $5, you get the source code of TERSE.
+
+15,01Highlights
+15,01==========
+15,01 o  Very small: fits in 4096 bytes = 4 clusters on 5.25"/3.5" floppies.
+15,01 o  Minimal free memory requirements: 137KB.
+15,01 o  Uses current screen size, including the most common 80x25 screen
+15,01    dimensions but also unusual sizes such as 40x16, 40x25, 40x40,
+15,01    40x50, 132x25, 132x43, 96x33, 80x30, 80x33, etc.
+15,01 o  Fully DESQview (version 2.0 and above) aware.
+15,01 o  Edit binary files. TERSE is ideal for a quick and dirty job
+15,01    of editing and patching strings in small programs. 

@@ -1,0 +1,22 @@
+
+00,01The mansion sits atop the slpendid hill...
+00,01Hidden by the tall Evergreens...
+00,01The man runs along the barrier..15                       00+15              00+
+00,01Signals his friends to join him..
+00,01Run along the small window..15                             00time in jail
+00,01And slowly make their move...15                            00.,edicius,.
+00,01See what they want and go get it..15                       00.,bkn prod,.
+00,01The just do not know the result..
+00,01What will happen when they do..15                        00+15              00+
+00,01What will happen when they're gone..
+00,01Will they find out...
+00,01Will they ever know..
+00,01Too bad they found out...
+00,01Now you're stuck in a square..
+00,01With little more then a bed and blanket..
+00,01Doing five to eight...
+00,01Not knowing what will become when you're out..
+
+
+15,01>SAUCE00Time In Jail                       Edicius             BROkEN           
+15,01   19941120!*  @@P P                             

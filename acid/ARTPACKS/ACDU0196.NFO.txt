@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  December Update *    January 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0196.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-TEE GIF | 164921 |01.01.95 |%    | ACiD T-Shirt Promo             |
+15,01*|2  |ACID-TEE NFO |   4268 |01.01.95 |%+   | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID0196 ANS |  38188 |01.01.96 |%+   | January Member/Site Listing    |
+15,01*|4  |ACIDAPP  EXE |  43962 |01.01.96 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW EXE | 120906 |01.01.96 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  44708 |01.01.96 |%+   | ACiD View Documentation        |
+15,01*|6  |AN-IDES1 ANS |  31761 |01.01.96 |%+   | Ides of March                  |
+15,01*|7  |BL-EVIL2 ANS |  14741 |01.01.96 |%+   | Evil Intentions                |
+15,01*|8  |CS-CDINC GIF | 187625 |01.01.96 |%    | Cool Dudes Inc.                |
+15,01*|9  |CS-PBLNK GIF | 158203 |01.01.96 |%    | Point Blank Homepage           |
+15,01*|10 |CS-SPRTG GIF |  48542 |01.01.96 |%    | Superthing Demo Advo           |
+15,01*|11 |CS-TOUCH GIF | 215882 |01.01.96 |%    | Touch of Class                 |
+15,01*|12 |CS-TREMR GIF | 176601 |12.31.95 |%    | Tremor                         |
+15,01*|13 |DG-NEO1  RIP | 155640 |01.01.96 |%    | Neo Nacho                      |
+15,01*|N/C|FILE_ID  DIZ |    444 |01.01.96 |%    | Acquisition FILE ID by {RK}    |
+15,01*|14 |GR-LGCY  ANS |  14876 |01.01.96 |%+   | Legacy                         |
+15,01*|15 |IV-ACID2 RIP |  27157 |01.01.96 |%    | ACiD Promo                     |
+15,01*|16 |KH-SUPER ANS |  28408 |01.01.96 |%+   | Superunknown                   |
+15,01*|17 |KM-ACID1 ANS |  23505 |01.01.96 |%+   | ACiD Is The Best               |
+15,01*|18 |KM-FORUM ANS |  23726 |01.01.96 |%+   | The Forum                      |
+15,01*|19 |KM-PROPH ANS |  25189 |01.01.96 |%+   | Prophecy                       |
+15,01*|20 |KO-ACID  GIF | 140596 |01.01.96 |%    | Kosh's Desk                    |
+15,01*|21 |PR-GRAVE GIF |  39565 |01.01.96 |%    | The Graveyard                  |
+15,01*|22 |PR-SOULT GIF |  30219 |01.01.96 |%    | The Exorcism                   |
+15,01*|23 |SA-STATC RIP | 273600 |01.01.96 |%    | Static Chronicles              |
+15,01*|24 |SB-FREEZ ANS |  16730 |01.01.96 |%+   | Freezing Moon                  |
+15,01*|25 |UNS-ARAC ANS |  26343 |01.01.96 |%+   | Arachne                        |
+15,01*|26 |US-ALIEN GIF | 191033 |01.01.96 |%    | Alien Fruit Punch              |
+15,01*|27 |US-PULSE ANS |  39605 |01.01.96 |%+   | Pulse                          |
+15,01*|28 |US-SPLAT EXE | 399457 |01.01.96 |%    | Splatterhouse                  |
+15,01*|29 |US-WLUST ANS |  16396 |01.01.96 |%+   | The WonderLust                 |
+15,01*|30 |WE-WILL  SUE |   1531 |01.01.96 |%+   | ACiD Legal Disclaimer          |
+15,01*|31 |ZV-CS360 RIP | 177408 |01.01.96 |%    | Cyberskyline 360               |
+15,01*|32 |ACDU0196 NFO |   6021 |01.01.96 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   34     Average Compression Rate: %25          |

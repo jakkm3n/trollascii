@@ -1,0 +1,80 @@
+
+
+15,01                                                  m00mmm00,00 15,01"                  14     
+14,01 04m13mmmm04m15                   m00mmmmm00,15m00,00 00,01"15          "00,15"00,00     00,10  00,15|14,01 12,02"12,12   12,02m12,01mmmmm02m14            
+15,01   13,04"13,13 13,00   00,04m13,13   13,04m13,01mmmm04m15    "00,15"00,00      00,10#  00,00 00,01mm15m       m00m00,00      ##14,15 14,01 12,12 12,01mm14 02"12""""12,02"12,12   12,02m12,01mm02m14      
+15,01   14,04 13m13,13    04,01mm14 04"13"""13,04"14,13    13,04m13,01mm04m14 15"00,15|00,00     00,15|14,01 15"00"00,15"00,00#00,15m15,01mm00,15m00,00 00,15"00,01"15"14 15m00,15m00,00   00,15"15,01|02|12,12 12,02|02,01"15        02"12,02"12,12   12,02|m02,01m14    
+15,01   04 "13,04"13,13    13,04|15,01        04"13,04"14,13    13,04m04,01m14 15"00,15|00,00   15,01"14   15 "00,15|00,00 00,15"15,01"    |00,15|00,00     15,01|02"12,02"12,12 02,01|m15         14,02 12,12 00#12,15#"12,12 12,02m02,01m14  
+15,01   13,04m13,13     13,04|m15,01          14,04 13|14,13    14,04 14,01 14,15 00,00   15,01|     |00,00#15,01|     14,15 00m00,00     00,15|14,01 12,02|12,12  15,01          02|12,02|12,12 00#12 12,02"02,01"14   
+15,01   14 13,04|13,13     13,04"15,01          04|13,04"14,13   13,04|"04,01|15|00,15|00,00  00,15|15,01      00,15#15,01      14,15 00,00     00,15|15,01|02m12,12  02,01"15          12,02|12,12     12,02"02,01|14  
+15,01   04|13,13#   #13,04|15,01           13,04|14,13    13,04m14  15,01|00,00  #15,01|             "|00,00#   15,01|m14 12,02|12,12  02,01"14,02 02,01mmmmmm12,02 "12,12 12,02"12,12##  12,02|14,01   
+15,01   14,04 13#13,13###13,04#14  04,01"14,04  04,01mmmmm13,04#04@13m14,13  13##04,04@13#14,01 00,00#14 00#14,15 15,01m             m00,15 #00,00###00,15m14 14,01 12,12# 02,01"15    02"""14,02 12##02,01mm14 02"12"02"14    
+15,01   14,04  13#04@13#14  04,01"15    04"""13,04###04,01mm14 04"""14 15m14,15 15@@@15,01|             |00,15#  ##| 14,01 12,02##02,01|06 15 06 15   06###02"14,02  # 12##14 02,01m14  
+06,01m15  14,04  13##14 13#14 14,01 06m08mm06|08m06m##15 04"14,04  # 13##04,01mm15 "00,15###15,01 06m|08,06m08,01m06m13,08#06,01||mm#15 14,15 00### # 15,01|14 12,02##15,01 06 |14,06#08,01m06m08|06m08m08,06m08,01m15 14,02 12##12,12## 12,02m|02,01|
+06,01|08,06#15,01 14,04 13,13# #13,04#13,13#14,04 14,01 06#m08,06m13,08  08,06m06,01m08,06m13,08 06,01m15 13,04"13,13 13,04m13,13##13,04##14 14,01 15m00,15 00,00#15,01 06|08,06"13,08  00,06m13,00 00,06"08m13,08  06,01"15 |15,15@00,00##00,15m15@00m15,01"14 12,02"12,12 02,01m|06"08,06"13,08     08,06"06,01"15 02|"12,02"12,15"12,12    14,02 
+13,08 06,01"15 13,04|13,13      13,04m15,01 08"08,06"|13,08   08,06m08,01"06|11 13,04|13,13      13,04|04,01|15|00,15||15,01 06m08,06|13,08  08,06"13,00  13,08##08,06|06,01"15 00,15|00,00 #  #14 00,15|14,01  12,12 12,02"15,01 00,06m13,00  13,08  08,06"|13,08 06,01|02|12,02|12,12 12,15##00,12##12 12,02m02,01|
+06,01"|04"13,04"13,13    ##13,04|15,01 06|08,06m13,08  13,00  00,06m06,01m15 04|13,04" 13,13  00##13 13,04"04,01|15|00,00#14 14,01|15 06|08,06"06,01"|08,06m13,08 08,06""06,01"15 14,15 00m00,00    00,15"00,01"""15"02|12,12 02,01m06#"08"06##"08"06 02m12,02m12,12  00##12 12,02"14 12"
+04,01m13mm13,13     13,04m04,01|"14 06"15 08"06"|08"06"#04m13,04mm00,13##13,15m00"13#13,13 13,04|14,01 00,15|00,00  00,15|15,01m 06"##"08,06"06,01|14 15"00"""15"     02"12"""12,02"12,12    12,02m12,01mm12,02m12,12   12,02"12,12   12,02"12,01"02"14  
+14,01    04"13"""""13,04"13,13    13,04m13,01mm13,04m13,13       13,04"13,01"04"14 15m00,00 15,01"""   06  
+15,01      14pyx15                                                    14vermin
+
+10,01 15                    10Bamboosh Newsfile, October 1997! 
+
+15,01   HI THERE! Welcome to the 18-th release or something, from the feared
+15,01   art-group Bamboosh! We have cooked up some real hardcore shit for you
+15,01   this time, so you better get off your seat and jump around. (????)
+15,01   By the way, this is Vermin writing, which you would never have guessed,
+15,01   considering the complete lack of 10highlighted text15. Oh, that one was
+15,01   funny. Anyhow, this month (and the other one) has been rather non-hectic,
+15,01   and basically, we havent done SHIT. Ive got ONE ascii this time, plus some   
+15,01   vga-10BOLLOCKS15, and most of the other people probably have next to nothing
+15,01   too. Good for them, or maybe not. Pyx has been over-productive, and has
+15,01   delivered the mezmerising ammount of 10THREE 15ansis! You should all send him
+15,01   beer from around the world, so he knows his hard work is appreciated.
+15,01   And you should send me money, beer and money too, cause i sorta need it.
+15,01   
+15,01   Actual news;
+
+15,01   10Vermin15 got a job in the local radio station radio1, tune in at 106,7mhz
+15,01   if you happen to live near Bergen. If not, GO DIE.
+
+15,01   10Stinger15 was kicked, because hes dead, and we threw cheese at him.
+
+15,01   That SNOTBAG 10Panaji 15completely quit the scene, delivering a VGA thingie
+15,01   as his last release with BMB. It's probably one of his best stuff he ever
+15,01   gave us. Oh yeah. Anyhow, we wish him all luck hanging out at the local
+15,01   mall or gas-station together with his friends(?), and we hope he has a
+15,01   good time. We would also like to thank him for his time in BMB. Pyx sends
+15,01   a good old 10GOODBYE-KISS15 towards wherever he lives.
+
+15,01   10Poldi15 is BACK IN BUSINESS, delivering more hardcore warez to Bamboosh.
+15,01   Because of Pyx' overall incompetence, he was sadly kicked before the last
+15,01   pack. We all wish him a good time back in Bamboosh! Welcome back!
+
+15,01   10Vermin15 has produced a shitty ascii.
+
+15,01   10Pyx 15probably scratched his ARSE a couple of MILLION TIMES.
+
+15,01   10Flux' 15board 10OOBE15, (out of body experience, yeah) now exists. Hee haw.
+15,01   Apparently, it also works. Apparently (even more!) it is also situated
+15,01   at ex-10hexx15' home. (wow, ex-hexx)
+
+15,01   10DJ:AXS 15joined the honorable and mighty mighty feared Bamboosh staff this
+15,01   month, which is probably good. Hes pumping hardcore warez for the BMB
+15,01   crew now. Fear him.
+
+15,01   10Fonzie 15of the hated 10Ninjascii 15deathsquad made the diz for this pack.
+15,01   Hee hawl.
+
+15,01   10Spud15 was so kind to guest in this pack, thanks.
+
+15,01   Since alot of you probably miss 10Joda15, formerly of 10Deranged15, we have
+15,01   decided to bring you the new monthly.. 10JODA UPDATE!15 Yeah!
+
+15,01The new monthly 10Joda 15update;; 1) Joda is still alive
+15,01     14m15m14m m15    08mmmm15            2) Joda has money
+15,01 12,02m12,01m02m14"14,15  m14,01"08mm08,08m14        08m03,01m14,03   03,01mm15   3) Joda has a job
+15,01 12,12   02,01|14,15m14,01"08m08,08m14   08,01 14,08 08,01 14,08  09 08,03"14  09m09,09   09,03mm15,01   4) Joda has another job
+15,01 12,02""14 02,01mm08|08,08|14    08,01m14,08   08,01"08,03"14 09,09   08 09,08"08,09 09  15,01   5) Joda gets money
+15,01 09,08"09,03m03,01m02"12,02"14,08   08,01m """03mm14,03 09m09,09  09,08"09,09  09,08m09,09   15,01   6) Joda owes vermin HEAPS of money
+15,01 09,09    09,03m09,01m03m08"14,08  08,01"03"""09"""09,03"09,09      09,03"03,01"#15<+7) Joda drinks beer.

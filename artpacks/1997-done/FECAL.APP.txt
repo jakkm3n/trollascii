@@ -1,0 +1,53 @@
+15,01fEcalNet ApplicatiOn   February 21 1997
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           
+15,01 Your BBS InfOrmatiOn ----------------------------------------------
+
+15,01           Bbs Name : _______________________
+15,01           Number   : (__)___-____
+15,01    Number Of Users : ____
+15,01      Months Online : ____
+
+15,01 TeChnical InformatiOn ---------------------------------------------
+
+15,01       Bbs Software : ______________
+15,01   Front End Mailer : ______________
+15,01        Mail Tosser : ______________
+
+15,01 NodElist InfOrmatiOn ----------------------------------------------
+
+15,01             Handle : ______________
+15,01         City/State : ______________
+15,01Compression (v32b, v42b, ect.) : ______________
+15,01        Modem Speed : ______
+15,01Flags Needed For Bbs: [XA]    [_]
+15,01                      [CM]    [_]
+15,01                      [v32b]  [_]
+15,01                      [v42b]  [_]
+15,01                      [HST]   [_]
+15,01                      [H16]   [_]                                        
+
+15,01 Please "X" The Echos That You Want -------------------------------- 
+
+15,01  EchOs       DescriptiOn Of EchOs
+15,01  ~~~~~~~~~   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+15,01  F_GENERA    The General Discussion                            [ ]
+15,01  F_SYSOP     FecalNet SysOp Discussion        [REQUIRED]       [X]
+15,01  F_CONCRT    Concert Information                               [_]
+15,01  F_FECAL     Fecal Matter (Nirvana) Discussion                 [_]
+15,01  F_MUSIC     General Music Discussion                          [_]
+15,01  F_TECH      Music Technology and Systems                      [_]
+15,01  F_POETRY    Lyric Expression Base                             [_]
+15,01  F_ALT       Discussion of Alternative Music                   [_]
+15,01  F_RAP       Discussion of Rap and Hip Hop Music               [_]
+15,01  F_ROCK      Discussion of Rock Music                          [_]
+15,01  F_HEAVY     Discussion of Heavy Metal and Thrash Music        [_]
+15,01  F_OLDIES    Discussion of Oldies/Classic Rock                 [_]
+15,01  F_TECHNO    Discussion Of Techno/Industrial Music             [_]
+15,01  F_CLASSI    Classified Ads (Equipment)                        [_]
+15,01                            
+15,01 Call And Upload Your Application To One Of These Following fecalnet Boards!
+
+15,01  NodE      SysTem Name          NumbEr       SysOp
+15,01  ~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~ ~~~~~~~~
+15,01  302:911/1 Woodstock (Homebase) 616/677-5155 Imodium
+15,01  302:911/2 In blOom             616/837-7685 Morrison

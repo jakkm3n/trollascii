@@ -1,0 +1,54 @@
+15,01/*
+15,01-- inject a vga font (dos) (8 bit wide, not 9) on vga.pcf!
+15,01-- by freakpie@lix.intercom.es
+15,01-- modded by merlin (command-line input file & fontname)
+15,01*/
+
+15,01#include <stdio.h>
+
+15,01int main (int argc, char *argv[]) {
+15,01        FILE *input, *output;
+15,01        unsigned long i;
+15,01        unsigned int tmp;
+15,01        unsigned char tmp2;
+
+15,01        puts("dr.fontdumper -- inject font in X11R6's vga.pcf");
+
+15,01        if (argc < 3)
+15,01        {
+15,01                printf ("Usage: %s <input> <fontname>\n", argv[0]);
+15,01                exit(0);
+15,01        }
+
+15,01        if ((output = fopen ("vga.pcf", "r+")) == NULL) {
+15,01                puts("-- error opening output file vga.pcf!");
+15,01                return 1;
+15,01        }
+15,01        if ((input = fopen(argv[1],"r")) == NULL) {
+15,01                printf ("-- error opening input file %s!\n", argv[1]);
+15,01                fclose(output);
+15,01                return 2;
+15,01        }
+15,01        /* lets inject da font */
+
+15,01        fseek(output, 0xFC, 0);
+15,01        putc(argv[2][0],output);
+15,01        putc(argv[2][1],output);
+15,01        putc(argv[2][2],output);
+15,01        fseek(output,14020-175*16*4,0);
+15,01        fseek(input,16,0);
+15,01        for(i=0;i<254*16;i++) {
+15,01                tmp = getc(input);
+15,01                if(i!=0) { putc(0,output); putc(0,output); putc(0,output); }
+15,01                /* aqui hay que darle la vuelta al bit */
+15,01                tmp2 = ((tmp&(1<<0))<<7) | ((tmp&(1<<1))<<5) | ((tmp&(1<<2))<<3)
+15,01 | ((tmp&(1<<3))<<1) \
+15,01                     | ((tmp&(1<<7))>>7) | ((tmp&(1<<6))>>5) | ((tmp&(1<<5))>>3)
+15,01 | ((tmp&(1<<4))>>1);
+15,01                putc(tmp2,output);
+15,01        }
+15,01        fclose(input);
+15,01        fclose(output);
+15,01        puts("done!");
+15,01        return 0;
+15,01}

@@ -1,0 +1,52 @@
+15,01                ICECOLOR v1.0 programmed by Leviathan of iCE
+
+15,01General Description    
+15,01-------------------
+15,01    
+15,01    iCECOLOR disables the blink on your monitor. What does this mean? This
+15,01means that you get 16 colors in the background as well as 16 colors in the
+15,01foreground. 
+
+15,01How it works
+15,01------------
+15,01The attribute byte is set up like this :
+15,01          
+15,01          before :                  after:
+15,01    |7|6|5|4|3|2|1|0           |7|6|5|4|3|2|1|0|
+15,01     | |   | |     |            |     | |     |
+15,01     | +---+ +-----+            +-----+ +-----+
+15,01     |   |      |                  |       |
+15,01  blink back  foreground      background foreground
+
+15,01Usesuly when you change video modes everything goes back to normal, but I've
+15,01taken over interrupt 10H so it turns off the blink everytime you change modes
+
+15,01Installation
+15,01------------
+15,01There is no way to un-install ICECOLOR.COM from memory, but it only takes up
+15,01400 bytes so I don't think it will hurt you. 
+
+15,01Using ICECOLOR with The Draw
+15,01----------------------------
+15,01The draw has no idea that ICECOLOR is installed, so it still thinks it is 
+15,01using the setup of : 8 background, 16 forefround, 16 blinking. You will 
+15,01noctice that the blinking colors no longer blink, and their background is
+15,01high intensity black. This is because black w/o blink = dark grey. so you
+15,01select you colors as follows :
+15,01    regular background colors work normaly :
+15,01        0-7 for background and 0-15 for foreground
+15,01    for high intensity background colors :
+15,01        select from colors 16-31 to choose your foreground color, while 
+15,01        telling the computer that you whant a high-intensity background
+15,01        then choose colors 0-7 for you background color, but they will
+15,01        now be high intensity
+15,01problems w/ the draw :
+15,01    When you are using high intensity colors and you use the delete key,
+15,01    or clear the screen, it will use high intensity black for the background,
+15,01    so make shure that you are in a normal background color when you delete
+15,01    or clear the screen.
+
+15,01Source code availibility
+15,01------------------------
+15,01ICECOLOR was written in 100% assembly. If you would like the source, or have
+15,01a question, try to get in touch w/ me... somehow.

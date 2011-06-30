@@ -1,0 +1,80 @@
+
+
+
+15,01                         "What's New" in iCE Recently.
+
+
+15,011.  This month we're proud to include artwork from the "other side".  In the
+15,01    section marked "5o" are the ansi's from iCE Europe: Spar, Wiz, Ranx, and
+15,01    Genesis who is the European Coordinator.  All of the European ansi's are
+15,01    drawn in 5o line mode, what we refer to as "Squished Mode" (Even considered
+15,01    naming them ".SQU" :])  The [Euro] ansi's can be viewed with Masterview
+15,01    by pressing {right arrow}, or "M", and there is a .DAT file prepared with
+15,01    the names and descriptions of the [Euro] ansi's to make life easier.
+15,01        Their style might take some getting used to at first, but you'll soon
+15,01    realize their unique perspective on things.  They've got some font ideas
+15,01    that knocked our socks off!  Don't be to hasty to judge these guys by the
+15,01    size and standards of ANSi over here;  ANSi is a relatively new concept in
+15,01    Europe, and this is the cream of the European crop.
+
+15,012.  iCE says goodbye to two good members this month: Amroth and The Magical
+15,01    Gangster.  Good luck guys.
+
+15,013.  From two members departing, to two members joining:  This month we welcome
+15,01    both Lepper Messiah and Danzig to full iCE member status.  One month ago
+15,01    LP was doing only fonts... needless to say, we're impressed.
+
+15,014.  Along with his art and Courier Coordinating duties, this month marks the
+15,01    first in what will hopefully be many that Shihear Kallizad will be
+15,01    compiling the iCEPack.  Hopefully this will take some of the pressure off
+15,01    the staff.
+
+15,015.  *NOTE*  To All iCE Sites:  If you are the sysop of an iCE Site, it is
+15,01    important for you to be aware that it's up to YOU to inform us if there
+15,01    is a problem with your courier.  If you are not receiving the iCEPACK after
+15,01    a reasonable amount of time, make sure you let either the CC, or a Staff
+15,01    member know.  If we could make rounds to check up on all the sites we
+15,01    would, but it's simply not feasable.
+15,01        In a similar note:  We aren't able to talk to all the artists all the
+15,01    time either so, if you (as an iCE Artist or Member) have a problem or need
+15,01    something taken care of, or just want to keep in touch, please contact:
+15,01    Genesis, Metal Head, Ricochet, Shihear Kallizad, Sought After, The BBS
+15,01    Bouncer, or Tormented Soul.  Any one of these people can handle your
+15,01    problem, keep you up to date on recent iCE events, or readily contact a
+15,01    staff member if it's warranted.
+
+15,016.  Articles are steadily being collected for the iCE Magazine.  After the
+15,01    first issue is released, it's scheduled to come out about every three
+15,01    months.  A monthly schedule was discussed but it didn't seem practical,
+15,01    first, the pressure would be immense, and second, we didn't feel there
+15,01    would be enough to report every month.  The first issue will concern iCE,
+15,01    and consecutive issues will be more general with a section about iCE.
+15,01        While it isn't possible for everyone in the group to produce the
+15,01    magazine (the whole 'too many chiefs, not enough indians' thing), we're
+15,01    trying to include as many iCE members as possible and get as much input
+15,01    from them.  Please leave any questions, suggestions, or articles on
+15,01    Hardwired, Sanctuary(tm), Rivendell (when it goes back up!!), or leave
+15,01    Felony Netmail to Tempus Thales or Shihear Kallizad.
+
+15,017.  Speaking of the Mag, we've included "SURVEY.ANS" in this Pack.  If you have
+15,01    an opinion, and want to be represented in the mag, just fill this out
+15,01    it out and get it to one of the HQ's, or leave netmail to a staff member.
+15,01    (This is for anyone, btw.)
+
+15,018.  If there was an award for most improved iCE artist, it would almost
+15,01    unanimously go to Icy.  His incredible progress can by charted by checking
+15,01    the past four iCEPACK's, two ansi's steadily every month and each month
+15,01    better than that last.  Great job guy, but watch out for LP!
+
+15,019.  The VGA for Soul of the Hunter by Juice was released in .PCX format to
+15,01    prevent the incombatibility problems associated with coding hi-resolution
+15,01    pictures.
+
+15,0110. Looks like we had another month in the traditon of September, and November
+15,01    of '92, as well as January of '93.  To quote Force Ten "We had a month and
+15,01    a half this month!".  Since we seem to be going in two month cycles here,
+15,01    don't expect April to be anything close to this month.
+
+
+15,01  - Looking for a new BBS software?  Check out LiQUiD.  Forum hack with original
+

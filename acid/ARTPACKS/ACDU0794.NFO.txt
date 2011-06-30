@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :      June Update *       July 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0794.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0694 ANS |   9234 |06.30.94 |%+   | June Member/Board Listing      |
+15,01 |2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01 |3  |ACIDVIEW EXE | 132304 |06.01.94 |%    | ACiD Acquisition Viewer + 2.02 |
+15,01*|N/C|ACIDVIEW NFO |  37495 |07.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AK-COR1  EXE |  53047 |06.30.94 |%xM  | Corruption Magazine            |
+15,01*|5  |AN-D2    ANS |  40062 |07.01.94 |%+   | Despair II                     |
+15,01*|6  |AN-HTC1  ANS |  23128 |07.01.94 |%+   | Haunting The Chapel            |
+15,01*|7  |AN-TG3   ANS |  16168 |07.01.94 |%+   | Thieves Guild                  |
+15,01*|8  |AN-WHAM1 RIP |  22465 |06.25.94 |%    | The Whammy Bar                 |
+15,01*|9  |BK-DI    ANS |  23609 |07.01.94 |%+   | The Darkest Illusion           |
+15,01*|10 |BK-KING  ANS |  20563 |07.01.94 |%+   | The Kingdom                    |
+15,01*|11 |FI-MD    ANS |  27462 |07.01.94 |%+   | Moral Decay                    |
+15,01*|N/C|FILE_ID  DIZ |    443 |07.01.94 |%    | Acquisition FILE ID by {BE}    |
+15,01*|12 |FK-EI1   RIP |  24062 |06.28.94 |%    | Evil Intentions                |
+15,01*|13 |FK-FRNGS RIP |  21585 |06.29.94 |%    | The Fringes                    |
+15,01*|14 |FK-THA   RIP |  19590 |06.28.94 |%    | Heretic Asylum                 |
+15,01*|15 |JD-DSOC2 ANS |2390548 |07.01.94 |%Ax+ | The Dark Society               |
+15,01*|16 |LD-ACID  RIP |  23396 |06.29.94 |%    | ACiD Productions               |
+15,01*|17 |LD-ANF   RIP |  53154 |06.29.94 |%    | ACiD Ninety Four               |
+15,01*|18 |LD-ER2   COM |   6049 |06.28.94 |%+   | Exiled Race                    |
+15,01*|19 |LD-LOF   ANS |  56036 |06.30.94 |%+   | Line of Fire                   |
+15,01*|20 |LD-RW    ANS |  31887 |06.30.94 |%+   | Robag's World                  |
+15,01*|21 |LD-TASB  COM |   4273 |07.01.94 |%+   | The Armageddon Support BBS     |
+15,01*|22 |LD-TF3   RIP |  38393 |06.29.94 |%    | Terra Firma                    |
+15,01*|23 |PC-CH01  ANS | 102010 |07.01.94 |%+   | Channel Zer0                   |
+15,01*|24 |RN-69    RIP |  21395 |06.30.94 |%    | Psalm 69                       |
+15,01*|25 |RN-OBV2  RIP |  22039 |06.04.94 |%    | Oblivion/2                     |
+15,01*|26 |RN-TEH2  RIP |  10208 |06.17.94 |%    | The Eleventh Hour              |
+15,01*|27 |S2O-69   COM |   6673 |07.01.94 |%+   | Psalm 69                       |
+15,01*|28 |SAUCE    PAS |  11276 |06.30.94 |%+   | SAUCE v00 assembly code        |
+15,01*|29 |SL-HOOD  EXE | 115975 |06.30.94 |%    | The Hood                       |
+15,01*|30 |SL-PERV  EXE | 126317 |06.30.94 |%    | Pervism                        |
+15,01*|31 |SM-ACID4 RIP |  15131 |06.30.94 |%    | "Graffiti should be left to..."|
+15,01*|32 |SM-COR4  RIP |  20264 |07.01.94 |%    | Corruption Issue 4 Ad          |
+15,01*|33 |SO-DSUN2 ANS |  32241 |07.01.94 |%+   | Dark Sun World                 |
+15,01*|34 |SPOON    EXE |  18226 |06.30.94 |%    | Spoon 1.0                      |
+15,01*|N/C|SPOON    INI |     82 |07.01.94 |%    | Spoon 1.0 INItialization File  |
+15,01*|35 |SW-HELL  EXE | 201611 |07.01.94 |%M   | South of Hell                  |
+15,01*|36 |SX-CH01  ANS |  15049 |06.29.94 |%+   | Channel Zer0                   |
+15,01*|37 |T2-TEH3  ANS |  31603 |07.01.94 |%+   | The Eleventh Hour              |
+15,01*|38 |US-ACID1 RIP |   9970 |06.28.94 |%    | There's Only One...            |
+15,01*|39 |US-CH01  RIP |  33073 |06.30.94 |%    | Channel Zer0                   |
+15,01*|40 |US-DESP1 RIP |  34531 |06.25.94 |%    | Despair II                     |
+15,01*|41 |US-TRIO  RIP |  16058 |07.01.94 |%    | The ACiD Trio                  |
+15,01*|42 |US-TW2   ANS |  23585 |07.01.94 |%+   | The Warp Zone                  |
+15,01*|43 |WM-TRSI  EXE |   9160 |07.01.94 |%M   | TRSI Intro                     |
+15,01*|44 |ACDU0794 NFO |   7061 |07.01.94 |%    | Acquisition Information File   |

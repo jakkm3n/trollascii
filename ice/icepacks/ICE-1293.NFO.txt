@@ -1,0 +1,80 @@
+
+00,01iCE -15                                                                      00- iCE
+
+
+
+
+00,01iCE -15                   00"What's New" in iCE Recently.15                      00- iCE
+
+
+
+
+00,01iCE -15                                                                      00- iCE
+
+
+
+
+
+
+00,01  1.  Biggest change in iCE recently is the newest Senior Staffer: Raistlin
+
+00,01  2.  Our long time Canadian HQ: Alters of Madness, is unfortunatly down.
+15,01      00A new CHQ will be decided on sometime in January.
+
+00,01  3.  ANSi-wise we have some farmiliar faces joining the group and becoming
+15,01      00reactive.  First is R.Noble who has joined iCE after the disbanding of
+15,01      00Mirage (Playing 'Taps').  Second is Tank, and ex-ACiD member, quite a
+15,01      00vetern of the scene.  Third is Riothamusm, who released a fuckin' cool
+15,01      00ansi after a loooooong period of absence, hope to see more from you guy :)
+15,01      00Lastly is Napalm who suprisingly has come back to release a few ANSi's,
+15,01      00but due to the fate of AoM I was not able to get his artwork for this
+15,01      00pack.. sorry guy.
+
+00,01  4.  Well let's see, iCE has been pretty stable this month.. only person to
+15,01      00leave being Isreafel from the lit division.. have fun in GOTHiC :)
+
+00,01  5.  Big news for anyone who is a fan of the Demo scene, especially if you are
+15,01      00a fan of the music in the demo scene.  C.C.Catch of Renaissance is
+15,01      00now also a composer for iCE.  Check out his first release under the
+15,01      00iCE name in this pack.  It's called 'Spiritual Dance'.  For those of
+15,01      00you not familiar with the demo music scene.  Here's the time to do so..
+
+00,01  6.  Look for the iCE Music Disk, HOPEFULLY out in Febuary '94.
+
+00,01  7.  Some new directors have been added to help organize the group, here they
+15,01      00are with a short introduction:
+15,01        00Sonoma: Helps with keeping in cotact with members
+15,01        00Trixter: VGA Director
+15,01        00Xerobe: iCN (iNSANiTY Corperate Network) Director
+15,01        00Bane: Courier Director
+
+00,01  8.  Last but not least, iCE Trial has now become SKiLL/iCE Trial.  SKiLL/iCE
+15,01      00Trial is not a section of iCE, but instead a fully functional group for
+15,01      00the Trial artists.  The head is SKiLL/iCE Trial is Devil's Spawn, and
+15,01      00the HQ BBS is South of Hell.
+
+00,01  9.  Some small new features in K-View.. first is that there is now a wrap
+15,01      00around selection that will make the 320x200 wrap around as all 640x480
+15,01      00viewers do.  It is also MUCH faster.  The other minor thing is that you
+15,01      00can now start up K-View with a switch such as '*.ANS' and K-View will
+15,01      00load with the extension .ANS being used.  And as Isreafel said on CCi:
+15,01                    00"Heaven is defined by 'KV *.ANS'" :)
+
+00,01 10.  Thats all I can think of, so enjoy the pack...
+
+15,01                                                      00- Metal Head [iCE] Staff
+15,01                                                          00metalhed@phantom.com
+
+
+
+00,01  Greets to:   C.C.Catch - Welcome in man!
+15,01                00N. Shade - Thanks for the help
+15,01                  00Xerobe - ditto
+15,01                    00Bane - Oh my god.. Courier Director actually directing!
+15,01               00Force Ten - Getting a radio show? hahaha..
+15,01                  00Amroth - You need that fuckin modem
+15,01                00Raistlin - Iridium 2 gonna kick ass..
+15,01              00Ford Pref. - When are you gonna finish the fucking intro!?!?!!?!
+15,01                  00Kronos - That answering machine is *real* bad :)
+15,01                  00Sonoma - You da man, haha (i didn't say s**t!)
+15,01               00Lord Soth - Oh my golly..

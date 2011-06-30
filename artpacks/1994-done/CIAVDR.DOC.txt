@@ -1,0 +1,22 @@
+15,01Quick Dox For CiAVDR v.01
+
+15,01To Install:
+
+15,01  Enter PCBsetup | File Locations | Configuration Files.  Edit the CMD.LST
+15,01file by pressing F2 when it is highlight.  Set the command letter to 'D', the
+15,01security to 0 and the Command line to this:
+
+15,01                C:\PCB\PPE\CIAVDR.PPE
+15,01                ^^^^^^^^^^^|^^^^^^^^^^
+15,01                Location of|Name of PPE
+15,01                    PPE    |
+15,01To Setup:
+15,01  
+15,01  Edit the CIAVDR.CNF file and follow the directions in their or leave it 
+15,01alone to use defaults.  To create a door option, make a text file called 
+15,01DOOR.1 (the extension of the DOOR. file MUST be the number of the door on
+15,01the menu).  That file contains the information you wish to display before
+15,01running the door.  The menu is called DOORS. and is language and security
+15,01specific.
+
+15,01Dats all folks!

@@ -1,0 +1,15 @@
+15,01         ------------------------------------------------------------
+15,01         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+15,01         XXX______XX__XXXXXXX_XX__________XX__XXX__XX________________
+15,01         XX/     /_/  \X__XX/ \/          \/  \X/  |/               /
+15,01         XX\  __/(_)   \  \/   \  ______   \   \   |   _____  ___  /X
+15,01         XX_//  \/ \   /_  \    \ _/__    _/    \  |   _/__/  \XX\/XX
+15,01         X/      \  \ /  \_ \   /    /    \_     \ |      /    \__XXX
+15,01         /       /   \    /    /    / |    /     / |     /       /XXX
+15,01         \______/____/_  /\_  /__  /__|_  /_____/  |__  /_____  /XXXX
+15,01         XXXXXXXXXXXXXX\/XXX\/XXX\/XXXXX\/XX\____  /XX\/XXXXXX\/XXXXX
+15,01         XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\/XXXXXXXXXXXXXXXXXX
+15,01         ------------------------------------------------------------
+15,01         80x50             [-=-]: SilverNET :[-=-]               'NM,
+15,01>SAUCE00Silver Network #1                  Necromancer         Shiver           
+15,01   19940827c*  @@P v                             

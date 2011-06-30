@@ -1,0 +1,14 @@
+15,01 Volume in drive C is Z55
+15,01 Volume Serial Number is 214F-BD01
+15,01 Directory of C:\MS
+
+15,01.                <DIR>         02-28-97  7:27am .
+15,01..               <DIR>         03-24-97  7:30pm .
+15,01LOGON     .EXE          9,999  02-12-97  5:30pm .
+15,01APPLY     .COM          2,842  08-13-96  4:30pm .
+15,01NOTE      .EXE          1,000  04-20-97  3:00am .
+15,01LOGOFF    .BAT          4,345  01-12-97  1:25pm .
+15,01DIR       .COM          3,582  01-16-96  1:00am .
+15,01PAGE      .EXE          9,482  02-19-97  7:00pm .
+15,01           6 file(s)      31,250 bytes
+15,01           2 dir(s)  218,914,816 free

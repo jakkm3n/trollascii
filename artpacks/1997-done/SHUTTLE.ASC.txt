@@ -1,0 +1,20 @@
+15,01        ReNeGaDe oS/2 PC-CoMPaTiBLe DoS
+15,01    For ReNeGaDe VeRSiON 05-11 By CoTT LaNG
+15,01       (C)oPyRiGHT GeL PRoDuCTioNS 1997
+
+
+15,01    Volume in Drive C is ReNeGaDe BBS
+15,01        Directory of C:\ReNeGaDe
+
+15,01                 .<DIR>
+15,01                ..<DIR>
+15,01       LoGoN    eXe          15677   03-14-97  1:39p
+15,01       MAiL     eXe           5872   03-14-97  1:45p
+15,01       aPPLy    CoM           3699   03-15-97  1:11p
+15,01       CHaT     eXe          20109   03-15-97  1:17p
+15,01       CoMMeNT  eXe          15671   03-15-97  1:27p
+15,01       GooDByE  CoM           1531   03-15-97  2:25p
+
+15,01           10 File(s)         62,559 Bytes
+15,01                          27,486,156 Bytes Free
+15,01>

@@ -1,0 +1,80 @@
+
+15,01 12mmmmmm|mmmmmmm ###############15            12|
+12,01  "12,12############02,01|10,12#############12 12,01|mmmmmmmmmmmm|mmmmmmm   04|15      04mmm|mm13######
+13,01   02|02,02@@@@@@@@@@@02,01|12,12##############12,01|12,12####12,01"    "12,12####15,01   12"""  04m|mm13,04m|mm14,13      13,04mmm|mm04,01mmm
+04,01  02m12,02############14 02@@@@@@@@@@@@@@14 02@@@02,01"  03#|    12"" 13##04mmm13,04mm14,13     13,04|14,13           13,04|14,13     13,04mm04,01m
+04,01 02"14,02            02,01"   "12,02###########14 02,01"   03mm09@03|mm09## 04mm13,13##############04,01""|"""13,04"""14,13    10##14   13,04|04,01|
+04,01  14,02   02,01"15          04|  02"14,02        02,01    03m09,03m|14,09  14,03#03,01|09,03|14,09 09,03mm03,01m 04"04,04@@@@@@@@@@04,01"15     04|15      04"13,04"14,13      13,04"14 
+04,01  14,02 02,01""  13#######04mm|mm15     02"    03#09@14,03#09|14,09 14,10  14,09 09,03mm14,09 14,08  14,09 09,03|03,01| 14,04#13#######14#13,01@04# #15           04|13,04|"04,01""13,04"m04,01m|
+04,01    m|m13,04mm|mmmm13,13#####13,04mmmm04,01mm|m13##   03"09,03""14,09  09##14 09,03|""03,01" 04m""13#######15        04|    mmm13,04m14,13 13,04mm14,13  08,04#
+15,01 04m13,04mm14,13     13,04|14,13    04,04@@@@@14,13  13,04|14,13     13,04mm04,01mm    03"""""|10##  02mmmmmmm  04|15      04mm|m14,04 13mm14,13        13,04|14#
+04,01|13,04|14,13  10##14     13,04"""04,01"""|"13,04""|"14,13        13,04mm04,01m 14,04 13m|14 04,01|13,04mmm04,01mm  02"15     04m|mm13,04mm|m14,13               13,01@
+04,01 08,04#14,13       13,04"04,01"    02m 04|15     04"13,04"""14,13  13,04"14,13 13,04|14,13     13,04|14,13    13,04"|04,01|  mm13,04mm|m14,13      13,04|14,13     13,04"14,13 13,04"04,01"13,04"14,13  13,04|14,13  13,04"04,01#
+04,01 |13,04|14,13    13,04"|04,01|  02"14,02   02,01m m14,02   02,01#  04mm04,04  04,01m04,04 13|14,13   13,04"13,13######04,01m04,04 04,01" 14,04 13,13##############04,01"|"" "13,04"m14,13  13,04"|04,01""
+04,01  14,04#13,13####04,01m13,04m04,01mmm15     02"14,02    12,01@02  13#######04"|""|04,04@@@@@@@08##04@@@@@@@@@@04,01"15     04|   |04,04 04,01"""  15mm|
+15,01  13@04,04@@@@@@@@14#13,01@04# #  02|14,02   #15,01          04|   14,04 13##04,01"""   """13,04#######14#13,01@04# #15       m|m00,15m|14,00 00,15"15,01"
+15,01   04#13,04#######14 15,01     02m14,02 12###14  12##14    02,01"15         mmm15,15 00m|15,01| 14,04 04    04,01"|"15      |  |15,15 00m|14,00   00,15||15,01|
+15,01      04"|"04,04   04,01|  02"14,02           #12,01@02# 15|  00####14,15 15,01m|00,15m15,01mm00,15m14,00 14,15 15,01  04"   15|mm00,15m|mm15,01mm|mm00,15m14,00  00,15|14,08  14,00  00,15"15,01"
+15,01  02| 14,15 00#15,01mmm   04""15        02""15      m|mm00,15mm|m14,00 00 00,15m14,00   14,08  14,15#00,01@15# #"15,15 00""14,00  00,15|14,00              00,15|15,01|
+15,01  14,02#02,01 15|15,15@@@@@@@15,01m| | 00#####15mm|m00,15mm|m14,00    14,10  14,00  00,15""|"15,01"|""  02mm  00###15"|"00,00##############15,01"
+15,01  12@02  14,15 00,00########15,01m|m00,15m|mmm14,00      00,15|14,00 00,15""|"""" 15,01mmmmm|mmmmmmmmmmmmmmmmm15,15  @@@@@@@@@15,01|
+15,01   ##14,15#00|14,00           00,15|14,00   00,15""""15,01""|"    14mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm15"00,15######14#00,01@15# #
+15,01      ""00,15"""15,01|00,15""|""15,01""|""     14mm|m14,15"|" 00cia conspiracy #49 - 8/9-97  15,01"15,15  15,01""|"
+15,01  02####  14,14 14,01mm|mmmmmmm|mm14,15"""|"00m  mm mmmmm|mmmmmmmmmmmmmmmmm|mmmmmmm14 15,01"   |
+15,01                                 00#####15                   00#######  chronicc
+
+
+15,01      13* 15hey kids, do you know what time it is? thats right! its almost a
+15,01        week after the pack was due out! :)  Sorry for the delay of this
+15,01        00#49 pack15,  but seems that everyone ( not excluding me ) has been
+15,01        very busy with moving back to college, going back to school, etc
+15,01        there isnt  too much  information  to divulge at the moment, but
+15,01        stay tuned for the 0050th pack extravaganza coming next month15!
+
+15,01                      14mm  mmmmmmmmmmmmmmmmmmm14,14#14,01 mmmmmmmmm m
+15,01                   14# "14,15# 00,14 14,15" 15 14#   01cia member info      00# 14"00,14#14,01"#
+15,01                     #00,15#00,00#00,15mmmmmm00,00#00,15mmmmmmmmmmmmmmmmm|mm00,00#00,15mmmmm00,00#00,01#
+
+
+15,01      13* 00new members 15this month:  an old friend and former cia ansi pimp,
+15,01        00gould 15joins up with us once more.. look out for some killer ansi
+15,01        work from him in the coming months. the vga team expands quite a
+15,01        bit this month with the arrival of 00exsaza15, 00mr weed 15and 00phaeton 15,
+15,01        big greets to all the new guys!
+
+15,01      13* 14we say goodbye 15to inactive members, see the member list for more
+15,01        up-to-date information concerning these lazy-asses!
+
+
+15,01                      14mm  mmmmmmmmmmmmmmmmmmm14,14#14,01 mmmmmmmmm m
+15,01                   14# "14,15# 00,14 14,15" 15 14#   01cia news & info      00# 14"00,14#14,01"#
+15,01                     #00,15#00,00#00,15mmmmmm00,00#00,15mmmmmmmmmmmmmmmmm|mm00,00#00,15mmmmm00,00#00,01#
+
+15,01                               04_m_m_m13m--- 04m13m--m
+15,01                               04-13,04#04,01-01,04#04,01-"13""13,04"00,13#15,01 01,04#13,13#04,01# 00,13#13 
+15,01                                    04"13"""   04"13"""
+15,01      13* 00note: 15work is 00due at the end of this month 15(00september15) or within
+15,01        the 00first three days of October15, please send it all in 00asap15!
+
+15,01        the 0050th edition of the cia conspiracy 15will be coming out around
+15,01        the first week of 00OCTOBER 15`97. all 00former cia members 15and anyone
+15,01        else who is just a 00cia fan 15is invited to make some  cia-50 promo
+15,01        artwork for release in the big 5-0h. you can help make cia's #50
+15,01        the 00biggest 15and 00baddest 15art  pack release EVER!   you could even
+15,01        00WIN some cool stuff15, check out the url listed below for pictures
+15,01        of the prizes, prize updates, contest info and more!:
+
+15,01                  13win!00---15-00>   www15.00creators15.00org15/0050   <15-00---13!win
+
+15,01        14* #50 is obviously not coming out in september as i accidentally
+15,01          14typed in last months info! thanks for the early subs though !
+
+15,01        email work to 00napalm@cyberwar.com 15or dcc it to the version of me
+15,01        on #cia on 00irc 14(napalm or _napalm) 15- or you can ftp it to here :
+15,01        00ftp.cyberwar.com pub/users/napalm 15or send it to any coordinators
+15,01        who might be lurking around irc. you can also mail it to me on a
+15,01        00230 meg syquest ez-flyer disk 15which i will happily keep!
+15,01        of the prizes, prize updates, contest info and more!:
+
+
+15,01                      14mm  mmmmmmmmmmmmmmmmmmm14,14#14,01 mmmmmmmmm m

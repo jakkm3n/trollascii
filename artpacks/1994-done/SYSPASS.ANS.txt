@@ -1,0 +1,8 @@
+00,01|=112;
+
+15,01                         14.15.00.03S09ystem15 03P09assword15 03C09heck00.15.14.
+
+00,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+00,00 #15,15@00#14   01Enter System Password: 02@14                                             #01@00,14# 
+14,01""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01                                                                               02 

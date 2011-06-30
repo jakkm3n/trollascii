@@ -1,0 +1,8 @@
+15,01C:\ILLUSION\DATA\
+15,01Auto-Message Main Menu
+15,01What Is Thy Choice:
+
+15,01-----------------------------------------------------------------
+15,01Line 1: Path To Your Illusion Data Files
+15,01Line 2: Main Menu String
+15,01Line 3: Choice String

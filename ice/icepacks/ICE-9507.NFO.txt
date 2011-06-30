@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. Okay, Mr. Soth manning  m    00@15         |          . the frozen keyboard for
+15,01    yet another exciting month!           #     .    This month was barely less
+15,01    chaotic than last month...   Although I'm happy to say  that the art hasn't
+15,01    suffered because of it...  I want to give all the iCE guys a big warm fuzzy
+15,01    (that's a good touch, not a bad touch),  for their hard work this month....
+
+15,01 2. This month saw an event which rarely occurs in iCE. A Senior Staffer parted
+15,01    the group  this month to join Legend.  We want to extend our gratitude to
+15,01    Aphex Twin, aka Aphid Twix (aka Ellis Dee ;), for everything he's done for
+15,01    the group in the past and hope he will continue his success wherever the
+15,01    winds may take him.
+
+15,01    Also packing their bags and hitching rides to other pastures were Spirit of
+15,01    Illusion, who left for Disco, and Master Ken, who joined Aphex in
+15,01    LegendLand.
+
+15,01 3. We had a  little influx  of new members  this month.  First off, our ansi
+15,01    section welcomes back Animal, who returns from ACiD.  This month also saw
+15,01    the addition of Elysius and Mr. Mephistoples.  Both are bursting with
+15,01    talent and we over here in the crowded iCE Phonebooth are sure you'll be
+15,01    seeing alot of them in the future.  We also gained a rip section, with Tek
+15,01    and Death Adder joining, both of which are masters of the PhaT EGA standard
+15,01    that everyone loves. =) The VGA Section was also graced with Rogue Leader,
+15,01    who is worth his weight not only in gold, but also platinum, copper, beads,
+15,01    cows, war bonds, plutonium, duckets, fillywhips, semolians, chips,
+15,01    clams, rocks, bones, skins, smackers, and many other forms of payment.
+15,01    If you are able to think of other terms for remuneration, contact Lord
+15,01    Soth or Friar Tuck about becoming part of the iCE Currency Exchange. (iCE)
+
+15,01 4. The Musicians have just been totally rocking the world lately... Basehead
+15,01    and Necros are now working for the game company Origin.  We'll keep you
+15,01    notified when any new Origin games come out that include iCE Musicians'
+15,01    songs.
+
+15,01    Also a new game called Xixit has come out with music by Necros and C.C.
+15,01    Catch.  It is a game like Columns and is coded by coding-genius Tran.
+15,01    The game is simple and addictive :)  It is available from Optik Software,
+15,01    and there is a shareware version available.
+
+15,01    The Results from Music Contest 3 have come in... and here's the standings:
+15,01       Necros          - 2nd Place
+15,01       Nemesis         - 3rd Place
+15,01       Future Assassin - 12th Place
+15,01    We would also like to congratulate Psibelius of ACiD for placing 32nd, and
+15,01    Lord Pegasus of ACiD for placing 43rd.  Approximately 120 people entered
+15,01    and the top songs are being put on CD, and the remaining space on the disc
+15,01    will be filled with demos and musicdisks and such.  It's called the Freedom
+15,01    CD and includes graphics by Tonedef and Xten of iCE.  It will cost $8 for
+15,01    US/Canada, and $10 Airmail elsewhere in the world, and will be released in
+15,01    Mid-September.  Email dmw@gate.net for info on this CD.
+
+15,01    Also Necros has just released an amazing musicdisk called Progression.
+15,01    This musicdisk is easily one of the 10-best ever made, especially since all
+15,01    the gfx were done by Xten, also an iCEY.  This is not to be missed.
+
+15,01    ftp dragon.axs.net /pub/demos/songs/necros/fm-prog.zip
+
+15,01 5. We want to congratulate Mascot for his success at the British Columbia Film
+15,01    and Video Festival.  He walked out with "Best Independant Production" and
+15,01    "Best Graduate Computer Media" for two 5-minute animations he made.  The
+15,01    MS-BELL picture is a frame from one of his animations.  Now that he's
+15,01    finished with all that, he's ready to come back full speed for iCE. :)
+15,01    Congrats, Mascot!

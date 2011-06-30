@@ -1,0 +1,14 @@
+15,01TXT2COM.EXE is a program by MindCrime of Chemical Youth which will, as the name
+15,01implies, convert a text file into an executable .COM file.  It doesn't matter
+15,01what the text file is.  It could be a normal ASCII file, ANSi file, scrolling
+15,01ANSi, ANSimation, whatever!  This file will convert it and display it EXACTLY
+15,01as DOS's "TYPE" command would.  AND only 25 bytes are added onto the length of
+15,01the file!  The only restriction with this program is that it will only convert
+15,01files less than 65510 bytes.  I'm working on creating a TXT2COM which will
+15,01convert files greater than 65510 bytes.
+
+15,01Usage: TXT2COM.EXE FILENAME.EXT
+
+15,01TXT2COM will take the root of the filename and add ".COM" as the filename's
+15,01extension.  Then just enter the name of the produced .COM file, and it will
+15,01display the file as it would if you entered "TYPE FILENAME.EXT" under DOS.

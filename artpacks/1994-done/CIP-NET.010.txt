@@ -1,0 +1,80 @@
+15,01;
+15,01;      14,15 15,01"" 14,15   15,01 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01"14,15 15,01    14,15 15,01 14,15 15,01m||   14,15   15,01 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15 15,01""
+15,01;      14,15 15,01mm 14,15 15,01"m 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01mm    14,15 15,01 14,15 15,01|14,15 15,01|   14,15 15,01   14,15 15,01"m 14,15 15,01m14,15 15,01 14,15 15,01m14,15 15,01 14,15 15,01"m 14,15 15,01mm mm14,15 15,01 mm14,15 
+15,01;
+15,01;AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01;                     ### CRiME iN PROGRESS NETWORK ###
+15,01;                          Nodelist #11 (10/31/94) Muhahahah..
+15,01;AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01;
+15,01;   -/- iLLEGAL EMBASSY -/-                    -/- CELL BLOCK 4 -/-
+15,01;  513-923-4954  (18:513/0)                  815-282-8732   (18:815/0)
+15,01;    CiPNet WHQ  Main Hub                       CiPNet Cen. US Hub
+15,01;    Tron - Net Staff Member            Malicious Intent - Net Staff Member
+15,01;
+15,01;    -/- Stellar Nights -/-                  -/-  Brave New World -/-
+15,01;   610-896-9140 (18:610/0)                  908-647-1194  (18:908/0)
+15,01;       CiPNet E. US Hub                          Additional Hub
+15,01; The Wizard - Net Staff Member                Sysop: Trident (CiA)
+15,01;
+15,01;
+15,01;   NOTE TO SYSOPS! - If you are the first or only board listed in your
+15,01;                     area code, and are listed as a HOST, and then on the
+15,01;                     next line listed as a ,1, you could use 18:xxx/0  OR
+15,01;                     18:xxx/1. BUT, we need to know which one you choose.
+15,01;                     We default with /0 meaning HUB for your area, but
+15,01;                     we can change that if notified.
+15,01;
+15,01;AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01Zone,18,CiPNet_WHQ,CiPNet_OH,Tron,1-513-923-4954,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 201 - New Jersey  |
+15,01;
+15,01Host,201,201_Hub,CiA_Board,Napalm,1-201-934-5618,9600,XA,CM,V32B,V42B
+15,01,1,Apocalypse,CiA_Board,Napalm,1-201-934-5618,9600,XA,CM,V32B,V42B
+15,01,2,Psycho_Systems,CiA_Board,Vision,1-201-445-2927,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 203 - Connecticut  |
+15,01;
+15,01Host,203,203_Hub,Stratford_CT,Hawk,1-203-386-0246,9600,XA,CM,V32B,V42B
+15,01,1,The_WarezHouse,Stratford_CT,Hawk,1-203-386-0246,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 215 - Pennsylvania  |
+15,01;
+15,01Host,215,215_Hub,RaVE_Board,Jay,1-215-943-1309,9600,XA,CM,V32B,V42B
+15,01,1,The_Futile_Frontier,RaVE_Board,Jay,1-215-943-1309,9600,XA,CM,V32B,V42B
+15,01,2,Tactical_Command_2,CiA_Board,Fire_Shadow,1-215-493-6282,9600,XA,CM,V32B,V42B
+15,01,3,Arcadaes,CiA_Board,Drakkhen,1-215-295-0178,9600,XA,CM,V32B,V42B
+15,01,4,Underground_Outpost,CiA_Board,Spanky,1-215-493-7703,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 216 - Ohio  |
+15,01;
+15,01Host,216,216_Hub,CiP_Board,Qu'ran,1-216-680-2532,9600,XA,CM,V32B,V42B
+15,01,1,Havest_Moon,CiP_Board,Qu'ran,1-216-680-2532,9600,XA,CM,V32B,V42B
+15,01,2,Cyberdyne_Systems,CiA_Board,iCE_Breaker,1-216-232-5985,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   |  Region 217 - Illinois  |
+15,01;
+15,01Host,217,217_Hub,CiP_Board,Living_Death,1-217-864-4796,9600,XA,CM,V32B,V42B
+15,01,1,Potsdam,CiP_Board,Living_Death,1-217-864-4796,9600,XA,CM,V32B,V42B
+15,01,2,High_Fidelity,CiP_Board,Mr_Muff,1-217-PRI-VATE,9600,XA,CM,V32B,V42B
+15,01,3,The_Shadows_Den,CiP_Board,Altered_Destiny,1-217-793-3261,9600,XA,CM,V32B,V42B
+
+15,01;
+15,01;   |  Region 312 - Illinois |
+15,01;
+15,01Host,312,312_Hub,Chicago_IL,Brett_Hart,1-312-745-7899,9600,XA,CM,V32B,V42B
+15,01,1,The_Squarred_Circle,Chicago_IL,Brett_Hart,1-312-745-7899,9600,XA,CM,V32B,V42B
+
+15,01,2,Falcon's_Nest,Chicago_IL,FaLcoN,1-312-604-8940,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   | Region 403 - Canada  |
+15,01;
+15,01Host,403,403_Hub,Canadian_Board,Anesthetic,1-403-278-5494,9600,XA,CM,V32B,V42B
+15,01,1,Phencyclidine,Canadian_Board,Anesthetic,1-403-278-5494,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   | Region 404 - Georgia  |
+15,01;
+15,01Host,404,404_Hub,CiP_Board,Illusion_2,1-404-928-2072,9600,XA,CM,V32B,V42B
+15,01,1,Chains_of_Destruction,CiP_Board,Illusion_2,1-404-928-2072,9600,XA,CM,V32B,V42
+15,01B

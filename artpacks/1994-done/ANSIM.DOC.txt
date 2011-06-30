@@ -1,0 +1,74 @@
+
+15,01                         +-+------------------------+-+
+15,01                         +-+------------------------+-+
+15,01                         | | A N S I M  Version 1.0 | |
+15,01                         +-+------------------------+-+
+15,01                         +-+------------------------+-+
+
+15,01                          "The Only Way to View ANSI!"
+
+15,01Public Release Date: 04/14/93
+15,01Author: Andrew Henry  (genius programmer)
+15,01Documentation: Steven Henry
+15,01Artwork: Cool T [iCE]
+
+15,01         Here's the mother of all ANSI Viewers, for your enjoyment!
+15,01But first...please read the docs, quickly...
+
+15,01. .  -  --- -------------------------------------------------------- ---  -  . .
+
+
+15,01Options:
+15,01--------
+
+15,01    # Lightbar movement to view directory listing of ANSI files, and
+15,01      easily select for viewing...
+15,01    # File mask change, any time while viewer is loaded...
+15,01    # Directory change, any time while viewer is loaded...
+15,01    # "Slideshow" viewing option (ie. VGANSIM *.ANS)...
+15,01    # Supports unlimited number of lines...
+15,01    # Allows scrolling up and down ANSI screen, when viewing...
+15,01    # Handles large ANSI-Mations...
+15,01    # View in 80x25, 80x50, and/or 640x480 mode...
+15,01    # Plays ANSI music files...
+
+15,01Commands:
+15,01---------
+
+15,01    Move Lightbar UP/DOWN and Scroll UP/DOWN ANSI  :   Up and Down Arrow Keys
+
+15,01    Change the File Mask                           :   'M'
+
+15,01    Change the Directory                           :   'D'
+
+15,01    View ANSI File                                 :   'Enter'
+
+15,01    Increase Resolution                            :   '+'
+
+15,01    Decrease Resolution                            :   '-'
+
+15,01    Exit to DOS                                    :   'Esc'
+
+15,01Note:
+15,01-----
+
+15,01    To quickly and conveniently view a single ANSI file, type:
+
+15,01            ( ie. VGANSIM CREWLYE.GRM )
+
+15,01    To view a group of ANSI files with the same extension, type:
+
+15,01            ( ie. VGANSIM *.ANS )
+
+15,01    Also, typing '-' while already in 80x25 mode will not decrease
+15,01the resolution any further.
+
+15,01. .  -  --- -------------------------------------------------------- ---  -  . .
+
+
+15,01         The programmer spent many hours(well, not that many) working on
+15,01this fine program. If you enjoy using it, leave him some mail on WildNet
+15,01or VirtualNet telling him how much you appreciate ANSIM. Thank You!
+
+15,01-- Steve H.
+15,01-- VGANSI WHQ - (215)435-1339 - 2400-14.4kv32bis supported...

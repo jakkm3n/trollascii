@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  November Update *   December 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1294.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID1194 ANS |   9115 |11.30.94 |%    | November 1994 Member/Board List|
+15,01*|2  |ACIDAPP  EXE | 106288 |09.01.94 |%    | ACiD Application Form Generator|
+15,01*|N/C|ACIDVIEW CFG |   4004 |12.01.94 |%    | ACiD View configuration        |
+15,01*|3  |ACIDVIEW EXE | 100804 |12.01.94 |%    | ACiD View version 3            |
+15,01*|4  |ACIDVIEW NFO |  41292 |12.01.94 |%+   | ACiD View Documentation        |
+15,01*|5  |AE-AMBR2 RIP |  15147 |12.01.94 |%    | Amber                          |
+15,01*|6  |AE-DSUN3 ANS |  18153 |12.01.94 |%+   | Dark Sun World                 |
+15,01*|7  |AN-AGORA RIP |  15558 |12.01.94 |%    | Agora                          |
+15,01*|8  |BG-COC   EXE |  37883 |12.01.94 |%    | Citadel of Chaos               |
+15,01*|N/C|BGIFONTS ZIP |  67843 |03.15.93 |%    | BGI fonts                      |
+15,01*|9  |BK-GS1   ANS |  15064 |12.01.94 |%+   | The Games Station              |
+15,01*|10 |BK-NC2   ANS |  23858 |12.01.94 |%+   | No Carrier                     |
+15,01*|11 |CS-AGORA GIF | 222302 |11.28.94 |%    | Agora                          |
+15,01*|12 |CS-XMAS  EXE | 442881 |12.01.94 |%M   | Merry Christmas!               |
+15,01*|N/C|FILE_ID  DIZ |    613 |12.01.94 |%    | Acquisition FILE ID by {RM}    |
+15,01*|13 |JD-JERKY ANS | 138168 |12.01.94 |%A+  | "Merry Christmas..."           |
+15,01*|14 |KZ-TAG1  ANS |  43431 |11.01.94 |%+   | The Assassin's Guild           |
+15,01*|15 |LD-CF1   ANS |  50462 |12.01.94 |%+   | Cyberforce                     |
+15,01*|16 |LD-LOD1  ANS |   7865 |12.01.94 |%+   | Land of Defiance               |
+15,01*|17 |LD-UTOP1 ANS |  11542 |11.12.94 |%+   | Utopia                         |
+15,01*|18 |LOGO1294 ZIP |  17938 |12.01.94 |%    | Logo Assortment for December   |
+15,01*|19 |NEWS1294 ANS |  20092 |12.01.94 |%+   | ACiD Newsletter Issue #6       |
+15,01*|20 |PC-DOG1  ANS |  38949 |12.01.94 |%+   | Delusions of Grandeur          |
+15,01*|21 |RL-SS2   ANS |  51686 |11.27.94 |%+   | Suicidal Shrimp                |
+15,01*|22 |SI-SS1   ANS |  22259 |12.01.94 |%+   | Suicidal Shrimp                |
+15,01*|23 |SM-DOMIN ANS |  21202 |12.01.94 |%+   | The Dominion                   |
+15,01*|24 |SO-LOKI  ANS |  45299 |12.01.94 |%+   | Loki's Error                   |
+15,01*|25 |SS-DSW   RIP |  29228 |11.30.94 |%    | Dark Sun World                 |
+15,01*|26 |SS-GOLG2 GIF | 153158 |11.30.94 |%    | Golgotha                       |
+15,01*|27 |SS-LOKI3 RIP | 109737 |11.30.94 |%    | Loki's Error                   |
+15,01*|28 |SS-SWD1  RIP |  38518 |12.01.94 |%    | Sword                          |
+15,01*|29 |SS-TRN   RIP |  57986 |11.30.94 |%    | The Ravaged Nightmare          |
+15,01*|30 |TS-ACID1 COM |   2510 |11.22.94 |%A   | ACiD double plasma             |
+15,01*|31 |TS-APSRC ZIP |   7162 |11.22.94 |%    | ACiD double plasma source      |
+15,01*|32 |TT-TF    ANS |  15738 |12.01.94 |%+   | Terra Firma                    |
+15,01*|33 |US-AGORA RIP |  26630 |12.01.94 |%    | Agora                          |
+15,01*|34 |US-LOKI  RIP |  10769 |12.01.94 |%    | Loki's Error                   |
+15,01*|35 |WM-AWSRC ZIP |  43853 |12.01.94 |%    | ACiDWeen source                |
+15,01*|36 |ACDU1294 NFO |   6421 |12.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |

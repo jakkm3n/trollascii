@@ -1,0 +1,62 @@
+15,01------------------------------------------------------------------------------
+15,01          C R i S i S  M U L T I V I E W E R  V 2 . 0  R E L E A S E
+15,01             P R O G R A M M E D  B Y  V I P E R  [ C R I S I S ]
+15,01                  A N S i  B Y  S L U D G E  [ C R i S i S ]
+15,01                     R E L E A S E  D A T E  4 / 30 / 9 4
+15,01------------------------------------------------------------------------------
+
+15,01        Updates:
+
+15,01        o FONT  : Specialized Font done by Sludge
+
+15,01        o MENU  : 1) New Menu Design done by Sludge
+15,01                  2) New Key - Delete Key - will delete file at cursor
+
+15,01        o RIP   : Bezier Curve Support
+
+15,01        In this version of the viewer the following features are supported:
+
+15,01        o ANSI  : 80x25 - Scrolling - Non-Scrolling
+15,01                  80x50 - Scrolling - Non-Scrolling
+15,01                  320x200 - Single Column Non-Scrolling
+15,01                  320x200 - Single Column Scrolling
+
+15,01        o GIF   : The viewing of 320x200 GIF files has been sped up
+15,01                  considerably. Higher-res modes still require some
+15,01                  time to display, working on that.
+15,01                  320x200x256 Support
+15,01                  640x480x256 Support
+15,01                  800x600x256 Support
+15,01                  1024x768x256 Support
+
+15,01        o FLI   : 320x200 Mode FLI Support
+
+15,01        o SOUND : Mod Player, Several Sound Systems Supported,
+15,01                  Oscilliscope Support for all sound files
+15,01                  New Support for: MOD/669/WOW/STM/S3M/OKT
+
+15,01        o MOUSE : Mouse support added, Microsoft Compatable Mouse
+15,01                  required
+
+15,01        o RIP   : Level 0/1 RIP Support, Fast
+
+15,01        Future Features:
+
+15,01        o SPEED : All around speed improvements (GIF/RIP)
+
+15,01        o ANSI  : 640x480 Hi-Res Ansi, Forgot all about this, will get
+15,01                  this done soon.. possibly go to higher resolutions
+15,01                  as well, 800x600 / 1024x768..
+
+15,01                  Animation mode - Thanks to the ACiD Viewer for this
+15,01                  idea, in the works..
+
+15,01        o SOUND : More Music Selection Choice - Possibly Voc and MTM.
+15,01                  Working on MTM Format now (up to 32 voices at once
+15,01                  thanks to those Renaissance guys)
+
+15,01        If you find any bugs or any suggestions for the viewer direct them
+15,01        to me, Viper, on The Atomic Bomb (51O/625-7312) and mail me there.
+
+15,01        Viper
+15,01        [crisis/rem]

@@ -1,0 +1,34 @@
+
+15,01|03                     +----------------------------------+
+15,01                     ||11|17      Teleconferencing Help       |03|16|
+15,01                     +----------------------------------+
+15,01  +----------------------------------------------------------------------+
+15,01  | |10/A [ACTION]        |14Performs an action.                               |
+15,0103|
+15,01  | |10/ANON              |14Puts the room in anonymous mode.                  |
+15,0103|
+15,01  | |10/E                 |14Toggle local echo on/off                          |
+15,0103|
+15,01  | |10/EJECT [USERNAME]  |14Ejects a user from the room.                      |
+15,0103|
+15,01  | |10/I <[USERNAME]>    |14/I only sets the room to Private. /I and a        |
+15,0103|
+15,01  | |10                   |14user name invites that user to the room.          |
+15,0103|
+15,01  | |10/J [ROOM]          |14Joins that particular room.                       |
+15,0103|
+15,01  | |10/M [TOPIC]         |14Makes you the moderator, and sets the topic.      |
+15,0103|
+15,01  | |10/P [USERNAME]      |14Sends a private message to that particular user.  |
+15,0103|
+15,01  | |10/Q                 |14Exits Teleconferencing.                           |
+15,0103|
+15,01  | |10/S                 |14Show users in all conference rooms.               |
+15,0103|
+15,01  | |10/U                 |14Users in this conference room.                    |
+15,0103|
+15,01  | |10/W                 |14Who's currently on the system?                    |
+15,0103|
+15,01  | |10/?                 |14Displays this help menu whenever you need it      |
+15,0103|
+15,01  +----------------------------------------------------------------------+

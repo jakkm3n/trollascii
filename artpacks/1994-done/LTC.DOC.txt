@@ -1,0 +1,58 @@
+
+
+15,01                     "14,15     15,01"    ""14,15     15,01"" m14,15    15,01"14,15   15,01m
+15,01                      14,15  15,01 14,15  15,01       14,15  15,01 14,15  15,01   14,15  15,01 14,15  15,01 14,15    
+15,01                      14,15  15,01 14,15  15,01       14,15  15,01 14,15  15,01   14,15  15,01 14,15  15,01 14,15    
+15,01                 14,15 15,01    14,15  15,01 14,15  15,01       14,15  15,01 14,15  15,01   14,15  15,01 14,15  
+15,01                 "    14,15  15,01 14,15  15,01 14,15    15,01  14,15  15,01 14,15  15,01   14,15  15,01 14,15  15,01 14,15    
+15,01                 14,15 15,01    14,15  15,01 14,15  15,01 14,15    15,01  14,15  15,01 14,15  15,01   14,15  15,01 14,15  15,01 14,15    
+15,01                 14,15 15,01-dl 14,15     15,01m14,15    15,01  14,15     15,01   "14,15    15,01m14,15   15,01"
+15,01                 14,15 15,01m
+15,01                  """""" """
+
+
+15,01         Welcome friends to Dalamar's Last Ten Callers (LTC) PPE.
+15,01    This is the ultimate in sysop configurable last ten callers PPE
+15,01    for ANY group oriented board.
+
+15,01         The thinking behind why I created this PPE was so that a
+15,01    user could in fact have two user notes. His regular one, and a
+15,01    special sysop defined one dependant on the user's security level.
+15,01    The default version of LTC is set up like Eden WHQs Syndication-X
+15,01    this will give you an idea how this PPE is meant to be used.
+
+15,01         This PPE is simple to use and requires no (NEVER, NIL)
+15,01    maintainence. Simply put the LTCLOGIN.PPE into your login sequence
+15,01    where it will be executed during every login. Then the LTC.PPE will
+15,01    display the list of the last ten callers... put this wherever your
+15,01    heart desires.
+
+
+15,01Configuration  14,15 
+15,01           mmm14,15 15,01"
+15,01                      The colors/bottom line are configurable in the file
+15,01                  LTC.CFG, at the bottom of that file, you will be told
+15,01                  what line means what
+
+15,01                      The security levels are in the file LTC.SEC. Again,
+15,01                  this is set up as Syndication-X. The way this is edited
+15,01                  is simple. The line your cursor is on, stands for the
+15,01                  security level.
+
+15,01                             Ex. Line 156 stands for Security Level 156.
+
+15,01Disclaimer  14,15 
+15,01        mmm14,15 15,01"
+15,01                      This PPE, like all others is guarenteed only to take
+15,01                  up precious HD space. If it destroys, explodes, implodes,
+15,01                  or jizzes on your computer, it is through no fault of the
+15,01                  programmer, and the programmer takes no responsibility.
+
+
+
+
+15,01                   If anyone finds this remotely useful, drop me a line
+15,01                   on SyndicateNet, SpeedNet, UnionNet, or over the internet
+15,01                   at BENEFIELD@ROWAN.SATURN.EDU... peace, and lateron!
+
+15,01                                                            -Dalamar

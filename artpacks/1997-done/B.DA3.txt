@@ -1,0 +1,42 @@
+15,01xnone                                                                           
+15,01                                                xnone                           
+15,01                                                                              @ 
+15,01@                 @         *BOTTLE                LThere is an empty bottle of 
+15,01Ribena here, trying very hard to be not noticed.    *RIBENA                 xnon
+15,01e                        BOTTLE                                                 
+15,01                        14,15@15,01 @ @                 @          SCHEDULE              O
+15,01There is a Tube schedule on the floor, nestled between disused pairs of undies. 
+15,01xTUBE                   xnone                      
+15,01 SCHEDULE                                                                       
+14,15@15,01 @ @                 @          PLUNGER               0There is a toilet plunge
+15,01r hiding behind the bog.                                *TOILET                 
+15,01xnone                            PLUNGER                                        
+15,01 @ @                 @         *CHEESE                JThe table groans in prote
+15,01st beneath the weight of a large round of cheese.       GREAT BIG MUTHERFUCKIN x
+15,01none                        CHEESE                                              
+15,01                           M @ @                 @         *NUMBER              
+15,01  <On the wall is inscribed, "For a beefy time, call 155899817.-17.             
+15,01   APHONE                  xnone                        NUMBER                  
+15,01 @ @                            TOURISTS              3A desperately flailing fa
+15,01mily of tourists are here.re here.                      FAMILY OF              x
+15,01none                      
+15,01 TOURISTS                                                                       
+15,01$ @ @                 @                 SHRUBBERY             *Green and leafy  
+15,01                                                               xNICE            
+15,01       xnone                        SHRUBBERY                                   
+15,01                                   @ @ @                 @         xGUMS        
+15,01          *Sweet and chewy                                                      
+15,01           xWINE                   xnone                      * GUMS            
+15,01                                                               @ @ @            
+15,01 @              BEEF FAT              >fatty and beefy.                         
+15,01                                       $GELATINOUS CUBE OF     xnone            
+15,01          
+15,01 BEEF FAT                                                                       
+15,01+ @ @                 @          WRAPPERS              Mgreasy as heck          
+15,01                                                         WIMPYBURGER            
+15,01xnone                      
+15,01 WRAPPERS                                                                       
+15,01+ @ @                 @          WRAPPER               Pgreasy as all getout    
+15,01                                                         CHEESEBURGER           
+15,01xnone                            WRAPPER                                        
+15,01                                + @ @                 @         

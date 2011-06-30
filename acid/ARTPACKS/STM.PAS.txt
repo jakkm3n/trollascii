@@ -1,0 +1,80 @@
+15,01{$A+,B-,D+,E+,F-,G-,I+,L+,N-,O-,P-,Q-,R-,S-,T-,V-,X+,Y+}
+15,01{ Return the current file pointer (similar to Pascal's GetPos) }
+15,01FUNCTION  STM_GetPos (VAR S : STREAM) : LongInt;==============================
+15,01BEGIN
+15,01  STM_GetPos := S.PageNr*STM_BufSize + S.PageNdx;
+15,01END;
+15,01  Provides buffered input/output for untyped files.
+
+15,01{ Return the current size of the file }
+15,01FUNCTION  STM_GetSize(VAR S : STREAM) : LongInt;down a program dramatically
+15,01BEGINue to overhead when chaining to the DOS INT 21h handler.  By buffering
+15,01  STM_Flush(S);                        { Force data to disk first }he INT 21h
+15,01  STM_GetSize:= FileSize(S.F);nificant amount of speed increase at an
+15,01END;acceptable cost of increased memory use.
+
+15,01    Files are split up into blocks of STM_BufSize bytes, these blocks are
+15,01END.called 'pages'.  As needs predict, the stream will read the appropriate
+15,01    page in memory, and copy the required data out of the buffer.
+15,01>
+15,01  The STM unit strongly resembles the C 'FILE' type.  STM is however
+15,01  somewhat simpler since it provides no way for altering the buffer size
+15,01  (other than changing the STM_BufSize constant and recompiling), and always
+15,01  works by reading data on STM_BufSize boundaries.
+
+15,01=============================================================================}
+
+15,01{""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""}
+15,01                                INTERFACE
+15,01{mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm}
+
+15,01USES DOS;
+
+15,01CONST  STM_BufSize = 4096;                   { Multiples of 2 are best       }
+
+15,01TYPE   OpenFlag    = (NOCREATE, CREATE, CREATENEW);
+
+15,01TYPE   STM_Buffer  = ARRAY [0..STM_BufSize-1] OF BYTE;
+15,01       STM_BufPtr  = ^STM_Buffer;
+15,01       STM_Error   = (STM_OK,                { No error                      }
+15,01                      STM_NOMEM,             { Insufficient memory for buffer}
+15,01                      STM_OPENERROR,         { Open/create did not succeed   }
+15,01                      STM_SEEKERROR,         { Error seeking to location     }
+15,01                      STM_READERROR,         { Error when reading            }
+15,01                      STM_WRITEERROR);       { Error when writing            }
+
+
+15,01       STREAM      = RECORD
+15,01                       F       : File;       { FILE associated with stream   }
+15,01                       BufPtr  : STM_BufPtr; { Pointer to buffer for stream  }
+15,01                       PageNr  : LONGINT;    { Page number we're working at  }
+15,01                       PageNdx : LONGINT;    { offset within page of current }
+15,01                                             { file pointer                  }
+15,01                       PageLen : LONGINT;    { Actual length of buffer read  }
+15,01                                             { from disk.  will be equal to  }
+15,01                                             { STM_BufSize except for the    }
+15,01                                             { last page                     }
+15,01                       LastErr : STM_Error;  { Last error reported on this   }
+15,01                                             { stream                        }
+15,01                       Modified: BOOLEAN;    { Has the page been written to? }
+15,01                     END;
+
+15,01PROCEDURE STM_Open   (VAR S : STREAM; CONST FName : NameStr; CONST Flag : OpenFl
+15,01ag);
+15,01PROCEDURE STM_Create (VAR S : STREAM; CONST FName : NameStr);
+15,01PROCEDURE STM_Close  (VAR S : STREAM);
+15,01PROCEDURE STM_Write  (VAR S : STREAM; VAR DataBuf; DataLen : Word);
+15,01PROCEDURE STM_Read   (VAR S : STREAM; VAR DataBuf; DataLen : Word);
+15,01PROCEDURE STM_Flush  (VAR S : STREAM);
+15,01PROCEDURE STM_Goto   (VAR S : STREAM; Location : Longint);
+15,01FUNCTION  STM_GetPos (VAR S : STREAM) : LongInt;
+15,01FUNCTION  STM_GetSize(VAR S : STREAM) : LongInt;
+
+15,01{""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""}
+15,01                              IMPLEMENTATION
+15,01{mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm}
+
+15,01{ Open a stream.
+15,01{  Flag:  NOCREATE : Open a stream but do not create a new file              }
+15,01{         CREATE   : Open a stream if possible, create a new file if opening }
+15,01{                    did not succeed.                                        }

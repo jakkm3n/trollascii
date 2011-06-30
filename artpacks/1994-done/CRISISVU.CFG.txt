@@ -1,0 +1,65 @@
+15,01: Possible values of 'Device':
+15,01:
+15,01:             AdLib -> AdLib sound card
+15,01:       Mix2-DAC-SB -> Mixed 2 DAC + SB (stereo)
+15,01:        Mix-DAC-SB -> Mixed DAC + SB (stereo)
+15,01:            DAC-SB -> DAC + SB (stereo)
+15,01:   Mix2-DAC-Stereo -> Mixed 2 DAC stereo via LPT1 - LPT2
+15,01:    Mix-DAC-Stereo -> Mixed DAC stereo via LPT1 - LPT2
+15,01:        DAC-Stereo -> DAC stereo via LPT1 - LPT2
+15,01:          DAC-Mono -> DAC mono via LPT1
+15,01:  Mix2-DMA-SB-Ster -> Mixed2 DMA Stereo SB Pro
+15,01:  Mix-DMA-SB-Stere -> Mixed DMA Stereo SB Pro
+15,01:     DMA-SB-Stereo -> DMA Stereo SB Pro
+15,01:       DMA-SB-Mono -> DMA Stereo SB Pro (default)
+15,01:     SBlaster-Mono -> DMA Sound Blaster
+15,01:           Speaker -> PC Internal Speaker
+15,01[Playmod]
+15,01Device      = SBlaster-Mono
+15,01SampleFreq  = 20000
+15,01ShellFreq   = 20000
+15,01MaxFreq     = 22000
+
+15,01:  Definitions for SBlaster (Sound Blaster DMA Mono)
+15,01:  Values for Port: $210, $220, $230, $240,
+15,01:                   $250, $260, $270, $280
+15,01:  Values for IRQ:  2, 3, 4, 5, 7, 10
+15,01:  Values for DMA:  0, 1, 3
+15,01[SBlaster]
+15,01;Port        = $220
+15,01IRQ          = 7
+15,01DMA          = 1
+15,01SbSplTimeout = 3
+15,01HiSpeedDMA   = Yes
+
+15,01[SBPro]
+15,01MasterVol = 255
+15,01DACVol    = 255
+15,01FMVol     = 255
+15,01Filter    = No
+
+15,01:  Values for Port: $378, $278, $3BC, etc..
+15,01:                  (LPT1  LPT2   MDA)
+15,01:  Values for LPort/RPort
+15,01:    [$408] -> LPT1
+15,01:    [$40A] -> LPT2
+15,01:    [$40C] -> LPT3
+15,01:    [$40E] -> LPT4
+
+15,01[DAC]
+15,01Port       = [$408]  ; $378 DAC Mono
+15,01LPort      = [$408]  ; $378 DAC Stereo Left
+15,01RPort      = [$40A]  ; $278 DAC Stereo Right
+
+15,01: Constant Values - No Real Need to change these, perhaps volume
+15,01[PlayMod]
+15,01TicksPerSec  = 50
+15,01FilterOn     = 0
+15,01FilterOff    = 0
+15,01FilterIsOn   = No
+15,01FilterChange = Yes
+15,01BassFilter   = No
+15,01CanFallBack  = No
+15,01DMAOffset    = 0
+15,01LowQuality   = No
+15,01Volume       = 127

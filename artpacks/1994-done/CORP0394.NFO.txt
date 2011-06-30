@@ -1,0 +1,62 @@
+15,01       +----------------------------------------------------------+
+15,01       |                                                          ||
+15,01       | The CORP Compilation idea first came up in late 1992     ||
+15,01       | when there were only but a few ansi groups in existance. ||
+15,01       | The Compilation is meant to be a monthly (yea rite)      ||
+15,01       | release of some of the finest art work produced by the   ||
+15,01       | CORP crew. The Compilation is solely dedicated to art,   ||
+15,01       | especially ansi art.                                     ||
+15,01       |                                                          ||
+15,01       +----------------------------------------------------------+|
+15,01        """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+15,01     +[FileName]+     +[Made By]+     +[Title]+
+15,01   +-+----------+-----+---------+-----+-------+--------.-.--.-.-.. . ..  .
+15,01   | GEN-PAD  ANS       Genesis        Parental Advisory
+15,01   | GEN-TDN1 ANS       Genesis        TouchDown!
+15,01   | GEN-ROD  ANS       Genesis        Realms Of Death
+15,01   | GEN-CRP3 ANS       Genesis        CORP, Logo #3
+15,01   | GEN-PHA  ANS       Genesis        Pharynx, Logo
+15,01   | GEN-AOF  ANS       Genesis        Agents Of Fortune
+15,01   | GEN-CRP1 ANS       Genesis        CORP, Logo #1
+15,01   | GEN-OP   ANS       Genesis        Obscene Phobia
+15,01   | GEN-FRT  ANS       Genesis        The Frontier
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | MXM-PH1  ASC        Maxim         Phaux Hack logo(ascii)
+15,01   | MXM-FAT  ASC        Maxim         Fatal Attraction logo(ascii)
+15,01   | MXM-ANA  ANS        Maxim         Anarkia, logo
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | PZA-CRP1 ANS        Pizza         CORP, Logo #1
+15,01   | PZA-STAT ANS        Pizza         Stat Screen
+15,01   | PZA-COM1 ANS        Pizza         Compart, Logo #1
+15,01   | PZA-COM2 ANS        Pizza         Compart, Logo #2
+15,01   | PZA-PW   ANS        Pizza         Pure World
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | POISE    ZIP        Poise         COLORAmiga by Poise
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | PDG-SC   ANS       Prodigy        Schitzo, Logo
+15,01   | PDG-AC1  ANS       Prodigy        Alpha Centauri
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | RX-WELC  ANS        RanX          Propaganda
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | RFX-JUVE ANS       Reflex         Juve Rehab
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | SC-NPNG  ANS      Sliver Cut      No Pain No Gain
+15,01   | SC-CORP  ANS      Sliver Cut      CORP Logo #1
+15,01   | SC-LOST2 ANS      Sliver Cut      Paradise Lost
+15,01   | SC-LSD1  ANS      Sliver Cut      Lost Souls Domain
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+15,01   | SP-TDRO2 ANS        Sparr         TechnoDrome ][
+15,01   | SP-CRP1  ANS        Sparr         CORP Site, logo
+15,01   | SP-MAIN  ANS        Sparr         General Main Menu
+15,01   | SP-AB1   ANS        Sparr         Alien Breed
+15,01   | SP-X     ANS        Sparr         X, Logo
+15,01   | SP-SLAVE ANS        Sparr         SLAVE, logo
+15,01   | SP-SONIC ANS        Sparr         Sonic
+15,01     SP-CHAOS ANS        Sparr         ChaosNet, logo
+15,01     SP-PALGO ANS        Sparr         Parental Advisory, logo
+15,01   +---------------------------------------------------.-.--.-.-.. . ..  .
+
+15,01                 " 80x25 artwork...It's just provisory... "

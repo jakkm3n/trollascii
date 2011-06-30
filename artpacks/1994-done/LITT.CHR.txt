@@ -1,0 +1,80 @@
+15,01PK  BGI Stroked Font V1.1 - Jun 5, 1989
+15,01Copyright (c) 1987,1988 Borland International
+15,01>C LITTi!@ @                            +"   !14,15@15,01   #       x > P * J f o P + + + 
+15,01+ * l 14,15@15,01@
+15,01@ @0@B@f@r@e@o@#@+@=@ 14,15@15,01$14,15@15,01.14,15@15,01:14,15@15,01D14,15@15,01X14,15@15,01v14,15@15,01e14,15@15,01+14,15@15,01+14,15@15,01+14,15@15,01a14,15@15,01=14,15@15,01 *^*(*:*J*T*b*n*a*u*14,15#15,01*+*E*=* xMx_
+15,01x(x:xJxVx^xjxtx|xaxyxKx+x+xEx*xMA A4ADATAbAxAaALA<A+A+AEA%Ax*M* *.*D*P*f*n*a*E*a
+15,01*+*+*>*  ( @ ^ | y + + E % * " @ T z o # + I n M        ,       J       b      |
+15,01        E       +       +       r       .
+
+15,01$
+15,016
+15,01L
+15,01`
+15,01x
+15,01A
+15,01~
+15,01#
+15,01|
+15,01+
+15,01l
+15,01* >   D r a ? + - + r = x >   0 > L V ` n | e E L K + + m = x
+15,01M$M6MHMbMzMAMPM<M+M+M=Mx***H*d*e*?*+*+*u*%**>P>">0>>>Z>n>a>A>a><>+>+>*14,15@15,01A** *xAA*
+15,01***x***********AA**A**********A*****************A*A********A**A**A*******A******
+15,01****************AAA***
+15,01*********    *x*********  14,15@15,01**           @xx**x*****x 14,15@15,01xx14,15@15,01*x14,15@15,01xxx**x**xxxxx14,15@@15,01x*xx14,15@
+15,01xx14,15@15,01xx AA * * ***A *A*****AAAAA****xxa   C14,15@15,01CcC@CCe   a   u uaa*aCCxaaaaC14,15@15,01aea   C@
+15,01uCaCauaeaauaCaCauaaaaae*eCa   C@aaC*CcucuaCaa auauaCaCc   a aueCuCCuCeuaCaCauaea
+15,01aaaaaaeaaeaua*aeu*eaa   u uaCaa   e CeCaeaa   C eeeaCaa   CAauC@aaC*aae@eaa   C*
+15,01aaeAeua   u^eCeuuuuCeCu u^C#a   C*aaa   C CuuuuCCCa   C aaa   CAuaaaaaauaCuCCuCa
+15,01a   u eCeauae aCa   a CCaaaaaauaCaa   CAuaaaaaaaaaaaaaaaeaaaaeauaCuCCua   a aaCa
+15,01aaa   a*CaCaeaaaaaauaCuCCua   a*eaCaCuuCaCauaeaaCaa   C*aaaaCuCCa   CAuaaaaaaaaa
+15,01aeauaCuCCuCeuaCaCau*aaa   C@uCaCauaaaauaCaCauaaaa   CxuauaCaCaC@uuuCCCCua   C*Ca
+15,01uauaCaC@uuuCC u CCCua   a Caaaa   C14,15@15,01aeCxaaa   C aaCaa   CAuaaaaaaaeee@eCa   a14,15@15,01aa
+15,01eaeeaeaaaaaauaCaCuuCaCa   C CaeaaaaCaaCaa   C*CCaCauaeaaCaCaCaCaaaaaaaaaCaa   aA
+15,01aauaCaCuuCaCaua   C*CCaCauaaaaCaa   a*CaCCaCC*eaa   a*CaCaeaCaCCa   aAaauaCaCuuC
+15,01aCauaaeaa   C*CCCaaaaaaCa   C*eauauCCCeCa   a*eaaaaueCuCCua   C*CCCeaauaaCa   C*
+15,01CCaCa   C CaeaaaaCa   C CaaCaaa   a*uaCaCuuCaCauaaaaa   C CaaaaaaaaeCea   a@aaaa
+15,01uaCaCuuCaCe14,15@15,01aCa aua   C CaaaaaaaaeCee14,15@15,01aCa   aAaauaCaCauaaaaeauaCuCCua   C*aaeaeC
+15,01a   C*CuuCaCauaaa   C*CeeCaeaaa   C*CCeeaCaaa   C*aCa*CCa   C*Caeaaaaae*eCa   C*
+15,01aaaaCuCCaCa   e CCCaeaa   a Caa   C eCeaCaa   C*eaaaa   C^a a   CAeaa   uxaaaaaC
+15,01uCCuueaea   C*CCaCauaeaaaaCaa   axuaCaCuuCaCa   a*aCuCCuCauaaaa   a uCCuCauaaaaa
+15,01aeCea   u uauaCaeauauaeaa   e~a#a aauaCaCuuCaCa   C*CCCauaaaaaaCa   C eCuCuaCau*
+15,01u*uaa   C~u#e eae*eaa   C CaC14,15@15,01aaC14,15@15,01aCa   C eCuCuaCaa   C CauaeaeCeaaaaaaCa   C Ca
+15,01aaaaaCa   u aCauaaaauaCaCuuCa   C~CaaaaaauaCCCa   a~aauaCaCuuCaCa   CxCCCeuaeaaa
+15,01a   C aCauaeueCauaaaa   uAuaCaeauauueCa   CxCuuCaCaaa   CxeCaaa   CxCuuCeuaCauaa
+15,01a   CxaCeeaaCCa   CxCuuCaCa a#e#a aaa   CxaaCCaCa   a*eauauaCaueuueCaCa   C*CCa 
+15,01  C*uaeaeaaaeeeuuCCCa   CAuaaaaca   C14,15@15,01CCaCaeeaCea   a*acucCaCeuuauaee@eCa e#u#C 
+15,01CCa   CxCuuCaCaau*uca*aca   a uCCuCauaaaaaaeCeu*aca   uxaaaaaCuCCuueaeC*eeaaa   
+15,01uxaaaaaCuCCuueaeu uaa*aca   uxaaaaaCuCCuueaeu aaa   uxaaaaaCuCCuueaee uaeaaaeca 
+15,01  axuaCaCeuuaue@eCa e#u#C CCa   a uCCuCauaaaaaaeCeC*eeaaa   a uCCuCauaaaaaaeCea*
+15,01acu*uca   a uCCuCauaaaaaaeCeu aaa   C uCuaCaC Cae eaa   u eCeauaC*eeaaa   u eCea
+15,01uaC eaa   C CaeaaaaaCaa*aCu uea aea   C CaeaaaaaCaa*aCe ueecaeeea   axCaCCaCC14,15@15,01ee
+15,01u*aca   uxaaaaaeueCuuCaCaeeeeacaaaaaa@aCcCe   C CaeaaaaaeaC*aae aCaae   u aCauaa
+15,01aauaCaCuuCC*eeaaa   u aCauaaaauaCaCuuCu uaa aaa   u aCauaaaauaCaCuuCu aaa   CxCu
+15,01uCaCaaC*eeaaa   CxCuuCaCaau aaa   CxCuuCaCa a#e#a aau uaa aaa   a*uaCaCuuCaCauaa
+15,01aau     uea     aea   C*CuuCaCauaau     uea     aea   u aCauaaaauaCaCuuCC aaa   
+15,01aAeauauCaCauC*eae   a*eauauueCaCauaaaaC aac   C CcacaaaaaaCaaxauaCa*aae   C^u#e#
+15,01a aaaAaaaaaaaue14,15@15,01aec   uxaaaaaCuCCuueaeu*aca   C uCuaCaC*eca   u aCauaaaauaCaCuuC
+15,01u*aca   CxCuuCaCaau*aca   C CaaaaaaCC*ucacaea   C CaaCaaC ueaeaea   u*aaaaaeueCa
+15,01uaaaC aCa   u*aaaaaaaauaCaCauaC aCa   a@aCuCCuCeeaeAeaa   C Ceaea   a aeCea   CA
+15,01uauaC*eaa14,15@15,01aaaaaaaeaCaCa*CCc   CAuauaC*eaa*CCa@euaaaCc   CACCC*Cce   eACaeuaAeaau
+15,01a   eAaaeuCAeaCua   C*C#a#acCcCaa a#CxeaC@eua ece#a#e   C ece C CcCAeaC*eaC@eue 
+15,01e#a a#a a#C^C#e#e e   C ece#C#CcCxaceua#CaC14,15@15,01acC cceae#CCC~eca~eae   C*C u   C14,15@15,01ee
+15,01e*e a   C*eaC14,15@15,01eee*e a   C14,15@15,01eee*e a*a a   C14,15@15,01aea e14,15@15,01e a   C*eae C14,15@15,01eea   C14,15@15,01eee a*a C*
+15,01eaeaa   e*e a*a a   C*aaa C14,15@15,01eee a   C14,15@15,01aeaaC*eaeaa   C*aaaae*eaa   C14,15@15,01eeeaC*eaa   
+15,01C*eae C   e14,15@15,01CeCae   C14,15@15,01eeeaa14,15@15,01eea   C*eae a*eaa   e14,15@15,01CeC*C e   C14,15@15,01aea   C14,15@15,01aee*e a   
+15,01e*Cae14,15@15,01CeC*C e   a14,15@15,01eee*e C*C a   a14,15@15,01CeCaa*eaeaa   a*CaC a14,15@15,01eee a   C14,15@15,01aee*eaCaa*aaaa
+15,01a   C*aae^eeCea14,15@15,01aea a   a14,15@15,01eee C*C a*eaeaa   C14,15@15,01aeC*aaa   C14,15@15,01eee C*eaeaa*aaaaa^aeae
+15,01a   C14,15@15,01aeC*aae*eaa   C*aau*uaa*aaa   C*aaC14,15@15,01aee^eea   C14,15@15,01aeu^uea^aea   a*CaCae*eaa 
+15,01  e14,15@15,01CeCae*Cae   e*CaC e14,15@15,01Cee   a14,15@15,01CeC e14,15@15,01e a   C14,15@15,01aee*e a*a a   C14,15@15,01aee*e C*aaa   C14,15@15,01ee
+15,01eaa   e*CaC e   C*aaaCCCCau*uCe*eCa*aCC*aaa   a CCCaaaaCa*aCe*eCu*uCa   C CaeaeC
+15,01CCu*uCe   e eaaaaCeCa*aCa   a*CaCaaaaaa*aae*eau*uaa   axaeeauaCaCuuCeCaeaCc   e*
+15,01aaaaaaCaC a*aeauCua   C Caaaaaa   uxuCaxaCCxaac   a@aCCCeaCaaaaaa   u*CeCuuCeCau
+15,01aeeauaeaaac   u*uueCaCauaau@u C#a   C14,15@15,01Cauaeaaaa a14,15@15,01aac   C*aauxaaaaaeauuuCeCauaex
+15,01eae@e C^a a   u*CaCuuCaCauaaaauaCxuaaaaaa   C uCueCaCauaaaaaaaaeaCaCa   u*CeCuuC
+15,01eCauaeeauae*Caaaaaa   u*CeCuuCeCauaeeauaa@aCaCauaeaaaaaee   u aCauaaaauaCaCuuCC 
+15,01aaa   a*uaCaCuuCaCC*eaa   C CauaaaaaaCa   C*aaC@auaACaa   C aCCxaae*eea   C aCC*
+15,01aaCea   a CCa*Caaea   aAeauaCaC#a   C^u#e#a aaa   u*uaeaeauau@eueCuCuuC*aaa   C*
+15,01uaeaaaC@ueeuaea   u*eaaaaaeauaCaCauaa   C14,15@15,01ueuCCCCea   C@uuuCCCCua   aAaaeaeCCea 
+15,01  C*Caaaaaaaa   CACaeaeaCaeaa   C CaeaeCCCu*uCa   

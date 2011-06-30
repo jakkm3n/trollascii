@@ -1,0 +1,80 @@
+
+15,01                         - DarkView version 3.11 -
+15,01                           - (c) Dark, 1994-96 -
+
+15,01            - Coded by: Mist of Death, Sudden Impact & Epitaph -
+15,01                     - VGA Interface by: Metal Skin -
+15,01                  - ANSi/INI Interface by: Ravage Bias -
+15,01                   - Dark ANSi font by: Xypher Matryx -
+15,01                     - Dark VGA font by: Lord Azzur -
+15,01                    - Documentation by: Mist of Death -
+
+
+15,01Here is yet another version of DarkView..I heard a lot of complaints about the
+15,01new VESA routines for DarkView 3.1 which was released in Feb. 1995. I am
+15,01currently working on solving the problem. Thanks for all the feedback. There
+15,01have been a couple of minor changes in DarkView. I increased the speed of the
+15,01ANSI routines by a factor of 125%. Not bad eh!? A brief overview of the changes
+15,01is provided below:
+
+15,01 Switch Modes while viewing ANSi forward/backward using Right/Left Arrow keys
+15,01 Increased speed of ANSI routines
+15,01 Increased speed of VGA 320x200x256 ANSI viewing routines
+15,01 PGUP/PGDN bugs in the text interface have been fixed.
+15,01 Some VESA routines have been reconstructed.
+15,01 Some other minor bugs.
+
+15,01If the VESA routines do not work on your video card then try UNIVESA.EXE.
+15,01It might fix the problem. Until next time...(be young, have fun, join dark)
+
+
+15,01DarkView 3.11 *REQUIREMENTS*
+15,01 # 386SX or higher HIGHLY recommended
+15,01 # 500K+ of conventional memory recommended
+15,01 # VGA Card very HIGHLY recommended (SVGA card required for Hi-res VGA's etc.)
+15,01 # Approximately 170K of Hard Drive Space
+15,01 # DARKVIEW.EXE REQUIRED :)
+
+
+15,01DarkView 3.11 Features:
+15,01 # First Viewer with a VGA interface
+15,01 # Text Interface support
+15,01 # Complete ANSI support, no ANSI driver required
+15,01 # ANSI Scrollback Supporting 3000+ line ANSI's
+15,01 # File listing menu with supporting 3000+ files in one directory
+15,01 # VGA 320x200, 640x400, 640x480, 800x600, 1024x768 256c ANSI viewing mode
+15,01 # VGA 320x200, 640x400, 640x480, 800x600, 1024x768 256c ANSI Slide Show
+15,01   w/ automatic Scrollback
+15,01 # Complete ANSIMation support in text & VGA modes
+15,01 # Auto GIF, PCX detection routines
+15,01 # Complete GIF support all modes
+15,01 # Complete PCX support all modes
+15,01 # Complete BIN support in Text AND VGA 320x200x256 modes
+15,01 # Complete iCEColor support
+15,01 # GreyScale support
+15,01 # Complete SAUCE support
+15,01 # INI configuration
+15,01 # Ansimation for VGA and text mode
+15,01 # Complete RIP support (no, not by Cap'n Crunch :)
+15,01 # File Mask's etc.
+15,01 # Compact size (smaller than ACiDView)
+15,01 # Command line support
+15,01 # Multitasking aware
+15,01 # Memory Allocation
+15,01 # Supporting all Dark member names
+
+
+15,01Future Plans for DarkView:
+15,01 # More Memory available
+15,01 # XMS/EMS memory usage
+15,01 # Complete BIOS detection routines
+15,01 # and much more...
+
+
+15,01- VGA/Text Interface -
+
+15,01  Well as far as I know this is the first Viewer with a VGA interface.
+15,01I thought of the idea and decided to work on it, and as time passed, I got
+15,01comfortable with it. So here is something new which other viewers do not have.
+15,01I plan to make the Interface faster in the next version. The interface can
+15,01support 3000+ files, depending on memory. The VGA interface is the default

@@ -1,0 +1,80 @@
+15,01                                            00@
+15,01                                     mm14,15     #15,01m
+15,01    mmm14,15  15,01mmm       m00@15               14,00#     00,15   14 15,01|                  00m14,00#15,01          00#28
+00,01 m14,00         00,01 mmmm14,00#00,01"14,00  14,01#14,15 15,01mm14,15     15,01mmm   |14,15           15,01   mmm14,15     15,01mmm  "14,15  00#14 15,01mm14,15     15,01mmm
+00,01|14,00         00,01#15 00|14,00   00#15,01 14,15     15,01"|14,15        15,01|  00#"""""15@14,00  00,01"15  14,00    00,01"|14,00        00,01|15 14,00     00,01"|14,00        00,01|
+00,00#14,15         15,01@00 |14,00   00,15|15,01 |14,15    00,01 15@14,00  00,15#14     14,00#00,01 m14,00     00,01m14,00#00,01m   |14,00    00,01 15@14,00  00,15#14     14,00#00,01 |14,00    00,01 15@14,00  00,15#14     14,00#
+00,00#14,15         15,01@00 14,00    00,01| 00,15|14   15,01|00 15@14,00  00,15#14     14,00#00,01 |00,15#14        15,01| 00,15|14  15 15,01|00 15@14,00  00,15#14     14,00#00,01 00,15|14   15,01|00 15@14,00  00,15#14     14,00#
+00,01|14,00         00,01|m14,00     00,01 00,00#14,15   15,01|00 #14,00 00,15##14     15@00,01 15@00,00#14,15        14,00#00,01 00,00#14,15  15 15,01|00 #14,00 00,15##14     15@15,01 00,00#14,15   15,01|00 #14,00 00,15##14     15@
+02,01m15 "14,15       15,01""14,15 00#14   15,01"15,15@15,01"""" 14,15  15 14     15,01"#14m00#"14,00        15,15@15,01  "14,15 15 15,01" 14,15  15 14     15,01"#14m15@00"""" 14,00  00,15 14     15,01"00"
+02,01@14,02 02,01mmmmmmmmmm00 #"02 mmmm02,02  15,01 """14,15  15,01""02 mmmmmmmmm15 """"00# 01,02#02,01mmm15 """14,15  15,01""02 mmmmmm01,02##15,01 """14,15  15,01""02 mm12#
+02,01@14,02 12,01#         02mmm02,02          02,01mmmm02,02               02,01mmm02,02       02,01mmmm02,02             02,01mmmm02,02   12##
+12,02##14 02,01"#14,02@02,01"""""" """"""14,02@02,01"""  """" """""01,02#02,01"01,02mmmmmmm02,01""" """" ""#14,02@01m15,01  01,02mmmm#02,01"""12#02""""""14,02 02,01"01,02#12,01#02@
+12,01#02|14,02@15,01                                                                          14,02@02,01|12#
+14,02 02,01"#15                       00Union October 1994 NFO File                        02#m12#
+12,01#02|15                                                                            02|14,02 
+12,01#15                                                                              14,02 
+12,01 15      Howdy folks.                                                           02|14,02 
+02,02 02,01|15                                                                            02|14,02 
+14,02 02,01|15     As you may notice, the Union pack was delayed until October 2nd for     14,02 
+12,01#02|15 a variety of reasons, including some artwork which couldn't be sent to      14,02 
+14,02 15,01  us until this time, some coding stuff, and.. well.. hang overs. :).         14,02 
+14,02 15,01                                                                             02|14,02 
+12,01#15      Anyways, on to the things of note this month. Surprisingly enough      02|14,02 
+14,02 02,01|15 Flatlined Reality is still being run at my house (613-824-7375). An        02|14,02 
+14,02 15,01  entire month with one number, isn't that cool?! Also in the board movage02    14,02 
+14,02 02,01|15 scene, Packaged Rebellion switches area codes as Mass Delusion goes off     14,02 
+14,02 02,01|15 to college. The new and improved number is 408-246-0281. The improved       14,02 
+12,01#02|15 local sysop is mCa.                                                        02|14,02 
+14,02 02,01|15                                                                             14,02 
+14,02 02,01|15     Last month our courier coordinator, TaZ, got an ld cap on his phone02    |14,02 
+12,01#15  lines due to unpaid bills. This more or less reduced his effectiveness     02|14,02 
+14,02 02,01|15 as cc. We have decided to move the cc position from TaZ to Ded Silence,02    |14,02 
+14,02 15,01  one of our couriers and musicians. The position of courier hq is being     02|12#
+14,02 02,01|15 moved to Packaged Rebellion. Look up there ^^^^^^^^^^^^ for number.         14,02 
+14,02 02,01|15 Hopefully our couriers will be better monitored now that we have a cc      02|14,02 
+14,02 15,01  again, as I'm sure quite a few of them haven't been doing much.            02|14,02 
+14,02 02,01|15                                                                            02|14,02 
+14,02 15,01      There was a TREMENDOUS OVERSIGHT last month which I'm still kicking02    |14,02 
+12,01#15  myself for, I forgot to put Black Lightning on the memberlist. Anyways,     14,02 
+12,01 15  this dude came over from the defunct Imperial last month, and he rocks.02    |14,02 
+02,02 02,01|15 Enough said. You may notice his name is in blinking red in the             02|14,02 
+14,02 02,01|15 memberlist, this is to emphazise my stupidity. (I can't even spul :)        14,02 
+12,01#02|15                                                                             14,02 
+14,02 15,01      Also new this month is Neurosis. The aliases might seem similar, but02    14,02 
+14,02 15,01  we *ARE* different people. :). He hails from 404, the relic/trybe state,02   |14,02 
+12,01#15  while I am Canadian (because... I... Am.). He is mainly a coder, but he02    |14,02 
+14,02 02,01|15 also does some anzis. d00dle d00dle. Necronite from shiver/manifest also02   |14,02 
+14,02 15,01  joined this month. He and I did a pHUNKy jOINt lOg0 this month, check it02    14,02 
+14,02 02,01|15 out. I did the colouring. :)                                                14,02 
+14,02 02,01|15                                                                             14,02 
+12,01#02|15     Last but not least in the new dudes this division is Sharp Edg from02    |14,02 
+14,02 02,01|15 relic. Sharp Edg hasn't left relic, he'll just be splitting his ansi        14,02 
+14,02 02,01|15 work between the two groups. It'll be interesting to see how this will     02|14,02 
+12,01#15  work out.                                                                  02|14,02 
+14,02 02,01|15                                                                            02|14,02 
+14,02 15,01      In the member board/site listings there's been quite a few changes.02    |12#
+14,02 02,01|15 Although there are only 3 new members this month, it seems like everyone02    14,02 
+14,02 02,01|15 in the group is throwing up a board. That sounds gross. We also nuked a02    |14,02 
+14,02 15,01  LOT of sites, they've had 4-5 months of warnings to join in Union Net,     02|14,02 
+14,02 02,01|15 you would have though that JUST MAYBE they would have taken heed.          02|14,02 
+14,02 15,01                                                                             02|14,02 
+12,01#15      We didn't list the courier member boards this month, as we are not      14,02 
+12,01 15  quite sure which ones will still be in the group once we are finished      02|14,02 
+02,02 02,01|15 with the courier nukage. As always, the newest UnionNet nodelist has       02|14,02 
+14,02 02,01|15 been included in this pack. If you're in it, set up the nodelist, and       14,02 
+12,01#02|15 take a GOOD LOOK at it for any changes. Almost all the changes since        14,02 
+14,02 15,01  last month are mentioned in a little "What's new" at the top of the         14,02 
+14,02 15,01  file.                                                                      02|14,02 
+12,01#15                                                                             02|14,02 
+14,02 02,01|15     There's a new division in Union this month, the Granma's hands         02|14,02 
+14,02 15,01  department. Anyone in Union who can draw an accurately detailed             14,02 
+14,02 02,01|15 rendition of Somms' granma's hands in ansi can join the dept. So far the12    12,02#
+14,02 02,01|15 only contenders are Nailz for NZ-RN9.ANS and me with NC-PX1.ANS. Some       14,02 
+12,01#02|15 how the article writing department got converted into the afro             02|14,02 
+14,02 02,01|15 department. Don't ask me. I think I have more of a "moptop" than an         14,02 
+14,02 02,01|15 afro.                                                                      02|14,02 
+12,01#15                                                                             02|14,02 
+14,02 02,01|15     Don't worry Joe, only 4 months until I get it cut again.               02|14,02 
+14,02 15,01                                                                             02|12#
+14,02 02,01|15     I had a wickedly wild idea this month concerning logos, the thing       14,02 

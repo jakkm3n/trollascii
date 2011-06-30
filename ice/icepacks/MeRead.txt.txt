@@ -1,0 +1,50 @@
+15,01Hey there, MrMr[iCE] here with a neat little christmas demo I whipped up on xmas
+15,01 eve.
+
+15,01In case your wondering what da hell this file is, its a Gameboy Advance rom file
+15,01. In order to run it:
+
+15,011) If you have a Gameboy Advance, and a special cable called the MBV2 (lik-sang.
+15,01com sells them), you can
+15,01   upload the file directly to the unit and view the demo as it was intended.
+
+15,012) Download an emulator. Visualboy Advance is my weapon of choice. http://vboy.e
+15,01muhq.com/downloads.shtml, get
+15,01   the windows version.
+
+15,01If developing for the gameboy advance excites you, turns you on, gives you a woo
+15,01die, whatever, come see me on irc,
+15,01#gbadev channel on any EFNet server. Before you take on any kind of gba developm
+15,01ent, please, do not bother me with 
+15,01C related questions. Knowledge of C, handling pointers, arrays, and some graphic
+15,01s programming experience is a must
+15,01if you plan on doing any serious development for this console. Theres also tons 
+15,01of information available online for 
+15,01gba development.
+
+15,01Good places to start learning the internals of the GBA:
+15,01     http://gbadev.org          <- Home of a big gba development community. Lots
+15,01 of public domain roms 
+15,01                                   and source code. Also host of a developers fo
+15,01rum, and several user webpages.
+15,01     http://devrs.com/gba       <- Another repository for development, has a ver
+15,01y good FAQ on compiling, 
+15,01                                   dev kits, and hardware spec documents on the 
+15,01GBA
+15,01     http://thepernproject.com  <- excellent tutorial pages, most of what I've l
+15,01earned about the gba started here.
+
+
+15,01For gba devkits, theres:
+15,01   ARM SDT, which is not free (but supposedly the best compiler suited for ARM c
+15,01pus)
+
+15,01   DevKit Advance, a gnu based package. This is what I used for the xmas demo, a
+15,01nd all other projects I've worked
+15,01        on for the GBA. Theres even a page that shows how to integrate gcc proje
+15,01cts with Visual Studio.
+
+15,01   Goldroad, a standalone assembler for gba roms. This compiles assembly code on
+15,01ly, and it does not generate binaries
+15,01        compatible with GCC or arm sdt...only the hardcore, criminally insane co
+15,01ders use this.

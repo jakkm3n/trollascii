@@ -1,0 +1,62 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 O   C   T   O   B   E   R       1   9   9   9
+15,01-------------------------------------------------------------------------------
+
+
+15,011. Greetings  from  the  iCE  crew.  Due  to  abnormally  low  temperatures and
+15,01automatic  hibernation  systems  in  place,  the iCE Pack is significantly late
+15,01this  month.  This  is  due to a moving catastrophe for our Internet server and
+15,01the  lack  of  a  group-centric  FTP  site  for  collecting  pack  artwork. The
+15,01temporary  loss  of  our  systems  has  caused  major  problems  for us, but we
+15,01expect to be back on track for 12/1/99.  
+
+15,012. To  quote  Mass  Delusion  from  last  month's info file: "because we're not
+15,01slackers,  iCE  will  be releasing  an on-time November pack..." Some will say,
+15,01"Dudes!@  You  weren't  even  close to 'on-time' this month! You lied!" This is
+15,01not true.  Why?  Because this is the October pack. Next month, iCE will release
+15,01the  November  pack  (on-time,  really!),  even  though it will be the first of
+15,01December.  Why?  Way  back  in  1991, Force Ten suffered brain damage in a snow
+15,01mobile  accident  and lost the ability accurately report times, dates, and when
+15,01he needed  his  diaper changed. Fearing a backlash from the retarded community,
+15,01iCE   has  kept   with  the  inaccurate  date  reporting  set  by  Force   Ten.
+
+15,013. As  part  of  the  server  catastrophe,  www.ice.org was reamed silly.  Lord
+15,01Soth  has  done  an  excellent  job of patching things up and the functionality
+15,01is  quickly  coming  back.  The Ansi interface was mostly destroyed and will be
+15,01rebuilt  in  time  along  with  the other interfaces that have been in the work
+15,01once    the   site   is   put    together    again.   Think   Humpty    Dumpty.
+
+15,014. As  a  reminder,  applying to iCE is as simple as mailing apply@ice.org with
+15,01a  sample of your best work (5 piece minimum) and a letter explaining yourself,
+15,01your ambitions, and how much you will pay Fluor to draw you a naked chick ANSI.
+
+15,015. Thanks  for  bearing  with  us;  we  look forward to celebrating our holiday
+15,01season  with  two  more iCE Packs just in time for the end of the world.   Mass
+15,01Delusion  will  be  providing live coverage for iCE from Las  Vegas as the ATMs
+15,01fail and the aliens begin assimilation.
+
+15,016. Any  questions regarding the  lack of art in this pack should be directed to
+15,01Sinned  Soul  on  #iCE  on EFnet. We HAD a meg of ANSI, and 20 megs of VGA. But
+15,01Sinned  Soul  thought it would be "cool" to delete it all and see if we learned
+15,01our  lesson  about  backing  up  data.  We  didn't.  Go  to  hell  Sinned Soul!
+
+15,01-Mass Delusion & Trip, iCE Staff

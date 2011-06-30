@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     March Update *      April 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0495.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |69-BADL1 RIP |  50778 |04.01.95 |%x   | The BadLands                   |
+15,01*|2  |ACID0395 ANS |   4834 |04.01.95 |%+   | March 1995 Member/Board List   |
+15,01*|3  |ACID0495 NFO |   7357 |04.01.95 |%+   | ACiD Info File (04/95)         |
+15,01*|4  |ACIDAPP  EXE |  35277 |04.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDDRAW DIZ |    728 |04.01.95 |%    | ACiDDraw FILE ID by {GAS}      |
+15,01*|6  |ACIDDRAW DOC |  30413 |04.01.95 |%+   | ACiDDraw Documentation         |
+15,01*|7  |ACIDDRAW EXE | 130352 |04.01.95 |%    | ACiDDraw 1.0                   |
+15,01*|N/C|ACIDVIEW CFG |   3973 |03.01.95 |%+   | ACiD View configuration        |
+15,01*|8  |ACIDVIEW EXE | 168756 |03.01.95 |%    | ACiD View version 3            |
+15,01*|9  |ACIDVIEW NFO |  42282 |04.01.95 |%+   | ACiD View Documentation        |
+15,01*|10 |AK-SUCCO ANS |  32185 |04.01.95 |%+   | Succotash                      |
+15,01*|11 |AS-DUNG2 ANS |  32919 |04.01.95 |%+   | Dungeon 2                      |
+15,01*|12 |AY-APOC1 ANS |  23802 |04.01.95 |%+   | Apocalypse Systems             |
+15,01*|13 |BD-DV01  RIP |  13609 |03.13.95 |%    | Disembodied Voices             |
+15,01*|14 |BM-DUNG2 RIP |  41935 |03.15.95 |%    | Dungeon 2                      |
+15,01*|15 |CS-BITCH GIF | 210326 |04.01.95 |%    | Bitchslap Magazine             |
+15,01*|16 |CS-BSTRM GIF | 160680 |04.01.95 |%    | Bloodstorm/2                   |
+15,01*|17 |CS-RGNC1 EXE | 388944 |04.01.95 |%M   | The Regency                    |
+15,01*|18 |CS-SINIS GIF | 203459 |04.01.95 |%    | Sinister                       |
+15,01*|19 |CS-SUCC1 GIF | 184790 |04.01.95 |%    | Succotash                      |
+15,01*|20 |EV-GATE  ANS |  45348 |03.24.95 |%+   | Daemon's Gate                  |
+15,01*|N/C|FILE_ID  DIZ |    346 |04.01.95 |%    | Acquisition FILE ID by {SR}    |
+15,01*|21 |GAS-CC   ANS |  26297 |04.01.95 |%+   | Cat's Cradle                   |
+15,01*|22 |GAS-NSF  ANS |  15091 |04.01.95 |%+   | Nosferatu                      |
+15,01*|23 |GAS-SUCC ANS |  18477 |04.01.95 |%+   | Succotash                      |
+15,01*|24 |HAL-HM   BIN |  19650 |04.01.95 |%+   | Harvest Moon                   |
+15,01*|25 |IO-SUSHI GIF | 144221 |04.01.95 |%    | Sushi Bar Z                    |
+15,01*|26 |LD-AR    COM |  12773 |03.26.95 |%+   | Archaic Rebellions             |
+15,01*|27 |LD-PARA1 ANS |  52149 |03.17.95 |%+   | Parallox                       |
+15,01*|28 |LD-PM1   ANS |  17601 |03.19.95 |%+   | Perpetual Motion               |
+15,01*|29 |LD-SBZ1  ANS |  21357 |03.28.95 |%+   | Sushi Bar Z                    |
+15,01*|30 |LOGO0495 ANS |  77969 |04.01.95 |%+   | ACiD logocluster #2 (04/95)    |
+15,01*|31 |P1-FUCKQ ANS |  14808 |03.25.95 |%+   | Fuck Q                         |
+15,01*|32 |P1-RGNC1 ANS |  63259 |03.31.95 |%+   | The Regency                    |
+15,01*|33 |P1-TOP2  ANS |  32083 |04.01.95 |%+   | The Outpost                    |
+15,01*|34 |SM-PRAYR ANS |  11289 |03.18.95 |%+   | Prayer                         |
+15,01*|35 |SM-SUCCO ANS |  13942 |04.01.95 |%+   | Succotash                      |
+15,01*|36 |SR-BSLAP ANS |  24285 |04.01.95 |%+   | Bitchslap Magazine             |
+15,01*|37 |SS-CD1   GIF |  29400 |04.01.95 |%    | Cosmic Debris Magazine         |
+15,01*|38 |STC-DYS  ANS |  58105 |04.01.95 |%+   | Dystopia                       |
+15,01*|39 |STC-HOT  ANS |  35620 |04.01.95 |%+   | Hotel California               |
+15,01*|40 |STC-KRK  ANS |  28814 |04.01.95 |%+   | Krooklyn                       |
+15,01*|41 |STC-LI   ANS |1225395 |03.21.95 |%A   | Lethal Injection               |
+15,01*|42 |US-BOG1  RIP |  26408 |04.01.95 |%    | The BoG                        |
+15,01*|43 |US-HUMA1 RIP |  16744 |04.01.95 |%    | Huma                           |
+15,01*|44 |ACDU0495 NFO |   6981 |04.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+

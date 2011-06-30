@@ -1,0 +1,66 @@
+15,01lllllcc*++n"^"YJJJJJJJJJJJSSJSSSSS$$$JJJ$b.`jffiiiiff7  dffiiff:    :ffeeeeeeee
+15,01JJJJL,++g##JJSSSJJSSSJJJJSSSSSSSSSS$7"jJ$$Jb.`+ffiff7  dffiiiiff     $ffeeeeeee
+15,01JJJSSJ$$cc++nn""`"n+SSSSSn+S$$$$$$SSJb,d$$JJbb,`+ff7  dffiiiiiff:    lffeeeee7+
+15,01yp7'"``       ..'   `$SS$b, `Y$$$$$Y+jSSSSJJ$$$$,`4  dfffffffffff    :ffeee7'
+15,01$$$:`., _...,,._     `jSSS$b+d$`Y$SSb,`jJJJ7j$$$$,  +++++++++nnn'     ffee7  ,+
+15,01$$$lb+:ll:il;;ll:..    `jSSSSSS, Y$SSSbdJJJb,`YSJS: :zzzzzzzz##ySP    lffe   `2
+15,01$$$$lllill;;ll;l;ll:.    `j$$$$$b l$$$SJJJJJ; J7Yll  ffiiiiiiiifff:   :ffl
+15,01$$c+'cJJCJllJJlJlJllJb,     ``"n' l$$SJ:JJJl,l7'jll  ffiiiiiiiiiffl    ff:  ,gy
+15,01`.+d$p.  ``^"n+*ccS$$S$Jl:..     ,$$$7`ll7'lS7+dJJ' :ffffffiiiiiiff    lf  .fee
+15,01`jl;;;lf#p,.         `^"n$JJJlJllJJ$Y ,l' jllc+'`+'.d7+22+jffiiiiff    :f   `n+
+15,01b,`jl;;, `j;f#p+.       ,lJJlfllclfJJ$$b 7+'  ,4Dg#$'      `$ffiiff:    f
+15,01`+b,`jllb, `+lll$f2+,.,dll7+`.,,+,.`+$$$b `+' Yiiiil        :iiic++l    l
+15,01  `+b,`jlJlyllJJlSSll7jlllbydllll;lb+Y;l$b, ,+++++++,.    .,++++++++    :   ,+g
+15,01,,  `+b,`+jJJlJSSlll;bdl;ll;;lll;ll:ll;lJ$: :fffffffffSyySfffffffffl      ,eeee
+15,01JJb   :7' dNNNNSl;;llllffc+n""^```Yl$$lJ$: :ffffiiiiiiiiiiiiiiiiiiff      ffeee
+15,01Jc'  7'.jNNNNNCSS$$7+"`_,,+ggCcjYlJJJ$$$$ :fffiiiiiiiiiiiiffffffffff      `jffe
+15,01$:,+' +SSSSSJJJJJJJby#ffll$+',+gJ$$$$SS$: fffiiiiiiiiiifff7+^``^"n+j        `"2
+15,01$7' ,4SSSSJJSSc+n"SJJJJC+',4$$$$$$$7YSJ$ .fffiiiiiiiiifff'
+15,01' .dSS$SJJS7n`,+g$JJJJ',d$$Z$$$$$$U N$Jl: :fffiiiiiiifffl
+15,01,dSS$SJJS7',g$JJllJSJb.`c$$7`^"+$$SbdSJN$  lfffiiiiiiifff,        ,+
+15,01SS$SSJJ7',dJllJJJ7'YSJJb.`+b,.+, `+jJJ$$N: :fffiiiffffffffb+,..,+Cf7
+15,01S$SJ77',dlllJ7'YSy4SSSJJS#yd;+cl$bdNlJNN+'.dffiifff+"""ncffffiififf:         .,
+15,01SS7$b,SSJJJ7',dJJ$$$SSJSJJSSljyll,`^nn'`,dffiiifff:       "ncffiiff     ,+#feee
+15,01SSS$$SSSJJJb+lJ$ZZ$$$$$$J$JJ;"jl;: byy#$ffiiiiiifff+.         `ncf:  ,jfffeeeee
+15,01S7'YS7+n"^``  `.,,... `^"+cSb+7+' dffiffiiiiiiiiiffff$#+,         ` :ffeeeeeeee
+15,01',d$'.+d66d6ff$$$$$$$$g#p, `2' ,d$ffii7+2+4iiiiff7+^"ncfff#+,        `"+cCeeeee
+15,01d$$' dlZ$$Z$$$YY7j$$$$$$$; Yg#Zffiiii7     Yiifff:      "ncfff#+,         `"+cf
+15,01$$' ;$;N$$N$$$bdb4$l$$$$7' `4ffiiiiii$b+,+diiiiffb.         `nc$:: p.
+15,01$l  C7j$$$$$$$$$$$l:l$$$: ,  `4fiiiiiiiiiiiiiiiiifff#+,           ;eee#+,
+15,01l$b+. `+$$+$$$7`j7'''?+' dfb,  `4fiiiiiiiiii7+jiiiiiifff#+,        `"+cfc$#+,
+15,01:SSSS$$ypgApppgAp++++,y Yffffb,  `4fiiiiiiiib+diiiiiiiiiifffp+          `"+cfN#
+15,01 lJJSSSS$$$$$$SSSSSSSSD :ffiiffb,  `4fiiiiiiiiiiiiiiiiiiiiifff:   l,         `"
+15,01 :7+jJJJSSSSS$$$$$$SS$' lffiiiiffb,  `4fiiiiiiiiiiiiiiiiiiiff$    :f#+,
+15,01 .$b,`+jJJJJSSSS7+Y$7' ,ffiiiiiifffb,  `4fiiiiiiiiii$+$iiiiffl     .eeef#+,
+15,01. lJJb+,dJJJJJ7',J7',+fffiiiiiiiiifffb,  `4fiiiiiiii$+$iiiiff:      `cfiifff#+,
+15,01l .CJJJJJSSJjb,gJY'+ffiiiiiiiiiiiiiifffb,  `4fiiiiiiiiiiiiiff  ,a,    `+jffeeee
+15,01$b."+n",d$d$l;l;;$, `ffiiiiiiiiiiiiiiifffb,  `4fiiiiiiiiiiffl  `+'        `"n+c
+15,01$$$##SSSS+cl;;llc+++ `jffiiiiiiiiiiiiiiifffb,  `4ffiiiiiiiff:
+15,01$$$$$$+'_,._ __.,+g#b  Yffiiiiiiiiiiiifff7+n"`   `4ffiiiiiff           :
+15,01$$7+',+4+.    +,     : `fffiiiiiiiiiff$+'          `4fffiffl      ,+,  l   ,gp,
+15,01',+4$S$$$$$yp.  `.   7 ,ffiiiiiiiiff$'               `4ffff:      `2'  f   `22'
+15,01:::7+$$$$$$$SS: ,'  7 ,ffiiiiiiiiff7                   `4ff :         :f
+15,01..' , `+$$$S7+'  7+' dffiiiiiiiiff$                      `j l         lf:
+15,01 .:,`+p, `+ccc+n' ,dffiiiiiiiiiiff;                    j,  ,A        jff$
+15,01 ..:b, `j#p+,++g#$ffiiiiiiiiiiiiff$                   jffDyff      ,dfiifb,
+15,01 . ..:b, Yffffiiiiiiiiiiiiiiiiiiiffb              .,+dffiiiffb,.,+ffiiiiiiffSp+
+15,01-------------------------------------------------------------------------------
+15,01                 Grr.. you bastard. Don't mess with my Hamster.
+15,01-------------------------------------------------------------------------------
+15,01This    wonderful    piece  of  artwork  is  for   sale.  $5.  Contact  me  at
+15,01tumunf@juno.com and I'll add a font for your boad or whatever.
+
+15,01Fear the newschool pic artists. Greets? I'll  greet pic artists that I respect
+15,01and whose work I respect who are drawing right now: black jack, mrk, deadsoul,
+15,01gravedancer, and axb. If you aren't on this list, it wasn't a mistake.
+
+15,01                                                              -The Upright Man
+15,01                                                              (Remorse / 1981)
+
+15,01Btw, this is the last thing you'll see from me for awhile. I'm taking a hiatus
+15,01for  a  few  months due to  shitloads of school work and college applications.
+15,01I might be on IRC sometimes, but I'll be out of it other than that. Talk to ya
+15,01later.
+
+15,01>>SAUCE00For Sale                           The Upright Man     ACiD Productions
+15,01    19970910I<  @ P @                             

@@ -1,0 +1,28 @@
+15,01Session Start: Sun May 18 18:18:01 1997
+15,01DCC Chat session
+15,01-//--- --- -
+15,01Client: deepsea (154.9.170.41)
+15,01-//--- --- -
+15,01Acknowledging chat request...
+15,01DCC Chat connection established
+15,01-//--- --- -
+15,01<gEORGE> hEYE tHERE
+15,01<deepsea> hi there..... youre devoiced......
+15,01<gEORGE> eYe cAN sEE tHAT
+15,01<deepsea> whats youre problem gEORGE ?
+15,01<gEORGE> wHAt dO yOU tAKE mE foR?
+15,01<gEORGE> a mORON oR someTHING?
+15,01<deepsea> dont know....you tell me ?
+15,01<gEORGE> hAhgAHahAhA
+15,01<gEORGE> yEWR sO fUNNY
+15,01<gEORGE> hA hA
+15,01<deepsea> at least someone is then....
+15,01<gEORGE> yUNFF
+15,01<gEORGE> sOMEONE sEWR hAS tEW
+15,01<gEORGE> rrRRg
+15,01<deepsea> thats all you have to say ?
+15,01<gEORGE> wAS eYE tHE oNE tO rEQUEST a dEE cEE cEE cHAT oR wERE yeW?
+15,01<deepsea> k. then..... remember.... Jesus loves you.........And you can also be 
+15,01forgiven..... 
+15,01<gEORGE> sURE
+15,01Session Close: Sun May 18 18:21:16 1997

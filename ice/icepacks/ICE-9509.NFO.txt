@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |
+15,01                                          #
+15,011.  One more month and the scene just keeps getting wierder.  While us iCE
+15,01    students were busy not doing homework and answering calls from the
+15,01    ACiD Staff, the older guys were busy going bankrupt, curing people of
+15,01    dangerous diseases, helping grey-haired wirey women across crowded city-
+15,01    streets, and perfecting their shadow puppets.  Oh, they also were answering
+15,01    calls from the ACiD Staff, although not as much since the operation.  I'd
+15,01    not lie if I said we managed to pick up alot of new blood this month, but I
+15,01    did cut down the cherry tree.   Sadly we had to get rid of alot of inactive 
+
+15,01    guys, though.  Please see #5 below for less.  It was alot like the scene in 
+
+15,01    Goodfellas, except we were driving a Volkswagon Bus and had the bodies in 
+15,01    the back.  And instead of a knife we used a vending machine.  You should 
+15,01    have been there... it was really neat to watch.  We found that after we 
+15,01    emptied all the fluids from the bag, we could use them to make the truck 
+15,01    into a hot tub.  So we made it on the bevel...
+
+15,012.  iCE VGA Welcomes a whole slew of new artists.  First off, as you have
+15,01    probably heard, the famous duo of Catbones and Sprite have joined the
+15,01    ranks from ACiD. The second artist without a handle has joined iCE; Tom
+15,01    Crofton is our resident landscape expert. Other illustrious artists to
+15,01    grace us with their presence are Supreme, Salmon, and finally Digital
+15,01    Interface.  We have also been joined by a non-illustrious guy by the
+15,01    name of Mass Delusion.  He joins as a Web Coordinator.  Welcome, mice
+15,01    and men!
+
+15,012X. This pack was brought to you by the letter F.
+
+15,013.  A couple folks left iCE for other lands this month. A fond farewell to
+15,01    Maestro, who is taking a vacation from big groups, taxes, and
+15,01    existentialism; White Knight, who needs the time to devote to his collection
+
+15,01    of plaid parachutes; and Unsane, who has gone to Saga to be an aardvark.
+
+15,014.  Future Assassin demanded a greet or he would kick Friar's tail. Friar
+15,01    hereby screams "YO! FASSYSASSIN! GREET THIS! <gesture>" =)
+
+15,015.  Several artists have been removed from the list for lack of a pulse. They
+15,01    are Rainmaker, Animal, Biscuit, Cooly, Incubus, Highness, Isosceles,
+15,01    Pnakotic, Death Adder, Anarchy, ImageX, Frog, Airborn, Soul Rebel and
+15,01    Sorcerer's Son. As always, these people are inactive and are off the
+15,01    active memberlist; they haven't been booted for genetic defects or
+15,01    because of the fact that they indulge in wearing women's undergarments
+15,01    and/or defocation on Friar's doorstep.  In fact, they're not even out
+15,01    of the group.  It's just this wierd thing about iCE that once someone
+15,01    is Inactive we take them off the Active Memberlist.  <Shrug>...
+
+15,015X. If you hear this whisper, you are dying.
+
+15,016.  Basehead has released a musicdisk. One of the reputed masters of the
+15,01    scene, his cutting-edge music can be found on ftp.cdrom.com in the
+15,01    directory /demos/incoming/music/disks/fm-lotus.zip. Check it out!
+
+15,017.  Crusader is a new game from Origin. It's CD-Rom based and features
+15,01    music from Necros and Basehead. It's great to see scene music getting
+15,01    the recognition it deserves.  Go out and buy it, but like they're not
+15,01    getting any royalties, so just ummm... borrow it from a friend.
+
+15,018.  The Freedom CD has been released. For $12, you can get an audio
+15,01    CD featuring songs by Necros, Nemesis, Future Assassin, as well as a
+15,01    second data CD full of famous demoscene productions.  The handsome 2-CD

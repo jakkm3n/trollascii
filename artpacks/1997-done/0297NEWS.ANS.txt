@@ -1,0 +1,80 @@
+00,01         15           00 14,13  00,01#13   14,13       00######04,15@@@@@00,13#####14    13,01   00#14,13  00,01 15            00       
+15,01    14##15              00 14,13 13,01mmmm14,13   13,01""""""""00,13##04,15@@13###04@@00,13##13,01"""""""00   13m14,13 00,01   14kamehameha!15  00    
+15,01                     14,13 13,01"""08mmmm14,00#08,01""""14,08  08,01mmm00 15"m""13"08m00mm14,00 14,08 15,01@08"""""14,08  08,01m13"00 15 14/15  00           15   
+15,01                     08m"""15@14,00#  #00,01#15       00""14,08 08,01m14,08  08,01""15@14,00# #15,01@00#15   14  15  08"m00 15        00     15    
+15,01                    00 08m"m00#15@14,00#  #00,01#15  14  15      14,08 15,01   00#15@14,00# #15,01@00#15        08m"00 15         00 15      
+15,01    13 15         08m04,08@14 08,01m15  08|04,08@13#13,01m08"m14,00#  #00,01#15     14##15  08|14,08 14,00#00,01 15 00#15@14,00# #15,01@00#15    14##15 08||00 15 08m14,08  08,01m15     00 15      
+15,01 13     15       08|04,08@13,01"m08"14,08 08,01m04,08@08,13#04,08@08,13#14 13,01m08"14,00  #00,01#15       08mm14,08 00,01""14,08  08,01m15@14,00# #15,01@08 15     08mm"00 08m14,08 08,01"13m"14,13 08,01|15    00 15      
+15,01    13 15     14##15 13|m08,13#13,01"14,08 08,01m04,08@@08,13#14     13,01m08""14,08 08,01mmmm14,08 08,01"00""13mm13,15##13,01mm08"00""14,00 14,08 08,01mmmm14,08 08,01"""13m14,13 08#04,08@08,01m14,08 08,01"14,13 13,01m|15    14##15     
+15,01             00 14,13 13,01m13,08#08,01"00 13,08##04@08,13## 14     13,01mmmmmm14,13  08  00#04,15@@00,13#14    13,01mmmmmmm14,13    08#04,08@13#00,01 08"14,13 13,01m13,08#08,13#15,01    00 15      
+15,01              13|13,08#08,01mm00 13,08 ##04@08,13## 14      08###14   08 00##04,15@00,13###14 08##14          08##04,08@13#00,01 08m08,13#04,08@13,01|15     00 15      
+15,01             14 15  13"08""""""13"08"13""""""""""""""15   13""""""""""""""""""08"13 08""13"
+14,01"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01      14                    15    02##15     14       15 02##15    14                    15     10##
+15,01                  11##15          02##
+15,01   00  02.aS$$$$$Sa.15   00        02$$$14,02##15,01 00  02.aS$$$Sa.15   02$$$$$00         02$$$$$00   15 12#@
+15,01   00 02a12$$02$2215 0222$12$$02s15  02$$$$$00   02$12$$$02$15 00 02a12S$02$200 022$12$$02a15  112222222200     15 02$$$$$14toritpu/synth
+15,01   02l12$$$02$15     02$12$$$02l15 02l12$$$02$15   02$12$$$02$15 02l12$$$02$15   02$12$$$02l15 02l12$$$02$00   02$$$$$15 11222222202$$$Sa.
+15,01   02$12$$$02$15     022222215 02$12$$$02$15   02$12$14,12##14,02#02,01#14,02#02,01@12$$02$15   02$12$$$02$15 02$12$$$02$15   02$12$$$02$15 02$12$$$02$00   02#12$$$l02z
+15,01   11%%%%%%%%%%%%%%%15 112222222202#12$$$02$15 02$12$$$02$00   02#12$$$02$15 02$12$$$02$00   02#12$$$02$15 02$12$$$02$15   00 02212S$$$14,02#02,01##
+15,01 02##14,02#12,01$$$02$15     02$12$$$02$15 02$$$$$15   02$12$$$02$15 02$12$$$02$15   02$12$$$02$15 02$12$10,12##11,02#11,01###11,02#02,11@10,12#12,01$02$15 02$12$$$02$15 02##00 02l12$$$S02l
+15,01   02l12$$$02$15     02$12$$$02l15 02l12$$$02$15   02$12$$$02l15 02l12$$$02$15   02$12$$$02$15 02l12$$$02$15   02$12$$$02l15 02l12$$$02$00   02a12S$$$$022
+15,01   00 02212S$02$z.15 02.z$12$$02215  00 02212S$$02z.z$12$$02215  112222200   02$12$$$02$15 00 02212$$02$z.z$12$$02215  02$12$$$02$00  02z12$$$$$022
+15,01   00  02`2S$$$$$S2'15 02##00  02`2S$$$S2'15   00        112222215 00  02`2S14,02##02,01$S2'15   02$$$$$15 02zS$$$$2
+10,01#11#15                                     11##15           02##15    14##15               02##
+15,01           14##15            14  15                         02##
+14,01------------------15 00S15ynthetic00 O15rganization00 S15ix00 N15ews00 L15etter!00 14--------------------
+
+14,01-------------------#-------
+15,01 10#15  00Synthetic Issue Six15  11#
+14,01--------#------------------
+15,01Yesh, its that time of the month again, and no, im not talking about your rags
+15,01however, its time once again for another Synthetic Pack.. After a long time of
+15,01improper care towards the internet side of things, we now have a ftp site which
+15,01will this time hold 00all our previous packs15 for those who have missed it and 
+15,01want a peek, and also our own home page for the first time! Please check the
+15,01file 00mm/yyMEMB.ANS15 contained with this archive for the most upto date address.
+
+
+14,01-------------------#-------
+15,01 10#15  00SyntheticView v0.1b15  11#
+14,01--------#------------------
+15,01After a long wait for 00Genocide15 to improve on his 00pascal15 knowledge, we here at
+15,01Synthetic thought it was time the art scene was hit by another graphics viewer.
+15,01Along with this pack should contain the file 00SCVIEW.EXE15 plus the documentation
+15,01of 00our new viewer15 thanks to Genocide! For more details about our new viewer, 
+15,01please scan the file 00SCVIEW.DOC15. And please, dont forget to play our 00viewergame
+00,01The adventures of SpeedBoat McFredric!
+
+
+14,01-------------------#-------
+15,01 10#15  00World HeadQuarters!15  11#
+14,01--------#------------------
+15,01After heaps of adjustments and that, our WHQ, MUR SYSTEMS is now in a stable
+15,01condition and i have not seen it crashed at all, (except when i shell to dOS
+15,01and fuck up :)). We need more users to upload more art packs since ive gotten
+15,01sick of keeping all the ACiD/iCE/ETC packs on my hdd and deleted them all.
+15,01If you would like to call this fantastic board of ours, please do so! the ph.
+15,01number is .. +61-3-9844-2185. This is just a little advert incase people dont
+15,01read/see our zippy advert files.
+15,01Sorry, my mind just fully blanked out and that was all that i could think of.
+
+
+14,01------------------#-------
+15,01 10#15  00Comments/Feedback!15  11#
+14,01--------#-----------------
+15,01Any 00comments on synthetic15 or on any artwork is most welcome! we like to hear
+15,01from you anything that comes on your mind even if it doesnt make sense.
+15,01This came into my mind as ive had a fair amout of them lately and most of the
+15,01time i have 1/2 of our viewers saying its "00cool15" but then others saying 
+15,01"00fUCKhEADS!15". Hey, 00if we are shit15, then 00tell us why we are shit15 so we can 
+00,01change the way it is done to suit everyone15.
+
+
+14,01----------------#-------
+15,01 10#15  00The Endism Dude!15  11#
+14,01--------#---------------
+15,01Ok, this is getting really boring so ill cut it short and tell you to watch out
+15,01for our next packuette early next month! until then, suck it down!
+
+

@@ -1,0 +1,24 @@
+15,01                                    F14a02l12l
+
+00,01          12        00 14I00 14ente02red th12e00 12deal 14 12As00 12a00 12d02isgrun14tled00 14kid
+00,01         12      00  14The pain00 02that I12 feel  I'd00 02kill00 14to00 14be rid
+
+00,01       12        00  14I sealed00 02the ba12rgain00 12 By00 02ancie14nt rite
+00,01          12    00 14I gave in00 02to the00 12pain;  Lost00 02the00 02wi14ll to fight
+
+00,01          12   00 12 14Enthrall02ed by the00 12evil00 12 I've00 02taken t14he fall
+00,01      12 00  12  00 14His presen02ce comes00 12nearer00 12 De02mands I s14acrifice all
+
+00,01       12  00   12     00 14I gladly o02blige00 12him14  12And as00 02he en14folds me
+00,01         12   00 12   00 14I00 14feel00 14t02he light00 12dim00 12 He02ar sh14rieks of his dark glee
+
+00,01          12    00 14But some02thing00 02is00 12wrong14  12I h02ave b14een betrayed
+00,01           12   14As I hear00 02the da12rk song14  12My s02oul's b14eing flayed
+
+00,01           12     14I scream00 02to the l12ight14  12I pray00 02for s14alvation
+00,01           12    14It cons02iders my p12light14 12 The02n approv14es my damnation
+00,01 
+00,01          12    14I've made my00 02last s12tand14 12 14 12My life02's blood00 14is spent
+00,01          12      14You have to00 02be dam12ned14  00 12bef02ore yo14u repent
+
+02,01o14.02 12Con02trol 15# 00BL15/+14DE

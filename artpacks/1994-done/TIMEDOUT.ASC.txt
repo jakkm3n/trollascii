@@ -1,0 +1,9 @@
+
+15,01                         Time-Out Logoff!
+
+15,01         Due to the fact that you have been inactive for a
+15,01         very long time, we  must assume  that you are not
+15,01         able to respond because you  are dead, asleep, or
+15,01         had to run to the bathroom REAL QUICK......
+
+15,01        Please Call Back When You're Free ... See Ya Later!

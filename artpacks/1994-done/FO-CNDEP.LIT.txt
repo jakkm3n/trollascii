@@ -1,0 +1,23 @@
+15,01         00Ch15ai14n Depression
+15,01         00--15--14------------
+
+15,01         00wh15en 14your friend is depressed
+15,01         00wh15at 14will you do? what will you say?
+15,01         00wh15en 14your friend is suicidal
+15,01         00wh15at 14will you do? what will you say?
+
+15,01         00he 15s14ays he's all right but we both know that isn't it
+15,01         00I 15wi14ll never know how he feels, so sophisticated
+15,01         00be15si14des, how will I know when he is depressed
+15,01         00he 15i14s laconic if not taciturn
+
+15,01         00I 15am 14not helping him am I
+15,01         00I 15am 14no use in this depression thing, I guess
+15,01         00wh15en 14I come around again I will send him a card
+15,01         00if 15I 14am not depressed, that is
+
+15,01                                    00f15a14bz [RAiD]
+14,01>SAUCE00Chain Depression                   Fab One             RAiD             
+14,01   19941121w*  @@P v                             
+14,01>SAUCE00Chain Depression                   Fab One             RAiD             
+14,01   19941123.*  @@P v                             

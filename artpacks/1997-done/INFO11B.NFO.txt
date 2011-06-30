@@ -1,0 +1,80 @@
+15,01                   13 04 13  15     13#####15                           04m#
+14,10  00#00,00## 14     00,15|15,01|"00""15"04 13#####04m13mm04mm13,04 m13,15"00,13#13,04m04,01|00 11|10,11|00,10 #00,00##00,15"14m00,01""00,15"14,00      14,15 04,01  m13mm13,04|##14 04,01# 14,11 00,10 #00,00##14          
+00,00###14        14,15 04,01  mmmm14,04 13mm13,13    ##13,04##"13,13  13,04"04,01" 15m00,15#00,01""15"14"04  m  00,15#00,00#14     14,15 04,01 13#14,04 13,13  13,04m## 04,01# 00,15#00,00#14            
+14,00          00,15|15,01|04 |13,04##m13,13      13,04"13,01""04"""     15,15@@04,01  mmm14,04 13###04,01# 00,15#00,00###14   14,15 04,01 13#13,04 13,13    13,04m14 04,01# 15"00,15"14,00           
+14,00           14,15 04,01  14,04 13|13,15|"00,13##13,04 04,01 15   04  mmm13,04m"04,01" 15@@@04  13,04##14  13 m14 04,01# 00,15#m|00,00## 00,15|15,01|04 |13,04|00,13##  13,04|04,01|  15|00,15|14,00  00,15"14,00       
+14,00     00,15"14,00     00,15|15,01|04 |13,04 "13,13 00 13,04"04,01"13,04#04,01mm13,04## m13,13  13,04|04,01# 00#####04  13,04## 14 13|00,13#13,04|04,01# 00,15#15,01"00"15"14"04  m13,04m13,13    13,04"04,01"  15m00,15m14,00   00,15|  ""14,00   
+14,00     00,15|  ""14,00  14,15 04,01  13,04##14 13"04,01| |13,13 13,04m  |13,15m00,13#13,04|04,01# 00      04   14,04 13m14 04,01"13,04"13,13 13,04|04,01#  mmm13,04m00,13#13 13,04"13,01""04"   00#00,15#00,00#14   00,15"       "
+14,00   00,15""      "|15,01|04 |13,04## 04@04,01m "13,04"|  "13,13 04,01| 00 ##04 |mm14,04 13m13,13  13,04m04,01m|13,04|13,13 ##13,04|##04,01"""13,04"13,13 13,04"14 01##04,01mmm15   "00,15"| ###    01#
+00,15"         01##00|14 00,01 04 04,04 14 13m13,13#13,04|04,01| |13,04#####04,01# mm13mm14,04 04,01"|13,04|00,13###13 13,04"04,01"|13,13  13,04"04,01|  14 15m14m15   04""13,04 14   13"m04,01m 15 "00,15        m
+00,15###        m00,00 00,15"15,01|04 |13,04|13,13 13,04"04,01" m13,04  m 14  04,01# 14,04 13,13 13,15"00,13#13 14,04 13##"13,13    14,04 04,01 13,04||14 04,01  14,15 00   ##15,01m|04 |14,04 13###||04,01| 00 15|00,15|14,00 00,15mm  |14,00 
+00,15m      mm14,00    00,15|14 04,01  14,04 13"13,13 #13,01#04|13,04##|13,13  13,04m04,01# 14,04 04,01"13""04"" |14,04   13""|04,01||13,13 04,01|00 15|00,15##   ##04,01 13#14,04 13  mm13,13 13,04#04,01# 15m00,15m14,00    00,15|  "
+14,00 00 00,15m   |14,00     00,15"  15,01|04 |13,04 |13,13 13,01#04 14,04 13m13,13   13,04|04,01#15    00 #15@@04 |13,04###14 13| 04,01 14,04 04,01  14,15 00m     04,01 13#14,04 13m13,13    13,04#04,01# 14,15 00 "14,00   00,15"    
+00,00   00,15|   "14,00   00,15|## 14 14,01 04 ""   13,04|00,13##13 13,04"04,01"mmmmmmm15    04|14,04  13m13,13 13,04|04,01| 00 15|00,15|00,00 00,15|   14,01 13#13,04#|00,13###13 13,04#04,01# 14,15 01###00|14,00 00,15| ##  
+00,00  00,15"   01##00|14,00   00,15m    15,01mmm14m04  14,04 13"13,13   13,04m"04,01"""""13,04###14 13 04,01m14,04 13|00,13##13 14,04 04,01 00 00,15 00,00 00,15"   14,01 13 04"""13,04"13,13  13,04#04,01# 14,15 00   m14,00   00,15m    
+04,01 00#####14,15@01m15,01      14 00##### 04 """"13####04 elk!15    04""""13,04"13,13  13,04|04,01| 00##### 04  cz?  "#  00####15       00##
+15,01      00#14        00  15                             04""
+15,01          04|--------####>12 13magnatop's eclipse info file ..10 04<####--------|
+
+15,01   Greetings young reading scenester.  You may be wondering why I have so much
+15,01 excellent art this release.  Well, I'm not going to answer that, because you
+15,01 don't deserve an answer.  However, I am going to give my thoughts on some 
+15,01 things that have been going on.  You may or may not want to read this, and
+15,01 wheather you do or not doesn't effect me in any way other than self-esteem.  
+15,01 That is however only if you choose to tell me that you thought I was a looser.
+
+14,01""14,14   15,01 14###15                                  14###
+15,01  14,14   ###15,01           14""""""""""""14,14   15,01        14,14 ###15,01     14<--- a dog, eating lunch .. 
+15,01  14|"""14,14   15,01                      14,14   14,01"""""""""""
+15,01  14,14####15,01  14"""""""""""""""""""
+15,01  14####
+15,01               04---->>><# @12 13#ansi complaint numero uno10 04@ #<>>>----
+
+15,01   So, you've been visiting #ansi on efnet and you say to yourself, what the 
+15,01 is with all this disgusting pornography and stuff?  Well, I think that's a 
+15,01 good question.  Well, I'm damn sick of people saying that.  If you don't 
+15,01 like porn, don't visit channels that support it.  You stupid idiots...  And
+15,01 if you don't like people that act gay, then don't visit the only channel that
+15,01 supports it, #ansi.  I am a chanop on #ansi.  Sometimes I say to myself, why
+15,01 am I a channel op?  And then I remember, because I can kick people.  But I 
+15,01 don't because remorse gets mad.  So, I just tell people like 88keys to kick 
+15,01 people, because he's fearless.  And then I say to myself again, gee, I suck.  
+15,01 Then I say "Who wants to logo trade?" and no one messages me, because I suck.
+15,01 I think I found the problem in #ansi, it's me.. I suck.  If I wasn't in #ansi
+15,01 there wouldn't be any gay people, or people that ask for logo's by messaging
+15,01 everyone with "Do you take reqs?".  Or maybe it's simply because I'm not gay
+15,01 and that surprises everyone.  I don't know.  I think the main problem is well..
+15,01 that uhm.. I uhm.. suck.  
+
+15,01                    04---->>><# @10 13art "in my eyes"10 04@ #<>>>----
+
+15,01   Once again I have yet another thought, this is getting to be almost like an
+15,01 emag.  Well, anyways.. I have something to say.. How many of your nerds reading
+15,01 this have ever looked at REAL artwork?  I'm not talking real artwork as in
+15,01 Somms and Tempus Stuff.. I'm talking, paintings by crazy people.  Have you
+15,01 ever noticed the difference in styles.  Example: Dali, Picasso.  These are
+15,01 two artists that you should probably have atleast heard of.  Picasso is like
+15,01 flame (smoochie smoochie).  And I'd have to say that Dali is more like uhm..
+15,01 well uh.. Ck... or something.  Ok, bad example.. but you get the idea.  If you
+15,01 have a different style, and it doesn't suck, then that will make you
+15,01 impressive.  Even when people start copying people, example, when an idea 
+15,01 becomes an institution.. like lord jazz's (now oned) style became an 
+15,01 institution.  Boy would that suck.  I think making tutorials is bad if you're
+15,01 going to demostrate your own style.  I don't really have my OWN style, but I'm
+15,01 trying to find one.  I think I'm coming close to ripping the style of uhm.. 
+15,01 kinda toony type logo artists, splatt, cz.. etc.. but not ripping.. 
+15,01 so, just for the fucking record.  When you make ansi, why don't you try and
+15,01 be a little more original.. try something new, it'll help you, trust me.  I'm
+15,01 wise.
+
+15,01                   04---->>><# @15 13my lamer complaint15 04@ #<>>>----
+
+15,01   Have you ever made ansi in school?  I do quite frequently now... it's sad
+15,01 really.  But hey, I've been getting a lot better grades in school and I've
+15,01 been making a hella more ansi.. But one thing really bugs me.  I hate it when
+15,01 I can't just sit and make ansi.  All these fucking people keep walking up to 
+15,01 me and say "Hey, whatcha making".. and "Hey, what's that say?" .. I really 
+15,01 get irritated.  In fact, sometimes I want to pull out my 9, and cap em.  But
+15,01 I'd probably go to jail for that.  I've even written about half of this info
+15,01 file at school, and at this very moment someone is reading the upper half
+15,01 of this page.  I don't think he realizes how much danger he's in... so, I'm

@@ -1,0 +1,57 @@
+15,01The Usenet Oracle has pondered your question deeply.
+15,01Your question was:
+
+15,01> Do you have a hard drive ?
+
+15,01And in response, thus spake the Oracle:
+
+15,01} I was hanging out in a SCSI bar.  A loud bandwidth played in the
+15,01} corner.
+15,01}
+15,01} I gave the place a binary search.  I saw a little chip in the corner.
+15,01} She SIMMed like a pro.  I traversed over to her.
+15,01}
+15,01} She pressed her Apples against me.  "Hey, Mac, do you have a hard
+15,01} drive?"
+15,01}
+15,01} "No, only a floppy," I replied.
+15,01}
+15,01} "Well, then you need an Amiga," she sed.
+15,01}
+15,01} "Vi?"
+15,01}
+15,01} "Well, if I was your Amiga, we could interface."
+15,01}
+15,01} We went to a motel.  We took a bus.
+15,01}
+15,01} The motel was SCSI-2.  It needed to be debugged.
+15,01}
+15,01} "So, how much is this going to cost me?"  I queried.
+15,01}
+15,01} She added it up right away.  She had a mind like a...like a....
+15,01} She could add really fast.
+15,01}
+15,01} She stripped her binaries.  It was quite a procedure.
+15,01}
+15,01} "I'm going to turn your software into hardware," she transmitted.
+15,01}
+15,01} She started to spreadsheet.
+15,01}
+15,01} "So, are you ready to RAM?" she called.
+15,01}
+15,01} I had been auditing everything.  I sent a signal.  It was time for
+15,01} the trap.
+15,01}
+15,01} All the agents burst through the gateway.  My manager was with them.
+15,01}
+15,01} "Awk!  It's a RAID!" she sed.
+15,01}
+15,01} "Don't arrest me!  I'm a motherboard!  How will I explain this
+15,01} to my Sun?"
+15,01}
+15,01} The agents were not responding.  They got ready to stop her process.
+15,01}
+15,01} She was getting desperate.  "Hey, I could do a favor for all of you.
+15,01} I'm fully multitasking."
+15,01}
+15,01} It didn't work.  We're all UNIX.

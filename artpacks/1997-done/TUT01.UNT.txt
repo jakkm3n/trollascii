@@ -1,0 +1,68 @@
+15,01    00,a%&F'15        00,a%&F'"'7&%, ,a%&F     7&%a,15    00,a%&F'15        00,a%&F'"'7&%,
+15,01    00$$$$$_.,,._  d$$$$15    00 $$$b$$$$$     $$$$$15    00$$$$$        d$$$$15    00 $$$b
+15,01    00$$$$F"~~"Q$$b$$$$$15    00 $$$$$$$$$     $$$$$15    00$$$$F"~~"    $$$$$15    00 $$$$
+15,01    00$$$$$15    00$$$$Q$$$$15    00 $$$F$$$$$  ,  $$$$$15    00$$$$$15    00$$$$Q$$$$15    00 $$$F
+15,01    00$$$$$15    00$$$$ `7$b,__,,d$F'Q$$$$,,d,,$$$$F15    00$$$$$15    00$$$$ `7$b,__,,d$F'
+15,01    00F'"~15      00~"715     00`""``15      00``""^^""``    15   00F'"~"~  "~~"715     00`""``
+
+15,01            00,a%&F'"~a~"'7&%a,  ,a%&F'"'7&%, ,a%&F'  $$%a, ,%&7'"'F&%a,
+00,01 j  115      00d$$$$$15   00$15   00$$$$$bdF'"~ __,,$$$b$$$$$_.,F'"~ d$$$  _,,;"'  
+00,01 a  915      00$$$$$$15   00$15   00$$$$$$,a%&$''   $$$$$$$$F"~~"Q$$b$$$$F'~  d&%a,
+00,01 n  915      00$$$$$$15       00$$$$$$Q$$$$15    00 $$$F$$$$$15    00$$$$Q$$$ 15    00$$$$F
+15,01    00715      00$$$$$$15       00$$$$$$ `7$b,__,,d$F'$$$$$15    00$$$$'Q$b,,__,d$F' 
+15,01           00$$$$$$15       00$$$$$$15     00`""``15    00F'"~15      00~"715    00``""`
+15,01---------  00F'"~15   ----    00~"'715  ----------------------00 with gravedancer 15--------
+
+00,01        okie.. this is my installment or you could say tutorial. i had someone  
+15,01        00ask how to make the letter 'k'. i've realized that this letter gives
+15,01        00many people problems. i'll will go though one step at a time at how
+15,01        00i make a standard 'k'. 
+
+00,01Step One: make something you can work with.
+
+00,01a simple rectangle will work15            $$$$$$$$$$$$$$$
+00,01just something so you know the size15     $$$$$$$$$$$$$$$
+00,01of the letter you want and the width.15   $$$$$$$$$$$$$$$
+00,01i've learned that once i have something15 $$$$$$$$$$$$$$$
+00,01to work with, then i can picture what15   $$$$$$$$$$$$$$$
+00,01i want it to look like15                  $$$$$$$$$$$$$$$
+15,01                                        $$$$$$$$$$$$$$$
+
+00,01Step Two: work with what you have.
+
+00,01this is where you actually make an 15     $$$$$$$ $$$$$$$
+00,01outline of what the letter will look15    $$$$$$$ $$$$$$$
+00,01like. it doesn't have to look perfect15   $$$$$$$ $$$$$$$
+00,01but just make a generalization of15       $$$$$$$$$$ggggg 
+00,01what it should look like.. very rough15   $$$$$$$ $$$$$$$
+15,01                                        $$$$$$$ $$$$$$$
+15,01                                        $$$$$$$ $$$$$$$
+
+00,01Step Three: alter the apperance to what you want it to look like.
+
+00,01this is where you actually give the15      ,a%&$F $$$%a,
+00,01letter some personality, your own  15     $$$$$$$ $$$$$$$
+00,01touch. you can round it off or15          $$$$$$$ $$$F'~ 
+00,01give it a twixt and make it funky,15      $$$$$$$$$$%a,. 
+15,01                                        $$$$$$$ $$$$$$b
+15,01                                        $$$$$$$ $$$$$$$
+15,01                                        F'"~       ~"'7
+
+00,01Step Four: color it/shade it to however you want.
+
+00,01this is where you let your15              10 ,a11%10&$F $;$%a,
+00,01creativity loose and do    15   00...15       11$10l;;;;$ ;;$i00::::::
+00,01whatever you want..15              00:15      11$$ll10;i; $iiF'~ 
+00,01the experimental stage.15          00.;;;15   02i12,11$11,01$iu10iiii%%02a,12.10 
+00,01use you imagination and come up15      10.15  02iiiii11$$12 10ii02i11i12$$b15     00;
+00,01with your own what to do things.15     12gg15 12gggg02$$12$ 02gg12g$11$$$12   00..;
+00,01there are many ways to make 15            11F12'"~       ~"'7
+00,01letters so be innovative.
+
+00,01---
+00,01if anyone needs to know how to do something, e-mail anyone of the unit members
+00,01through the internet15 00or post it on the unit sub (if you are local).
+00,01we'll produce one of these babies15 00to help you guys (and gals.. :) out.
+15,01                                              00 
+15,01>>SAUCE00unit tutorial #001                 gravedancer         unit artworks   
+15,01    19961222_M                                    

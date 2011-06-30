@@ -1,0 +1,32 @@
+15,01R   I   O   T    :   J a n u a r y  ' 9 4   B o a r d / S i t e   L i s t i n g
+15,01=-----------------------------------------------------------------------------=
+15,01| Board Name                  | System Sysop    | Board Status | Fone Number  |
+15,01=-----------------------------------------------------------------------------=
+15,01 Malicious Intent               Dreadlord             World HQ   [818]570.6768
+15,01 Times 2                        Doc Who            Northern HQ   [309]698.1467
+15,01 PHiBER dUb           (node 1)  The Duelist         Central HQ   [314]243.6724
+15,01                      (node 2)                                   [314]243.6009
+15,01 Dreamscape                     The Guild Master    Eastern HQ   [201]703.1057
+15,01 Distant Lands                  General Protocol   Canadian HQ   [613]241.7506
+15,01=-----------------------------------------------------------------------------=
+15,01 Dark Zone                      StreakeR          Member Board   [714]PRI.VATE
+15,01 Dogg Town                      KiP               Member Board   [818]242.1821
+15,01 Surrealistic Underground       Dali              Member Board   [404]PRI.VATE
+15,01 The Fear Factory               iNCUBUS           Member Board   [203]746.4832
+15,01=-----------------------------------------------------------------------------=
+15,01 Alpha Sector                   AfterShock        Distribution   [310]PRI.VATE
+15,01 Apocalyptic Teacup             Mad Hatter        Distribution   [416]PRI.VATE
+15,01 Beyond the Realm of Reality    Legend Master     Distribution   [310]PRI.VATE
+15,01 Channel Zer0        (2 nodes)  Beastie           Distribution   [714]PRI.VATE
+15,01 Corrosive Poison               Physchotic Fiend  Distribution   [516]PRI.VATE
+15,01 Corrupt Society     (2 nodes)  sUMIxAM           Distribution   [512]PRI.VATE
+15,01 Pentagon            (2 nodes)  Overlord          Distribution   [510]PRI.VATE
+15,01 Revolution Number 9            Minor Threat      Distribution   [305]PRI.VATE
+15,01 Shadow of Deceit               Major Tripps      Distribution   [801]PRI.VATE
+15,01 South of Hell                  Devil's Spawn     Distribution   [305]PRI.VATE
+15,01 SUSHi Bar Z                    Sushi X           Distribution   [619]438.0421
+15,01 T.n.T.              (4 nodes)  Disk Killer       Distribution   [503]PRI.VATE
+15,01 Temples of Syrinx   (2 nodes)  Urick             Distribution   [813]PRI.VATE
+15,01 The Gene Pool                  Quicksilver       Distribution   [609]PRI.VATE
+15,01 Total Chaos                    Kinayda           Distribution   [203]PRI.VATE
+15,01>

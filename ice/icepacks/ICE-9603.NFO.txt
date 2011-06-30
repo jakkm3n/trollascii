@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+
+15,01-------------------------------------------------------------------------------
+15,01                    M   A   R   C   H      1   9   9   6
+15,01------------------------------------------------------------------------------- 
+15,01   
+
+15,011.  Finally, after months of  arrangement and searching and  hoping and, well,
+15,01    you get the  picture, iCE Advertisements has  obtained a T1 connection for
+15,01    our first  UNIX box.  What  does this  mean for you?  A stable, dedicated,
+15,01    world-wide-web server and FTP  server.  The site will be the one-stop-shop
+15,01    for iCE on  the Internet.  iCE  would like to thank Novasys Interactive
+15,01    for  supplying  the network  space.  Novasys  Interactive  is  an internet
+15,01    provider in  the  Northern  NJ area (201).  To reach  Novasys Interactive,
+15,01    call (201) 267-4441.  There are other local dialups available.  Novasys is
+15,01    also on the web at http://www.novasys.com.
+
+15,012.  Speaking  of web  pages, progress on the  official  iCE web page  has been
+15,01    made.  In fact, during the month of April, the site will be  opened to the
+15,01    public!  We'd like to congratulate Syntax Error, Devastator, Xten, and the
+15,01    rest of the web team on their job well done!
+
+15,013.  To recap  what you've  just read, the new  official internet sites  of iCE
+15,01    during this month will change to the following:
+15,01        FTP (packs, special packs, and apps): ftp.ice.org /pub
+15,01        WWW (the web page - packs here too!): http://www.ice.org
+
+15,014.  We'd like to extend a heartfelt apology to those on IRC we sent fake packs
+15,01    to on April 1.  We weren't ready 'till a few days later, but I'm sure they
+15,01    all  could  use  another  copy of  the shareware  version  of Ms. Pac-Man!
+
+15,015.  Friar Tuck, Syntax Error, and myself, along with the rest of the iCE  team
+15,01    would like to wish a (sort of belated)  Happy Birthday to Lord Soth,  BoA,
+15,01    Highness, Digital Interface,  and Greater Evil, who  celebrated  birthdays
+15,01    in March.
+
+15,016.  iCE would like to welcome another large batch of new artists to the group!
+15,01    In ANSI, we  welcome  Grendel, Grindstone, and  Zarkon.  In VGA, Shiva and
+15,01    Stolen Faith join  the happy  family.  Also, Lintec joins  us as a member.
+
+15,017.  Friar Tuck announced his candidacy for President last week.  He is running
+15,01    on  the Republican  ticket.  Tuck, who  is no stranger  to the public eye,
+15,01    simply  wants to get power  in order to  bomb small countries.  When asked
+15,01    about his somewhat controversial strong-military agenda, Friar simply said
+15,01    "Fire! Fire! Yeah Yeah! Fire! It's really gonna happen!" over  and over...
+
+15,018.  Rumor has it that Mass Delusion has missed the train to Mars, so he's been
+15,01    hanging  out  behind  iCE  Headquarters  counting stars.  All  attempts to
+15,01    communicate  have failed to  this point.  Electro-shock  therapy begins on
+15,01    Monday.
+
+15,019.  The Senior Staff of iCE hereby apologizes to Kabal 13 (aka the FREAK!!!!!)
+15,01    and Obsidian for accidentally leaving them off  of the memberlist.  It was
+15,01    unintentional.
+
+15,0110. You may (or may not) have  noticed LS-TIPS.ICE in the ANSI section of this
+15,01    pack.  This  Lord Soth release is not typical; in fact, it's one of a very
+15,01    few  of  it's  kind, and  one  of the (we think) even fewer  accurate  and
+15,01    helpful.  So what is it?  It's the first in a series of tutorials designed
+15,01    to help  the art  community learn  about  and/or  improve upon  basic thru
+15,01    advanced computer art techniques.  Look for  more tips from  iCE in future
+15,01    iCEPacks!

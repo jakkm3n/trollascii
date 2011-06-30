@@ -1,0 +1,62 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    J   U   L   Y           2   0   0   2
+15,01---------------------------------------------------------
+15,011. We have tons of fantastic work this month.  iCE artists must be getting 
+15,01   excited for our upcoming 10th Anniversary pack next month!  We want to
+15,01   welcome Epoch back from the dead and are very proud to announce that Jae and
+15,01   Leonardo are making ansis again.  It is hard to believe this much artwork
+15,01   came together when many iCE members are swapping sleep for turns in 
+15,01   TradeWars on the Piranha BBS (piranha.zapto.org).
+
+15,012. In the ANSI department, we need to welcome back Fire From Heaven.  Joining
+15,01   us for the first time is ewheat, Alla Xul, and Spear.  ewheat held a press
+15,01   conference to announce his membership, and Janet Reno introduced him.  There
+15,01   was a gasp when the reporter from the LA Times asked him a question 
+15,01   involving rubber tubing and his failed babysitting business, but he handled
+15,01   the stress well.  Alla Xul told us all that he thinks of himself as an 
+15,01   African princess, but we let it slide after we saw his skills with a cursor.
+15,01   Finally, Spear wowed us with his ability to (verb) a full (number) inches
+15,01   of (noun) into his (noun), at least until Trip and Root88 put on a double
+15,01   act that totally outdid Spear's feat.  Welcome to all the new members!  In 
+15,01   the words of Sinned Soul, "I don't give a damn what the court order says, 
+15,01   I'm going to go visit my grandmother at the gun show!"
+
+15,013. New hi-res artists this month are Picky, Devious, and Arcipello.  Archipello 
+
+15,01   joins us from Newcastle in the UK.  He tried to apply over the phone with 
+15,01   us, but he was completely uncomprehendable - speaking a strange form of 
+15,01   European ebonics while wearing some sort of gas mask.  Next we have Devious,
+15,01   who admitted that he was from the Great White North.  We let him in anyway.
+15,01   Picky was born and raised in Croatia but immigrated to the United States and
+15,01   joined iCE when she heard that Slothy was single again.
+
+15,014. After perfecting her tattooing skills on her children, Sprite has decided to 
+
+15,01   open her own studio named Lady Hawke Ink in Kansas City.  There will be a
+15,01   20% discount on iCE forhead tattoos.  Good luck Sprite!
+
+15,01Wishing you a hot, sweaty, itchy August,
+15,01     Root88, Trip and Slothy
+
+15,01-------------------------------------------------------------------------------
+15,01                      Lord Soth                    Root88
+15,01-------------------------------------------------------------------------------

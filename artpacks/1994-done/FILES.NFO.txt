@@ -1,0 +1,51 @@
+
+15,01File Name      Artist          Size (Bfr) Size (Aftr) Description 
+15,01---------      ------          ---------- ----------- -----------
+15,012REM-WNE.ANS   FADE/MAGELLAN   3726       1034        WATER NET LOGO            
+15,01       
+15,01BZ-REM.ANS     BRAINZ          2278       671         REM LOGO                  
+15,01             
+15,01BZ-REM.FLI     BRAINZ          587029     390508      REM FLI                   
+15,01                 
+15,01BZ-REM3.GIF    BRAINZ          92723      91354       REM LOGO                  
+15,01                
+15,01FA-BREED.PCX   FORMIC ACID     45336      13958       BREED LOGO                
+15,01                  
+15,01FA-CNOA2.ANS   EDGE/FADE       12689      2984        CNOA ANSI                 
+15,01      
+15,01FA-FARM.ANS    FADE            4701       902         FUNNY FARM LOGO           
+15,01   
+15,01FA-GOBLI.GIF   FORMIC ACID     13732      13645       SOME CHARACTER            
+15,01                      
+15,01FA-MIX.PCX     FORMIC ACID     23267      10722       DJ MIXING                 
+15,01                 
+15,01FA-REM01.GIF   FORMIC ACID     20821      20821       REM LOGO #1               
+15,01                   
+15,01FA-REM02.GIF   FORMIC ACID     26241      26174       REM LOGO #2               
+15,01                   
+15,01FA-TDIST.ANS   FADE            5985       1303        TEMPORAL DISTORTION LOGO  
+15,01     
+15,01FA-VIS2.ANS    FADE            3451       809         VISION 2 LOGO             
+15,01     
+15,01FA-WAR.GIF     FORMIC ACID     24963      24526       FREQUENCY ZERO GIF        
+15,01                          
+15,01FILES.NFO      IDENTITY CRISIS 2105       684         THIS FILE           
+15,01IC-TOP.ANS     IDENTITY CRISIS 2046       633         THEATER OF PAIN LOGO      
+15,01  
+15,01REMVIEW.CFG    VIPER           1871       711         CFG FILE FOR REMVIEW
+15,01REMVIEW.EXE    VIPER           73990      72785       REMVIEW MULTI-VIEWER      
+15,01       
+15,01REMVIEW.NFO    VIPER           1777       680         REMVIEW INFO FILE         
+
+15,01SK-STC.ANS     SONIK           1436       510         STATIC NET LOGO           
+
+15,01ST-COI.ANS     STONEY          11612      3020        C.O.I. ANSI      
+15,01ST-REM1.ANS    STONEY          1456       448         REM LOGO
+15,01-----------    ------          ---------- ----------- -----------
+15,0122                             963350     678904
+
+15,01Additions:   nb-rem.ans  [night breed/remlogo]
+15,01             nb-stc.ans  [night breed/stcnet]
+15,01            dr-rem1.gif  [digital raper/remlogo]
+15,01           rem-0594.ans  [night breed/memberlist]
+15,01           rem-0594.nfo  [night breed/monthlynews]

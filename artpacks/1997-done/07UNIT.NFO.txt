@@ -1,0 +1,80 @@
+01,04  08###01                        08###  ###mmm 01                            08#####01     
+04,01"14,04  08#####14               08###### ####14 08#@@13,08##  08,04##14  04,01"" ""14,04 08##14   08##@@13,08#08,04@@##14  08######@@@@@
+04,01|""""08,04#04,01|    14,04    13,08#14,04 08#####14   08#####13,08#08,04@@@##13,08#14   13 ##08,04#08,01""04"   """08,04####14   13,08###14,04 08#######14   08##@@13,08#
+04,01  14,04 04,01 |08,04#04,01| "  | 08,04#13,08#08,04@@@@14  08#@####@13,08###  08,01"""14,08#08,01###"""13,08#08,01|01,04#04,01"""|"01,04#|#14@08#14 04,01" 01,04m14 13,08#08,04#####14         08@@13,08#
+04,01| m |08,04@04,01| m  | ||13,08#08,04####14   08#####@@13,08#08,01mmm04     08##m""04 01,04#04,01       ""08,04#04,01m  08mm13,08##08,04@@14    08#13,08# 04,01"" mmm13,08#
+04,01|  13#01,04#08@08,01|04 "  | ||04,08##14,04      04,01""""" 13#04@@13#08""""14,08 08,01mmmm13,08#04,01|13,08#13,01#04  08"14,08 13#08,04#04,01  14,08 08,04@@04,01|  08|"04"08,04####14 13,08# 08,01|04  ""08,04#@04,01" 
+04,01| m |04,08#08,01|04    |  "13,08@04,01"15     04mmm"15     13####15   04 08""13,08##04,01|01,04#14@04,01 mmmmm| 14,08 13 #15,01  08|15    04""14,04  08#13,08# 08,01mm04      
+04,01||  04,08##08,01mm04m m08m14,08 08,01m15 13,08@@08,01m04m14,04  04,01""15      08|15          08""04  "01,04#04,01""15     04  08"|15 08m08,08##08,01mm15    04 ""08""14,08   08,01mmm04 
+04,01||  08|""15     08""""04"15         08mm14,08  08,01m14,08 08,01"14,08 08,01mm15        04 08mm14,08    08,01mmm15   08|14,08  08##mm14   08,01m15     04  08""##
+08,01mmmmm14,08 08##14  08,01m15     08mmmmm14,08         01#08,01| |08,08 #mmm08,01mmm |"14,08          08,01" |14,08   08    ""14   08,01""
+15,01  08"04,08 08###@  14 15,01  08"mm   ""14,08    08#14   01##08,01# |08,08 ##"##14 08,01|15   08""14,08    08,01"""15   08|01,08#14   08 ##14 08,01""    
+15,01   08|04,08  08##@ #08,01|15 08|14,08     08,01mmm"14,08 08 ##14   01#08,01| |08,08##@#@@14  08,01  |mmm mmm08,08m##14 08,01  01,08##14 08@@#14 08,01|   t15 08he
+15,01   04,08 01#08  14 08@@#08,01|15 08|14,08       08,01| |08,08###14   01#08,01| |08,08@#@#14   08,01|  #14,08@01#14 08#@@###"08,01| |14,08@01##14 08@#14 08,01 s e v  e n15 08t h
+15,01 08##01,08###08#14 08#@@08,01|15 08|14,08        08,01 |08,08@###14  01#08,01| |08,08#@#14    08,01|  |01,08#14   08###@@#08,01| ##14,08@01##14 08#14 08,01|15   08ch a p te r
+15,01   08|01,08#08  14  08##08,01|15 08|14,08        08,01 14,08 08 @@#14 08#14 08,01| |08,08##14      08,01m |01,08#14    08#14  08@@08,01| |14,08@01#14   08##08,01| mmm   
+15,01   08|01,08#08  14   08#08,01|15 08|08,08#14      08,01| |08,08"##@@##08,01| |14,08 08#14        08,01mm""""14,08    08#08,01  |01,08##14     08,01| |14,08     08,01mmm
+04,01|15  01,08###08 14    08,01|15 08|08,08@#14      08,01m ""08,08"""##08,01| |14,08          08,01"""""  m14,08 08##08,01| 14,08  01#14     08,01| |14,08 08##@@##08,01|b304 
+04,01||15 08|01,08##14     08,01|15 08|08,08#@@###14    08,01mm15   08"""  "14,08  08,01""  15    08|14,08          08,01||14,08       08,01| |14,08    08@@ |15,01  04|
+01,04#04,01m15 08"""14,08     08,01|15 08|08,08  ##14      08,01"""""15      08|15         08"15       08 ""|"""14,08     08,01| |08,08#@@##""14 15,01  04m
+01,04#13#04,01m15      08""14,08 08,01m14,08 08,01"08,08#@08,01""15      04mm01,04#04,01##13#15      13u  n  i  t15        08"15       08""14,08 08,01m14,08 08,01"14,08 08 08,01""15    04m01,04#
+13,04#04@14     04,01mmmm15    08|15       04"15  04"14,04 15,01 04mm15  04m14,04  04,01mmm14,04 15,01 04mm15 14,04  04,01mmmmmm15                 08|15  04mmm08m13,04#04@@
+04,04@@13##14         04,01m15   04 mmmmm14,04                               04,01m14,04   04,01mmmmm   15   04m14,04       13#04@
+14,04 13,13##13,04"""14         04,01|m14,04 13"14 13un i t  h as  ma d e  me th e waze i is todaze "14      13""13,13###
+01,04mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+15,01 04#13#08,04t08,01hus it continues ...
+
+15,01     08sup, this is b love and i thought i'd put a nifty explanation about
+15,01     08the meaning of the title ansi.  it's a sunset burning into the tiny
+15,01     08city that is not my home.  unit is in the forefront just because it
+15,01     08is the only thing in the world that doesnt totally bore the h e l l15 
+15,01     08out of me.
+
+
+15,01 04#13#08,04a08,01pril news ...
+
+15,01     aight, this is the seventh saga of unit proudly standing in the 410
+15,01     area code.  we had only one very _bad_ incident this month but  w e
+15,01     got a new member as well into our vga department (00semso15 from 08dark15).
+
+
+15,01 04#13#08,04r08,01ipping in general ...
+
+15,01     a lot of ripping has been happening lately, not only in the national
+15,01     scene but in the 410 ac as well.  when you take someone's  else  art
+15,01     it doesn't make you an artist, just a wannabe.  just like any  other 
+15,01     form of artistic expression (like music and literature),  ansi/ascii
+15,01     and other scene related art is the artist's own  feelings  and work.
+15,01     originality is the  key ... if you can't come with anything  that is
+15,01     %100 yours, take back a step and ask yourself _why_ do  you do this?   
+15,01     And then, come back and start _your own_ artistic expression.
+
+
+15,01 04#13#08,04g08,01host face killa caught ripping15 08...
+
+15,01     00on March 16, 1997, the unit crue~ got some interesting _feedback_ on
+00,01     irc.  it would seem that 08ghost face killa00 had taken an ansi original
+15,01     00by08 zalt00 of 08shade00 and transformed it into his own ascii.  all of  the 
+15,01     00unit members were quite pissed about the ripping and in a democratic
+15,01     00decision he was kicked out of unit.  sorry, zalt, someone will  make
+15,01     00it up to you...
+
+
+15,01 04#13#08,04w08,01e15 08want _YOU_ ...
+
+15,01     that's right.  if you are not happy where you present are and would 
+15,01     like a change, unit demands that you give us a try.  group politics
+15,01     IS bullshit and the seniors are pretty damn friendlY!?  yes, one of
+15,01     them is a sadistic and forgetful b3-Otch (b love). another one is a
+15,01     pervert but adorable in his attitude (gravedancer).  the third o ne
+15,01     loves to draw (axb).  and the fourth one, well, she has the love of 
+15,01     everyonE!?!~(puff).
+
+15,01     so if you're interested in a change, contact us a 08unit@juno.com15  or
+15,01     contact gravedancer (gdr) on irc in #ascii OR #ansi.
+
+
+15,01 04#13#08,04f08,01rom mistah axiom bloodless (image@access.digex.net)
+
+15,01     pack number (7)seven(7) is now in your grasp. after our last packet,
+15,01     i had this burst of anger and energy mixed in one big  f u c k i n g

@@ -1,0 +1,75 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                   S  E  P  T  E  M  B  E  R   1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Unrelated to what most of us consider news, well, not just most of us, but
+15,01everyone with the exception of Inazone: shamone!
+
+15,012.  If you are one of the fans  that downloads their  iCE packs every month  to
+15,01read the creative and entertaining texts of senior staff like Force Ten, Slothy
+15,01and  these days, Mass Delusion - you can kiss that off!  There was an executive
+15,01decision made to begin  manipulating the info file  each month for our own more
+15,01devious purposes.  So, open your mind to subtle suggestions.
+
+15,013.  Last month,  we compared  ourselves to the  soaring stock market,  with the
+15,01exception  that we weren't subject to  any crashes.  Well, it's sad to say that
+15,01we've  had yet another  unbelievable month of  returns and we're  still beating
+15,01the  analysts  predictions!  (isn't  that  quaint?)   Joining  this  month  was
+15,01TaintedX, bringing  with him not only some great  ansi, but an attitude that is
+15,01most  definitely iCE : welcome  aboard!  We're also seeing returns  from one of
+15,01our favorites,  Count Zero  and a longtime  revival by that little third  party
+15,01monkey, Misfit.  Welcome back boys!
+
+15,014.  Some  people might call it luck, we like  to call it, well, luck I suppose,
+15,01so what's your point?
+
+15,015.  For  several years now, emulators have allowed  computer owners to play the
+15,01actual arcade favorites  of the last decade on  their home computer.  Using the
+15,01real  ROM from the arcade game, these  emulators play NES, SNES, Sega, Neo-Geo,
+15,01etc.  What's new however, is Syntax Error's involvement in a  pure ASM emulator
+15,01released  recently  called  "Retrocade"!  This  new emulator  is blazingly fast
+15,01and  features all  artwork done  by  iCE  members.  Check it  out right  now at
+15,01http://www.retrocade.com!
+
+15,016.  After  winning a  forfeit to Dark team #1 in  the Blender contest, the  iCE
+15,01team  is preparing  to take on Mistigris in the Blender  Final!  We welcome one
+15,01and all to  come and serve as iCE cheerleaders.  Of  course, nudity is required
+15,01and if you're male, you have to stand over in Nosegos' corner.
+
+15,017.  Brevity is a wonderful thing.  Brevity allows us to take a succinct thought
+15,01and deliver it in a compact package, accurately  conveying our meaning and tone
+15,01to  the receiving party giving  communication efficiency and enjoyment  for all
+15,01involved and for those observing.
+
+15,018.  Lastly, we have  been harping on the new v2 of www.ice.org for a long, long
+15,01time  now.  However, the  work is coming to a close, so it  will be very,  very
+15,01soon.  This stage  will be replaced shortly by the very, very, very soon stage.
+
+15,019.  Questions,  answers,  proposals of marriage or  foosball challenges  may be
+15,01directed to the iCE Senior Staff at icestaff@ice.org.
+
+
+15,01-Mass "I use iCE to get girls in bed" Delusion // iCE Senior Staff
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------

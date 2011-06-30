@@ -1,0 +1,20 @@
+00,00#15,15@00,00#15,15@@00#15@00## #  #                    01Rust                            00#  # ##15@00#15@@00,00#15,15@00,00#
+15,01   14The city  sweats beneath  the blazing August sun.  Asphalt rivers bend and
+14,01   heave, flowing with stagnant dreams and ambitions.  Shattered lives litter
+14,01   the sidewalks, swirl and  spin in the hot wind, and disappear.  Monumental
+14,01   concrete  spires  reach out to caress  the sky; forever reaching,  forever
+14,01   yearning.  A jaundice haze  tightly embraces the city, its stifling weight
+14,01   sapping the very life out of the ground. Overhead the malevolent sun grows
+14,01   weary  of the steel  and concrete  and slowly retires  toward the  distant
+14,01   horizon.  Dusk  descends, the towering buildings carving deep shadows into
+14,01   the battered  ground.  This world,  cast in relief,  begins to  awaken  as
+14,01   darkness falls.  While  hidden beneath the  mask of  night  the city seems
+14,01   not so stark, not  so devoid of hope.  Tiny stars  glitter and shimmer but
+14,01   these are not the stars in the skies above - they have long been drown out
+14,01   by the  man-made stars  which  twinkle  and flash on  every street,  every
+14,01   corner. In years gone by man looked to the stars and dreamed of possessing
+14,01   the power of creation. Yet these synthetic stars tell only of dreams never
+14,01   realized, ambitions long forgotten.  It's at these times  that I stare out
+14,01   my window on  the cold, grey city and it seems  the whole world has turned
+14,01   to rust...
+00,00#15,15@00,00#15,15@@00#15@00##01You have arrived at Compton, the world will never be the same.00##15@00#15@@00,00#15,15@00,00#

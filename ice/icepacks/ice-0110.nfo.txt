@@ -1,0 +1,78 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    O  C  T  O  B  E  R        2   0   0   1
+15,01-------------------------------------------------------------------------------
+
+15,011. Welcome to the  October pack!   My name is  Slothy and  I'll be your  waiter
+15,01   tonight.   Our  specials this  month  include  the  Ian Dale  bisque*,  with
+15,01   powdered nuts  compliments of  Diesel Boy  (don't ask...).   After dinner we
+15,01   can show you our fine selection of after-dinner malt liquors to cleanse your
+15,01   palette (har har).
+
+15,012. We need to  interrupt the  current newsletter  to say that nothing extremely
+15,01   interesting happened this month.  Same old world domination and such.
+
+15,013. We unveiled  Digital Art Core  this month  (aka DAC).   This is  not "an ice
+15,01   site", but a neutral playground for all artists and art lovers.  Please come
+15,01   check it out and come join our  happy community!   Everyone is  welcome, the
+15,01   water is nice!
+
+15,014. Jamie McCarter finished his  move out to London  (from Toronto, Canada)  and
+15,01   has happily fit into his  new job working on  an unspecified movie  (well we
+15,01   know, but he's not sure he can announce it yet :)   Jamie didn't lose any of
+15,01   his luggage and  even his bag of women's  underwear got  there safely, so he
+15,01   has stuff to  wear to work.   He even  continued the  trend of  iCE  members
+15,01   getting  together and  met  Megalith in  London for lunch.   Megalith  later
+15,01   reported, "We have a lot in common, eh?"
+
+15,015. To those  of you  who misread  last month's  newsletter and  thought we were
+15,01   calling  Syntax Error  "a  malpractice suit  waiting to happen"  and that we
+15,01   claimed that he  "has an ass like a  white lace brazier",  we would  like to
+15,01   apologize.   Had you read more closely  you wouldn't have misread that,  and
+15,01   you would have read the correct wording instead.
+
+15,016. We were honored last month to be given a postmortem  award from M. C. Escher
+15,01   for our  in-progress  quilt  on tiles.ice.org  entitled  "A Tribute to M. C.
+15,01   Escher".   The almost-completely  rotten corpse  released a  statement  that
+15,01   read, "I heartily  applaud your  effort to point  out how  much I rule.   My
+15,01   artwork is the most  awesome in the world, and all those newbies like Warhol
+15,01   use  gif2ans  to make their art -  they're  all  rippers!   Not like  me,  I
+15,01   totally kick ass!"  We appreciate his candor and thank him for the praise!
+
+15,017. We are proud  to welcome  Jeff Priest to  iCE!  Jeff is  a really  fantastic
+15,01   artist who joins us after getting lost and asking for  directions at the iCE
+15,01   compound.   Upon learning that he was in ice,  he sent a video to his family
+15,01   and assured them that  "they are treating me well  and feeding me regularly.
+15,01   I am looking  forward to being able  to see you all again someday."   Root88
+15,01   added, "We're  glad you volunteered to  join the group  entirely out of your
+15,01   own free will, with nobody threatening or coercing you in any way at all."
+
+15,018. 'till next month!   Take  care and  remember to  tell someone that you think
+15,01   they have a great ass, as long as it's not your mother-in-law or your dad.
+
+15,01Lipstick and Pantyhose,
+15,01     Slothy, Mass Delusion, Spot, and Root88
+
+15,01*bisque: (noun) 2. ice cream containing powdered nuts or macaroons
+
+15,01-------------------------------------------------------------------------------
+15,01     Lord Soth            Mass Delusion             Spot            Root88
+15,01-------------------------------------------------------------------------------

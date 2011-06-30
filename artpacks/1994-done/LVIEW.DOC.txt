@@ -1,0 +1,13 @@
+
+
+
+
+15,01                *LeperView Keys*
+15,01                 --------------
+15,01  
+15,01  Here are some keys you can use with the viewer...  
+
+15,01     +  Slow the speed of displaying ansis
+15,01     -  Speed up the speed of displaying ansis
+15,01     {Enter} View Ansis
+15,01     {ESC} Exit the viewer..

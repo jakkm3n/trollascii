@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :    August Update *  September 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0995.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 |1  |ACID-TEE GIF | 164921 |07.01.95 |%    | ACiD T-Shirt Promo             |
+15,01 |2  |ACID-TEE NFO |   4268 |08.01.95 |%+   | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID0895 ANS |   5645 |08.31.95 |%+   | August 1995 Member/Board List  |
+15,01 |4  |ACIDAPP  EXE |  35277 |07.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW CFG |   3979 |09.01.95 |%+   | ACiD View configuration        |
+15,01 |6  |ACIDVIEW EXE | 168756 |03.01.95 |%    | ACiD View version 3            |
+15,01*|N/C|ACIDVIEW NFO |  42282 |07.01.95 |%    | ACiD View Documentation        |
+15,01*|7  |ALC0995  ANS |  65508 |09.01.95 |%+   | ACiD logocluster #10 (09/95)   |
+15,01*|8  |AVX-001B TGZ |  22599 |08.21.95 |%    | ACiD View for X Windows beta   |
+15,01*|9  |AY-BK2   ANS |  14264 |08.31.95 |%+   | Bat Kave                       |
+15,01*|10 |BE-ACID1 ANS |  17985 |09.01.95 |%+   | ACiD Advo                      |
+15,01*|11 |BM-HUMA  RIP |  18505 |09.01.95 |%    | Huma                           |
+15,01*|12 |CS-ACDRW GIF | 195128 |09.01.95 |%    | http://www.cyberspace.com/~acid|
+15,01*|13 |CS-CYBR1 GIF | 204980 |09.01.95 |%    | Cyber Dreams                   |
+15,01*|14 |CS-ECHH1 GIF | 190213 |09.01.95 |%    | Brand Echh                     |
+15,01*|15 |CS-FATE  GIF | 242898 |09.01.95 |%    | Fate                           |
+15,01*|16 |CS-HOLE1 GIF | 194297 |09.01.95 |%    | The Hole                       |
+15,01*|17 |CS-ICEB1 GIF | 192400 |09.01.95 |%    | The Ice Box                    |
+15,01*|18 |CS-LGCY1 GIF | 191969 |09.01.95 |%    | The Legacy                     |
+15,01*|19 |CS-NEVM1 GIF | 263065 |09.01.95 |%    | Nevermore                      |
+15,01*|20 |CS-SUPER GIF | 214585 |09.01.95 |%    | Superunknown                   |
+15,01*|21 |CS-TOMA1 GIF | 200862 |09.01.95 |%    | Screaming Tomato               |
+15,01*|N/C|FILE_ID  DIZ |    432 |09.01.95 |%    | Acquisition FILE ID by {BE}    |
+15,01*|22 |GAS-CFS2 ANS |  46557 |09.01.95 |%+   | Confusion ?                    |
+15,01*|23 |IO-FL409 GIF |  81086 |09.01.95 |%    | Flight 409                     |
+15,01*|24 |KO-LANSL GIF | 123981 |09.01.95 |%    | Lan's Laughter                 |
+15,01*|25 |KO-STWWW GIF | 123041 |09.01.95 |%    | Stab WWW Promo                 |
+15,01*|26 |MB-CYBER RIP |  95086 |09.01.95 |%    | Cyber Dreams                   |
+15,01*|27 |NS-TR2   ANS |   6684 |09.01.95 |%+   | The Regency                    |
+15,01*|28 |P1-CHANX RIP |  33543 |08.20.95 |%    | Channel X                      |
+15,01*|29 |P1-FOR2  ANS |  43568 |09.01.95 |%+   | The Forsaken                   |
+15,01*|30 |P1-TMA2  ANS |  33726 |09.01.95 |%+   | The Mourning After 2           |
+15,01*|31 |P1-TRBYE RIP |  31920 |08.24.95 |%    | In Memory of The Regency       |
+15,01*|32 |S!-LOKI1 GIF | 167640 |09.01.95 |%    | Loki's Error                   |
+15,01*|33 |SB-ACID  ANS |  24591 |09.01.95 |%+   | ACiD Advo                      |
+15,01*|34 |SB-ICEB1 ANS |  22581 |08.25.95 |%+   | The Ice Box                    |
+15,01*|35 |SE-GZR0A ANS |  19250 |09.01.95 |%+   | Ground Zero                    |
+15,01*|36 |SI-INT13 ANS | 391665 |08.15.95 |%Ax  | Interrupt 13                   |
+15,01*|37 |SI-ST2   ANS |  52866 |09.01.95 |%+   | Sadistic Temptations           |
+15,01*|38 |SI-TMA2  ANS |  21730 |09.01.95 |%+   | The Mourning After 2           |
+15,01*|39 |STC-LGCY ANS |  35887 |09.01.95 |%+   | The Legacy                     |
+15,01*|40 |SX-TT1   ANS |  69276 |08.31.95 |%+   | Termite Terrace                |
+15,01*|41 |US-CT&VS GIF |  84040 |09.01.95 |%    | Cat and Visigoth homepage ad   |
+15,01*|42 |US-FL1   RIP |  49001 |09.01.95 |%    | Flux Land                      |
+15,01*|43 |VG-BD2   RIP |  72766 |09.01.95 |%    | The BadLands                   |
+15,01*|44 |VG-CC    GIF | 117894 |09.01.95 |%    | Cat's Cradle                   |
+15,01*|45 |VG-DTH   RIP |  62282 |09.01.95 |%    | Halls of the Damned            |

@@ -1,0 +1,47 @@
+15,01+-------------+TSR Pop-Key V1.0A Written By:Cyberglitch[SCaR/MiS]+-------------+
+
+15,01|                                                                              |
+
+15,01|   What is TSR Pop-Key?:TSR Pop-Key was created to store macro's that you type|
+
+15,01| and then put them into the key-board buffer as if you typed them yourself,   |
+
+15,01| leaving you more time to do other things. Put handles, passwords, phone #'s, |
+
+15,01| etc... anything you allways will be typing over and over again.              |
+
+15,01|                                                                              |
+
+15,01|   How do I activate TSR Pop-Key?:Well it'll tell you how to do it when you   |
+
+15,01| first start it up, but if you forgot press Alt-Enter to Pop it Up.           |
+
+15,01|                                                                              |
+
+15,01|   What do i do when after I pop it up?:Well now you can use the arrow keys   |
+
+15,01| to highlight the marco you wan't to pop into the keyboard buffer, or for     |
+
+15,01| convience press the number from 1-9 of the macro you wanna use. If you wan't |
+
+15,01| to edit a macro highlight it and press F1, then either backspace what's      |
+
+15,01| already there or type in what you wan't. When you're done press enter to     |
+
+15,01| save it into memory. Note only 15 charecters per macro.                      |
+
+15,01|                                                                              |
+
+15,01|   What SYSTEM requirements do i need:Well first of all you need an IBM(duh!) |
+
+15,01| you need a color monitor and about 8.7k of free memory.                      |
+
+15,01|                                                                              |
+
+15,01| Greets to:Demented Pulchritude, TechnoPhreak, Nemesis, CDS, Mental Lunatic,  |
+
+15,01|           and everyone else in SCaR, SCaR Kicking ass in '94!                |
+
+15,01|                                                                              |
+
+15,01+------------------------------------------------------------------------------+

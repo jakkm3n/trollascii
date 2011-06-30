@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01IcE IcE IcE IcE IcE IcE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,011.   Yes, folks, we're  still in  the scene and  still producing  eye candy to
+15,01     make you  dizzy.  Remember to check  the box labeled  "Lord Soth/iCE" for
+15,01     the Republican  primaries in a state  near you!   If he doesn't appear on
+15,01     your ballot, it was only  because of a  bureaucratic  error,  please give
+15,01     him a write-in vote.  Seriously!
+
+15,012.   Numerous  changes to the  memberlist this  month.   We'd like  to welcome
+15,01     Kabal 13  to the fold,  an excellent  artist  whose  pictures will  speak
+15,01     for themselves.   Kamikazee  comes back with an  ANSI that will  make you
+15,01     shiver twice.  Isosceles and  Maestro also return from  places beyond the
+15,01     horizon.  We would also like to welcome Snake Grunger, whose ansi talents
+15,01     are outstanding.  On a sad note,  Chromatik has left  the scene,  and The
+15,01     Green Hornet rejoined DARK.  In this  pack we are releasing  CK's Goodbye
+15,01     ansi, entitled "Hello" :)  He did not mean for this to be released in the
+15,01     iCE Pack, but we're doing it  as a (sadly) last favor to him.  We want to
+15,01     quickly restate  that iCE  does not  wish to alienate  any members of the
+15,01     group or discourage any group of people from applying, and that all ideas
+15,01     expressed in the pack are the views of the individual artists, and do not
+15,01     represent group policy.  Regardless,  we wish both CK and TGH well in all
+15,01     their future endeavors.  Finally, due to a violent fever, Magnetic M left
+15,01     for Legend, but  once he awoke and  noticed the new  tatoo he returned to
+15,01     iCE.  A  cry  of "Who  likes  a  sailor  then?"  went  up  as  the  group
+15,01     spontaneously felt bashful.
+
+15,012a.  The staff  would like to  apologize to  Apox for  forgetting  his name in
+15,01     the past pack.  Apox, you have one 'kick Syntax in the head' certificate,
+15,01     void in 40  states as well as  where prohibited,  except in the case of a
+15,01     healthy traumatization.
+
+15,012b.  The staff would  also like to apologize  to Slothy for not announcing his
+15,01     official "coming out"  day, on December 22,  1995.  He  proudly wears his
+15,01     pink  triangle  in  support  of  ankle  grabbers  around  the world.   We 
+15,01     sincerely  regret not making light of  this most important  announcement.
+
+15,013.   Defective  Mind's board,  Black Sunshine,  has  retired.   Apparently the
+15,01     software  left a note  on the keyboard  about having  found a  good woman
+15,01     in a Waffle House  and leaving for  Tahiti.   Go figure.   In other news,
+15,01     nobody else  retired that anyone can think of.   What this has to do with
+15,01     iCE  News  has  yet  to  be  seen,   however,  Greater  Evil  was  caught
+15,01     "red-handed" as it were during a routine yak molestation.  His court date
+15,01     is at noon  on February  17th in the  4th room on  the  left at  the town
+15,01     Court.  Everyone  is invited  to Attend.   Oh,  silly me...  he  lives in
+15,01     Georgia.   Sheesh,  we   almost  forgot  to  tell   you  where   it  was. 
+
+15,014.   iCE is  back on  FTP,  finally.  The folks at wit.com noticed our defunct
+15,01     site during a  reorganization  and contacted  us about  bringing  it back
+15,01     online.  While we're  a little slow  doing the  reorganization,  you will
+15,01     begin  seeing  the  archives  on  ftp://harmony.wit.com/ice  in the  near
+15,01     future.   Bear with  us for a few  weeks while we get  everything running
+15,01     smoothly  again and oil all  the gears and  water the plants and blow the
+15,01     old air out of the lungs of all the dead bodies.  I think.
+
+15,015.   Just a note  about Surreal Logic's  Web magazine,  NetherwOrld.   This is
+15,01     a non-iCE  Affiliated  magazine,  and  we just  wanted to  give him  some
+15,01     extra publicity.  The URL for NetherwOrld will be:
+15,01     http://deadbaby.res.wpi.edu/nworld/
+15,01     It will be  up in about  a week.   Anyone  wanting  to write  an article/
+15,01     review packs/do  artwork for the online  magazine should  contact Surreal
+15,01     Logic or  his mother,  as she gets  lonely with  nothing to  do except go
+15,01     surfing  on the  Baywatch  beach,  although this  requires her  to have a
+15,01     weekly disaster  whilst  swimming,  which her  doctor  told her  to watch

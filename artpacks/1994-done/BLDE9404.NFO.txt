@@ -1,0 +1,65 @@
+15,01       06B15     13L15     00A15     00D15     00E15     00-15     00A15     00P15     00R15     13i15     06L
+15,01                         06115     13915           13915     064
+
+
+14,01W15e00ll folks, Heres the BL/+DE April 1994 Pak... We were pleased with the
+14,01r15e00sponse to our first pak, and this one far exceed's it in quality.....
+
+14,01F15i00rst and foremost in this months news... The BLADE President has changed his
+14,01h15a00ndle to avoid confusion with several other using the name Sub ZerO...
+14,01H15e 00is now MindCrime.
+
+14,01S15e00condly, We would like to welcome Grafx to BL/+DE. He is our newest artist,
+14,01j15o00ined up late on April 1st, so we were just able to sneak a few things in
+14,01t15h00is pak. I'm sure he'll be a great addition.
+
+14,01W15e 00have picked up 5 more Distro sites this month, and added another courier
+14,01t15o 00the roster as well... This should help spread this pak a bit more...
+
+14,01O15u00r programming still lacks, And we STILL don't have an ANSi Viewer, Thanks
+14,01t15o 00Shadow Master, who promised me that it would be done on time... Thanks
+14,01S15M00, yer a real fucking pal. Also in programming, we now have Wildfire,
+14,01a15n 00experianced PPE programmer...
+
+14,01W15e00ll folks.. Enjoy the pak...
+15,01                                                      06M13i14ndCri13m06e [14BL13/+14DE06]
+
+
+00,01BLADE would like to greet the following groups:
+14,01First of all, the contributing writers of DREADLoC number 3 for recognizing
+14,01the pak... And of course, all the groups that we will someday overcome:
+14,01TRiBE, Gothic, Empire, GRiP/AD, Vi, RELiC, CiA, and why not, ACiD , iCE....
+
+14,01------
+00,01MindCrime's personal greets:
+
+15,01Soul Seeker: 14Nice work this month, doode.. Aside from the combined 100 lines
+15,01             14of greets ;)
+15,01TechnoPhreak: 14Yer gettin a lot better doode, keep it up..
+15,01Physical Solution 14: What the fuck is that!? Garfield?!?!?!...
+15,01Napalm [CiA]: 14Lamer...;)  when the hell will PnA #1 be out?
+15,01Shaman: 14Whats up doode? Ya got some good work, Join up with us!
+15,01Special Ed [iCE]: 14Syndicate will rock, once ya get yer board outt'a da
+15,01                  14gutt'r! ;)
+15,01Cain [PnA]: 14Hope ya like that lit, doode...
+15,01The Temperate Hijacker [EDeN] : 14Where the hell is APoC?! ;) Sounds killer!
+15,01Terminal Frost [EDeN] : 14Long time no chat, doode.. What's up?
+15,01JaGUAR [iCE] 14: Just another name stuffed away in an iCE member list...
+15,01               14The big time ain't all its cracked up to be, eh? ;)
+15,01Everyone i missed: 14Sorry, it's late ;) <Natural Excuse>
+
+
+14,01-------
+00,01Some more of MindCrime's /<-RaD GrEeTs [Groups]:
+
+15,01Visual Insanity : 14Thanks for the site, You guys are lookin' good...
+15,01Paranoia: 14Um... Who are you guys? Besides Napalm and Cain?! <And me ;)>
+15,01TrS'93: 14Good VGA guys.. Keep it up!
+15,01EDeN: 14What are there now, TWO of ya? BLADE could use some good programming ;)
+15,01ViCE: 14Stick with it, Don't go down like ViP...
+15,01GRiP/AD: 14I guess answering e-mail is against yer religion or sumpin?
+
+
+15,01And that about catches MindCrime up to Soul Seeker in greet volume..
+15,01At least i put mine in an .NFO file, and not all over my ansi's ;)
+15,01Thanks to everyone who helped us along the way...

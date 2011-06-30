@@ -1,0 +1,80 @@
+
+15,01                        08mm
+15,01             14,08 08,01m15        08|00,08#08,15@#15,01    08mm00,08   08,01mm   mm15           08mmmm00,08   08,01mmm
+15,01             08|00,08  #08,01m15      00,08#08,01|15"   00,08  08,01"   "00,08##15,01  08|00,08  08,01m   mm14,08 08,01  |00,08 08,01"00,08  ##08,01""00,08##08,01|
+15,01             08|"00,08##08,01|15      08| 00,08#15,01  08|00,08#08,01|15     08,15@00,08#08,01| ||00,08 08,01|  "00,08  #08,01| |   00,08#08,15@08,01|   00,08#
+15,01             08| |00,08#15,01        08|00,08#08,01| 00,08 08,01|15      08|"    00,08# 08,01m m00,08 ##08,01| |   00,08#08,15@15,01    08|
+15,01             08|  00,08#08,01|15       08,15@@15,01 08|00,08#08,01| |"00,08##08,01mm15     00,08## ###08,15@08,01||15     00,08#08,15@
+15,01                08,15@@15,01     08| 15|08,15#15,01| 00,08##15,01    08""08,15@@08,01m  |00,08#08,15@08,01" |08,15@@08,01|15      08,15@@15,01|
+15,01                08|08,15@#15,01    08|mm 15| |08,15@#15,01m    m08,15##15,01|  08,15@#15,01|  |08,15@#15,01     08|08,15@#14 
+15,01                 08"08,15@##15,01mm08,15@00,08#08,01"|   15""08,15#14 15,01m08,15###15,01"   m08,15#15,01"    "08,15#15,01m   08m08,15@### 15,01mm
+15,01                   """""
+15,01        00.15     00.  -  - ----- M  A  G  A  Z  I  N  E ----- -  -  .    .
+15,01                                  000 5    9 4
+
+08,01Introduction:
+
+15,01     00We decided to make this magazine as sort of a place where we could
+00,01things that the general pubic needed to know about LiGHT.  This will only be
+00,01usefull if you care about the underlyings of the group, or if you want to know
+00,01about what kind of stuf was going on in the scene.  Have phun.
+
+
+08,01Where'd We Go?:
+
+15,01     00Well, LiGHT has gone through a pretty bad month as far as everything goes.
+00,01Towards the end of April, The CyberRock BBS, the World Headquarters, went down
+00,01due to several reasons personal to me, the former sysop. In a search for a new
+00,01WHQ, Stussy, decided to put up a board that had been setup and ready to go for
+00,01several months.  Probably about two weeks after the opening of the Freeside
+00,01Matrix (Stussy's board).  He came home and found his mother board was fried.
+00,01Hence, the second WHQ was down.  We needed to find a place where all the
+00,01members of LiGHT could congregate, and where all the files for the packet would
+00,01be handled.  A personal friend of mine, TimberWulf, said that he'd be willing
+00,01have his board act as the WHQ until Stussy could fix his mother board.  The
+00,01Wulf's Den, a well established board in the 303 area code, then took over the
+00,01responsibilities of WHQ.  As you can probably see, the members of LiGHT were
+00,01shuffled back and forth a fair amount.  The last member to get on Wulf's Den
+00,01called there on about the 25th of April.  There was a definate communication
+00,01breakdown there.  Anyways, LiGHT has regrouped and is ready to go!
+
+
+08,01LANDSnet:   (Light Artist 'N Distrobution Network)
+
+15,01     00During the process of shuffling WHQ's, a new idea sprung up.  We decided
+00,01to form a net to link all of the Distrobution sites and Affiliated boards
+00,01together so that, in the case of another problem, all LiGHT members could be
+00,01located and told what was going on.  Since then, the net has expaned to all
+00,01Headquarters, Distros, and Affiliates.  So if you are interested in joining,
+00,01and your area code is devoid of LiGHT boards, then give me a call at the Wulf's
+00,01Den, and we will check you out.
+
+08,01Case of the Dissapearing Distros:
+
+15,01     00At one point in time, there were about 6 LiGHT Distrobution sites in the
+00,01303 area code and beyond.  Among these lurked Chemical Overdose (Ansiman) and
+00,01Virtual Utopia (Pluto).  Well, as it turned out, someone in 303 decided to get
+00,01back at the sysops of all the Vision/X boards (of which, COD and VU were the
+00,01only two).  So they used a unknown hack or back door, and deleted 90% of both
+00,01HD's.  Due to this, and other incidents, Ansiman has decided to take down COD
+00,01indefinately.  Pluto, in the true spirit of the Phreak, decided to switch
+00,01software to a less hackable brand, and keeps thoughts of revenge deep in his
+00,01mind.  Not necessisarily due to these events, we will be limiting the number of
+00,01distrobution sites in each area code to three.
+
+
+08,01Where'd THEY Go?:
+
+15,01     00With everyone going down or changing or what not, its pretty hard to
+00,01figure out what the hell is going on.  As far as we know, two groups besides
+00,01LiGHT have gone through several drastic changes.  Below are captures of things
+00,01that I heard about TRiBE and GOTHiC:
+
+15,01     08GOTHiC:
+
+15,01     00Not much has come our way concerning GOTHiC, but from what we understand,
+00,01GOTHiC is no more.  The group kind of fell apart, and no one is currently
+00,01trying to revive it.  One member went to ACiD, and within hours, several more
+00,01had followed.  SiDS has been invited to TRiBE, and he accepted the invitation.
+00,01Several other members were invited to TRiBE, and I am unaware of what their
+00,01responces were.  So, Gothic is no more.

@@ -1,0 +1,80 @@
+15,01Inspector Dangerfuck vs Dr.Silly - Part I
+15,01for The Heretic Asylum +1(404)947-2500
+15,01A Relic production
+
+
+15,01-/- Information -/-
+
+15,01This movie was designed on a 486/33. That is, on other machines, the movie 
+15,01may run slower or faster. If your computer is faster than mine, then I 
+15,01suggest you to turn off the turbo switch before running the movie. In the 
+15,01next releases I'll try to make this compatible with all machines.
+
+15,01To have all the fonts and fade effects, you must have a VGA card. However, 
+15,01if you only have a CGA or EGA, you just have to run the movie in the 
+15,01no-effects mode.
+
+15,01When your bored to wait, just strike any key and the movie will continue. 
+15,01Also, [Esc] almost anywhere will quit the proggie.
+
+15,01If you want a movie from me for your board, then here's how to join me:
+
+15,01  1 -
+15,01    Call on my board, Sarcastic Toaster +1(418)849-0121 or any decent BBS 
+15,01    in the 418/514 areas and leave me email.
+15,01  2 -
+15,01    Go on IRC, join #ansi, #relic or #voodoo and /msg _33, I'm there quite 
+15,01    often.
+15,01  3 -
+15,01    My Internet address is eerie@biko.llc.org.
+
+15,01For a movie I ask $15 US or $20 CDN. Or you can offer me a real big trade. 
+15,01Since this represents a LOT of work, I make no free movies, sorry. :(
+
+15,01If you want to do a VGA font for my next movies, contact me. I will give 
+15,01you a program that does that quite easily.
+
+
+15,01-/- Credits -/-
+
+15,01Design -
+15,01  Scenario -
+15,01    Eerie [Relic]
+15,01    Kamikaz
+15,01  Pictures -
+15,01    Eerie [Relic]
+15,01  VGA fonts -
+15,01    Eerie [Relic]
+15,01  The Heretic Asylum logos -
+15,01    Animal [Corp] *
+15,01    Eerie [Relic]
+15,01    Halaster [Fire] *
+15,01    Pericles [Justice/CiA] *
+15,01    Wiz [CiA] *
+15,01    Zoltar [Slime]
+15,01    * / took from another pic, used w/o permission.
+
+15,01Coding -
+15,01  Main coding -
+15,01    Eerie [Relic]
+15,01  VGA routines and moral support :) -
+15,01    Coluche
+
+15,01Documentation -
+15,01  No really? -
+15,01    Eerie [Relic]
+
+
+15,01Programmed under Borland Turbo Pascal 6.0.
+15,01Eerie's ansi screens designed under TheDraw 4.63.
+15,01Crunched with LZEXE.
+15,01Documentation written using SLED. (da best around)
+
+
+15,01-/- Gr33ts -/-
+
+15,01The bands who played while I was designing this -
+15,01  Bad Religion
+15,01  Eric's Trip
+15,01  L7
+15,01  NOFX

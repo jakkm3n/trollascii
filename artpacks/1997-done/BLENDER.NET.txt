@@ -1,0 +1,63 @@
+15,01hi, warpus here.
+
+15,01i was updating the blender support site list when a cool idea popped into my
+15,01head.  why not start a net to connect all the sponsor boards?  that is EXACTLY
+15,01what the main purpose of blenderNET is, but it is not the only reason that
+15,01it's here.  while blenderNET will be obviously dedicated to the blender, it
+15,01will not be limited to it.
+
+15,01the person running this net will most certainly not be me, as i have no time
+15,01(or experiece:) to pull it off.  who will it be then?  stereo.  he has ran a
+15,01net before, and after it died he really wanted to run another one.  well, here
+15,01it his chance.
+
+15,01if your board is a blender sponsor/distro site, you MUST get this net.  email
+15,01stereo if you are in this situation, and he will get you hooked up asap.  if
+15,01you for some reason can't, or don't want to be hooked up, and do run a distro
+15,01site, email me and we will work things out.
+
+15,01if your board ISN'T a distro site, and you want the net, apply as a distro site
+15,01first.  yes, that means you have to email me :).
+
+
+15,01WON'T IT BE A LITTLE EXPENSIVE TO POLL ONTARIO?!?!
+
+15,01yes it would be.  but not if we do it through email.  there are many great
+15,01programs that can send mail via a pop3 account. the one i like to use it called
+15,01fido2internet.  (this is stereo speaking now btw)
+
+15,01email me if you need more info on fido2internet.  if you run a blender sponsor
+15,01site i will need you to email the following information to me: 1) board name
+15,012) the main phone number  3) your location, and  4) your name.
+
+
+15,01here is a list of the message areas that blenderNET is going to carry:
+
+15,01attribs    filename    description
+
+15,01+e +m +r   BL_NEWS     blender news
+15,01+e +m      BL_ENTR     blender entries
+15,01+e +m      BL_GEN      blender discussions
+15,01+e +m      BL_Q&A      blender questions & answers / suggestions
+15,01+e         BL_ART      art scene related
+15,01+e         BL_TRAX     music scene related
+15,01+e         BL_DEMO     demo scene related
+15,01+e         BL_EMAG     emag discussions
+15,01+e         BL_BBS      bbs ads
+15,01+o +m      BL_OPS      sysop stuff
+
+
+15,01legend          +e = access for everyone
+15,01                +o = access for the bbs sysops only
+15,01                +m = mandatory bases
+15,01                +r = don't let your users post in this base
+
+
+15,01that's pretty much it, thanks for reading.  here are our email addresses
+15,01so that you can get in touch with us:
+
+15,01warpus@skateshop.xg.com  - email about becoming a sponsor/distro site
+15,01stereo@skateshop.xg.com  - email about blenderNET stuff
+
+
+15,01who needs colours? :)

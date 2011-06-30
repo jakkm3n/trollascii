@@ -1,0 +1,80 @@
+
+
+
+
+15,01                     A dissemination of various lies,
+15,01                        misbeliefs, and half truths.
+
+15,01                             By Jack The Ripper
+
+
+15,01        I started out modeming in the middle half of the 1980's, and
+15,01of course, gained my exposure to bulletin board systems through the 
+15,01laughable public domain systems that I thought were amazing at the time.
+15,01I stumbled across my first "pirate" board in late 1988. I picked a one name
+15,01handle and proceeded into my education. I was, quite frankly, amazed at the 
+15,01wealth of information that was available out there. The thing that struck me
+15,01right between the eyes was the concept of the Hacker. What an incredible 
+15,01idea, a rogue computer villain hunched over a computer terminal, hacking his 
+15,01way into the bellies of government computers... That myth was quickly 
+15,01dispelled, as I started reading Phrack, Inc.'s magazine and learned what 
+15,01hacking was all about. Then, before I knew what happened, the LOD/MOD thing 
+15,01escalated into a war, and then Operation Sundevil came down and fucked so 
+15,01many people over. I don't claim to have been in (or be in) LOD or MOD or any 
+15,01hardcore hacking group. However, if you were on any pirate BBS at that time, 
+15,01you really could not help hearing about it. It affected everyone, the really
+15,01good hackers disappeared, and the fair-weather hackers blew away like so many
+15,01leaves in the wind. People all over lost their machines because they had 
+15,01"codes" or utilities, or "questionable material" on-line. People on the 
+15,01periphery of the "underground" were also subjected to scrutiny. Scandal is a 
+15,01shameful thing people, don't ever forget that. Don't ever forget that the 
+15,01government that takes your money would like to see you without any rights, 
+15,01any freedom, any access. Even if you are innocent, in the eyes of our 
+15,01government, breathing is grounds for suspicion. 
+15,01        The years following Operation Sundevil were uncertain, and some 
+15,01people decided never to come back, others grew up, and still others sought
+15,01refuge from their urges in college. In the last year or two, possibly three, 
+15,01literally thousands of hacker-wannabes have practically exploded onto the 
+15,01scene. For someone who kept quiet out of fear (after Sundevil and previous
+15,01busts) this was quite a shock. The brand of precocious, arrogant snipes that
+15,01the publicity from the busts produced was absolutely stunning. It was very
+15,01hard to find quality people who still had the mindset and ethics that the 
+15,01previous generation had. As always, people learn from their mistakes, and 
+15,01we are being more careful now. Everyone else may use LD codes to their hearts
+15,01content, but one thing is true, and don't EVER forget it: If you use codes
+15,01long enough, you WILL get busted. When they bust you, you WILL be fucked. I 
+15,01was in a TCBY the other day talking to an older man about computers when he 
+15,01mentioned that he set up MCI's networks. Needless to say, a shiteating grin
+15,01broke out on my face, and we proceed to talk. He was stunned at the fact that
+15,01I could talk to him on his level about HIS work. He repeatedly asked how I
+15,01knew the information that I did. I said it was a hobby, that I was a 
+15,01Telecommunications Hobbyist. That is what I am. I learn about the telephone
+15,01systems, how they work, and how to manipulate them. If that process involves
+15,01defrauding the telephone companies out of a few bucks that they don't need
+15,01anyway, then so be it. Just because you can set up ToneLoc to scan a 950
+15,01exchange for codes, does not make you a "phreak"; just the same as the fact 
+15,01that playing around on a public UNIX does not make you a "hacker". The whole 
+15,01ethic revolves around information, the acquiring and usage of information. 
+15,01A whole breed of people seem to have missed that whole point. Everyone talks
+15,01shit, but really, they aren't what they pretend to be. They are safe behind
+15,01their terminals, blasting off insults, because a newuser on a particular
+15,01board asked, "What is ANI?" Don't you idiots get it? He wants to learn! He 
+15,01is interested, you must cultivate a curious and inquisitive mind, not insult 
+15,01it. The popularity game is king, who is the most well known, who has the 
+15,01baddest rep. Who can slam the hardest. Well, all of that does not mean shit 
+15,01if you can't tell your ass from your head when you're knee-deep in VMS, does 
+15,01it? So, drop the childish games and either get serious, or get out.
+15,01        In closing, a few words about what I hope the future to be. My mind
+15,01is hungry, I absorb new information like a sponge. I am never sated. The 
+15,01quest for information leads me on a path to better myself, and it does not 
+15,01just improve my "hobby" skills, but also my life skills. I wish that I could
+15,01somehow convey what things used to be like when I was ignorant, lurking in 
+15,01the shadows with barely enough access to read messages; learning, seeing, 
+15,01doing. Finally the light of pity was shown upon me, and I was allowed to 
+15,01download. From there on out, I have never stopped. I have surpassed the 
+15,01people that I once thought were greats in the underground, people who ended 
+15,01up being nothing. I did it not out of superiority, but because of the drive 
+15,01to know, and to do. Those are the most important things a person starting out
+15,01can have. If you posses those things, you will never stop acheiving. You'll 
+15,01crack your first system, you'll drop your first trunk (not so much anymore),
+15,01or you will do whatever interests you. Along the way, you'll pick up the 

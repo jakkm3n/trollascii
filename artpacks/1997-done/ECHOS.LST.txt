@@ -1,0 +1,52 @@
+15,01                   --------------------------------------
+15,01                   $$$$$$$$2222$$$$$2222$$$$$2222$$$$$$$$
+15,01                   $$$$$',a$22$a, ,a$22$a. ,a$22$a,`$$$$$
+15,01                   $$$$$ $$$  $$$ $$$  $$$ $$$  $$$ $$$$$
+15,01                   $$$$$ $$$%%$$  $$$      $$$%%$$$ $$$$$
+15,01                   $$$$$ $$$  $$$ $$$  $$$ $$$  $$$ $$$$$
+15,01                   $$$$$,`2$  $2' `2$%%$2' `2$  $2',$$$$$
+15,01                   $$$$$$$$aaaa$$$$$aaaa$$$$$aaaa$$$$$$$$
+15,01                   --------------------------------------
+15,01            The Uprising Network, The Official Network of R.C./+.
+15,01                    UprisingNet Echo List as of 8/5/96
+15,01------------------------------------------------------------------------------
+
+15,01RCA-NEWS ........................... * RCA Member Only News Echo. 
+15,01 
+15,01RCA-FORUM ..........................   RCA General Discussion.
+
+15,01RCA-MEMCHAT ........................ * RCA Member Only Chat Echo.
+
+15,01RCA-JOBS ............................* RCA Member Only Jobs/Assignments Echo.
+
+15,01RCA-VOTE ........................... * RCA Member Only New Member Voting.
+
+15,01UPR-ANSI ...........................   Ansi Show And Tell Echo.
+
+15,01UPR-ASCII ..........................   Ascii Art Show And Tell Echo.
+
+15,01UPR-CODER ..........................   Coder's Corner.
+
+15,01UPR-JUKE ...........................   Juke Box Chat (Music, Mods, Etc..)
+
+15,01UPR-LIT ............................   Lit And Poetry Show And Tell Echo.
+
+15,01UPR-RIP ............................   RIP Art Chat.
+
+15,01UPR-GEN ............................   General Chat Area.
+
+15,01UPR-SYSOP .......................... ! Sysops Only Echo. 
+
+15,01UPR-VGA ............................   VGA Art Echo.
+
+15,01------------------------------------------------------------------------------
+15,01"*" Indicates Member Only Echos..Only RCA Members are to be given Access
+15,01    to these Areas.
+
+15,01"!" Indicates Sysop Only Echos..Only BBS Sysops are to be given access to 
+15,01    these Areas.
+
+15,01        -=Any Area unmarked is for all BBS users to have access to=-
+15,01------------------------------------------------------------------------------
+15,01-Only R.C./+. Affiliated Boards Will Be Allowed To Carry The R.C./+. Member
+15,01 Only Echos.

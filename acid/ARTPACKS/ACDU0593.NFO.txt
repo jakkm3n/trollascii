@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : April Update     *        May 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0593.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0493 ANS |   5529 | 5.01.93 |%+   | April Members List             |
+15,01*|N/C|ACIDART  APL |   4923 | 4.12.93 |%+   | ACiD Artists Application Form  |
+15,01*|N/C|ACIDCOUR APL |   3440 | 4.30.93 |%+   | ACiD Courier Application Form  |
+15,01*|N/C|ACIDVGA  APL |   2139 | 4.12.93 |%+   | ACiD VGA Request Application   |
+15,01*|2  |AE-DSUN  ANS |  12239 | 4.30.93 |%+   | The Dark Sun                   |
+15,01*|3  |AK-PROP  EXE |  33998 | 5.01.93 |%    | Prophecy Logo (SVGA)           |
+15,01*|4  |CA-ACID1 ANS |   3708 | 4.10.93 |%+   | ACiD Logo                   (1)|
+15,01*|5  |CA-ACID2 ANS |   7744 | 4.24.93 |%+   | ACiD Logo                   (2)|
+15,01*|6  |CA-CCI   ANS |  31813 | 4.12.93 |%+   | Cyber Crime International      |
+15,01*|7  |CA-EMH   ANS |  34338 | 4.12.93 |%+   | Eight Miles High               |
+15,01*|8  |CP-TNT   ZIP | 589748 | 4.30.93 |%AxM+| TNT Demo                       |
+15,01*|9  |DS-POL1  ANS |  13146 | 4.27.93 |%+   | Psychotic Overload             |
+15,01*|10 |EX-PROP  ANS |   4383 | 4.18.93 |%    | Prophecy Logo                  |
+15,01*|11 |FD-HATE  EXE |   7442 | 4.28.93 |%    | Hate Net                       |
+15,01*|12 |FD-WL1   EXE |   9362 | 4.29.93 |%x   | Wish List                      |
+15,01*|N/C|FILE_ID  DIZ |    252 | 4.25.93 |%    | Acquisition FILE ID by Fusion  |
+15,01*|13 |FN-ALNAT ANS |  12568 | 4.11.93 |%+   | Alien Nation                   |
+15,01*|14 |FN-HL2   ANS |  22874 | 4.20.93 |%+   | Highland ][                    |
+15,01*|15 |FX-ACID1 EXE |  68710 | 4.30.93 |%AM  | ACiD Logo w/Vector Spheres     |
+15,01*|16 |IM-TUD   ANS |   9754 | 5.01.93 |%+   | The Utopian Dream              |
+15,01*|17 |IZ-ACID  ANS |   3709 | 4.17.93 |%    | ACiD Logo                      |
+15,01*|18 |IZ-ROSE  ANS |   5670 | 5.01.93 |%+   | Rose Garden                    |
+15,01*|19 |MH-TDT   EXE |  46270 | 4.16.93 |%AxM | TDT Vector Loader              |
+15,01*|20 |MM-DSOC2 EXE |  29630 | 4.29.93 |%A   | Dark Society w/starfield    (2)|
+15,01*|21 |PJ-EVLN  ANS |  30916 | 4.20.93 |%+   | Evilution                      |
+15,01*|22 |RS-APRIL EXE |  49095 | 4.30.93 |%M   | ACiD April Members List Loader |
+15,01*|23 |RS-WOODY EXE | 137382 | 4.17.93 |%M   | Givin Ya The Woody!            |
+15,01*|24 |SC-BTRR  EXE |  16035 | 4.19.93 |%    | Beyond the Realm of Reality    |
+15,01*|25 |SC-SONIC EXE |  12377 | 4.07.93 |%    | Sonic the Hedgehog             |
+15,01*|26 |SK-REICH ANS |  19660 | 4.24.93 |%+   | Reich                          |
+15,01*|27 |TK-ACID  ANS |  62624 | 4.22.93 |%Ax+ | ACiD 1993                      |
+15,01*|28 |TK-AV351 ZIP |  36667 | 4.30.93 |%    | ACiD Acquisition Viewer v3.51  |
+15,01*|29 |TK-ICE   ANS |  57152 | 4.17.93 |%+   | iCE "Brick" ANSi               |
+15,01*|30 |TK-TAD   ANS |  40695 | 4.23.93 |%Ax+ | The Atomic Dustbin             |
+15,01*|31 |VN-MAINS ANS |  16055 | 4.29.93 |%+   | V-X Main Stats Screen          |
+15,01*|32 |VN-XODUS ANS |   2616 | 4.01.93 |%    | eXodus                         |
+15,01*|33 |VS-PROP  ANS |   3090 | 5.01.93 |%    | Prophecy Logo                  |
+15,01*|34 |ACDU0593 NFO |   6322 | 5.01.93 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Adlib/ANSi Music/SB  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

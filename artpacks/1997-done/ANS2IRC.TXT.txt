@@ -1,0 +1,26 @@
+15,01ans2irc 411
+
+15,01intro: 
+15,01        aight gz here, this is a nice lil proggy that will strip the ansi
+15,01        escape code from color ansi/asciis and replaces them with the color
+15,01        code in mirc. 
+
+15,01to use:
+15,01        use the nice lil "/play filename <delay>".. and to complie from mirc
+15,01        do a lil run action.. anyways.. this is the script that i have under
+15,01        popups\menu bar cuz i know yer all lazy people
+
+15,01        best viewed at font terminal size 6, with a decent lengthed nick and
+15,01        the room maximized, 80characters wide will fit on one line so it will
+15,01        look nice nice.
+
+15,01limitations:
+
+15,01        well.. don't flood yourself, so keep the mircscii's to like 8 lines..
+15,01        it all changes depending on server, bots, and all that fun stuff.
+15,01        also all pics may not compile perfectly.. this will be fixed in 
+15,01        future versions.. so hold on.. as for now.. it works pretty nice nice.
+
+
+15,01SAUCE00Mircscii 411                       Gonzo               Surge             
+15,01  19975-11P*  @                                 

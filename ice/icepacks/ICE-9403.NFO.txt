@@ -1,0 +1,61 @@
+00,01What's new in 15m00,15m14,00    00,01m15         m00mm00,15m14,00    00,01mm15      m00,15m14,00 00,01"00,15"00,00  00,01"""""""""00,15"00,01mm
+15,01              "00,15"14,00    00,01"15      m00,15m14,00      00,01""""""00,15"00,01mm  15"00,15"00,01m00,15 00,00    15,01         |00,15|14,00 
+15,01                   m00mm    14,15 14,00     00,01"15        |00,15|14,00  00,01    14,15 14,00    15,01      m00m15m00,15m14,00  00,01|
+15,01               m00m00,15m14,00   00,01    15|00,15|00,00 14   00,01|15        m00,15m14,00   00,01|   14,15 14,00    15,01       "00,15"14,00  00,01"
+15,01              "00,15"14,00     00,01    14,15 14,00     15,01      "00"00,15m14,00    00,01"    14,15 14,00    00,01    15m00m
+15,01               14,15 14,00     00,01    14,15 14,00     15,01              m00,15m14,00 00,01"14,15 14,00    00,01 """00,15"14,00 00,01  15"00,15"00,01m
+15,01               14,15 14,00     00,01    15|00,15|14,00    00,01|15      14,15 14,00 00,01m   15|00,15|14,00 00,01| 14,15 14,00    15,01        |00,15|14,00 00,01|
+15,01               14,15 14,00     15,01     14,15 14,00     00,01mm  15m00,15m14,00    00,01m  15"00"" 14,15 14,00    15,01       m00,15m14,00   
+15,01               14,15 14,00     15,01      "00,15"14,00              00,15"00,01m    14,15 14,00    00,01   15m00mm00,15m14,00    00,01|
+15,01              m00,15m14,00     00,01m15        "00""00,15"14,00     00,01""15       m00,15m14,00             00,01"" 14(tm) 00recently.
+
+00,01  1. 15Uhh Huh-huh, hi.
+
+15,01  002. 15Well lesse, interesting things are happening in the upper ranks of the
+15,01     group.  First off 00Tempus Thales 15is now the honorary president of 00i15CE.
+15,01     He's just such a special guy, and we all love him, sooo, what the hell! :)
+
+15,01 002K. 15Next, is the promotion of 00Syntax Error 15to 00i15CE Senior Staff.  He has worked
+15,01     in getting members, organizing projects, and all that good stuff so he
+15,01     deserves it.
+
+15,01 002X. 15And in the upper ranks of the site list, TSBD (The Texas School Book
+15,01     Depository is now our 00i15CE Trial HQ, and 00Lord Soth 15is now the 00i15CE Trial
+15,01     Director.
+
+15,01  003. 15Many a change has been made to the member & site list.  Too many to list
+15,01     here so, if on of those two involves you then check to see if you are
+15,01     still there.  BTW.. to explain one of the changes, 00i15CE no longer has
+15,01     member boards that only have 00i15CE members as a remote sysop, except in
+15,01     certain circumstances.
+
+15,01  004. 15Well new members galore, lets just go through a quick listing:  00Cardiac
+15,01     00Arrest15, 00Crewel Blade15, 00Gwar15, 00Jocko15, 00Ravage Bias15, 00Spaceman Spiff15, 00Mellow-D15,
+15,01     00Swami15, 00Strife15, 00Tron Powerhouse15, 00Zenith Blitzkrieg15, 00Tyrus Synthius15,
+15,01     00Reaper Wildwood15, and 00Prince of Death15.  *WHEW!*
+
+15,01  005. Sparr15, our last remaining Euro ansi artist decided to stick with his
+15,01     friends and join Corp with the rest of them, his last 00i15CE ansi is in this
+15,01     pack.
+
+15,01  006. 15And last but not least, as you've probably noticed, the iCE Lit has been
+15,01     released in this pack without being inside of it's own .ZIP.  This is
+15,01     because I felt that it was not fair to have the lit in a zip while ANSI,
+15,01     VGA, and RIP were released outside of one.
+
+15,01                                                       00- Metal Head 15[00i15CE] 00Staff
+
+
+00,01  15Greets to:    00Syntax 15- Huh, finally accepted.  Knew you couldn't hold out
+15,01                         much longer. :)
+15,01            00Inquisitor 15- What a Stuf-o-da-Month :)
+15,01                 00Ronin 15- You guys deserved it.
+15,01          00Glenn Danzig 15- Uhh i'll call you once a wekk, promise! :)
+15,01               00iNCUBUS 15- iNKYiNKYiNKYiNKYiNKYiNKYiNKYiNKYiNKYiNKYiNKY
+15,01                 00Pixel 15- Molson "iCE" Beer :)
+15,01             00Dark Wish 15- If Pleasuredome's a bust i'm gonna hunt you down. :)
+15,01             00Doddlebug 15- Thanks for the Prodigy shit.
+15,01               00Rad Man 15- I tried to use my Hamster as a VooDoo doll... Did it
+15,01                         work? :)
+15,01           00CyberChrist 15- You just fuckin' rock man.
+15,01             00Black Ire 15- Thanks for the help guy.

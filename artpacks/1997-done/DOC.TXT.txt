@@ -1,0 +1,80 @@
+
+15,01        ALT-MINUS AND ALT-EQUALS:E SHAREWARE
+15,01                By hitting Alt-Equals you see the next 4 search and responce
+15,01        Strings, and by hitting Alt-Minus you'd decrease by 4.
+
+15,01SPECIAL CHARACTERS AND FUNCTIONS FOR SEARCH & RESPONCE STRINGS:
+15,01INTRODUCTION :
+15,01        THE * CHARACTER:
+15,01                By putting the * character as the first character of thesers
+15,01        responce string, and then followed by a integer between 1 to 15,s,
+15,01        will change all finds of the search string to the correspondingogram
+15,01        color. Such As:t's easy use and simplicity bring it to a different
+15,01level than other term programs, even for the user whom does not wish to use
+15,01                Search String #1[On] :commended to register Fate and receive
+15,01                You Have Died.istered version (See Reg.txt for more
+15,01                Responce String :
+15,01                *4
+15,01------------------------------------------------------------------------------
+15,01                By having this, every time "You Have Died." is displayed on
+15,01        the screen, it will be in Red. The color system is as follows:
+
+15,01                1 = Dark Blue
+15,01                2 = Dark GreenT-D]
+15,01                3 = Dark Cyanos [ALT-M]
+15,01                4 = Dark RedALT-V]
+15,01                5 = Dark Purple-S] 
+15,01                6 = Light Brown
+15,01                7 = Light Grey]
+15,01                8 = Dark Grey]
+15,01                9 = Light Blue
+15,01               10 = Light Green
+15,01               11 = Light Cyan
+15,01               12 = Light Red-------------------------------------------------
+15,01               13 = Light Purple
+15,01               14 = Light Yellow
+15,01               15 = Pure White
+15,01        First you must have a fossil driver installed. I have included
+15,01        THE ~ CHARACTER:is a fossil driver which has been tested with Fate
+15,01                By putting the ~ Character and then an integer value, whenever
+15,01        the search string is found, the place where the "~integer" is in the
+15,01        responce will be relaced by the word on the line that corresponds to
+15,01        the integer. So say you put "~2" then the second word would be placed
+15,01        in there. Such as, say the line that is being searched is "DarkMan
+15,01        has attacked you", and your search and responce was as follows:
+15,01"Fate /Config", this will start fate up but it will bring you to a menu
+15,01                Search String #1[On] :d and com port.
+15,01                has attacked you
+15,01                Responce String :
+15,01                Attack ~1
+15,012) Change Com Port
+15,01                Then Every find of "has attacked you" will grab the first word
+15,01        on that current line. Such as the name, then when the responce is
+15,01        "Attack ~1", it will respond "Attack DarkMan".
+
+15,01        By pressing 1 you will be able to change the Baud Rate, by pressing
+15,01------------------------------------------------------------------------------  
+15,01              completed this, and you have run Fate, you will be brought to
+15,01The dial directory automatically.
+15,01SECTION 6 : TOGGLE BAR [ALT-T]
+15,01------------------------------------------------------------------------------
+15,01        The Toggle bar is used so that the screen will not stop scrolling
+15,01while you are typing something, and when you are finished typing, then you
+15,01can enter the whole sting at once. When the toggle bar is on, then the
+15,01Program macros wlil be saved (refer to program macros, above for moreand BBS
+15,01information). The Toggle Bar is not limited to 80 characters (the screen
+15,01length), once you have reached the end of the screen, then you will be able
+15,01to continue to type, and the string will scroll to the left. You will have
+15,01a maximum of 256 characters per line (See Reg.txt for more information). You-+
+15,01can turn the Toggle Bar On and Off by hitting ALT-T.                         |
+15,01|                                                                            |
+15,01------------------------------------------------------------------------------
+15,01|                                                                            |
+15,01SECTION 7 : BACK SCROLL [ALT-B]one Number                                    |
+15,01|   1) Example BBS           (604)555-5555                                   |
+15,01        Back Scroll is used to view lines that have currently scrolled off   |
+15,01the screen. To View the Back scroll hit ALT-B. To Scroll up hit Arrow Up,    |
+15,01to scroll down hit Arrow Down, to jump up one page hit Page Up, to jump down |
+15,01one page hit Page Down.                                                      |
+15,01|   6)                                                                       |
+15,01------------------------------------------------------------------------------

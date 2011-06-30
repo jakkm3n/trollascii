@@ -1,0 +1,80 @@
+15,01                                04mmmm  mmm  mmmm
+15,01                               14,04 04 14 04,01 04,04  15,01 04mmm 14,04  04,01 14,04 04  
+15,01                               14,04 13#14 04,01 04,04  15,01 14,04 13#14 04,01 14,04  04,01 14,04 13#14 04,01  13w00ps.. sorry its late :)
+15,01                               14,04 04@14 04,01 "" 14,04 04@14 04,01 04,04 14 04,01m14,04 04@14 
+00,01" "" """ """"""""""15"00"""15"00""15"00"15"" 15,04 04@14 04,01 04,04 14 04,01 14,04 13,13#14,04 04,01 04,04  15,01 14,04 04@14 04,01 15""00"15"00""15"00"""15"00"""""""""" """ "" "
+00,01 15" "" """ """"""""14"15"""14"15""14"15"14""" 14,04 13,13#14,04 04,01 04,04 14 04,01 14,04 13,13#14,04 04,01 04,04  15,01 14,04 13,13#14,04 04,01 14"""15"14"15""14"15"""14"15"""""""" """ "" "
+00,01" "" """ """"""""""15"00"""15"00""15"00"15"" 14,04 13,13#14,04 04,01 04,04 14 04,01 14,04 13,13#14,04 04,01 14,04 04 15,01 14,04 13,13#14,04 04,01 15""00"15"00""15"00"""15"00"""""""""" """ "" "
+15,01                               14,04 13,13 14,04 04,01 04,04 14 04,01 14,04 04@14 04,01 04,04 14 04,01 14,04 13,13 14,04 04,01 14n~
+15,01         00CiA Conspiracy 1615     14,04 13"14 04,01 04,04 14 04,01 14,04 13#14 04,01 14,04 04 15,01 14,04 13"14 15,01     00September, 1994
+15,01                                04""""  """  " ""
+15,01                  13Still going... <boom> <boom> <boom> <boom>
+15,01                14+--------------------------------------------- .
+15,01                14:    . 00CiA September 1994 Member Listing 14.15     14:
+15,01                14. ---------------------------------------------+
+15,01                       13* indicates member who does nothing
+15,01                14+--------------------------------------------- .
+14,01 01Napalm isn't   14|15                                              14:  01Napalm isn't
+01,01here this month 14|  15Founder 14.15                        14. 00Trident13~ 14| 01here this month
+01,01 to do the cool 14|  15Senior Members 14.15                  14. 00Napalm  14|  01to do the cool
+01,01hidden greets   14|  15Public Relations 14.15                  14. 00Tron  14| 01hidden greets
+15,01     01:(15         14|  15Lit Coordinator 14.   00Frost Byte 14. 00Mister E.13# 14|15      01:(
+15,01                14|  15Canadian Coordinator     14. 00The Narccissist  14|
+15,01                14|  15Courier Coordinator 14.15         14. 00The Wizard13^ 14|
+15,01                14|  15Senior Courier 14.15              14. 00Pestilence  14|
+14,01 01Napalm isn't   14:15                                              14|  01Napalm isn't
+01,01here this month 14. ---------------------------------------------+ 01here this month
+01,01 to do the cool15       13% indicates somone who likes monkeys15        01to do the cool
+01,01hidden greets   14.---------------- 15ANSi ARTiSTS 14--------------- . 01hidden greets
+15,01     01:(15         14:15                                              14:15      01:(
+15,01                14|  00Adrock13&14.15      00Archaeik13:14. 00Asylum 14.    00Blurr13% 14|
+15,01                14|  00Demon Death13%14.15             00Digital Assassin13^14.|
+15,01                14|  00Flashpoint15       00Frost Byte   The Fugitive  14|
+14,01 01Napalm isn't   14|  00Grim Humor13%14. 00image  Liquid Vision13^14. 00Mandor13#14.|  01Napalm isn't
+01,01here this month 14|  00Maximum Overdose    Minuteman15     14. 00Napalm13% 14| 01here this month
+01,01 to do the cool 14|  00Prozac13*14.15        00Psi-Stalker15       00Scribble  14|  01to do the cool
+01,01hidden greets   14|  00Skitzo 14.    00Sudden Death13^  00Tron15     00Twitch  14| 01hidden greets
+15,01     01:(15         14:  00Vapor 14.15         00White Power13#14.15          00Wiz 13.14:15      01:(
+15,01                14. ---------------------------------------------.
+15,01                      13& indicates a Beastie Boy
+15,01                14+---------------- 15RiP ARTiSTS 14---------------- .
+14,01 01Napalm isn't   14|15                                              14:  01Napalm isn't
+01,01here this month 14|15         00Brett Hart 14. 00Cain13^14. 00Farmicus15         14| 01here this month
+01,01 to do the cool 14:15                                              14|  01to do the cool
+01,01hidden greets   14. ---------------------------------------------+ 01hidden greets
+15,01     01:(15              13^ indicates a law-abiding citizen15                01:(
+15,01                14+---------------- 15VGA ARTiSTS 14---------------- .
+15,01                14|15                                              14:
+15,01                14|15     00Belial  Carrion13#14. 00Drakkhen13@14. 00Minuteman13:  14:
+14,01 01Napalm isn't   14|15     00Questor 14.  00Spanky13^14. 00Telstar13#14.   00ViSiON13^  14|  01Napalm isn't
+01,01here this month 14:15                                              14| 01here this month
+01,01 to do the cool 14. ---------------------------------------------+  01to do the cool
+01,01hidden greets15        13# indicates someone who eats raddishes15      01hidden greets
+15,01     01:(15         14+-------------------- 15LiT 14-------------------- .15      01:(
+15,01                14|15                                              14:
+15,01                14|15        00The Crow13#   00Frost Byte13#14. 00Image15        14|
+15,01                14|15        00Mister E.15       00Psychoskyshark15        14|
+15,01                14:15                                              14|
+15,01                14. ---------------------------------------------+
+15,01                  13@ indicates someone with 'DARK' in their handle
+15,01                14+------------------- 15CODERS 14------------------ .
+14,01 01Napalm isn't   14|15                                              14:  01Napalm isn't
+01,01here this month 14|    00Crimson Overlord13#14.15       00Dark Avenger13@    14| 01here this month
+01,01 to do the cool 14|    00Dark Jester13@14. 00Dark Matter13@14.00Dark Spyre13@    14|  01to do the cool
+01,01hidden greets   14|    00Grim Humor15                00iCE Breaker15     14| 01hidden greets
+15,01     01:(15         14:15                                              14|15      01:(
+15,01                14. ---------------------------------------------+
+14,01 01Napalm isn't15     13~ indicates spam eating psychopathic bi-sexual  01Napalm isn't
+01,01here this month 14+------------------- 15MUSiC 14------------------- . 01here this month
+01,01 to do the cool 14|15                                              14:  01to do the cool
+01,01hidden greets   14|15         00Alley Cat13`14. 00Beaner13`14. 00Carrion13`15        14| 01hidden greets
+15,01     01:(15         14|15          00Cerebral Neurosis13`14. 00Doomsday13`15       14|15      01:(
+15,01                14:15                   00Screwworm13`15                 14|
+15,01                14. ---------------------------------------------+
+15,01                    13` member plays music too loud late at night
+15,01                14+--------------- 15ASCii ARTiSTS 14--------------- .
+15,01                14|15                                              14:
+15,01                14|15        00Carrion 14. 00K-Spiff  Napalm13`14. 00Pliny13:14.   |
+15,01                14|15                  00White Power13:15                14|
+14,01 01Napalm isn't   14:15                                              14|  01Napalm isn't
+01,01here this month 14. ---------------------------------------------+ 01here this month

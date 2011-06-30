@@ -1,0 +1,79 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :   January Update *      March 1st, 1997 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file(s) ACID-55?.ZIP are only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-55   XB |  14526 |03.01.97 |%+   |March Member/Site Listing       |
+15,01*|2  |ACID-56   NFO|   5624 |03.01.97 |%+   |Acquisition Information File    |
+15,01*|3  |ACIDAPP   EXE|  45307 |08.01.96 |%    |ACiD Application Generator V2.1 |
+15,01*|4  |ACIDVIEW  DAT| 125438 |01.01.97 |%    |ACiD View BGI/RIP font data     |
+15,01*|5  |ACIDVIEW  EXE| 122111 |01.01.97 |%    |ACiD View V4.32                 |
+15,01*|6  |ACIDVIEW  NFO|  52511 |01.01.97 |%+   |ACiD View Documentation         |
+15,01*|7  |FILE_ID   DIZ|    546 |03.01.97 |%    |Acquisition FILE ID by {B2}     |
+15,01*|8  |B2-PREVL  ANS|  14572 |03.01.97 |%+   |Prevail                         |
+15,01*|9  |US-NCG2   ANS|  20139 |03.01.97 |%+   |Night City Group                |
+15,01*|10 |AL-HAVEN  GIF| 105741 |03.01.97 |%    |The Haven                       |
+15,01*|11 |VN-GAS    GIF| 129680 |03.01.97 |%    |Gas Chamber                     |
+15,01*|12 |B1-TBG    JPG|  62295 |03.01.97 |%    |The Burial Grounds              |
+15,01*|13 |BN-CSI    JPG| 146263 |03.01.97 |%    |Criminal Society Inc.           |
+15,01*|14 |CS-ABRAX  JPG|  61461 |03.01.97 |%    |Abraxas                         |
+15,01*|15 |CS-BRAND  JPG| 103670 |03.01.97 |%    |Brandished Claws                |
+15,01*|16 |CS-DEVIL  JPG|  91663 |03.01.97 |%    |Devil's Rage                    |
+15,01*|17 |CS-MSRY1  JPG|  88714 |03.01.97 |%    |Misery                          |
+15,01*|18 |EG-ARTPX  JPG| 165330 |03.01.97 |%    |The ACiD Artpacks Archive       |
+15,01*|19 |EG-OCEAN  JPG| 216593 |03.01.97 |%    |The Ocean                       |
+15,01*|20 |J1-SAMA   JPG| 116382 |03.01.97 |%    |Samanlainen Tuijotus            |
+15,01*|21 |PR-ARTPX  JPG| 136665 |03.01.97 |%    |The ACiD Artpacks Archive       |
+15,01*|22 |TH-ARTPX  JPG| 120504 |03.01.97 |%    |The ACiD Artpacks Archive       |
+15,01*|23 |TH-GIRL2  JPG| 136970 |03.01.97 |%    |Two Girls                       |
+15,01*|24 |TH-PIECE  JPG| 188105 |03.01.97 |%    |Fish, Bird and a owl            |
+15,01*|25 |TH-STEPS  JPG| 153912 |03.01.97 |%    |The Steps of th-piece.jpg       |
+15,01*|26 |TQ-GROOV  JPG|  79725 |03.01.97 |%    |Analogue's Groove #2            |
+15,01*|27 |US-ADVR1  JPG|  78911 |03.01.97 |%    |Advoz Advoz Advoz               |
+15,01*|28 |WC-PIXIE  JPG|  96463 |03.01.97 |%    |Pixie Stix                      |
+15,01*|29 |SS-ARTPX  RIP|  27339 |03.01.97 |%    |The ACiD Artpacks Archive       |
+15,01*|30 |WE-WILL   SUE|   1531 |03.01.97 |%+   |ACiD Legal Disclaimer           |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net): 30       Total Bytes: 2,708,691                 |
+15,01|                                      Average Of Bytes/File: 90,290          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

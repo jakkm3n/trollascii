@@ -1,0 +1,22 @@
+15,01Ok, here is the first of the damned Animated ads I'm in the middle of doing.
+15,01Look for the next one, an Atomic Dustbin sprite animation, as soon as I can code
+
+15,01the bastard...
+
+15,01Yea, a FLI, cheesy? Tough, I sat around for a month trying to code it this way
+15,01and that, in ASM and Pascal, and everytime I come up with problems of it
+15,01skipping certain parts...so I did it in a FLI in an hour and got it out. Maybe
+15,01when I can learn to code decently I can actually do it that way, but until then,
+
+15,01live with it! :)
+
+15,01On a good note, I can code sprite animations, and am done with one right
+15,01now....but am having conflicts in memory when I try to do it along with sound
+15,01and an intro ad...as soon as I figure out how to fix this (or get pissed and do
+15,01it another way, heh) you'll see it.
+
+15,01In the meantime, have fun and be sure to call XTC!
+
+15,01The Magical Gangster
+15,01(iCE/NPi/Sinister)
+15,01Sysop: Atomic Dustbin

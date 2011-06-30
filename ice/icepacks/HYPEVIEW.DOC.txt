@@ -1,0 +1,35 @@
+15,01iCE HyperView 1.0b: Notes, etc..
+15,01 
+15,01 - With the advent of such AWESOME original art in higher resolution modes,
+15,01   many conflicts become apparent.  Considering the lack of standards over
+15,01   higher resolution modes, iCE has decided to code a viewing engine that
+15,01   allows all PC users to fully enjoy high resolution art...
+
+15,01 - The simple, but fast and effective routine was written by Renegade Bit-
+15,01   Head, who intended users to be able to scroll through the picture with
+15,01   the use of the numeric keypad or arrow controls.  Basically, the engine
+15,01   is in a very "bare bone" stage, and plans are slated to conistently
+15,01   improve the engine to contain:
+15,01    
+15,01   - A simplified user interface...
+15,01   - MOD / STM Support...
+15,01   - Optional text scroller support...
+15,01   - Automated pathing routines...
+
+15,01 - To use the utility, basically all that is needed is a computer above the 
+15,01   8086 level.  Typing in the executable filename will bring up the art 
+15,01   in a 320 x 240 VGA tweaked square VGA mode that is consistent with proper
+15,01   pixel shapes.  The arrow keys will move the picture in the specified    
+15,01   direction and the '5' key on the pad will halt the current movement. Esc,
+15,01   of course, exits the routine.
+
+15,01 iCE 93' - Syntax Error and Renegade Bithead
+
+15,01 Greets go out to:
+
+15,01 - Tempus Thales, Shihear Kalizad, Vapor, Quazar, Corigan, CyberChrist,
+15,01   Denizen, and all of Syntax's IRC buds... A special THANKS goes out to
+15,01   A-Flat, CyberPunk, and the Prince of Theives for last minute beta testing!
+
+15,01 - Renegade would personally like to greet Folcik, Mikeysoft, and all the
+15,01   guys in #gblf (hehehehehe!)

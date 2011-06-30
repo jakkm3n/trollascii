@@ -1,0 +1,27 @@
+15,01    +          .......+                                      +
+15,01  __________   ::::::::__________.          ____.   ___      |    ______
+15,01 _l________/___:::::::_l________/___ _______l_  (_ _l__\________ _l    |______
+15,01 \|    ____   /_::::::\|    ___\   /_\|    ______/_\|  ./      /_\|    |_.   /_ 
+15,01  |     /    ___\::::::_              :    \l     ___         ___\l____:    ___\
+15,01 #|._  /______/::::::::|_____\________+__________/  :_________/      /_______/#
+15,01    .          ::::::::                                      . (c)             
+15,01    |        ,;:::::::'                                      |       
+15,01    |     . ::::::''`                                        |         .
+15,01    +----/- `+:::...;:::::::::::::::             -    -- ----+--------/-- -
+15,01      __/           ++++++++++++++++                                 /___       
+15,01   .__\\                                                                (__ 
+15,01    |                                                                     |
+15,01    | artist name. sauce description........................ A:\          |
+15,01    | artist name. sauce description........................ C:\          |
+15,01    | artist name. sauce description........................ .            :
+15,01    | artist name. sauce description........................ ..           |
+15,01    : artist name. sauce description........................ filename.ext |
+15,01    : artist name. sauce description........................ filename.ext |
+15,01    | artist name. sauce description........................ filename.ext |
+15,01    | artist name. sauce description........................ filename.ext |
+15,01    | artist name. sauce description........................ filename.ext |
+15,01    ! artist name. sauce description........................ filename.ext !
+15,01 #+-+---------------------------------------------------------------------+-+#
+01,15 bLEACH pEEP v.ONE. aLL rIGHTS rESERVED bY cOMPANY nAME hERE. (sOME cOMMANDS?)  
+15,01>>SAUCE00bleach viewer screen               GUEST(c)            GUEST           
+15,01    1997121600@15*  @                                 

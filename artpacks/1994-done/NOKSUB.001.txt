@@ -1,0 +1,12 @@
+15,01NOK_JUS     Justice Ansi Chat          
+15,01NOK_GEN     nokNet general           <Required>  
+15,01NOK_SYS     nokNet sysops            <Required for SYS only>            
+15,01NOK_NET     net upgrades             <Required for SYS only>            
+15,01NOK_TST     test messages            <Required for SYS only>            
+15,01NOK_DISC    nokturnal mag discussion
+15,01NOK_HPV     H/P/C/V/A
+15,01NOK_ANS     ansi pix and chat
+15,01NOK_BBS     BBS Software Support
+15,01NOK_AD      board ads
+15,01NOK_DEM     demos/Music
+15,01NOK_COD     Coding / Programming

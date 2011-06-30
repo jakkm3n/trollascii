@@ -1,0 +1,40 @@
+
+15,01           14,03 14,09 09,01"09,03"09,01m 01"  m03m09m   01m15     01m15          14,03 14,09 09,01"09,03"09,01m
+15,01           14,03 14,09 09,01 14,03 14,09 09,01 03"09" 03"09,03"14,09 09,01" 03m09,03m09,01""m 03m09,03m09,01"09,03"09,01m15       14,03 14,09 09,01 14,03 14,09 09,01 03m09,03m09,01"09,03"09,01m 14,03 14,09 09,01  09,03 14,09 09,01 03m09,03m09,01""""
+15,01           14,03 14,09 09,01 14,03 14,09 09,01 14,03 14,09 09,01  14,03 14,09 09,01  14,03 14,09 09,01    14,03 14,09 09,01 14,03 14,09 15,01       14,03 14,09 09,01 14,03 14,09 09,01 14,03 14,09 09,01""  14,03 14,09 03,01m09m09,03 14,09 09,01  03"09""09,03"09,01m
+15,01           03"09" 03"09" 03"09"  03"09"  03"09"15     03"09""15        03"09" 03"09"  03"09"""  03"09"03"09"  03"09""""
+00,01--------------------------------------------------------------------------------
+00,01   14Nitro is back for our third and final release.  I would like to thank the
+14,01   following for the last time:
+15,01     14Fizban: Thanks for all the help.  Good luck wherever you are :)
+15,01     14Satan's Jester: Thanks for couriering all the packs.
+15,01     14Reaper: You'd be the workhorse.  Thanks for everything.
+15,01     14Thanatos: You were great when you were around.  Don't lose what you
+15,01               14already have.
+15,01     14Maestro: Kick ass with Nation.
+15,01     14Phaser-X: I didn't mean to go off on you on HM.. Good luck in
+15,01               14Manifest.
+15,01     14Decker: I don't know what you did :) but have a good one.
+15,01     14Nitro Sites: Thanks for helping us out.
+15,01     14Hot Rod: How ere my Lits?  Not too bad I think for my first attempts.
+15,01     14Technophreak: Your an excellent artist.. Don't slack off..
+15,01     14Nemesis: Well, you were here for about 2 weeks.  Thanks..
+15,01     14Sceo: Thanks for the Lits.. Just work on your color schemes :)
+15,01     14Anyone I forgot: Thanks.. :)
+00,01--------------------------------------------------------------------------------
+15,01     14I want to give a big 'fuck you' to all those cut-throat ansi artists.
+15,01     14The scene is really beginning to flal apart.  Why do you all have to
+15,01     14ruin it by bashing people you don't even know?  So what if the group
+15,01     14sucks or whatever, keep it to yourself.  In my opinion, Ansi Art is
+15,01     14just another hobby.  No one in the scene is going to become a
+15,01     14"Professional Ansi Artist."  If you can't really enjoy drawing ansi
+15,01     14or writing literary, then don't do it.  I wasn't around for long,
+15,01     14but for the time I was around, I could see this whole scene slipping
+15,01     14away.
+00,01--------------------------------------------------------------------------------
+15,01         14Thanks to all who supported us (hah).  We didn't want to close
+15,01         14operations but we were getting nowhere.  So, for the final time,
+15,01         14thanks...
+
+15,01                                                 14..Hammer [Nitro Prez]..
+00,01--------------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+15,01Mr. Data
+15,01CHATHD2.PCB
+15,01NOPE
+15,01@X0D
+15,01@X09
+15,013
+15,0102,04:15
+15,01@X04-@X08Av@X0C @OPTEXT@ @X08vA@X04---------------------------------------------
+15,01----------
+15,0102,22:15
+15,01@X04-@X08Av@X0C @OPTEXT@ @X08vA@X04---------------------------------------------
+15,01----------
+15,015
+15,018
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0114
+15,018
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+15,0102-78
+
+
+15,01;---------------------------------------------------
+15,01 Description of lines
+15,011  Sysop name
+15,012  header ansi/pcb file, do not include path.  Put NONE for no header
+15,013  put YES if you want to use faster line clearing (you can't use borders), othe
+15,01rwise it uses slower space fillings to clear lines allowing borders, also allows
+15,01 vertically aligned windows.
+15,014  Top window text color
+15,015  Bottom window text color
+15,016  # of lines to leave displayed at top when scrolling up
+15,017  Position data for top window's id line
+15,01   xx,yy:len  xx = xpos  yy = ypos  len = justified len of user name in OPTEXT
+15,018  Data line for top window's id, put @OPTEXT@ in for the name
+15,019  Position data for bottom window's id line  (same format as above)
+15,0110 Data line for bottom window's id, put @OPTEXT@ in for the name
+15,0111 Top Line # (1-23) for Top window
+15,0112 # of lines for Top window (1-10)
+15,0113 Min-Max horizontal value (1-78) for Top window line 1
+15,01   repeat this for however many lines are setup, or you will get errors in the
+15,01   chatter if not repeated the right # of times
+15,0114 Top Line # (1-23) for Bottom window
+15,0115 # of lines for Bottom Window (1-10)
+15,0116 Min-Max horizontal value (1-78) for Bot window line 1
+15,01   repeat this for however many lines are setup
+15,01>

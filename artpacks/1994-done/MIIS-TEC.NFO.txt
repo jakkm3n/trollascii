@@ -1,0 +1,23 @@
+
+
+15,01There is a group out here in 813 named TechnoCrome, They are a Programming/ANSi/
+
+15,01VGA group, they are also planing on making thier own BBS software.  Recently
+15,01they released a fiel called "PCXUTIL.EXE", this file was derived off of a source
+
+15,01from one of MiiS's ANSi artist, Masterken.  It seems he was talking to Megaton
+15,01Rush ( The maker of PCXUTIL )and Megaton asked him to help him with a pcx code
+15,01in C++, Masterken uploaded him the source to a MiiS loader, so he could look
+15,01at it and get some idea of what to do, It turns out that Megatron changed
+15,01only a line or two of the source, put in an .NFO file saying that he coded
+15,01this PCXUTIL, and it would have been in Asembeler but he was "To Lazy", This is
+15,01Bullshit, the whole program was ripped from a MasterKen source code.  I am
+15,01only telling you this to inform you, and not to ruin Technocrome, it is mainly
+15,01a file to give credit to MasterKen, and not Technocrome.  I have no problem with
+
+15,01Technocrome, or its members, just slightly upset at what Megatron Rush did.
+
+15,01                                             --------------------------
+15,01                                                      Thunder
+15,01                                                 /|/|iiS President
+15,01                                             --------------------------

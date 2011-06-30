@@ -1,0 +1,10 @@
+15,01OK guys, I know there's a few bugs, but I haven't had a lot of time for
+15,01programming this month...  I don't know how much time I'll have next
+15,01month, but many of these bugs should be corrected by then...
+
+15,01To all of you who are eagerly awaiting RIP support in NV...  Unfortunately,
+15,01you'll have to wait a little longer.  I've been working on a RIP unit, but
+15,01because I haven't had much time for programming this month, it has not been
+15,01completed yet.  I hope to get it completed next month.
+
+15,01                                                        MindCrime

@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                          J  U  L  Y     1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Welcome to another edition of what we like to call "Fatty Fatty Fat Fat".
+
+15,012.  Back in March, iCE  proudly announced  that our  guards had  kept  everyone
+15,01inside our grounds in the Everglades.  This  month, we're glad to announce that
+15,01we have  added an additional man to the  post, one hombre  Black, Black  Guard.
+15,01His  ripscript  shenanigans  can be viewed 3:30 to  4:45 on Tuesday  and Friday
+15,01mornings.  Also   punished for  felony  loitering were  Nosegos,  dmp,  and Mr.
+15,01Mister, who returns from the land of  formal titles to show us his new goodies.
+
+15,013.  At the first ever iCECon :: West this month, held  in San Jose, California,
+15,01iCE  members from around the country  met at Chuck E. Cheese's.  Mass Delusion,
+15,01Lord Soth,  Sprite,  Lemonade,  and Degenerit were found  playing in the balls.
+15,01A  6' rat promptly and politely asked  us to  leave  the premises,  preceded by
+15,01"The Little Rat Dance".
+
+15,015.  iCE T-Shirts, once  considered to be the  work of spirits and fairies, have
+15,01been  spotted!  While  they  still  continue  to  be  the  work  of spirits and
+15,01fairies,  the SpriteSilk(tm) is a sexy  new material suitable as undergarments.
+15,01According   to   CNN  Correspondent   Wolf  Blitzer,  there  has  been  a  huge
+15,014'10"-Asian-Canadian-ACiD  member   interest  in  our  new  line  of  clothing.
+
+15,016.  Announcing a  new Artist of the Month(tm), The Knave  proves his  slick and
+15,01skilled  artistic  style  with  a  set  of  new  pieces.  Originally  pen-drawn
+15,01images on  paper, The Knave scans his  work in  and finishes them  with outline
+15,01touch-ups and  coloring.  His art can be browsed quickly, but a closer analysis
+15,01shows intricacies that could be studied for hours!
+
+15,017.  Tim Wallace, who  submitted non-3D  work this  month, was a  proud  gallery
+15,01member  at Computer Graphics World (http://www.cgm.com)!  Check the  front page
+15,01and look  in the  gallery - you'll  find some of  Tim's eye  candy on  display!
+
+15,018.  Sweat,  blood,  and  tears.  Sex,  drugs, and  rock-n-roll.  www,  ice, and
+15,01dot-org.  Remember, the single most impressive scene web site to ever grace the
+15,01status bar  of  a  web browser is  nearing completion.  If  this  wasn't enough
+15,01compelling  hype to  make you visit,  think of Lord Soth in his  tighty whities
+15,01with a BASEketball in his hands.
+
+15,019.  Tornados,  locust  attacks,   floods,  earthquakes,   iCEbergs,   tsunamis,
+15,01hyena  packs,  hardcore  porn,  and jumping out of a plane without a parachute.
+
+15,0110. Coming from  the  Planet  Kill  -9,  Farmicus  sealed  a  deal with  Hasbro
+15,01last  Monday for  a new  line  of G.I.  Joe villians.  Where  Destro once ruled
+15,01supreme, a  new breed  of  ueber-hacker will  be the enemy  now.   Coming  with
+15,01each  haQQQQQor Farmicus action  figure, will be  a coupon towards the purchase
+15,01of a haQQQQQQQQor Roland figure.  While  early marketing  sketches have Roland
+15,01posing  and grunting "About 3 Q's longer than Farmy's!", there is no  official
+15,01word from Hasbro on anything, especially our sanity.
+
+15,013.31^2. Another strong month for the  team spelled i-C-E, marking our continued
+15,01domination  of  the foreign  wool  market  and our $8.1  billion  investment in
+15,01patenting  and  permanently  owning  the  rights  to the ANSI and VGA  formats.
+15,01Once  the  book deal  has  been solidified, look  for us to release  in another
+15,01four weeks!  Beware, WE-WILL.SUE!
+
+15,01Hugs and Kisses, Mass Delusion - iCE Senior Staff
+
+15,01-------------------------------------------------------------------------------

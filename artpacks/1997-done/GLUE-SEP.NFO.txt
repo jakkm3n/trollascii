@@ -1,0 +1,80 @@
+
+15,01                               13#
+15,01                           04 15   14,04#15,01                                    04|
+15,01                         04    15      04#13#15                               04 
+15,01                        04      || 13@@04 15          04#15                    14,04 15,01    04  
+15,01                04#15         04    04,04@04,01m"15    02#12#04 15  04 15   04 15          04#13#15       04|| 01,04#14#
+15,01            04    13@04       13     13,13##15,01      04   15 04#13#04 15   14,04#15,01  02#12#15   04m      mmm||
+15,01            04,15@13,01|04  14,04#04,01 ""  13|||| m"04|| mmm14,04 04,01"14,04 04,01 02 15  14,04@01#04,01m  ||     " mmm14,04 04,01""" 13,04#04,01 |
+15,01         02m15  00,13#13,01|04 "14,04 15,01 02m14,02#15,01 13m00,13#13,01m"14,13 13,01"  13,04#04,01  ""|mm14,04 15,01 14 15 13,13 04,01 14,04 04,01 "m 14,04#04,01| m" 13,04 04@@13#04,01 02 mm 04|04,04@13#15,01 02  15   02 #12#
+12,01 #15   02m12#02"15 04m "13,04|13,01|04#13#14,04#04,01 13 m|14,13 13,01"14,13 13,01|04 02 04 |"14,04 04,01|02 14 04|  01,04#04,01 02 04 13,13 #13,04#04,01|14 04 "14,04  04,01"  || 13,13##04,01| 14,02 02,01|04 13,13##04,01|15 02|14,02 02,01  01,02#14#02,01 
+12,01 || 14,02 12#02,01|15 14,04#04,01| |13,13#04,01"14,04#04,01 | 13|14,13 13,01| |13,13#04,01 14  04#01,04#04,01mm14,04 04,01| 14,04 04,01  13@04 02 04 13,13 14,04 04,01m   m14,04 04,01m13,04#15,01 14 15 04"13|13,13  14 04,01 02|04 |13,13 13,04|15,01  14,02 02,01 m14,02 02,01"   mm
+12,01  14,12 12,01 02|02,02@@02,01 15 04"m|04,04@04,01  ||  "|04,04@04,01m13,04#04,01m  |||||04,04@@@04,01  #13@04  13,04#04,01 "14,04#04,01| m13,04#13,13##04,01  13|  m04 14,13 13,01|04  14,13 13,01"|15 02||14,02 02,01"15 02mm""
+12,01  |12,12  ##02,01|12,02#15,01  14,04 13#04,01""14,04 04,01 15 14,12 12,01|04 14,04 04,01 01,04#04,01"14,04 04,01"14,04 04,01 13,04##04,01  13,13##04,04@04,01| 13#15  04"14,04  13  m13,01m13,13   04,01  13|mm13,13 13,01mm14,13 04,01  13"14,13 15,01  12,02######
+15,01  12m12,12    ##15,01 04#01,04#13 04,01mmmmm   |||m13,04#mmm13,13## 00##13 #04,01|12 14  12 04|"m13,04m13,13 00##13,01mm10,13     ##13,01"""04 14,13 13,01m|15 12,12####   12,01mm
+15,01 12|14,12   12   12,01|15        04"""  14,04 13#04@13,13#13,04"""04,01"13,04|13,13 04,01""13,04|00,13#04,01 14  12 04 |13,04m13,13  00 04,01|13,13 13,01""14,13 13,01"""04  12mmm02 13mm15  12|12,12    14     12,01|
+15,01  12""00,12##12   15,01 04"|04,04@13##14 04,01 12|00,12#12,01|15 13,04##04,01"""  13,13  13,04"14 04,01mm13,04|04,15@04,01  m" |13,13  13,04m00,13#04,01 13,13 13,01mm13,13#13,04# 04,01 14,12 00###12,01|04   mm15 12 14,12  00 ###12,01""
+15,01  12    15 04  |||13,13#04,01 |  12"" 15 04,04@@14 04,01m  13,13  04,01  14,04 04,01""13,04|00,13#04,01m     13,13 13,01"04|04,15@04,01 13,13 04,01  04,04@13  15,01 12"14,12  12,01| 14,04 04,01   14,04 04,01  12"""      
+15,01   12 15   04 01,04#14#04,01m13,04|13,13 13,01mmmmm00,13##13 ##04,01| "m14,04 04,01""""  14,04 13,13 #15,01  04  #13,13 04,01 |00,13#04,01 13,13 04,01  13,04#  04,01|m15   04|01,04#14# 04,01"" 13@@15 02 warpus
+15,01       04#13#15            13,13  04,01|15   04"m   01,04#14#04,01 13""04"""""" |13,04"04,01 15      04 """"01,04#04,01  |    ||
+15,01                             04 #13#15                          13#15  04" mm "
+15,01                                            04glue-sep.nfo
+15,01     13                 15  
+
+04,01 15   04##00,04  n  04,01|00ews 
+
+15,01        04 00 shit. i forgot i had to do this tonite :)so its like 9pm, and
+15,01        00this is the time i told catch i'd be on irc.  so its gonna be a 
+15,01        00little rushed! not much happened this month, school started, so
+15,01        00i know my drawning suffered alot.and it will continue to suffer
+15,01        00for a bit, just until i start neglecting my homework again.
+15,01        00  anyways. fall happened this month too. so happy fall to y'all
+15,01        00that rhymes. i should be like shakespeare or some crud.
+15,01        00  i got paid today. 
+15,01        00  this is warpus'logo,that he gave us our first month.and since
+15,01        00it was never really15 00used, and i loved it, i'm gonna use it 15 00cuz
+15,01        00i love it, as i mentioned above ;) thanks warpus! merry autumn.
+
+15,01    04##00,04  c  04,01|00razy shit
+
+15,01        00  you boys wanna here some crazy shit!?.  here goes. i bought a 
+15,01        00key chain that says"will brake for men" on it. thats some cRAZY
+15,01        00FUCKING sHIT!@#$
+
+15,01    04##00,04  c  04,01|00ool contest
+
+15,01        00  we at glue enterprises have spent longweeks in our headoffice
+15,01        00trying to come up with some cool contest ideas.  here's what we
+15,01        00came up with.
+15,01         00 
+15,01          00its gonna be a guest contest. every month we have a few guest
+15,01        00artists  who draw glue  logos and shit.  well we want to reward 
+15,01        00them with like stuff. :) so now we will be, at least next month
+15,01        00  the rules are really simple. draw  us a wicked logo or pic or
+15,01        00even both and get it to us by october 25th(at the latest). this
+15,01        00will give us a little time to judge and stuff.  joints are acc-
+15,01        00epted. but you can't submit an old  logo that's already been in
+15,01        00the pack before. and it MUST say glue. it can't be a font for a
+15,01        00board saying "guest for glue" on it.  it must be an actual glue
+15,01        00font.15 00that's it.
+15,01        00  the winner will get a special mention,as well as an ansi from
+15,01        00me and catch. and you'll all get at least a header just for par
+15,01        00ticipating. on that i promise. with your submission include the
+15,01        00name of your board. thank you.
+
+15,01        00  contact us on #glue or email us at %%% if you have questions.
+
+15,01    04##00,04  t  04,01|00hanks
+
+15,01        00  thanks to universe for the ultimate diz. and thanks to warpus
+15,01        00for the logo,
+
+15,01        00  i'd also like to thank camp echo for their game of blackjack.
+15,01        00we had to program a game of war in our computer class, and they
+15,01        00all worship me because of the awesome card backs i drew.  and i
+15,01        00got the ideas from your gAME!@! thank you!@!$
+
+
+15,01    04##00,04  w  04,01|00ords from catch22
+
+15,01          00hey, my dad's a fuckup.  i was in the middle of sending  this 

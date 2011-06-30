@@ -1,0 +1,80 @@
+15,01If Dr. Seuss wrote for Star Trek: the Next Generation...
+
+
+
+15,01Picard:         Sigma Indri, that's the star,
+15,01        So, Data, please, how far? How far?
+
+
+15,01Data:           Our ship can get there very fast
+15,01        But still the trip will last and last
+15,01        We'll have two days til we arrive
+15,01        But can the Indrans there survive?
+
+
+15,01Picard:         LaForge, please give us factor nine.
+
+
+15,01LaForge:        But, sir, the engines are off-line!
+
+
+15,01Picard:         Off-line! But why? I want to go!
+15,01        Please make it so, please make it so!
+
+
+15,01Riker:          But sir, if Geordi says we can't,
+15,01        We can't, we mustn't, and we shan't,
+15,01        The danger here is far too great!
+
+
+15,01Picard:         But surely we must not be late!
+
+15,01Troi:           I'm sensing anger and great ire.
+
+
+15,01Computer:       Alert! Alert! The ship's on fire!
+
+15,01Picard:         The ship's on fire? How could this be?
+15,01        Who lit the fire?
+
+
+15,01Riker:          Not me.
+
+
+15,01Worf:           Not me.
+
+15,01Picard:         Computer, how long til we die?
+
+
+15,01Computer:       Eight minutes left to say good-bye.
+
+
+15,01Data:           May I suggest a course to take?
+15,01        We could, I think, quite safely make
+15,01        Extinguishers from tractor beams
+15,01        And stop the fire, or so it seems...
+
+
+15,01Geordi:         Hooray! Hooray! You've saved the day!
+15,01        Again I say, Hooray! Hooray!
+
+
+15,01Picard:         Mr. Data, thank you much.
+15,01        You've saved our lives, our ship, and such.
+
+
+15,01Troi:           We still must save the Indran planet --
+
+
+15,01Data:           Which (by the way) is made of granite...
+
+15,01Picard:         Enough, you android. Please desist.
+15,01        We understand -- we get your gist.
+15,01        But can we get our ship to go?
+15,01        Please, make it so, PLEASE make it so.
+
+
+15,01Geordi:         There's sabotage among the wires
+15,01        And that's what started all the fires.
+
+15,01Riker:          We have a saboteur? Oh, no!

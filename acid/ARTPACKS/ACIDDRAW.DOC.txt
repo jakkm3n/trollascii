@@ -1,0 +1,80 @@
+15,01                      available.
+15,01 +---------------------+
+15,01 | Additional Commands |is key will select the next background color
+15,01 +---------------------+ailable.  |14,15  15,01mm  14,15  15,01m    mmm14,15   15,01|
+15,01                          m |14,15  15,01   14,15    15,01""m 14,15 15,01" m""m ""14,15   15,01m
+15,01 Ctrl-Up            : This key will selected the next foreground color
+15,01 ALT-D             : This menu will allow you to choose whether or not
+15,01                     SAUCE will be attached to the end of the file.
+15,01                     It will also allow you to choose a name, group and title
+15,01                     for your work.  The date, size, dimensions, etc. are
+15,01                     are automatically updated for you when you save.u do
+15,01                     NOTE - Each page is capable of holding an individual
+15,01                            description.n Editor
+15,01 Alt-U              : This key will change the current color to the one
+15,01                     Please see SAUCE.DOC included with the original package
+15,01                     of ACiDDRAW, for more information on the SAUCE format.
+
+15,01 Scroll Lock        : If the Scroll Lock is on, then ACiDDRAW is in a
+15,01 ALT-R             : This command will restore a backed up file onto the
+15,01                     screen.  Before a BLOCK command, the image will be
+15,01                     backed up.  If after preforming a single block command
+15,01                     (i.e Copy, Move, Fill, Load) or a commands such as
+15,01                     delete/insert line, delete/insert column it is possible
+15,01                     to retrieve the image as it was before it was modified.
+15,01                      8 more background colors.  This is a function which
+15,01                Note-This function is partially limited, you cannot undoors
+15,01                     multiple commands, nor can you reverse the undo command.
+15,01                     This function is not available for simple key commands.nus
+15,01                      will change when this mode is activated)
+15,01 ALT-B             : This allows you to select a block and perform functions
+15,01                     on this selected area of screen.  After blocking special
+15,01                     a certain area certain optional are available.nt the
+15,01                             regular blinking effect occur, causing undesired
+15,01                     Copy or Move : Copy allows you to stamp a block multiple
+15,01                                    times onto the screen, Block moves the
+15,01                                    blocked area to a new location. background
+15,01                             colors, please use the program BLINK.EXE included
+15,01                     Flip X/V     : This flips the block horizontally, on/off
+15,01                                    "X" being a regular byte for byte flip,
+15,01                                    while a "V" will flip any ASCII characters
+15,01                                    which have a horizonal mirror image. most
+15,01| Viewing Keys |ls for manipulating ANSI and ASCII text that could be
+15,01                     Flip Y/W     : This flips the block vertically,n these
+15,01                                    "Y" being a regular byte for byte flip,
+15,01                                    while a "W" will flip any ASCII characters
+15,01                                    which have a vertical mirror image.apter.
+
+15,01                     Fill         : Allows you to fill a blocked area
+15,01                                    with either the current foreground,ert
+15,01                                    background, both, or fill the blockedcs
+15,01                                    area with a selected character, with or
+15,01                                    without the current attribute.
+15,01     # 286 processor or better.
+15,01                     Page         : Allows you to paste your block onto as
+15,01                                    separate page, (if another one ishese
+15,01                                    available)nly available to people with
+15,01                      a SVGA or Super Video Graphics Adapter.  This key
+15,01                     Outline      : Allows you to outline a blocked area
+15,01                                    with a single, double, or a mix.
+15,01                                    The selected set determines which ismode,
+15,01                                    drawn, set 1 single line, set 2 double
+15,01                                    set 3 mix, set 4 mix.  The color of the
+15,01                                    outline is determined by the current
+15,01                                    drawing color.ion to a 1024x768x256c
+15,01                      mode, which is only available on a SVGA video card.
+15,01                     Save         : Allows you to save a block, using
+15,01                                    either of the formats.
+
+15,01                     Load         : This command will allow you to load another
+15,01                                    image into the selected area.  Afteronto
+15,01                                    blocking an area, and hitting "L" another
+15,01                                    menu will appear,  which will allow you
+15,01                                    to load another file.  A blocked area will
+15,01                                    show you the area which will be taken from
+15,01                                    the loaded file and placed into the
+15,01                                    image.  Hit "S" to load the image into
+15,01                                    your page.
+15,01 ALT-T              : This key combination will allow you to edit the position
+15,01                     Text         : Several text options are available,-Tab
+15,01                                    such as centering, left justification,

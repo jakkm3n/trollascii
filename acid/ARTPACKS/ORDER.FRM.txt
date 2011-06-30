@@ -1,0 +1,47 @@
+15,01In order to contine releases of ACiDDraw please fill out this registration
+15,01form.  You will receive a registered, and latest version of ACiDDraw along
+15,01with technical support.
+
+15,01--------------[ CUT HERE!  CUT HERE!  CUT HERE!  CUT HERE! ]------------------
+
+15,01     Name:              __________________________________
+15,01     Address:           __________________________________
+15,01     Apartment #:       __________________________________
+15,01     City:              __________________________________
+15,01     State/Prov:        __________________________________
+15,01     Zip/Postal Code:   __________________________________
+15,01     Country:           __________________________________
+15,01     Voice #:           (___) ___-____
+
+15,01     Ordering info
+
+15,01     Number of copies..................[  ] X $20US/$25CAN = _______
+15,01     Sales tax (only in Ontario)................... Add 7% = _______
+15,01     Total................................................ = _______
+
+15,01     * Note: All residents of Ontario must pay PST.
+
+15,01     Comments and/or Suggestions:
+15,01        _________________________________________________________________
+15,01        _________________________________________________________________
+15,01        _________________________________________________________________
+15,01        _________________________________________________________________
+15,01        _________________________________________________________________
+15,01        _________________________________________________________________
+15,01        _________________________________________________________________
+
+15,01--------------[ CUT HERE!  CUT HERE!  CUT HERE!  CUT HERE! ]------------------
+
+15,01     Note:  All information will be kept confidential.
+
+15,01     Send order forms to:   ACiD Productions Canada
+15,01                            P.O. Box 94535
+15,01                            2900 Steeles Avenue East
+15,01                            Thornhill, Ontario
+15,01                            CANADA
+15,01                            L3T 7R5
+
+15,01                     (Please allow 2-4 weeks for delivery)
+
+15,01 NOTE : All registered users may request free updates of ACiDDRAW.  Please
+15,01        contact the authors on how a free update may be obtained.

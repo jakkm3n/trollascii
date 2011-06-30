@@ -1,0 +1,80 @@
+
+15,01 14>> Child, are you listening?
+15,01                                                            00|14,00 08,01|
+15,01         03m15                     03m08m08,03m14,08 #08,01#15           14,00  15,01          14,00  00,01 |08|15      00|14,00 08,01|
+15,01        03"|    08mmmmm14,08  14,00  15,01     03m08,03m09,08 08,03"08,01"08,03"09,08 08,01|15            00|14,00 00,01|   |08|   00|14,00 00,01| 14,00  00,01  00,15|14,00 00,01  14,00  
+15,01       14,08 08,01mm14,08 08,01""""""15         03m14,03  03,01"   08,03|09,08 00,01||14,00 14,08 08,01|03m08mm08,03m14,08   08,01m03m 00"   14,00  00,01   14,00  00,01 |00,00 14 00,01|  15| 00|00,00#00,01|    08##15 
+01,01 14,08 08  08,01mm  03mm15               03|08,03##14 03,01mmmm08,03|09,08 08,01| 14,08   08,03"08,01"03"   "08"08,03"14  03,01m 15|00,00#14 15,01| |00,00#15,01| 15,15@00,00#15,01|00,00#15,01    00,15#15@15,01  14,08   01#14#15,01 
+08,01 08,08 13##  15,01  09"03|   08mm00mm15        08,03#09,08#08,03@03,01|   "08,03|09,08 03,01| 08,03|14,08 09#03,01|15       08"03""" 14,15 00#15,01|15,15 15,01 14,15 00#15,01 |00,15#15,01| 00,15#15,01|  |00,15#15,01|  08|14,08    15,01 
+08,01 14,08 08  14 08,01  14,08 08,01mm14,08 08,01""""""15       03|14,03 03,01m14,03 15,01     08,03|09,08 03,01| 14,03 08"#15,01          |14,15#15,01|14,15#15,01| |14,15##15,01| 14,15# 15,01""14,15 #15,01  14,15##15,01 |  14,08  08,01"14,08 15,01 
+08,01 14,08    08,01m  03mm15              03,03 01wO14 03,01m    14,03 08"03,01| |14,03  03,01|15          00,14#14,15#01@15,01   00,14##15,01 14|00,14#14,01|  |00,14#14,01||00,14#14,01|15|14,15#15,01| 08|14,08 00##15,01 
+08,01#14,08#    08,01  09,03#03,01|15          08mmm00mm 03|"15     14,03  03,01| |14,03  03,01|15          14|00,14#14,01|   || 14,14  14,01    14,14    14,01  00,14#14 14,01  14,08   15,01 
+15,01       08mmmmmmm14,08    08,01"""""""15        03"|08,03#03,01||14,03  #14,01#15          14,14 15,01             14|14,14 14,01|   |14,14 14,01|
+15,01       08"""""15                         03""|15            14|
+15,01         03"15                                          14"
+
+15,01             00There comes a time in life where hearing isn't impaired
+
+
+00,01 15With much speculation and without further  adue, Echo arrives on time keeping
+15,01 our fans on their toes.  First off, apologies where they're due; I'm aware of
+15,01 the  fact that  there were several  errors that  remained  uncorrected in the
+15,01 previous pack (ECHO0197.ZIP) and I personally say "sorry," we are only human.
+15,01 Both positive and  negative comments  were fired towards Echo, which means we
+15,01 are being  recognized either way, which gives us all the more reason to carry
+15,01 on.  And now we submit ourselves to you...
+
+15,01                     03x 08why we are here03, 08and you are there 03::
+
+03,01 151. We try our best to succeed, defy all obstacles that are placed in our
+15,01    path, defeat the purpose of defeat and move on.
+
+15,01 2. No matter how many downs are slammed in our face, we overcome them
+15,01    by erratically replacing them with ups, for we are not swollen by
+15,01    misfortune.
+
+15,01 3. " I did it before, I'll damn well do it again "
+15,01                                                                     - watOr
+
+15,01 4. " When I was with Dark we got slammed, we prospered, and we'll do it
+15,01      again here if we have to "
+15,01                                                              - 4th Disciple
+
+15,01 5. " What I'd do for an internet account and a decent computer... "
+15,01                                                                     - Hexus
+
+15,01 6. " I don't know what the hell watOr wants me to say here "
+15,01                                                                - Black Jack
+
+
+15,01                         03x 08is Echo in the Dark(c) ? 03::
+
+03,01 15No you  bastards, for all your claffs  out there that think there is actually
+15,01 something going on between  these two groups, you  are deeply mistaken.  Both
+15,01 groups are  perfectly alright with each other's presence, and there is no war
+15,01 between Dark and Echo.
+
+15,01 Echo  respects  Dark to the  fullest, and we  are aware of the fact that they
+15,01 dominate  the local  area code.  Why should we  move their  spotlight just to
+15,01 make our own?  Duh.
+
+15,01 I'm sure Dark gives  the same respect back..  perhaps just a little less than
+15,01 what we do *cough* Xypher.  Heh, but nonetheless, the bottom line is:
+
+15,01 There is no war.  If anything, it's like 'mutual respect.'
+
+
+15,01                          03x 08the army: wins & loses 03::
+
+03,01 15Over the past  month (prior to our premiere release) quite a bundle of people
+15,01 have found themselves  swept up by the  current, yet remain standing.  As the
+15,01 group  lives on, so  do the many  new  members.  In no  particular  order, we
+15,01 present the dreaded fists of the northwest:
+
+15,01 09>>00 Ansi Division annoints 09::
+
+15,01 B Love ................................................ comes over from Unit 
+15,01 Burnt ................................................. comes over from Rile
+15,01 Cholera ....................................... is resurrected from the dead
+15,01 Chronicc ..................................... comes over from Fuel and Phat 
+15,01 faCeless ......................................comes over from Blind and Ink

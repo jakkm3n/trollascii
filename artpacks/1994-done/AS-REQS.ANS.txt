@@ -1,0 +1,22 @@
+
+15,01              ""14,15 15,01m    m14,15 15,01m      """14,15 15,01m        """"""    15,15  
+15,01             09,15# 15,01 |09,15#15,01| m14,15  15,01"      09,15# 15,01  14,15  15,01|  09,15# 15,01   09,15# 15,01        09,15# 
+15,01             03,15@09#15,01 09"03,15@@15,01  " 03""09m14,09 09,01m  03,15@09#15,01 ""    03,15@09#15,01   03,15@09#15,01 ""     03,15@09#
+15,01           13" 00,09#03,15@15,01  00,09##15,01 13"" 09m14,09  09,01" 13" 00,09#03,15@15,01  14,09 09,01| 13" 00,09#03,15@15,01 13" 00,09#03,15@15,01 09mmm 13"" 00,09#03,15@09,01mmm 13"""
+15,01          14,04  04,01mmmmmmmm14,04  04,01m 09" 04m14,04  04,01mmmmmmmm14,04 04,01mmmm14,04 04,01mmmmmmmm14,04  04,01mmmmmmm14,04    
+15,01          14,04 04,01""""""""""""""""""""""""""""""""""""""""""""""""""""14,04 
+15,01          14,04 15,01               14TRiBE STUDIOS, LTD15                   14,04 
+15,01          14,04 15,01              00Want an Asriel ANSI?15                  14,04 
+15,01          14,04 04,01  15All ANSI graphics released by Asriel under the    14,04 
+15,01          14,04 04,01  15TRiBE label are provided free of charge to those  14,04 
+15,01          14,04 04,01  15requesting them. To obtain a graphic from Asriel, 14,04 
+15,01          14,04 04,01  15or a sampler of his work, contact him via:        14,04 
+15,01          14,04 04,01  15lblack@genesis.mcs.com / dwe@gagme.chi.il.us      14,04 
+15,01          14,04 04,01  15At this point in time, only requests sent via     14,04 
+15,01          14,04 04,01  15internet email will be honored.                   14,04 
+15,01          14,04 04,01  15If you are requesting an ad, please indicate      14,04 
+15,01          14,04 04,01  15whether you want a logo or picture. Keep in       14,04 
+15,01          14,04 04,01  15mind that Asriel has a life, and requests for     14,04 
+15,01          14,04 04,01  15logos/fonts are more likely to be entertained     14,04 
+15,01          14,04 04,01  15than requests for 200 line shaded pictures.       14,04 
+15,01          14,04 04,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,04 

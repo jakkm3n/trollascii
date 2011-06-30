@@ -1,0 +1,60 @@
+15,01                    "#                                                         
+15,01                      mmm               mmm"#        mmm                       
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "                      
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 15,01                         
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 15,01                         
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m                       
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" -------------------------- 
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO 
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m --------------------- 
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||                      
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"                   
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt                  
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "                         
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@15                            
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "                         
+15,01                           00@15  # "|  #     00@15    "     #                         
+15,01                           14,15#15,01   |m         14,15#15,01       #                            
+15,01                                 00@15         |         .                         
+15,01                                  .       #    .                               
+15,01-------------------------------------------------------------------------------
+15,01                   J  A  N  U  A  R  Y         2   0   0   1                   
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,011.  The rumors that farmy was  caught in Chelsea Clinton's  dorm room wearing a
+15,01    feather boa,  waist-high fishing  boots and a beret are false and we'd like
+15,01    to deny them  right up front.   He was in fact wearing  a German spiked war
+15,01    helmet and not a beret.  Thank-you.                                        
+15,01                                                                               
+15,012.  We'd like to thank  YOU for checking out our pack  this month.   Next month
+15,01    will bring some big changes to the web site, so keep your eyes peeled!     
+15,01                                                                               
+15,012a. Well don't  literally  "keep your eyes  peeled".   It's not like they're an
+15,01    orange or anything.                                                        
+15,01                                                                               
+15,012b. It's just a manner of speech, you see.  Don't hurt yourself.               
+15,01                                                                               
+15,013.  Boy, there really isn't much news this month, is there?  Hrmm... let's see.
+15,01    Oh!  Sprite  had a housefire that  was started by a candle!  The candle was
+15,01    given to her by the loan agent as a house warming gift.   Insert cruel joke
+15,01    here.  Fine, laugh.  Poor Sprite.                                          
+15,01                                                                               
+15,014.  iCE really does kick ass.   Just look at all this art this month.  And then
+15,01    check out tiles.ice.org some more, because it kicks ass too.  And then tell
+15,01    slothy  how much  he  kicks ass,  because he is  just  the coolest.   MD is
+15,01    pretty cool, too, but nowhere near the level of slothy.                    
+15,01                                                                               
+15,015.  See you guys  next month. :)  We'll keep making  the art, you keep  shaking
+15,01    your head  and  saying things  like,  "These  people  have definitely  gone
+15,01    batty."                                                                    
+15,01                                                                               
+15,01                                                                               
+15,01                                                                               
+15,01        -Lord "Bananas" Soth and Mass "Broccoli" Delusion                      
+15,01                                                                               
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion                   
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,01                                                                               
+15,01>

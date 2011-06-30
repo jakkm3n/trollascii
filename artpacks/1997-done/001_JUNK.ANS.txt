@@ -1,0 +1,80 @@
+04,01 
+00,01 15 00     15 00#  15                                                              04flame
+15,01  00#  mmm14,00   #00,01m  15                                                00mm14,00   00,01mm
+00,01 #m14,00  00,01""15   00"14,00  00,01|    15                                           00m14,00# 00,01""15  00"14,00  
+00,01m|14,00 00,01"15 14m15m#   00|14,00 00,01#  15            00mmmm15@00""15  00mmm15            00 15       00|14,00 00,01"15 08#m14,08  08,01m15 00"15@  00mmm
+14,00  00,01#03 00@13,08#00#14,15|14,01 15  00"   15        00mm14,00  00,01""15     08#  15  00""  15       00mm14,00#  15,01@00  #m14,00 00,01|15 08#14,08#08#08,06"13,08 14 #08,01 15  14,00 00,01""15 00" 
+15,01@00"03 15|08,15"@ 14,01#15  00#15  00mmm 15    00m14,00  00,01"15   08#03 08mm08,08 13##08m14#08,01mm15   00"15   00m "  08   15   14#15 00"14,00 00,01#08#@14,08 08#08,06m13,08#08#09,04#08,01@03 08#15 14mmm#15 00#
+15,01 03  15#08,15# 01,01@15  00 15  08#00    "#15  00#"15  14m01,15@15,01m03  08#""@08,08""08,04@08,08m#14 08,01m#   00"08 #mm@10,04#14,08#08,01@#03 14,15"00,14#01,01@14m15   14,08#  08@"14 01 08,01|03 15 00@08,15#m14"00,14#14,01m
+15,01 03  01@14,15#|03,01    08#08,08 09  08#mm08,01mm#15   14m01,15@08m@14#m15,01     06#04"14,08 08 |00#14 08,01@  #m08,08mm08,06"13,08#08"14#08,01"" 03 15"08,15@m14#"15,01#08 |14,08  08m#|14#08,01 15 14|14,15|08"00,08  08,15#14|01,01@
+15,01 03  14|14,15m15,01#03  08m15    08"08,08#"13#08@ #14#08,01@03 00@08,15#08,06"08,15|14|01,01@15       08|08,08 #14 10,04#14,08#08,01@#14,08#09,04#08,08""@08,01"15 08   15 08#15 14,15|08|00,08 08,15#14|08,01 #14,08 09,04#13,08#08"10,04#08,01@15  14|14,15 08m14 00,01@14,15m14,01#
+15,01   08 14"03 15        08|08,08 |m#09 08 08,01|03 14#00@08,15"14m14,14 15,01      04#14,08# 08,01"14,08 00m08,00#14,08 08,01#14,08#08@#13#08#08,01|15  08     15 01@14,15mm00,01@14#08  |14,08 08|||08,01|14m14,15" m00,14#15,01#14"15 08  
+08,01    03    15    08#03 08@08,08   10,04#00,08m#14#08,01#03 15#14""15     04"15   08  |10,04#08,01"  |14,08 08""14 #08,01#  #15 11   08  14"#11   08 14,08 08,01"08,08| 08,01mm#14""15     08 
+15,01     03  08@03  15   08m14,08#00#08,00#00,08m08,00 00,08m15@08,01@15              08 m00,08|m#08,01@##"14,08 08"00m10,04#08,01m@  15 11       08 15 08m|08,08|08,01m14,08## 10,04#00,08mm08,01@m 15   08#
+15,01     08|10,04#14,08#08,01mmmm14,08#00mm08,00    15,01@08"15            08#mm14,08 00m08,00  00,08"14#15,01 08   ""@00,08"08,00# 00,08m14#08,01# 11      08|14,08 08m13#08@08,01"@@"14,08 00"08,00  00,08m08,01m 
+15,01      08"09,08 00mm10,04#00,08#""10,04#00,01"08""#03     15     08# @14,08# 00m15@00"10,04#14,08#08,01"# 11      08  ""@15   11      15 08"14,08#08"00m08,01| m  "14,08 00"08,00 00,08|08,01|
+15,01        08"00"15@08| #03 15                 08 """#15     11      08# @14,08 00m00,01m08#15 11   08L. 11  15 08"00,08||08,01#|   |14,08 15@14 08,01@  
+08,01 15         03 08|15                             11        08#15 08"00,08#"08,01|15 11          08|14,08#08,01| 15 08 15 08@14,08 10,04#00,08 #08,01  
+15,01           08#15    06               15             11       15 08|10,04#08,01@03 08#11         15 08##15  08   15  08 
+
+06,01h 11    13 a04   06  08  15r06      15k06      00l06     00 a 06      00n06      00d06      15e06      15l06      13u06    15  06m
+08,01 15        08# mm14,08 08,04#14,08#08,01# 15               08  15                08 15#
+08,01      m" m""14,08  08,01m "m15   08m15    08# |00,08#14#15,01 08|14,08 08,01@15 08   15  08||15  08 15 08m00,08#14#08,01""08,15"08,01|15 08  mm14,08#08,01"" m15      08@00,08#  #14#08,01@
+15,01     08|14,08 08,01 || |"15 08"14,08 08,01 |# 15 00,08#08,01#"m15 08| 00,08#08,01m 15 08|08,15"14,08#08,01 15 08||15  08||15   08  "m15#08   15 08"15 08 m#15 08 |00,08#08,01@15   08|15 08|00,08#08,01"15 
+00,01.06 00..*15 08"14,08#08,01m"15 08mmm14,08 08,01"m14,08#15,01   00,08 08,01|  m00,08#08,01 00,08 08,01m#15  00,08#14 08,01|m14,08 08,01"#m14,08 15,01         08"m 15   08 ||15 08 14,08 00#08,01|15  08 |15 08||15#08""
+15,01       08#  " |""14,08 08,01m 15          08"""15   08  @15           08 m |00,08#08,01"15  08  |@ 15  08"14,08 08,01m15 08||15 08|#15     08 
+15,01               08  "14,08 08,01mm 15                          08#"" 15     08 | 15     08 "15   08|15   08m"m#
+15,01 08 #15              08 |14,08   08,01m13#15                                 08  15                08"" 
+08,01"14,08#08,01"" 11#m08m00m11#08       m14,08 08m08,04#14,08  08,01|
+13,01"#11 m14,11#11,01m00m"08,11m#10,01@11 #08mm@08,11"14,08     01m08,01 15  06hey!.. you've stumbled across.. what?  another rile
+11,01#  15 11"00"12,00 08,11"11,01"  " 13|08"11m|08,11"10,08#08,11m14,08 08,01|15    06pack?  yeah.  that's right, rile is back.  back, with
+11,01| |15 # 00|11|  m08,11#11,01|04@13m11 "@"14,08# 15,01     06a new atmosphere.  we're not here to "be the best".
+11,01 m" m #15,02@11,01" m# 13|00,13#04,15@13,01m11 14,11 11,01|08#15     06we're not here to "dominate".  we're here simply to
+13,01#m11 " m13,11#11,01""08,11||11,01|# 14,13#00#13,01|11||15 08#15     02create art06 and have a 02far-out06 time.  you know, laid-
+14,13# 00#13,01m11  "m10,02#14,11#11,01"   13"11 m11,02@11,01|15 08|15     06back, with a neat twist.  
+14,13  13,01"15 00m10#15  #  10m#15 14,11#11,01m15 11"15 13|08|#
+00,13##14 13,01m15 00"14,10 #10,01mm14,10  #10,01|15 11"|13#14,13#13,01|08,08#15,01     03======================================================
+13,01"|14,13 13,15m04,01@15 #00,10#14 #00 10,15""15,01"# 11#15 13"15 08,08#08,01@15 08#15  06so far, things are kinda sketchy.  we definately have
+08,01@mmmmm15  "11@15""# 08mmmmmm14,08#08,01#15    06a foundation now.  you're probably asking.  "why?  why
+15,01                          06ANOTHER group?"  i respond with "hey.  why not?" .. 
+06,01it's kinda like this, crackboy.  if you're tired of every other group, of how 
+06,01they're run like GOVERNMENTAL systems, then this is the group for you.  groups 
+06,01shouldn't ever have a 02government06 feeling.  what the hell would picasso say if
+06,01he were around?  he'd probably spit in our faces.  sure.  some would argue the 
+06,01fact that the scene shouldn't even consist of groups at all.  i do believe, that
+06,01that would in fact be the best way to do things, and someday, i hope it will,   
+06,01but i guess you can call this "flame's last chance" at running a successful
+06,01group.  
+
+03,01================================================================================
+06,01i want to bring the artists who don't have their 'foot in the door'15 06together,
+06,01to let 02them06 have a place to show their art, without having to worry about any
+06,01crazy-stupidness that the scene throws at them.  fucking crazy, i say.  crazy.
+
+06,01what the hell is with you people, anyways!  are artists supposed to be the best?
+06,01should they have to worry about if 'somebody likes their work' ?  .. hell no.
+06,01art is for expression, right?  so, let it be!  damn, you people.  but.. who's15 06to
+06,01blame.  
+
+06,01a picture shouldn't have to have a logo on it to make it "art" .. come on, 
+06,01people.  the reason why the scene is the way it is today, is not because of the
+06,01people in it 02:13NOW02:06,02 06but the people in it from the 02start06!  if the ones who 
+06,01started the whole 02:13pack02:06 concept did art for the sake of art, the scene would
+06,01be 02MUCH06 different.02 06 there wouldn't be so much of this "i'm out to be the best!"
+06,01attitude going around.  it's very saddening to see this.  sure, there's probably
+06,01lots of people who see this going around, but how come nobody has spoken up  
+06,01about it?  i know you have the ability!  do it!  talk!  say stuff!  be crazy!
+
+06,01right now, i can only say that there are about 3-4 known people in the scene who
+06,01draw for the sake of drawing.  if you want an example of this, check out diez's
+06,01solo pack, 02:13ZXICA02: 06on ftp.cdrom.com, and my pics in this pack.  hopefully, 
+06,01others will try to put some 02f12e10e00l15i12ng15 06into their art.  express yourselves.  use 
+06,01your imagination.  don't just rip a comic.  what's the point?  it's not your
+06,01art!  it's just a zerox of someone else's art.  sure, you drew it, but you   
+06,01didn't create it.  02your06 feeling wasn't put into it.  go out on a limb.  try the
+06,01rile way! 
+
+03,01==============================09 who are these crazy peopul? 03=====================
+06,01we have a nice and talented cast of individuals with the rile funky-farm.  who 
+06,01cares how good we are!  we're here to produce art, not to succomb to your 
+06,01silly scene-ways!  sure, quality is nice, but it's not what's important.  

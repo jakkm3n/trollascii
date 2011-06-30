@@ -1,0 +1,24 @@
+15,01Y
+15,01Y
+15,010
+15,010
+15,01Defcon 4
+15,01[
+15,01]
+15,01@X07
+15,01@X08
+15,01;                     Rumors Config File for Version 1.2+
+15,01;                ---------------------------------------------
+15,01; Line 1: Add a space between the rumor and the prompt [Y/N]
+15,01; Line 2: Center the rumor on the line [Y/N]                  
+15,01; Line 3: Name of the optional external menu                  0 = None
+15,01; Line 4: Promt to Use with Rumors PPE                        0 = Internal
+15,01; Line 5: Name of the SysOp                                   0 = SysOp  
+15,01; Line 6: Symbol to use at beginning of rumor - Normally [    
+15,01; Line 7: Symbol to Close rumor               - Normally ]    
+15,01; Line 8: Color of Symbols on Line 6 & 7                      0 = Internal   
+15,01; Line 9: Color of Rumor                                      0 = Internal
+15,01;
+15,01; Internal Symbols are [ and ]
+15,01; Internal Symbol colors are @X03 
+15,01; Internal Rumor color is @X0B

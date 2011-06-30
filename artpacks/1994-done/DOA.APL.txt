@@ -1,0 +1,80 @@
+15,01All bullshit aside, this is the DoA application.
+15,01Fill it out, and return it to BrightShadow or Anubis.
+15,01We can be reached on PRoDuCT oF DeSTRuCTioN in PDX at
+15,01(5o3) 257-6957 via EMail.
+
+15,01------------------------------------------------------
+15,01  I.                      PERSONAL DATA / EQUIPMENT   
+15,01------------------------------------------------------
+
+15,01Your Handle   :
+15,01Real Name (First and Last):
+15,01Are You A SysOp Of A Board:
+15,01If So, BBS Name And #     : (   )
+15,01NUP on board if applicable:
+15,01Are you affiliated with any groups or organizations?
+15,01If So, Which Group(s):
+15,01Home Voice Phone Number:                     (   )
+15,01Daytime Voice Phone If Different From Above: (   )
+15,01Data Phone (if applicable):                  (   )
+15,01Your City:
+15,01Your State:
+15,01Your Country:
+15,01Your Age:
+15,01Years Of Experience BBSing:
+15,01Computer Type (Ex: XT, 286-16, 386-25, 486-33):
+15,01Graphics Card & Monitor Resolution:
+15,01Modem Type and Speed:
+15,01Do You Have Any Programming Experience?
+15,01If So, What Languages Can You Program In?
+
+15,01-------------------------------------------------------
+15,01  II.              ANSi/VGA PROFICIENCY / EXPERIENCE  
+15,01-------------------------------------------------------
+
+15,01How long have you been an artist:
+15,01In your opinion, what is the best artwork that you've made?
+15,01What size is the largest ANSi or VGA that you've made?
+15,01How long do you spend making each ANSi or VGA on the average?
+15,01How much art do you think you could produce for DoA per month?
+
+15,01-------------------------------------------------------
+15,01  III.               CODING PROFICIENCY / EXPERIENCE  
+15,01-------------------------------------------------------
+
+15,01What languages can you program in fluently?
+15,01How many loaders have you made?
+15,01How long does it take you to code a loader?
+15,01What types of effects can you code [Scroll, Cycle, etc..]?
+15,01How small can you crunch a loader?
+
+15,01------------------------------------------------------------------------
+15,01 
+15,01         In the following space provided, write a paragraph describing
+15,01 why it is that you would like to join DoA. Be sure it is descriptive,
+15,01 lists references, and fully explains to us why you want to be a member
+15,01 of our group. Also, please include any other talents you have that were
+15,01 not covered in the previous questions. (E.g. .MODs, RIP, H/P/A/C,
+15,01 Courier..) Thanks for your time.
+
+
+
+
+
+
+
+
+
+
+
+
+15,01------------------------------------------------------------------------
+
+15,01 Please send this file along with a sample of your work in .ZIP
+15,01 format. This sample should be a small portfolio of your best work, 
+15,01 containing at least five examples of what you have to offer us. 
+15,01 Upload the .ZIP file via EMail file attachment to BrightShadow or 
+15,01 Anubis. Include as much as you like, but only include your best. 
+15,01 Sending us some technicolor yawn isn't going to impress us, and it'll 
+15,01 just add to the time it takes for us to look through the files. Thank 
+15,01 you for taking the time to fill out this application. Sooner or later, 

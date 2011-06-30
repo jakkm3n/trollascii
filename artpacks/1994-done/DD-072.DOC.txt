@@ -1,0 +1,37 @@
+15,01        A lot of time and effort has gone into the writing of DarkDraw
+15,01        by Techie [Havok] and therefore to have a useful copy you are
+15,01        going to have to register it.  
+
+15,01        Just hit ALT Z for the help screen once you are in the program
+15,01        it has all the commands in it (and hey putting that there doubled
+15,01        the length of this thing so appreciate it :)
+
+15,01        The sole feature that you lack in an unregistered copy is the
+15,01        ability to change the output length.  If you can live with 
+15,01        none of your ansi's ever working over the modem then use it
+15,01        as long as you want without registering.  Also if you register
+15,01        you will get ALL the new updates not just a limited number like
+15,01        some software.  Also all suggestions by registered users will
+15,01        be taken into consideration.
+15,01        
+15,01                Please note that if you are caught distributing the
+15,01                registered version, you will not receive new versions
+15,01                and will lose all other privileges of being a 
+15,01                registered user.
+15,01      
+15,01        If you wish to register now, the price is $20; it will go up
+15,01        to $25 before it's done.
+
+15,01        Features in the works
+15,01                
+15,01                Animation mode
+15,01                Font support
+15,01                Mouse support
+15,01                Configureable Palettes 
+15,01                Different Save formats
+15,01                Smoothing out of interface
+
+15,01        To register contact Sneaky Car Thief on CiPNet, Thunder Net
+15,01        or Valiant Net.  Or Contact Techie via CiPNet.  Suggestions
+15,01        will be taken on CiPNet, or call The Thieves' Guild CiPNet WHQ
+15,01        at 7O8-261-1849.

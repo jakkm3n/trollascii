@@ -1,0 +1,80 @@
+15,01            +-------------------------------------------------------+
+15,01            | CIAMNU PCBoard v15.0 Multi-Menu Selector w/PCB/X v.01 |
+15,01            +-------------------------------------------------------+
+
+15,01Features of CiAMNU v.01
+15,01---------------------------------
+
+15,01*  Allows SysOps to define UNLIMITED amount of menus 
+15,01*  Menus can be classified by security and language
+15,01*  Good looking Forum style PPE
+15,01*  Bug Free - Easy to install
+
+15,01----------------------------------
+
+15,01How to Install CiAMRE v.01
+
+15,01----------------------------------
+
+15,01     Go into you PCBsetup.  Go to the File Locatioans option of the main menu,
+15,01and then goto configuration files.  Highlight the CMD.LST file and press
+15,01F2 to go into editing mode.  The first column defines the key you want to 
+15,01use for the PPE.  I used 'NEWMENU' (minus '') so that when people attempt to 
+15,01change menus, they get this.  Then set the security protection to a level you
+15,01feel nesacerry.  Finally, add the correct path and name of the ppe.  It should 
+15,01look similar to this (if your installing in the same location):
+
+
+15,01                C:\PCB\PPE\CIAMMU.PPE 1
+15,01                ^^^^^^^^^^|^^^^^^^^^^|^
+15,01                Path and  |Actual PPE|Tells PPE that 
+15,01                Dir of PPE|File Name |your running of menu
+
+15,01Now, go into you pcb\gen directoy and edit your BRDM and BRDS menus (or 
+15,01whatever your using as sysop and user menus) and have them read this:
+
+15,01                !C:\PCB\PPE\CIAMNU.PPE
+15,01                ^^^^^^^^^^^|^^^^^^^^^^
+15,01                Path and   |Actuall PPE 
+15,01                Dir of PPE |Name
+
+15,01This display the selected menu to the callers. CiAMRNU is now installed in 
+15,01your system.  For configuration, keep on reading.
+
+
+
+15,01-------------------------------------
+
+15,01How does it do that???
+
+15,01-------------------------------------
+
+15,01        CiAMNU stores each callers menu selection in a dat file that has the
+15,01filename of their record number.  DO NOT erase any of the 1.DAT 2.DAT etc. that
+15,01you see.  CIAMNU reads the number in that file, and displays the file ending 
+15,01with the number of thier selection.  Ahhh! My secret is out.  
+
+15,01-------------------------------------
+
+15,01Setting Up CiAMNU PPE
+
+15,01-------------------------------------
+
+15,01        First, gather together all the menus you want to install into your
+15,01system and rename them into CIAMNU.1 CIAMNU.2 etc. where each file is a 
+15,01seperate menu (ie. Quazors PCB menus i called CIAMNU.1 and Dark Shadow CiAMNU.2)
+15,01. 
+15,01Now, once you have renmaned all the menu in numerical order, edit the MNULST.
+15,01file and create the menu listing that will be displayed to callers.  THE FIRST
+15,01LINE OF MNULST IS THE PROMPT YOU WANT TO USE!!! If you want the internal prompt
+15,01you MUST leave the line blank.  Start the actual menu on line 2.  Dats it.
+
+15,01-----------------------------------
+
+15,01CREDITS, COPYRIGHTS, & GREETS
+
+15,01-----------------------------------
+
+15,01  CiAMNU.PPE and all material included in CiAMNU was coded by Defcon 4 
+15,01Senior Staff & PPE Divisional President [CiA].  Pretty lenthy tittle their eh?
+

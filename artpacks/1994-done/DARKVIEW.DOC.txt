@@ -1,0 +1,80 @@
+
+15,01                         - DarkView version 3.1 -
+15,01If you wish to contact me Call:) Dark, 1994-95 -
+
+15,01 Illusion Island   - Dark WHQ          - (416) 241-8295Epitaph -
+15,01 Rebel Studios     - Dark member board - (905) 825-2623
+15,01 Northern Sector   - Dark member board - (416) 512-9995
+15,01 Unholy Salvation  - Dark member board - (416) ITS-DOWN
+15,01 The Lethal Aspect - Dark Temp WHQ     - (905) INV-ITED
+15,01                    - Documentation by: Mist of Death -
+15,01Updated: Feb. 10, 1995
+15,01>SAUCE00Darkview Documentation             Mist of Death       Dark Illustrated 
+15,01   19950210y$  @@P v                             
+
+15,01HAPPY 1st ANNIVERSARY TO DARK! Februrary 1995 starts off with a bang! Yes, it
+15,01IS Darks first anniversary. And to celebrate this occasion DarkView 3.1 has
+15,01been released which has been improved by a great deal since the last version.
+15,01I am also happy to announce the addition of Sudden Impact and Epitaph to code
+15,01DarkView and take some pressure off me. The improvements in this version were
+15,01the ideas of both these renowned coders. The new INI configuration has been
+15,01coded by Epitaph whereas Sudden Impact helped me fix some minor bugs and some
+15,01major bugs here and there. Sudden Impact also coded the BIN viewer. The
+15,01following has been added to DarkView 3.1:
+
+15,01 VGA/SVGA viewing modes for ansi(s)
+15,01 INI file configuration for DarkView with Interface
+15,01 BIN support
+15,01 Improved speed of GIF and PCX viewing
+15,01 Command for switching interfaces
+15,01 Some bug fixes here and there
+
+
+15,01DarkView 3.1 *REQUIREMENTS*
+15,01 # 386SX or higher HIGHLY recommended
+15,01 # 500K+ of conventional memory recommended
+15,01 # VGA Card very HIGHLY recommended (SVGA card required for Hi-res VGA's etc.)
+15,01 # Approximately 140K of Hard Drive Space
+15,01 # DARKVIEW.EXE REQUIRED :)
+
+
+15,01DarkView 3.1 Features:
+15,01 # First Viewer with a VGA interface
+15,01 # Text Interface support
+15,01 # Complete ANSI support, no ANSI driver required
+15,01 # ANSI Scrollback Supporting 3000+ line ANSI's
+15,01 # File listing menu with supporting 3000+ files in one directory
+15,01 # VGA 320x200, 640x400, 640x480, 800x600, 1024x768 256c ANSI viewing mode
+15,01 # VGA 320x200, 640x400, 640x480, 800x600, 1024x768 256c ANSI Slide Show
+15,01   w/ automatic Scrollback
+15,01 # Complete ANSIMation support in text & VGA modes
+15,01 # Auto GIF, PCX detection routines
+15,01 # Complete GIF support all modes
+15,01 # Complete PCX support all modes
+15,01 # Complete BIN support in Text AND VGA 320x200x256 modes
+15,01 # Complete iCEColor support
+15,01 # GreyScale support
+15,01 # Complete SAUCE support
+15,01 # INI configuration
+15,01 # Ansimation for VGA and text mode
+15,01 # Complete RIP support (no, not by Cap'n Crunch :)
+15,01 # File Mask's etc.
+15,01 # Compact size (smaller than ACiDView)
+15,01 # Command line support
+15,01 # Multitasking aware
+15,01 # Memory Allocation
+15,01 # Supporting all Dark member names
+
+
+15,01Future Plans for DarkView:
+15,01 # More Memory available
+15,01 # XMS memory usage
+15,01 # Complete BIOS detection routines
+15,01 # and much more...
+
+
+15,01- VGA/Text Interface -
+
+15,01  Well as far as I know this is the first Viewer with a VGA interface.
+15,01I thought of the idea and decided to work on it, and as time passed, I got
+15,01comfortable with it. So here is something new which other viewers do not have.

@@ -1,0 +1,20 @@
+
+15,01                                                      `   `   `           `
+15,01            warpus - the king of old school ascii     .   .   .           .
+15,01,-----*   *------------------------------------------ : - :   :-----------:
+15,01 \,   |---|   _____                  ___         ___  | _ |   |__ _   .   |
+15,01  |   :   :   |           '   ,---|   |   `       |   |   |   |       |---|
+15,01  |           |           .   |   |___|   .   |   |   |   |   |---|       |
+15,01  |     .     |     \     :   |       |   :       |   |   |   |   |       |
+15,01  |   ,/ \,   |\,         |   |       |   |\______|    \./    |          /
+15,01  |__/     \__| `\________|___|       |___|       |\_________/ ---------'
+
+15,01   this is a header for warpus to use for any old school ascii pics that he
+15,01   may feel like doing in the future!!
+
+15,01   oh man, i'm gonna pay for drawing this.. =)
+
+15,01   quip (lazarus)
+
+15,01>SAUCE00warpus loves old school ascii      quip                lazarus          
+15,01   19970827t*  @                                 

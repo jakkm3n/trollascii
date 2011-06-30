@@ -1,0 +1,50 @@
+
+
+15,01              00,15mmm 00,01#
+15,01         00mm14,00       00,01#  m 14,00 00,15mmm 15,01        |00,15mm 15,01mm  |00,15mmm15,01|    00mm14,00  00,15m 15,01mm    00mm14,00  00,15mmmm 15,01#
+15,01        00,00#14   00,01" 14,00    00,01#   "00,00#14   00,01| 11#### 00"14,00 00,01m14,00   00 00,15m15,01  #14,00   #00,01   14,00    00,01" 14,00  00,15m 15,01  14,00    00,01" 14,00   #15,01#
+15,01       00|14,00   00,01|  """"  ## |14,00   15,01        00|14,00      00,01| 15#00|14,00  #00,01| |14,00   00,01|  00,00#14   00,01||14,00   00,01|  """"
+13,01Sliver 00"""""""14,00    00,01m   m14,00   00,01| "14,00    00,01mm14,00   00,01||14,00  00#15,01   14,00   00#15,01 14,00    00,01""""""" 14,00   00#15,01 13SliverSliver
+15,01       00|14,00   00,01   |14,00    00,01|m"|14,00   00,01U? |14,00    00#14   00,01  14,00   00,01|  |14,00        00,01# |14,00   #00,01|14,00  00 00,01|
+15,01     11# 14,00  10,10#10,01|  m14,00  # 00,01"14,00 00,01| 14,00  10,10#10,01|  m14,00  # 00,01"14,00  10,10 10,01|  00|14,00   00,01m m14,00        00,01# |14,00      10,10 10,11"
+15,01     11#00|14,00 14,10 10,11m10,01"""""00"#    |14,00 14,10 10,11m10,01"""""00"# |14,00 10,10 10,11m11,01#   10""10,11"00,01m14,00#   00,01"14,00  14,10 10,11m10,01"""00""" 14,00# 10,10 14#10,01|11#
+15,01     11######15                                  10"00"   11####    #########
+
+
+00,01sliver packet number two
+
+15,01        11hello, unique phreak speaks... .
+
+15,01                11hey, i dont know whats with this pack. its late coming out
+15,01          11not that you care, god dammit. and its rather fuckd. oh well
+15,01             11im suprised that there arent that many ansi's. geez....
+15,01                  11where the hell is sadistic, draw more, draw more.
+15,01             11we added an application this month, for all you sliver fanz
+15,01       11to apply. next month we are supposidivly having one coded. i like
+15,01                   11mine better. well im sure you do to. =).
+
+
+00,01new people with tha sliver
+
+15,01       11hello, we welcome da drug?
+
+15,01               11he's the founder of misery and an ansi artist for fuel
+15,01         11whyd he join? he says that he wants to release his shitty stuff
+15,01                             11with us, mother fucker.
+
+
+00,01last wordS from tha sliver
+
+15,01       11hello, unique phreak ends
+
+15,01                11well, short information file, if you wanna call it that.
+15,01             11all the group members were supposed to write a little something
+15,01                             11but no they did not. =)
+11,01oh well
+15,01              11we hope you enjoy this pack. cause this is tha sliver.
+
+
+02,01--------------------------------------------------------------------------------
+02,01  12not really tha sliver. information file by 7up. 04/08/97. sliver productions
+15,01>SAUCE00information file for sliver II     tha sliver          sliver           
+15,01   199704 8*                                     

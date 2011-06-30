@@ -1,0 +1,60 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 2/1/1999
+15,01###############################################
+15,01ice-9901.nfo,ANSI,iCE 99/01 Info File,iCE Senior Staff
+15,01ice-9901.mem,ANSI,iCE 98/01 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01co-mush.ice,ANSI,Mush,Cooly
+15,01eq-vee2.ice,ANSI,V2,Egoteq
+15,01qp-drg1.ice,ANSI,Dr Ganja,Quip
+15,01qp-drg2.ice,ANSI,Dr Ganja,Quip
+15,01qp-idle1.ice,ANSI,Idle Dreams,Quip
+15,01qp-lv1.ice,ANSI,Lethal Vengeance,Quip
+15,01te-void1.ice,ANSI,The Void,Tetanus
+15,01tg-s200.ice,ANSI,Seek 200,Toon Goon
+15,01ti-cm666.ice,ANSI,Crytical Mass,Trip
+15,01ti-cmas4.ice,ANSI,Crytical Mass,Trip
+15,01ti-sex.ice,ANSI,Sex,Trip
+15,01us-arts.ice,ANSI,For Art's Sake,Multiple
+15,01us-hothr.ice,ANSI,Hoth,Multiple
+15,01us-void.ice,ANSI,Void,Multiple
+15,01gs-grape.ice,ANSI,Grape,Grindstone
+15,01qp-9901.ice,ANSI,Logos 99/01,Quip
+15,01ti-cmas5.ice,ANSI,Crytical Mass,Trip
+15,01us-drg.ice,ANSI,Dr Ganja,Multiple
+15,01v9-ice3.ice,ANSI,iCE,Vade79
+15,01bg-id01.rip,RIP,Idle Dreams,Black Guard
+15,01bg-idled.rip,RIP,Idle Dreams,Black Guard
+15,01dg-souls.rip,RIP,Souls,Degenerit
+15,0188-eschr.jpg,EXTERNAL,Eschr,Root 88
+15,0188-etanr.jpg,EXTERNAL,Etanr,Root 88
+15,0188-evolv.jpg,EXTERNAL,Evolv,Root 88
+15,01di-egfb.jpg,EXTERNAL,Egfb,Digital Interface
+15,01dm-mercs.jpg,EXTERNAL,Mercs,Darkmage
+15,01dm-reign.jpg,EXTERNAL,Reign,Darkmage
+15,01dm-sctr4.jpg,EXTERNAL,Sector 4 Recordings,Darkmage
+15,01dm-unspk.jpg,EXTERNAL,Unspk,Darkmage
+15,01dv-cinem.jpg,EXTERNAL,Cinetropic,DaVinci
+15,01dv-pclgo.jpg,EXTERNAL,Phrozen Crew,DaVinci
+15,01fb-bed.jpg,EXTERNAL,Bed,Funbaby
+15,01fb-pile.jpg,EXTERNAL,Pile,Funbaby
+15,01hf-tid1.jpg,EXTERNAL,Tid,Hfaze
+15,01hf-tid2.jpg,EXTERNAL,Tid,Hfaze
+15,01hf-tid3.jpg,EXTERNAL,Tid,Hfaze
+15,01ja-trees.jpg,EXTERNAL,Trees,Jae
+15,01lo-skunk.jpg,EXTERNAL,Skunk,Leonardo
+15,01lo-tree.jpg,EXTERNAL,Tree,Leonardo
+15,01mi-thght.jpg,EXTERNAL,Thought,Mongi
+15,01nf-world.jgp,EXTERNAL,World,Necrofiliac
+15,01rk-villg.jpg,EXTERNAL,Village,Roadkyll
+15,01ss-lions.jpg,EXTERNAL,lumis.com,Steven Stahlberg
+15,01te-escpe.jpg,EXTERNAL,Escape,Tetanus
+15,01te-inten.jpg,EXTERNAL,Intense,Tetanus
+15,01te-sp666.jpg,EXTERNAL,Sp666,Tetanus
+15,01te-unkwn.jpg,EXTERNAL,Unknown,Tetanus
+15,01tw-greet.jpg,EXTERNAL,Greet,Tim Wallace
+15,01tw-hostg.jpg,EXTERNAL,Host,Tim Wallace
+15,01tw-romp.jpg,EXTERNAL,Romp,Tim Wallace
+15,01tw-tresp.jpg,EXTERNAL,Tresp,Tim Wallace
+15,01tw-warp.jpg,EXTERNAL,Warp,Tim Wallace
+15,01ve-hippy.jpg,EXTERNAL,Hippy,Vesalius

@@ -1,0 +1,65 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 5/2/1995
+15,01###############################################
+15,01ar-erebs.ice,ANSI,Erebus,Argon
+15,01ar-ets.ice,ANSI,Eternal Silence,Argon
+15,01ar-oblq.ice,ANSI,The Obelisque,Argon
+15,01ar-pm.ice,ANSI,Perpetual Motion,Argon
+15,01at-hevn3.ice,ANSI,Heaven,Aphex Twin
+15,01az-ice2.gif,ANSI,iCE Promotional,Azagoth
+15,01az-sh2.gif,GIF,Stealth Hangar,Azagoth
+15,01bn-ice3.gif,GIF,iCE Promo,Borian
+15,01boa-nn1.ice,ANSI,Neo Nacho,Boa
+15,01ck-ftr1.ice,ANSI,forgotten things remembered.,chromatik
+15,01ck-hack1.ice,ANSI,da hack shack?! ..,chromatik
+15,01ck-huma2.ice,ANSI,hUmahuma!,chromatik
+15,01ck-rel1.ice,ANSI,release.,chromatik
+15,01ck-zzzz1.ice,ANSI,Combination Fonts,Chromatik
+15,01co-pan1.ice,ANSI,The Pantheon,Cooly
+15,01fc-tri.jpg,JPEG,Trycycle Clothing,Falic
+15,01fc-vr.jpg,JPEG,iCE Promo,Falic
+15,01gj-dvoc.jpg,JPEG,Disembodied Voices,Gaijin
+15,01gj-eqnx.jpg,JPEG,Equinox,Gaijin
+15,01gj-icom.jpg,JPEG,Ill Communication,Gaijin
+15,01hl-dist.ice,ANSI,Distorted,Hannibal Lecter
+15,01hm-misry.ice,ANSI,Misery,HandyMan
+15,01ice-9504.mem,ANSI,04/95 Active Memberlist,iCE Staff
+15,01ice-9504.nfo,ANSI,04/95 iCE Info,iCE Staff
+15,01ice-9504.sit,ANSI,iCE Distrobution Sites,iCE Staff
+15,01ice-9504.sts,ANSI,iCE Stats,iCE Staff
+15,01iceview.doc,ANSI,iCEView Documentation,Friar Tuck
+15,01iceview.exe,EXE,The Viewer,Friar Tuck
+15,01in-pan1.jpg,JPEG,The Pantheon!,Incubus
+15,01iso-hg.ice,ANSI,sleepwalker's hangout,isosceles
+15,01iso-ldu.ice,ANSI,sq2's deep umbra,isosceles
+15,01jm-dragn.jpg,JPEG,Dragon Room,Jamie McCarter
+15,01jm-prtal.jpg,JPEG,Portal Room,Jamie McCarter
+15,01jm-sbmrg.jpg,JPEG,Submerged Lighthouse,Jamie McCarter
+15,01jm-wrmup.jpg,JPEG,Night Club,Jamie McCarter
+15,01lc-distm.ice,ANSI,Distorted Mag,Lord Carnuss
+15,01lc-revlt.ice,ANSI,Revolt,Lord Carnuss
+15,01lo-pbf.ice,ANSI,Primal Bloodfest,Leonardo
+15,01lo-queso.ice,ANSI,Questo,Leonardo
+15,01ls-wall3.ice,ANSI,The Wall,Lord Soth
+15,01nc-sanc1.ice,ANSI,Sanctuary(tm),Neurotic
+15,01nd-evil1.gif,GIF,Evil Intentions,Nuke Dawg
+15,01pv.exe,EXE,Secondary Viewer,
+15,01sb-io1.gif,GIF,Ummmmm...,Sober
+15,01si-mayo1.ice,ANSI,Mayo,Spirit of Illusion
+15,01sq-cga.gif,GIF,iCE Logo,SQUidGAlAtOR ][
+15,01sq-spawn.ice,ANSI,Spawn Une         80x50,SQUidGALAtOR ][
+15,01sy-lsd.bin,BIN,LSD,Shaggy
+15,01td-ufo1.jpg,JPEG,UFO,Tonedef
+15,01tg-dii1.ice,ANSI,Dungeon 2,TooN GooN
+15,01tg-gz2.ice,ANSI,Ground Zero,TooN GooN
+15,01tg-sone1.ice,ANSI,System One,TooN GooN
+15,01tg-tst1.ice,ANSI,The Sarcastic Toaster,TooN GooN
+15,01tr-combo.ice,ANSI,combination fonts,turtle
+15,01tr-icexp.ice,ANSI,the ice experience,turtle
+15,01tr-pg.ice,ANSI,The Power Grid,Turtle
+15,01tr-tgm.ice,ANSI,The Grey Matter,Turtle
+15,01tr-tt.ice,ANSI,terminite terrace,turtle
+15,01us-carnl.jpg,JPEG,Carnal Infatuation,Nttk & CG
+15,01us-pg1.ice,ANSI,Power Grid (<- gets too many ansis),Nailz/Neurotic
+15,01us-sanc1.ice,ANSI,Sanctuary,Asphixia/LS
+15,01xt-pgrid.jpg,JPEG,The Power Grid,Xten

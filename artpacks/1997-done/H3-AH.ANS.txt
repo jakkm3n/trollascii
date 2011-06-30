@@ -1,0 +1,72 @@
+
+
+
+15,01                                         .cQNNNNNNNNNNNNNNQc.
+15,01                                         NN:              :NN
+15,01                      00 ++++yyyynnNNNNNN:yyy+++ 15            ""
+15,01      00  +++++yyynnnNNNllNNNNN:   NNNNNN:NNNNNN 15   00 NNNnnn:lNNNNNnnnnn++++ 
+15,01      00 :NNNNNl   lNNNNN:NNNNNl   +++nnn:NNNNNN: 02 00 :+++NNl:NNNNNl   lNNNNN:
+15,01      00 lNNNNN:   :++nnn lNNNNN+yyyy###llNNNNNNyy++++,,,,:lNNNNN:   +++NNNl
+15,01      00 lNNNNN+++yy###NNN:nnnn""``NNNNNl````"""2222++++Nl NNNNNNyy+++++,,,_
+15,01      00 nnnnn""""  ``` 15        00yyyNNNNNuu15 mm                02 00`````"""nn+++N:
+15,01                              00   NNNNN 15  NN 00h715             mm
+15,01       11aqua15 - under water 11love15           NN._            _.NN
+15,01                                         `2++++++++++++++++2'
+15,01  00  
+15,01  00                   02..mmaaNNNNNNNNNNaamm.
+15,01 00                  02mNNN12NNNNNNNNNNNNNNNNN02NNE
+15,01 00                 02NN12NNNNNNNNN02NNNNNNNNNNNNNNH3
+15,01 00                02:N12NNN11NNN12NNN02NNNE2"~00    08    15 
+15,01 00     02mmmNNNNNNNmNN12NN11NNNN12NNN02NN:00  13mNNNNNN08N14N:15 
+15,01 00 02.mNNN12NNNNNNNNN02NNN12NN11NNNN12NNN02NI 00 13:N   :NN08N14N:15     11HO THREE= darn12HECK11damn
+15,01 02.NNN12NNNNNNN02NNNNNNN12NNN11NNN12NNN02NN:11 13:NNmmNNN08N14NN
+15,01 02iNNNNNN+++222211 02:NNN12NNNNNNN02NNNNe15 13NN15NN13NNN08N14NN08 15 02mmmmmmmmm12mmmmmmmmmm11mmmm10mmmmmmmm00mmmm
+15,01 02NNN2''15 03  ..mmm15 02 7NNNNNNNNNNNNN215 13N15NNNN13NN08N14NN:08 03mmmmmmmmmmmmmmmmmmm15  11++10++++++++00++++
+15,01    03 .mCCNNNNNNm15  02~22++++22"~15    13NN15NN13NNN08NN14N:08 03:NN09NNNNNNN03NNNN7+2"~15 14mNN04NNNN13NNNN08NNNN
+15,01 00 03.CN09NNNNNNNN03NNNN15 02 08mmm13mmmmmmNNNNNNNNN08NNNNN14NN08 03:09NNN00NNN09N00NN09NN03I' 02  mmm12mmmm11mmmm10mmm00mmmm
+15,01 03:NN09NN00NNNN09NN00NN09NN03N:02 08:NN13N15NNNNNNNNN13NNN08NNN14NN08     03NN09NNNNNNNNN03NI 02 +++++12++++11++++10+++00++++
+15,01 03:NNN09NNNNNNNN03NNNNi02 08:NN13NN15NNN13NNN08NNNNNN14NN15  03::NNNNNNN09NNNNN03NNNNb.15  14++NNN04NNNN13NNNN08NNNNN
+15,01 03 `NCNNNNNNNNNNNNl02 08 NN13NNNNNN08NN14N15       03::NNNNNNNNNNNN+"~  ~"+Nmm15 03  02m12mmm11mmm10mmm00mmmm
+15,01 03    ~22++++++++++02 08 NN13NNNNNN08N14NN15 03 +++++++++++++++++N' 02++++++03 `+i15 02.++12+++11+++10+++00++++
+15,01   14NNN15  14NNNNNNNNNm15  08NNNNNNNNN14NN15 03 14N04N14NNN04NN14NN04NNCC+m.15   04wNN13NN04N13NNm..mNN08NNNNNNNN00NNNNNN
+15,01   14NNNNNNNN15 14  mNN+15   14            N04N14N15        04~`NNNm._ 15  04,m13@08NN13N@04m.
+15,01   14NNN15  14NNN15 14mmmNNNNNNNNNNNNNNNNNNN04N14N15          04NN+2~15 04  dN13NN08@@13NN04NN 02_________
+15,01            14+++++'15                04 15           04NN._,,mNNN14,04@13,01NNNN14,04@04,01N7 15 02~27NNNNN
+15,01                                  04 15           04N++++NN~"+NNNNN+'15     02:N12NN02NN
+15,01        :   12.......................15   04:15  04:15    04N:15  04:NN15    04N15 04   15    02_.dNNNNN
+15,01        i  00 +++NNNNNNNNNNN09NNNNNN03NNN15 04:15 04iNNiNmmmm 15 04:NN:15    04N  15     02NNNN12NNN02NN
+15,01        l     00  15 00 15   12..............15   04i++iNN13NNNNN04NNN15     04N15       ---00 12N11N12N00 15-
+15,01        N        00 15   00+++NNNN09NNNN03NNN15 04:15 04:  : +N13N08NN13NN14,04 15,01      04N22N15   12NNNNN11NNN12NN
+15,01        Nb.      ..     12...........15    04    mN13NNNN04N14,04  15,01     04N15  04++15   ---------
+15,01        N00N15NNm:m  ::     00+++NNN09NN03NNN15 04::15 04mmmNN13NNN04N:13mmmm04N13@04N14,13@@04,01NNN14,13@04,01N13@@04:@14,13@04,01::15 08:13::08:00:13:00::
+15,01        N00NNN15N:mNNN:.........  03    15  04 15  04NN13NNNNNN04N:13NNN15          0422 15---------
+15,01        N00NNN15N:NNN':NNNNNN+'03,09m+00@14,00@@14,09@09,01@14,03@03,01m 15 04`2NNNNNNN:N13NN04NNm15        04 02 14,02@14,12@12,01N10@11NN12NN02@
+15,01        N00N15NNNNQ7':dN00N15NNI' 03:09N14,09@09,01+14,00@@14,09@09,01@@03NN@:15  04    222 13+++04NNN15         04 02@12NNNNN02NN@
+15,01        NNNN72' mdN00NN15NNI.  03+14,03@09,01@@@@@14,03@@@03,01+15 04::N13NN08NN13NN04:mmmmm 15          ---------     
+15,01 04 15      2''_,+d00NNNNNNN15NNN+.  03~2+++2~ 04::NNNN13NNNN04N:NN2~15     .:04 02m12m02:14:00@@15N14NN :: 02NNN04 14Nm
+15,01        NNN00NNNNNNNNNNNN15NNNNNNm 03::15                       .mNi14 12N11NN02m14`1522142'.' 02m12NN02I14 IN
+15,01                                                       14:15:14,15@@00,01@14b15 02212N11NN12Nm11mm12mN02N12N7022 14:N+
+15,01                                                        `700@@14,15@15,01Nm14m..02~12211212222"02~14.mNN'15 
+15,01    14,15@@15,01+++++++++++CC+qq.     00,02             15,01                  14~""215++14,15@@15,01@@:14:++2"~ 15 
+15,01    NN     mmmmmm    :NN:   00,02  NN+++++NN  15,01   NN+++++NN           02 15---------02   
+15,01    NNmmmmmNN  NNmmmmm7NN   00,02  NN ... NN  15,01   +++++++++     .:04 14m04m:14:00@@15N14NN    NNN04 14Nm
+15,01    .........   ...00.......15    00NN @@@ NN15     mmmmmmmmm   .mNi14 04NN13N04m14`1522142'   04mNN14I::N
+15,01    NN+++++NN   NN+00+++++NN15  00,02  NNmmmmmNN  15,01   NN     NN   :14,15@@00,01@14b`204N13NN04Nm13mmmN04NN14N+02 14:N7
+15,01    ~2b.00 mmmmmm15mmmm00mmmmmmmmmmmmmmmmmmmmm15mm00mmNN   15.b2~   `700@@14,15@15,01Nm14m.04~213+04+14+04+214"~.mQN2'
+15,01____.,7'00 N cc15   cc 00     cc15    00mmmmmmmmm 15nn       '7,.____  14~"15"2++14,15@@15,01@@:14:++2"~ 15 
+15,01  ~"7Nmm00mm NN15   NNm00mmmmmNN15  00,02  NN     NN +15,01+00+++++++15++++"~         02 15---------02   
+15,01       : N                    00NN     NN15     NN     mm     .:04 06mm:14:00@14,09@09,01@14NN    02NNN04 14Nm
+15,01    NN M N NN     N00N++++++NN00,02  NNmmmmmNN  15,01   NN     NN   .mNi14 06N11NN02m14`1522142'  02.m12@N02:14::N
+15,01    NN +++ NN     NN      NN  mmmmmmmmmmmmmmmmmmmmmNN   :14,15@@00,01@14b06`+12NN11NN12m11mm12mN@N06@022 14:N7
+15,01    NN     NN     NNmmmm  NN15,02  NNmmmmmNN00  15,01   NN     ..   `700@@14,15@15,01Nm14m.02~212+11+12+06+02+2~14.mQN2'
+15,01    `2+++++2'         NN  NN   .........    ++  :::::      14~"15"2++14,15@@15,01@@:14:++2"~ 15 
+15,01  a 00b s t r15 a c t     +++ NN15,02++++NN :::::00 15,01   ::  ::              02 15---------02   
+15,01  ha00lluci -15       NNmmmmmmNN       .....                         12NN15 02: : :00 02:
+15,01  n  00a  t  15i  o  n  s       00,02       01@@@@@14@@12,01@14,02@@12,01@@@NNNN14,12@@@12,01NNNNNN@02N12NNNN00 02: : :00 02:
+15,01    mm            mm               02.....15               02m12NN027+2"~
+15,01    NN._        _.NN                                  02:12NN02I15  
+15,01    `2++++++++++++2'     god damnit, I gave           02 +12@Nb02m.._15              00 
+15,01                         you best years of my life!@ 02 15   02~2+12NN02NN12N02NN15 02:15 02:15 02:15 02:15   
+15,01                         AND THIS IS WHAT I GET?! 
+15,01>SAUCE00abstract hallucinations            heck                aqua             
+15,01   19971020a   @@P F                             

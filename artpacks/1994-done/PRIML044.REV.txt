@@ -1,0 +1,73 @@
+15,01        mmmmmmmmmm   mmmmmmmmmm   mmmm mmmm        mmmm       m mmmm
+15,01        14,15           15,01m 14,15           15,01m 14,15    15,01 14,15     15,01m    m14,15     15,01     m14,15  15,01 14,15    
+15,01               "14,15    15,01        "14,15    15,01      14,15       15,01mm14,15       15,01   m14,15    
+15,01mmmmmmm mmmm m  14,15    15,01 mmmm m  14,15    15,01 mmmm 14,15    15,01"14,15      15,01"14,15    15,01 m14,15      15,01 mmmm mmmmmmmm
+15,01mmmmmmm 14,15    15,01mmm14,15     15,01 14,15    15,01mmm14,15     15,01 14,15    15,01 14,15    15,01  "14,15  15,01"  14,15    15,01 14,15       15,01 14,15    15,01 mmmmmmm
+15,01 mmmmmm 14,15          15,01"  14,15          15,01"  14,15    15,01 14,15    15,01 mmmmmm 14,15    15,01 14,15 15,01" 14,15    15,01 14,15    15,01 mmmmmmmmm
+15,01mmmmmmm ##14,15  15,01 mmmmmmm ##14,15  15,01 m "14,15   15,01m ##14,15  15,01 ##14,15  15,01 mmmm   14,15    15,01 mm 14,15  15,01## ##14,15  15,01 mmmmmmmm
+15,01        00@@14,15  15,01         00@@14,15  15,01    14,15    15,01 00@@14,15  15,01 00@@14,15  15,01     m14,15 15,01 14,15    15,01    14,15  00,01@@15 00@@14,15  
+15,01        14,15##  15,01         14,15##  15,01    14,15    15,01 14,15##  15,01 14,15##  15,01   m14,15   15,01 14,15    15,01    14,15  ##15,01 14,15##  15,01mmmmm
+15,01        14,15    15,01         14,15    15,01    14,15    15,01 14,15    15,01 14,15    15,01  14,15    15,01" 14,15    15,01    14,15    15,01 14,15         
+15,01        ####         ####    #### #### ####  ####  ####    #### #########
+
+15,01                    ITS TIME TO HAVE A NEW REIGN OF POWER
+
+15,01                       PrimalNET Official Nodelist
+15,01                            rev.042 - 12/31/93
+
+15,01 REV.025
+15,01 -/- Added TKN Public Chatter.
+15,01 -/- Added EDGE Courier base.
+15,01 -/- Added 1o Public bases.
+15,01 -/- Reorganized Nodelist
+
+15,01 REV.33
+15,01 
+15,01 -/- Removed TKN Public Chatter do to Inactivity.
+15,01 -/- Added PCB and BBS Software Discussion.
+15,01 -/- Added MiRAGE Public Base 
+15,01 -/- Reorganized Nodelist kept countries together, USA, ITALY, CANADA. 
+15,01 -/- Boards that havent polled will be removed from the Nodelist if they
+15,01     do not either A: POLE or B: contact someone on there reason(s) for
+15,01     not polling.
+15,01 -/- Node Count Number (Aprox)
+15,01 -/- Next Rev should contain Approximatly 1O NEW Italian boards, all under
+15,01     construction and setting up the NET at this time.
+15,01 -/- First blacklisted user from PRiMALnet, Assassinato, Sniper, The Grim
+15,01     Reaper.  User is from 516, Details in PR-HNEWS.ZIP.  All 1 user.  If
+15,01     a user already goes under 1 of those handles on your Local board outside
+15,01     of 516 and you are positive it is NOT the same user, access will not 
+15,01     be denied.
+
+15,01REV.42
+
+15,01-/- PRiMAL Logo added to bottom of Nodelist
+15,01-/- TRSi and Edge Merger
+15,01-/- Edge Base ReNamed to TRSi
+15,01-/- MiRAGE suposedly Dead, Removed from PRiMALnet
+15,01-/- TRSi base will keep the TPO-EDGE echo Base to make things easier for Sysops
+15,01-/- 3o-4o Megs packets deleted from Unpolling boards, more boards being removed
+15,01    from  the nodelist.
+15,01-/- Italy boards began polling, tests underway.
+15,01-/- If your board is NOT or has NOT been polling PRiMALnet for some reason do 
+15,01    to software changes or whatever, CONTACT DEMONS ABYSS, if you do NOT 
+15,01    Contact the board, your BBS will be removed without any further Notice, and
+15,01    another board in your area code will take your place.
+15,01-/- A limit of 1 board may carry PRiMALnet per Area Code, unless part of a 
+15,01    City or Well populated Area.
+15,01-/- PRiMAL message base Rumors will be removed NEXT release if activity is 
+15,01    still failing, If you have suggestions of a NEW base to replace there 
+15,01    you are welcome to make them. (SysOps, CoSysOps only please)
+15,01-/- PRiMALnet is still accepting GROUP Applications, to give your group a Base
+15,01    on PRiMALnet either PRiVATE discussion or Public Discussion or Limited
+15,01    Board discussion.
+15,01-/- 29 Nodes. [8 Removed] [11 Added]
+
+15,01REV 43.
+
+15,01-/- Major Problems with Qfront 1.o3b
+15,01-/- Major Problems with Qfront 1.o4b
+15,01-/- 1.o5b Qfront seems to be working ok now.
+15,01-/- QWK packet manager on TDA Down.
+15,01-/- All packets over 3o Days old purged.
+15,01-/- Some packets may be missing for some nodes outside of the NY area

@@ -1,0 +1,12 @@
+
+
+15,01+==============================  SysOp Commands  =============================+
+15,01| R) Remove all info-forms          K) Kill system log          N) Edit News  |
+15,01| D) Delete error log               E) Read error log           M) Make user  |
+15,01| C) Change time/date               I) Info-form hunt           A) Add news   |
+15,01| V) Show all sysops                F) Read feedback            U) Edit Users |
+15,01| S) View System Log                Z) Special user deletion    J) Show Forms |
+15,01| T) Edit Spec Listings             Q) Quit                     *) Dos Shell  |
+15,01| L) Looser Listings                P) Edit System Config                     |
+15,01| B) Sub Conference Editor          G) Auto-Message Log                       |
+15,01+=============================================================================+

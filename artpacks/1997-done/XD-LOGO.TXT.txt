@@ -1,0 +1,8 @@
+15,01Here is a neat little replacement for your window95 boot up screen!
+
+15,01Simply rename XD-LOGO.BMP to \windows\logo.sys and re-boot the computer.
+
+15,01The screen will also work for the working and shut-down screens,
+15,01logow.sys and logos.sys! fear the ninja!
+
+15,01                enjoy

@@ -1,0 +1,39 @@
+11,01 10m14,10#10,01""""11  10m10,10#10,01""10,11#11,01m 14,10  10,01|11  10,10  10,11"##11,01       10"""14,10#10,01m11  10m10,10#10,01""" |14,10##11,01  14,10 ## 14,11 11,01     14,10  10,01|11  10|10,11""10,01m14,10 10#10,01"10,10  10,01"10,11##10,01m
+11,01 10""""14,10 10,11"11,01m|14,11 11,01|  |14,11   10"10,01|11 #14,11#10"14   11,01  mmm m14,11 11,01"10"10,11##14,10 11,01 10""""14,10 14,11  10 "11,01  14,11 10#"14  11,01  10m11mm14,11 10"11,01| #01,11#14#   11,01| 14,11 10"10,01|11 14,11  11,01|
+14,11##11,01|  |10,11  14  11,01|  |14,11##  11,01|  00,11 14 10##14 11,01| |14,11  11,01|14,11  11,01  |14,11   12 11,01|  |14,11 11,01|"14,11  11,01m14,11  11,01|10,11##11,01| 14,11  11,01|10,11##11,01|  00,11 14 11,01|14,11  11,01|#14,11# 11,01| 14,11  11,01|
+11,01"10,11##11,01mm14,11##11,01""01,11#14#11,01mm14,11  11,01" "14,11 11,01m14,11  11,01" "14,11  11,01m14,11  11,01" "14,11# 11,01m14,11 11,01""14,11##00#11,01mm14,11 11,01"00     14,11  11,01|"14,11  11,01m14,11 11,01" ""14,11 11,01m14,11  11,01" 14,11  11,01| 14,11  11,01| 01,11#14#11,01|
+15,01                00            .10.11.00 c i r c e  l i t15 11.10.00.
+
+15,01                                     00Rescate
+
+15,01                 00Rescatame, amor, de esta locura colectiva
+15,01                 00de este destino incierto,
+15,01                 00de las ilusiones borroneadas, 
+15,01                 00de las almas que no pueden comprender ni tolerar,
+15,01                 00de los dolores eternos,
+15,01                 00de las cicatrices arcaicas,
+15,01                 00de la hipocresia temprana,
+15,01                 00del estancamiento,
+15,01                 00de las esperanzas estupidas,
+15,01                 00de la agonia ciclica,
+15,01                 00del cansancio,
+15,01                 00de las palabras nunca dichas,
+15,01                 00de los dialogos gastados e inutiles,
+15,01                 00de las discusiones laberinticas,
+15,01                 00de los horrores de la noche,
+15,01                 00del consuelo que ofrece la almohada,
+15,01                 00de las caminatas sin rumbo,
+15,01                 00los ojos que lloran las mismas lagrimas,
+15,01                 00de espacios vacios de toda razon
+15,01                 00(y lo que es peor aun ; de todo sentimiento),
+15,01                 00de sentir el frio de la derrota bajo mi piel,
+15,01                 00del sedentarismo
+15,01                 00(ya no hay adonde ir),
+15,01                 00de las falsas luces,
+15,01                 00de los inviernos perpetuos,
+15,01                 00de los fantasmas anejos,
+15,01                 00de los hogares sin fuego,
+15,01                 00de las fuentes sin agua ni pajaros,
+15,01                 00de los dias sin luz y de las noches sin estrellas.
+15,01>SAUCE00Rescate                            Soul asylum         Circe            
+15,01   19970819+   @@P %                             

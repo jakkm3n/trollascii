@@ -1,0 +1,4 @@
+15,01When using the ANSIM ansi viewer (copyright 1993 Andrew Henry) included in
+15,01the BLuNT pack. Be sure to remember:
+15,01Press the plus (+) key once for 80x50, press it twice for VGA Mode.
+15,01You drop the resolution back down by hitting the minus (-) key or ENTER.

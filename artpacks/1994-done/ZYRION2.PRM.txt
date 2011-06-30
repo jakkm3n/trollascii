@@ -1,0 +1,80 @@
+15,01#
+15,01# ==============================================================================
+15,01=
+15,01#
+15,01#          ZYRION2.PRM, Configuration file for ZyRion Version 3.00.1Pr
+15,01#        This file was created by ZyRion Version 3.00.1Pr as ZYRION2.PRM 
+15,01#
+15,01#       Copyright 1991,92,93 by Protosoft (CR) Holland ; ALL RIGHTS RESERVED 
+15,01#
+15,01# ==============================================================================
+15,01=
+15,01#
+15,01#
+15,01# DO NOT CHANGE THIS PRM_VERSION=<NUMBER> ITS FOR INTERNAL USE!!
+15,01#
+15,01CTL_VERSION=ZR022193
+15,01#
+15,01# ZyRion Setup for >Demented PuLchritudE
+15,01# ZyRion Control File, Line assignment : COM2
+15,01#
+15,01#
+15,01# RBUFF means the Async Buffer Size in bytes, 1024,2048,4096 e.c
+15,01#
+15,01RBUFF=2048
+15,01#
+15,01#
+15,01# LCK Means the DTE rate or Locked rate, 0=NOT LOCKED -B used! 
+15,01#
+15,01LCK=0
+15,01#
+15,01#
+15,01# ZBDSK means ZyRion Disk buffer [ 1=ON AND 0=OFF ].           
+15,01#
+15,01ZBDSK=0
+15,01#
+15,01#
+15,01# ZSLOG means ZyRion Security log [ 1=ON AND 0=OFF ].          
+15,01#
+15,01ZSLOG=1
+15,01#
+15,01# Set Verification ON, DOS will verify for proper read/write operations
+15,01#
+15,01DOS_VER=1
+15,01#
+15,01# UFB means use FIFO Buffers -- [ 1=ON AND 0=OFF ].          
+15,01#
+15,01UFB=1
+15,01#
+15,01#
+15,01# BIOS, if FALSE Direct Screen writes are used, TRUE=BIOS    
+15,01#
+15,01BIOS=FALSE
+15,01#
+15,01SNP=LV4J1KU0RACT
+15,01#
+15,01#
+15,01# DTR_OFF IF this is 1 ZyRion will Disconnect afterwards, 0=NOT (Default) 
+15,01#
+15,01DTR_OFF=0
+15,01#
+15,01#
+15,01# HEADER_RETRY_COUNTER means how many times a header should be transfered 
+15,01#
+15,01HEADER_RETRY_COUNTER=12
+15,01#
+15,01#
+15,01# USE_BBS_START_MODE - means send CR/LF=ON or S+CR/LF=S or OFF=Nothing!   
+15,01#
+15,01USE_BBS_START_MODE=OFF
+15,01#
+15,01#
+15,01# DOWNLOAD_PATH IF used it will overide the parameter D/L Path!           
+15,01#
+15,01DOWNLOAD_PATH=NON
+15,01#
+15,01#
+15,01# CALC_THROUGPUT Show in C=CPS or B=BPS or E=EFF in % (Default)!          
+15,01#
+15,01CALC_THROUGHPUT=E
+15,01#

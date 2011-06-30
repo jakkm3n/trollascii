@@ -1,0 +1,80 @@
+14,12           #02,01@@@14,12#                     ###             ####       12,01|14+01,15-------------+
+14,12          #02,01@12###02@14,12#                   #02,01@@@14,12#           #02,01@@@@14,12#      12,01|00,15|01.14   14,01 14,15    14,01#01@14,14# 01,15|
+14,12         #02,01@12#   #02@14,12#     #####       #02,01@12###02@14,12#         #02,01@12####02@14,12#     12,01|00,15|14          14,01#01@14,14#01,15|
+14,12        #02,01@12#15     12#02@14,12#   #02,01@@@@@14,12#     #02,01@12#   #02@14,12#       #02,01@12#    #02@14,12#    12,01|00,15|14   14,01F U R Y14,15 14,01#01@01,15|
+14,12       #02,01@12#   14,13 13,01   12#02@14,12# #02,01@12#####02@14,12#   #02,01@12#  14,13 15,01  12#02@14,12#     #02,01@12#  14,13 13,01|  12#02@14,12#   12,01|00,15|14 14,01 UNLEASHED14,15 14,01#01,15|
+14,12      #02,01@12#   04@13,13#14 13,01   12#02@14,12#02,01@12#15     12#02@14,12###02,01@12#  04,04@13,13# 15,01  12#02@14,12#   #02,01@12#  04@14,13# 15,01  12#02@14,12#   12,01|00,15|  14   14,01#114,15      01|
+14,12     #02,01@12#   14,04 13,01#04@14,13# 13,01   12#02@12#15       12#02@@@12#  13 #04@14,13# 15,01  12#02@14,12###02,01@12#  13 #04@14,13# 15,01  12#02@14,12#  12,01|00,15|  14           01|
+14,12    #02,01@12#   14,04  13,01#04@14,13# 13,01    12#    14,13# 15,01   12###  13  #04@14,13# 15,01   12#02@@@12#  13  #04@14,13# 13,01| 12#02@14,12#  12,01|00,15|14,01Well here 14,15is 01|
+14,12   #02,01@12#   14,04    13,01#04@14,13# 15,01       13#04@14,13# 15,01      13    #04@14,13# 15,01   12###    13  #04@14,13# 15,01  12#02@14,12# 12,01|00,15|14,01my14,15 first of- 01|
+14,12  #02,01@12#  14,13 15,01  14,04    13,01#04@14,13# 13,01  14,13 15,01  13  #04@14,13# 15,01   14,13 15,01  13    #04@14,13# 15,01      14,13 13,01     #04@14,13# 15,01  12#02@14,12 12,01|00,15|14,01f14,15icial ansi! 01|
+14,12 #02,01@12#  04@14,13# 15,01  14,04   13,01#04@14,13#13,01" 04@14,13# 15,01  13  #04@14,13# 15,01 04@14,13# 15,01  13   #04@14,13# 13,01m    04@14,13# 13,01    #04@14,13#  13,01  12#02@12|00,15|14,01Yeah, it is 14,15 01|
+14,12#02,01@12#  14,04 13,01#04@14,13# 15,01  14,04  13,01#04" m14,13 13,01 04@14,13# 15,01  13  #04@14,13# 15,01 04@14,13# 15,01  13 04""13#04@14,13#13 15,01   13,04 #04@13,13#14 13,01    #04@14,13# 13,01| 12#02@12|00,15|14,01just a logo14,15  01|
+02,01@12#  14,04   13,01#04@14,13# 15,01  04" m13#04@14,13# 13,01 04@14,13# 15,01  13  #04,04@13,13# 15,01 04,04@13,13# 15,01    04m13#04@14,13# 15,01 04"13  #04@14,13# 13,01 04m13  #04@14,13# 15,01 12#02@12|00,15|14,01,but14,15 hope you01|
+02,01@12# 04"14,04    13,01#04@14,13# 15,01  14,04   13,01#04@14,13# 04,01|@14,13# 15,01  13  #04@14,13# 15,01 04@14,13# 15,01  13   #"    04"13 #04@14,13#04,01@13#  #04@14,13# 15,01 12#02@12|00,15|14,01still like it01,15|
+14,12#02,01@12## 04"14,04   13,01#04@14,13# 15,01  14,04  13,01#04@14,13#13,01"04m13#04@14,13# 15,01  13  #04@14,13#13 15,01 04,04@13,13# 15,01  13,04 04,01"15        04"13#04@"" 13#04@14,13# 13,01| 12#02@12|00,15|14,01though!14,15 14,01Look14,15 01|
+14,12 #02,01@@12#  04"14,04  13,01#04@14,13# 15,01  14,04 13,01#04" "14,04  13,01#04@14,13# 15,01  13  #04@14,13# 04,01|@14,13# 15,01  04m13  #mmmmmmmm 04m13#04@14,13# 13,01| 12#02@14,12#12,01|00,15|14,01for my first14,15 01|
+14,12  ##02,01@12##  04"14,04 13,01#04@14,13# 15,01  04"    "14,04 13,01#04@14,13#13 15,01  13,04  #04@13,13#04,01|13#04@14,13# 15,01  13   #04@14,13#  13,01" 04m13 #04,04@13,13# 13,01| 12#02@14,12# 12,01|00,15|14,01pic14,15. in next 01|
+14,12    #02,01@@12##  04"13#04@14,13# 15,01     12#  04"13##04@13#  13,04  #04@15,01 04"13#04@14,13# 15,01  04"13  #04@13"04m13   #04@14,13# 13,01| 12#02@14,12#  12,01|00,15|14,01months pack!14,15 01|
+14,12     ##02,01@@12##  04"@14,13# 04,01m  12#02@12##  04"13#     04"    13"04@14,13# 13,01m  04"    "13 #04@14,13# 13,01" 12#02@14,12#   12,01|00,15|14,01+01,15----------+14 01|
+14,12       ##02,01@@12##  04"14,13#04,01"  12#02@@@12##  04"13  04"  12####  13"14,13#13,01"  12#####  04"14,13#13,01"  12#02@14,12#    12,01|00,15|| 02-O M E N14 01|14 01|
+14,12         ##02,01@@12##   04" 12#02@14,12##02,01@@12##    ##02@@@@12##   ##02@@@@@12##    #02@14,12#     12,01|00,15|+----------14,01+14,15 01|
+14,12           ##02,01@@12#####02@14,12#  ##02,01@@12####02@@14,12####02,01@@12###02@@14,12#####02,01@@12####02@14,12#      12,01|00,15|01.14,01[.F.U.R.Y.]01,15.|
+14,12             ##02,01@@@@@14,12#     ##02,01@@@@14,12##    ##02,01@@@14,12##     ##02,01@@@@14,12#       12,01|00,15+-------------14,01+
+14,01I would like to greet only one person, my older brother Jason (Azrael), and
+14,01would like to thank him for all his advice and help for me, in drawing ansi.
+15,01m14mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+14,00 14,14#01,01@14#  04,15F U R Y  A R T  C O M P E D I U M  07/94 "U N L E A S H E D"  N E W S 14,01#01@14,14# 
+00,01"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""15"
+14,01+01,15------------------------------------------------------------------------------+
+00,15|14                                                                              01|
+00,15|14    14,01After a long14,15 two month delay here we are!  We would like to proudly pre-  01|
+00,15|14,01sent the 00,15FURY 14,0107/94 Art Compedium!  We truly hope 14,15that you will enjoy the     01|
+00,15|14,01artwork and effort i14,15n this compedium, and look forward to hearing from you!   01|
+00,15|14    14,01Right now 00,15FURY 14,01is accepting applications for 14,15any breed of artist, coders, 01|
+00,15|14,01musicians, couriers,14,15 and distrobution sites.  We really hope that the new as- 01|
+00,15|14,01piring artist, impro14,15ving artist, and even veterans enjoyed the pack well      01|
+00,15|14,01enough that you woul14,15d put in that application!  Having applications and add-  01|
+00,15|14,01ing members is a ver14,15y vital part of any new and upcoming group.               01|
+00,15|14    14,01I myself try14,15 not to put pressure on the artist, and let them work at      01|
+00,15|14,01their on pace. It pr14,15ovides nice, calm, and relaxed enviroment for the mem-    01|
+00,15|14,01bers.  After all thi14,15s is supposed to be for fun!  Also if you are thinking    01|
+00,15|14,01about applying, the 14,15only thing I expect is atleast one piece of artwork each  01|
+00,15|14,01month.14,15 14,01 I would love to say 14,15three or four, but I know everyone has a life     01|
+00,15|14,01outside of being in 14,15a group.                                                  01|
+00,15|14    14,01There is onl14,15y one or two reasons behind the delay of this compedium.      01|
+00,15|14,01Two months ago I was14,15 accepted into 00Gothic14,01, when 00,15Gothic 14,01merged with 00,15ACiD14,01, I14,15    01|
+00,15|14,01then joined 00,15RELiC 14,01a week or so later.  After re14,15leasing one ansi under the     01|
+00,15|RELiC 14,01name, I then d14,15ecided that I would join the ranks of 00ACiD 14,01Productions,14,15   01|
+00,15|14,01to whom I am current14,15ly and always be loyal to! ;) 14,01The g14,15roup hopping had taken 01|
+00,15|14,01a large majority of 14,15my spare time.  The other reason is that last month 14,01I14,15     01|
+00,15|14,01wanted to make sure 14,15that my rip screens for 00ACiD 14,01P14,15roductions were of quality. 01|
+00,15|14,01We also had enough a14,15rtwork for a compedium, though we decided to wait one     01|
+00,15|14,01month and put out a 14,15decent compedium, instead of rushing it at the last min-  01|
+00,15|14,01ute to just put some14,15thing out.  Now here we are with a good pack, 14,01and it is14,15   01|
+00,15|14,01our best one to date14,15. ;)                                                      01|
+00,15|14    14,01I would also14,15 like to take a moment and thank all the 00FURY 14,01members for  14,15   01|
+00,15|14,01being so dedicated a14,15nd patient with this pack.  There is also one guy out     01|
+00,15|14,01there (who is now a 14,15senior member) who deserves a lot of credit for calling   01|
+00,15|14,01up and gathering all14,15 the art and aiding in the production of this release,    01|
+00,15|Mr. Corruption14,01.14,15                                                               01|
+00,15|14    14,01On behalf of14,15 00FURY 14,01we would like to take a 14,15second and welcome the newest   01|
+00,15|14,01members of the group14,15. 14,01First we would like to welcome, 00,15Joe Mama14,01, our newest14,15    01|
+00,15|14,01addition to the code14,15rs, 14,01who did a great job with his fi14,15rst ansi viewer ever,  01|
+00,15|14,01Fury View v1.0B! Sec14,15ond, we welcome 00Mantis14,01, who ha14,15s shown some improvement    01|
+00,15|14,01from the last time I14,15 talked with him, has a logo appearing this month, and    01|
+00,15|14,01is soon to start on 14,15pic's!  Third, the other 00FURY 14members and I (especially)  01|
+00,15|14,01would like to welcom14,15e my brother, 00Omen14,01, who did a 14,15logo this month! 14,01Last but14,15   01|
+00,15|14,01not least, 00,15Scandal14,01, whose logo's will be appearing14,15 in this months, and next   01|
+00,15|14,01month his first pic,14,15 a long with the other newbies will be appearing! 00Scandal14 01|
+00,15|14,01also has set up Prop14,15hecy Net, which is a net that all member boards will be   01|
+00,15|14,01connected to.  If yo14,15u are interested in joining Prophecy Net "The Official    01|
+00,15|14,01Fury Net" you can fi14,15nd the application packet on any board listed as a HQ,    01|
+00,15|14,01or as a distrobution14,15 site/member board.                                       01|
+00,15|14    14,01For those of14,15 you that may apply, just fill out the application and        01|
+00,15|14,01send it to my board 14,15The Stand@615.776.3163 [Handle:Applicant 14,01Password: FURY],14,15 01|
+00,15|14,01or send it to14,15 14,01Corrupted Society@414.467.2794 [Handle:^^^^^14,15^^^ Password: ^^^^].01|
+00,15|14,01It may take a two or14,15 three days before I am able to get back to you.  14,01If you14,15  01|
+00,15|14,01would like for me to14,15 look at your application immediately, I can be reached   01|
+00,15|14,01voice @615.776.5746,14,15 ask for Jason. 14,01 No calls before 10AM Central or after14,15    01|
+00,15|14,0110PM Central.14,15                                                                 01|

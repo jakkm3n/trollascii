@@ -1,0 +1,44 @@
+
+15,01This is a listing of all of the new features found in ACiDDRAW from the
+15,01very first release version, to the current version listed at the top of
+15,01this file.
+
+15,01+--+ACiDDRAW v1.20 Released On : August 1, 1995+------------------------------+
+15,01|                                                                             |
+15,01|# Fixed problem with certain character in saving pascal and C formats.       |
+15,01|                                                                             |
+15,01|# Fixed problem with the ENTER key on certain lines, and other minor bugs.   |
+15,01|                                                                             |
+15,01|# Added .COM, Assembly and Pcboard save formats.                             |
+15,01|                                                                             |
+15,01|# Added "color pickup" mode (SCROLL LOCK)                                    |
+15,01|                                                                             |
+15,01|                                                                             |
+15,01+==+ACiDDRAW v1.10  Release On : May 28, 1995+================================+
+15,01|                                                                             |
+15,01|# Fixed problem with saving PASCAL and C files, which were longer then       |
+15,01|  400 lines.  (Previously this causes an error with the size of the array)   |
+15,01|  ACiDDRAW now limits the save length of a PASCAL or a C file to 400 lines.  |
+15,01|                                                                             |
+15,01|# Problem loading ASCII files with an 80th column.  This is now fixed.       |
+15,01|                                                                             |
+15,01|# Fixed problem with save an ANSI file with a line length.  Small            |
+15,01|  bug which caused longer then anticipated line lengths.                     |
+15,01|                                                                             |
+15,01|                                                                             |
+15,01+===+ACiDDRAW v1.00  Release On : April 1, 1995+==============================+
+15,01|                                                                             |
+15,01| # Premire release of ACiDDRAW.                                              |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+
+15,01 Found a Bug?
+15,01 ============
+
+15,01        Although ACiDDRAW is continually being updated, bugs may pass though
+15,01 our quality control.  If you find a bug, or a strange occurance in ACiDDraw
+15,01 please feel free to contact us either by sending a letter, or leaving
+15,01 us email at the following location :
+
+15,01                           aciddraw@cyberspace.com

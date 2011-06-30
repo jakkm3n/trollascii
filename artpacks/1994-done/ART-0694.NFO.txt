@@ -1,0 +1,58 @@
+
+15,01           "####  "#### 14,15##15,01 14,15 ##00,01@15m "14,15 ##15,01  "14,15###15,01 "00@@@@15##### "####" 14,15#15,01m
+15,01             #00@15#    ### 14,15#00,01@15 14,15 15,01""14,15#00,01@14,15 15,01  14,15#00,01@15   |14,15#00,01@15   00@@15|   ##  |00@15# m14,15##00,01@@15m
+15,01    mm mmmmmm|00@@15 mmm|00@15# 14,15#00,01@15 mmm 14,15#00,01@15| 00@@15 m |00@@15 m 00@@15|mm #00@15 m|00@15# 14,15#00,01@@15"" mm mm
+15,01   ""m14,15     15,01" 00@@@15 14,15 15,01" |00@@15 00@@15 14,15 15,01"  00@15#| 00@@15 14,15 15,01 |00@@15 14,15 15,01 00@@15|14,15 15,01" 00@@15 14,15 15,01|00@@15 14,15#00,01@15 "14,15   15,01"14,15  15,01mm14,15 15,01"
+15,01             00@@14,15#15,01    00@@14,15#15,01 #00@15     ##| #00@15   |00@15#   14,15#00,01@15|   00@@15  |00@14,15#15,01 00@@15#mm
+15,01        TS!  00@14,15##15,01    00@@14,15#15,01 ##|   |##| ##  m###   14,15##00,01@15   14,15#00,01@15  |14,15##15,01|"####"
+15,01           m00@@14,15###15,01m m00@14,15##15,01 ###m m###| ## ###"    "14,15#00,01@@15m 14,15##15,01 m14,15####15,01m #"
+
+
+15,01   .  .  .  E    N   T    E    R    P    R    I    S    E    S (tm) .  .  .
+
+
+15,01Archive: HAV-0694.ZIP
+15,01+----+------------+---------+------+-----------------------------------------+
+15,01| ## |Filename Ext|  Bytes  | Data |           Description/Artist            |
+15,01+----+------------+---------+------+-----------------------------------------+
+15,01| 01 |ART-0694 NFO|    3,728|      |          Packet Information - June 1994 |
+15,01| 02 |DE-WINT  LIT|    4,871|E     |Destiny                     Winter Steel |
+15,01| 03 |FILE_ID  DIZ|      304|      |SCT                                      |
+15,01| 04 |HAV-APP  EXE|   43,972|      |Nightvision  Havok Application Generator |
+15,01| 05 |HAV-REQ  EXE|   29,277|      |Bleys            Havok Request Generator |
+15,01| 06 |HV       COM|    1,902|      |Techie                  Havok View v1.04 |
+15,01| 07 |MEM-0694 NFO|    9,169|      |              Member Listing - June 1994 |
+15,01| 08 |NEW-0694 NFO|    4,082|      |Lars Ulrich    Havok Newsletter Issue #3 |
+15,01| 09 |NB-FILEG ANS|    2,786|E     |Nightbreed       GeeK Stat Series - File |
+15,01| 10 |NB-HAVOK ANS|    1,698|      |Nightbreed                    Havok Logo |
+15,01| 11 |NB-LOGIN ANS|    1,474|      |Nightbreed              Login Procedures |
+15,01| 12 |NB-NR    ANS|    5,818|E     |Nightbreed                    No Remorse |
+15,01| 13 |NB-RGMNU ZIP|   10,556|B     |Nightbreed             Renegade Menu Set |
+15,01| 14 |NB-VISAG ANS|    2,205|      |Nightbreed                    The Visage |
+15,01| 15 |SW-EVE   ANS|   16,013|E     |Sword Weaver                Eve Of Chaos |
+15,01| 16 |SW-SLEEP LIT|    1,454|      |Sword Weaver                     "Sleep" |
+15,01| 17 |TR-CIP   ANS|    3,349|      |The Replicant                CiPNet Logo |
+15,01| 18 |ZP-RABT  GIF|   25,039|      |Zaphod                            Rabbit |
+15,01| 19 |ZP-VSKUL GIF|   29,978|      |Zaphod                             Skull |
+15,01+----+------------+---------+------+-----------------------------------------+
+
+15,01            +-----------+ Data Legend +-----------------------+
+15,01            |                                                 |
+15,01            |              M = Music/Sound Effects            |
+15,01            |              @ = Animated/ANSiMated             |
+15,01            |              E = ANSi Exceeds 25 Lines          |
+15,01            |              B = Imbedded Archive               |
+15,01            |                                                 |
+15,01            +-------------------------------------------------+
+
+15,01       +========+ Stats +==========================================+
+15,01       |                                                           |
+15,01       |      Total Bytes (ALL Archives Uncompressed): 226,362     |
+15,01       |      Total Files (Including Imbedded Archive[s]): 32      |
+15,01       |      Largest File : HAV-APP.EXE - 43,972 Bytes            |
+15,01       |      Smallest File: FILE_ID.DIZ - 304 Bytes               |
+15,01       |      Average Bytes Per File: 7074 Bytes                   |
+15,01       |      Total Bytes Zipped: 144,851 Bytes                    |
+15,01       |      Average Compression Rate: %28                        |
+15,01       |                                                           |
+15,01       +===========================================================+

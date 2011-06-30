@@ -1,0 +1,80 @@
+
+
+15,01                              TUTORIAL TIME !
+
+15,01what's an art pack without a tutorial ? you are one of those ultra funky dewds
+15,01who want to learn how you can make those ultra 3l33t ansi logo's ??
+15,01then look no further, you found the answer to all your problems ...
+
+
+
+
+15,01STEP 1  
+
+15,01start by setting up your set of characters in aciddraw by pressing ALT+F6. 
+15,01now close your eyes and start pounding on the arrow keys and F4, F5 and F6 in 
+15,01random order
+
+15,01example : 
+15,01                                      14,15 
+15,01                                    14,15 15,01"m14,15 15,01"
+15,01                            14,15 15,01"m   14,15 15,01"m    14,15  15,01"m
+15,01                              "m14,15 15,01"m        "
+15,01                                  14,15 15,01"m  "
+15,01                                "14,15   15,01 14,15 15,01"m
+15,01                                    ""14,15 
+15,01                                       14,15 
+15,01                                        14,15   
+15,01wow, this looks really cool now doesn't it ? now one of the hardest steps ...
+
+
+
+
+
+15,01STEP 2
+
+15,01try to figure out what you have typed ... this may be hard but you will always
+15,01be able to find something. my example looks something like an f.
+
+
+
+
+
+
+15,01STEP 3 
+
+15,01type some other blocks to make it look more obvious what it is ...
+
+15,01example :
+
+15,01                                   14,15 
+15,01                                 14,15     
+15,01                         14,15 15,01"m   14,15  15,01m    14,15   15,01m
+15,01                           "m14,15  15,01m        "
+15,01                               14,15  15,01m 14,15     
+15,01                              14,15        
+15,01                                 ""14,15  
+15,01                                    14,15   
+15,01                                     14,15   
+
+15,01it's starting to look more and more 3l33t now !
+
+
+
+
+
+15,01STEP 4 
+
+15,01figure out something that contains the thing you have just drawn and try to
+15,01make new stuff by copying the previous drawn letter and adding some blocks or
+15,01by erasing some blocks.
+15,01in my case it will be "fear".
+
+15,01example :
+
+15,01           14,15 15,01                 14,15 15,01               14,15 15,01                 14,15 
+15,01         14,15     15,01             14,15     15,01           14,15     15,01             14,15     
+15,01 14,15 15,01"m   14,15  15,01m    14,15   15,01m 14,15 15,01"m   14,15  15,01m    14,15   15,01m     14,15  15,01m    14,15   15,01m       14,15  15,01m    14,15   15,01m
+15,01   "m14,15  15,01m        "    "m14,15  15,01m       14,15  15,01   m14,15  15,01m        14,15  15,01    m14,15  15,01m        14,15  15,01  
+15,01       14,15  15,01m 14,15     15,01         14,15  15,01m 14,15     15,01       14,15  15,01m 14,15        15,01      14,15  15,01m   m14,15     15,01    
+15,01      14,15        15,01          14,15        15,01    14,15  15,01    14,15      15,01   14,15   15,01    14,15        15,01  14,15    15,01     

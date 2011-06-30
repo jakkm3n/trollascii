@@ -1,0 +1,60 @@
+15,01               m    mmm      m     m           m      mm
+15,01               |14,15  15,01m14,15 15,01 "14,15    15,01m  |14,15   15,01m |14,15   15,01m   m14,15   15,01|  m14,15   15,01||14,15   15,01m
+15,01                14,15    15,01| |14,15    15,01|  14,15    15,01| 14,15    15,01| |14,15    15,01  |14,15    15,01  14,15    15,01|
+15,01                14,15     15,01  14,15     15,01  14,15     15,01 14,15     15,01 14,15     15,01  14,15     15,01  14,15     
+15,01                14,15#####15,01  14,15#####15,01  14,15#####15,01 14,15#####15,01 14,15#####15,01  14,15#####15,01  14,15#####
+15,01                01,15@@@@@15,01  01,15@@@@@15,01  01,15@@@@@15,01 01,15@@@@@15,01 01,15@@@@@15,01  01,15@@@@@@@@@@@@
+15,01                00,14#####15,01  00,14#####15,01  00,14#####15,01 00,14#####15,01 00,14#####15,01  00,14#####15,01  00,14#####
+15,01                14"""""  """""  """"" """"" """""  """""  """""
+15,01                04#####  #####  ##### ##### #####  #####  #####
+15,01                13@@@@@04  13@@@@@04  13@@@@@04 13@@@@@04 13@@@@@04  13@@@@@04  13@@@@@
+15,01                14,04#####04,01  14,04#####04,01  14,04#####04,01 14,04#####04,01 14,04#####04,01  14,04#####04,01  14,04#####
+15,01                14,04     04,01  14,04     04,01  14,04     04,01"14,04     04,01"14,04     04,01  14,04     04,01  14,04     
+15,01                14,04    04,01|  |14,04    04,01  14,04    04,01| 14,04    04,01| |14,04    04,01  14,04    04,01|  |14,04    04,01 14tz
+15,01               04|14,04   04,01"    "14,04   04,01||14,04   04,01" |14,04   04,01"   "14,04   04,01||14,04   04,01"    "14,04   04,01|
+15,01            14"" 04"    14""""    04""15     04"    14"""    04""    14""""    04" 14""
+15,01                 00NEW WAVE ARTISTS MEMBER LIST - JANUARY 1994
+15,01               14mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+15,01                 Darkforce                       ANSi Artist
+15,01                 Dr. CPU                               Coder
+15,01                 Grateful Dead                    Literature
+15,01                 Havoc                           ANSi Artist
+15,01                 Hero Bob                       MOD Composer
+15,01                 The Irish One                       Courier
+15,01                 The Judge                      MOD Composer
+15,01                 Kraven                          ANSi Artist
+15,01                 Lightnin Hopkins                    Courier
+15,01                 Lord Extec                       VGA Artist
+15,01                 Magik Elvis                      Literature
+15,01                 The Narcissist         President14/15Literature
+15,01                 Phantom Rodent                   VGA Artist
+15,01                 Phoenix                          Literature
+15,01                 Rumpelstiltskin                  VGA Artist
+15,01                 Prince of Death                     Courier
+15,01                 Side Swiper                     ANSi Artist
+15,01                 Silph                                 Coder
+15,01                 Summoner                         VGA Artist
+15,01                 Tzeentch                    ANSi14/15VGA Artist
+15,01                 Vanquish                        ANSi Artist
+15,01                 Visionary        Vice President14/15ANSi Artist
+
+15,01               14"""""""""""""""""""""""""""""""""""""""""""""""
+15,01                  00NEW WAVE ARTISTS SITE LIST - JANUARY 1994
+15,01               14mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+15,01                 Digital Holocaust       World Head Quarters
+15,01                 Evil's Voracity       Request Head Quarters
+15,01                 Apocalyptic Teacup   Canadian Head Quarters
+15,01                 Public Enemy         European Head Quarters
+15,01                 Journey's End              US Head Quarters
+15,01                 Bell's Inc.               Distribution Site
+15,01                 Chronic Necrosis          Distribution Site
+15,01                 Dragon's Lair             Distribution Site
+15,01                 Sweet Oblivion            Distribution Site
+15,01                 Termination Process       Distribution Site
+15,01                 Twist of Cain             Distribution Site
+15,01                 Neo-Graceland                  Member Board
+15,01                 Morbid Darkness                Member Board
+15,01                 Virtual Delusions              Member Board
+15,01            14mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm

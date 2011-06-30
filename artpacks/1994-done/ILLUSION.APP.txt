@@ -1,0 +1,80 @@
+15,01    Well, here is the application form for iLLUSiON just fill out everything
+15,01the best you can and upload it to the WHQ Harsh Realities (615)776-3163 or 
+15,01any of the headquarters listed at the bottom of this application.  Thanks 
+15,01for taking the time to fill this out, once you upload your application 
+15,01give us 2-3 days to review your application for iLLUSiON and we will then
+15,01contact you by voice.
+
+15,01    You will also need to zip up your best ansi's or pieces of work
+15,01that you have done and once you have done that zip up your illusion.app file
+15,01with it and rename the whole zip with your handle.  Example: AZRAEL.ZIP
+15,01Handle:
+15,01Real Name:
+15,01Age:
+15,01Voice Number: (   )   -
+15,01Data  Number: (   )   -
+15,01Street Address:
+15,01City:
+15,01State:
+15,01Zip Code:
+
+
+
+15,01BBS Info:
+15,01BBS Name:
+15,01CoSysops:
+15,01Nodes:
+15,01BBS Number: (   )   -
+15,01Meggage On-line:
+15,01Number of Users:
+15,01Months/Years BBS up:
+15,01NUP:
+15,01Main theme of board
+15,01[ ] Warez       [ ] Ansi   [ ] Programming  [ ] Hacking/Phreaking  [ ] Music
+15,01[ ] Messages    [ ] Virii  [ ] Cracking
+15,01How often do you call LD:
+
+
+15,01Net Information
+15,01NET              Zone:Region/Node        ZC   Region Host  Hub
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01Do you run a NET?  [ ] Yes  [ ] No
+15,01If "Yes" please describe your net:
+15,011:
+15,012:
+15,013:
+15,014:
+15,01Number of Nodes?  [   ]
+15,01Would you be willing to join the support net for iLLuSioN and poll daily or 
+15,01every other day?  [ ] Yes [ ] No
+
+15,01References  Information
+15,01BBS                   AC   Phone Number    Sysop   NUP
+15,011:                  (   )      -                   :
+15,012:                  (   )      -                   :
+15,013:                  (   )      -                   :
+
+15,01Artistic Information:
+15,01Talents:
+15,01[ ] Ansi   [ ] VGA  [ ] Mod  [ ] 669  [ ] Wav  [ ] Coding  [ ] Literature
+15,01How much time do you spend on each Ansi? :
+15,01Month/Years drawing Ansi:
+15,01How many ansi can you produce each month for iLLuSioN?: [  ]
+15,01Previous/Current Affiliations:
+15,01[ ] ACiD    [ ] ALiVE   [ ] UNiON     [ ] CRiMSON      [ ] R.E.M.
+15,01[ ] iCE     [ ] JiZM    [ ] DouBT     [ ] MaX          [ ] KRONiCK
+15,01[ ] GOTHiC  [ ] STRiKE  [ ] MiRAGE    [ ] MaD          [ ] CFP
+15,01[ ] TRiBE   [ ] iMAGE   [ ] ETERNiTY  [ ] TaG          [ ] EMPiRE Trial
+15,01[ ] EMPiRE  [ ] Heat    [ ] VOiD      [ ] TaR          [ ] iCE Trial
+15,01[ ] ATOMiC  [ ] McC     [ ] FoP       [ ] V. INSANiTY  [ ] ACiD Trial
+15,01[ ] RiOT    [ ] RaGE    [ ] SPeCTRUM  [ ] SKiLL        [ ] GOTHiC Trial
+15,01[ ] NiTRO   [ ] DaM     [ ] Former iLLUSiON
+15,01Best Ansi ever done:
+15,01Longest line Ansi ever done: [   ] lines
+15,01Biggest Ansi ever done: [      ] bytes
+15,01Best VGA ever done:
+15,01Biggest VGA ever done:  [      ] bytes

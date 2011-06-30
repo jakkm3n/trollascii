@@ -1,0 +1,27 @@
+
+15,01                   06,s%@S$$$$$$$$$$$$$$$$$$$$$$$$$$$13X$S2^^2S$06Ss,
+15,01              06,s%@S$$$$$$$$$$$$$$$$XKXKKXKXXXKXKXK13X'15,sS$$Ss,13`X06X,
+15,01           06,sS$X15 14d15O00N15E14D 15b00Y15 14V15eN00oM15ou14S06,XK13X$S2^^^2S$XX'15,KXXS22SKXX,13`06XX,
+15,01      06,s%@S$$$$$$$$$15 00[d15V14L/f15R00C]15 06$$$$X13X'00,15sS$$$Ss,13`X15 XKK'    `KXK 06XXX,
+15,01      06XXX13X$S2^2S$X06XXXXK13$S2^^^^^^^2S$15 00XX15KXXS22S$X, KXb      dXK 06XXXX
+15,01      06XX13X06'15,sS$Ss,13`X06XX13$'15,sS$$$$$$$S14s,00dX15XKX'   `XKX,`KX,    ,XX'13,06XXXX
+15,01      06XX13X06,15`*222*'13,XX'15,sXKXS22SKXXK14X 00XX15KXSsSXSs,`''13,15`XKSssSXX'13,06XXXXX
+15,01      06XX13X06'15,sS$Ss,13''15,sXXXX'13sSSs15`XXK14X 00XX15XKXXS22`'13,X'XK,15`2SS2'13,X06XXXXX'
+15,01      06XX13X,15`KXKXXX lSXKXKKXSs,13''15`SX14X 00XX15KXX`13,SSss06XXXXXX13$SssS$X06KXKXX'
+15,01      06`XX13X15 KXKXKX, SKXKXXKKXXs,06 15 `14X 002S15S2'13,06XXXXKKXXKXKXXKXKXKXXS2'
+15,01       06`XX13,15`XKXXKX 13,15`XKXKXXXKKXs,  14`13SssS$06XXXKXXKXS$$$$$$$S2*'
+15,01        06XX13X06 15XXKXKX 13XXSsssssssssssSXX06XXXXXXKXKXS2'
+15,01        06XX13X,15`*22*'13,X06XXXXXXKKXKXKXXXXKXS$$S2*'
+15,01        06`XX13X$SssS$X06XXXX$$$$$$$$$$$$S2*'
+15,01         06`S$$$$$$$$$$$$$$$$S2*'00+<1>15 00pUT yAR oPTIONS iN wHERE yOU wANT!
+15,01                         00   15   00+<2>15 00dON'T cHANGE tHE nAME oF tHE mAKER!
+15,01                         00   15   00+<3> dON'T cHANGE tHE15 00nAME oF tHE gROUP!
+15,01                         00   15   00+<4>15 00sEE aLL oUR rELEASES!15 00(pACKS oF aRTS/pPES)
+15,01 00 15                       00   15   00+<5>15 00rEQUEST aSKEES / aNSEES!
+15,01                         00   15   00+<6>15 00tRY tO rEQUEST pPE'S
+15,01                         00   15   00+<7> sEE tHE iNFO fILE / cOMPLETE tHE fILE .aPP!
+15,01                               00+<8> uSE tHIS aSKEE
+15,01                               00+<9>15 00eRASE tHIS tEXT aFTER rEAD iT!
+15,01                         00   
+15,01>SAUCE00Other Info menu. But This Is KEWL! VeNoMouS            DeViL FoRCeS     
+15,01   19970322j   @@P v                             

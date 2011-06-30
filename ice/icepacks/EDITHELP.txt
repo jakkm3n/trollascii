@@ -1,0 +1,9 @@
+
+15,01                        04m14,04                  04,01m    mmmmmm
+15,01                      04m14,04       01Line Editor Help14         04,01m
+15,01                      14,04 01Prefix command with / Character14  
+15,01                       04"14,04 04,01"""""""15       04"14,04  04,01"15        04""""
+08,01A 15- Abort            08E 15-14,04#15,01edit mode       14,04#04,01 08M 15- center line       08S 15- save
+08,01B 15- back a line      08F 15-13@15fix line number 13@04 08N 15- new message       08T 15- new title
+08,01C 15- continue         08I 15- insert line       08Q 15- quote
+08,01D 15- delete line(s)   08L 15- list message      08R 15- search & replace

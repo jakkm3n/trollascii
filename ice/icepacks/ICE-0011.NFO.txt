@@ -1,0 +1,56 @@
+15,01                    "#                                                         
+15,01                      mmm               mmm"#        mmm                       
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "                      
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 15,01                         
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 15,01                         
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m                       
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" -------------------------- 
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO 
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m --------------------- 
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||                      
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"                   
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt                  
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "                         
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@15                            
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "                         
+15,01                           00@15  # "|  #     00@15    "     #                         
+15,01                           14,15#15,01   |m         14,15#15,01       #                            
+15,01                                 00@15         |         .                         
+15,01                                  .       #    .                               
+15,01-------------------------------------------------------------------------------
+15,01               N  O  V  E  M  B  E  R         2   0   0   0                    
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,011.  Just because you asked nicely, here's yet another ice pack!                
+15,01                                                                               
+15,012.  iCE would like to proudly announce tiles.ice.org!  Load up your web browser
+15,01    and  check out  http://tiles.ice.org/  right now.  tiles.ice.org is  a  new
+15,01    project  that  lets  people  draw  together  collaboratively,  though  it's
+15,01    designed to enforce chaos on resulting image.  You can view the first image
+15,01    created with this process in this pack - check out ice-tile.jpg!           
+15,01                                                                               
+15,012a. It seems to be a big hit, though not many people are doing art for the pack
+15,01    anymore :)                                                                 
+15,01                                                                               
+15,013.  Unfortunately,  our database  server had an untimely end.  For that reason,
+15,01    our web site was out of commission for a week or two this month.  It's back
+15,01    up and struggling now, but we should have a new web site coming soon!      
+15,01                                                                               
+15,014.  We have 2  new members  in iCE this month.  Vincent Claes is a fantastic 3d
+15,01    artist     from     France.     You   can     check   out   his    art   on
+15,01    http://www.3dluvr.com/spyder/,  and the clips and shots  of the  film he is
+15,01    working on!                                                                
+15,01                                                                               
+15,014a. Robin Graham is our other new member. She is from California and has worked
+15,01    on sci-fi movies,  among  other  things.   Her  artwork  can  be  found  at
+15,01    http://www.robingraham.com/                                                
+15,01                                                                               
+15,01                                                                               
+15,01                                                - Slothy and Mass Delusion     
+15,01                                                                               
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion                   
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,01                                                                               
+15,01>

@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+15,01                                04ANSI SPONSOR MENU
+
+
+15,01                     (04A14)00dd ANSi's15        (04K14)00ill Group
+15,01                     (04D14)00elete ANSi15       (04L14)00ist ANSi's
+15,01                     (04G14)00Add Group15        (04S14)00elect Group
+15,01                     (04V14)00iew ANSi15         (04*14)00Change Group

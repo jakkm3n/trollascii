@@ -1,0 +1,65 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 S  E  P  T  E  M  B  E  R     1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+
+15,011.  Well, this month was kind of excessively quiet and boring... sorry.  Slothy
+15,01got his rubber chickens taken away so he had to sit in the corner all month.
+15,01We have managed to put together yet another all-star pack together and released
+15,01on-time, so enjoy this month's fix.
+
+15,012.  Quietly departing this month were Thrasher, Grindstone, TNA, and Deeply
+15,01Disturbed.  We sadly wave goodbye to them and hope they find whatever they are
+15,01looking for in their new location.  Joining the ice family with their
+15,01appropriate enthusiasm are ansi artists Black Viper and The 4th Disciple,and
+15,01the VGA wonder Wax.  We welcome these three extremely talented new artists and
+15,01hope they heard already about Force Ten and his seductive lingerie.  NO,
+15,01hampsters are not an initiation ritual, no matter what he tells you!
+
+15,013.  Lord Soth was caught shouting from the rooftops about the horrific rash his
+15,01rhesis monkey gave him... more at 11.
+
+15,014.  Food, folks, and fun.  Have you had your iCE today?
+
+15,015.  Once again we apologize for the lack of exciting things going on this
+15,01month.  We'll see if we can get the Chaos-o-meter jump-started for next month
+15,01so as to fill the NFO with exciting news, info, and brand new children's games!
+
+15,016.  That was a joke.  The info will be left out next month to make room for the
+15,01children's games.
+
+15,017.  We at iCE are proud to announce Sylum Entertainment's soon to be released
+15,01video game, Curly's Adventure from Sylum Entertainment; who are not only a fan
+15,01of iCE, but also house 1 of our members.  A Playable Demo of Curly's Adventure
+15,01will be out in the near future and available through their webpage.  You're
+15,01welcomed to check it out. Infact we insist you do!  Fans of such successful
+15,01games as Day of the Tentacle(c) and other silly slapstick laugh your ass off
+15,01adventure games, will certainly enjoy this nonstop comedic rollercoaster with
+15,01more humor then Cochran's closing arguements at the OJ trial.  So fill your
+15,01socks with spray cheeze, and grab your beer hats... because its bad humor at
+15,01its worst, and best of all, it not another Doom game!!!!
+15,01Curly's Adventures web page is www.epicgames.com/curly.htm
+
+
+15,01-------------------------------------------------------------------------------
+15,01           Force Ten     Friar Tuck      Lord Soth      Syntax Error
+15,01-------------------------------------------------------------------------------

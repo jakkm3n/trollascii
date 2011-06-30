@@ -1,0 +1,80 @@
+15,01# iCEView Description File
+15,01# Created by Friar Tuck/iCE on 7/1/1995
+15,01###############################################
+15,01-ansi---.ice,ANSI,-------------------------------------,Divider
+15,01at-hole2.ice,ANSI,Hole,Aphid Twix
+15,01bt-bs1.ice,ANSI,Black Sunshine,Biscuit
+15,01bt-mr1.ice,ANSI,Magic Reality,Biscuit/Magnetic M
+15,01cc-tci2.ice,ANSI,The Castle of Illusion,CybeR ChrisT
+15,01ck-ei8.ice,ANSI,eternal insanity .. ?! woOoo ..,chromatik
+15,01ck-illc2.ice,ANSI,.x.illcomm@.$.,Chromatik
+15,01ck-soe2.ice,ANSI,state o' euphoria? wee ..,Chromatik
+15,01gr-atica.ice,ANSI,Attica,Grimace
+15,01gr-mayo1.ice,ANSI,Mayo!,Grimace
+15,01hm-gzero.ice,ANSI,Ground Zero,Handyman
+15,01im-shrn1.ice,ANSI,the shrine,Image
+15,01iso-hrd2.ice,ANSI,Hoard,Isosceles.
+15,01kz-doa.ice,ANSI,Dead on Arrival,Kamikazee
+15,01kz-dsw.ice,ANSI,Dark Sun World,Kamikazee
+15,01kz-syn.ice,ANSI,The Syndicate,Kamikazee
+15,01lc-termt.ice,ANSI,Termite Terrace,Lord Carnuss
+15,01lo-mayo1.ice,ANSI,Mayo,Leonardo
+15,01ls-egod1.ice,ANSI,E.G.O.D.,Lord Soth
+15,01ls-pan13.ice,ANSI,The Pantheon,Lord Soth
+15,01ls-pan7.ice,ANSI,The Pantheon,Lord Soth
+15,01mk-nacho.ice,ANSI,Neo Nacho,Master Ken
+15,01mm-disv.ice,ANSI,Disembodied Voices,Magnetic M
+15,01mm-karma.ice,ANSI,Karma Magazine,Magnetic M
+15,01mm-tna.ice,ANSI,Prophecy,Magnetic M
+15,01tg-hole1.ice,ANSI,Hole,TooN GooN
+15,01tg-mayo1.ice,ANSI,Mayo!,TooN GooN
+15,01tg-misc1.ice,ANSI,BBS Screen Collection,TooN GooN
+15,01tg-mr1.ice,ANSI,Magic Reality,TooN GooN
+15,01tg-tma3.ice,ANSI,The Mourning After 2,TooN GooN
+15,01tg-tt3.ice,ANSI,Termite Terrace,TooN GooN
+15,01tr-mayo!.ice,ANSI,Mayo!,Turtle
+15,01us-hole.ice,ANSI,Hole,Gr/Leo/Boa/Sq2
+15,01us-stel2.ice,ANSI,Stellar Nights,Gr/DD/Kz
+15,01us-tter2.ice,ANSI,Termite Terrace,Cooly/Magnetic M
+15,01-logo---.ice,ANSI,-------------------------------------,Divider
+15,01ar-bs.ice,ANSI,Black Sunshine,Argon
+15,01ar-nn.ice,ANSI,Neo Nachos,Argon
+15,01ck-elix4.ice,ANSI,neatsies eLixir logo thingy .. yah.chrchromatik,chromatik
+15,01ck-ice3.ice,ANSI,iCE Promo,Chromatik
+15,01ck-sbz3.ice,ANSI,Sushi Bar Z,Chromatik
+15,01ck-soe1.ice,ANSI,.. sOe? whoa .. hmm ..,chromatik
+15,01hl-mayo.ice,ANSI,Mayo!,Hannibal Lecter
+15,01hn-hemp1.ice,ANSI,H.E.M.P. Canada,Highness
+15,01hn-hole1.ice,ANSI,Hole Art Studios,Highness
+15,01iso-l001.ice,ANSI,a couple o' triangle logos,isosceles
+15,01kz-dc.ice,ANSI,DataConnect,Kamikazee
+15,01kz-dsd.ice,ANSI,Distorted,Kamikazee
+15,01kz-trn.ice,ANSI,The Ravaged Nightmare,Kamikazee
+15,01kz-unchd.ice,ANSI,Unchained Promo,Kamikazee
+15,01kz-vin.ice,ANSI,Vintage Promo,Kamikazee
+15,01ma-dd1.ice,ANSI,Dark Destiny,Maestro
+15,01ma-egod1.ice,ANSI,E.G.O.D.,Maestro
+15,01ma-egod2.ice,ANSI,E.G.O.D.,Maestro
+15,01ma-ice2.ice,ANSI,iCE Promo,Maestro
+15,01ma-ice3.ice,ANSI,iCE Promo,Maestro
+15,01ma-ques1.ice,ANSI,Queso,Maestro
+15,01ma-syn1.ice,ANSI,Synergy,Maestro
+15,01ma-tftc2.ice,ANSI,Tales from the Crypt,Maestro
+15,01sc-gz2.ice,ANSI,Ground Zero,Sliver Cut
+15,01-humor--.ice,ANSI,-------------------------------------,Divider
+15,01bz-nacho.ice,ANSI,Neo Nachos,Blazer
+15,01ft-mayo.ice,ANSI,Mayo!,Fire Truck
+15,01-vga----.ice,ANSI,-------------------------------------,Divider
+15,01GraffitiCE,Azagoth
+15,01bn-pwr1.gif,GIF,Powergrid,Borian
+15,01bn-tt1.gif,GIF,The Twisted Tower,Borian
+15,01gw-shamp.gif,GIF,Shamp,Gwah
+15,01gw-skull.gif,GIF,Skull,Gwah
+15,01nd-cstl1.gif,GIF,Castle,Nuke Doggy Dog
+15,01sq-recip.gif,GIF,Reciprocity,Squidgalator ][
+15,01-exe----.ice,ANSI,-------------------------------------,Divider
+15,01bz-cat.exe,EXE,Cat's Cradle,Blazer
+15,01bz-colrs.exe,EXE,Colors,Blazer
+15,01ip-ins.exe,EXE,Insomnia,Icepick
+15,01-stats--.ice,ANSI,-------------------------------------,Divider
+15,01ice-9506.mem,ANSI,iCE Memberlist for 6/95,iCE Staff

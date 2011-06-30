@@ -1,0 +1,24 @@
+15,01- Quick Dox CiATL PPE
+
+
+15,01  This ppe allows the sysop to define a short logon sequence and a long logon
+15,01sequence.  It give the caller the choose to pick either one, hence a turbo
+15,01login.  This ppe should be installed into your NEWS file located in the 
+15,01PCB/GEN directory.  The following command should be the ONLY line in the 
+15,01news file:
+
+15,01                        !C:\PCB\PPE\TL\CIATL.PPE
+15,01                        ^^^^^^^^^^^^^^|^^^^^^^^^
+15,01                        Path of PPE   | Name of PPE
+
+15,01  In the unmodified form, if a user selects a turbo logon, it will display
+15,01a file caleld NEWS. in the ppe directory.  If the user selects a standard 
+15,01logon, it will display a file called LOGON. located in the ppe directory.  
+15,01This way, you can have a turbo login option with any external ppes you may
+15,01choose to put in your turbo login.  Feel free to edit the source to personalize
+15,01the ppe for your system, but please do not re-distrubite a modified version.
+
+15,01- End of Quick Dox
+
+
+15,01  

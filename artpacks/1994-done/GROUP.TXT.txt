@@ -1,0 +1,14 @@
+15,01; Note: This file is used for auto group detections. Some groups include
+15,01; specific files to mark their releases. You can create entries in the
+15,01; following format:
+15,01;
+15,01;  <Group Filename>    <Group Name>
+15,01;
+15,01; Here are some samples:
+15,01;
+15,01flt.nfo FLT
+15,01dream.nfo TDT
+15,01razor.nfo RAZOR
+15,01sinctaw.nfo LAMERS
+15,01ntg-read.now LAMEMIKO
+15,01-trsi-.nfo TRSI

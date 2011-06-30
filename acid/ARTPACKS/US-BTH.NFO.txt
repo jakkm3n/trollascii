@@ -1,0 +1,80 @@
+
+15,01      08m15                         08m15        08#15 01greets to: Hooptie, RaD Man, Napalm,
+15,01    08m15    08#15        08#15        08mmm14,08  08,01|15        14,08#15,01            01MindCrime, Snowman,
+15,01   14,08 08,01@15    08@15  08mmmmmmmmm15  08#15    14,08 08#14 08#15,01 14  15     14,08 08#08,01m15           01Catbones, kXmode,
+15,01    08"mm#m14,08#08#@08,01"15 14#15   08"08,08#@#@14#15,01 08mmm14,08 08@#@08,01mmmmmmm08,08#14 08@08,01m15  08#15     08#15 14 01grymmjack.        
+15,01      08"15 08,08##@#08,01#15 14,14#01,01@15 14 #15 08,08#@#08,01"15 14#15  08,08##@#08,01 14mmmm15 08,08#@##15,01 14m 08""15 08mmm14,08#
+15,01  14 15 14m"14,14 15,01 14,08 08@# 08,01@15 14"#15  08m"""15  14#01@14#15 08,08@14 08#14 08,01 14,14#   15,01 08,08@#@ 15,01 14,14#   14,01m15 08"08,08#@#08,01m01 (if I didn't greet you,
+14,01"15  14 15  14|15 14,08 08#14  08,01"15  08"00"15 08mmm15  14#01@14,14#01,01@08|08,08#14   08,01#01@14,14 # 15,01 08,08# # 08,01#01@14,14 # # 14,01|08|"15 04# 15 01don'14"01t take it person-
+15,01  14"m15  14,14 15,01 14,08 08,01"00""15 14 14,14 # 14,01mm15 08"08,08#@08,01m15 14"14,14#15,01 14,08 08,01"00""08@14#14,14 01,01@14,14#15,01 14,08#08   08,01#14#14,14 01,01@14,14#01,01@14,14  15,01 04#  #15  14m01aly.  I just don't 
+14,01 15  14|14,14 14,01"g15  04 ## 14 14,14#01,01@14,14 # #14,01m00|08,08# #08,01m#15  04  #15  14,14 14,01#01@15 08#08,08   08,01@15 14,14#14,01#01@14#14,14 #15,01 13@04  13@15 14,14 15,01 01 like you!)
+15,01   14m14,14 14,01ml15 04# 13@@15 14 01@14#14,14 01,01@14,14#01,01@14,14#15,01 04#15 00"14,08 #15,01 04#  13@15  14,14#15,01 01@15 04#15 00""08 15 01@15 14#15 14,14#01,01@15 14,04#04,01 #14,04#15,01 14|
+15,01 14m#15  14"14,14 15,01 13@04 14,04##04,01#14 #15 14,14#14,01#01@14#01@15 13@04#m#15  13@04 #14,04#15,01  01@15   13@04  #15  14#15   01@14#15 14,04 04,01 13@14,04 15,01 14,14 
+14,01|14,14 15,01    14|15 14,04#04,01#14,04  04,01#14   01@14 # 15 13@14,04#13,01@14,04 04,01"15  14,04#04,01 13@14,04 04,01|15 14#15 14#15 14,04#04,01 #13@15      14#15  14,04 04,01#14,04# 15,01 14 14,14 14,01m
+15,01 14"14,14 14,01m15   04|14,04 13,01@14,04  13,01@14   # 15 04m14,04 # 04,01"15 14,14#15,01  14,04 04,01#14,04# 15,01 14  15 14#15 14,04 04,01#13@14,04#04,01"15        14,04 13,01@14,04 04,01|15 14m15 14"14,14 14,01m
+15,01     14"15  14,04 #  #04,01mmmm14,04#04,01"""14 m14,14#14,01"15   14,04 13,01@14,04  15,01 14,14#15,01    14,04 13,01@14,04# 15,01        14,04  #04,01"15 14,14 15,01      14"
+15,01       04""""""15  14mmm14,14 #14,01""#15    04""14,04#04,01""15 01@15   04|14,04 #04,01""15       14,04 04,01""15 14m14,14 14,01|
+15,01         01@15   14#15 01@15   14 15           14# #15   04"15         04"15       14,14 
+14,01--------15 14# --- #15 14-----------------------15 04mm14,04 04,01"15 14--------- "15 14----------------------
+15,01           00Beyond The Horizon Issue #615  14,04 #04,01#15    04#15          14"15 14#
+15,01             14Coming March 15th, 1997   04|14,04 #15,01       01ANSI IS DEAD!
+14,01---------------------------------------15 04""14,04 04,01m15 04"15 14---------------------------------
+
+15,01     14Greetings!  Mindcrime and I have decided to bless you all with one more
+14,01issue of Beyond The Horizon.  The issue should be out no later than March 15th
+14,01and as usual it will contain exclusive interviews, articles, and reviews by
+14,01influential artists in the scene.15  14This was just a 2 day project to let every-
+14,01one know whats up.
+
+14,01--08R14-08E14-08Q14-08U14-08I14-08R14-08E14-08M14-08E14-08N14-08T14-08S14-------------------------------------------------------
+
+15,01        14VESA 2.0
+15,01        1480486+15 14Processor15 14(requires math co-processor)
+15,01        1432bit Operating System
+15,01          14- extensively tested in Windows 95 console
+15,01        14  - should work in OS/2 and Linux DOSEmu
+15,01          14- might work in DOS15 14with extender
+15,01        14Tested thoroughly with Gravis Ultrasound cards, might work with
+15,01        14Sound Blasters and compatibles.  Use the command line options if
+15,01        14you have any difficulties with the sound.01  SoundBlasters SUCK!
+
+14,01--08C14-08O14-08M14-08P14-08A14-08T14-08I14-08B14-08I14-08L14-08I14-08T14-08Y14-----------------------------------------------------
+
+15,01     14I realize that requiring VESA 2.0 support is a major obstacle for a lot
+15,01     14of people, but its the only way to break out of the pathetic world15 14of
+15,01     14standard 320x200x256 graphics without selling out to the DirectX Windows95
+15,01     14trend and without writing support for every video card individualy.  ( I
+15,01     14will not use someone elses graphics library ).  The latest version of
+15,01     14SciTech Display Doctor supports just about every video card on the planet,
+15,01     14so if you install that you should be fine.  VESA 2.0 offers such a drama-  
+15,01     14tic speed improvement for normal Windows operation and DOS games I don't   
+15,01     14know why anyone wouldn't want to install it.  Anyway, these are the cards  
+14,01     that I tested it on.15  14If your card doesn't directly support VESA 2.0 then  
+14,01  15   14make sure the SDD control panel has a Linear Frame Buffer setup and
+15,01     14working.
+
+04,01#13@14,04# 15,01 Cards without native VESA 2.0 support (had to use SDD) 14,04 #13,01@04###### ## #  #
+
+15,01     14Generic Trident SVGA (tgui9440) 1 meg DRAM
+15,01     14Number 9 Motion 968 w/ 2 meg VRAM
+15,01     14Stealth 6415 142000 w/ 2 meg DRAM
+
+04,01#13@14,04# 15,01 Cards with native VESA 2.0 support 14,04 #13,01@04#####13@04########13@04###### ####### #  #
+
+15,01     14STB Lightspeed 128 (ET4000) 2.25 meg EDO
+15,01     14STB Powergraph 64 (S3) 2 meg EDO
+15,01     14Janton MPEG (Trident) 1 meg DRAM
+
+14,01--08C14-08R14-08E14-08D14-08I14-08T14-08S14-----------------------------------------------------------------
+
+15,01        14code (80k):   04S13h15i14van 04B13a15s14tard13 00(14sb@acid.org00)
+15,01        14vga (200k):15   04C13a15t14bones 00(14cat@rollanet.org00)
+15,01        14snd (120k):15   04k13X15M14ode13 00(14randrew@primenet.com00)
+
+15,01      14If anyone wants the source to my lens or anything check the source on15 14the
+14,01Acid Artpacks Archive.15  14"us-bth /?" if you have any problems with the sound.15 14I
+14,01used MikMak's awesome sound library for the S3M player.15  14Look for my tutorial
+14,01on the Lens effect in the next BTH!15 14 01I'll probably be too involved with my
+01,01java and perl coding to ever release bth6!
+15,01       14who's your daddy? ..15  04,s$
+15,01  14--15 14-15   -- -13--04,sS2'"2Ss,13-15-04 a$$$a'"2Ss,13-15-- 14-15-14-15 14-

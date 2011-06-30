@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : May Update       *       June 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0693.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0593 ANS |   8734 | 5.31.93 |%+   | May Members List               |
+15,01*|N/C|ACIDART  APL |   4939 | 5.29.93 |%+   | ACiD Artists Application Form  |
+15,01*|N/C|ACIDCOUR APL |   3572 | 5.31.93 |%+   | ACiD Courier Application Form  |
+15,01*|N/C|ACIDVGA  APL |   2141 | 5.08.93 |%+   | ACiD VGA Request Application   |
+15,01*|2  |AE-BHARM ANS |  41020 | 5.17.93 |%+   | Bodily Harm                    |
+15,01*|3  |AE-CHAIN ANS |   7447 | 5.07.93 |%+   | Unchained "Walking the fine..."|
+15,01*|4  |AE-CLSTS ANS |  14144 | 5.14.93 |%+   | Celerity User Stats Screen     |
+15,01*|5  |AE-HELL  ANS |  15397 | 5.31.93 |%+   | Hell                           |
+15,01*|6  |AK-SPAWN EXE |  57077 | 5.28.93 |%    | The Spawning Grounds (SVGA)    |
+15,01*|7  |CE-SPLAT ANS |  18947 | 5.29.93 |%+   | Splatter House                 |
+15,01*|8  |DH-ACID1 ANS |   7320 | 5.02.93 |%+   | ACiD 1993                      |
+15,01*|9  |DH-ACID1 EXE |  49784 | 5.31.93 |%xM  | ACiD Logo                      |
+15,01*|10 |DH-ADREN EXE |  31588 | 5.29.93 |%M   | Adrenalin Logo                 |
+15,01*|11 |DH-CRWL  ANS |  35550 | 5.15.93 |%+   | Crewel Lye                     |
+15,01*|12 |DH-MAXX  ANS |  11466 | 5.04.93 |%+   | Maxx ViSiON-X Stats Screen     |
+15,01*|13 |DS-FZONE ANS |  19992 | 5.31.93 |%+   | Final Zone                     |
+15,01*|14 |DT-GHETO ANS | 214105 | 5.26.93 |%Ax  | The Ghetto                     |
+15,01*|15 |DT-TGF   ANS |  11945 | 5.15.93 |%+   | GodFather Systems              |
+15,01*|16 |DV-FEAR1 EXE |  62253 | 5.29.93 |%AM  | Fear and Loathing              |
+15,01*|N/C|FILE_ID  DIZ |    208 | 5.29.93 |%    | Acquisition FILE ID by Vision  |
+15,01*|17 |FN-AOXOM ANS |   9650 | 5.03.93 |%+   | AOXOMOXOA                      |
+15,01*|18 |FN-CCI1  ANS |   2291 | 5.22.93 |%    | "CCi" CyberCrime Logo          |
+15,01*|19 |FN-TKEEP ANS |  25441 | 5.23.93 |%+   | The Keep                       |
+15,01*|20 |FX-ACID2 EXE | 144555 | 5.31.93 |%AM  | ACiD's Spin Plas               |
+15,01*|21 |GO-CITY1 ANS |  35600 | 5.24.93 |%+   | The City                       |
+15,01*|22 |IZ-EPID  ANS |   7047 | 5.07.93 |%+   | Epidemic Illusions             |
+15,01*|23 |IZ-HELLB ANS |  15245 | 5.27.93 |%+   | Hell Bound                     |
+15,01*|24 |LM-EVLN  ANS |  46020 | 5.05.93 |%+   | Evilution                      |
+15,01*|25 |LM-IUD   ANS |  11207 | 5.10.93 |%+   | INC Utility Division Logo/Mems |
+15,01*|26 |LM-SWAT1 ANS |   4813 | 5.15.93 |%    | SWAT Couriers Logo             |
+15,01*|27 |MH-T1000 EXE |  65413 | 5.22.93 |%AM  | CLINTERMINATOR                 |
+15,01*|28 |MX-RL1   EXE |  53558 | 5.31.93 |%xM  | Renegade Legion                |
+15,01*|29 |MX-SN5   ZIP | 105938 | 5.26.93 |%M   | Saturn V                       |
+15,01*|30 |PJ-HELL  ANS |  22575 | 5.13.93 |%+   | Hell                           |
+15,01*|31 |PJ-UNT   ANS |  18399 | 5.09.93 |%+   | Untouchables Logo              |
+15,01*|32 |RS-IR1   EXE |  98403 | 5.31.93 |%xM  | Infinite Ragnarok              |
+15,01*|33 |SC-RD    EXE |  12313 | 5.24.93 |%    | Realms of Darkness (EGA/VGA)   |
+15,01*|34 |SK-ACID  ANS |   7238 | 5.08.93 |%+   | ACiD "Bunny" and Logo          |
+15,01*|35 |SK-TUD   ANS |  28156 | 5.15.93 |%+   | The Utopian Dream              |
+15,01*|36 |TK-AV353 ZIP |  39963 | 6.01.93 |%    | ACiD Acquisition Viewer v3.53  |
+15,01*|37 |VS-TTC   ANS |   8087 | 5.02.93 |%+   | Terrorist Training Camp        |
+15,01*|38 |ACDU0693 NFO |   6642 | 6.01.93 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |

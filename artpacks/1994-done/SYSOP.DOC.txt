@@ -1,0 +1,22 @@
+15,01User Insuter v1.04 Coded by Nighthawk [ViA/CoRPSE]
+
+15,01Disclaimer:  I will not be held responsible for anything that happens to your
+15,01computer's hardware or software or any other side effect that occurs when
+15,01this program is run.  I will not garentee that it will work, I can only
+15,01garentee that this program will take up space on your hard drive.
+
+15,01Now that that's settled...
+
+15,01This is a spiffy little program that is humorisly rude.  Just stick this
+15,01program as one of your logon events to insult your users as they logon.
+15,01There are 99 different rude remarks that can either be run from the BBS
+15,01or locally.  There shouldn't be any problems installing this in any BBS
+15,01program as long as it supports a logon events which run executables and
+15,01some sort of ANSI.SYS is loaded.  Also, you *MUST* turn on your DOS
+15,01Interupts inorder for the remote to see it.
+
+15,01If you need to find out how to install the program, look it up in your
+15,01BBS Docs if you still have them lying around.
+
+
+15,01                                                --Nighthawk [ViA/CoRPSE]

@@ -1,0 +1,43 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 11/8/1997
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01ice-9710.mem,ANSI,iCE - September 97 Members,iCE staff
+15,01ice-9710.nfo,ANSI,iCE - September 97 Info,iCE staff
+15,01ice-9710.sit,ANSI,iCE - September 97 Sites,iCE staff
+15,01----
+15,01(PICS)
+15,01----
+15,01mm-23sch.ice,ANSI,Dedicated to Michael Schumacher, Magnetic M
+15,01tg-icef.ice,ANSI,iCE Promo,Toon Goon & Trip
+15,01tgh-ice1.ice,ANSI,iCE Promo, The Green Hornet
+15,01----
+15,01(LOGO)
+15,01----
+15,01us-neo.ice,ANSI,Neosporin,Elastic & Kadaver
+15,0109-ps1.ice,ANSI,Private System, Fluor
+15,01----
+15,01(VGA)
+15,01----
+15,01ch-choos.jpg,EXTERNAL,ch-choos.jpg,Christian Haley
+15,01ch-savng.jpg,EXTERNAL,ch-savng.jpg,Christian Haley
+15,01ci-byend.gif,EXTERNAL,bye Night Daemon,Cyberise
+15,01dm-carng.jpg,EXTERNAL,dm-carng.jpg,Darkmage
+15,01dm-conjr.jpg,EXTERNAL,dm-conjr.jpg,Darkmage
+15,01dm-corrd.jpg,EXTERNAL,dm-corrd.jpg,Darkmage
+15,01dm-stars.jpg,EXTERNAL,dm-stars.jpg,Darkmage
+15,01ja-gal.jpg,EXTERNAL,http://shalom.ice.org,Jae
+15,01ja-rmnia.jpg,EXTERNAL,ja-rmnia.jpg,Jae
+15,01ls-levi.jpg,EXTERNAL,In Memory of Levi Dedi,Lord Soth
+15,01me-gits.jpg,EXTERNAL,Light Weight Tank,Megalith
+15,01mi-smple.jpg,EXTERNAL,mi-smple.jpg,Mongi
+15,01nx-ilona.jpg,EXTERNAL,nx-ilona.jpg,Nixus
+15,01pw-gold1.jpg,EXTERNAL,Goldfish frame 1,Poweronx
+15,01pw-gold2.jpg,EXTERNAL,Goldfish frame 2,Poweronx
+15,01rl-troop.jpg,EXTERNAL,Storm Troopers,Rogue Leader
+15,01ta-normn.jpg,EXTERNAL,ta-normn.jpg,Taron
+15,01ta-por21.jpg,EXTERNAL,ta-por21.jpg,Taron
+15,01ta-vacul.jpg,EXTERNAL,ta-vacul.jpg,Taron
+15,01us-moon.jpg,EXTERNAL,us-moon.jpg,Mongi & Tetanus
+15,01wix_mndl.jpg,EXTERNAL,wix_mndl.jpg,Wix
+15,01----

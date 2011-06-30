@@ -1,0 +1,76 @@
+15,01breed1.nfo
+15,01                       mmm  mmm  mmm  mmm  mmm
+15,01                       #  14,15 15,01 #  14,15 15,01 #  14,15 15,01 #  14,15 15,01 #  14,15 
+15,01                       00@15  14,15 15,01 00@15  14,15 15,01 00@15  14,15 15,01 00@15  14,15 15,01 00@15  14,15 
+15,01                       14,15#15,01 "m 14,15#15,01 "m 14,15#15,01" m 14,15#15,01" m 14,15#15,01  14,15 
+15,01                       14,15#15,01  14,15 15,01 14,15#15,01  14,15 15,01 14,15#15,01  14,15 15,01 14,15#15,01  14,15 15,01 14,15#15,01  14,15 
+15,01                       """  "  14,15 15,01 """  """  """
+15,01                               """"""""""""""""
+15,01                       T.H.E  N.E.W  B.R.E.E.D
+
+
+15,01     .                                                               .
+15,01     |                                                               |
+15,01   +-+                         B R E E D (tm)                        +-+
+15,01.--+-+                                                               +-+--.
+15,01     .                    "The New Breed of ELiTES"                  .
+15,01     |                                                               |
+15,01     | Breed: (b7Ed) [A.-S brEdan(cp. g. bruten, A.-S brod, BROOD]   |
+15,01     |        To bring forth, to give birth to, to raise, to rear,   |
+15,01     |        to give  rise to, to yield, to  produce, to develop,   |
+15,01     |        to educate.                                            |
+15,01     |                                                               |
+15,01     | We are the new BREED of artists,  we came  to be on an idea   |
+15,01     | thought of by our  senior members of  a fun group. One with   |
+15,01     | no deadlines, no hassle, just kick-ass art. We are present-   |
+15,01     | ly  looking to  acquire  those of  the new BREED, those who   |
+15,01     | have what it takes to  join our  ranks. Do you have what it   |
+15,01     | takes?                                                        |
+15,01     |                                                               |
+15,01     | We  are  presently in  need of  good coders  and especially   |
+15,01     | ansi artists. To apply, fill out the application in the en-   |
+15,01     | closed application generator. Then send  it to one of these   |
+15,01     | boards.                                                       |
+15,01     .                                                               .
+
+15,01     .                 BREED Member and Site Boards                  .
+15,01   .-+--------------------- . ---------- . -------------- . ---------+-.
+15,01     .      Board Name      |  Position  |     Number     |   SysOp  .
+15,01     +--------------------- . ---------- . -------------- . ---------+
+15,01     |     The Sno-Zone     |    WHQ     | (613) 025-0652 | Henchman |
+15,01     | Looking for more...  |   ......   | .............. | ........ |
+15,01     |                      |            |                |          |
+15,01     |                      |            |                |          |
+
+
+15,01     .                       BREED Member List                       .
+15,01   .-+---------------------------------------------------------------+-.
+
+15,01                             Senior Members
+15,01                           .----------------.
+15,01                          Henchman, UltraViolet
+
+15,01                               VGA Artists
+15,01                             .-------------.
+15,01                           Henchman, Blood Lust
+
+15,01                                Ansi Team
+15,01                              .-----------.
+15,01                             Henchman (Interm)
+
+15,01                                  Coders
+15,01                                .--------.
+15,01                                UltraViolet
+
+15,01                                 Couriers
+15,01                               .----------.
+15,01                              Practical Joker
+
+15,01                                 Mod Squad
+15,01                               .-----------.
+15,01                              Your Name Here, ?
+
+15,01.--+-+ .-----------------------------------------------------------. +-+--.
+15,01   +-+                Look for our next pack... on...                +-+
+15,01     |                  oh, fuck it! we don't know.                  |
+15,01     .                 Sometime soon, hopefully!?!?!                 .

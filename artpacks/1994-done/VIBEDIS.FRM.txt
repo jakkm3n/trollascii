@@ -1,0 +1,75 @@
+15,01              mmmmmm
+15,01              |"14,15######15,01    mm   m14,15##15,01m mm14,15####15,01m         m14,15###00,01@@@@15#m
+15,01        mmmm      "14,15####15,01  |  "   "14,15###15,01m    "00@@15m      14,15### 15,01"    "#"|
+15,01       | 14,15####15,01       00@@14,15##15,01   m14,15###15,01   00@14,15##15,01m     ##|    m14,15###
+15,01          "14,15##00,01@15       00@@14,15#15,01" | 14,15###00,01@15  "00@14,15##15,01      "     14,15###
+15,01            14,15#00,01@@15     ##00@15      14,15#00,01@@15   "00@14,15#15,01||""14,15#####15,01m |14,15##15,01| mm14,15#00,01@15#"|
+15,01             "00@15#   ##"       14,15#00,01@15|    #00@15|       14,15##15,01m 14,15##00,01@15 "         
+15,01               ## ##        ##|    |#00@15|        14,15#00,01@15|14,15#00,01@@@15 DiCE m##m
+15,01                # "        #"      ###         m00@15| 14,15#00,01@@@15m   ###" |
+15,01                | "      |"       m##" "mmmmm##00@15"   "00@@@@15####"
+15,01                      Vision Impaired Beyond Explanation
+15,01                                 ANSi Group
+
+15,01                        Distribution Site Information                      
+15,01-----------------------------------------------------------------------------
+15,01-|-READ
+
+15,01   Thanks for downloading this file and maybe I can persuade you to make
+15,01 your BBS an official distribution site for ViBE. In order to become a site,
+15,01 you must qualify from the following information:
+
+15,01 * You must be a SysOp and run a BBS
+15,01 * You must run a 24hour BBS
+15,01 * Your BBS must .NOT. contain any illegal activities
+15,01 * You must set up a seperate file area just for ViBE ANSi Packs/Info
+15,01 * You must display the ViBE Distribution Site ANSi before the user reaches
+15,01   the Main Menu prompt [Choose from VIBEDIS#.VIB].
+15,01 * You must agree NOT to use ..ANY.. ANSi screens made by the group in ViBE
+15,01   unless permitted to.
+15,01 * You must not add or delete anything from any ANSi's you receive.
+15,01 * You must carry .ALL. releases from ViBE
+15,01 * You must obtain the new releases from The Shareware Exchange! 415-992-4320
+15,01   HQ, or any other Sites near you.
+
+
+15,01-|-Fill out .ALL. the following information
+
+15,01 SysOp's FULL Name  [_____________________________________________]
+
+15,01 Handle/Alias       [_____________________________________________]
+15,01 
+15,01 Street Address     [_____________________________________________]
+
+15,01 City/State/Zip     [_____________________________________________]
+
+15,01 Voice Phone Number [_______________]
+
+15,01 Birth Date         [_______________] 
+
+15,01 BBS Name           [_____________________________________________]
+
+15,01 BBS Phone Number[s][_____________________________________________]
+
+15,01 Baud Rates         [_______________]
+
+15,01 BBS Software       [__________________________] Ver [____________]
+
+15,01 Hard Drive Space   [_______________]
+
+15,01 Front-End-Mailer   [__________________________] Ver [____________]
+
+15,01 FidoNET #          [_______________]
+
+15,01 Why do you want to [_____________________________________________]
+15,01 become a Site?     [_____________________________________________]
+
+
+
+15,01           Support BBS:                 |     Send to:
+15,01           The Shareware Exchange!      |     Christopher Jong   
+15,01           [415] 992-4320 (8-N-1)       |     ATTN: ViBE
+15,01           Bauds 2400-14.4K             |     200 Palisades Drive
+15,01           Daly City, California USA    |     Daly City, CA 94015
+15,01           Christopher Jong, SysOp      |
+15,01           FidoNET # 1:125/85           |

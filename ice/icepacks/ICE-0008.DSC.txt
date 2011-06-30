@@ -1,0 +1,20 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 9/1/2000
+15,01###############################################
+15,01ice-0008.nfo,ANSI,iCE 08/2000 Nfo File,iCE Senior Staff
+15,01ice-0008.sit,ANSI,iCE 08/2000 Site Listing,iCE Senior Staff
+15,01ice-0008.mem,ANSI,iCE 08/2000 Member List,iCE Senior Staff
+15,01ag-view.jpg,EXTERNAL,The View,Adam Grossi
+15,01iv-neow.jpg,EXTERNAL,Neowarp.com,Inner Vision
+15,01jm-ruins.jpg,EXTERNAL,Ruins,Jamie McCarter
+15,01kb-angel.jpg,EXTERNAL,Angel,Kabal 13
+15,01kb-ankh1.jpg,EXTERNAL,Ankh #1,Kabal 13
+15,01kb-ankh3.jpg,EXTERNAL,Ankh #3,Kabal 13
+15,01kb-audu.jpg,EXTERNAL,Audu-Biology,Kabal 13
+15,01kb-evil.jpg,EXTERNAL,Evilink,Kabal 13
+15,01kb-mann1.jpg,EXTERNAL,Mannequin,Kabal 13
+15,01kb-sol.jpg,EXTERNAL,Solitude,Kabal 13
+15,01sq2-hexx.jpg,EXTERNAL,Hexadecimal Borg Chamber,Squidgalator 2
+15,01ve-fatty.jpg,EXTERNAL,Mr. Fattie,Vesalius
+15,01xt-xtndr.gif,EXTERNAL,Xtender Font Flyer,Xten
+15,01file_id.diz,ANSI,file_id.diz,Trip

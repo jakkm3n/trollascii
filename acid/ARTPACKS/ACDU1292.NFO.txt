@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : November Update  *   December 1st, 1992 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1292.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-AE1 ANS |  10534 |11.28.92 |%+   | ACiD Logo by Alter Ego         |
+15,01*|2  |ACID-CB  ANS |   2601 |11.29.92 |%    | ACiD Logo by Colorblind        |
+15,01*|3  |ACID-FN1 ANS |   8967 |11.30.92 |%+   | ACiD Logo by FusioN            |
+15,01*|4  |ACID92   ANS |   6412 |12.01.92 |%+   | ACiD Member List for December  |
+15,01*|N/C|ACIDART  APL |   4916 |11.10.92 |%+   | ACiD Artists Application Form  |
+15,01*|N/C|ACIDCOUR APL |   3416 |11.20.92 |%+   | ACiD Courier Application Form  |
+15,01*|5  |ACIDHIGH ANS |   6718 |11.30.92 |%+   | ACiD Logo "Feel the Effects..."|
+15,01*|6  |AOFACID5 ANS |  17407 |11.04.92 |%+   | Agents of Fortune           (5)|
+15,01*|7  |BADLACD1 EXE |  79798 |11.17.92 |%M   | The BadLands                   |
+15,01*|8  |BADLACD3 ANS |  18415 |11.02.92 |%+   | The BadLands                (3)|
+15,01*|9  |BADLACD4 ANS | 109886 |11.23.92 |%Ax  | The BadLands                (4)|
+15,01*|10 |BCACID2  EXE |  10336 |11.29.92 |%x   | Body Count                  (2)|
+15,01*|11 |CARTEL   ANS | 224696 |11.10.92 |%Ax+ | The Cartel                     |
+15,01*|12 |DARKRELM ANS |   4668 |11.27.92 |%    | Dark Realm                     |
+15,01*|13 |DSOCACD  ZIP | 300233 |11.29.92 |%AxM | Dark Society MEGA LOADER       |
+15,01*|14 |DSOCACD5 ANS |  21185 |11.27.92 |%+   | Dark Society                (5)|
+15,01*|15 |ELYSACD2 ANS |  15779 |11.16.92 |%+   | Elysium                     (2)|
+15,01*|16 |FIFOLIFO ANS |  15069 |11.17.92 |%+   | FiFo LiFo                      |
+15,01*|17 |FLT-ACD4 ANS |  17236 |11.11.92 |%+   | Fairlight Logo              (4)|
+15,01*|18 |FOZZYACD ANS |   3819 |11.23.92 |%+   | BBSers against FelonyNet       |
+15,01*|19 |GRNCHACD ANS |   6187 |11.29.92 |%+   | Seasons Greetings from CB      |
+15,01*|20 |MALICE1  ANS |   4335 |11.29.92 |%+   | Malice Courier Group Logo      |
+15,01*|21 |MBSACID  ANS |   5144 |11.29.92 |%+   | My Boomin' Systems             |
+15,01*|22 |MPACID2  EXE |  16109 |11.29.92 |%x   | Manhattan Project           (2)|
+15,01*|23 |NAUWH-VN ANS |   6278 |11.19.92 |%+   | The Nauseous Whirlwind         |
+15,01*|24 |NVRACID1 ANS |   6278 |11.09.92 |%+   | NeverWinter                 (1)|
+15,01*|25 |NVRACID2 ANS |   3616 |11.29.92 |%    | NeverWinter                 (2)|
+15,01*|26 |PDCBACD  ANS |   5016 |11.29.92 |%+   | The Pleasure Dome              |
+15,01*|27 |RELMACD8 ANS |   7493 |11.21.92 |%+   | Beyond the Realm of Reality (8)|
+15,01*|28 |SC-ACID7 ANS |  25036 |11.06.92 |%+   | Spyrits Crypt               (7)|
+15,01*|29 |SC-ACID8 ANS |   6512 |11.23.92 |%+   | Spyrits Crypt               (8)|
+15,01*|30 |SK8ACID2 ANS |  75260 |11.30.92 |%x   | Harmony Skates              (2)|
+15,01*|31 |TEC3ACID ANS |   2241 |11.29.92 |%    | The Eldar's Craftworld      (3)|
+15,01*|32 |TMG1-VN  ANS |   4466 |11.11.92 |%    | The Mappers Guild Logo/Menu (1)|
+15,01*|33 |TMG2-VN  ANS |   5006 |11.15.92 |%    | The Mappers Guild Logo/Menu (2)|
+15,01*|34 |ACDU1292 NFO |   6154 |12.01.92 |%    | This File                      |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Adlib/ANSi Music/SB  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+

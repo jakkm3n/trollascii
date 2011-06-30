@@ -1,0 +1,21 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 11/1/1999
+15,01###############################################
+15,01ice-9910.nfo,ANSI,iCE 99/10 Info File,iCE Senior Staff
+15,01ice-9910.mem,ANSI,iCE 99/10 Member List,iCE Senior Staff
+15,01ice-9910.sit,ANSI,iCE 99/10 Site listing,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01file_id.diz,ANSI,File ID,Prizm
+15,0109-burn.ice,ANSI,Burn,Fluor
+15,01ig-tea.ice,ANSI,Tea,Ironghost
+15,01ti-screm.ice,ANSI,The Scream,Trip
+15,01us-awe.ice,ANSI,Awe,Multiple Artists
+15,01ti-stang.rip,RIP,Ford Mustang,Trip
+15,0188-bioco.jpg,EXTERNAL,Biocomputers,Root 88
+15,01ag-fap.jpg,EXTERNAL,fap,Adam Grossi
+15,01dm-fact1.jpg,EXTERNAL,fact,Darkmage
+15,01dv-godes.jpg,EXTERNAL,Phrozen Crew Goddess,Davinci
+15,01ja-bathr.jpg,EXTERNAL,Bather,Jae
+15,01jm-corri.jpg,EXTERNAL,Corridor,Jamie McCarter
+15,01mi-isss.jpg,EXTENRAL,Issues,Mongi
+15,01sd-pi.jpg,EXTERNAL,pi,Shade

@@ -1,0 +1,24 @@
+09,01"T03he15 14Country St03or09e"
+
+09,01Th03e15 14room is filled abundan03tl09y.15                      09Tw03we14fth Kn03ig09ht
+09,01Th03e15 14items lay upon the shel03ve09s.15                     09BL03/+14DE15 03L09it
+09,01Th03ou14gh some ornate and some si03mp09le15                  09803.1425.039094
+09,01Al03l15 14draw attention to themsel03ve09s.
+
+09,01Th03e15 14notes of a philosop03he09r,
+09,01An15 03a14rtist's work, a writer's p03ag09e,
+09,01So03me15 14ancient texts of time long15 14g03on09e,
+09,01A15 03g14ame made by an unnamed s03ag09e.
+
+09,01An03d15 14at the center of the15 03ro09om
+09,01Th03er14e15 14is a single frozen r03os09e.
+09,01Th03ou14gh brittle its cold form dost 03se09em
+09,01Wo03un14ds from its thorns do never cl03os09e.
+
+09,01An03d15 14as this country store you le03av09e,
+09,01An03d15 14pass the silver and black15 03ma09n,
+09,01Th03e15 14only thoughts that you can t03hi09nk
+09,01Ar03e 14to return to here ag03ai09n.
+
+15,01>>SAUCE00'The Country Store'                Twelfth Knight      Blade Production
+15,01s   19941025+x  @@P v                             

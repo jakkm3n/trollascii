@@ -1,0 +1,18 @@
+15,01    ___  ___  ___  ___  __  ___  ____
+15,01   / __\| _ \| _ ||   \ ___|  _\|_  _|
+15,01  /     \    \    \ |  \   \__  \/  \
+15,01  \_____/_|__/_|\_/____/___/____/____\
+15,01  ------------ - -  -           -saro-
+15,01  c/X.c/x. \___           ___/c/x.c/x.
+15,01  .c/x.C/x.c/ \     .     / /x.c/x.c/x
+15,01  x.C/X.c/x.c/ \    |    / .c/x.c/x.c/
+15,01  /x.c/x.C/x.c/ \       / /x.c/x.c/x.c
+15,01  c/X.c/X.c/x. /    .    \ /x.c/x.c/x.
+15,01  .c/x.c/x. __/     |     \__x.c/x.c/x
+15,01  x.c/x.c/ /                 \x.c/x.c/
+15,01  /x.c/x /                    \x.c/x.c
+15,01  --------- -- -     -         -
+15,01             cardist-X v1.0
+15,01yOur sOUrcE foR tHoSE liTTle iLleGalitIEs
+15,01     a little dIz for a little app.
+15,01       whee, I enjoy being stupid

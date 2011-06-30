@@ -1,0 +1,34 @@
+15,01    _\_______ _____   _/\\ ____ ______ _/\____ ____/_   _____
+15,01     .\ _   /_\ __// .\  \/   /(  _  /.\ _   / \ _/____ \ __// Mode: 80x50 Ami
+15,01     |  / _/_.  _)___|   \/   |   |   |  / _/_._\_     )  _)___      Int Color
+15,01   __|  _    |  |    )   ||   |   |   |  _    |  |     |  |    )__   Smooth
+15,01.-\\ |  |    |       |   ||   |   |   |  |    |  |     |       | //---------.
+15,01|    |__|    |_      |___|| __)_______|__|    |___     |_      |            |
+15,01<-------|____)-\_____|----|_\------------|____)--/_____|-\_____|---> +hP! __|__
+15,01|              .                                     .                    \   /
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | ^ |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | ^ |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01| FILENAME.EXT | SAUCE Info (35 spaces)              | Artist Name (19)   | : |
+15,01|              +                              ___.   + __ _____   ___.    (___)
+15,01| Dir: C:\Remorse.1981\                      .\  |____( /.\ __// .\  |.____ |
+15,01| Mem: 54203k free                           |   |   /   |  _)___|   ||   / |
+15,01|                                            |   |   |   |  |    )   /\   | |
+15,01`--[ RemorseView 2.5.beta / F1 for Help ]----|   |   |   |       |        |-'
+15,01  Code: Mr.Kite / Design: Hiro Protagonist   |_      |___)_      |___/\   |
+15,01           +1998 ACiD Productions          <--/______)-----\_____|----\\__)--->
+
+
+15,01--[ Variables for "Mode" Display]----------------------------------------------
+
+15,01Lines: 80x25  Font: Ibm  Color: Int  Mode: Color  Scroll: Smooth
+15,01       80x43        Ami         Nor        Grey           Text
+15,01       80x50                               Ascii          Auto
+
+15,01-------------------------------------------------------------------------------

@@ -1,0 +1,80 @@
+
+
+
+15,01                        "What's New" in iCE Recently.
+
+
+15,011.  Midnight Sorrow, last month's rookie staff member, has resigned his
+15,01    prominent position in iCE, and has left the scene entirely.  Needing
+15,01    to "air out", as well as wanting his privacy, he has taken down
+15,01    Infinite Darkness, and transferred CCi and TCS nets over to another
+15,01    host(s).  We just know he will be back (c'mon, you gotta believe!),
+15,01    but in the interim, as a big part of the scene as well as iCE and a
+15,01    friend, he will be missed.  Due to the fact that it's rather difficult
+15,01    to run the U.S. Hq on a non-existant board, iCE will have another HQ,
+15,01    as well as management restructure. :>  Good luck, MS.
+15,01    For those interested in what happens to CyberCrime, Cavalier will be
+15,01    taking it over.  His board number is 305-949-5247.  If you have any
+15,01    problems reaching him, call him voice at 305-947-4307 (Jason).
+
+15,011X. Umm.. I guess it's me again then, until we find someone else. :)
+
+15,01                                       - TT [iCE (sigh) Senior Staff]
+
+15,012.  Once again, iCE has been in the midst of controversy this month. A
+15,01    suprise involving an artist lead to an eager new member returning
+15,01    to his old group.  Golgotha, a fresh, but talented artist who
+15,01    joined the group only to release one ANSI, was mistakenly informed
+15,01    by a a non-member that he was only a trial artist.  An untrue
+15,01    assumption.  Mistakes happen, however, and he believed this, returning
+15,01    to his old group, ACiD.  The simple fact is, we're sorry for the
+15,01    mishap, and would love have him and as a full member.
+
+15,013.  This month has been a slower month in terms of 'events' and
+15,01    communications and such.  Graduations, finals, and term papers
+15,01    most likely have contributed to this.  (CCi being down, of course,
+15,01    helps communication immensely.. smirk. -TT)
+
+15,014.  Until further notice, iCE is now going back to releasing all 640x480
+15,01    resolution artwork in either .GIF or .PCX format.  We've been trying
+15,01    to please everyone with this thing, yet succeded in pleasing nobody.
+15,01    (Refer to Aesop's fable of the Man, the Boy, and the Donkey for esoteric
+15,01    example) We originally coded high resolution pictures, or 'hi-res' for
+15,01    short (anything over 340x200 pixels) back in November of '92, and
+15,01    promptly recieved flak from numerous people who couldn't view the pic's
+15,01    due to having only 512k video cards.  In the spring of '93 we released
+15,01    hi-res pic's in .GIF format, and promptly recieved flak, and in the case
+15,01    of another art group's members, biting insult for not coding the work.
+15,01    We were even accused of not having the capability to code the work.
+15,01    After that, and thanks to Wire Tap for the concept and Renegade Bithead
+15,01    for the execution, we coded several hi-res pic's using a mobile 340x200
+15,01    'window', called Hyperview.  However, just when we thought we had
+15,01    pleased everyone, we discovered that the artists in iCE itself were upset
+15,01    about this method, so upset as a matter of fact, that one of our best VGA
+15,01    artists, Shockwave, left the group because one of his pic's was coded
+15,01    that way.  Not wishing to have that happen again, we've gone back to
+15,01    releasing uncoded hi-res pic's that people can view using their favorite
+15,01    .GIF viewer.
+
+15,015.  We would like to welcome some new artists to iCE!, They are:
+
+15,01         Crewl Blade     Raistlan          Section 8    Stile
+15,01         Hooptie         Random Violence   Squirrel     Skitzo Killer
+
+15,016.  On the note of new artists, thanks to Hooptie, Skitzo Killer, and Stile
+15,01    for their large number of ANSI contributions this month.  We'd also like
+15,01    to mention The Refurbished Warrior for his numerous literary works this
+15,01    month.
+
+15,017.  Once again, the VGA team has drawn, rendered, created, coded, programmed,
+15,01    assembled, and organized some excellent iCE Quality work this month.  We
+15,01    (the rest of iCE, being ANSi artists, members, and Staff) want to say that
+15,01    we appreciate your efforts very much.  Extra-special thanks to Ford Prefect
+15,01    for the Touche Mini-Demo.
+
+15,018.  iCE would like to announce the promotion of Random Violence to iCE Artist!
+15,01    Congratulations, and thanks for the help.  May each ansi be better than
+15,01    your last one.  (Old ANSi artist's proverb - TT :))
+
+15,019.  Articles are steadily being collected for the iCE Magazine.  After the
+15,01    first issue is released, it's scheduled to come out about every three

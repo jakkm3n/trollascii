@@ -1,0 +1,80 @@
+15,01                            --- Disclaimer ---
+
+15,01    All new and current users are required to read the following notices.
+15,01If you are unwilling to abide by the terms of this bulletin, then you
+15,01should stop using this BBS.  No one will receive access until they
+15,01have read and agree with this. By using this system, you are showing your
+15,01acknowledgment that you have read and agreed to the terms and conditions
+15,01described in this bulletin. This is a private system of the System Operator.
+15,01You are only allowed access to this Bulletin Board System if you understand
+15,01and agree to the conditions of access which are listed below.
+
+
+15,01    You agree that no liability of any kind for any matters relating directly
+15,01or indirectly to your use, or the use of anyone else, whether authorized or
+15,01not, of this computer system, will impugn to the system operator.  You agree
+15,01to hold harmless and to indemnify the system operator from any action relating
+15,01directly or indirectly to matters relating to this computer system.
+
+15,01[HiT ENTER]*
+
+15,01    You acknowledge that you have been expressly warned that files on this
+15,01bulletin board carry no warranty of any kind and may not work and may even
+15,01cause damage to your computer system if downloaded.  The System Operator
+15,01makes no warranties, either express or implied, with regard to software
+15,01obtained from this system and hereby disclaims any and all implied
+15,01warranties of merchantability and fitness for a particular purpose.  In
+15,01no event will the system operator be liable for incidental or
+15,01consequential damages, including, but not limited to, destruction of
+15,01data or damage to your equipment.  The system operator cannot be held
+15,01responsible for the software on this system.  All software is taken by you
+15,01"as is" and you assume the entire risk of any harm that might occur through
+15,01your use of this software.
+
+
+15,01    You acknowledge that messages may be offensive in content and agree not
+15,01to bring any action of any kind against either the system operator or other
+15,01users of the system as a result of the messages and their content available
+15,01on this system.  Some messages and files are intended for users of 18
+15,01years of ago or older, it is up to the users sole disgression in the
+15,01material you access on this system.  The System Operator Disclaims any
+15,01responsibility for results due to the accessing of this material by under
+15,01age users.
+
+15,01[HiT ENTER]*
+
+15,01        You expressly agree not to post offensive messages yourself or to
+15,01encourage others to do so.
+
+15,01        You agree not to use the system for any illegal purpose or activity,
+15,01or to discuss or advocate any illegal things, whether in private or in public.
+15,01You agree not to do anything on this computer that may damage the computer
+15,01hardware, software, or data files, or the system's operation in any way at all.
+
+15,01[HiT ENTER]*
+
+15,01        All "private" mail to and from you is not private and may be read and
+15,01passed on to third parties by the system operator and his designated
+15,01representatives if he so chooses.  All messages become the property of the
+15,01system operator and may not be displayed elsewhere without his permission.
+
+
+15,01      Pursuant to the Electronic Communications Privacy Act of 1986
+15,01      (18 U.S.C. 2510 et seq.), notice is hereby given that there are no
+15,01      facilities provided by this system for sending or receiving truly
+15,01      private or confidential electronic communications.
+
+15,01The System Operator can, and often will, read all messages left on this
+15,01system, including "Private" messages addressed to persons other than the
+15,01system operator, not normally available to other users.  The system operator
+15,01reserves the right to delete any message, regardless of whether such message
+15,01has been received by its intended recipient(s).  The system operator also
+15,01reserves the right to change the status of a message designated "Private"
+15,01so that such message is public and available to all callers.  The status
+15,01of a message may be changed whenever, in the sole discretion of the system
+15,01operator, it is believed appropriate to do so.  Your continued use of this
+15,01BBS constitutes acceptance of the system operator's discretion in this
+15,01regard.  Your Sysop will exercise the utmost discretion in this regard; I
+15,01generally change status of a message only when it is an informational message,
+15,01of value to other users, and really should not be "private".
+

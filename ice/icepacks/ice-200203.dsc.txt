@@ -1,0 +1,29 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 4/1/2002
+15,01###############################################
+15,01ice-200204.nfo,ANSI,iCE NFO File 4/2002,iCE Staff
+15,01ag-hunting_vacant_spaces.jpg,EXTERNAL,Hunting Vacant Spaces,Adam Grossi
+15,01de-lost.jpg,EXTERNAL,Lost,Defiant
+15,01dm-mynx.jpg,EXTERNAL,Mynx the Bored,Darkmage
+15,01em-robot_hopscotch.jpg,EXTERNAL,Robot Hopscotch,Empyrean
+15,01ge-pers.jpg,EXTERNAL,Hands,Gecko
+15,01id-random_child_color_study.jpg,EXTERNAL,Random Child Color Study,Ian Dale
+15,01id-trojan.jpg,EXTERNAL,Trojan,Ian Dale
+15,01iv-break.jpg,EXTERNAL,Break,Inner Vision
+15,01mi-man_in_tights.jpg,EXTERNAL,Man in Tights,Mongi
+15,01my-ice03.jpg,EXTERNAL,Wish You Were Here,Mynx
+15,01pe-monitoring_room_at_alpha_st.jpg,EXTERNAL,Monitoring a Room at Alpha St.,Pedro
+
+15,01ti-rn1.ice,ANSI,Roughneck BBS,Trip
+15,01to-model_sixteen.jpg,EXTERNAL,Model Sixteen,TonchyZ
+15,01tr-house_in_da_mouth.jpg,EXTERNAL,House in da Mouth,Trollboy 
+15,01tr-naked_goblin.jpg,EXTERNAL,Naked Goblin,Trollboy
+15,01us-graffiti.jpg,EXTERNAL,Graffiti Quilt,wirewolf / Digital Carver / greg / noktu
+15,01rnal / GRRR / jito / Onique / Jakub Sudra / gecky / heinzon
+15,01xe-high_mountain_patrol.jpg,EXTERNAL,High Mountain Patrol,Xebra
+15,01yo-always_someone_iller.swf,EXTERNAL,Always Someone Iller,yonadaan
+15,01yo-chronic_nosebleed_incident.jpg,EXTERNAL,Chronic Nosdebleed Incident,yonadaan
+15,01yo-leaning_guy.swf,EXTERNAL,Leaning Guy,yonadaan
+15,01yo-look_close.swf,EXTERNAL,Look Close,yonadaan
+15,01yo-orange_sketch.jpg,EXTERNAL,Orange Sketch,yonadaan
+15,01yo-phone.jpg,EXTERNAL,Phone,yonadaan

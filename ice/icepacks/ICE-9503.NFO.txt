@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. Howdy everyone, this    m    00@15         |          .     is  Lord Soth here,
+15,01    delivering your monthly               #     .        iCE Pack.  Well, first
+15,01    off, we have to sadly report     #              that Tempus has left iCE to
+15,01    start his own group, which he has tentatively named GaY.  If you would like
+15,01    to join,  call Sanctuary at  305-340-SUCK and apply there.    Since  Tempus 
+
+15,01    has left,  we have switched our World HQ Board to  The Fish Tank.   The new
+15,01    number is F0K-DI0-STAJ.   The Fish Tank is  4 Nodes running off 4 Pentiums, 
+
+15,01    with a total of 14 Gigs HD Space,  and no Ratios.   Anyways, this month was
+15,01    pretty much a  rest-up month for everyone,  after the past 2 packs you have
+15,01    to take a breather SOMETIME :)
+
+15,01 4. New Members:  We'd all like to welcome back Boa, Quazar, Spirit of Illusion,
+
+15,01    and last  but not  least,  Lord Carnuss.   Boa was  once a courier  and logo
+
+15,01    artist,  and now returns as an artist.   Quazar was once an iCE Ansi artist,
+
+15,01    but he left  for  TRiBE in 1993,  saying that he  would return "when  he was
+
+15,01    better at pics."  (sorry Quazar,  couldn't resist:)   Spirit of  Illusion is
+
+15,01    back as  an ansi artist,  and Lord Carnuss... well... he really doesn't need
+
+15,01    an introduction,  other than he's one  of my favorite  artists of  all-time.
+
+15,01    Carnuss wasn't  able to finish any ansis  in time to make this pack,  but we
+
+15,01    promise you'll see some LC next month.  We also have a guest appearance this
+
+15,01    month from Neurotic's momma, who looks very promising.
+
+15,01 3. Happy birthday to me, Lord Soth, whose birthday was March 30, and to Shaggy,
+
+15,01    whose birthday was April 2.
+
+15,014X. MCA has changed his handle back to Hannibal Lecter.
+
+15,017.  Well,  in the past few months,  we here at iCE have undergone what I call an
+
+15,01    "enlightenment."   We have  realized that we  are the true  "chosen ones" of
+
+15,01    the  art scene.   From  now on we  will only take  paying requests  from the
+
+15,01    bigger boards,  and we will be charging a minimum on $50 for logos, and $150
+
+15,01    for  ansis up to  200 lines,  and after that $10 a  line above 200.   Please
+
+15,01    don't bother any of the artists unless you are willing to pay these charges.
+
+
+15,015.  We have scrapped  iCEViEW because of it's  shoddy coding and have  gone back
+
+15,01    to  the best  viewer we've  ever had...  namely K-Veiw  (look at the opening
+
+15,01    logo).
+
+15,012.  I'd  like to happily  announce three promotions  this month!   Cheese Grater
+
+15,01    the  VGA Artist is now  Senior Staff;   Deeply  Disturbed is now the general
+
+15,01    Ansi  Coordinator,  and Toon Goon  is now the  iCE Toon Studios Coordinator.

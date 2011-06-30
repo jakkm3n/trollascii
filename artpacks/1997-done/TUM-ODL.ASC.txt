@@ -1,0 +1,80 @@
+03,01$$$b `"+$$7'$NN$$SSJNNNNNNNNNNNNNNNNN09lll03NNNNNNNNNNNNNN09N03NNNJS09SJJJ$$$$$$$03$$09NN$$$$
+03,01b$$$$#, `j$$$NN$$$JJSSJJJNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNJJJSS09JJ$$$03$09$$$$03$09NN$$7+'
+03,01b$$$$$$b, `+j$$NN$$$SSSSSSJSJNNNNNNNNNJJSJJJSSSJJJJSSJSSS09SS$$$$03$$09$$03$09$$$NN$703'09,d03$
+03,01$$$$$$$$$$b, `+c$N$$$$$$SS$$SSSSS$$JJJJJJJJ$$$SSSSSS09SSSSS$$03$$09$$$$03$09$$$$$$$03'09,d$$$
+03,01$$$$$$$$$$$$$b+,`+c$$$$$$$$$$$$$$SScc+++nnnnnn++++09ccc03$09$$03$$09$$03$09$03$$09$$$$$$703',09d$03$09$03$09$
+03,01$7++cc$$$$$$$$$$b+,`"n++nnn""^``,++gg###SSSSSS#ppp+09+03+,,,.``09"nn++03+09nn""`03,09d$03$09$$$$$
+03,01$y++,._`^n+$$$$$$$$S#p++gyy##S$$$$JS7YJS$$SS$S$$$$$09$03$$$09$$03$$$$%09yyy%03#S09S$03$09$$J$$$$$
+03,01$$$$$$$bp++y$JJ$$7n+c$$$$$$$$$$$$$SJ$SJljJSS$$S$$$$$$$09$03$$09$03c+n"09n$$03$$09$$03SS09JJ03$09JJJSS
+03,01$$$$$$$$$b$$$$$$$b+, `c$$$$$$$$$$SS7SS7lj$S$$$$$$$$09$03$09$03$7+',+g#S09$03$09$03S09S7+nYlllJJlS
+03,01J$$$J$JJJSSSSS$$SS$$b, `j$$b$$$$$S7lS7lj$$$$$7+'$$$$09$037',g#09$$$03$$09$$03S097',dl03lJ09JJlJJJ
+03,01SSJJ$$SS7+cSSSS$SSS$$$b, `Y$$$$$$SJ7SJ7$$$$7',g#$$09$03$7,d$$$$$$09SSS703'09dll$JJ03J09JJllll
+03,01JJJSSJJJp+,$7`+Y$b$$$$$$b%$SSSSSSSS7SS7JS$SSSSSS$J$$09$03$$$$$$SS09Jlll03lJ09JJJJl03l09llJlJJ
+03,01$$SSSSS$SSSS#p,d$$$SSSSSSSSJJJJ$$SSSSSSSSSSSSSS$$09$03$JSS09S03JJ09J03$SS09llSJ03J09JJ03J09ll03ll09lJJJJS
+03,01SSSJJJJJJJJJJJJ$$JJJJJJJJJJ#p,`jJJJ$$$JJSSSSJlllllJS09S03JJJSllS09J03J09JJ03Jl09ll03l09lJll03l09lJJJJ
+03,01:lllJJJJJJlllJJ::HJlJJllJJlJJJbyJc+n"^``$$S::ll:lSJJ09S03JJJJ$SS09SJll;03::09:::l03l09:03l09SSSSS
+03,01;llllllJJJJJlJJJJlJlJ+++++cllJlb.,+g#S$$$n++++cJllJJ09l03J09Jll03lJ09J03JllJJJJJ09lJJ03JJ09JJJlJl
+03,01l7+n+;llJJJllllJJlll;04 +++++03 lllJJJJlJJlJU04 q++++03 :lllJJ09JJ03lJJJ09J03lJ09l03l09llJJJl03J09l03l09JJlJl
+03,01' 14.+,09 03`:llllc+n"n+cl 04:++++:03 :c+cllJlJJlJl04 ++++:03 llJJlll09l03lJl09l03l09ll03ll09lllJJl03l09ll03l09c+n'
+14,01,6++++b 03l;'09 14,+g%p+,03` 04++++$ 14 ,+a+,03`"+llll:04 ++++ 03 UlJJlll09l03c+n"09"```03`"n+ll09ll037'`14,+g+
+14,01+++++++l03 `14,d+++++++l03 04+++++ 14j++++++$b,03`l' 04:++++ 03:lJlll09l+03'14,+%#S$++$S#+,03`09+'14,j+c$++
+14,01+++++++7 d+++$Sccn"+03 04++++: 14d+$c++c$++b,d03 04+++++:03+n"`"n'14,d+++++c+n"++++$bd09 04:p+,14`+
+14,01+$c+"``   `` 04  ,+g%p+J+++  14`+04,++++,14`n+n`04j+++++,g#S+S#p+,03 14`"+`04,+y703 14++++++03 04++++b
+14,01`04 ,+g#++++SbdS+++++++++++,+d++++++++$#S+++++++++++++++++++#y#++++03 14+++++ 03 04+++++:
+04,01,$++++++++++++++7+n+j++++++++++c+nj++++++++++++++c+n+Y++++++++++: 14+++++04 :++++++
+04,01++++++n"nj+++++l    l++++++++++    +++++++++++++l     I++++++++++ 14`+c+'04 ++++++:
+04,01++++|     j++++L    j+++++++++#p+gd+++++++++++++:    ,+++++++++++b+,.,+d++++++
+04,01++++$p,.,d++++++bygd+++++++++++7++c+++++++++++++b+,,g+++++++++++++++++++++++++
+04,01+++++++++++++++++++++++++++++++    j+++++++++++++++++++++++++++++++++++++++++:
+04,01++++++++++++++$++++++++++++++++b+gd++++++++++++++++++++++++++j+++++++++++++++
+04,01+++++++++++7+' `"+cSc++++$'+c+++++++$7++++++nj+++++++++cj+++: `+c$+++$c+:++++
+04,01`+c$+++$c+'           l+++:  `"n+n"`  :+++:   `+c$$$c+' :++++           ++++:
+04,01           tum        :S+++           ++++               +++n          :++++
+04,01                                     `+c$:                 ,++,        +++++
+00,01<tum> so what you're really saying is that we're keepin04  .d++++$+,     $+++:15$b,
+00,01it real?15  00 15              ,a#p,Y$$$$$7 d$$$$$$$$$$$$$$$$$04,+++++++++b,  :++++15$$$$
+00,01<biogen> yea! keepin it real, keepin it real!@15 02        04 :+++++++++++by+++++15$$$$
+02,01                                                       04 `+$+++++++++++++$c'15$$$$
+04,01-------------------------------------------------------------------------------
+00,01Odelay.15$$$$,d$$$$$$$$$7,d$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$l$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+00,01                                              15$$$$$$$$$$$$$$$00 -The Upright Man 
+15,01>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$$$$$$SSSJJSSSSSSSSSS$$$$$$$$$$SSSSSSSSSSSSSSSSSSSSS$$$$$$$
+15,01$$$$$$$$$$$$$SSSS$$SSSSSSSSJJJJJJJJSSSSSSSSSSSSSSSSSSJJJJJSSSSSSSSSSSSSSSSSSSSS
+15,01$$$$$$$$$$$SSSJSSSSSSSSSSJJJJJJJJJJJJJJJJJJJJJJJJJJJJJSSSSSSSJJJJJJJJJJJJSSSSSS
+15,01$$$$$$SSSSSSJJJJJJJJJJJJJJJJlllllllllllllllllllllJJJJJllllJJJJJJJJJJJJJJJJJJJJJ
+15,01SSSSSSSSJJJJJJJJlllllllllllScc+++cllll++nnn+nnnn++++++++cllllllllllJJJJJJlJJJJJ
+15,01JJJJJJJJJllllllSc++nn"``           `"                        ``"ll+'lllllll+n+l
+15,01llll7jllllc+"`                            :::::::::::::.....      .  `+7'   .
+15,017+'`  `'`       ......:::::::::::...  ..::::::llllllllllllll::::.:::.    .::::.
+15,01          ..::::::::llllll&llllllll&&llllll&&llllll&&&&&&&&&lllllllll::::llllll
+15,01   ::  :::lllllllllll&&&&&&&&&&&&&&&&&&&&&&&&l&&&&&&&&&&&&&&&&&&&&&&&llllll&&&&
+15,01::lll::ll&l&&&&&&&&&&&SSSSS&SSSSSSSS&&&&&&&&&&SS&&SS&&&&&&&&SS&SSSSS&&&&&&&&SSS
+15,01ll&&llll&&&SSSSSSSSSSSSllSSSSSSS&&SS&SSSSSSSSSSSSS&S&&&&&&&&SS&llS&&&&&&&&SS&&&
+15,01&SS&&&&&&&&SS&&&&SS&&&SS&SSSSSSSSSSSSSllllllllllllS&SSSSSSSSSSS&SS&&&&&&&SS&SSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSS&&&&&SS&SS&SS&&&&SS&llllllSS&&&&&&SS&lSSSS&&&&&SS&Slll
+15,01lllllllllllllllllllllllllSSSSSSSSSSSSSSSSSSSSlllllllSSSSSSSSSSlllll&&&&SS&Slsss
+15,01lllj++jlllllllllllllllllllllllllllllllllll$cllllllllllclllllllSSSSSSSSSSSSl&&&&
+15,01l+'    `jllllllllllllllllllllllll+nj7lll7'`, `"+lll77  `j&&7+n"n+j7++n+jllSSSSS
+15,01          Y7+"`+"`"Y7+"^``^jll7     `j7' ,4Jb,   `+'  ,  `'   ,         `+cllll
+15,01      ,4b ',,.7  ' , ,++d7' 7'  ,db+,   `jJJJJb, _.,d$$b+, ,dlld+,ll'cl    `+jl
+15,01   dlllllbdlc'  ,+d#JJSS7    ,dSSSSSSb    lJJJJJb,`+c$c+',dJJLSSLLL#+,'+c#N%,
+15,01,dliiiilll+',+#$$$##l#7'_,+dJJllSSSSS7   ,dJJJJJJJb  .,+dJJJJLLLLLLLSJJSSJJSJS#
+15,01llllii;;;illllllllllllJSSUUJJJllSSJc'  ,dSSJJJJJJJJl JJJJJJJJJJJJJJJLLNNNNNYdNN
+15,01lllliii;;;liiiilllllllJSSUUJJl00@15c+'`  ,dSSSJJJJJJJJJJ JJJJJJJJJJJJJJJNNNNNN'dNNN
+15,01,dllllllllllii;;;iiiillJSSUUJJ,+g#Sb YSS$$JJJJJJJJJ: +JJJJ$JJJJ$NNNNNNNNNNNYNNN
+15,01l+`^"+cllllliii;;;lliilllJSUUJJlllSS,`YSSSSJJJJJJJ7 d$$JJJJJJNNNNNNNNNNNNNn,`YN
+15,01'`     `+clllllliii;;;iilSSUUJJJllSSbd#SSSSSSSJJJJb jYJJJJJJJJJJJ$JJ$NNNNNKbyKK
+15,01           `+llllliii;iillSSUUJJllSSSSlSSSSJJJJJJJJb YJJKNNNNNNNNNNNNNNNNNNNNNN
+15,01+,           `n+lllii;;iiSSUUJJJllSSSSSlSSSSSSSSSJJJl:lJJJJNNNNNNNNNNNNSc+cSNSc
+15,01iJl , _.,++,,.  `+llii;;iSSUUJJlllSSSSSlSSSSSSJJJJJJJlJJJJJJJSc+n"+n"`
+15,01iiUndy,`+$$$$$$$b,`n+n++n"+cSJllSSSSSSSSlSSSSSSSSJJJJJJJ+n"`
+15,01lllllllb,`+S$$$$$$$$S$S#S$#p+, $$$$n^``^YlYn"^"+c$$$c+'   _.,++g#Sg#SS$$$$S#y+.

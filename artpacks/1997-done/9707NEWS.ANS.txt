@@ -1,0 +1,80 @@
+15,01                                     00"m00,15m 15,01m                            " m
+15,01 "m                     "       #m   |00,15|| "15,01|      m#   "m                |00,15#15,01mm
+15,01  |00,15m15,01mm              mmm"         |00,15m15,01mm "00,15" 15,01" mmm00,15m"15,01"      |00,15mm15,01mm!hm       mm00,15m" "m15,01m
+15,01   14,15 00"00,00 00,15mm15,01mmmmmmmm14,15#15,01""""00,15""m15,01mmmmmmmmm00,15"15,01"""14,15#15,01  m14,15 15,01""""14,15 15,01mmmm14,15#15,01mmm14,15 15,01"""00,15""m14 15,01mmmmmm14,15 00""14    00||15,01|
+15,01  |00,15m""14 15,01"""  10mmmmmm#" 14,15  15,01""""  10mmmmm#" 14,15 15,01""" 10m#"15m"""  10mmmmm#" 15""00,15||15,01""""""14,15  15,01""""""14,15  15,01m
+15,01 m14,15#15,01" 10mmm10,10# #10,01" 10,10##11,11@10|10,01|15m10"#mmm10,10#11,11@14,10 10,01" 10,10##11,11@10,10#10,01|  mmm10,10#14 10,01" #mmm10,10# #10,01" 10,10##14 10#10,01|14,15#15,01 10"mmm10,10# #14  10,01m15#10mm14,10   10#10,01mm 14,15 
+14,15 15,01" 10m"|10,10##11,11@10,10#10,01| |11,11@10# #15,01 14,15##15,01 10|10,10##11,11@10#10,01|  |10,10#11,11@10#"10,01#"|10,10##11,11@@15,01 14,15#15,01m10|10,10##11,11@10,10#10,01| |10,10#11,11@10,10#11,11@15,01 14,15 #15,01|10|10,10##11,11@10,10#10,01m"14,10 10##11,11@@11,01m10"10,10##11,11@10,10#15,01 14,15#
+14,15#15,01 10||  10,10#11,11@10#11@11,01| 10""11""m 14,15#15,01m14,15#15,01 10,11#11@10# #15,01  11,11@@10#14 11,01|15m14,15#15,01 10,10#11,11@@10#11,01|14,15 #10,01|10,10#11,11@10#11@11,01| 10""11""15m|14,15##00,01@15 10,10#11,11@@@10,01| |10,10#11,11@@10#11,01| 10,10#11,11@@10#11,01|
+14,15#00,01@15 11"m#11,11@10# #11,01|   mmm 00@15 11#m11,11@10  #11,01|m10,11##14 11,01"" 14,15#00,01@15 11,11@@10#14 11,01|14,15#00,01@15 11,11@10#14 10#11,01|   mmm  00@15# 10|11,11@10##14 11,01  11,11@@10#14 11,01| |11,11@10#14 10#
+15,01 14,15#00,01@15  11|10,11# # 11,01m"10,11##14 #11,01| 15#00@15 11|14,11#10#14  11,01"#mmmm  00@15#11|14,11 10#14  11,01 00@15# 11|10,11#14# 11,01m"10,11##14 #11,01| 15##  11|10,11##14  11,01 |14,11 10#14  11,01  |10,11## 14 
+11,01  15#00@15 11"""mmm|14,11 ##|15,01   # 11|14,11  ##15,01  11|11,11 14## 11,01 15# 11|10,11#14# |15,01 00@15# 11"""mmm 14,11  11 14#15,01  #  15,11 10#14##11,01| |10,11#14#  11,01  14,11# 10#14#11,01|
+11,01 15# 11m#|14,11# # 15,01 14,11 ##01@14,01| 15#   11|14,11#01@14##15,01 # 14,11#01@14##11,01|  14,11# ##14,01| 15#  14,11#01@14##14,01| 15# 14,11 ###15,01 14m"#14,11 #01@14#11,01| 14,11# ##11,01|  01,11@14# #11,01|
+11,01  14m  10,14 01,11@14#01@14,01| |01,11@@10,14#14 15,01     14,14 01,11@10,14#01,11@14,01|15#00@14|10,14#01,11@10,14#01,11@15,01 # 01,11@14#01@@14,01|  15#14|01,11@@@10,14#15,01 ## 14,11#01@14##14,01|| 11|14,11#01@10,14#09 15,01  01,11@14#01@@11,01| 14|10,14#01,11@14##
+14,01    |10,14 #01,11@10,14#14,01m15# 09,14 10#09 10#14,01| #m|10,14##01,11@10,14#15,01 14mm14,14  10##14,01|  |10,14#01,11@10,14##15,01 14"#m10,14##01,11@10,14#14,01| 15# 14|10,14#01,11@10,14#01,11@15,01 14"m09,14 10##09 14,01| |10,14#01,11@10,14##15,01 14m14,14 10#01,11@@11,01|
+11,01   14m14,14 14,01""   """"09,14 14 10#14,01m  """10,14# 14,01m   """14,14 14,01m """10,14#14  14,01m    """"mm14,14 10 ##14,01| 15#  14""""m14,14 14,01""" "  ""14,14  14,01m
+14,01 #"15              14"14,14 14,01m15     14""15       14"#15     14""m15         14""14,14  14,01m15     14#"   "#15        14""
+15,01                    14"m  11Infofile for July 199715           14""#
+00,01mm 15mmmm m 14# 15m 01@14  mmmmm 14,14#14,01 m mm m   m  15m 00mm15m14mm m   m 15m 14m  mm # m    14,14#14,01mmmm 14,14#14,01  m
+
+14,01    (15members14)
+
+14,01    15After hearing that One finally died, at about the same time Skism pack 6 was
+15,01released, Kracker Jack, who had a guest appearance in that pack has joined us as
+15,01a full-time ansi artist.   We welcome him to our ranks with warm smiles and lots
+15,01of handshakes...or something.  Also, Pontiff has finally decided to start releas
+15,01ing again after his very long break.  Mystic, an up-and-coming coder from our ar
+15,01ea has also joined our ranks and will be helping out alot with the emag and oth-
+15,01er odd  coding jobs we can  think of.   Rubix-69 will be making some neat techno
+15,01songs to go with mine.  Homer left after saying "fuck your group" during a long,
+15,01pointless debate on Troll's BBS Under the Bridge.   It is rumored that he didn't
+15,01actually quit and it was an accident,  but he was still being a jerk and decided
+15,01that our group sucked anyways..UPDATE: Homer is now back in Skism, aftering hav-
+15,01ing appologized to Kobb and asking to be back in the group.  Also, one week bef-
+15,01ore this pack was released,  we picked up MC1 for bbs modding and lit,  and MxPx
+15,01for ansi, ascii, and bbs modding, and xavii for ascii.  Ok, one REALLY died this
+15,01time, as Formaldehyde merged the remaining members with our  group,  we  welcome
+15,01them.
+
+15,01    14(15coders14)
+
+14,01    15Our coders are working diligently to finish a text viewer for our new elect-
+15,01ronic magazine, SKiSMATiK, and will afterwards begin work on a vga version.  The
+15,01text-based one is scheduled for release in pack 8, while the vga one has no time
+15,01of release just yet.   The E-Mag  is going good,  and growing with each release.
+15,01EMAG UPDATE:  Yours truly,  after spending many nights up late working hard with
+15,01my coding skills, managed to pull together a fairly decent ansi-based viewer for
+15,01the emag, with full fading and line-by-line scrolling  (I didn't have time to do
+15,01a smooth scrolling version...maybe next month?).  Anyways, we will be continuing
+15,01to work hard on getting this emag to  vga.   Then Pyromanaic will be joining our
+15,01ranks as an on-scene reporter for interviews and reviews of various arts.
+
+15,01   14(15new blood14)
+
+14,01   15As always, we are always looking out for people to join  Skism, and we always
+15,01consider every application we receive.  To apply to skism, run the skism applic-
+15,01ation generator program  (skapp.exe) and upload the .app file to South of Heaven
+15,01at 847/490-0172, along with a few samples of your prior work (*necessary for ad-
+15,01mission to the group*).  You will be notified of our decision within two days.
+
+15,01    14(15bbs modding?14)
+14,01    
+14,01    15Well, the demand for bbs mods these days has drastically declined.  It seems
+15,01as though anything that you may need for a board to be modded has been done, and
+15,01to do it again would just be stupid.   We are deciding amongst ourselves whether
+15,01to keep the bbs modding department or to just forget about it, and let people go
+15,01get some bbs modding packs.   The  final  decision  will be included in the next
+15,01pack's info file.
+
+15,01    14(15info14)
+
+15,01    Confused with this info file?  Good.  I did such a good job of informing you
+15,01that your brain is too full, now the ansis will look better!   Until next month,
+15,01keep on drawing, tracking, coding, or writing, it will pay off in the end.
+
+15,01-- kobb.skism founder
+
+15,01 14m15mm00m15m00mm mmm00,00#15,15@15,01""00m14m 15"m14,15#15,01 00mm14,14 14,01 00m 14m 15m  14m15m00m15m14m   m    15m  14m15mm00m15m 00m 14,14 14,01 15m14,15 15,01m""00m14m 15"m14,15#15,01 00mm14,14 14,01 00m 14m
+15,01        14j15       u       00l15       00y15               00115       00915       9       147
+14,01    p15       a       00c15       00k15              00s15       00e15       00v15       e       14n
+15,01>SAUCE00Info File for July 1997            KB/HM               SKiSM            

@@ -1,0 +1,19 @@
+15,01  Mr. Perkins, the biology instructor at a posh suburban girl's junior 
+15,01  college, said during class, "Miss Smythe, would you please name the
+15,01  organ of the human body that expands to six times its normal size, and
+15,01  define the conditions."
+15,01  
+15,01  Miss Smythe gasped, then said freezingly, "Mr. Perkins, I don't think 
+15,01  that is a proper question to ask me.  I assure you my parents
+15,01  will hear of this." With that she sat down red-faced.
+15,01  
+15,01  Unperturbed, Mr. Perkins called on Mr. Johnson and asked the same 
+15,01  question.
+15,01  
+15,01  Mr. Johnson, with composure, replied, "The pupil of the eye, in dim
+15,01  light."
+15,01  
+15,01  "Correct," said Mr. Perkins. "And now, Miss Smythe, I have three 
+15,01  things to say to you.  One, you have not studied your lesson.  Two,
+15,01  you have a dirty mind. And three, you will some day be faced with a
+15,01  dreadful disappointment."

@@ -1,0 +1,18 @@
+
+15,01  VAP v1.4 is ready.  What's been changed in VAP:
+
+15,01    - Got rid of "flashing red" (1) & slightly modified the moving "vor" logo
+15,01    - Added "RIP Artist" and "Distribution Site" applications (2)
+15,01    - Added a built-in viewer for the application file
+15,01    - Changed & Optimized the "flashy effects"
+15,01    - Added auto-"file_id.diz" generation (3)
+15,01    - Added a new opening screen
+15,01    - And other small changes ..
+
+15,01    * 1 : requested by shadowdancer
+15,01      2 : suggested by osceola
+15,01      3 : requested by osceola (a while back)
+15,01  
+15,01  - asterix [npi / vor]
+15,01>SAUCE00What's New: VAP14                  Asterix             READ THE INI FILE
+15,01   19940809714,15@15,01  @@P v                             

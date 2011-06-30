@@ -1,0 +1,80 @@
+15,01o----------------------------------------------------------------------------o
+15,01oo ------------------------------------------------------------------------ oo
+15,01ooo  --------------------------------------------------------------------  ooo
+15,01oooo                           GRiMViEW v1.0                              oooo
+15,01ooo  --------------------------------------------------------------------  ooo
+15,01oo ------------------------------------------------------------------------ oo
+15,01o----------------------------------------------------------------------------o
+
+15,01  GRiMViEW is was programmed by Ffejtable?.  Every bit of coding with the 
+15,01  exception of the MOD routines were done by him.  You may stumble across
+15,01  a bug or three in the program and the author asks you to please notify
+15,01  him of any problems you encounter by reaching him at his BBS listed below
+15,01  or via GRiMNet.  The coding is awefully messy, and needs to be cleaned up,
+15,01  so expect to see a new version in the next pack, with additional features
+15,01  and/or bug fixes.  Enjoy the program, and let me know what you think.
+15,01  
+15,01  - Feautues
+
+15,01   o Command line options! 
+15,01       /NOMOD (force MOD playing ability off)
+15,01       /NOFADE (force fading off)
+
+15,01   o Fade in/out
+15,01   
+15,01   o View ANSIs in 80x25, 80x50, 320x200 and 320x200wide modes
+
+15,01   o Scrollback in 80x25 and 80x50 modes.
+
+15,01   o SAUCE Support for file information
+15,01 
+15,01   o Greyscaling
+15,01 
+15,01   o MOD support for users in a NON-Desqview environment.
+15,01 
+15,01   o Maximum number of files limitied only by the amount of memory you have.
+
+15,01   o User Selectable File Mask (default upon loading is *.ANS)
+
+15,01   o File listing is sorted in alphabetical order
+
+15,01   o File listing contains a list of directories to allow easy directory 
+15,01     changing.
+
+15,01  o 32 Color Support (This was added last minute to the 320x200mode)
+
+15,01  - Known problems
+15,01  
+15,01   o  Scrollback on an ANSI longer than 400 lines will more than likely
+15,01      go haywire on you.
+15,01 
+15,01   o  Scrollback occasionally flips out, and allows you to scroll past the
+15,01      beginning/end of an ANSi.
+15,01   
+15,01   o  The last entry when selecting files is a "blank".  This was to "fix"
+15,01      a bug in my sorting routine.  This will eventually be corrected.
+15,01   
+15,01   o  I believe that the PGUP/PGDN keys sometimes screw up.  I know they
+15,01      used to, I forget if I fixed it.  The problem was rare, and I 
+15,01      havent been able to duplicate it.
+
+15,01  - Future Modifications
+15,01  
+15,01   o More Command Line Options
+15,01    
+15,01   o ICEColor support, when  a) I figure out what the fuck it is and b) specs
+15,01     on the damn thing.  If it turns out to be lame, I wont bother. :)
+15,01 
+15,01   o 32 Color Support (This was added last minute to the 320x200mode, it didnt
+15,01     look very good in 320x200wide mode)
+15,01 
+15,01   o VESA Support for more video modes.
+15,01 
+15,01   o Scrollback in all video modes.
+
+15,01   o Different display speeds (ie: 300,1200,2400,9600,14400 bauds)
+
+15,01   o Better MOD playing capability
+
+15,01   o GIF and PCX support
+

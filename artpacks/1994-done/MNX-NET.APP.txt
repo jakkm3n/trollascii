@@ -1,0 +1,80 @@
+15,01                 --==+MiDNiTE XPReSS NeT Application+==--
+
+15,01MiDNiTE Xpress is an underground Fido compatible network, before applying
+15,01make sure your BBS software can support this. There is a limit of 2 nodes
+15,01per area code (this is a general rule, larger area codes will be allowed
+15,01more nodes). You may apply as often as you wish.
+15,01-------------------------------------------------------------------------
+
+15,01--==+ Personal Information +==--
+
+15,01+----------------------------------------------------------------------..
+15,01| Real Name.........[                                                   .
+15,01| City/State........[                                                   :
+15,01| Voice Number + AC.[                                                   |
+15,01| Best Time To Call.[                                                   |
+15,01. ..--------------------------------------------------------------------+
+
+15,01--==+ BBS Information +==--
+
+15,01+----------------------------------------------------------------------..
+15,01| Sysop..............[
+15,01| System Name........[                                                  .
+15,01| System Data Number.[                                                  :
+15,01| New User Password..[                                                  |
+15,01| Number of Nodes....[                                                  |
+15,01| BBS Software.......[                                                  |
+15,01| Years Running......[                                                  |
+15,01| Group Affiliations.[                                                  |
+15,01|  Include Position..[                                                  |
+15,01. ..--------------------------------------------------------------------+
+
+15,01--==+ Network Information +==--
+
+15,01+----------------------------------------------------------------------..
+15,01| Mailer Software...[                                                   .
+15,01| Mail Tosser Used..[                                                   :
+15,01|
+15,01| Do you run a offline mailer packer     [ ] Yes   [ ] No               |
+15,01| Do you have a mailer running already   [ ] Yes   [ ] No               |
+15,01| Does your mailer operate 24hrs a day   [ ] Yes   [ ] No               |
+15,01: Are you willing to poll each night     [ ] Yes   [ ] No               |
+15,01. ..--------------------------------------------------------------------+
+
+15,01--==+ Other Networks You Carry +==--
+
+15,01List any other networks your BBS is a member of:
+
+15,01 Node Number        Network Name
+15,01------------------+----------------------------------------------------..
+15,01 ___:____/____.__ |
+15,01 ___:____/____.__ |
+15,01 ___:____/____.__ |
+15,01 ___:____/____.__ |
+15,01 ___:____/____.__ |
+15,01------------------+----------------------------------------------------..
+
+15,01--==+ Modem Information +==--
+
+15,01Place an X next to every baud/protocol supported:
+
+15,01 [ ]  2400                                  +-> [ ] v32bis
+15,01 [ ]  4800   +-> [ ] v32        [ ] 14400 --+-> [ ] v42
+15,01 [ ]  9600 --+-> [ ] v42                    +-> [ ] v42bis
+15,01             +-> [ ] v42bis                 +-> [ ] HST
+15,01             +-> [ ] HST                    +-> [ ] CSP
+
+15,01 [ ] 16800 --+-> [ ] HST        [ ] 19200 --+-> [ ] v32ter
+15,01             +-> [ ] v32bis                 +-> [ ] ZyXel
+15,01                                            +-> [ ] PEP
+15,01             +-> [ ] 1-5
+15,01 [ ] MNP ----+-> [ ] 7          [ ] Fax ----+-> [ ] Class 2
+15,01             +-> [ ] 10                     +-> [ ] ZyXel
+
+15,01--==+ Miscellaneous Information +==--
+
+15,01Reasons for choosing MiDNiTE XPReSS NeT:
+15,01_________________________________________________________________________
+15,01_________________________________________________________________________
+
+15,01Experience you have with EchoMail and NetMail:

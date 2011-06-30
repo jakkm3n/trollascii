@@ -1,0 +1,80 @@
+15,01[PPE] BBs Lister PPE v1.0
+15,01by Mr. Data  (Shawn Poulson)
+15,01Copyright (c)1994 Mr. Data   07/06/94
+
+15,01[PPE] Bulletin Board Lister 1.0 ----------+
+15,01| Powerful bbs listing util with seach    |
+15,01| commands, configurable colors, logging  |
+15,01| of actions                              |
+15,01| & delete    Side    Front   Side   Back |
+15,01| function    (__)    (__)    (__)   (__) |
+15,01| for sysops. ( oo    (oo)    oo )   (  ) |
+15,01| SOURCE      /\_|    /\/\    |_/\   /  \ |
+15,01| Included!                  by Mr. Data  |
+15,01+--------------------------------07/06/94-+
+
+15,01Please do not distribute modified source code!
+
+15,01You may use this source in your own programs but you MUST at least greet
+15,01me somewhere.
+
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01Intro:
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01You may have leeched this PPE thinking it's just another BBS lister and you'll
+15,01just use whichever one out of the many works best.  Well I'm sure you'll use
+15,01this one out of all the rest.  You have many options to you as a user and as a
+15,01sysop.  Such features are:
+15,01 - Add bbs entry
+15,01 - View listing
+15,01 - Search for an entry by 4 different search criteria
+15,01 - Deletion of bbs entries by anyone with sufficient security
+15,01 - Logging of activity on Caller logs and logging of adding/deletion of what
+15,01   and who
+15,01 - Menu selection of bbs software and modem type with option to add a
+15,01   selection if none apply.
+15,01   
+15,01The first couple are obvious but the others are added features that most
+15,01listers don't bother to have.  Try it out yourself, configuration is a snap,
+15,01just set your area code and Security level for deleting entries and you're
+15,01done!  Then just put it in your CMD.LST.
+
+
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01Quickie Startup for the Impatient or Lazy Sysop:
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01Go to your CMD.LST in PCBSETUP:
+
+15,01(B) File Locations -> (B) Configuration Files -> CMD.LST  press F2 to edit
+15,01In CMD.LST, add the following commands:
+
+15,01    Command         Security  PPE/MNU File -or- Keystroke Replacement
+15,01    ==============  ========  =======================================
+15,01    BBS                 0     C:\PCB\PPL\BBSL\BBSL.PPE
+15,01    LIST                0     C:\PCB\PPL\BBSL\BBSL.PPE
+
+15,01That adds the commands BBS and LIST to run the PPE.
+15,01Now edit the BBSL.CFG file you got with the archive and edit it:
+
+15,01************ Start BBSL.CFG ************
+15,01609
+15,013
+15,01100
+
+15,01;--------------------------------------
+15,01Line 1:         Your Area Code
+15,01Line 2:         Maximum number of lines to use in Notes entry when adding
+15,01Line 3:         Security Level to access Delete bbs feature.
+15,01************ End BBSL.CFG ************
+
+15,01Change the configuration as directed by the bottom format listing.
+15,01And that's all you have to do!  It's ready to go.
+
+
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01How The System Works
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+15,01###################  Delete Function
+
+15,01Simply put, it's a bbs lister.  Most of it is pretty self explainatory and any

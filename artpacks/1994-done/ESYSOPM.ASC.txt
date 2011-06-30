@@ -1,0 +1,5 @@
+
+15,01+============================+ MAIL SYSOP COMMANDS +==========================+
+15,01| G) Use group for sub-board access  D) Mass mail delete  Q) Quit             |
+15,01| L) Look in someone's mailbox       S) Scan all mail                         |
+15,01+=============================================================================+

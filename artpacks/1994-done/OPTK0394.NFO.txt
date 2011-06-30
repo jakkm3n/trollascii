@@ -1,0 +1,80 @@
+15,01      mmm14,15    15,01mmm    14,15 15,01mmmmmm14,15    15,01mm      |   mmmm14,15      15,01|       |
+15,01   m14,15              15,01m |14,15  15,01""""14,15       15,01m mm |14,15              15,01       14,15 15,01|    mmmm14,15     
+15,01  |14,15 15,01| ""14,15           15,01| 14,15  15,01|     "14,15     15,01| "||14,15              15,01|m14,15 15,01m  |14,15 15,01|    |14,15        
+15,01  14,15  15,01|       """14,15     15,01 |14,15  15,01|      14,15     15,01  14,15 15,01   """""14,15        15,01|14,15  15,01| 14,15   15,01     14,15       15,01|
+15,01 |14,15   15,01            14,15   15,01| 14,15   15,01|     |14,15   15,01| 14,15 15,01|                "14,15 15,01"  14,15   15,01     |14,15      
+15,01 |14,15   15,01            |14,15  15,01| 14,15    15,01     14,15    15,01 |14,15 15,01|                    |14,15   15,01|    14,15      15,01|
+15,01 14,15    15,01|            14,15   15,01 |14,15   15,01| mm14,15    15,01| |14,15 15,01|                 |  |14,15   15,01| mm14,15      15,01"
+15,01 14,15    15,01|            14,15   15,01 |14,15          15,01"  14,15   15,01                 14,15 15,01| 14,15           15,01""
+15,01 14,15     15,01            |14,15  15,01 |14,15   15,01| """     14,15   15,01|                14,15  15,01 14,15      15,01"""
+15,01 |14,15    15,01|           |14,15 15,01| 14,15    15,01          |14,15   15,01               |14,15  15,01||14,15       15,01mmm
+15,01 |14,15     15,01m          |14,15 15,01| 14,15   15,01            14,15    15,01m             |14,15   15,01 14,15   15,01|"14,15         15,01mmmmm
+15,01  14,15        15,01mmm     14,15  15,01 |14,15  15,01             |14,15     15,01m     mmm   14,15    15,01||14,15   15,01  "14,15            
+15,01  |14,15             15,01mm14,15 15,01| 14,15  15,01               14,15              15,01  |14,15     15,01 "14,15   15,01m  "14,15         15,01|
+15,01   "14,15              15,01" |14,15 15,01                "14,15            15,01| m14,15       15,01m "14,15   15,01m  "14,15       15,01|
+15,01      """14,15    15,01"""    14,15 15,01                   "14,15          15,01 ""14,15         15,01m "14,15  15,01|   "14,15     
+15,01                    |                      """""""        """"14,15   15,01  14,15  15,01     ""14,15  
+15,01                                                                   ||
+15,01                                                                   |
+15,01        - -- OuTrAgEoUs PrOdUcTiOn TrAdErS - tHe iTaLiAn KoNnEkTiOn -- -
+15,01                                      -\-
+15,01                            .oO[ March ArT PaCk ]Oo.
+
+15,01The OPTiK Pack is a set of all the best artwork produced by OPTiK artists
+15,01during the month that gives the name to the pack. All our major releases
+15,01are included here.
+
+15,01Notes on this info file. Everything listed in this txt, is displayed in
+15,01strict alphabetical order. OPTiK doesn't like the hyerarchy bullshit found
+15,01in other groups. We think that it is only a bureocratic way for some people
+15,01to do little for the group while getting high recognition. Bureocracy free
+15,01activity is the ONLY way to guarantee 100% freedom of expression in a group.
+
+15,01The sysop's section of this .NFO file, is atypical. It doesn't only contain
+15,01the names of OPTiK members who also run boards, it contains the names of ALL
+15,01sysops that contribute to the spreading of our work. We think that this is
+15,01a right reward for all the help they're giving us. Thanx to all of you.
+
+15,01The courier section contains only the names of the official couriers of our
+15,01monthly pack. I've seen lotsa people Uploading our works on many boards.
+15,01Out thanks goes to all of you.
+
+15,01Please read the other NFO files for more informations about OPTiK.
+15,01That's it for now. Enjoy the pack.
+
+15,01Nuke
+
+15,01        +---+                                                     +---+
+15,01        | +-|-----------------------------------------------------|-+ |
+15,01        +-|-+              14,15 15,01|14,15 15,01|14,15 15,01" 14,15 15,01|14,15 15,01|14,15 15,01"m 14,15 15,01" 14,15 15,01"m m""              +-|-+
+15,01          |                14,15 15,01|||14,15 15,01" 14,15 15,01|||14,15 15,01"m 14,15 15,01" 14,15 15,01"m ""14,15 15,01                |
+15,01          |                14,15 15,01 ||14,15 15,01m 14,15 15,01 ||14,15 15,01m" 14,15 15,01m 14,15 15,01 14,15 15,01 mm"                |
+15,01     +----+-------------------+-==================------------------+-----+
+15,01     +------+ ARTiStS +-------+                                           |
+15,01     |            DiGiTaL PiXeL - 3D Gfx & MULTiMEDiA CreaTor             |
+15,01     |                     FlAvE - ANSi/ASCii/RiP Wiz                     |
+15,01     |                     NuKe - ANSi/VGA/MoD GuRu                       |
+15,01   | |                        ParseC - MoD Master                         | |
+15,01   | |                                                                    | |
+15,01   | +-------------------------------=======--------+---------------------+ |
+15,01   | |                  BarTeNDeR - AuSTRaLIan Ruler+-----+ SySoPs +------+ |
+15,01   | |                  Beastie - Channel Zero Man                        | |
+15,01   | |                  Devil's Spawn - SouTH of HELl leAdER              | |
+15,01   | |                  DoC BoBo - The FiRM SyS ADMiN                     | |
+15,01   | |                  ThE G-MaN - ThE SaNiTaRiuM BoSS                   | |
+15,01   | |                  Grifter - The Eleventh Hour Master                | |
+15,01   * |                  MiNd-NRG - TEMPlE oF KnoWledgE ZyZop              | *
+15,01   | |                  Neurotic - Programmed Illusion Ruler              | |
+15,01   | |                  Six Pack - The Keg Dood                           | |
+15,01   | |                  WARRiOR - PRoPhEcY  SySADMiN                      | |
+15,01   | |                  WedGiE - PyroMaNiA KiNG                           | |
+15,01   | |                                                                    | |
+15,01   | +------------------------+-==================------------------------+ |
+15,01   | +-===--+ CoURiErS +-===--+                                           | |
+15,01   | |                       NapalM - FaSt As LighT                       | |
+15,01     |                       PaPa-T - PuBlIc ReLaTiOnS AdministratoR      |
+15,01     |                       WARRiOR - SpreadiN' WidE                     |
+15,01  +--|-+                                                                +-|--+
+15,01  |  +-|--------------------+-----==============----+-------------------|-+  |
+15,01  +----+                    |+---------+ +---------+|                   +----+
+15,01                            |+--------+| |+--------+|

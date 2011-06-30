@@ -1,0 +1,30 @@
+15,01rem filename,description,artist name
+15,01ba-aeonf.jpg,Aeon Flux,Bullapalooza
+15,01ba-bskl.jpg,Skull Collage,Bullapalooza
+15,01ba-cann.jpg,Cannibal Corpse,Bullapalooza
+15,01ba-gnat.gif,Gnatman,Bullapalooza
+15,01ba-grens.jpg,Nasty Node,Bullapalooza
+15,01ba-logo.gif,GRiND Logo,Bullapalooza
+15,01ba-nast2.jpg,Nasty Node,Bullapalooza
+15,01ba-plasm.jpg,Plasma,Bullapalooza
+15,01ba-warps.jpg,Warped Skull,Bullapalooza
+15,01cs-sbn1.ans,SBNnet,CRYPTiC STeNCH
+15,01cs-bb1.ans,Baphomet's Blood,CRYPTiC STeNCH
+15,01cs-dd2-1.ans,D.O.T.D. ][,CRYPTiC STeNCH
+15,01cs-gnd1.ans,GRiND Logo,CRYPTiC STeNCH
+15,01cs-hsa1.ans,HSAnet,CRYPTiC STeNCH
+15,01cs-nn1.ans,Nasty Node,CRYPTiC STeNCH
+15,01cs-nw1.ans,Netherworld,CRYPTiC STeNCH
+15,01cs-tcb1.ans,The Chopping Block,CRYPTiC STeNCH
+15,01cs-tugw1.ans,The Underground World,CRYPTiC STeNCH
+15,01member.ans,GRiND iNFO,CS & SOS
+15,01no-bb1.ans,Baphomet's Blood,N0SfERaTU
+15,01no-bb2.ans,Baphomet's Blood,N0SfERaTU
+15,01no-glogo.ans,GRiND Logo,N0SfERaTU
+15,01no-ts1.ans,Temple Of Set,N0SfERaTU
+15,01no-s01.gif,ORiGiNAL ARTWORK,N0SfERaTU
+15,01no-s02.gif,ORiGiNAL ARTWORK,N0SfERaTU
+15,01no-s03.gif,ORiGiNAL ARTWORK,N0SfERaTU
+15,01sos-logo.ans,GRiND Logo,SPiRiT oF SUiCiDE
+15,01sos-samh.ans,Samhain,SPiRiT oF SUiCiDE
+15,01grindnwz.ans,GRiND NEWS #1,SPiRiT oF SUiCiDE

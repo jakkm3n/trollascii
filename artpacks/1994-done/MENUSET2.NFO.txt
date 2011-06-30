@@ -1,0 +1,5 @@
+00,01I was banging my head against the wall this month, and decided to through
+00,01together a menu set.  Here it be.  Looks cool in 80x25, looks really cool
+00,01from 80x50.  I take NO responsibility in the format that these are setup.
+00,01They were setup using the predefined commands in PiPELiNE.
+15,01                          00Frost Byte <CiA>

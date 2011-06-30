@@ -1,0 +1,32 @@
+15,01  14,12# 12,01"14,12  12,01" 10,12#14 12,01    10,12#14 12,01  # 10,12#14 12,01 10,12#14 12,01"14,12  12,01 10,12# 15,01  12#  # 02-------------------------------------
+02,01  02,11@14,12#12,01 14,12  12,01  02,11@14,12 12,01  # 02,11@14,12#12,01 #02@12 02,11@14,12#12,01 02,11@14,12#12,01 14,12# 12,01 02,11@14,12#12,01 #02@12 #02@12    00F15inal Release Options Listing
+15,01  12,11#02,01@12 14,12  12,01  12,11#14,12 12,01 #02@12 12,11#02,01@12 02@14,12#12,01 12,11#02,01@12 12,11#02,01@12m"  12,11#02,01@12 02@14,12#12,01 02@14,12#12,01    00C15ompiled by Smooth [ACiD.TL]
+15,01     14,12# 12,01  14,12# 12,01 02@14,12#12,01 02@12# 14,12# 12,01 02@12# 02@12#  14,12#12,01 02@12# 14,12# 12,01 14,12# 15,01         00D15ated July 16,1994
+15,01     02@14,12#12,01  02@14,12#12,01m14,12# 12,01 # m"  #  # m14,12# 12,01 # m" "m14,12 12,01 02-------------------------------------
+
+
+02,01   00T15his Options Listing is being released with our Promo Pack of TLView.
+15,01   00T15he entire viewer was compiled and written in Turbo Pascal 7.0 by
+15,01   00O15range Juice, with some revisions and effects added on by Smooth.
+
+15,01   1 - 00N15ew Graphic Interface by Smooth.
+
+15,01   2 - 00D15irectory Listing created on the fly and no need for a
+15,01       00p15remade list of ANSis in a text file.  SAUCE comment compatibility
+15,01       00w15ith thanks to ACiD for their Source.
+
+15,01   3 - 00I15f we can implement it - TLView will be able to view RiP screens.
+
+15,01   4 - 00B15e able to view PCX VGA drawings and screens.
+
+15,01   5 - 00W15ill be released in TekLordZ ANSi packs during their release.
+15,01       00U15pdated Viewers will be packed with the most current pack.
+
+15,01  00A15re you an ANSi artist and would like to be a part of TekLordZ and have
+15,01  00y15our ANSis viewed worldwide.  Well, contact us at our temp WHQ on
+15,01  00T15he Rave BBS @ 808-622-5723 or call our VMB @ 637-4460 Box #207 - Enter
+15,01  00*15207 when you hear the logon greet.  Anyways, await our TekLordZ ANSi
+15,01  00P15ack #1.
+15,01                                                    -Smooth [ACiD.TL]
+
+15,01>

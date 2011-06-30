@@ -1,0 +1,80 @@
+14,01--------------------------------------------------------------------------------
+15,01                 00,00 00,04"""""""""""""""00,01m15     00m00,04"""""""00,00 15,01     00m00,04""""""00,01m
+15,01                 14,00 00,04m04@@@@00mm04@@@@00mm04@@@14,00 00,01   "00,04mmmmmm04@@00,00#15,01    00"00,04mmmmm04@@@00,00#
+15,01                   15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01         15,15@13,04##15,15@15,01     mmmm 15,15@13,04##15,15@
+15,01                   00,15#00,04  00,15#15,01  00,15#00,04  00,15#15,01  00,15#00,04  00,15#15,01    m15,04"""""  00,15#15,01     00,15#00,04  00,15#15,01 00,15#00,04  00,15#
+15,01                   00,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01   14,15 14,04###04,01"""14,04##14,15 15,01     14,15 14,04##14,15 15,01 14,15 14,04##14,15 
+15,01                01yat14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01   14,15#01,04@@04,01mmm01,04@@@15""14,15#15,01   14,15#01,04@@@15""01@@14,15#
+15,01                   01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01    14"14,04mmmmmmmmm01,15@15,01    "14,04mmmmmm01,15@
+14,01--------------------------------------------------------------------------------
+15,01              00Malicious Art Denomination  -  Newsletter - May '94
+14,01--------------------------------------------------------------------------------
+03,03@09,01m03,03@@
+09,03#03@
+09,03 ##
+14,03# 
+01,03@03,01"14,03##15,01 00arly 6:00 AM on a beautiful Sunday morning, the phone rings.. and rings..
+15,01     00and rings.... and rings... and Sub, sleeps, and sleeps, and sleeps,
+15,01     00until he finaly wakes up and gets the phone and says "WHAT!? GOD DAMNiT!?"
+15,01     00Some lamer that got his number some way, some how, says "Is this Sub-ZeroX"
+15,01     00I say "No, Idiot, go away..."  I go back to sleep unaware that today is
+15,01     00May first, 1994 the day that I was suppose to have Pack 5 out... Oh well.
+
+
+00,01 09m09,09#09,01m
+09,01|03,03@15,01 03,03@09,01|
+09,03 #15,01 09,03# 
+14,03# 03,01"03,03 14#
+01,03@14#15,01 14,03#01@15,01 00nyways.......  It's 4:00 PM and I just figured out it was May first..
+15,01      00It's amazing how a month can fly by so quick... Oh well, Anyways, here
+15,01      00I am, typeing this, eating Crunch n' Munch drinking a Minute Maid, with
+15,01      00the radio on and the TV on but it's Muted right now... Im kinda proud
+15,01      00on the turnout this month, Even tho I personaly was to busy getting people
+15,01      00to help me with the Magazine, (Still unfinished) to do much ansi.. I did
+15,01      00help out on the Nuclear Winter Ad tho.. I just wish that we had more pics
+15,01      00this month, all we have are fonts, except for one or two pics... that's
+15,01      00ok with me, but next month I realy think we should work on pics...
+
+
+03,03@09,01m
+09,03#03@09,09#09,01m
+09,03 #09,01"09,03# 
+14,03# 15,01 14,03 #
+01,03@14#15,01 14,03#01@15,01 00ew ansi artist!  Bozack has joined this happy group, and has made a
+15,01      00shitload of ansi for a shitload of boards, He can realy do some great
+15,01      00fonts, and his Pics are ok too.  Glad to have him with the group!!!!!
+15,01      00But there is an unasked question...  If his handle is Bozack why does
+15,01      00he sig his drawings DH-XXXXX.MAD???????  Weird huh?  Well I just asked
+15,01      00the question, So I guess it's not an unasked question anymore... -poot
+
+
+03,03@09,01m    m03,03@
+09,03#03@09,09#09,01mm09,09#03,03@09#
+09,03 #09,01"09,03##09,01"09,03# 
+14,03# 15,01 14,03  15,01 14,03 #
+01,03@14#15,01 14,03##15,01 14,03#01@15,01 00y guess to why you have read all this shit so far is, One, you are a
+15,01         00member. Two, you have nothing better to do. Three, you have no arms
+15,01         00no legs, and are stuck in front of a monitor. Or Four, you are wonderin
+
+15,01         00where the Magazine is.  Well, the magazine is.... well, it's not here..
+
+15,01         00WHY? you ask?
+15,01         00Because It's not easy to get people willing to help code it. So quit
+15,01         00Asking me damnit!  It will be around one day... Maybe in a month or
+15,01         00two, but It will be around..
+15,01         00MAD Net, something to link up all the members and sites is something
+15,01         00that has been in the works for a while now.. Im going to have to talk
+15,01         00to Timelord or some other knowlegable person before going through with
+15,01         00it tho.
+15,01         00That's about all of the News and I am 'outta here....'
+
+
+
+
+09,01m09,09####
+03,03@@
+09,03##15,01 03mm
+03,03  15,01  03,03 
+03,01"14,03####15,01 00reets go to :
+
+15,01      00Cougar15       00[MAD]   : Uhhh... Go away...........................

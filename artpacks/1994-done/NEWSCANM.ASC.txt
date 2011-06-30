@@ -1,0 +1,6 @@
+
+15,01+==========================+ NEWSCAN MENU - COMMANDS +========================+
+15,01| M) Move file to different area      Number) Rate file      D) Delete file   |
+15,01| Enter) Skip file for now            Q) Quit newscan        E) Rename file   |
+15,01| C) Change description               R) Archive list                         |
+15,01+=============================================================================+

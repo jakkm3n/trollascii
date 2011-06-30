@@ -1,0 +1,80 @@
+
+14,15#15,01""" "  "  14,15#15,01""" "  "         14,15#15,01"" "    14,15#15,01"" "                 14,15#15,01"""         14,15#15,01" " 
+14,15#15,01 14,15#15,01        14,15#15,01 14,15#15,01               14,15#15,01 14,15#15,01      14,15#15,01 14,15#15,01                   14,15#15,01 14,15#15,01          14,15#15,01|14,15#
+14,15#15,01 14,15#15,01#  #####14,15#15,01 14,15#15,01#  14,15#15,01"" "m  ####14,15#15,01 14,15#15,01# ####14,15#15,01 14,15#15,01# ####mm"" "  m ###14,15#15,01 14,15#15,01# ##### m14,15#15,01" 14,15#15,01##
+14,15#15,01 14,15#15,01#  mmmmm14,15#15,01 14,15#15,01#  14,15#15,01 14,15#15,01   14,15#15,01     00@15 00@15#     00@15 14,15#15,01#  m14,15#15,01"          m  14,15#15,01 14,15#15,01#     m00@15"  14,15#15,01#
+00,01@15 00@15#         00@15#  14,15#15,01 14,15#15,01 mmm14,15#15,01    00@15 00@@15     00@15 00@15# m14,15#15,01  14,15#15,01            00@15 00@15# mmm00@15"   14,15#15,01#
+00,01@15 00@@15  """""00@15 00@@15  00@15 00@15         00@15 00@@15    00@15 00@@15 |14,15#15,01  14,15#15,01#            00@15 00@@15        00@15#
+00,01@15 00@@15       00@15 00@@15  00@15 00@15 """""00@15  # #00@15   # #14,15#15,01  00@15" 00@15#           14,15 15,01 00@15 00@@15 """00@15m   00@@
+00,01@15 00@@15  #### 00@15 00@@15  00@15 00@15 00@15 ### 00@15 # #14,15#15,01### #14,15#15,01 # 00@15m 00@@15 ########### 00@15 00@@15 ### "00@15m  #00@15##
+15,01# #00@15       # #00@15  # # 00@15     # #mm m" "     |00@15  #00@15            # #00@15       "14,15#15,01m #14,15#
+15,01# #14,15#15,01       # #14,15#15,01  #mm m     #mm m           "#m #14,15#15,01        "  # #14,15#15,01         14,15#15,01| #14,15#
+15,01#mmm m  m  #mmm m  m                         "#mm      m    #mmm         14,15#15,01m m 
+15,01                                                 "" "
+15,01   .  .  .  E    N   T    E    R    P    R    I    S    E    S (tm) .  .  .
+
+
+
+15,01   Similar to iCE Advertisements (tm) and ACiD Productions (tm),
+15,01Havok Enterprises (tm) will religiously release a collection of all artwork
+15,01produced throughout the month.  If you would like to recieve a piece
+15,01of artwork from Havok, please contact us through one of these methods.
+
+15,01Modem:
+15,01The Acropolis - 7O8-557-2826
+
+15,01US Mail:
+15,01Havok Enterprises
+15,01c/o Chris Lawrence
+15,014s 245 Wiltshire Lane
+15,01Sugar Grove, IL  60554
+
+15,01Voice:
+15,017O8-557-2825 - Ask for Lars
+
+15,01Internet:
+15,01IRC-#HAVOK
+15,01or VNET.NET:/PUB/MS_DOS/DEMO/ANSI/HAVOK
+
+15,01With any of the above methods, please have available EXACTLY what media you
+15,01wish (GIF/PCX/RIP/FLI/ANSI/LIT), board statistics, what picture you would 
+15,01like done (if you have a specification and it is applicable), and how/where
+15,01we can reach you once the artwork is completed.
+
+15,01Archive: HAV-0594.ZIP
+15,01+----+------------+---------+------+-----------------------------------------+
+15,01| ## |Filename Ext|  Bytes  | Data |           Description/Artist            |
+15,01+----+------------+---------+------+-----------------------------------------+
+15,01| 01 |AZ-LGN1  ANS|    5,080|      |Azrael             ViSiON-X Login Screen |
+15,01| 02 |ART-0594 NFO|    8,255|E     |           May Specific File Information |
+15,01| 03 |DS-NB    LIT|      995|      |Destiny                     'Nightbreed' |
+15,01| 04 |DD-072   ZIP|    6,365|B     |Techie                     DarkDraw v.72 |
+15,01| 05 |EP-HAVOK FLI|  191,460|@     |Epic                Havok Animation Logo |
+15,01| 06 |FILE_ID  DIZ|      303|      |Sneaky Car Thief  Archive Identification |
+15,01| 07 |HAV-APP  EXE|   43,972|      |Nightvision  Havok Application Generator |
+15,01| 08 |HAV-REQ  EXE|   29,277|      |Bleys            Havok Request Generator |
+15,01| 09 |HV       COM|    1,902|      |Techie                  Havok View v1.04 |
+15,01| 10 |MC-CATTL ANS|   14,626|E     |Mr. Corruption            Cattle Kingdom |
+15,01| 11 |MC-CS1   ANS|    8,036|E     |Mr. Corruption         Corrupted Society |
+15,01| 12 |MC-CS2   ANS|   12,665|E     |Mr. Corruption         Corrupted Society |
+15,01| 13 |MC-GRIP  ANS|    3,823|      |Mr. Corruption                 Grip Logo |
+15,01| 14 |MC-HDR1  ANS|    1,896|      |Mr. Corruption   ViSiON-X Message Header |
+15,01| 15 |MC-ILLUS ANS|    1,792|      |Mr. Corruption             iLLUSiON Logo |
+15,01| 16 |MC-LIQ   MOD|  160,278|      |Mr. Corruption                 Havok MOD |
+15,01| 17 |MC-RELIC ANS|    2,411|      |Mr. Corruption                Relic Logo |
+15,01| 18 |MC-TBL   ANS|   14,746|E     |Mr. Corruption              The Badlands |
+15,01| 19 |MC-VXCHT ANS|    3,089|      |Mr. Corruption      ViSiON-X Chat Screen |
+15,01| 20 |MEM-0594 NFO|    7,427|E     |Nightbreed            May Member Listing |
+15,01| 21 |NB-CIP   ANS|    3,834|      |Nightbreed                   CiPNet Logo |
+15,01| 22 |NB-HAVOK ANS|    5,169|      |Nightbreed                    Havok Logo |
+15,01| 23 |NB-POFT  ANS|   21,931|E     |Nightbreed           Persistance of Time |
+15,01| 24 |NB-DARK  ANS|    1,858|      |Nightbreed                 DarkDraw Logo |
+15,01| 25 |NB-OS    ANS|   11,243|E     |Nightbreed                 DarkDraw Logo |
+15,01| 26 |NEW-0594 NFO|    4,415|E     |Lars Ulrich          Newsletter Issue #2 |
+15,01| 27 |OZ-CDL   ANS|    6,917|E     |Ozzy                      Casa Del' Loco |
+15,01| 28 |OZ-DC3   ANS|    5,617|E     |Ozzy                              DC ]I[ |
+15,01| 29 |OZ-HR    ANS|   15,626|E     |Ozzy                     Harsh Realities |
+15,01| 30 |OZ-LIT   ANS|    4,354|E     |Ozzy                             Lithium |
+15,01| 31 |OZ-SD    ANS|    5,905|E     |Ozzy                     Shadowy Descent |
+15,01| 32 |OZ-TEH   ANS|    8,852|E     |Ozzy                   The Eleventh Hour |
+15,01| 33 |OZ-TTI   ANS|    4,725|E     |Ozzy                The Towering Inferno |

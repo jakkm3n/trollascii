@@ -1,0 +1,80 @@
+00,01@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#
+00,01#                                                                           @
+00,01$                                HOW TO HACK                                #
+00,01%                                                                           $
+00,01&                             MAJOR BBS SOFTWARE                            %
+00,01@                                                                           &
+00,01#                            BY: The Dark Knight                            @
+00,01$                                                                           #
+00,01%                                                                           $
+00,01&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@
+00,01@                                                                           #
+00,01$      VERSiON 2.01         !      SUiCiDE     !        10/28/94            $
+00,01%                                                                           %
+00,01&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@#$%&@
+
+
+
+00,01 1 INDEX
+00,01 ~~~~~~~
+00,01            PART:           TiTLE:
+00,01            ~~~~~           ~~~~~~
+00,01             1              iNDEX
+00,01             2              iNTRODUCTiON
+00,01             3              GETTiNG YOUR ACCOUNT
+00,01             4              GETTiNG ACCESS TO PHiLES AND PHiLE AREAS
+00,01             5              CONCLUSiON
+
+
+
+00,012  iNTRODUCTiON
+00,01~~~~~~~~~~~~~~~
+
+00,01I am sure that all of you know of a huge board near you that is running Major
+00,01BBS software.  The one that I hacked was a particularly sweet target because
+00,01it contained many lovely philes that I was achin' to get my hands on.  The 
+00,01only problem was that you have to pay for access to the good stuff.  So I 
+00,01decided to hack it out so that none of us has to be hindered by paying for 
+00,01our philes.
+
+00,01Major BBS software was designed to be run by a board that has a very large 
+00,01number of users.  That only makes it easier to hack and get away with it.  
+00,01It is not uncommon for a board running Major to have two to five thousand
+00,01users.  There is no way that the Sysop has time to monitor the activities of
+00,01every single user, so it is easier for us hackers to slip through and never 
+00,01get noticed until we are already done.
+
+00,01Well, I hope you enjoy this phile and put this knowledge to good use.  Happy
+00,01downloading....
+
+
+00,013  GETTiNG AN ACCOUNT
+00,01~~~~~~~~~~~~~~~~~~~~~
+
+00,01Ok, first dial up your friendly Major BBS running board and connect.  It will
+00,01ask you for your user id, you will type in "NEW" because you are a new user.
+00,01Now fill out all of the new user forms with *ALL* fake information.  Because 
+00,01Major BBS boards deal with so large a number of people, many of which are on
+00,01long distance, they cannot possibly afford to spend their time and money call
+00,01back verifying all of their new users <actually they could but they don't want
+00,01to >:D>.  After you finish filling out all of their shit you will have to 
+00,01look at a bunch of disclaimers about how they aren't responsible for your use
+00,01of the information on their boards nor are they responsible for any damage 
+00,01their philes inflict on your personal equipment.  Then it will show you the 
+00,01board news and then dump you at a bullitin menu, hit "X" and you will be moved
+00,01to the main menu.  You now have a DEMO account which consists of an unlimited
+00,01time limit per day <but only 20 minutes per call> and phile access to only 
+00,01"FREE" phile areas <Shitty phile areas>.  Are you satisfied with that?  
+00,01HELL NO!  So what are you going to do?  Let me tell you....
+
+
+00,014  GETTiNG ACCESS TO ALL PHILES AND PHILE AREAS
+00,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+00,01At the main menu hit "S" for SUBSCRiPTiON iNFORMATiON, it will dump you at an
+00,01accounting menu that will look something like this:
+
+00,01                        ANARCHiST'S BBS
+00,01                        Accounting Menu
+
+00,01     1) USE A SUBSCRiPTiON iD

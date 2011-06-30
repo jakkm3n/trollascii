@@ -1,0 +1,80 @@
+15,01    14mmmmmmmmm14,14        14,01m15         14mmmmmmmmm 15                           14m14,14        14,01mm
+15,01       14""""14,14           14,01| 15     14 14,14          14,01""15   14           15                  14"""14,14  
+14,01mm15           14"14,14       14,01"15          14""""""   15                     14mm14,14   14,01mm
+14,14      14,01mmm15      14"""15      14mmmm14,14    14,01mm        mmmm14,14   14,01mmm15         14,14         14,01mmm
+14,14           14,01m    mmmm14,14               14,01mmmm14,14              14,01m      |14,14                  
+14,01 """""14,14                         14,01"""""""14,14                  14,01mmm14,14        14,01"""""""14,14     
+11,01 10,15 14,10  14,00 14,01  """""""     """"""""    15  10,15 14,10  14,00 10,01 15 14"""""""      """"     """"  15  10,15 14,10  14,00 10,01 12 14""""
+11,01 10,15 14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10 14,00 00,01m10,15 14,10   10,01"10,15"14,10 14,00 00,01m 
+11,01 10,15 14,10   10,01 10,15 14,10   15,01m10mmmm10,15m14,10   10,15 14,10   10,01 10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01mmmmm10,15 14,10   10,01 10,15 14,10   11,01 
+11,01 10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 00,10 14  10,15 14,10   10,01 10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01 10,15 14,10   15,01m10mmm 10,15 14,10   10,15 14,10   10,01 10,15 14,10   11,01 
+11,01 10,15 14,10   10,01m10,15m14,10   10,15 14,10   10,01m10,15m14,10   10,15 14,10   10,01 10,15 14,10   10,01 10,15 14,10   10,15 14,10   10,01m10,15m14,10   10,15 14,10   10,01m10,15m14,10   10,15 14,10   10,01m10,15m14,10   10,15 14,10   10,01m10,15m14,10   10,15 14,10   10,01 10,15 14,10   11,01 
+14,01mmmmmmmmm           mmmmmmmmmmmmmmmmmmmmmm      mmmmmmmm                   mmm 
+14,14           14,01m   mmm14,14               14,01"""""14,14           14,01"""14,14        14,01mm   pyx    14,14       
+14,14   14,01""  ""14,14            14,01"""14,14      14,01" 15       14  ""14,14     14,01|15   14  "14,14        14,01mm    mm14,14        
+14,14  14,01|15      14|14,14  14,01"""""15    14mmm  "14,14  14,01"  14,14  14,01m     15   14|14,14    14,01 15     14 |14,14                    14,01"" 
+14,14   14,01m15    14m"   mmmm14,14       14,01"  ||  |14,14  14,01"    15   14m14,14 14,01"""15       14m"" 15   14""""14,14     14,01""""
+15,01   14"15           14"""""" 
+
+15,01 14   mm14,14#14,01mm15 10 11m10m11m10m11m10m11m10mmmm11m10m15   11m10mmmm11m10mmmm11m10mmmmm11m10mmmm15    14mm14,14 00#01,15@00,14#14  14,01mmm15        
+14,01mmm14,14 00#01,15@@00,14#14#14,01|15 14,11 14,10 14,11 14,10 14,11 14,10 14,11 14,10 10,01mm15 14,11 14,10 15,01   14,11 14,10 15,01   14,11 14,10 15,01 14,11 14,10 14,11 14,10 14,11 14,10 14,11 14,10 14,11 14,10 10,01mm15    14|14,14 00#01,15@@14#01@00,14#14  00#01,15@00,14#14,01mm15      14mm14,14#14,01mmmm
+14,01"""00,14# ##14,01""15  14,11 14,10 10,11m14,10 10,11m14,10 14,11 14,10 10,01mmm14,11 14,10 10,01mmm14,11 14,10 10,01mmm14,11 14,10 10,01m10,11m14,10 14,11 14,10 14,11 14,10 14,11 14,10 14,11 14,10 10,01mmm15 14mm14,14 00#14,01"""00,14#14,01"15 14   """00,14#14       14,01""""  
+
+15,01      Welcome to the Bamboosh 10May 15Pack!
+15,01                                                                               
+15,01      Soon summer in Norway, which means that exams, soccer, love and other
+15,01      things are taking up most of Norwegian artist's time. That is why we 
+15,01      decided to drop the 0497, April pack. Instead we are back in May 
+15,01      with a huge pack, so stop whining. We should have had a new news- and
+15,01      info-file, but we don't. It will be finished next month I guess, if
+15,01      Pyx remembers atleast. He has finally got a computer in the navy and
+15,01      is currently spending most of his time drawing, we hope this will 
+15,01      inspire all our other lazy members to do something :) Anyway, enjoy 
+15,01      the pack and make sure to apply. 
+15,01   14 15                               
+14,01mm00,14#01,15@00,14#14 14,01mm15   11m10mmm11m10mmmm11m10m11m10m11m10m11m10mmmm15     14mmmmm14,14    14,01mm15     14mmmm15  14mm14,14##14,01mmmmm15           
+14,01"00,14#01,15@14#01@00,14#14  14,01|15  14,11 14,10 14,11 14,10 14,11 14,10 10,01mm15 14,11 14,10 14,11 14,10 14,11 14,10 14,11 14,10 10,01mmm15  14m00,14#01,15@14#01@00,14#14      14,01"""15 14m00,14#01,15@00,14#14   14,01||14,14             14,01mmm00,14#01,15@00,14#14,01m
+15,01   14""""00,14##14,01m15 14,11 14,10 14,11 14,10 14,11 14,10 10,01mmm14,11 14,10 10,11m14,10 10,11m14,10 11,01m10mm10,11m14,10 15,01   14""00,14#01,15@00,14#14  14,01"15 14mmmm14,14      00#14,01""15  14""""00,14##01,15@14,01"""14,14      14,01"""01,15@00,14#
+15,01                              
+15,01      Still not much going on in Bamboosh, but something always happens, 
+15,01      doesn't it ? This time we start with the bad news:                     
+
+15,01      10Phane 15and 10Strode15 were both 13kicked! 15It's the second time we've kicked      
+15,01      anyone out of the group, but since we hadn't heard for them in a half
+15,01      year I think it was about time. We wish them good luck with whatever   
+15,01      they're doing now, sad to see it end this way guys.
+
+15,01      The good news that we got two new members. Norwegian, young, talented,
+15,01      we welcome the man who changes his handle once a week welcome, his
+15,01      current name is right now 10Anomite15. Welcome to Bamboosh, mate, we hope
+15,01      you'll like it. Keep improving. 
+
+15,01      Re-joining is 10Flux15, also a Norwegian, but almost a senior in the 
+15,01      art-scene, he has already been in Bamboosh once, and we hope his stay
+15,01      will be longer this time. Last time he was kicked, but he has improved
+15,01      a lot since then, and we hope he'll keep it up!
+
+15,01      Not much other stuff happening, I was out of the country for three 
+15,01      weeks, and when I came home, all my mail had disappeared. There were
+15,01      probably XXX dist apply's in there, so if you read this, apply again 
+15,01      and I'll make sure to add you. Thank you!
+
+15,01      We've decided to include e-mail addresses in the news-file, and also 
+15,01      we're starting up a mail service. The new Bamboosh releases will be 
+15,01      mailed to everyone who wants them, just give me your e-mails, and I'll
+15,01      add you to the list. 
+
+
+15,01        14m00,14#15,01 11m10mmmm11m10mmmm11m10m15   11m10mmmm11m10mmmm11m10mmmm11m10mmmm11m10mmmm15   14m00,14#14 14,01"14,14      14,01mmm15  14""14,14# 14,01"15 14m14,14#14,01mm
+14,14# 14,01mmmm14,14   14,01|15 14,11 14,10 10,01m10,11m10,01"14,11 14,10 10,01mm15 14,11 14,10 15,01   14,11 14,10 10,01mm15 14,11 14,10 10,01m10,11m14,10 10,11 14,10 10,01mmm10,11 14,10 10,01mm15 10,11 14,10 10,01mmm15  14|00,14#01,15@14,01|15  14""01,15@00,14#14      14,01mmmmm14,14    00#
+14,01"14,14  00#01,15@00,14#14 #14,01"15  14,11 14,10 15,01 14,11 14,10 14,11 14,10 10,01mmm14,11 14,10 10,01mmm14,11 14,10 10,01mmm14,11 14,10 10,01 10,11 14,10 11,01m10mm10,11m14,10 10,11 14,10 10,01mmm11m10mm10,11m14,10 15,01   14"14,15#01@14,01mm15   14"""00,14#14     14,01""
+15,01          
+
+12,01      15Releasing for two months now, we should have had more than we have, 
+15,01      but be happy that we actually decided to released a pack ;) 10Pyx 15is  
+15,01      back, and the main contributor this time. Keep up the great work! 
+15,01      10Intellius 15keeps up his coding with the new Bamboosh application 
+15,01      generator, check it out. The snow isn't yellow anymore, now it's blue!
+15,01      10Darklord 15is a lazy sucker, and he went to Africa for three months and
+15,01      couldn't draw too much down there, but atleast he's got something. 
+15,01      Still improving, 10nOah 15rocks your pants with his new styles, check it

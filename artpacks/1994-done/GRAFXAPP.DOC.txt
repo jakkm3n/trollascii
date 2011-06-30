@@ -1,0 +1,29 @@
+
+15,01GRAFFiX Application Generator 1.0 - REViSioN D
+15,01----------------------------------------------
+15,01Coding and ANSis by AlphaOmega!
+
+15,01This program is for generating application forms for various
+15,01GRAFFiX functions.  If you want to be a
+15,01   -Courier
+15,01   -Distro Site
+15,01   -ANSi, GiF or RiP artist,
+
+15,01Use this program to make an application form which you mail to 
+15,01GRAFFiX.  If we think you're suitable for the job, you will be
+15,01notified.  Otherwise...
+
+15,01EXPLANATioN oF VARioUS THiNGS
+15,01-----------------------------
+15,01At the main menu, use the cursor UP and DOWN keys to select a form.
+15,01When you have the form you want to fill out highlited, press enter.
+15,01F1 will give you basically this.
+15,01ALT-A will give you the credits for this program.
+15,01To exit, press ALT-X.
+
+15,01If you like this program and you want one done for your group,
+15,01contact AlphaOmega at the address shown on all generated apps.
+
+15,01Have a totally wild day!
+15,01                                -AlphaOmega,
+15,01                                   Coder for GRAFFiX.

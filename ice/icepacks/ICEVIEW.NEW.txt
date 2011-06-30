@@ -1,0 +1,44 @@
+15,01New Features to iCEView
+15,01-----------------------
+
+15,01  Someone, I think it was The Clone, asked me a long time ago to make
+15,01  iCEView jump to his favorite editor on a hotkey, so he could write
+15,01  critiques in immediately after viewing. In the .CNF file, look for the
+15,01  section on FunctionAF1. =)
+
+15,01  Cooly used to bug the hell out of me to put all the viewing keys on the
+15,01  numeric keypad. I did, but didn't list them. So, here's the list:
+
+15,01  +----+----+----+----+
+15,01  |NLok|Gray|BonB|Decr|
+15,01  +----+----+----+----+
+15,01  |Home| Up |PgUp|Incr|
+15,01  +----+----+----+Vid |
+15,01  |Left| 5  | Rt |Mode|
+15,01  +----+----+----+----+
+15,01  |End |Down|PgDn|    |
+15,01  +----+----+----+Done|
+15,01  | PrevANSI|Next|    |
+15,01  +---------+----+----+
+
+15,01  Tagging is implemented, sorta. For ANSIs only, no limit in text modes but
+15,01  only 2 tagged in VGA modes. <shrug> Tag all the ANSIs at once! it's a
+15,01  cool way to view the whole pack.
+
+15,01  Shift-Right and Shift-Left when things tagging quickly jumps to the next
+15,01  ANSI division. You'll see what I mean. It may be buggy, but I think I got
+15,01  the bad bugs out of it.
+
+15,01  Shift-Up and Shift-Down make it really cruise (Syn calls it DOOM mode =) )
+15,01  Hit both shifts at once to re-engage AutoScroll(tm).
+
+15,01  When the cursor is on top of an ANSI or a BIN in the file list, hit Alt-B to
+15,01  create a Windows .BMP of that pic. It's nice.. last month I made wallpaper
+15,01  out of Master Ken's greyscale ANSI. =)
+
+15,01  If you like the font that comes with iCEView, and want to play in DOS
+15,01  with it, type "iceview /f".
+
+15,01  This month's font was chosen by Syntax Error.
+
+15,01  -FT/iCE

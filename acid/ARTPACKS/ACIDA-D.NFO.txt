@@ -1,0 +1,80 @@
+
+15,01   #-----------------------------------------------------------+
+15,01   |  "The Aquisition" - Contains A-D of the ANSi Collection.  |
+15,01   |  Background History:    The Aquisition was originated in  |
+15,01   |  San Jose, California.   After it had been organized and  |
+15,01   |  its contents  sorted,  it first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To this day the original zips are still  |
+15,01   |  floating around,  but as  more  and  more high  quality  |
+15,01   |  computer graphics are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                   |
+15,01   +===========================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |     The Aquisition : Volume A-D *      May  1st, 1992     |
+15,01   +-----------------------------------------------------------+
+
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01 |1  |ABSMON   ANS |  10696 |12.25.90 |%A  | Absolute Monarchy (Now XTC)     |
+15,01 |2  |ACDTZBS1 ANS |   2240 | 1.27.92 |%   | ACiD Logo                    (6)|
+15,01 |3  |ACID     ANS |   4721 | 1.14.91 |%   | ACiD Logo                    (1)|
+15,01 |4  |ACID2    ANS |   2598 |11.30.91 |%   | ACiD Logo                    (2)|
+15,01 |5  |ACID3    ANS |   3117 |12.01.91 |%   | ACiD Logo/Logoff Screen      (3)|
+15,01 |6  |ACID4    ANS |   4372 |11.11.91 |%   | ACiD Logo "Excellent ANSis"  (4)|
+15,01*|7  |ACID92   ANS |   5619 | 4.25.92 |%+  | ACiD Member List for May        |
+15,01*|8  |ACIDACID ANS | 133154 | 1.19.92 |%A+ | ACiD Logo "Dead Wrong"          |
+15,01*|9  |ACIDBS   ANS |  17128 |12.23.91 |%A  | ACiD Logo (3-D Blue Font)    (5)|
+15,01 |10 |ACIDLSD2 ANS |  23397 | 6.13.91 |%+  | Lost Souls Domain ][            |
+15,01 |11 |ACIDNEWS ZIP |  20613 | 2.27.91 |%   | ACiD Original Newsletter        |
+15,01 |12 |ACIDSCRN ANS |   7371 | 4.06.91 |%+  | Old BBS/Member List             |
+15,01*|13 |ACID-SD  ANS |   3480 | 4.14.92 |%   | ACiD Logo                    (7)|
+15,01 |14 |ACIDVOID ANS |   7782 |12.08.90 |%A  | Visions of Infinite Darkness    |
+15,01 |15 |ANTHRAX  ANS |  13033 |12.20.90 |%A  | Castle Anthrax                  |
+15,01 |16 |ARCHERS  ANS |   7183 | 3.27.91 |%   | The Archer's                    |
+15,01 |17 |AUDIOACD ANS |  57344 | 3.23.91 |%Ax | Audio Files                     |
+15,01 |18 |B2BACID  ANS |   7401 | 2.29.92 |%+  | B 2 Bombers                     |
+15,01 |19 |BABE     ANS |  15229 | 4.06.91 |%A  | High Sierra                     |
+15,01 |20 |BARTACD2 ANS |  13958 | 1.01.91 |%A  | Bart Simpson - ACiD Commercial  |
+15,01 |21 |BARTACID ANS |  23206 | 2.18.91 |%A+ | Bart Simpson - "She Lost Her.." |
+15,01 |22 |BASSACD1 ANS |   3651 |11.03.91 |%   | Bass Level                   (1)|
+15,01 |23 |BASSACD2 ANS |  22458 | 1.01.91 |%A  | Bass Level                   (2)|
+15,01*|24 |BCACID1  ANS | 100216 | 4.23.92 |%Ax | Body Count                      |
+15,01 |25 |BCPACID  ANS |  15484 | 6.13.91 |%   | Banished Corrosive Poison    (1)|
+15,01 |26 |BCPACID2 ANS |   6691 | 7.10.91 |%   | Banished Corrosive Poison    (2)|
+15,01 |27 |BOIRACID ANS | 117399 | 1.01.91 |%A+ | Board of Ill Repute             |
+15,01 |28 |BONEACID ANS |   7507 | 3.11.92 |%   | Boners Domain                   |
+15,01 |29 |BRGRACID MUS |  67229 | 3.24.91 |%Ax | Hamburger Heaven                |
+15,01 |30 |BULLS    ANS |   3884 | 6.11.91 |%   | Chicago Bulls                   |
+15,01 |31 |BURGERAD ANS |  22471 |12.22.90 |%Ax | Old Hamburger Heaven version    |
+15,01 |32 |CASTLE   ANS |   9818 |12.24.91 |%+  | Castle Perilous                 |
+15,01 |33 |CBDACID  ANS |   6420 |11.10.91 |%   | Communication Breakdown         |
+15,01 |34 |CELMBASE ANS |   2998 |12.21.90 |%   | Celerity Message Base           |
+15,01 |35 |CHAOS    ANS |  54450 |12.29.90 |%Ax | Countdown to Chaos           (1)|
+15,01 |36 |CHAOS2   ANS |  19426 | 5.27.91 |%Ax+| Countdown to Chaos           (2)|
+15,01 |37 |CHRSTMAS ANS |  34730 |12.20.90 |%A  | Merry Christmas from High Sierra|
+15,01 |38 |CIA      ANS |   3254 | 3.27.91 |%   | C.I.A                           |
+15,01 |39 |CITYACD1 ANS |   6124 |11.09.91 |%   | City Limits                     |
+15,01 |40 |CLACID1  ANS |   5406 |11.24.91 |%   | Candy Land                   (1)|
+15,01 |41 |CLACID2  ANS |  52310 |11.25.91 |%Ax | Candy Land                   (2)|
+15,01 |42 |COMMAND  ANS |   3586 |11.30.91 |%   | ACiD "Slaughtering Competition" |
+15,01 |43 |CRACK    ANS |   2528 | 1.21.91 |A   | Crack House                     |
+15,01*|44 |CRMSACID ANS |   7168 | 4.10.92 |%+  | The Crime Scene                 |
+15,01 |45 |CRWL1ACD ANS |   7608 | 1.14.92 |%+  | Crewel Lye                   (1)|
+15,01 |46 |CRWL2ACD ANS |  19262 | 1.14.92 |%A+ | Crewel Lye                   (2)|
+15,01 |47 |CSTNACID ANS |  11530 |10.15.91 |%+  | Cornerstone ]I[                 |
+15,01 |48 |CULTACID ANS |   7532 | 3.26.92 |%+  | ACiD Cult                       |
+15,01 |49 |DAACID1  ANS |   5040 | 6.06.91 |%   | Disaster Area                (1)|
+15,01 |50 |DAACID2  ANS |  29887 |11.03.91 |%A  | Disaster Area                (2)|
+15,01 |51 |DARKACID ANS |   7286 | 6.01.91 |%   | Dark Illusion                   |
+15,01 |52 |DARKSIDE ANS |   5736 |12.21.90 |%   | Dark Side                       |
+15,01 |53 |DAWNACID ANS |   2408 | 2.15.92 |%   | Dawns End                       |
+15,01 |54 |DEMENTED ANS |   5620 | 5.09.91 |%   | Demented Illusion               |
+15,01 |55 |DIGITAL  ANS |   2515 | 1.20.91 |%   | Digital Underground             |
+15,01 |56 |DIGTACID ANS | 103648 |11.14.91 |%Ax | Digital Reich                   |
+15,01 |57 |DREAM    ANS |  18076 | 3.11.91 |%A  | Insomniac's Dream            (1)|
+15,01 |58 |DREAM2   ANS |   3907 | 3.11.91 |%   | Insomniac's Dream            (2)|
+15,01 |59 |DREAM3   ANS |   5020 | 4.02.91 |%   | Insomniac's Dream            (3)|
+15,01 |60 |DUMDEE   MUS |     43 | 6.06.91 |%M  | Clip of Beethoven's 5th (music) |
+15,01 |61 |DUNGEON  ANS |   4271 | 9.28.90 |%   | Dungeon of Destiny              |
+15,01 |62 |ACIDA-D  NFO |   6872 | 5.01.92 |%   | This File                       |

@@ -1,0 +1,17 @@
+15,01Enter a NEW password
+15,01Where are your calling from (BBS Name/State)
+15,01What is your Business/Data Phone #
+15,01What is your Home/Voice Phone #
+15,01What Brand of CPU are you useing
+15,01Have System Clear screen Between Messages
+15,01Have System Scroll Multi Screen Messages
+15,01Have System Use Long Message Headers
+15,01Use Full Screen Editor when entering messages (Yes/No/Ask)
+15,01Set Editor WorkSpace to 79 Col
+15,01What do you want to use as a Alias Name
+15,01What is your Steet Address
+15,01What is your Apt Or Suite #
+15,01What is your City
+15,01What is you Providence/State
+15,01What is your Postal/Zip Code
+15,01What Country are you calling from (Blank For USA)

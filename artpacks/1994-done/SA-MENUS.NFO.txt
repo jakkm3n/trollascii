@@ -1,0 +1,40 @@
+
+15,01    ---------------------------------------------------------------------
+
+
+15,01                            UNiON Productions '94
+15,01                            ~~~~~~~~~~~~~~~~~~~~~
+
+15,01             Renegade Compatible Menu Set by Stone Angel [UNiON]
+
+15,01                                Version 1.00
+
+15,01                      Copyright (C) 1994 by Stone Angel
+
+15,01    ---------------------------------------------------------------------
+
+15,01    Well, here it is.  This file isn't long so please just skim through
+15,01    it and you'll get the general idea.  I find that Renegade has
+15,01    become more and more popular with boards now a days.  This means
+15,01    a need for more menu sets!  Renegade is a great BBS program,
+15,01    being so much more configurable than you could ever imagine.  I
+15,01    have seen many great menu sets for it, so I was bored and I made
+15,01    one of my own.  Sure, I know, it isn't iCE or ACiD quality, but
+15,01    it's a beginning and maybe I'll be able to improve on this set
+15,01    when version 2.0 comes along.  For now, enjoy the menu set as it
+15,01    is.  If you haven't done so already, just unzip the archive into
+15,01    your c:\rg\misc directory (or whatever your renegade textfiles dir
+15,01    is).  Feel free to modify the menus slightly but please leave my
+15,01    sig at the bottom or it would be considered plageurism (sp?).
+
+15,01    If you have any suggestions or comments, I can be contacted on
+15,01    my board, or on any other BBS you can find me on.
+
+15,01    Stay tuned for version 2.0 which will probably also consist of
+15,01    Stats Screens and other cool things.
+
+15,01    Enjoy the Set!
+
+15,01    - Stone Angel [UNiON]
+
+15,01    ---------------------------------------------------------------------

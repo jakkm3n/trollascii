@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :   January Update *   February 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0294.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0194 ANS |   9171 |01.31.94 |%+   | January Member/Board Listing   |
+15,01*|2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 108151 |02.01.94 |%    | ACiD Acquisition Viewer + 1.40 |
+15,01*|N/C|ACIDVIEW NFO |  10461 |02.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AE-VUDU  ANS |  48880 |01.31.94 |%+   | ACiD - On Top In 1994          |
+15,01*|5  |AN-CAESR ANS |  18685 |01.31.94 |%+   | Caesar's Palace                |
+15,01*|6  |BE-OBV2  ZIP |  13327 |01.24.94 |%    | Oblivion/2 Menu Set            |
+15,01*|7  |BK-CH02  ANS |  19057 |01.31.94 |%+   | Channel Zer0                (2)|
+15,01*|8  |BK-CP1   ANS |  42967 |01.31.94 |%+   | Corrosive Poison               |
+15,01*|9  |BK-DD1   ANS |  34059 |01.31.94 |%+   | Digital Disturbance            |
+15,01*|10 |DR-BAUD  ANS |  25953 |01.31.94 |%+   | Baudville                      |
+15,01*|11 |DT-DOD2  ANS |  23240 |01.22.94 |%+   | Domain of Destruction          |
+15,01*|N/C|FILE_ID  DIZ |    357 |02.01.94 |%    | Acquisition FILE ID by {BE}    |
+15,01*|12 |IM-AMBER ANS |  37788 |01.31.94 |%+   | Amber                          |
+15,01*|13 |JD-CH01  ANS |1000000 |02.01.94 |%Ax  | Channel Zer0                   |
+15,01*|14 |KP-ALPHA ANS |  21704 |01.15.94 |%+   | Alpha 2010                     |
+15,01*|15 |KS-IC1   ANS |  23763 |01.31.94 |%+   | Insane Creation                |
+15,01*|16 |RN-ACID4 RIP |   7875 |01.31.94 |%    | ACiD Logo                   (4)|
+15,01*|17 |RN-KAXIS RIP |  15608 |01.31.94 |%    | Kick Axis                      |
+15,01*|18 |RN-PNTH1 RIP | 125288 |01.31.94 |%    | Pantheon                       |
+15,01*|19 |RN-TS1   RIP |  54335 |01.31.94 |%    | Terminal Sabotage              |
+15,01*|20 |RS-DREAM EXE |  14395 |01.30.94 |%    | The Elusive Dream              |
+15,01*|21 |SD-DIST1 ANS |  19886 |01.15.94 |%+   | Distorted Reality              |
+15,01*|22 |SM-ACID1 RIP |  24108 |01.31.94 |%    | "Where Quality Never Ends..."  |
+15,01*|23 |SN-PAL1  ANS |  19751 |01.31.94 |%+   | Palladium                      |
+15,01*|24 |SO-CH01  ANS |  18714 |02.01.94 |%+   | Channel Zer0                   |
+15,01*|25 |SP-AE1   RIP |  21137 |01.31.94 |%    | Awakened Earth                 |
+15,01*|26 |SP-TED1  RIP |  21412 |01.31.94 |%    | The Elusive Dream              |
+15,01*|27 |T2-ADC1  ANS |  25669 |01.22.94 |%+   | After Dark Club                |
+15,01*|28 |T2-CTDL1 ANS |  16447 |01.29.94 |%+   | Citadel                        |
+15,01*|29 |T2-DIST1 ANS |  11961 |01.29.94 |%+   | Distorted Reality              |
+15,01*|30 |T2-DNTOX ANS |  19295 |01.16.94 |%+   | Deadly Intoxication            |
+15,01*|31 |T2-FUN1  ANS |  21285 |01.29.94 |%+   | Funderbird                     |
+15,01*|32 |T2-TEH1  ANS |  32728 |01.22.94 |%+   | The Eleventh Hour              |
+15,01*|33 |TC-BV2   ANS |  26627 |01.31.94 |%+   | Beyond Vision                  |
+15,01*|34 |TC-GOD   ANS |  19804 |01.31.94 |%+   | Generations of Doom            |
+15,01*|35 |US-TEH1  RIP |  54450 |01.31.94 |%+   | The Eleventh Hour              |
+15,01*|36 |ACDU0294 NFO |   6341 |02.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

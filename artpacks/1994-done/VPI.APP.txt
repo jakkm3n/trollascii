@@ -1,0 +1,57 @@
+15,01        This form is to be completed fully and accurately to be considered
+15,01        for VPI membership. Please upload this to the application site as
+15,01        mentioned in VPI.NFO
+15,01     
+15,01     Name:
+15,01Alias(es):
+15,01   Affils:
+
+15,01Voice Phone: (   )   -
+15,01 Data Phone: (   )   -
+
+15,01Position Applying for [ansi/ascii/lit/vga/ppe/distro/courier]:
+15,01  BBS Name:
+15,01  Software:
+15,01File Focus:
+15,01BBS Affils:
+15,01 Max Speed:
+15,01     Nodes:
+15,01  HDD Size:
+15,01  Any Nets:
+15,01 Number(s):
+15,01Can You Call LD(Y/N):
+
+15,01IF APPLYING AS ARTIST/CODER...
+15,01Programming Languages:
+
+15,01Special Training/Schooling
+15,01Line 1 -
+15,01Line 2 -
+15,01Line 3 -
+15,01Line 4 -
+15,01Line 5 -
+
+15,01Special Comments:
+15,01Line 1 -
+15,01Line 2 -
+15,01Line 3 -
+15,01Line 4 -
+15,01Line 5 -
+
+15,01How often you can produce: 
+15,01Length of time taken to produce a work:
+
+15,01References:
+15,011 -
+15,012 -
+15,013 -
+
+15,01Best time to reach you [include time zone]:
+
+
+15,01---
+15,01Thanks for taking the time to complete this application. Sorry for the
+15,01textfile format... this will be replaced by a much nicer .EXE app generator
+15,01for the next issue. Make sure all the above is correct, and make sure you
+15,01upload the app to the proper site. BE SURE TO INCLUDE A SAMPLE OF YOUR
+15,01BEST WORK!!!

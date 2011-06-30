@@ -1,0 +1,77 @@
+
+14,01.# 11Look who's back!!!  10;+14>  11Figured we'd be dead and gone by now, huh?  Doesn't
+11,01   it suck how sometimes your day just doesn't turn out right?  10;+14>  11Anyway,
+11,01   this is Stone the Crow bringing you another (10.11)(10.11).TiT file for your read-
+11,01   ing enjoyment.
+
+14,01.# 11Okay, first off I'd like to address the TiTAN members for a sec.  No longer
+11,01   will VGAs be accepted in any other format other than GiF.  Moreover, I will
+11,01   not spend the time renaming *.ANS files to *.TiT.  If these guidelines are
+11,01   not met then you can expect your submission for the pack to be left out.
+11,01   'Nuff said.
+
+14,01.# 11Now,  on to other things.  If you've never used TiTview then this is the
+11,01   time to do it.  It is THE best viewer that any small group has out there,
+11,01   and it's only going to get better.  I use TiTview myself.  I don't use some
+11,01   other group's viewer because I think my own sucks.  It rocks and that's all
+11,01   that needs to be said.
+
+14,01.# 11If you would like up to date information concerning TiTAN then you need to
+11,01   look for GTCMnet.  That is the official TiTAN net and all of the members
+11,01   can currently be contacted there.  If you are a sysop then you should con-
+11,01   sider getting into it.  If you run a group then there is a destinct
+11,01   possibility that False God (net coordinator) will give your group it's own
+11,01   base if you ask for it and keep it active thereafter.
+
+14,01.# 11I am taking this paragraph to let you all know that T2 and his palm have
+11,01   found love at the Red Light District.  10;+14>  11There, you happy now, Tele?
+11,01   10;+14>
+
+14,01.# 11The only thing I really have to say about TiTAN this month is that the
+11,01   group has really improved in a lot of areas.  You can see it for yourself
+11,01   so I'm not going to waste anymore time with this .NFO file.
+
+
+
+
+
+
+14,01m15mm14m15m14mm15m00m15m14m15mm00mm15m00mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+00,14 #01,15@14#    15  01The following has been a TiTAN production by Stone the Crow14      00#15@00,00# 
+14,01""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""15""14"15"00"15"""00"15"00""15"00""
+
+15,01                                     12T02i12TA02N
+15,01                                  12M02e12m02b12er L02i12st
+
+
+15,01            14+ F11o10under    14-15                         14S11t10one the Crow
+15,01            14+02-14--02---14-02----------------------------12-02-12--02---12------------
+
+15,01            14+ A11r10tists    14- B11i10zzaro14,15       14G11a10toperro14,15        14K11r10ux14,
+15,01            14|15              14P11a10nzer 14W11a10rmonger14,15             14S11t10ealth14,
+15,01            14|15              14S11t10one the 14C11r10ow14,15                14S11u10spect
+15,01            14+02-14--02---14-02----------------------------12-02-12--02---12------------
+
+15,01            14+ 10L11i10T15        14-15               14D11r10agonspit!!!14, F11a10lse 14G11o10d
+15,01            14+02-14--02---14-02----------------------------12-02-12--02---12------------
+
+15,01            14+ C11o10ders15     14-15                       14R11i10cker14,  V11o10ltaic
+15,01            14+02-14--02---14-02----------------------------12-02-12--02---12------------
+
+15,01            14+ C11o10urier    14-15                               10The 14G11u10ru
+15,01            14+02-14--02---14-02----------------------------12-02-12--02---12------------
+
+15,01            14+ D11i10st Sites 14-15             14P11s10ychotic Aftermath  14[127O214]WHQ
+15,01            14|15                          14A11l10tered Sanity15       14[127O514]CHQ
+15,01            14|15                          14T11e10rminal State15       14[124O514]USHQ
+15,01            14|15                          14S11a10nctuary15            14[123O514]
+15,01            14|15                          14C11h10annel Zero15         14[1271414]
+15,01            14|15                          14T11h10e Hotel California 14[127O214]#
+15,01            14|15                          14R11e10d Light District   14[127O214]#
+15,01            14|15                          14L11o10st Horizons15        14[128O514]
+15,01            14|15                          14P11a10ckaged Rebellion   14[1291614]
+15,01            14|15                          14C11e10ll Block 415         14[1281514]
+15,01            14+02-14--02---14-02----------------------------12-02-12--02---12------------
+
+14,01# 11The following are TiTAN member boards.
+11,01>

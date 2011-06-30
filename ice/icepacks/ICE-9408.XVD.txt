@@ -1,0 +1,17 @@
+15,01ICE-9408.NFO The iCE Infofile for August '94 $N+_++* >? |$_+ICE-9408.MEM The iCE
+15,01 Member Listing for August '94  L n^N+W0ICE-9408.STS The Statistics for the Augu
+15,01st '94 iCE Pack r*_+ICE-9408.SIT The iCE Site Listing for August '94 ++* >? |$_+
+15,01CO-FLAT.ICE +Flatlined Reality - Cooly *_++* >? _++* >? |$_+CO-LSD.ICE d+Lost So
+15,01uls Domain - Cooly *_+_++* >? |$_++* @L IN-ELEU.ICE +Eleutheria - Incubus +*_++*
+14,15@15,01K*i*_+_++* >_++* >? |$_+IN-REV9.ICE +Revelution 9 - Incubus  >? |$_++* >_+_++* 
+15,01@L n^LS-DATA2.ICE Data Connection - Lord Soth +_++* >_++* >? |$_+MK-SOV.ICE d+Sp
+15,01irits of Vengeance - Master Ken >_++*_++* @L PN-HM1.ICE d+Harvest Moon/Twingles 
+15,01- Pnakotic ? _++* >? |$_+PN-SLT1.ICE +Straylight Couriers - Pnakotic |$N+_++* >?
+14,15@15,01K*i*_++* >? |$N+F0T r*_+SY-ICE4.ICE +iCE Logo - Shaggy I_++* >? |$_++* >_++*_++
+15,01* @L TG-EAA.ICE d+Evil Acme Acres - Toon Goon >_++*  _++* >? |$_+TG-ERECT.ICE Er
+15,01ection #1 - Toon Goon ++* >_++* >_++* >? |$_+TG-SNO.ICE d+The Sno-Zone - Toon Go
+15,01on  >? |$N+F0_++* >? |$_+TT-CULT.ICE +The Cult - Tempus Thales ? |$_++* >? |$_++
+15,01* @L US-FR.ICE @d+Flatlined Reality - Multiple Artists +* >? |$_+BN-ASY.GIF d+As
+14,15@15,01K*A*_+_++* >_++* >? |$_+DT-ICE.GIF d+iCE Logo - Dr. Tounge *_++* >_++* >_++* >?
+14,15@15,01_++* >_++* >_+_++* @L n^SB-TV1.GIF d+Terminal Velocity - Sober * >? |$N+F0T r*F
+15,010L _+TG-TMA2.GIF +The Mourning After - Toon Goon _++*  L n^N+F0=P

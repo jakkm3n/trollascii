@@ -1,0 +1,18 @@
+15,01.model small
+15,01.code
+15,01        public _set_palette
+15,01_set_palette proc near
+15,01        push  bp
+15,01        mov   bp,sp
+15,01        mov   bx,0
+15,01        mov   cx,[bp+6]          ; Number of color registers to set
+15,01        mov   dx,word ptr [bp+4] ; Address of Palette Buffer
+15,01        mov   ax,ds
+15,01        mov   es,ax
+15,01        mov   ax,1012h           ; Set Block of DAC registers
+15,01        int   10h                ; Video Services
+15,01        mov   sp,bp
+15,01        pop   bp
+15,01        ret
+15,01_set_palette endp
+15,01        end

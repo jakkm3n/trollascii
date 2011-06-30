@@ -1,0 +1,45 @@
+15,01                               BREED394.NFO
+
+15,01 +==============+===========+===========+============+========================+
+15,01 | .File Name...|.File Size.|.File Type.|.Artist...  |.File Description...... |
+15,01 +==============+===========+===========+============+========================+
+15,01 | BL-BATMN.GIF.|.33622 b...|.B.E.......|.Blood Lust.|.Batman on a Cliff..... |
+15,01 | BL-KRUST.GIF.|.16793 b...|.B.E.......|.Blood Lust.|.Krusty the Clown...... |
+15,01 | BL-STIMP.GIF.|.31110 b...|.B.E.......|.Blood Lust.|.Ren and Stimpy........ |
+15,01 | HN-MARVN.GIF.|.22092 b...|.B.E.......|.Henchman...|.Marvin the Martian.... |
+15,01 | HN-SAVGE.GIF.|.22240 b...|.B.E.......|.Henchman...|.The Savage Dragon..... |
+15,01 | HN-SPOT .GIF.|.15433 b...|.B.E.......|.Henchman...|.Cool Spot............. |
+15,01 | HN-SPAWN.GIF.|.59580 b...|.B.E.......|.Henchman...|.Spawn #1.............. |
+15,01 | HN-SPWN2.GIF.|.27435 b...|.B.E.......|.Henchman...|.Spawn #2 <LOGO>....... |
+15,01 | HN-WILDG.GIF.|.28482 b...|.B.E.......|.Henchman...|.Wild Dog.............. |
+15,01 | UV-SWNLT.GIF.|..5123 b...|.B.E.......|.UltraViolet|.Spawn Font............ |
+15,01 | HN-BRD1 .ANS.|..1935 b...|.B.A.......|.Henchman...|.Breed Logo #1......... |
+15,01 | HN-BREED.ANS.|...470 b...|.B.A.......|.Henchman...|.Breed Logo #2......... |
+15,01 | HN-DDLY .ANS.|..1855 b...|.B.A.......|.Henchman...|.Deadly Sin Ansi....... |
+15,01 | HN-TSZ  .ANS.|..2156 b...|.B.A.......|.Henchman...|.The Sno-Zone Ansi..... |
+15,01 | NI-BREED.ANS.|..3873 b...|.0.A.......|.Nitron.....|.Breed Logo #3......... |
+15,01 | BREEDAPP.EXE.|.48784 b...|.B.%.......|.UltraViolet|.Breed Application Gen. |
+15,01 | BREED394.NFO.|..2839 b...|.B.r.*.....|...UV/HN....|.This File............. |
+15,01 | BREED   .NFO.|..8928 b...|.B.r.*.....|...UV/HN....|.Member Listing........ |
+15,01 | FILE_ID .DIZ.|...304 b...|.B.r.......|.Henchman...|.The File_ID.DIZ....... |
+15,01 +=========+====+===========+===========+============+========================+
+15,01 | Legend: | B = Breed Production       M = Music      % = Executable         |
+15,01 +---------+ 0 = Outside Production     A = Ansi       r = Text File          |
+15,01 |           * = Combined Effort        E = VGA                               |
+15,01 |                                                                            |
+15,01 +----------------------------------------------------------------------------+
+
+15,01    Greets go out to...
+
+15,01    ACiD - Still The Top!
+15,01    iCE - Catching Up!
+15,01    GOTHiC - Proof that you don't hafta to be big to be great.
+15,01    GRiP/AD - Way to go Canadians!
+15,01    ETERNiTY - Still going strong.
+15,01    TRiBE - Keep it up!
+15,01    IDiOT - err, IDiOM... Sorry honest mistake.
+15,01    ACiDFLASH - Get a Life!
+15,01    APeX - There's this WICKED DEMO GROUP!
+15,01    DARK - One of the BEST Canadian groups out there.
+
+15,01    Any other Group we forgot, no we didn't forget UNiON we just don't care!

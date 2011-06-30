@@ -1,0 +1,10 @@
+15,01dorinfo1.def
+15,01Doug's Hangout BBS
+15,01Doug
+15,01Wharam
+
+15,01rem -------------------
+15,01rem 1st line - path to your door drop file (door.sys recommended)
+15,01rem 2nd line - Your BBS Name
+15,01rem 3rd line - SysOp first name
+15,01rem 4th line - SysOp last name

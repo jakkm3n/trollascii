@@ -1,0 +1,23 @@
+
+
+15,01        With the aid of the RenderMan Companion, some
+15,01        Siggraph papers, the gurus of
+15,01        comp.graphics.rendering.renderman, and most
+15,01        notably Larry Gritz, I have spend the past couple
+15,01        of months learning to use RenderMan. In the
+15,01        process I've experimented by coding several
+15,01        shaders to accomplish specific tasks. Some shaders
+15,01        were a success, while others returned abysmal
+15,01        results. I continue to learn and experiment with
+15,01        shaders, and probably never will finish learning
+15,01        what can be achieved through RenderMan. "Miss
+15,01        Piggy" is a result of my education, my
+15,01        experimentation, and the shaders that worked.
+
+15,01        editors note: If you don't have a Quicktime 3
+15,01        compatable viewer, you're gonna have a real tough
+15,01        time viewing this.
+
+15,01        Jamie McCarter
+15,01        jamiem@ice.org
+15,01        http://jamie.ice.org

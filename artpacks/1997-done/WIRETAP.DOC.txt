@@ -1,0 +1,75 @@
+15,01                Wiretap  v. 3.5  Specs as of (06/97)
+
+
+15,01  File Formats   : ANS          Text files containing ANSi Escape Sequences
+15,01                   TXT          Plain Text Files
+15,01                   BIN          160 or 80 column Binary Files
+15,01                   RIP          Remote Imaging Protocol Files
+15,01                   ADF          Artwork/CiADraw Data Files (Font+Pall+Data)
+15,01                   FLI          FLI Animation Files
+15,01                   GIF          Compuserve GIF Graphic Image (800x600)
+15,01                   PCX          ZSoft PCX Graphic Image (640x480)
+15,01                   EXE          DOS Executable (HEX Data Scrolling)
+15,01                   COM          DOS Executable (HEX Data Scrolling)
+15,01                   PCB          Text files containing PCBoard Color Codes
+15,01  Screen Aspects : 25 Line, 28 Line, 30 Line, 50 Line
+15,01  Scroll Types   : Block       - Scroll Files Character by Character
+15,01                                 (ANS/TXT/BIN/ADF/PCB/COM/EXE)
+15,01                   Smooth      - Scroll Files Pixel by Pixel
+15,01                                 (ANS/TXT/BIN/ADF/PCB)
+15,01                   Baud Rate   - Modem Emulation
+15,01                                 (ANS/TXT)
+15,01  Filename Limit : 65,535 Files per Directory
+15,01  Text Limit     : 2,000 Lines
+15,01  Ansi-VGA Modes : 320x200, 640x480, 800x600
+15,01  Memory Usage   : XMS (3 Megabytes)
+
+15,01  Viewer Screen  : Napalm (cia)  (see member list for email address)
+
+15,01 Command Keys at File Selection:
+
+15,01       F1  = View Help Screen
+15,01       F2  = Change Viewing Video Mode for Ansi-Vga
+15,01              Text Mode   = see F3
+15,01                320x200   = MCGA  
+15,01                320x400   = Mode-X { Not yet implemented }
+15,01                360x200   = Mode-X { Not yet implemented }
+15,01                360x400   = Mode-X { Not yet implemented }
+15,01                320x240   = Mode-X { Not yet implemented }
+15,01                320x480   = Mode-X { Not yet implemented }
+15,01                360x240   = Mode-X { Not yet implemented }
+15,01                360x480   = Mode-X { Not yet implemented }
+15,01                640x400   = SuperVGA { Not yet implemented }
+15,01                640x480   = SuperVGA
+15,01                800x600   = SuperVGA 
+15,01                1024x768  = SuperVGA { Not yet implemented }
+
+15,01       F3  = Change Character Aspect for Text modes
+15,01               80x25 = Normal DOS Video Mode
+15,01               80x28 = 28 Characters per Screen
+15,01               80x30 = 30 Characters per Screen  
+15,01               80x50 = 50 Characters per Screen
+15,01             
+15,01       F4  = Change Palette Settings
+15,01               --- Color = Normal Colors w/blinking
+15,01               ICE Color = Normal Colors w/high background colors
+15,01               Greyscale = Colors are averaged to Grey
+15,01               EliteText = Displays Black on Black as white text
+
+15,01       F5  = Change Scrolling Method
+15,01               Blocks    = Scroll Characters Line-by-Line
+15,01               Smooth    = Scroll Pixel-by-Pixel
+15,01             
+15,01       F6  = Change File Mask
+15,01    ALT-D  = Change to specified Directory
+15,01    ALT-T  = Display Time/Stopwatch
+15,01    ALT-I  = View Information on File
+15,01    ALT-C  = Copy Files
+15,01              Source Path      = Where the File is Located
+15,01              Destination Path = Where you want the file to be put
+15,01    DELETE = Deletes the Selected File
+15,01    INSERT = Create a Directory
+15,01    SPACE  = Tag the Selected File
+15,01  
+15,01>SAUCE00wiretap file viewer documents      burning chrome      cia              
+15,01  @@P v                             

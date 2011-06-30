@@ -1,0 +1,56 @@
+15,01        [.....]  GRiM Artist/Programmer/Writer Application [.....]
+
+15,01                   Handle [.....................................]
+15,01                Real Name [.....................................]
+15,01       VOICE Phone Number [.....................................]
+15,01     Current Affiliations [.....................................]
+15,01        Past Affiliations [.....................................] 
+
+15,01    [.....]  Position(s) Applying for -- Check all that apply  [.....]
+15,01                         
+15,01                            [.] Programming  
+15,01                            [.] ANSi Artwork
+15,01                            [.] RiP Artwork
+15,01                            [.] VGA Artwork
+15,01                            [.] Literature
+15,01 
+15,01                     Why are you applying to GRiM
+15,01[...........................................................................]
+15,01[...........................................................................]
+
+15,01                What do you expect to do for the group
+15,01[...........................................................................]
+15,01[...........................................................................]
+
+15,01      [.....]  Complete the following only if you run a BBS  [.....]
+15,01 
+15,01            Name [............................................]
+15,01          Number [............................................]
+15,01           Speed [........]  Storage [.......]  Nodes [.......] 
+15,01        Software [.............]  NUP [.......................]
+15,01          Affils [............................................]
+15,01        Networks [............................................]
+
+
+15,01[---------------------------------------------------------------------------]
+15,01  Rename this textfile to the first 8 characters of your handle then send 
+15,01  it along with some samples of your work to the BBS listed below.  All 
+15,01  applications without sample work will be immidiately trashed.  We cant 
+15,01  accept anybody if we can't see what you have done, simple enough, eh.
+
+15,01                          Violent Playground
+15,01                        (908)/920-2575 - 14.4k
+15,01                        (908)/920-7920 - 28.8k 
+
+15,01  When logging on, you may either logon new and attatch it to mail, or use
+15,01  the GRiM Guest Account available from the Matrix to upload your application
+15,01  pack quickly.  All accepted applicants will be notified within one week by
+15,01  phone of their acceptance.  A courtesy call will be made to those not 
+15,01  accepted into the group, but dont expect us to go crazy trying to get a hold
+15,01  of you.
+
+
+
+
+15,01[---------------------------------------------------------------------------]
+15,01 

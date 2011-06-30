@@ -1,0 +1,44 @@
+15,01    Welcome to the How-To textfile dealing with the internet.  Hi i'm Critical
+15,01Illusion, you may remember me from such net endorsements as Escape-Net and
+15,01Whaddya Mean I got A $400 Phone Bill for Polling The Bloody Net!?  Hahah
+15,01we all remember poor billy.
+
+15,01        Escapenet is an idea i've had for a while.  After my board wen't down
+15,01in 1995 (savage exile!) as did my net Escapenet!  This net is now going to be
+15,01the official net for 2 great art groups, Echo & Twilight.  Hopefull this
+15,01will once again bring the art scene closer together!
+
+15,01        Just like before we had a brilliant idea, with escapenet we polled
+15,01your board, didn't matter what AC, we picked up mail from you!  This time
+15,01we're doing something similar, we'll send you mail in EMAIL!  This will be
+15,01done once a day, and you may send us mail as often as you want!  This is
+15,01quiete simple and i'm going to explain how to set it up.  First of all
+15,01get your mailer setup, im not going to help, so don't ask!  Set up all our
+15,01bases and setup gecho or whatever your using.
+
+15,01        When you've got everything setup including the address you were
+15,01assigned go post a message in the test base.  Make sure your packing for
+15,0135:100/0.  After you've posted a message and your mailer is holding that
+15,01message go into Intermail (like you would when your waiting for a call).
+15,01Hit F-10 Or whatever to get your menu and go into Mail QUEUE.  Highlight
+15,01the packet which is being held for Savage Exile!  Press F2 (with intermail)
+15,01and it will tell you the file name.  Simply Send that file in email to :
+
+15,01        clusion@globalserve.net
+
+15,01        And then delete it from your mailer's directory.  Thats it. A
+15,01voice from far yells What! You can't be serious? Through email?  No ld phone
+15,01bill? How is all this possible?
+
+15,01        Will mang, thankx for interupting! but i'll answer you anyway!  No
+15,01thats not it.  Later on when I have your email address I will reply to your
+15,01email sending you the mail you WANT, to flood your bases with messages, oh ya
+15,01baby fresh messages.  You simply put it into your directory and manually type
+15,01the commands which would be executed if you had gotten mail
+
+15,01        Once again simple, easy, not fast!  It may take 1-2 days to get mail
+15,01but it's worth the price, and quality.  Boy did this take me along time to
+15,01write, i should have slept.  Ah well, now you know how it works.  And just
+15,01repeat the process everyday send me email of your mail (which may get boring
+15,01for you) and i'll send you mail.  HOWEVER!  If you ever do get bored of it
+15,01and would rather poll down in 905 (ontario) thats fine by me <evil grin>.

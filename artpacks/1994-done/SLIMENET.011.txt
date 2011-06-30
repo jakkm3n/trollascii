@@ -1,0 +1,64 @@
+15,01;   __________________          ___  ___  __________
+15,01;   \  _ _______    _/    _____/   \/   \/  _______/
+15,01;    \/ \__   \|    | ___/ ___ \   /    \\   _)/   \
+15,01;    /    |   \\    |/   \/   \/  _  _   \\         \
+15,01;   /          \\        \\   \\  |\/|     \         \
+15,01;   \___________/_________/____/__|  |_____/_________/
+15,01;                                                 -tZ!
+15,01;.-------------------------------------------------------.
+15,01;| Current Nodes as of release date..                    |
+15,01;|-------------------------------------------------------|
+15,01;| Deadly Intoxication   801  Time Killer  World Hub     |
+15,01;| Amnesia               801  Wapatti      Member Node   |
+15,01;| The Lost Temple       801  T/+E         Member Node   
+15,01;| Happiness is Slavery  408  Diabolos     Member Node   |
+15,01;| The Country Store     914  Winter Rose  Member Node   |
+15,01;| Digital Empire        516  Radix        Member Node   |
+15,01;| Alter Reality         718  K.S.         Member Node   |
+15,01;| Malice in Plunderland 804  Ragin Cajun  Member Node   |
+15,01;|-------------------------------------------------------|
+15,01;| Few new additions is all, and I need a new Western    |
+15,01;|Hub.. because Abom pussied out on me.. =)              |
+15,01;|                                                       |
+15,01;| time killer [lapse/die] : tkiller@xmission.com        |
+15,01;`-------------------------------------------------------'
+15,01;
+15,01;                                                                               
+15,01        
+15,01;
+15,01Zone,15,slime-net_world_hub,Sandy_Ut,Time_Killer,1-801-553-8644,9600,XA,CM,V32B,
+15,01V42B
+15,01;                                                                               
+15,01                                                      
+15,01;
+15,01; .. mountain region (15:100/X)
+15,01Region,100,..._mountain_hub,Sandy_Ut,Time_Killer,1-801-553-8644,9600,XA,CM,V32B,
+15,01V42B
+15,01,1,Deadly_Intoxication,Sandy_Ut,Time_Killer,1-801-553-8644,9600,XA,CM,V32B,V42B
+15,01,2,The_Lost_Temple,Midvale_Ut,Tae,255-5251,9600,XA,CM,V32B,V42B
+15,01,3,Amnesia,Sandy_Ut,Wapatti,1-801-572-1306,9600,XA,CM,V32B,V42B
+15,01;
+15,01;
+15,01; .. western region (15:200/X)
+15,01Region,200,..._western_hub,... OPEN ...,OPEN,1-000-000-0000,9600,XA,CM,V32B,V42B
+
+15,01,1,Happiness_is_Slavery,San_Jose_Ca,Diabolos,1-408-238-5427,9600,CM,XA,V32B,V42B
+
+15,01;
+15,01; .. east coast region (15:300/X)
+15,01Region,300,..._east_coast_hub,Flushing_Ny,Kindred_Spirit,1-718-454-7735,9600,XA,
+15,01CN,V32B,V42B
+15,01,1,Alter_Reality,Flushing_NY,Kindred_Spirit,1-718-454-7735,9600,XA,CM,V32B,V42B
+15,01,2,The_Country_Store,Bedford_NY,Winter_Rose,1-914-324-9074,9600,XA,CM,V32B,V42B
+15,01,3,Digital_Empire,Wantagh_NY,Radix,1-516-785-3348,9600,XA,CM,V32B,V42B
+15,01;                                                                               
+
+15,01;
+15,01; .. eastern region (15:400/X)
+15,01Region,400,..._eastern_hub,Richmond_VA,Ragin_Cajun,1-804-648-1741,9600,XA,CM,V32
+15,01B,V42B
+15,01,1,Malice_In_Plunderland,Richmond_VA,Ragin_Cajun,1-804-648-1741,9600,XA,CM,V32B,
+15,01V42B
+15,01;                                                                               
+15,01        
+15,01; 

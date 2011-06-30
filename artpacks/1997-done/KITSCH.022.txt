@@ -1,0 +1,35 @@
+15,01;       kItSCh nodelist v22
+15,01;
+15,01;               - brooke's evil version
+15,01;
+15,01;
+15,01;               (a bunch of corrections)
+15,01;
+15,01;
+15,01zone,15,kitsch_hq,everywhere,happyfish,1-604-730-2467,9600,V32b,V42b,XA,CM
+15,01region,15,kitsch_hq,all_of_canada,happyfish,1-604-730-2467,9600,V32b,V42b,XA,CM
+15,01;
+15,01;       ALL of north america.  why is this in one zone?  because we suck.
+15,01;
+15,01host,170,kitsch_hq,kitz_bc,happyfish,1-604-730-2467,9600,V32b,V42b,XA,CM
+15,01hub,0,kitsch_main_hub,kitz_bc,happyfish,1-604-730-2467,9600,V32b,V42b,XA,CM
+15,01,1,the_jade_monkey,vancouver,happyfish,1-604-730-2467,9600,V32b,V42b,XA,CM
+15,01,3,dodel,sfOOoOOO_bc,etana,1-604-299-5191,9600,V32b,V42b,XA,CM
+15,01,4,city_iz_burning,quebec,the_extremist,1-418-841-3410,9600,V32b,V42b,V34,XA,CM
+15,01,5,entrance_to_obscurity,vancouver_bc,eto,1-604-525-2767,9600,V32b,V42b,XA,CM
+15,01,9,pairofdicksuptheass,coquitlam,tzykaar,1-604-931-6984,9600,v32b,v42b,XA,CM
+15,01pvt,12,superfiend_quip,burnaby_bc,quip,-unpublished-,9600,V32b,V42b,XA,MO
+15,01,13,asphyxiie,saint-aug,torgne,1-418-878-1526,9600,CM,XA,V32b,V42b,V34
+15,01pvt,16,node,lalala,beatle,-unpublished-,9600,V32b,V42b,V34,XA,MO
+15,01,17,infinite_darkness,somewhere_in_florida,midnight_sorrow,-unpublished-,9600,V3
+15,012b,V42b,XA,MO
+15,01,18,juice!,port_coquitlame,infinite_madness,1-604-552-9797,9600,CM,XA,V32B,V42B
+15,01,22,alpha_centuari,port_coquitlam_bc,ranma,1-604-942-1798,9600,V32b,V42b,XA,CM
+15,01,24,atomique,booyaka,miataman,1-604-298-6993,9600,V32b,V42b,XA,CM
+15,01,26,sUPERfIENd!,coquitlam_bc,pedantik,1-604-942-3074,9600,V32b,V42b,XA,CM
+15,01,31,nEOsPOrIN,poco_scum_bc,rage,1-604-942-9772,9600,XA,CM
+15,01pvt,32,the_space_farm,shit_meadows_bc,publius_enigma,-unlisted-,9600,XA,MO
+15,01,42,stupidmop,north-van_bc,geekboy,1-604-929-8034,9600,v32b,v42b,XA,MO
+15,01pvt,43,illegal_error,po-cock,platinum,-unlisted-,9600,XA,MO
+15,01;
+15,01; - eOf! -

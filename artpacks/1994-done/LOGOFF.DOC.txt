@@ -1,0 +1,26 @@
+15,01 EXPLANATION:
+15,01   
+15,01   This is a neat addition to the plain logoff command written into PCBoard.
+15,01   It allows a logoff auto message, message to the sysop, logoff ansis, and
+15,01   a feature to abort the logoff (complete with a rude message).
+15,01   
+15,01 INSTALLATION:
+
+15,01   Create a directory and copy the contents of this .zip into it...
+15,01   Next, run PCBSETUP to modify your CMD.LST. Assign this PPE to whatever
+15,01   you want the logoff commands to be (G, BYE, etc...). Make sure it
+15,01   looks like this:
+
+15,01     !<ppepath>\LOGOFF.PPE
+
+15,01 USAGE:
+15,01  
+15,01   This PPE is simple to run... it contains a menu of options, but it also
+15,01   accepts a commandline, so the user can stack commands in the logoff 
+15,01   sequence (ie G Y). 
+
+15,01   I assumed that if you were using command stacking, you were either sick
+15,01   of the logoff procedure or were in a hurry, so when you stack logoff
+15,01   commands, you bypass the logoff menu and the logoff ansi.
+
+15,01-- CHARLIE X [VPi] --

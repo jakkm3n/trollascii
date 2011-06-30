@@ -1,0 +1,59 @@
+02,01...:;IKKK 06,;;;iiIIIIIJJJJJJJIIIiii;;:::::::::;;;;IiiiIIIJJJ$$86+nnn+j888JIli;:::
+02,01..:iIKKK715 06;;iiIIUUU88I++I888JJJJIiii;;::::::;;;;iiiiIIJJ8S7'03_,+aOOo+,.06`jJJIll;;:
+02,01.;iIIKKK'06,;iiiIUU887'03,oa+06 `j88JJJIIiii;;:::;;iiiiIIIJJ887'03,dIIiiiiiii8b06`jJJIII;:
+02,01;;iIIKK715 06;;iiIUU87'03,d$$$$$c06 +68JJJIIii;;;;;iiiIIIJJJ8Ji703,d8UIIIiiiiiiiib06 Y8JII;;
+02,01;iIIKK7'06;iiIU887'03,d$$$$$$$$$a06`j88UJIIii;;;iiIIJJJU8iP'03,d$$$$UIIIiiiiiiiib06 Y8JJJ;
+02,01;IIKSc'06.iiIU88'03 d$$$$$$$$$$$$S.06`688JJIIi;iiIIJJJ887'03,d$$$$$$$UII$$iiiiiiib 06$8JJ;
+02,01iIK7'06,diIUUU8'03 09d03$$$$$$$$$$$$$$$c,06`j88JJIiIIIJU887'03,d$$$$$$$$$$$UIi$iiiiiiia 06T88;
+02,01iIK06 d;iUUU88703 09+03c$$$$$$$$$$$$$$$$$b06`j88JJIIJJ887'03,d$$$$SSJIIiIIIU$UIiiiiiii8,06`88;
+02,01iIK.06`j888+''03 00,09d00Sa03`+:iS$$$$$$$$$$$$$.06`j88JJU8P'03,d$$$$SUi;;00;09i03;;;iiUI$iiiiiiiib 0688;
+02,01;iIKb15 068;'03 00,d$09$$03$09$T00b_03`+:i$$$$$$$$$$$$b.06`6JUT'03,d$$$IiSi::00i09I03IIIii;;$UIIi+iiiii$ 0688;
+02,01;iIIK15 06I15 00.$09$$03$$$$$$09$$jb03.`:l$$$$$$$$$$$$b06 6i03 d$$$$$Ii:00i$09$03JJ$$$$$$$$$UIIa `iiiP 0688;
+02,01iIII715 00,d$09$03$$$$$$$$$$$09$$b03.`;il$$$$$$$$$$b06`03,dI$$$$Iii00$09$$03J$$$$$$$$$$IIiii8b.^Yb 06+8;
+02,01;iIIK15 03j$$$$iii$$$$$$$$$$$a`;ill09$03$$$$IIII&II$$$iii00$09$$03JJ$$$$$$$$$II;+;;iii8a.+'06 d;
+02,01;;iIK 03+ccSi::;;;iiiii$$$$$$$b;ilI$iiliiiii$TT709+03+jJJ$$$$$$$$$Sc++'^ `;IIii8jb 06(8;
+02,01;;iIKb15 03;;::08$#a++,03;:::+c$$$$$$$b;i09I03IIlliiiii$',+SJ$S$$Sc+2^'`08 ,++c#$03 ii::iii8b 068;
+02,01;;iIIK15 03Jii15 08`6$$$$. ,da+,_03`j$$$$$)09I03IIlli;i;$$15 03,$S$$+'08 _,+ab  ,$$$$7'03,i:::ii87'06d8;
+02,01;iIIK715 03,JJ$.08`+c$$$$$c+2^`_03 `^"""'09I03Illl;;i;$$.`++'08 03db.08`^2+c$$$$7+'03_,iii:Iii7'06j88;
+02,01;iI72 09d03$09$$Jb03ii+.___.+::i:..;`.:i09I03IJJJJIII;;;iiII;$$$IISa+.__ _,+diJIi:iI&a,06`88J;
+02,01iIIc15 00;03$09$$JIIb03`;:iiiii;;JJ::;;i$$`j09$03$$$$JJIII$$##SWJJIiiiiIIIJJJI88888I::iIi.06`88;
+02,01iI715 00;$09$$JI;;;;03iiiJ$$JJi:;;iJJ$$$ba`00d09$03i;i$$$7.+oa,`jWJ$$IiiiIIJJ8888888b:aIip.06`8;
+02,01iII15 00$09$$JII;;;;03iiJ$JJ:;;iJJJJ$i:;$T 00j09$03i;i$$$$$$$$)idSWJJ$$$$iiiIJ88888$$:iiiP2 068;
+02,01iII15 00$09$$JII;;;;03iiJ$J09.;;ii03JJJJ$$c+2 00,$09$03i;i$$$c+*cS;;$$$$WJJ$$$IiiIJj888i::iiP'06dI8;
+02,01iIK.00`$09$$JIII;;;03iiJ$J$09$$$03$JJ$7',g700,d09$$l03;i$$$d$$b ;+,`2S$$WJJ$$IIIJJJ8:iiiP206,dI8J;
+02,01;iIK.09`j$$$JIII;;03iiJ$00$09$$03$$J$P15 03diJb00`+c09$I03;$$$$$$$$.$i;i, `JJ$$$$$IIIJJ:ii$+'06,I88JJ;
+02,01;;iIKb_09`03609$$$JII;;00;03i00i09J$03J$$$P15 03dilJICb,00`c09$03;i$$72+'14,03$I;;;$.15 03JJJ$$$$IIJ:ii615 06cI88JJI;;
+02,01;iiiIIKa03 09`6$$$JI03;;00ii09JJJ03$JJ dilJ$$$$$b15 09`03"^`15 03 14,d$03TTJ!!Iii,`jJJ$$$III:i$$b15 06888JIi;;
+02,01;;iiiIIK03 2I09`00609$I036i;;00J09JJ03$$$',$il$$$$$$09i03b,_ 15 14_,d03$8TTSJ!JIi;. JJJ$$$IJIli;15 06d88JJIi;;
+02,01;;iiiIIKb15 03`I;00$09J036J;;00J09JJ03$$$ dil$$$$$$$$09i;03$$$8SSSTTSJ!!JIii;.`JJ$$$I15 03jJ;;15 0688JJIi;7'
+02,01;;;iiiIIKb03 I;00l09i03;09I03i;09;00J09J03$J$ dil$$$$$$$$09i;03J$$$8SSTTSJ!!!Iii;.`JJJ$$$I;ii;15 0688J$I;' 02d
+02,01:;;;iiiIIK15 03I::00l09III;;00J09JJ03J$ dil$$$$$$$$09i;03I$$S8SSTTSJ!!!Iii;.`JJiiIII;ii; 0688JJI; 02dK
+02,01::.;;iiIIK15 03`I;00i09IIIi;03J09J03JJJ Iil$$$$$$$$$09;03;$$8SS8TSJJ!!JIii; ,JJiiii;;ii;15 0688JJI; 02KI
+02,01::;.;iiIIKb15 03I;00i09IIII;03 09JJ03Ji,I$7++n^```````"""'``````^"n++j$bdIIiiii;;;15 06,d88JJI; 02K;
+02,01.::.;;iiIIK+03`:09I;00i09Ii;15 03J09Jii03JJb.,,+acccccc##a##cccccca++,_,d$$JIii;;:'06,+88JJIii;15 02K;
+02,01::.;;iiIIIK7'03,09I;iIi;15  03J09Ji03i$$$$09iI03$$09li03;$$$XXTTJIIIIJJJJJIiii;;;ii;;06 ,U88JJIi;P15 02,K;
+02,01.:;;;;;iiII15 09;03i09I;00i09Ii;15   09Jii03$$09WiIl03$09li;03$$$XTTT;iIIIIJJJiIiii;;iii;;15 06d88JJIi;;'02,dKi;
+02,01.;;;i;iiIII15 09;03I09I;iIi;15 03::09$$JIWWiIlii;;;03$XXTTTiJJJJJJJIIiii;;;Ji;;;15 0688JJIi;P15 02dKKIi;
+02,01::.;;;;iiIKb15 03``T00i09I;:03::15 09$$$$WWlIliii;;03$XXTT;;iJJJJJiIIiIi;;;i;;;15 06d88T+2"02.dKKIIii;
+02,01:.:;;;;;iiIKKb.03`jI;:15 03::09$$00j09$$WIIlii;ii03$$XTT;iJJJJJJJJIiii;;;J;;;15 067+'02,+sSKKIIIIii;
+15,01 02.:.;.;;;iIIIKKb15 03`09T$$$$$$$$$$WIlii;;03$$$XXTT;;iiiil;JJIiii;;l7'02,a,dKKIIIIIIiii;:.
+15,01 02:.::::.;;IIKIIIKb15 09`2+ccccccccccccccccc03cccccccccccccccccccc+'02,KKIIIIIIIiii;:::::
+15,01  02:.:.::.;iiiiIIIKb+++++++++++++++++++++++++++++++++++++++++KKKIIIIIiiiii:.:.:
+15,01   02::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+14,01 
+15,01                               14Subject 2 Change
+
+14,01          15        14+o kh0on15        14obv/2 latest15    14    pro distro
+
+14,01<------+cut here+-----------------------------------------------+cut here+----->
+
+14,01hey.. its an ascii i did for my board.. subject to change. again, thanks 
+14,01pariah for helping me to change my style around to something i hope is new...
+14,01maybe now i can apply to fire again.. maybe not.. anyways, on to greets:
+
+14,01you deserve my greets if your name is: skatter, tsk, devil, fraud, weezer, 
+14,01pariah, nd (bitch ASS =) ), mrk, dy, propane, deadpool, massm, zempf (your 
+14,01story is one of greatness.. heheh), meatpod, sargon, and everyone in #serial,
+14,01#fire, #ansi, #ascii and odelay (uhhh except, well, uhm.. you)
+15,01>SAUCE00Subject 2 change                   Khoon               Fuel Productions 
+15,01   19970401Kv  @                                 

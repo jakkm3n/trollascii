@@ -1,0 +1,32 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 2/2/2002
+15,01###############################################
+15,01ice-200202.nfo,ANSI,iCE NFO File 2/2002,iCE Staff
+15,01ag-hunting_vacant_spaces.jpg,EXTERNAL,Hunting Vacant Spaces,Adam Grossi
+15,01al-angel.jpg,EXTERNAL,Angel,Allan
+15,01al-music_muse.jpg,EXTERNAL,Music Muse,Allan
+15,01dh-ingress.jpg,EXTERNAL,Ingress,Dark Halo
+15,01dj-cutey1.jpg,EXTERNAL,Cutey 1,DJ MonkeyBoy
+15,01dt-bt2.ice,ANSI,Black Thursday 2,Defiant
+15,01dt-bt3.ice,ANSI,Black Thursday 3,Defiant
+15,01fz-audhepburn.jpg,EXTERNAL,Audrey Hepburn,Fuzzy
+15,01ge-texture_horse.jpg,EXTERNAL,Texture Horse,Gecko
+15,01id-johnny.jpg,EXTERNAL,Johnny,Ian Dale
+15,01mi-stardust_fairy.jpg,EXTERNAL,Stardust Fairy,Mongi
+15,01nk-wdmd.jpg,EXTERNAL,WDMD,Nokturnal
+15,01qx-depression.jpg,EXTERNAL,Depression,Quantum-X
+15,01sa-all_hell_breaks_loose.jpg,EXTERNAL,All Hell Breaks Loose,Saiyan
+15,01sa-mission_accomplished.jpg,EXTERNAL,Mission Accomplished,Saiyan
+15,01sa-super_saiyan_raditz.jpg,EXTERNAL,Super Saiyan Raditz,Saiyan
+15,01spx-knight.jpg,EXTERNAL,Knight,SPX
+15,01spx-treasure.jpg,EXTERNAL,Treasure,SPX
+15,01ss-act_poster.jpg,EXTERNAL,Act Poster,Steven Stahlberg
+15,01ss-escape.jpg,EXTERNAL,Escape,Steven Stahlberg
+15,01ss-maneater.jpg,EXTERNAL,Man Eater,Steven Stahlberg
+15,01ti-gasf.ice,ANSI,Gas Face,Trip
+15,01us-giger.jpg,EXTERNAL,Tribute to H.R. Giger,root88 / darkmage / GRRR / empyrean 
+15,01/ nokturnal / Essobie / PixelFish / TonchyZ / Jakub Sudra / heinzon / miskate / 
+15,01Primal_r / kemical / antaydos / gecko / greg / stutte
+15,01us-romance.jpg,EXTERNAL,Romance,Greg / Jito
+15,01xb-anti_virus.jpg,EXTERNAL,Antivirus,Xebra
+15,01xb-unauthorized_entry.jpg,EXTERNAL,Unauthorized Entry,Xebra

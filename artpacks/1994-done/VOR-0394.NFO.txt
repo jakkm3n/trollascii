@@ -1,0 +1,64 @@
+
+
+15,01      02mmmmmmmmmm15        m12mmmmmmm02mmmmmm12mmmmmmmmmmm02mmmmm12mmmmmmmmmmmmmmmmmmmmm
+12,01    15m14,15##02"12,02#######02@@12,01m    15m14,15##14,12 12    ##14,02 12####02@@@@12,12####    14,02 12###02@@@@12,12####      ######02,02@12,01"
+12,01  14m00,14##01,15@@14##02"12,02####02@@@@@12,01m 01,15@@14##14,12 12   ###14,02 12###02@@@@12,12####     14,02 12##02@@@@12,12####      ######12,01"
+12,01   14"00,14###01,15@@14##02"12,02#02@@@@@12,12###12,15m01@14##14,12 12  ####14,02 12##02@@14,12 12,15""""""14,12 12   #14,02 12#02@@@@12,12##12,15"""""12,12   #####12,01"
+15,01     14"00,14###01,15@@14##12"02,02@@@12,12##### 12,15m14#14,12 12 #####14,02 12#02@@@14,12 14,15#####01@14,12 12  ##12,02m02@@@@12,12###14,15###12m12,12   ####12,01"
+15,01       14"00,14###01,15@@14##12"12,12#####     #####02,02@12m02@@@@14,12 12,01   14,15#01@@14,12 12 ###14 02,02@@@12,12####15,01 12m12,12    ###12,01"
+15,01         14"00,14###01,15@@14##12"12,12##     #####02,02@@14,12 02,02@@@12,12#14 12,01   01,15@@@14,12 12####14 02,02@@12,12####      ##12,01"
+15,01           14"00,14###01,15@@14##12"12,12    #####02,02@@@14,12 02,02@@12,12##14 12,01   01,15@@@14,12 12###02,02@14,12 02,02@12,12####      ##12,01m
+15,01             14"00,14###01,15@@14##12"12,12 #####02,02@@@@12"02@12,12###14 12,01   01,15@@@14,12 12##02,02@@14,12 12####      #####12,01m
+15,01               14"00,14###01,15@@14##12"12,12###02,02@@@@12#14 12,12####14 12,01   01,15@@@14,12 12#02,02@@@14,12 12###    12,15"12,12 ######02,02@@12,01m
+15,01                 14"00,14###01,15@@14##12"02,02@@@@12##14 12,12### 14 12,01mmm12,15mmm14,12 02,02@@@@12"12,12##     01,15@14#12"12,12####02,02@@@@@02,01m
+15,01                   14"00,14###01,15@@14##12"02,02@12###14 12,12##     ####02,02@@@@12#14 12,12#      00,14#01,15@@14#12"12,12#02,02@@@@@12###02,01m
+15,01                     14"00,14###01,15@@14##02"12,02##14 12,12#     ####02,02@@@@12##14 12,12       14,01"00,14##01,15@@14#12"02,02@@@12######02,01m
+15,01                       14"00,14###01,15@@14##02""12"""""""""""""02""""12""""""12,01"  14"00,14##01,15@@14#12"02"""""""02,01"
+15,01                         14"00,14##01,15@@@@@@@@@@@@@@@@@@@@@@@@@14#15,01"      14"00,14##01,15@@@@@@@15,01"
+15,01                           14"""""""""""""""""""""""""15"          14"""""""
+
+
+15,01                             00V i s i o n s   o f   R e a l i t y
+15,01                                00M a r c h   I n f o   F i l e
+
+15,01                                        02[00Logo By Gyr15fal14con02]
+
+
+15,01         14Welp, here we are again, everyone.  It's been an important month for
+14,01both Visions of Reality (VOR) and Reality Waves (RAW), our MOD division.  A lot
+14,01of big things have happened internally this month.  One of our ANSI artists,
+14,01Scythe has left the group.  Scythe took it upon himself to leave the group, join
+14,01a re-forming group and then behind the backs of the senior members, steal group
+14,01members.  As far as I know so far, not one VOR member has left for the other
+14,01group, but that is not the point.  The point is that he went behind the backs of
+14,01the senior staff to do this.  Any groups based in the 703/202/301 should watch
+14,01for suspicious activity, for Scythe has said that he has "e-mailed other people
+14,01in other groups including ATOMiC, MG, and other groups".  This really isn't any-
+14,01thing to wory about, for most members will not leave for a group such as that,
+14,01this is just my way of warning you and his methods.  I will leave it at that.
+
+15,01         14In our Reality Waves, the MOD/MTM/MUSIC division of VOR, we have found
+14,01one of our top MOD composers to be a plagiarist of others works.  Humble is no
+14,01longer a member of VOR or RAW and his BBS (E.C.C.) is no longer a distro site.
+14,01We do not take kindly to plagiarists of other people's work.  I will not go into
+14,01great detail of that.  For more information, see the RAW pack info file.
+
+15,01         14Onto the good news, after coming off a very good pack release from last
+14,01month, we are hoping this one to be equally as good.  Hollow Point has returned
+14,01from his "vacation" away from his modem and has done two pieces of work for our
+14,01pack.  This past month, I (WM) have been trying to expand VOR into areas other
+14,01than our local area.  I have been trying to get long distant distro sites, re-
+14,01quests, and members.  Though there is no showing of this in this pack (with the
+14,01exception of one ansi, I believe), many things are pending.  If you are inter-
+14,01ested in obtaining an ANSI, VGA, RIP, MOD, MTM, whatever, please e-mail me
+14,01through internet at robbh@cap.gwu.edu or at Seminole Wind (301-236-9030).  If
+14,01you e-mail me through internet, I will relay the request to our members. If you
+14,01are interested in becoming a distro site, please call Seminole Wind.  If you are
+14,01interested in becoming a member, call Seminole Wind, or e-mail me through the
+14,01Internet attaching samples of your work.
+
+15,01         14This pack is semi-small in regards to our other packs, but this pack
+14,01does not have any 'big' files in it (i.e. in the last pack, Grim Reapers flic
+14,01was a large addition to the pack in ONE file).  I am sure you will see a lot of
+14,01quality and I (and the rest of the group) will appreciate any comments you have
+14,01on the pack.15                                     14[Widow Maker]

@@ -1,0 +1,28 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 5/1/1999
+15,01###############################################
+15,01ice-9904.nfo,ANSI,iCE 99/04 Info File,iCE Senior Staff
+15,01ice-9904.mem,ANSI,iCE 99/04 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01c0-l0499.ice,ANSI,Logo Colly 04-99,Count Zero
+15,01ck2-ice1.ice,ANSI,iCE,Chromatik
+15,01c0-glue.ice,ANSI,Glue,Count Zero
+15,01ck2-lj1.ice,ANSI,Lockjaw.Net,Chromatik
+15,01gc-gutta.ice,ANSI,Gutter,Gorechild
+15,01md-fos.ice,ANSI,FOS,Mass Delusion
+15,01mt-gut1.ice,ANSI,Gutter,Misfit
+15,01us-twcz.ice,ANSI,iCE iCE,Multiple People
+15,01us-sane.ice,ANSI,Sane,Multiple Cats
+15,0188-facel.jpg,EXTERNAL,Faceless, Route 88
+15,01ae-worm.jpg,EXTERNAL,Eat the Worm!,ae
+15,01di-ice.jpg,EXTERNAL,iCE,Digital Interface
+15,01dv-fish.jpg,EXTERNAL,Fish,DaVinci
+15,01fb-porc.jpg,EXTERNAL,PORC,Funbaby
+15,01js-skel.jpg,EXTERNAL,Skeleton,Jerry Sandefur
+15,01js-crush.jpg,EXTERNAL,Crush,Jerry Sandefur
+15,01ki-faces.jpg,EXTERNAL,Faces,Kirk
+15,01nf-wskul.jpg,EXTERNAL,WSKUL,Necrofiliac
+15,01nf-oldmn.jpg,EXTERNAL,Old Man,Necrofiliac
+15,01tk-ice99.jpg,EXTERNAL,iCE 1999,The Knave
+15,01jm-missp.mov,EXTERNAL,Miss Piggy,Jamie McCarter
+15,01jm-missp.txt,ANSI,Miss Piggy,Jamie McCarter

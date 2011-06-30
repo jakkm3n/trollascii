@@ -1,0 +1,80 @@
+15,01             FANGS file extension format specifications v0 Beta Specs
+15,01  So what have we gained by using FANGS instead of SAUCE?
+
+15,01  1) With the use of an unique seconds value in the DOS time stamp  
+15,01     useless disk access and CPU work is reduced without majorly
+15,01     hacking DOS (seconds field isn't shown via the DIR command.)chitecture
+15,01for Universal Comment Extensions.)  Unfortunatly, their format was far from  
+15,01  2) A more efficent base record format that has more expansive file types 
+15,01     and has more room for additions (34 bytes vs 23 bytes.)r this format.
+
+15,01  3) A flexable, commpact comment area (up to 65,533 characters vs up to
+15,01     256 lines 64 charactors wide for a max of 16,384 characters) thatrmat.  
+15,01     is capable of supporting an MCi system in the future. myself and should 
+15,01be avaible shortly.  We also plan to release source code in assist other 
+15,01       In addition because the two formats are parelell in many aspects, it  
+15,01  shouldn't be hard to write a conversion utility.ormat, just because a large 
+15,01group supports it.
+
+15,01Thanx goes out to:nto more detail about what SAUCE did wrong.  As I already
+15,01        The Prince of Thieves - for working with me on thisind out if it has
+15,01        Tasmaniac - for the original concept  Go into a directory with a 100+
+15,01        GOTHiC - Like what you see? sitting there for 5 minutes.  Another
+15,01problem is an unflexable and limited comment format that could never support
+15,01     Comments, suggestions, death threats, confessions, need a apathicUCE
+15,01shoulder or psycotic reading?often charactor based.  It's faster and smaller
+15,01        Extreme Prejudice (6O3)598-34O3on, the original file size could be
+15,01                ex-MAGiC EHQ good tagging system a long ID field is no longer  
+15,01                CoRRoSioN SiTE
+15,01                PHART SiTE
+15,01        However, SAUCE did introduce some ingenious concepts that should be
+15,01        C-ya Laid Her,lude the basic concept of storing information after the
+15,01        SiDSthe basic 128 byte record as the last 128 bytes and their format
+15,01for recording file formats and file format information.  I have used their 
+15,01better ideas, but have improved, revised and added enough to justify a 
+15,01different name.  Tasmaniac, still deserves praise for what he did right, it 
+15,01just needed to be made more functional.
+
+
+15,01The FANGS tagging system
+
+15,01        A file is tagged as having FANGS by having a seconds value in its 
+15,01time stamp of 62.  Since the seconds field of the DOS time stamp supports 
+15,01values from 0..31 x 2 (0..62), this is a valid yet unused value.  Because 
+15,01files are tagged in this manor, programs that support FANGS will not open a 
+15,01ton of files that don't have FANGS.  This dramiticly reduces the amout of 
+15,01disk access and CPU use.
+
+15,01The Basic FANGS Record and Layout
+
+15,01        An EOF marker is used seperate the FANGS from the rest of the file 
+15,01(ASCII #26.)  After the EOF is the comment section (to be explained later.)  
+15,01Then the last 128 bits is the basic FANGS record. 
+15,01 
+15,01Here is the basic layout:
+
+15,01     +---------------+
+15,01     |               |
+15,01     |   FILE DATA   |  Regular file data.
+15,01     |               |
+15,01     +---------------+
+15,01     |  EOF MARKER   |  EOF marker. ASCII: 26
+15,01     +---------------+
+15,01     |               |
+15,01     | COMMENT BLOCK |  Optional Comment area.
+15,01     |               |
+15,01     +---------------+
+15,01     |               |
+15,01     |    FANGS      |  MFANGS information record
+15,01     |    RECORD     |         
+15,01     |               |    
+15,01     +---------------+
+
+15,01The FANGS information record is defined as follows:
+15,01        (all numerical values are unsigned)
+
+15,01FieldName  # Type      Description
+15,01--------- -- --------- -------------------------------------------------
+15,01ID         1 Word      Used to verify legitimate FANGS. Value must
+15,01                       be 43690 (AAAAh, 1010101010101010b)
+15,01Version    1 Byte      Version number ext. was written with.  First ver

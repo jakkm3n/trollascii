@@ -1,0 +1,36 @@
+15,01.model small
+15,01.code
+15,01     public _block_image
+15,01_block_image proc near
+15,01        push    bp      ;Entry sequence
+15,01        mov     bp,sp
+15,01        mov     cx,[bp+4]            ; Load X
+15,01        mov     bx,[bp+6]            ; Load Y
+15,01        push    es
+15,01        push    ds
+15,01        push    di
+15,01        push    si
+15,01        mov     ax,0a000h            ; VGA Screen Offset
+15,01        mov     es,ax
+15,01        mov     si,offset [bp+8]     ; Address of Source Buffer
+15,01        mov     ax,0
+15,01LO1:    add     ax,[bp+14]           ; Add Max # of X (320 for VGA)
+15,01        dec     bx
+15,01        jnz     LO1
+15,01        add     ax,cx
+15,01        mov     di,ax
+15,01        mov     bx,[bp+10]           ; ScanLines
+15,01LO2:    mov     cx,[bp+12]           ; Bytes Per Line
+15,01        rep     movsb
+15,01        add     ax,[bp+14]
+15,01        mov     di,ax
+15,01        dec     bx
+15,01        jnz     LO2
+15,01        pop     si
+15,01        pop     di
+15,01        pop     ds
+15,01        pop     es
+15,01        pop     bp
+15,01        ret
+15,01_block_image endp
+15,01        end

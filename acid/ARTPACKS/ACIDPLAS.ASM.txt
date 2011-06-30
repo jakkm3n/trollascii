@@ -1,0 +1,80 @@
+15,01              STC    0,37,26ublic
+15,01              RET    0,38,25
+15,01              DB     0,39,24d,CS:Wired
+15,01Init          ENDP   0,40,23
+15,01              DB     0,41,22
+15,01--------------------------------------------------------------------------------
+15,01              DB     0,43,20
+15,01;                                Build Picture                                 ;
+15,01              DB     0,45,18rt
+15,01--------------------------------------------------------------------------------
+15,01              DB     0,47,16
+15,01              DB     0,48,15
+15,01Tiles         DW     Offset Tile0, Offset Tile1, Offset Tile2, Offset Tile3=====
+15,01              DW     Offset Tile4, Offset Tile5, Offset Tile6
+15,01              DB     0,51,12  Initialized DATA                                 ;
+15,01BuildPicture  PROC   NEAR,11
+15,01              MOV    AX,GS10====================================================
+15,01              MOV    ES,AX9
+15,01              MOV    DI,0,8intro needs a 386, VGA and 80Kb RAM",0Ah,0Dh,'$'
+15,01              MOV    SI,Offset Screeniac . (+CiD . ++ypernovA.",0ah,0dh,'$'
+15,01              MOV    CX,32000
+15,01              CLD    0,58,500b
+15,01              DB     0,59,400b
+15,01              MOV    CH,25             ; 25 Rows
+15,01NextRow:      MOV    CL,20             ; 20 Columns
+15,01NextCol:      LODSB  0,62,100b
+15,01              DEC    SI63,000b
+15,01              DB     0,63,000b
+15,01              MOVZX  BX,AL000b
+15,01              SHR    BX,4,011b
+15,01              SHL    BX,1,011b
+15,01              MOV    BX,[Tiles+BX]
+15,01              MOV    DH,8,011b
+15,01NextTileRow1: MOV    DL,8,011b
+15,01              MOV    BP,[BX]1b
+15,01NextTileCol1: XOR    AL,AL011b
+15,01              SHR    BP,1,011b
+15,01              RCR    AL,13,01b
+15,01              STOSB  11,52,01b
+15,01              DEC    DL,51,01b
+15,01              JNZ    NextTileCol1
+15,01              DB     14,49,01b
+15,01              INC    BX,48,01b
+15,01              ADD    DI,320-8b
+15,01              DEC    DH,46,01b
+15,01              JNZ    NextTileRow1
+15,01              DB     19,44,01b
+15,01              SUB    DI,320*8-8
+15,01           ;;;;;;    21,42,01b
+15,01              LODSB  22,41,01b
+15,01              DB     23,40,01b
+15,01              MOVZX  BX,AL,01b
+15,01              AND    BX,0Fh01b
+15,01              SHL    BX,17,01b
+15,01              MOV    BX,[Tiles+BX]
+15,01              MOV    DH,85,00b
+15,01NextTileRow2: MOV    DL,84,00b
+15,01              MOV    BP,[BX]0b
+15,01NextTileCol2: XOR    AL,AL,00b
+15,01              SHR    BP,11,00b
+15,01              RCR    AL,10,00b
+15,01              STOSB  34,29,00b
+15,01              DEC    DL,28,00b
+15,01              JNZ    NextTileCol2
+15,01              DB     37,26,00b
+15,01              INC    BX,25,00b
+15,01              ADD    DI,320-8b
+15,01              DEC    DH,23,00b
+15,01              JNZ    NextTileRow2
+15,01              DB     42,21,01b
+15,01              SUB    DI,8*320-8
+15,01              DEC    CL,19,01b
+15,01              JNZ    NextCol1b
+15,01              DB     46,17,01b
+15,01              ADD    DI,7*320b
+15,01              DEC    CH,15,01b
+15,01              JNZ    NextRow1b
+15,01              DB     50,13,0
+15,01              RET    51,12,0
+15,01BuildPicture  ENDP   52,11,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00

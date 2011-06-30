@@ -1,0 +1,2 @@
+15,01A*.vor**     A*.ans       A*.rip       A*.gif       A*.nfo       A*.exe       **
+15,01.*om       @@@ @**

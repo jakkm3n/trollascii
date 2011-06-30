@@ -1,0 +1,77 @@
+11,01               mmmmmm                     mmmmm                  mmmmm
+11,01 # 10@14,11#        11,01"""14,11     11,01|  m14,11     11,01""14,11    11,01m  #10@14,11#      11,01        m14,11    11,01m  |14,11     11,01|
+11,01      |14,11      11,01   14,11      11,01 |14,11     11,01|  |14,11     11,01   14,11      11,01|    # #10@14,11#     11,01|  14,11     #10,01@11# #
+11,01       14,11      11,01|  |14,11     11,01||14,11     11,01|   14,11     11,01|  14,11      11,01          14,11      11,01  14,11      
+11,01       |14,11      11,01""""""""  14,11      11,01   14,11      11,01  14,11      11,01    mmmmm  """""""14,11      11,01"""
+11,01        14,11      11,01|   #  # 10@14,11#     11,01   |14,11     11,01| 14,11     11,01|   14,11   ##11,01|         |14,11     11,01|
+11,01        |14,11      11,01         |14,11     11,01|   14,11     11,01||14,11     11,01|  |14,11     11,01  |14,11     11,01|  14,11      
+11,01     #10@14,11##   11,01m14,11  11,01|    # 10@@14,11#      11,01mmm14,11    11,01" 14,11      11,01mmm14,11 11,01m14,11   #10,01@11# 14,11#     11,01  |14,11 11,01m14,11   11,01|
+00,01 14+------ 11"""""" 14---------11 """"" 14----------------11 """"" 14----11 """""""""""14,11#10,01@11#14-11#14 -+
+00,01 14|                    00 11polyesters news00 11file00 11at 1812/11O112/111998                14     |
+00,01 14++--------------------------------------------------------------------------++
+00,01 14+--- -.  .               11 latest news on polyester14   11 14              .  .- ---+
+00,01 14|+--------------------------------------------------------------------------+|
+00,01 14|15 11     15                                                                    14  |
+00,01 14|11 15  11well yet again polyester is releasing an artpack12,11 and it is artpack O212.14  |
+00,01 14|11 we15 11are srtuggling to get our art off the floor due to the lack of artists14  |
+00,01 14|11 in the group and the number of active artists that are in the group12.11 the 14  |
+00,01 14|11 art pack is small as you can see as there is jack shit in the pack12.11 we    14 |
+00,01 14|11 need good artists who are willing to do at least two pieces of art a month15 14|
+00,01 14|11 to apply12.11 the other departments are doing well except for this department12,11 14|
+00,01 14| 11the art department12.15                                                      14  |
+00,01 14|11 15  11yet again another project started by 12rippa11 recently12.11 the 12polychat15 11ppe12.11  14 |
+00,01 14|11 the ppe itself is coming along fine12,11 a few bugs but it should be ok when 14  |
+00,01 14|11 it is time to be released12.11 also 12polyvote11 is being re12-11codded12,11 all the bugs 14 |
+00,01 14|11 that have been reported are being fixed and 12polyvote11 121.211 will be out soon14  |
+00,01 14|11 so look out for it12.11                                    15                  14  |
+15,01 14| 15                                                                           14|
+00,01 14|+--------------------------------------------------------------------------+|
+00,01 14+--- -.  .                 11 members gained and lost14      11       14   .  .- ---+|
+00,01 14|+--------------------------------------------------------------------------+|
+15,01 14|15                                                                            14|
+15,01 14|15 11a few members have been gained and lost since our last artpack12.11 alot of 15 11  14|
+15,01 14|15 11talent was gained since the last artpack as a few talented people joined12.11 15 14|
+15,01 14|15                                                                            14|
+15,01 14|15 12shock15 11has joined the crew into the coding department12. shock 11shows alot of 12 14|
+15,01 14|15 11skill in some of his exes he has coded12,11 even the begining of a bbstro for  14|
+15,01 14|15 11my bbs shows some sick ass talent12.11 good luck man12.15                          14|
+15,01 14|15                                                                            14|
+15,01 14|15 12jestyr 11has also joined polyester as a coder12. jestyr's11 skill should15 11not be15  14|
+15,01 14|15 11overlooked12.15  11  15                                                            14|
+15,01 14|15                                                                            14|
+15,01 14|15 12phantom11 has also joined up into the coding department of poly and he15       14|
+11,01 14|11 promises me some good coding in the not so distant future.15 11good luck and 15  14|
+15,01 14|15 11i hope you release something sick.15                                         14|
+15,01 14|15                                                                            14|
+15,01 14|15                                                                            14|
+15,01 14|15 12essence 11has also unfortunately been droped from the list12. 11for some reason  14|
+00,01 14| 11essence joined and then did nothing12. 15                                      14|
+15,01 14|15                                                                            14|
+00,01 14|+--------------------------------------------------------------------------+|
+00,01 14+--- -.  . 11 14               11boards gained this month  14               .  .- ---+
+00,01 14|+--------------------------------------------------------------------------+|
+00,01 14| 15                                                                          14 |
+00,01 14| 12sacred grounds15 11has been recruited into polyester as out german hq12.11 this is 14|
+00,01 14| 11a sick bbs so if your looking for our releases and you live in germany12,11    14|
+00,01 14| 11now you know who to call12.11 15                                                 14|
+00,01 14| 15                                                                          14 |
+00,01 14|11 12the iridium 11is another german bbs but this bbs has been recruited into the 14|
+00,01 14|11 group as a distro site12.11 he applied in conjunction with a regestration code 14|
+00,01 14| 11for polyvote12,11 this tells us that people in germany are using our quality   14|
+00,01 14| 11coded ppe12'11s12.15                                                              14 |
+15,01 14|15                                                                            14|
+15,01 14|+--------------------------------------------------------------------------+|
+15,01 14+--- -.  . 11 14              11applications for polyester14           11 14    .  .- ---+
+15,01 14|+--------------------------------------------------------------------------+|
+15,01 14|15                                                                            14|
+15,01 14|11 15 11 if you are a coder12,11 artist or a sysop and you want to join this kick ass15 14|
+15,01 14|11 group12,11 then all you have to do is run the application generator that is 15   14|
+15,01 14|15 11included in the zip and send it to any of our supported headquarters12.15      14|
+15,01 14|15                                                                            14|
+00,01 14|+--------------------------------------------------------------------------+|
+00,01 14+--- -.  . 11logo by ds12,11 layout by rp12,11 text by ck 12[11all of polyester12!]11 14.  .- ---+
+00,01 14++--------------------------------------------------------------------------++
+00,01 14|                  11   polyester member12'11s list 1812/11O112/111998 14                    |
+15,01 14+----------------------------------------------------------------------------+
+15,01>SAUCE00pack ii news                       Cronik              Polyester        
+15,01   19980118+_  @@P K                             

@@ -1,0 +1,24 @@
+
+12,01A 00Winter Evening's Walk
+
+12,01be00neath15 00a15 00chill,15 00mist15 00covered15 00moon
+12,01lo00vers15 00walked,15 00in15 00a15 00swoon
+12,01sh00e15 00lead15 00the15 00way,15 00he trailed behind
+12,01af00ter15 00all,15 00they had a bind
+
+12,01gl00iding15 00over15 00the15 00gilded15 00way
+12,01sh00e15 00strolled softly,15 00not15 00much15 00to15 00say
+12,01he15 00followed her, where she lead
+12,01wa00ndering through winter's bed
+
+12,01sh00e15 00wisked15 00past15 00trees15 00down15 00the15 00lane
+12,01he15 00whispered softly her belov'd name
+12,01sh00e15 00glanced back with a quick smile
+12,01he15 00marveled at her beauteous style
+
+12,01th00e15 00lover's spirit15 00moved15 00swift15 00and15 00sure
+12,01wh00ile15 00children15 00round15 00the15 00fire15 00were
+
+12,01Me00ssiah12 [.B00L.\DE.]
+15,01>>SAUCE00'Winter Walk'                      Messiah             BL.\DE          
+15,01    199202241*  @@P _                             

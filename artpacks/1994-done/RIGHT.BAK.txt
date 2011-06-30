@@ -1,0 +1,80 @@
+15,01program rightxt;
+15,01USES Crt;
+
+
+15,01CONST PelAddrRgR  = $3C7;
+15,01      PelAddrRgW  = $3C8;
+15,01      PelDataReg  = $3C9;
+
+15,01TYPE RGB = RECORD
+15,01       R, G, B : BYTE;
+15,01     END;
+
+15,01  ScreenRec=Record
+15,01   CurX,CurY:Byte;
+15,01  End;
+
+15,01  ScreenType=Array[1..4000] of Byte;
+
+15,01Var
+15,01  i : INTEGER;
+15,01  ch : CHAR;
+15,01  col : ARRAY[0..63] OF RGB;
+15,01  Screen   :Array[1..4] of ScreenType;  { acutal Screen data }
+15,01  Scr      :Array[1..4] of ScreenRec;   { corresponding cursor X,Y data }
+
+
+15,01Procedure SaveScreen(Num:Byte);
+15,01Begin
+15,01  Scr[Num].CurX:=WhereX; Scr[Num].CurY:=WhereY;
+15,01  Move(Mem[$b800:0000],Screen[Num],4000);
+15,01End;
+
+15,01Procedure RestoreScreen(Num:Byte);
+15,01Begin
+15,01 Move(Screen[Num],Mem[$b800:0000],4000);
+15,01 GotoXy(Scr[Num].CurX,Scr[Num].CurY);
+15,01End;
+
+
+15,01PROCEDURE GetCol(C : BYTE; VAR R, G, B : BYTE);
+15,01BEGIN
+15,01   Port[PelAddrRgR] := C;
+15,01   R:= Port[PelDataReg];
+15,01   G := Port[PelDataReg];
+15,01   B := Port[PelDataReg];
+15,01END;
+
+15,01PROCEDURE SetCol(C, R, G, B : BYTE);
+15,01BEGIN
+15,01   Port[PelAddrRgW] := C;
+15,01   Port[PelDataReg] := R;
+15,01   Port[PelDataReg] := G;
+15,01   Port[PelDataReg] := B;
+15,01END;
+
+15,01PROCEDURE SetInten(b : BYTE);
+15,01VAR i : INTEGER; fr, fg, fb : BYTE;
+15,01BEGIN
+15,01   FOR i := 0 TO 63 DO
+15,01   BEGIN
+15,01      fr := col[i].r*b DIV 63;
+15,01      fg := col[i].g*b DIV 63;
+15,01      fb := col[i].b*b DIV 63;
+15,01      SetCol(i, fr, fg, fb);
+15,01   END;
+
+15,01mode 80
+15,01dirt
+15,01mode 80
+15,01END;
+
+15,01Procedure FadeTextOut;
+15,01BEGIN
+15,01   FOR i := 0 TO 63 DO GetCol(i, col[i].r, col[i].g, col[i].b);
+15,01   FOR i := 63 DOWNTO 0 DO
+15,01   BEGIN
+15,01     SetInten(i);
+15,01     Delay(15);
+15,01   END;
+15,01End;

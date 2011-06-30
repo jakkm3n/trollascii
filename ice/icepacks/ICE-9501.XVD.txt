@@ -1,0 +1,57 @@
+15,01ICE-9501.NFO What's Going on in iCE: January, 1995. ?*u*"*L XV.NFO    @d+Documen
+15,01tation for Multiview.. =+oo-  aa?*u*"*L ICE-9501.MEM Active Membership: January,
+15,01 1995. -  aa?*u*"*L ICE-9501.STS Statistics for the January, 1995 Pack. L   +on_
+15,01ICE-9501.SIT Current Site and Internet Access Information.. BC-UT01.ICE +Underto
+15,01w - BodyCount *Xa*14,15@15,01%$o =+oo-  aa?*u*"*L BT-GARG1.ICE  4 v*'Je*FJo-|**X~*14,15@15,01%$o =+o
+15,01@   aa?*E*0 L   +on_BT-GARG1.ICE Gargoyle's Peak - Biscuit o@   aa?*E*: L   +on_
+15,01CO-DUNG2.ICE Dungeon2 - Cooly Martiano o@   aa?*E*$ L   +on_DD-BFST.ICE +Belfast
+15,01 - Deeply Disturbed @   aa?*E*"*L   +on_DD-TDS.ICE d+The Dark Society - Deeply D
+15,01isturbed  aa?*u*"*L DD-SS3.ICE d+Suicidal Schrimp - Deeply Disturbed *"*L   +on_
+15,01DR-CH1.ICE d+Cerebral Hemhorrage - Lord Drakul @?*A*"*L   +oDR-PAN1.ICE +The Pan
+15,01theon - Lord Drakul $o =+oo-  aa?*u*"*L DT-GT.ICE @d+ 4 v*'Je*FJ*X*X*X~*14,15@15,01%$o =+o
+15,01@   aa?*E*A L   +on_DT-GT.ICE @d+Gringo Tavern - Dr.Tongue and Pnakotic L   +on_
+15,01GM-NOCEM.ICE Nocem - gman 8O8OC%[j*Xa*14,15@15,01%$o =+oo-  aa?*u*"*L GW-TLP.ICE d+The Lee
+15,01ch Palace - GwaH *14,15@15,01%$o =+oo-@ ba?*u*"*L IN-PBELL.ICE PaCbElL - Incubus *14,15@15,01%$o =+o
+15,01@ 14,15@15,01 ca?*E*< L   +on_KM-ICE.ICE d+What's up with Midas - King Midas -* da?*u*"*L 
+15,01L0-DD.ICE @d+Leonard0 -  -|**X8O8O*Xa*14,15@15,01%$o =+oo-x ea?*u*"*L L0-DD.ICE @d+Leonard
+15,010 - Doomsday O*Xa*14,15@15,01%$o =+oo-* pa?*u*"*L LS-ASY1.ICE +Asylum of the Mind - Lord S
+15,01loth oo-* pa?*u*"*L LS-DYS1.ICE +Dystopia - Lord Sloth o =+oo-* pa?*E*"*L   +on_
+15,01PN-ICE2.ICE + 4 v*'Je*FJ*X*X|*14,15@15,01%$o =+o@ * pa?*A*"*L   +on_ +PN-ICE2.ICE +Through
+15,01 Diversity.. iCE - Pnakotic * pa?*u*"*L SD-ELEU.ICE +Eleutheria - sand *14,15@15,01%$o =+o
+15,01@ * pa?*E*"*L   +on_SY-DOOT2.ICE Dragged out of the Morgue - SHaggy E*"*L   +on_
+15,01SY-DOOT2.ICE Dragged Out of the Morgue - Shaggy "*L   +on_ +TG-GZERO.ICE Ground 
+15,01Zero - TooN GooN *14,15@15,01%$o =+oo-* pa?*u*"*L TG-SER1.ICE +Serenity - TooN GooN *Xa*14,15@15,01%
+15,01$o =+oo-* pa?*u*"*L TG-SOE1.ICE +State of Euphoria - TooN GooN =+oo-* pa?*u*"*L 
+15,01TG-TSN1.ICE +The Stellar Nights - TooN GooN ?*A*"*L   +on_ +TT-TEMP.ICE +iCE - T
+15,01empus Thales %*Xa*14,15@15,01%$o =+oo-* pa?*u*"*L HM-PRJX.ICE +Project X - HandyMan       
+15,01         [80 x 50] nIK-MELT.ICE +Meltdown - Isosceles               [80 x 50] n_
+15,01IK-MELT.ICE +Meltdown - Isosceles                 [80 x 50] IK-MELT.ICE +Meltdow
+15,01n - Isosceles                [80 x 50]  IK-MP.ICE @d+The Manhattan Project      
+15,01          [80 x 50] IK-MP.ICE @d+The Manhattan Project               [80 x 50] _
+15,01SC-GRZ1.ICE +Ground Zero - Sliver Cut           [80 x 50] +oSC-GRZ1.ICE +Ground 
+15,01Zero - Sliver Cut        [80 x 50]  @ A_SC-GRZ1.ICE +Ground Zero - Sliver Cut   
+15,01         [80 x 50] +CO-AOTM.ICE +Asylum of the Mind - Cooly Martiano    +on_ +Wp
+15,01DD-SS4.ICE d+Suicidal Shrimp - Deeply Disturbed  =+oo-S va?*GM-ICE5.ICE +It's Ha
+15,01mburger Helper Man! :) - gman va?*u*"*L L0-IRS.ICE d+insane Renegade Sculptors -
+15,01 Leonard0 ( L   +on_MCA-ICX2.ICE iCE / X - MCA **X~*14,15@15,01%$o =+oo-$ xa?*E*"*L   +on_
+15,01MCA-ST1.ICE +Sarcastic Toaster - MCA j+o*Xe*14,15@15,01%$o =+oo-v za?*MCA-TBL3.ICE The Bad
+15,01lands - MCA 8O*Xa*14,15@15,01%$o =+oo-v za?*u*"*L PS-SYMPP.ICE sYmptom - posk, the guy wit
+15,01h the gay accent..  SQ-IDIOT.ICE Generation IDEEEYOT - Squigly2 +oo-A ^a?*u*"*L 
+15,01SQ-NEO.ICE d+Neophyte - Squigly2 **Xa*14,15@15,01%$o =+oo-A ^a?*u*"*L TG-BLUE3.ICE Atari B
+15,01lues - TooN GooN, er solemn.. er.. :) n_TG-TG1.ICE d+The Gathering - TooN GooN %
+15,01$o =+oo-A ^a?*u*"*L BB-VP1.GIF d+Who Said iCE Isn't Diverse? :) - Banana Basher 
+15,01BN-BIH1.GIF +Burn in Hell - Borian %$o =+o@ $ aa?*A*( L   +oBN-DMZ3.GIF +The Dem
+15,01ilitarized Zone - Borian a?*E*"*L   +on_CG-HSHCK.GIF Da Hack Shack - Cheese Grat
+15,01er  aa?*E*4 L   +on_CG-TECHN.GIF Technical Ecstacy - Cheese Grater @?*A*"*L   +o
+15,01DT-HS.GIF @d+Da Hack Shack - Dr. Tongue... VGA GOD  +on_ +VpFB-ETA.GIF d+ETA - F
+15,01red Byrd X~*14,15@15,01%$o =+o@ % aa?*E*& L   +on_ND-TO1.GIF d+Trader's Outpost - Nukedawg
+15,01 oo-& ca?*A*"*L   +oNT-SPAWN.GIF iCE - Nartteik *X~*14,15@15,01%$o =+oo-' ea?*E*"*L   +on_
+15,01PR-TMPLE.GIF Temple - Porus *X~*14,15@15,01%$o =+o@ ( ea?*E*"*L   +on_PX-BHLDR.GIF Beholde
+15,01r - pixel $o =+o@ ) ea?*i*"*L   +on_ +WpSB-PG2.GIF d+The World Famous PowerGrid 
+15,01- sober * ia?*u*"*L SB-RZR2.GIF +Razor 1911 - sober C*14,15@15,01%$o =+o@ + ia?*A*< L   +o
+15,01SB-SMC1.GIF +Hair Club for Men - sober o@ , ia?*E*"*L   +on_SQ-VR.GIF @d+Virtual
+15,01 Rewind - Squigly2 o@ - Aa?*E*"*L   +on_XT-PREB.GIF +Psychotic Rebellion - Xten 
+15,01+o@ .  @?*A*"*L   +oXT-VP.GIF @d+Violent Playground - Xten o@ / Ea?*E*$ L   +on_
+15,01MK-FCC.PCX d+FCC - Master Koresh =+o@ 0 %a?*i*"*L   +on_ +!pMK-SBZ.PCX d+Sushi B
+15,01ro Z (Japanese Rap Group) - Master K. n_TT-CALV.ICE +iCE - Tempus Thales O*Xa*14,15@15,01%
+15,01$o =+o+>* pa?*u*"*L 

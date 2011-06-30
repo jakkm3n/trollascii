@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                        M   A   Y          2   0   0   1
+15,01-------------------------------------------------------------------------------
+15,011. Well, well, what have we been doing with ourselves?   For the third month in
+15,01   a row we have  a new memb- oh!  Wait,  let me look at this  again... *shakes 
+
+15,01   the paper*.   Wha?   I'm sorry  I must be  going mad.  I think my  brain has 
+
+15,01   returned to its standard inoperable state, but it appears  that we have over
+15,01   50 new members?!  This should teach us not to drink the cheap stuff...
+
+15,011a. Tinster has come  over for some fun in the sun.  Brought his trunks, rubber
+15,01   arm floats and everything!  He has done  some wild  work on a few PS titles,
+15,01   flash  work for  EMusic  and is laying  down tiles  like a  madman.  Welcome
+15,01   tinster! (yes! this is where you all clap) . . . (com'on, clap damnit!)
+
+15,011b. Well, we invited the Seire gang over for cookies and  tea and they wouldn't
+15,01   freakin leave!  After alot of negotiation (and beer... ),  we decided to let 
+
+15,01   them stay  for a while.  This all  seemed great,  till they started bringing
+15,01   all their farm animals and strange hollow devices over. And dear lord please
+15,01   make them turn off the Backstreet Boys!  If it's not one thing it's another.
+15,01   We're going to need a new couch.  Uhg!
+
+15,01   Well, either way, we want to welcome the more than 50 Seire members that are
+15,01   now  part of  the iCE  family.   They are a  diverse  group  of skilled  and 
+
+15,01   devoted guys  and gals.   We like them, no  matter what the authorities say. 
+
+15,01   Hey Precurser, put that poor chicken down!
+
+15,012. We Are  Not Elitists We  Just Work Hard.   Or so we  are told.  quilt number 
+
+15,01   twelve  has  been  released  with  this  pack.  It is  absolutely, the bomb!
+15,01   Featuring scribbles from Corpulent Cow, Root88, Funfetus, Darkhalo, Tetanus,
+15,01   Leonardo,  Empyrean, Nokturnal, and our new boy Tinster and a  host of other
+15,01   extremely talented (but not elitist) artists!  Check it out!
+
+15,013. In regard to the  Seire boys and girls,  Ien is going to be taking  the lead 
+
+15,01   for the photo  manipulation artists.   Ien was the former  vice president of 
+
+15,01   Seire,  and will now be  providing  direction  and assistance  with  quality 
+
+15,01   control and new member applications.  We're happy to have him.  *hands Ien a 
+
+15,01   cigar*
+
+15,013a. Spot, former president of Seire,  is now an Advisor for iCE.   Spot will be 
+
+15,01   working closely with Slothy and  Mass Delusion to keep the group running and
+15,01   to help iCE expand and grow.   Soon we will control everyone's thoughts.  At
+15,01   least that's what we think.
+
+15,014. There are new things on the drawing board as  usual. We are always trying to
+15,01   come up with new shiny things  for you to play with, cause you all have such
+15,01   short attention spans.  Keep your dial on  this channel for more updates and
+15,01   have a great month!
+
+15,01Huggles and things previously sane,
+15,01         Slothy, Mass Delusion and Spot

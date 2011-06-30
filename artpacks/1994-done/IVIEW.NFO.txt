@@ -1,0 +1,35 @@
+15,01                             +-------------------+
+15,01-----------------------------| iNTENSE ViEW 1.2B |-----------------------------
+15,01                             +-------------------+
+
+15,01-------------------------------------------------------------------------------
+
+15,01                          Coded in C++ By PeaCe Keeper
+15,01                          Designed & Tested By nAPALM
+
+15,01-------------------------------------------------------------------------------
+
+15,01                                  BUGS & SUCH
+
+15,01       Well, the viewer is pretty much bug-free, except for a few things.
+15,01     The GIF/PCX viewing code did not function properly so the VGA viewing
+15,01     does not work in this version. We have included a quick and easy GIF
+15,01     viewer called VIEWGIF.EXE with the viewer. We apologize for any in-
+15,01     convenience. On certain computer systems (like my shitty BSR 386SuX/16) 
+15,01     the MOD files will not play just because your computer sucks :) When 
+15,01     listening to a MOD we advise against viewing an ansi.
+
+15,01--------------------------------------------------------------------------------
+
+
+15,01        If you have suggestions/comments about the viewer or any other CiA
+15,01      work, contact any CiA member on a board near you. Feedback is always
+15,01      welcome. If you wish to contact myself or PeaCe Keeper you can call
+15,01      up my board, /+POCALYPSE at 201-934-5613 and E-mail either one of us.
+15,01      Look for a great new viewer next month with many new features! We hope
+15,01      you enjoy the January 1994 CiA pack, see you next month.
+
+15,01--------------------------------------------------------------------------------
+
+
+15,01                       - iNTENSE ViEW 1.2B (C) 1994 CiA -

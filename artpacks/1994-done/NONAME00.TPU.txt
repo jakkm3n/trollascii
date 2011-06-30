@@ -1,0 +1,19 @@
+15,01TPU9    + P ?AGAGAGAGAGAGAdAdA          =                                       
+15,01~               +                                               q               
+15,01                                                    Y APPRECS  ?zq q   Y*SYSTEM 
+15,01 so    ~               L*                              y@      =@      q        
+15,01A                P*VERNUMa n xv2.0  P14,15@15,01A1a n  11  P14,11@11,01A2a n M08  P14,08@08,01A3a n    P14,08@08,01A4a n    
+08,01Q15       08BASICTYPE|@| 14,08@08,01 @_  I@>@* j***L14,08@08,017*  RAALIAS   x14,08@08,01a n   RxREAL  @S14,08@08,01a n >@RA
+08,01PHONE  14,08@08,01'14,08@08,01a n   R15       08DATAPHONE  *=14,08@08,01a n S14,08@08,01R15   08CITYSTATE  xS14,08@08,01a n =14,08@08,01R
+08,01MODEMSPEED  Aj14,08@08,01a n S14,08@08,01R TYPECOMPUTER  *a14,08@08,01a n '14,08@08,01R GRAPHICSCARD   L14,08@08,01a n   R15       08S
+08,01OUNDCARD   14,08#@08,01a n x14,08@08,01R
+08,01REFERENCES  15    08014,08@ @08,01|   @   @   *   P@n @  *  a n +14,08@08,01| j14,08@08,01RASYSOP   j14,08@08,010@n 014,08@08,01R BBSN
+08,01$*a n 14,08#@08,01R*BBSNUP @M7*a n a14,08@08,01R*AFFILS @*j*\*|   @   @   *   P@n @  *  a n J*| $*RA
+08,01NOTES @$  A*|   @   @   x   P@n @  x  a n |*| + Q EXTENDEDTYPE#*| 14,08@08,01 M*  |*-** Xx
+08,01  |x{x  RACODER   _x x|   @       @   P@n   @       14,08@08,01   P@n @ *   0@n I*| @ *   
+08,01.*| +*|   R COURIER * Jx<x|   @       14,08@08,01   P@n @  *  a n *x|   RxANSI **{xmx|   @
+08,01       14,08@08,01   P@n @ *   0@n [x| JxR*VGA 15   08*XxYx|   @       @   P@n @ 14,08@08,01   0@n ix| -
+08,01*RAMUSIC  *|x+x|   @       14,08@08,01   P@n @ *   0@n +x| _xR*LIT M*   x|   @       14,08@08,01   P
+08,01@n @  *  a n 0x|   Q
+08,01SCREENTYPE1A|  x14,08@08,01       a*  P@n @ i*  | n vA|         x  
+08,01x7-SC:\CLEAN\NONAME00.PAS            

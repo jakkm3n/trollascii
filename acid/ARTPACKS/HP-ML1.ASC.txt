@@ -1,0 +1,28 @@
+
+15,01               .                .                  .
+15,01  .                                .                                  .
+15,01               .    .           .           .      .
+15,01  .    .       :                :  .               :                  .
+15,01  :            |    .       .   |  :        .      |          .       :
+15,01  |    .       %    :           %  |   .    :      %    .             |
+15,01  %    :            |       .      %        |                 .       %
+15,01       |            %       :          .    %           .     :
+15,01       %                    |          :                :     |
+15,01                            %          |                |     %
+15,01    ________             ___           %      ____      %              ___
+15,01   |        | _____   __|   | _____   ______ |    | _____   _____   __|   |   
+15,01   |        |/     \ /      |/     \ /      \|    |/     \ /     \ /      |   
+15,01   |  .  .  |   .   |   .   |   :   |  .  .  |    |   .   |   .   |   .   |
+15,01   |  |  |  |   |   |   |   |    ___|  |  |  |    |   |   |   |   |   |   |   
+15,01   |  |  |  |   `   |   `   |   |   |  |  |  |    |   `   |   |   |   `   |
+15,01   |__|__|__|\_____/ \_____/ \_____/|__|__|__|____|___|___|___|___|\_____/
+
+15,01            [   3   0   6   -   6   5   2   -   4   3   5   9   ]
+
+15,01                     ASCii by Hiro Protagonist [remorse]
+
+15,01                         It's ModemLand(tm), bitch!
+15,01               SysOps: Hiro Protagonist - Modal - Ebony - Lector
+15,01        Quad-P World HQ - Dead at Birth World HQ - Remorse Member Board
+15,01  Klf Distribution Site - Skavid Distribution Site - Enmity Distribution Site
+15,01    Xtcnet 13:1306/9 - Skavidnet 64:192/4 - Looking for more nets and affils

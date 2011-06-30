@@ -1,0 +1,41 @@
+15,01                       
+15,01                          $$$$$$.       ,$$$$$$
+15,01                          `$$$$$$. THE ,$$$$$$'
+15,01                           `$$$$$$.   ,$$$$$$'
+15,01                            `$$$$$$. ,$$$$$$'
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSS.`$$$$$$v$$$$$$'.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSSS.`$$$$$$$$$$$'.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS> $$$$$$$$$ <SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSSS' $$$$$$$$$$$ `SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSS' $$$$$$^$$$$$$ `SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01                             $$$$$$' `$$$$$$
+15,01                            $$$$$$'   `$$$$$$
+15,01                           $$$$$$' NET `$$$$$$
+15,01                          $$$$$$'       `$$$$$$
+
+
+15,01AREA NAME                   AREA DESC
+15,01---------                   ---------
+15,01X_UNLOAD                    General Chat
+15,01X_RGIQSUPPORT               Renegade/Iniquity Support
+15,01X_RGIQMOD                   Renegade/Iniquity Modding
+15,01X_ANSI                      ANSi ARt Display
+15,01X_ASCII                     ASCii ARt Display
+15,01X_C                         C & C++ Support
+15,01X_TP                        Turbo Pascal Support
+15,01X_QBASIC                    Quick BASIC Support
+15,01X_CODING                    Coding in General
+15,01X_HACK                      Hacking BBS'
+15,01X_TRACKING                  Tracking Echo
+15,01X_VGA                       VGA Graphics Support
+15,01X_LIT                       Creative Writing    
+15,01X_VIVID                     ViViD Echo
+15,01X_SYSOP                     Sysop/Test Echo
+
+
+15,01        Mandatory Echoes: X_UNLOAD
+15,01                          X_SYSOP
+
+15,01        Only for ViViD Distros: X_VIVID
+
+15,01        The 2 mandatory echoes plus 3 more are required.

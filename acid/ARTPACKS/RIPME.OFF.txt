@@ -1,0 +1,30 @@
+
+15,01Crime Ring/Kingpin  Celerity Design Ripoff
+15,01------------------------------------------------------------------------------
+
+15,01Ok, here is the rest of the shit to rip me off...
+15,01Be sure to read menu.nfo for credits and other instructions..
+
+15,01Color order:
+
+15,01  1.)  light cyan
+15,01  2.)  bright white
+15,01  3.)  cyan
+15,01  4.)  light blue
+15,01  5.)  light black
+15,01  6.)  white
+15,01  7.)  light cyan
+15,01  8.)  blue background, bright white foreground
+
+15,01Prompt with my colors:
+
+15,01  |5[[|8@|5]] |1$ |5> |1
+
+15,01Hmm.. Do you REALLY want to rip me off?
+15,01I will give you EVERYTHING you need.
+
+15,01Set up your matrix as a menu, with no terminal detect, and make a 1 line
+15,01prelogon.bbs
+
+15,01I copied this from The Rocky Mountains, and I feel it offers the fastest
+15,01connect time, and it also looks the best.

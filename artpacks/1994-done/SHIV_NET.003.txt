@@ -1,0 +1,80 @@
+15,01;                  Shiver Productions Mail Network '1994       
+15,01;                 #######################################
+15,01;                        Communications Nodelist #1
+15,01;                      Shiver Net Start Date: 07/25/94
+15,01;
+15,01;        Network Information:
+15,01;        Boards: 15
+15,01;        AreaCodes: 9
+15,01;        States: 7
+15,01;        Provinces: 3
+15,01;        Countrys: 2
+15,01;
+15,01;
+15,01Zone,94,.._ShiverNet_Whq..,Ottawa_ON,Proze,1-613-825-8934,9600,XA,CM,V32B,V42B
+15,01;
+15,01;
+15,01;   [World Region Canada]
+15,01Region,613,..Spazm..,Ottawa_ON,Hard_Moe,1-613-237-4271,9600,XA,CM,V32,V42,V32B,V
+15,0142B
+15,01,1,Spazm,Ottawa_ON,Hard_Moe,1-613-237-4271,9600,XA,CM,V32,V42,V32B,V42B
+15,01,2,The_Crimson_Waters,Ottawa_ON,Proze,1-613-825-8934,9600,XA,CM,V32B,V32,V42B,V4
+15,012
+15,01,3,Critical_Condition,Ottawa_ON,Assaylant,1-613-592-3473,2400,XA,CM,V32B,V42B
+15,01,4,Plasma,Munster_ON,Splint,1-613-838-2691,9600,XA,CM,V32B,V42B
+15,01;
+15,01;   [Canadian Region]
+15,01Region,514,The_Midnight_Realm,Boucherville_PQ,Mustang,1-514-677-9404,9600,XA,CM,
+15,01V32B,V42B
+15,01,1,The_Midnight_Realm,Boucherville_PQ,Mustang,1-514-677-9404,9600,XA,CM,V32B,V42
+15,01B
+15,01,2,Suicidal_Shrimp,Montreal_PQ,Deeply_Disturbed,1-514-768-3383,9600,XA,CM,V32,V4
+15,012,V42B,V32B
+
+15,01Region,306,The_Rapture,Saskatoon_SK,Trickster,1-306-683-0735,9600,XA,CM,V32,V32B
+15,01,V42,V42B
+15,01,1,The_Rapture,Saskatoon_SK,Trickster,1-306-683-0735,9600,XA,CM,V32,V32B,V42,V42
+15,01B
+15,01                                        
+15,01;   [United States Region West]
+15,01Region,619,The_Hierarchy,Vista_CA,Black_Magik,1-619-945-7417,9600,XA,CM,V32B,V42
+15,01B
+15,01,1,The_Hierarchy,Vista_CA,Black_Majik,1-619-945-7414,9600,XA,CM,V32,V42,V32B,V42
+15,01B
+
+15,01Regoin,408,Evil_Intents,Vista_CA,Betrayer,1-408-251-6220,9600,XA,CM,V32,V42,V32B
+15,01,V42B
+15,01,1,Evil_Intents,Vista_CA,Betrayer,1-408-251-6220,9600,XA,CM,V32,V42,V32B,V42B
+15,01,2,The_Dark_Society,Lafayette_CA,Sharp,1-408-268-7308,9600,XA,CM,V32B,V32,V42,V4
+15,012B
+
+15,01Region,415,Network_Twenty_Three,Mill_Valley_CA,Fade,1-415-381-2137,CM,XA,V32,V42
+15,01,V32B,V42B
+15,01,1,Network_Twenty_Three,Mill_Valley_CA,Fade,1-415-381-2137,CM,XA,V32,V42,V32B,V4
+15,012B
+
+15,01Region,209,The_UnderGround,Modesto_CA,The_UnderGod,1-209-572-0221,9600,XA,CM,V32
+15,01,V32B,V42,V42B
+15,01,1,The_UnderGround,Modesto_CA,The_UnderGod,1-209-572-0221,9600,XA,CM,V32,V32B,V4
+15,012,V42B
+
+15,01;  [United States Hub]
+15,01Region,305,Revolution_Number_Nine,Mofo_FL,Minor_Threat,1-305-437-2310,9600,CM,XA
+15,01,V32,V32B,V42,V42B
+15,011,Revolution_Number_Nine,Mofo_FL,Minor_Threat,1-305-437-2310,9600,XA,CM,V32,V42B
+15,01,V42,V32B 
+
+15,01;  [United States Region Central]
+15,01Region,914,The_Country_Store,Upstate_NY,Winter_Rose,1-914-234-9674,9600,XA,CM,V3
+15,012B,V42,V42B
+15,01,1,The_Country_Store,Upstate_NY,Winter_Rose,1-914-234-9674,9600,XA,CM,V32,V42,V3
+15,012B,V42B
+
+15,01Region,603,Black_Thunder,Londonderry_NH,Lord_of_the_Black_Death,1-603-425-1740,9
+15,01600,XA,CM,V32B,V42,V42B
+15,01,1Black_Thunder,Londonderry_NH,Lord_of_the_Black_Death,1-603-425-1740,9600,CM,XA
+15,01,V32,V42,V42B,V32B
+
+15,01;  [United States Eastern Region]
+15,01Region,413,Seeds_of_Destruction,Chesire_MA,Phaser-X,1-413-743-9183,9600,CM,XA,V3
+15,012,V32B,V42,V42B

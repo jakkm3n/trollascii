@@ -1,0 +1,66 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    A  P  R  I  L        1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  April showers abound this month.   Nice pretty pictures  for our loyal fans
+15,01in the insane  asylums of the  world to gawk at in primordial awe.   We hope we
+15,01don't disappoint!  Ever see one of those nuts wield a fork?
+
+15,012.  Evil human resources director Catbert reports  that Epoch has  become a new
+15,01slave of the evil iCE VGA empire, and Kitiara and Inazone have been assimilated
+15,01into the dark  and cold iCE ANSI empire.   Resistance was futile.   Once again,
+15,01nobody has escaped the cold frigid grip of the freezer network.
+
+15,013.  Information Systems director Lickbert submitted a report using blue crayons
+15,01which states that iCE.ORG will also be beefing up hardware in efforts to better
+15,01support the  minions of fans.   An official announcement  will be made  once we
+15,01convince him to use a real writing implement.
+
+15,014.  Animal up and joined the Israeli army, and seems  to have  temporarily gone
+15,01AWOL from the CryoTroops who guard the iCE citadels.   He tends to go into fits
+15,01when he sees arabs, we're told.
+
+15,015.  Former Senior Staffer and current bookworm cum alcoholic Lord Soth has been
+15,01found  floating in the  Virginia Tech  University olympic-sized  swimming pool,
+15,01muttering things  about Sprite.    Sprite, who declined  all other requests for
+15,01interviews, told iCE Central Command (Big Brother Is Watching You)  that it was
+15,01probably the fact that she ran out of regular alcohol in her tattoo parlor, and
+15,01gave good ol' Slothy a tattoo using lots of vodka.   He DID pass calculus, too!
+
+15,016.  The leaders of iCE would like to dispel any heinous rumours circulating the
+15,01art world claiming that iCE  is a group of evil frozen artists who  are bent on
+15,01world domination.  While we do agree that we don't necessarily relish the title
+15,01of underdog, we  feel that, while we do have  dungeons and CryoTroops,  overall
+15,01we're a swell group of chums.  Really.
+
+15,017.  A big belated congratulations and cigars abound go out to iCE VGA psychotic
+15,01Vesalius, who celebrated the birth of his daughter  Cameron on March 15.  iCE's
+15,01newest family member weighed in at 8lb 13oz.  Mom,  baby,  and Vesalius are all
+15,01adjusting to their new lives quite nicely!
+
+15,018.  Another month of high-quality pixel laden goodness to give everyone a gooey
+15,01feeling inside.   They say April showers  bring May flowers -- so look  out for
+15,01next month!  I love this group!
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

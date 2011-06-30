@@ -1,0 +1,13 @@
+15,01Union View - Version 0.99 Beta CONFIGURATION File
+
+15,01This file can be modified within the viewer or with
+15,01a standard text file editor. If an invalid entry occurs
+15,01the program will detect it and recreate this file with the
+15,01standard defaults
+
+15,01Videomode = 0
+15,01Mask      = *.ANS
+15,01Speed     = 0
+15,01Scroll    = ON
+15,01Sauce     = ON
+15,01>

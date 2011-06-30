@@ -1,0 +1,80 @@
+
+15,01                              m"m            m"m
+15,01                             || || mm       ||  14,15 
+15,01                             ||mm""   mmm   ||  ||
+15,01                         mmm"""  14,15 15,01   14,15 15,01   "  ||  ||
+15,01               m""m          ||  14,15 15,01    """"""||  ||
+15,01               "m ||         ||  14,15 15,01    m"m   ||  ||    m""""m
+15,01                  14,15 15,01 m        ||  14,15 15,01    14,15 15,01 ||   14,15 15,01  14,15 15,01    14,15 15,01     ||
+15,01                 14,15 15,01   ""mm    || ||    14,15 15,01  14,15 15,01   ||||   ||    m"
+15,01               m"        "m   14,15 15,01 14,15 15,01     ||||    |14,15 15,01     14,15 15,01  m"
+15,01            mm"   |       ||  m"       "14,15 15,01    m"m      m"         m|
+15,01       mmm""       "mmmmmm"mm"  "mmmmmm" "mm"   "mmmm"  "mmmmmm""gs
+
+15,01                   m-m m-m m   m   m-m m-m m   m m-m m-m
+15,01                   14,15 15,01   14,15 15,01 14,15 15,01 14,15 15,01   14,15 15,01   14,15 15,01-  14,15 15,01   14,15 15,01-  14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 
+15,01                   "-" "-" "-" "-" "-" "-" "-" " "-" " "
+
+15,01                         The Stile Collection #001
+15,01                          Released: November 1994
+
+15,01+FILENAME.EXT++SIZE--++LINE++DATA++DESCRIPTION-----------------++ARTIST--++ABR+
+15,01 FILE_ID  DIZ     554    15  !     Stile_id.diz                  D-Vibe    db
+15,01 STILE    NFO    9462   125  !     Stile members in Nov. 1994    Stile     stl
+15,01 STL-#001.NFO    6095    89  !     This file...                  Gangstar  gas
+15,01 NEWS#001.ANS   17225   192  A!    Stile Newsletter, Issue #001  Gangstar  gas
+15,01 ##-STILE APP    8870   170  !     Application Questionnaire     Gangstar  gas
+15,01 ##-STILE REQ    7343   137  !     Request Form                  Gangstar  gas
+15,01 ACIDVIEW EXE  132304   N/A  0     The Best Viewer Ever! v2.02   Acid      N/A
+15,01 ACIDVIEW INI    2953   N/A  0     The Best Viewer Ever! v2.02   Acid      N/A
+15,01 DB-CEDGE ANS   13531    64  A     Cutting Edge                  D-Vibe    db
+15,01 DB-CONV3.ANS    4108    23  a     Convulsion                    D-Vibe    db
+15,01 DB-FINPH ANS   12767    66  A     Final Phase                   D-Vibe    db
+15,01 DB-ICEBX ANS   16585    82  A     The Ice Box                   D-Vibe    db
+15,01 DB-ICEBX GIF    6416   N/A  i     The Ice Box                   D-Vibe    db
+15,01 DB-MOVER ANS   15536    82  A     Maximum Overkill              D-Vibe    db
+15,01 DB-NEOTO ANS   18064    99  A     Neo Tokyo                     D-Vibe    db
+15,01 DB-PARES ANS   10110    51  A     Cerebral Pares                D-Vibe    db
+15,01 DB-PHOBI ANS   19738    97  A     Obscene Phobia                D-Vibe    db
+15,01 DB-SAVAG ANS    6963    39  a     Little Savage                 D-Vibe    db
+15,01 DB-SPOCK ANS    3260    21  a     Mr Spock                      D-Vibe    db
+15,01 DB-STILE ANS    4087    23  a     Stile - The Creative Team!    D-Vibe    db
+15,01 DB-SUBIN ANS   16793    72  A     Subliminal Influence          D-Vibe    db
+15,01 GS-2KAD! ANS    6921    46  a     2000AD                        Gangstar  gas
+15,01 GS-ANSIM ANS  299078   N/A  *     Stile Ansimation              Gangstar  gas
+15,01 GS-GDNOE ANS    9664    65  A     Garden Of Eden                Gangstar  gas
+15,01 GS-GODS! ASC    2473    29  ~     Guild Of Distributors         Gangstar  gas
+15,01 GS-GODS! ANS   26652   143  A     Guild Of Distributors         Gangstar  gas
+15,01 GS-GURUS ANS    3947    34  a     Guru's Dream                  Gangstar  gas
+15,01 GS-OBSCE ANS   19175   128  A     Obscene Phobia                Gangstar  gas
+15,01 GS-OBSCE GIF   26687   N/A  i     Obscene Phobia                Gangstar  gas
+15,01 GS-PWA!! ASC    1183    18  ~     PWA                           Gangstar  gas
+15,01 GS-PWAHQ ANS    2826    24  a     PWA European Headquarter      Gangstar  gas
+15,01 GS-R2LGO.ASC    2028    24  ~     R2 - Rebels & 2000AD          Gangstar  gas
+15,01 GS-S1001 ANS   18726   132  A     System One                    Gangstar  gas
+15,01 GS-S1002 ANS   42346   309  A     System One babe!              Gangstar  gas
+15,01 GS-S1003 ANS    4068    19  a     System One                    Gangstar  gas
+15,01 GS-STL01 ANS   39490   387  a     Stile MEGA Logo!              Gangstar  gas
+15,01 GS-STL02 ANS    4073    18  a     Stile                         Gangstar  gas
+15,01 GS-STL03 ANS    2414    18  a     Stile                         Gangstar  gas
+15,01 GS-STL05 GIF   17016   N/A  i     Stile VGA Logo                Gangstar  gas
+15,01 GS-TMPLG ANS    3605    25  a     The Meanman                   Gangstar  gas
+15,01 IQ-BRAIN ASC    1342    18  ~     Black Rain                    Ique      iQ
+15,01 IQ-GODS! ANS    4975    24  a     Guild Of Distributors         Ique      iQ
+15,01 IQ-NUKES ASC    1239    17  ~     Nuke Soft                     Ique      iQ
+15,01 IQ-STL01 ANS    2955    20  a     Stile                         Ique      iQ
+15,01 IQ-STL02 ANS    5222    47  a     Stile                         Ique      iQ
+15,01 IQ-STL03 ANS    9840    48  a     Stile                         Ique      iQ
+15,01 IQ-STL04 ANS    6291    22  a     Stile                         Ique      iQ
+15,01 IQ-STL05 ASC    2059    23  ~     Stile                         Ique      iQ
+15,01 IQ-WZOMB ASC    1640    21  ~     White Zombie                  Ique      iQ
+15,01 IQ-WZOMB ANS   17407   114  A     White Zombie                  Ique      iQ
+15,01 PF-SHDZN ANS   11331    91  A     Shadow Zone                   Pfezzyo   pf
+15,01 PF-TFACE ANS    7447    95  A     The Face Of Pfezzyo           Pfezzyo   pf
+15,01+------------++------++----++----++----------------------------++--------++---+
+15,01 A = Ansi Creation  i = VGA 320x200x256  L = Loader/Intro  0 = Ansi Viewer
+15,01 a = Ansi Logo      i = VGA 640x480x256  U = Util          $ = Special
+15,01 * = Ansimation     i = VGA Other res.   C = Module        + = Something Extra
+15,01 ~ = Ascii          P = Rip Grafics      c = Midi file     ! = Info File
+
+15,01                     +---------- STATISTICS -----------+

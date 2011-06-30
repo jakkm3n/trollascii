@@ -1,0 +1,57 @@
+15,01.model small
+15,01.code
+15,01        PUBLIC  _ShiftLine
+15,01_ShiftLine  proc near
+15,01        push    bp      ;Entry sequence
+15,01        mov     bp,sp
+15,01        push    es
+15,01        push    ds
+15,01        push    di
+15,01        push    si
+15,01        mov     dx,8
+15,01lo1:    mov     cx,[bp+4]       ; Load Arg1 into CX
+15,01        mov     bx,[bp+6]       ; Load Arg2 into BX
+15,01        call    _retrace
+15,01        mov     ax,0a000h
+15,01        mov     es,ax
+15,01        mov     ds,ax
+15,01        mov     ax,0
+15,01        cmp     cx,0
+15,01        je      lo3
+15,01lo2:    add     ax,320
+15,01        loop    lo2
+15,01lo3:    mov     di,ax
+15,01        inc     ax
+15,01        mov     si,ax
+15,01lo4:    mov     cx,319
+15,01        cld
+15,01        rep     movsb
+15,01        cmpsb
+15,01        dec     bx
+15,01        jnz     lo4
+15,01        dec     dx
+15,01        jnz     lo1
+15,01        pop     si
+15,01        pop     di
+15,01        pop     ds
+15,01        pop     es
+15,01        pop     bp
+15,01        ret
+15,01_ShiftLine  ENDP
+
+15,01        PUBLIC  _retrace
+15,01_retrace  PROC
+15,01        push    dx
+15,01        push    ax
+15,01        mov     dx,03dah
+15,01no1:    in      al,dx
+15,01        and     al,08
+15,01        jnz     no1
+15,01no2:    in      al,dx
+15,01        and     al,08
+15,01        jz      no2
+15,01        pop     ax
+15,01        pop     dx
+15,01        ret
+15,01_retrace endp
+15,01        end

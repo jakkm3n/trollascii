@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01              S  E  P  T  E  M  B  E  R        2   0   0   1
+15,01-------------------------------------------------------------------------------
+
+15,011.  We'd  like to welcome  DieseLBoY to  iCE.   You can check  out some of  his 
+
+15,01    awesome  artwork  in the pack  this  month.   Or you  can make  a point  of 
+
+15,01    skipping them  because you're jealous of him.  After all,  he did  say that 
+
+15,01    you lack any measurable talent.  No really!  One of my sisters friends said
+15,01    she heard that a guy heard him say  it in the hall!  He also declared that,
+15,01    "All yall can just go eat a" something or other.  It was noisy.
+
+15,012.  Gecko recently  shocked the nation  this month  by correctly  counting  the 
+
+15,01    number of jellybeans in the jar.   "I never thought I would win," she said,
+15,01    "I mean Tetanus  has been training all  year for this,  and  Jamie McCarter 
+
+15,01    took  both the  State Police  beancount  and the  4H fundraiser  money  jar 
+
+15,01    competitions.   I just never  thought that I  could do it.   But now that I 
+
+15,01    have, I realize that Jamie and Tetanus really just suck.  They're all talk,
+15,01    and I'm going to whoop  them in next month's  Rotary Club  mothball count!"
+15,01    We wish her luck!
+
+15,013.  On a  somber note,  iCE almost lost a  member this month.   We're glad that 
+
+15,01    Corpulent Cow  made it out of his building  safely on September 11,  and we
+15,01    offer our condolences to everyone affected by this tragedy.
+
+15,014.  The slowdown in  the economy really  hit us hard this  month.   A number of 
+
+15,01    artists had to be let go in order for  us to announce a profitable quarter.
+15,01    Analysts  questioned  the  move,  saying  "but  these are  unpaid  artists!
+15,01    There's no  way to save money  by letting  them go!  Plus they  have only 3 
+
+15,01    donations  to cover  their hardware  costs, and they're  not even  close to 
+
+15,01    breaking  even!"   In  response,  Mass Delusion has  stated that  iCE might 
+
+15,01    need  to reevaluate  its  current  projections  for  the  quarter  and  all 
+
+15,01    previous quarters.
+
+15,015.  Check out  Jamie McCarter's  special release of his "Yoyo" animation.  It's
+15,01    really really  awesome, so  make sure  you have  Quicktime installed so you 
+
+15,01    can view it!  On a side note,  we wish Jamie a safe  move to London.   He's 
+
+15,01    moving there to  take a new job working  on a high profile  movie which  we 
+
+15,01    can't say the name of (yet).  But we're proud of Jamie and we wish him luck
+15,01    over in England!
+
+15,016.  Additionally, we have yet another quilt for  you this month!   The girls of 
+
+15,01    tiles.ice.org got together to do a quilt.   Although Gecko was the only iCE
+15,01    female to participate, she did a  significant amount of work on it,  and we
+15,01    wanted to show it off in the iCE pack.  Great work, ladies!

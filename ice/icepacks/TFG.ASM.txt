@@ -1,0 +1,80 @@
+15,01;-------push    cx------------------------------------------------------------
+15,01; The FoMaxScanLinends -- (c) 1993 iCE Advertisements, Inc. 
+15,01; Authorinc     ahLeviathan [iCE]
+15,01; Descrixor     cx, cxAdvertisement
+15,01; Requirmov     dx, 15000
+15,01;       Delay     VGA
+15,01;       pop     cxTASM/MASM
+15,01; Functiloop    @@squashlette
+15,01;                 isVGA
+15,01;       mov     ah, 02h                         ; Set cursor position
+15,01;       xor     bh, bhit
+15,01;       xor     dl, dlIn
+15,01;       mov     dh, 24Out
+15,01; Neededint     10hacros.inc       - Macros
+15,01;                 link.dat         - Link data
+15,01; Notes ret     : The source code is donated to the public 
+15,01ENDP DeInit       domain as free ware. Hope it helps
+15,01;-----------------------------------------------------------------------------
+15,01        main:g
+15,01;-----------------------------------------------------------------------------
+15,01        call    Init
+15,01        locals
+15,01        mov     ax, _data
+15,01        mov     ds, ax
+15,01        mov     si, offset tmp
+15,01        mov     ax, 0ff00h
+15,01;00@@@@@@@15call    CopyPalette00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01; DATA SEGMENT
+15,01;00@@@@@@@15mov     ax, _picture00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01_data semov     ds, axublic 'DATA'        
+15,01        no_vga_msg      db 'Error : A VGA card must be present to run this demo'
+15,01,10,13,'push    0a000h
+15,01        pop     es      db 768      dup (0)
+15,01        xor     di, di  db 4000     dup (0)
+15,01_data ends
+15,01        mov     si, offset picture
+15,01;-------mov     cx, (64000/2)-------------------------------------------------
+15,01_picturerep     movsw public 'DATA'
+15,01        palette         db 768      dup (0)
+15,01        call    FadeIn  db 64000    dup (0)
+15,01_picture ends              
+15,01                @@key_loop:
+15,01;-------mov     ah, 1---------------------------------------------------------
+15,01_stack sint     16h stack 'STACK'
+15,01        jz      @@key_loop              db 256      dup (0)
+15,01_stack ends
+15,01        call    FadeOut
+15,01;00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01; CODE Scall    DeInit
+15,01;00@@@@@@@15Terminate00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01;-----------------------------------------------------------------------------
+15,01_code endsSUME  ds:_data, cs:_code, ss:_stack
+15,01        end start
+15,01        start: jmp main
+15,01;#############################################################################
+15,01; Copy Palette to VGA card
+15,01; in :
+15,01;   DS:SI = Address of Palette
+15,01;   AL = Begining Color
+15,01;   AH = Number of Colors to write
+15,01; out :
+15,01;   none
+15,01;#############################################################################
+15,01CopyPalette PROC NEAR
+15,01        push    ax
+15,01        mov     dx, 3c8h
+15,01        out     dx, al
+
+15,01        inc     dx
+
+15,01        mov     bl, 3
+15,01        mul     bl
+15,01        add     si, ax    
+
+15,01        pop     ax
+
+15,01        mov     al, ah
+15,01        mul     bl
+15,01        mov     cx, ax
+

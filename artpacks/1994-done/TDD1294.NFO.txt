@@ -1,0 +1,61 @@
+15,01   +-----------------------------------------------------------------------+  
+15,01   |                                                                       |  
+15,01   | Since the last pack was infected by the Whisper Virus, I have scanned |  
+15,01   | the files thoroughly. Sorry for all the trouble that may have caused. |  
+15,01   | Well, further destruction to your pc is not our fault, I hope.. :)    |  
+15,01   | Anyway, since we got fucked last pack, we have repackaged a few ansis |  
+15,01   | from the last pack. Because of some problems, I was not able to get a |  
+15,01   | virus-free copy of NETVIEW(our viewer), or TDDAPP(AppGen).  And a big |  
+15,01   | sorry to NM for not being able to get his ansi.  Today of all days my |  
+15,01   | modem decides to go nuts.. dropping carrier like crazy.. anyway..     |  
+15,01   | enough crap.. sorry.. slap..  oh yeah, I included ACIDVIEW(tm) so you |  
+15,01   | can view ansis no prob.. Those ACID guys made the best viewer around. |  
+15,01   |                                                                       |  
+15,01   |                                                              -POSYDEN |  
+15,01   | P.S.  Happy New Year!                                                 |  
+15,01   |                                                                       |  
+15,01   +-----------------------------------------------------------------------+  
+15,01   +-----------------------------------------------------------------------+  
+15,01   |  ANSIS/ASCIIS                                                         |  
+15,01   +-----------------------------------------------------------------------+  
+15,01   |  NM-BA    .TDD     Netman             TA-CHAOS .TDD     Talamius      |  
+15,01   |  NM-CSTL  .TDD     ....               TA-BEVIS .TDD     ....          |  
+15,01   |  NM-TCBB  .TDD     ....               TA-MAGIC .TDD     ....          |  
+15,01   |  NM-WHITE .TDD     ....               TT-CYCLO .TDD     Trust         |  
+15,01   |  PB-BLOWN .TDD     Power Blade        TT-DNET  .TDD     ....          |  
+15,01   |  PB-ORION .TDD     ....               TT-GEMI  .TDD     ....          |  
+15,01   |  PO-18    .TDD     Posyden            TT-NC    .TDD     ....          |  
+15,01   |  PO-BA    .TDD     ....               TT-SIN   .TDD     ....          |  
+15,01   |  PO-BYE   .TDD     ....               TT-SHOC  .TDD     ....          |  
+15,01   |  PO-DARKD .TDD     ....               TT-TOB   .TDD     ....          |  
+15,01   |  PO-DIM1  .TDD     ....               TT-TTT   .TDD     ....          |  
+15,01   |  PO-DIM2  .TDD     ....               TT-TSL!  .TDD     ....          |  
+15,01   |  PO-FATAL .TDD     ....               TT!-2KRW .TDD     Trinitron     |  
+15,01   |  PO-GLRY1 .TDD     ....               TT!-CRIT .TDD     ....          |  
+15,01   |  PO-GLRY2 .TDD     ....               TT!-FC   .EXE     ....          |  
+15,01   |  PO-INT   .TDD     ....               TT!-GEM1 .TDD     ....          |  
+15,01   |  PO-STATS .TDD     ....               TT!-GEM2 .TDD     ....          |  
+15,01   |  PO-SILO  .TDD     ....               TT!-GEM3 .TDD     ....          |  
+15,01   |  PO-TDD!  .TDD     ....               TT!-GNX  .TDD     ....          |  
+15,01   |  PO-TRM   .TDD     ....               TT!-LEEC .TDD     ....          |  
+15,01   |  PO-TRN1  .TDD     ....               TT!-MC   .TDD     ....          |  
+15,01   |  PO-TRN2  .TDD     ....               TT!-RZR3 .TDD     ....          |  
+15,01   |  PO-TRN3  .TDD     ....               TT!-SHOC .TDD     ....          |  
+15,01   |  PO-XMAS  .TDD     ....               TT!-WMAN .TDD     ....          |  
+15,01   +-----------------------------------------------------------------------+  
+15,01   |  VGA/LOADERS                                                          |  
+15,01   +-----------------------------------------------------------------------+  
+15,01   |  PO-HELLO .GIF     Posyden            PB-OONW  .GIF     Power Blade   |  
+15,01   |  PO-SILO  .GIF     ....               PT-GRMLN .GIF     Phantom       |  
+15,01   |  PO-SS    .GIF     ....               TT-TDD   .EXE     Trust         |  
+15,01   +-----------------------------------------------------------------------+  
+15,01   |  MISC/TEXT                                                            |  
+15,01   +-----------------------------------------------------------------------+  
+15,01   |  TDD1294  .NFO                        AV       .EXE                   |  
+15,01   |  TDD1294  .MEM                        FILE_ID  .DIZ                   |  
+15,01   |  TDD1294  .GRT                        ---------------                 |  
+15,01   |  TT-READ  .ME!                        TOTAL: 60 FILES                 |  
+15,01   +-----------------------------------------------------------------------+  
+15,01                                                                              
+15,01>SAUCE0012/94: NFO                         The Dirty Dozen                      
+15,01   19941230q$  @ P :                             

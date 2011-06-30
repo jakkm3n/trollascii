@@ -1,0 +1,14 @@
+15,01                             
+15,01                             
+15,01                             Notes on RAVEAPP.EXE
+
+15,01The program was written for the wizard of RAVE by CHAo$ using Borland's 
+15,01Turbo C/C++ for DOS, version 3.  All the effects (scrolling, VGA logos, 
+15,01and rotating circle) were products of my goofing around for the first time 
+15,01with the graphics library.  They will improve in the future...  >:]
+
+15,01The original .EXE file length was EXACTLY 100000 bytes long (pure chance, 
+15,01but what else would you expect from CHAo$...?) to 48235 bytes (over 50%
+15,01reduction, saving everyone some download time >:] ) with Fabrice Bellard's 
+15,01LZEXE, a freeware (what a guy) program that compresses and decompresses .EXE 
+15,01files "on the fly".

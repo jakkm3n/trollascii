@@ -1,0 +1,40 @@
+15,01Paranormal's Iniquity Lightbar File Area Selection ...
+
+15,01     Allright im the first person to do this probably so worship me if you
+15,01     intend to copy my idea :P
+
+15,01Anyways to get it set up place the *.ans into the \text dir. And the *.mnu
+15,01into the \menu dir. Now goto your file areas and print out the file areas
+15,01you currently use.
+
+15,01Example
+15,01-------
+
+15,011  -  [GROUPS] FiRE
+15,012  -  [GROUPS] Dementia
+15,013  -  [GROUPS] ViViD
+
+15,01Now goto the menu editor and edit the fchange.mnu and edit the commands
+15,01insert 3 new commands (The same number of file areas you have) ... now
+15,01edit the first one to look like
+
+15,01--- Current command   1 of 1
+15,01[A] Description       [GROUPS] FiRE
+15,01[B] Command Help      None
+15,01[C] Menu Keys         1
+15,01[D] Acsess            s50
+15,01[E] Menu Command      FC
+15,01[F] Parameters        1
+15,01[G] Hidden            No
+15,01[[] Previous Area
+15,01[]] Next Area
+
+15,01Allright now for the [A] being the first file area  name you have.
+15,01And for [F] being the number of the file area.
+
+15,01To do another one change the [A] to the next file area name you have
+15,01and the [C] to 2 becuase it's the second command , now for [F] being
+15,012 becuase it's the second file area number you have.
+
+15,01Allright i think you should have caught on by now so good luck and happy
+15,01j0llys to ya all.       - Paranormal Intensity

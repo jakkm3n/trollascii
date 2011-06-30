@@ -1,0 +1,23 @@
+
+15,01                 Celerity v1.40 Menu Set by KINGPIN <ACiD>
+15,01 ------------------------------------------------------------------------------
+
+15,01 This menu set includes all the ansi menus for Celerity.  This menu
+15,01 set does not include the personalized ansi screens such as the welcome
+15,01 or infoform screens.
+
+15,01 This menu set features Eddie from IRON MAIDEN.
+15,01 The drawing was by Derek Riggs in the 'Somewhere in Time' CD sleeve.
+15,01 It is also the 'Wasted Years' single drawing Eddie.
+15,01 The ANSI of Eddie was drawn by KINGPIN <ACiD)!!
+15,01 The text portion of the menus was ripped from the Street Spydr's set
+15,01 which was made by Maverick.  The boxes were designed by Kingpin.
+
+15,01 If you use this set, please use it wisely.  Do not use it if you suck!
+15,01 Also, there is a HEADING.ANS which belongs in the \TEXT directory if
+15,01 you want to further capture the Crime Ring look!  If you want to run
+15,01 Crime Ring (totally copy the look) the status files and color order
+15,01 I use are also included.  If you rip me off, I better get credit somewhere
+15,01 for the design of the system.
+
+15,01 ------------------------------------------------------------------------------

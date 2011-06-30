@@ -1,0 +1,22 @@
+15,01  m  mmmm   mmmm
+15,01 14,15 15,01" 14,15  15,01""14,15  15,01 14,15  15,01"""" EternaL Darkness [iCE]
+15,01"m14,15 15,01|14,15 15,01|===-|14,15  15,01"" ===-==-=- ---- ---  - .
+15,01|14,15  15,01 14,15  15,01mm14,15  15,01 14,15  15,01mmmm iCE Proudly Presents..
+15,01 """ """"   """"
+
+15,01 ED-DUG1.iCE  3280bytes
+15,01 ED-DUG2.iCE  441389bytes
+
+15,01 ED-DUG1 is the "postable" stats screen for DigitaL UnderGround. The other
+15,01 is the full-feature ANSiMation FliCk.
+
+15,01 This is my first attempt at accomplishing a full-feature FliCk, it turned
+15,01 out ok I guess. Don't attempt to post ED-DUG2.iCE on any nets even on 
+15,01 ViSiON-X's Unlimited Message Bases, it's saved at 255Lines to save diskspace.
+
+15,01 I've tried my best to reduce the file size with special techniques but keep
+15,01 in mind that this is my first attempt. Hope to be producing more of these
+15,01 ANSiMation FliCks.
+
+15,01 EternaL Darkness [iCE]
+15,01 - o9/o1/92

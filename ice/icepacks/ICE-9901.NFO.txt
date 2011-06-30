@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                  J   A   N   U   A   R   Y    1   9   9   9
+15,01-------------------------------------------------------------------------------
+
+15,011. Well, another month, another four disks.  While most people are playing that
+15,01Prince song, the iCE crew seems to be humming "Can't Hold Me Down" (made famous
+15,01again by that ravishing Puff Daddy).  Many people  spent the first month of the
+15,01new year  by preparing for Y2k (mainly  purchasing assault rifles) but we spent
+15,01it  by creating  some stunning eye candy and putting  together another  timely,
+15,01quality release.
+
+15,012. After satisfying his rite of passage by trekking the forbidden "lava walk of
+15,01Hippahippamulango", Bmxmen was brought on the ship this month for his great 3D,
+15,01his "close" relationship with  Epoch, and for getting one of  his models placed
+15,01on  SoftImage's Industrial  art gallery.  Not bad!  Also this month  new to the
+15,01crew was Funbaby.  And don't think they call him that for nothing!  We finished
+15,01a comeback  this month  with the release of a  Black Guard  RIP, and Cooly, our
+15,01favorite  AK-47-toting Israeli  grunt has returned  from the grips of  military
+15,01service to do some  drawing.  If you remember Sober, you probably remember that
+15,01incredible hirez of the Violator he released a  few years back - well he sent a
+15,01buddy to us and his name is Shade.  He does some great freehand work  that will
+15,01tantalize and titilate.
+
+15,013. Unable to  comprehend the  meaning of  life, Hfaze took  one step  closer to
+15,01immortality when  an artist on Moonshine Music released  a CD using his font on
+15,01the cover!  If you remember, Hfaze released several truetype fonts in iCE packs
+15,01last year.  Just think, using V2, you can search for *.ttf and find them all in
+15,01a single search!
+
+15,014. iCECON: East is  about to take place!  Most  people would  consider this  an
+15,01internal  issue, but we like to think that everyone cares what we do, so here's
+15,01the skinny!  February 5th, in NYC, iCE  is meeting and going  barhopping.  That
+15,01means  you should be 21 or older, and bring  cash to buy  us all drinks for the
+15,01chance to  bask in our  artistic haze.  Reported to  set foot on the  NYC scene
+15,01will be west-coasters  Mass Delusion and Xten,  east-coast-haunters Force  Ten,
+15,01Aneurysm, Cold and  Ugly, Epoch, new  member Bmxmen, Egghead, and  whoever else
+15,01decides to  engage in craziness for a night.  According to sources close to the
+15,01iCE team, there  will be several marriages between  iCE members and the nearest
+15,01sturdy bar stool.
+
+15,015. When Senior Staff  Sinned Soul decided to quit this month, most of the staff
+15,01left with him to create a new group  called "Dnegel".  Suddenly, it was as if a
+15,01moment of clarity settled upon these leaders and  then common sense set  in. We
+15,01realized that there wasn't anything anyone could do to top the goat-sex-having,
+15,01insider-stock-trading,  ultraHLE-playing,  eye-candy-creating  commonwealth  of
+15,01independent artists that we like to call "iCE".  Scurrying  like a pack of rats
+15,01headed  for higher ground  on the Titanic, we rejoined iCE and took power, then
+15,01renamed the group iCE: The iCE Cream Experience.
+
+15,016. Mongi says: look at http://www.hirez.org, the one-stop hirez shop!
+
+15,017. As  part of  our  effort to  divest  some  of our holdings  and  expand  our
+15,01portfolio, iCE  Incorporated sold off its  majority ownership of Disney and its
+15,01subsidaries  including ESPN,  the Go Network, ABC, and  others.  For more info,
+15,01consult our 10-Q form filed with the SEC.
+
+15,018. This item intentionally left blank.
+
+15,019. When time is up, put your pencil down, and stop writing.
+
+15,0110. Go  to item 11, wait  for the  instructor to  signal the  start, and  begin

@@ -1,0 +1,80 @@
+
+
+15,01                        History of the PC Ascii Scene
+15,01                  As viewed by the eyes of one that lived it.
+
+15,01              (Text taken in most part from a previous article in
+15,01              The Product 2, but I had to update quit a bit of it.)
+
+
+15,01  Ascii Art as an idea coalesced into existence bceause people wanted more.
+15,01They wanted more than just your standard Hercules display Atari or your
+15,01Monochrome Commodore 64. To meet this demand, one singular artist, whose
+15,01name is lost to the annals of history decided to take the plunge. Instead
+15,01of text, he (or she) had the ingenuity to use the characters /, \, |, -, _
+15,01and whatever else came to mind to create words. An amazing idea.
+
+15,01  And a perfect one. People latched onto this. Anyone that could display
+15,01text could display ascii art. It was fast, compact, independant of
+15,01platform type, and one group in particular set their sights on it the
+15,01most, the then-thriving Amiga scene. It was perfect for Bulletin Board
+15,01Systems, text-based adventures, for anything they could think of. Perfect
+15,01then, and to this day for file descriptions.
+
+15,01  While ascii dominated the Amiga scene, the PC scene was giving birth to an
+15,01art medium of their own, ANSI. Colored blocks. Oh, the wonders. But there
+15,01were people that weren't satisfied with ANSI, they had seen ascii art, and
+15,01it had captivated their imaginations. Some people believe that demand
+15,01creates supply, and because of this, ascii was tentatively introduced to
+15,01the PC scene as an art form.
+
+15,01  Tinyz, a member of the Amiga scene warez group Katharsis, recognized the
+15,01demand, and started in on the supply. A one-man art group was created by
+15,01Tinyz, and this introduced what had long been Amiga-only art (and
+15,01previously Commodore 64, but not to the extent of the Amiga scene) into
+15,01the PC art scene. Katharsis!Ascii was implemented in March of 1994. Tinyz
+15,01soon found kindred spirits, and more artists joined Katharsis!Ascii, now
+15,01known as plain Katharsis, or KTS. Others tried to duplicate Tinyz and the
+15,01way he brought ascii art to the scene, but to no avail. Tinyz was the
+15,01first to establish a true ascii-only art group in the PC art scene.
+15,01Previous to Tinyz, there were only a few ascii artists that were as known
+15,01as Tinyz, one of those being Piromaniak of TRiBE. But no one had the grip
+15,01on the proverbial ascii testicles in the PC scene that KTS!Ascii did. No
+15,01one, that is, until Remorse rose out of the dirt and mooned Katharsis with
+15,01it's hairy collective buttocks.
+
+15,01  I, along with Necronite (then of ex-Union, Shiver) felt that our art
+15,01wasn't the quality KTS was looking for, so we decided to start our own
+15,01ascii art group, dubbed Remorse, and started in October of 1994.
+15,01Originally, it was meant to be in homage to Tinyz and KTS, but it didn't
+15,01quite turn out that way. Remorse quickly gained members that produced
+15,01quality art, and was KTS's first actual competition. Oh, RMRS and KTS
+15,01didn't realize it at first, but within a few months, Remorse spurred KTS's
+15,01release of "THE-NME.TXT," which was one giant "I'm better than you"
+15,01directed towards Remorse.
+
+15,01  While the Remorse death/rebirth drama was being acted out (I'll exclude
+15,01that from this -- you can find the history of Remorse elsewhere), several
+15,01groups decided to follow in the footsteps of Remorse and KTS. But it
+15,01wasn't until the year-long torpor of Remorse and the birth of Whodini's
+15,01love child, Trank, that any of these groups started to thrive. With Trank,
+15,01Whodini recruited most of the quality artists from the then-defunct
+15,01Remorse and several new faces. A few of the members of these new groups
+15,01started imitating the style of ts, K-Spiff, KXMode, Mr. Kite and Lord
+15,01Jazz. With this wide-spread imitation came a division to the ascii scene:
+15,01Newschool and oldschool.
+
+15,01  Newschool was more than just the use of the standard /, \, |, -, and _.
+15,01It didn't limit itself to merely an outline, it went a step further to add
+15,01filling and shading. Several artists arose that awed the scene with their
+15,01innovation. Artists such as Asphixia (aka J. Hale), Killa Hertz,
+15,01Nuremberg, later on several artists from groups like s0ap (Sons of Ascii
+15,01Prophets) and Noname, artists like Mr. Self Destruct, Discyple, Cain,
+15,01countless others, all showing creativity and talent in the way they
+15,01designed their asciis.
+
+15,01  Unfortunately, the times of the great ascii art era appeared to have
+15,01waned. Not many groups thrive still, Remorse is still around, being the
+15,01longest lived group, along with Odelay and a few other smaller ones. The
+15,01Amiga ascii scene also is not thriving as much as it once was, many of the
+15,01older, once highly-active artists are no longer participating as they used

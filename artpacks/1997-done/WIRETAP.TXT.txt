@@ -1,0 +1,15 @@
+15,01              Wiretap: Multi-format dos based file viewer
+
+15,01                    coded by Burning Chrome of cia
+15,01                      graphics by Napalm of cia
+
+15,01             Some quick commands: (docs coming soon)
+
+15,01        F2 - Graphics mode (text mode / 320x200)
+15,01        F3 - Resolution
+15,01        F4 - Color mode (Color/iCE Color/Greyscale/No Color/Hidden Text)
+15,01        F5 - Scrolling (Smooth/Normal/Baud Rates)
+15,01        F6 - File listing mask
+
+15,01        ALT-D - Change Directory
+15,01        ALT-C - Copy File

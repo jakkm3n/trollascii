@@ -1,0 +1,63 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    M  A  R  C  H        1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,01 1.  Hello again from the frozen crew.  It's spring, and that means a  whole
+15,01 new season of iCE artwork!  From the looks of things,  we have a great spring
+15,01 ahead of us!
+
+15,01 2.  News from Human Resources:  Nobody joined,  nobody left, nobody had
+15,01 another slice of pecan pie, nobody defected to Cuba, nobody learned to swim,
+15,01 nobody ran naked through the  streets of Alfred New York,  nobody wore the
+15,01 Godly Plate of Dinner, nobody gave up drawing for lent, and nobody committed
+15,01 suicide and / or castrated themselves.
+
+15,01 3.  News from Information Systems:  There has been some talk that the ice.org
+15,01 network has it's slow/bottlenecking moments.  We understand this and know that
+15,01 it's especially busy around pack time.   But, good news!  The ice.org network
+15,01 will be tripling its bandwidth shortly!  More news on this as it develops!
+
+15,01 4.  Rainmaker and Dev joined  hands and forces  in a mission  of diplomacy, of
+15,01 sorts.  They decided to head to congress to help filibuster, discussing such
+15,01 topics as Quebec's separatist movement and it's effects on the American economy
+
+15,01 and the virtues of various flavors of UNIX.  Rumor has it that an unnamed
+15,01 Senator from Wyoming proclaimed Solaris to be the root of all evil facing our
+15,01 children, and asked for it to be censored by a new decency act!
+
+15,01 5.  This just in from Heaven's Gate:  The object they discovered hiding behind
+15,01 the Hale-Bopp comet was not actually a photograph of the sky from a telescope!
+15,01 Rather, it was a Renderbrandt piece that was fashioned after the Hale-Bopp
+15,01 Comet!  We apologize for any inconvenience and confusion that this has caused!
+
+15,01 6. Congrats to TRIP, he is our gimp of the month!
+15,01 
+15,01 7.  Business as usual for iCE this month?  Somewhat -- no major conspiracy or
+15,01 problem, but just more hard work, great art, and great friends!  Although I
+15,01 say it all the time - keep it up and continue to be proud to be iCE! Special
+15,01 thanks to Black Viper for his great job putting together the iCEPACK this month
+
+
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

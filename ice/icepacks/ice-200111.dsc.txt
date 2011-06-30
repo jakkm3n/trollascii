@@ -1,0 +1,33 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 1/1/2002
+15,01###############################################
+15,01ice-200112.nfo,ANSI,iCE NFO File 12/2001,iCE Staff
+15,01db-digitalgraffiti02.jpg,EXTERNAL,Digital Graffiti 2,DieselBoY
+15,01ag-clus.jpg,EXTERNAL,Clus,Adam Grossi
+15,01de-ice.jpg,EXTERNAL,Digital Elements 01 Blizzard,Dieselboy
+15,01dh-shinigami.jpg,EXTERNAL,Shinigami,Dark Halo
+15,01dh-valkyrie7.jpg,EXTERNAL,Valkyrie 7,Dark Halo
+15,01id_giraffe_in_a_hot_pink_sweater.jpg,EXTERNAL,Giraffe in a Hot Pink Sweater,Ian 
+15,01Dale
+15,01mi-jerri.jpg,EXTERNAL,Jerri,Mongi
+15,01mo-test1e.jpg,EXTERNAL,Cyberathlete Professional League,DJ Monkeyboy
+15,01mo-skateg1.jpg,EXTERNAL,Skate G1,DJ Monkeyboy
+15,01sa-starlight_extinction.jpg,EXTERNAL,Starlight Extinction,Saiyan
+15,01spx-smilewall.jpg,EXTERNAL,The Smile Factory 2,SPX
+15,01spx-tortured_robot.jpg,EXTERNAL,Tortured Robot,SPX
+15,01spx-unwanted_visitor.jpg,EXTERNAL,Unwanted Visitor,SPX
+15,01ss-tank.jpg,EXTERNAL,Tank,Stephen Stahlberg
+15,01te-descending_darkness_i.jpg,EXTERNAL,Descending Darkness 1,Tetanus
+15,01te-descending_darkness_ii.jpg,EXTERNAL,Descending Darkness 2,Tetanus
+15,01te-reduced_to_ash.jpg,EXTERNAL,Reduced to Ash,Tetanus
+15,01tg-summer_walk.jpg,EXTERNAL,Summer Walk,Sleeping Tiger
+15,01th-aging.jpg,EXTERNAL,Aging,Thisign
+15,01th-twilight_of_the_gods.jpg,EXTERNAL,Twilight of the Gods,Thisign
+15,01tt-drugged.jpg,EXTERNAL,Drugged,Tinster
+15,01us-escher.jpg,EXTERNAL,A Tribute to M.C. Escher,samuelf / juzmental / gecko / ro
+15,01ot88 / Primal_r / Fydo / yOp[s] / Essobie / miskate / lastberserker / antaydos /
+15,01 Quantum-X / GRRR / Straxz / Kim / mongi / Jakub Sudra / phooka1 / TonchyZ
+15,01us-untitled2.jpg,EXTERNAL,Untitled 2,samuelf / jito / Primal_r / gecko / darkhal
+15,01o / TonchyZ / feathre / miskate / phuror / wirewolf / antaydos / Jakub / finite 
+15,01/ jmaguire123 / Kim / greg / Xcaponius / gamma
+15,01xebra_spear_fishing_2010.jpg,EXTERNAL,Spear Fishing,Xebra

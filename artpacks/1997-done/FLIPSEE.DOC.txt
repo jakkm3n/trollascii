@@ -1,0 +1,80 @@
+
+
+
+
+
+15,01              .______.      .____        ._____       .______
+15,01       ====== |:     ;\___. || //'______ |     :\ ____|      \  ===-== -
+15,01   -  - ==-== |:  /___|  :| |,//_|      \\      ;|    '\  // ;| ==-== -
+15,01     === = == |;  .__|   :| //' ;|   // ;|\  \ __|  \\ ;| .___| == = ===
+15,01   - - = -=== |.  ;| |   ;| | i .|    .__| \  \\.   .___| |  ;| ===- = - -
+15,01       = == = | F .| |   .|_|.   | P :| |:   s  \\  |  :| e   | = == = -
+15,01       - -= = |____| |  L | ;|___/   ;| '\_______/  e   |____/' = = - -
+15,01    - =  = ========= |_______/===|____|==========\_____/'=====<@T/FLiP= - -
+
+15,01                           v.e.r.s.i.o.n  2.0 [Beta]
+
+
+
+
+
+
+15,01+----------------------------------------------------------------------------
+15,01| What's New
+15,01+----------------------------------------------------------------------------
+
+15,01   new features (version 2.0B) {*} = not yet implemented
+15,01     + faster scrolling
+15,01     + faster ansi reading
+15,01     + loads sauce after listing files (no more waiting for sauce to load!)   
+15,01{*}  + screen dumping (ANS/ASC)
+15,01{*}  + pipecolor (pipecode) viewing
+15,01{*}  + PCB @ color code viewing
+15,01{*}  + karat (^) color code viewing
+15,01{*}  + vesa text modes (requires vesa 1.2+ compliant video card/driver)
+15,01         80x60 132x25 132x43 132x50 132x60
+15,01       (plus the standard video modes)
+15,01         80x25 80x50
+15,01{*}  + define external viewers for files
+15,01     + reads SAUCE from all files
+15,01     + tag files to view
+15,01{*}  + timed slideshow with adjustable speeds
+15,01{*}  + unzip archives (zip, arj, lzh, pak, zoo, arc, etc.)
+15,01{*}  + view file_id.diz from archives
+15,01     + multiple file masks
+15,01     + pull-down menus
+15,01     + command-line viewing   
+
+15,01   features (version 1.0)
+15,01     + all settings are saved in EXE for easy retrieval and minimal annoyance
+15,01     + 25/50 line viewing
+15,01     + scroll back, forward, use page up/down, and home/end
+15,01     + status bar (togglable)
+15,01     + reads SAUCE from ansis
+15,01     + definable scroll speed
+15,01     + % through ansi display
+15,01     + totally original and extremely efficient ansi-decoding routines
+15,01     + no need for an ansi driver
+15,01     + display up to 600 lines
+15,01     + can also be used in windowed dos-based taskers (ie Desqview).
+15,01       (no direct video writes!)
+
+15,01   planned for version 2.x
+15,01     + VGA viewing (VESA modes too)
+15,01     + PCX/GIF/JPG/BMP viewing
+15,01     + mouse support
+15,01     + XMS/EMS scroll buffering (lots more viewable lines)
+
+15,01+----------------------------------------------------------------------------
+15,01| A Word From The Author
+15,01+----------------------------------------------------------------------------
+
+15,01  A hard drive crash just after christmas killed the source code to flipsee
+15,01  1.0, so this is a total rewrite. I apologize for not being able to get a
+15,01  new version out in January, but now that you see the new features I hope
+15,01  you've found it worth the wait. =) As always, comments and critisizms are
+15,01  welcome; and if you're writing your own viewer and need some help, feel
+15,01  free to ask me.
+
+15,01  This version has been pretty much written in two weeks, and even though
+15,01  i've worked really hard to get it finished, A LOT is missing. The full

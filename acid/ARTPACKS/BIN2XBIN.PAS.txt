@@ -1,0 +1,80 @@
+15,01  64, this buffer only needs to be 129 bytes in size (1 byte for the
+15,01  XBHdr.ID      := XB_ID; { 'XBIN' ID                       }n is taking
+15,01  XBHdr.EofChar := 26;    { Mark EOF when TYPEing XBIN      }
+15,01{ XBHDr.Width   :=          Already filled in by LoadBIN()  }*****************
+15,01{ XBHdr.Height  :=          Already filled in by LoadBIN()  }re's the rough
+15,01  XBHdr.FontSize:= 16;    { Default font is 16 pixels high  }
+15,01  {$IFDEF XBIN_RAW}
+15,01     XBHdr.Flags   := $00;{ Compression disabled. no special features are enable
+15,01d }  IF (A_run_is_busy)hen the conditional compilation directive XBIN_RAW
+15,01        IF (Stop_this_run_for_whatever_reason)ompressed file, when XBIN_RAW
+15,01     { --- Write Header ----------------------------------------------------- }
+15,01     WriteLn('Writing XBIN Header');
+15,01     STM_Write(XB,XBHdr,Sizeof(XBHdr));e names of the functions/variables and
+15,01     IF (XB.LastErr<>STM_OK) THEN Abort('Error Writing XBIN File');.
+15,01        add_current_char/attr_pair_to_run;
+15,01     { --- Write image data ------------------------------------------------- }
+15,01     WriteLn('Writing uncompressed image data');s start and end.
+15,01     FOR Lines:=1 to XBHdr.Height DO BEGIN
+15,01        Write(Lines,'/',XBHdr.Height,#13);the way the memory is managed...
+15,01        STM_Write(XB,BIN[Lines]^,XBHdr.Width*2);
+15,01        IF (XB.LastErr<>STM_OK) THEN Abort('Error Writing File');
+15,01     END;bo Pascal in real-mode (DOS), you are limited to having datastructures
+15,01     Write('':79,#13);4Kb in size.  Since BIN2XBIN was intended to handle
+15,01  It looks simple, but implementing it effectively is tricky.  The mostound
+15,01  {$ELSE}ng part will be the "Stop_this_run_for_whatever_reason" routine.
+15,01     XBHdr.Flags   := $04;{ Compression enabled. no special features are enabled
+15,01 }  1) The current run is 64 characters wide, thus, another char/attr pair
+15,01       can't be added.
+15,01     { --- Write Header ----------------------------------------------------- }
+15,01     WriteLn('Writing XBIN Header');.
+15,01     STM_Write(XB,XBHdr,Sizeof(XBHdr));ers a possibility to restart using a
+15,01     IF (XB.LastErr<>STM_OK) THEN Abort('Error Writing XBIN File');
+15,01  Reasons 1 and 2, are easy enough to deal with, the third provides the path
+15,01     { --- Write image data ------------------------------------------------- }
+15,01     WriteLn('Writing compressed image data');etter compression will be.
+15,01     FOR Lines:=1 to XBHdr.Height DO BEGIN
+15,01        Write(Lines,'/',XBHdr.Height,#13);de.
+15,01        XBIN_Compress(BIN[Lines]^,XBHdr.Width);
+15,01     END;----+
+15,01     Write('':79,#13);s (VAR BIN:BINChrAry; BIN_Width : WORD);
+15,01   +---------+
+15,01  {$ENDIF}OMP       = $00;
+15,01      CHAR_COMP     = $40;
+15,01  STM_Close(XB);    = $80;
+15,01      CHARATTR_COMP = $C0; much memory as is needed for the entire BIN, there
+15,01  WriteLn ('Conversion complete.');e thus able to load quite big BINs.
+15,01END.  CompressBuf   : Array[0..2*64] of Byte;
+15,01      RunCount      : Word;
+15,01      RunMode       : Byte;, with say.. 580Mb free, there is about 550Kb free
+15,01      RunChar       : BINChr;
+15,01      CB_Index      : Word;            { Index into CompressBuf               }
+15,01      BIN_Index     : Word;            { Index into BIN_Line                  }
+15,01      EndRun        : Boolean;
+15,01 I don't think the 10*10 screens limit (effectively a bin of 800*250) is really
+15,01BEGIN'limit'. I've not yet seen any ANSi come even close to that.
+15,01  RunCount := 0;                       { There's no run busy                  }
+15,01  BIN_Index:= 0;*************************************************************)
+
+15,01  WHILE (BIN_Index<BIN_Width) DO BEGIN { Still characters to process ?        }
+15,01     IF (RunCount>0) THEN BEGIN        { A run is busy                        }
+15,01        EndRun := FALSE;               { Assume we won't need to end the run  }
+
+15,01        IF (RunCount=64) THEN BEGIN    { We reached the longest possible run? }
+15,01           EndRun:=TRUE;               { Yes, end the current run             }
+15,01        END     = ARRAY [0..3] OF Char;
+15,01        ELSE BEGIN
+15,01           { A run is currently busy.  Check to see if we can/will continue...}
+15,01           CASE RunMode OF             { Max number of lines in the combined BIN
+15,01              NO_COMP       : BEGIN
+15,01                { No compression can always continue, since it does not       }
+15,01                { require on the character and/or attribute to match its      }
+15,01                { predecessor                                                 }
+15,01                    EofChar : Byte;
+15,01                { === No compression run.  Aborting this will only have       }
+15,01                {     benefit if we can start a run of at least 3 character   }
+15,01                {     or attribute compression. OR a run of at least 2        }
+15,01                {     char/attr compression                                   }
+15,01                {     The required run of 3 (2) takes into account the fact   }
+15,01                {     that a run must be re-issued if no more than 3 (2)      }
+15,01                {     BIN pairs can be compressed                             }

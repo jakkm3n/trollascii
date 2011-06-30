@@ -1,0 +1,59 @@
+15,01+-----..-.-------------------------------------------------------. ..------+
+15,01|            14,15 #15,01  m14,15 15,01      m14,15#15,01""14,15 15,01m 14,15 #15,01  14,15  15,01  14,15 #15,01""14,15  15,01 14,15 #15,01     14,15 #15,01                   |
+15,01|            14,15 #15,01  14,15  15,01   m  14,15 #15,01  14,15  15,01 14,15 #15,01  14,15  15,01  14,15 #15,01  "" 14,15 #15,01     14,15 #15,01                   |
+15,01|            14,15 #15,01  14,15  15,01  14,15# 15,01  14,15 #15,01  "" 14,15 #15,01  14,15  15,01  14,15 #15,01     14,15 #15,01     14,15 #15,01                   |
+15,01|             14,15#15,01|14,15  15,01   14,15# 15,01  "14,15#   15,01m 14,15 #15,01|14,15   15,01  14,15 #15,01||   14,15 #15,01     14,15 #15,01                   |
+15,01|            14,15 #15,01  14,15  15,01  14,15#15,01"  mm  14,15  15,01 14,15 #15,01  14,15  15,01  14,15 #15,01  mm 14,15 #15,01  mm 14,15 #15,01  mm               |
+15,01|            14,15 #15,01  14,15  15,01      "14,15#15,01mm14,15 15,01" 14,15 #15,01  14,15  15,01  14,15 #15,01mm14,15  15,01 14,15 #15,01mm14,15  15,01 14,15 #15,01mm14,15  15,01 V1.21         |
+15,01|------------=====================--=---================-===-==----------- |
+15,01|  PROPGRAMMER # NiKOLAUS^[BLANK]                                          |
+15,01|       DESiGN # COSMiC^[RADICAL RHYTHMS]^[D-LUSION]^[BLANK]               |
+15,01|      RELEASE # VERSiON V1.21 -/- 12/17/1994                              |
+15,01|------------=====================--=---================-===-==----------- |
+15,01|                                                                          |
+15,01| # iNTRODUCTiON #                                                         |
+15,01|                                                                          |
+15,01|  Someday I found a cracked version of a programm called X-SHELL on my    |
+15,01|  HDD. I wondered why somone should crack a programm that does little     |
+15,01|  more than calling another programm and found out that the author        |
+15,01|  wanted 10 DM for it. It wasn't even worth 1 DM, so I put up this one.   |
+15,01|  It is 'fcos free, and maybe better than the orginal, have phun.         |
+15,01|                                                                          |
+15,01| # HOW TO USE THE SHELL #                                                 |
+15,01|                                                                          |
+15,01|  Before starting X-Shell just make sure that X-PLAY can be found in your |
+15,01|  path, in the current directory or in the X-SHELL directory, else you    |
+15,01|  will be prompted for the path. That's all.                              |
+15,01|                                                                          |
+15,01| # NEW iN VERSiON 1.1o #                                                  |
+15,01|                                                                          |
+15,01|  You can tag files using [SPACE/INSERT] and tag all files by pressing    |
+15,01|  [+]. [*] will invert the selection and [-] will unselect all files.     |
+15,01|  You can play the tagged files by pressing [F1]. Using [F2] and [F3] you |
+15,01|  can toggle repeated play and shuffle play of the selected files.        |
+15,01|  Pressing [ENTER] will play the CURRENT file ONCE, ignoring the REPEAT   |
+15,01|  option.                                                                 |
+15,01|                                                                          |
+15,01|                                                                          |
+15,01| # NEW iN VERSiON 1.2o #                                                  |
+15,01|                                                                          |
+15,01|  - This version works ONLY with X.PLAY 2.5o and above                    |
+15,01|  - Alphabetical file sorting                                             |
+15,01|  - Jump to a filename by entering its first letters                      |
+15,01|  - It is now possible to change drives from the root directory           |
+15,01|  - Command line switches except '-?' will be passed to X.PLAY            |
+15,01|    (e.g. "X-SHELL.EXE /C4" if you prefer other colors)                   |
+15,01|  - You can toggle ShowBeat(TM) and fadeing by pressing [F4] and [F5]     |
+15,01|  - Search for text in the song-title or the author field by pressing     |
+15,01|    [F6], [F7] continues the search                                       |
+15,01|  = VERSiON 1.21: Removed a bug in version 1.2o that disabled the search  |
+15,01|    for X-PLAY in the X-SHELL path.                                       |
+15,01|                                                                          |
+15,01|                                                                          |
+15,01|                                                                          |
+15,01|  This program may be  distributed  freely  as long no fee is charged for |
+15,01|  distribution. If you do copy this program, then copy it for FREE !!!    |
+15,01|                                                                          |
+15,01|  X-Tracker Player(c) 1993, 1994 by RAY & COSMIC                          |
+15,01|                                                                          |
+15,01+=================================--=---===================================+

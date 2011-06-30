@@ -1,0 +1,80 @@
+
+15,01                          RELiCVu v. 2.61x
+
+15,01                              code by
+15,01                            Greater Evil
+15,01                          
+15,01                             layout by
+15,01                             Hunchback
+15,01                             
+15,01                      Monkey Support Design by
+15,01                             Hunchback
+
+15,01                                                 
+15,01"I be sharp, sharp, sharp, man!" -some guy on tv.
+
+15,01stuff:
+15,01    # 6 different resolution modes, <= VGA. 
+15,01    # Scrollback and Ansimation in every video mode.
+15,01    # On-the-fly SAUCE definition loading.
+15,01    # Full path/filespec switching support.
+15,01    # FAST RIPscript viewing
+15,01    # BiN viewing at up to 510 columns wide
+15,01    # Config loading.
+15,01    # Monkey support    
+
+15,01Hardware requirements:
+
+15,01    For basic operation, RelicVu requires only an 8086 with an IBM
+15,01compatible color display adapter.  Several features, however, take 
+15,01advantage of newer hardware, and these are listed below:
+
+15,01    320x200, 320 Wide video modes          VGA video
+15,01    640x480, 640 Wide video modes          VGA video
+15,01    iCEColor                               VGA video
+15,01    Grayscale                              VGA video
+15,01    RIP viewing                            EGA video
+15,01    BIN viewing (smooth panning)           VGA video
+
+15,01[New stuff in This Version 2.61x!!]
+15,01    Christmas holidays!!  I did some work on this thing!!  Here's 
+15,01all the cool stuff I changed/added between finals and my Christmas
+15,01trip to Mexico!!
+15,01    
+15,01     # Fixed VGA mode so it is ultra smooth!!  Even used some self-
+15,01       modifying code in the process!!
+15,01     # Put 320x200 Wide mode Back in!!
+15,01     # Speeds work in tha 320 Modes again!!
+15,01     # Finally put in the directory traversal stuff!!  Now you can
+15,01       change directories without typing them in!!  Shinobi is tha
+15,01       shit!!
+15,01     # Fixed the wide mode mis-detection bug!!  Flood is tha shit!!
+15,01     # Fixed the occasional color screwups in 320x200!!  Jello is
+15,01       tha shit!!
+15,01     # Put in QuickKeys!!  For lazy ppl who hate pulldowns!!  Read
+15,01       the Command summary!!
+15,01     # The default value for Monkey Speed was increased in
+15,01       Relicvu.cfg!!  It's still there, it just takes longer now,
+15,01       ok??!!  If you don't like it, edit it yourself!!
+15,01-=-
+15,01      
+15,01Command summary:
+
+15,01**See below for QuickKeys**
+
+15,01F1 - Help - displays a brief summary of commands.
+
+15,01F2 - Resolution - allows user to select display mode.  These 
+15,01     modes include: 
+15,01     80x25              text, scrollback, ansimation
+15,01     80x50              text, scrollback, ansimation
+15,01     320x200x256        MCGA, scrollback, ansimation
+15,01     320 Wide           MCGA, scrollback, ansimation
+15,01     640x480x16          VGA, scrollback, ansimation
+15,01     640 Wide            VGA, scrollback, ansimation
+15,01     
+15,01F3 - Path - allows user to change directories/filespec.  The file
+15,01     list will be updated accordingly after returning to the
+15,01     interface.  The default masks are specified in RELICVU.CFG.
+15,01     RELiCVu supports up to 4 masks.  The fourth mask is specifiable
+15,01     via commandline; i.e., "RELICVU *.ANS" will load RELiCVu with

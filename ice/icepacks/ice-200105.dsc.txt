@@ -1,0 +1,28 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 6/1/2001
+15,01###############################################
+15,01ice-020105.nfo,ANSI,iCE NFO File 5/2001,iCE Staff
+15,01d3-domestic_hell.jpg,EXTERNAL,Domestic Hell,Defected
+15,01d3-forgotten_wonder.jpg,EXTERNAL,Forgotton Wonder,Defected
+15,01DM-AW.jpg,EXTERNAL,Angel Wings,Darkmage
+15,01em-iceborg.jpg,EXTERNAL,Ice Borg,Empyrean
+15,01id-giraffe.jpg,EXTERNAL,Ian Dale,Giraffe
+15,01ie-red_promo.jpg,EXTERNAL,Red Promo,Ien
+15,01ie-red_promo2.jpg,EXTERNAL,Red Promo 2,Ien
+15,01jm-astronaut.jpg,EXTERNAL,Astronaut,Jamie McCarter
+15,01mdk-nofruitloops.jpg,EXTERNAL,No Fruit Loops,MDK971
+15,01mdk-soulreaver.jpg,EXTERNAL,Soul Reaver,MDK971
+15,01ss-cloud2.jpg,EXTERNAL,Could 2,Steven Stahlberg
+15,01ss-dragonfly.jpg,EXTERNAL,Dragonfly,Steven Stahlberg
+15,01ss-vampire.jpg,EXTERNAL,Vampire,Steven Stahlberg
+15,01te-gehenna.jpg,EXTERNAL,Gehenna,Tetanus
+15,01te-somatic_death.jpg,EXTERNAL,Somatic Death,Tetanus
+15,01ti_Shana.jpg,EXTERNAL,Shana,Tinster 
+15,01ti_The_Smoking_Car.jpg,EXTERNAL,The Smoking Car,Tinster
+15,01ti_The_Vigil.jpg,EXTERNAL,The Vigil,Tinster
+15,01us-dragoon.jpg,EXTERNAL,Dragoon,Root88/Tetanus
+15,01us-quilt12.jpg,EXTERNAL,We Are Not Elitists We Just Work Hard,corpcow/empyrean/E
+15,01ssobie/Funfetus/GRRR/kirbyUFO/leo/MrBeefy/nessahead/nokturnal/Reko/root88/sage/T
+15,01etanus/tinster/Valacar
+15,01xb-electric_dreams.jpg,EXTERNAL,Electric Dreams,Xebra
+15,01xb-navcon.jpg,EXTERNAL,Navcon,Xebra

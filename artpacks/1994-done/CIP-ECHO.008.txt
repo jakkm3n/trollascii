@@ -1,0 +1,67 @@
+
+15,01        14,15 15,01"" 14,15   15,01 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01"14,15 15,01    14,15 15,01 14,15 15,01m||   14,15   15,01 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15 15,01""
+15,01        14,15 15,01mm 14,15 15,01"m 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01mm    14,15 15,01 14,15 15,01|14,15 15,01|   14,15 15,01   14,15 15,01"m 14,15 15,01m14,15 15,01 14,15 15,01m14,15 15,01 14,15 15,01"m 14,15 15,01mm mm14,15 15,01 mm14,15 
+
+15,01                     ### CRiME iN PROGRESS NETWORK ###
+15,01                           Echolist #8 (08/18/94)
+
+15,01AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvA
+
+15,01                           -/- iLLEGAL EMBASSY -/-
+15,01                             CiPNet WHQ (18:18/0)
+15,01  
+15,01      -/- CELL BLOCK 4 -/-                         -/- Stellar Nights -/-
+15,01        CiPNet Cen. US Hub                            CiPNet E. US Hub
+15,01            (18:815/0)                                   (18:610/0)
+15,01  
+15,01AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvA
+
+15,01  New Additions: None
+15,01        
+
+15,01  Deletions:     TiTAN Sub    
+15,01              
+
+15,01  Changes:       None
+15,01                                
+15,01                                AREA LISTING
+15,01                              ----------------
+15,01  ! = Sysop Access only   # = Areas you must carry    C = CiA Members Only
+15,01  M = Main Hubs Only      * = New Sub                 D = DoPE Members Only
+15,01                                                      R = RaVE Members Only
+15,01                         # CIP-MISC   General Chatter
+15,01                           CIP-ANSI   ANSi Scene
+15,01                           CIP-ADS    BBS Ads
+15,01                           CIP-MUSC   Musical Interests
+15,01                           CIP-LIT    Literature Discussion
+15,01                           CIP-PROG   Programming
+15,01                           CIP-WARE   Warez Talk
+15,01                           CIP-GTIP   Game Tips
+15,01                           CIP-BBS    BBS Software
+15,01                           CIP-CONS   Console / Arcade
+15,01                           CIP-HARD   Hardware
+15,01                           CIP-BMKT   Black Market
+15,01                           CIP-SPRT   Sports Forum
+15,01                           CIP-ENT    Entertainment
+15,01                           CIP-DEBT   Current Debates
+15,01                           CIP-SUGG   CiP Suggestions
+15,01                           CIP-CIAP   CiA Public Forum
+15,01                           CIP-DOPP   DoPE Public Forum
+15,01                           CIP-RAVP   RaVE Public Forum
+15,01                       !#  CIP-SYS    Sysop Base
+15,01                       !#  CIP-TEST   Test Messages
+15,01                        C  CIP-CIAM   CiA Members Only
+15,01                        D  CIP-DOPM   DoPE Members Only
+15,01                        R  CIP-RAVM   RaVE Members Only
+15,01                        M  CIP-MGMT   CiP Net Management
+
+
+
+15,01 NOTE: If your group would like an area of their own, public and/or private,
+15,01        contact: 
+15,01                                                                         
+15,01 Tron              on  Illegal Embassy      at  513-923-4984  NUP: united
+15,01 Malicious Intent  on  Cell Block 4         at  815-282-8732
+15,01 The Wizard        on  The Stellar Knights  at  610-896-9140
+15,01        
+15,01                     OR on our VMB at 800-245-4366

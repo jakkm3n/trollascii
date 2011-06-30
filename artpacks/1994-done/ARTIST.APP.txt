@@ -1,0 +1,53 @@
+15,01[Jihad...General]
+
+15,01Handle:
+
+15,01Give us a 2 letter abbriviation of your handle:
+
+15,01Full name:
+
+15,01Age:
+
+15,01Voice #:
+
+15,01Data #:
+
+15,01Inter Net email address:
+
+15,01City, State:
+
+15,01Country:
+
+15,01Computer type:
+
+15,01Previous groups:
+
+15,01Do you run a board?
+
+15,01        Name:
+15,01        Number:
+15,01        NUP:
+
+15,01[Jihad...Artist]
+
+15,01Type:
+15,01        [ ] Ascii
+15,01        [ ] Rip
+15,01        [ ] Low-rez VGA
+15,01        [ ] Hi-rez VGA
+
+15,01Program used:
+
+15,01Graphics card:
+
+15,01How long have you been drawing?:
+
+15,01Do you do FART or do you rip (ie:  origional, or comics):
+
+
+15,01Now, zip this up with a sample of your best work and return it to me at:
+15,01        Eleutheria
+15,01        Harvest Moon
+15,01        Terra Firma
+15,01        email:  hFaze@cybernetics.net
+15,01        dcc it to me on irc

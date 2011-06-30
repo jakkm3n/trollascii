@@ -1,0 +1,80 @@
+
+15,01    mmmmmmm         mmmmmmm                          mmmmmmmmmmmmm
+15,01    |00,15|00,00  # 14,15 15,01         14,15 00,00    00,15|15,01|  iCE(tm) Advertisements  |00,15|00,00          00,15mmm 15,01mm
+15,01    |00,15|00,00    00,15|15,01|       |00,15|00,00    00,15|15,01|   and Highness present   |00,15|00,00   14,15 15,01"""14,15 00""""00,00## 00,15m14 15,01m
+15,01     14,15 15@@@00,00 00,15|15,01|  |00,15 15,01|  |00,15|00,00### 14,15 15,01                            14,15 00,00   00,15|15,01|      """14,15 00"00,00#00,15 14 
+15,01 00,14#14,15  15,01 14,15 00###15@00|14 15,01  00,15 m14 15,01  14,15 15@@@@00,00 14,15 15,01 00,14#14,15   15,01"""""14,15      15,01"""""""14,15   00,14#15,01 14,15 00,00#15,15@@@15,01||14,15      "14,01m15 14,15  00#14  15,01 14,15  01@
+15,01 14,14 14,15  15,01||14,15   00#00,00#14,15 15,01 |00,15#00,00#15,15@15,01| 14,15 00##14  15@15,01|14|14,15| 15,01" 00#mmm15  "14,15    15,01  00mmmm15  "14,15 |14,01|15|00,15#14    15,01 14,15       |14,01|15|14,15   00#15,01||14,15 00,14 
+15,01 14,14 14,15  15,01||14,15 00#14  00#14 15,01|14,15 00  14  15,01|14,15      15,01|14|14,15|15,01| 00|14,00#00    00,01|15 |14,15   15,01  00,00####14#00,01#15 |14,15|14,01|15|14,15###00#14 15,01 14,15        00,14#15,01 14,15#  # 15,01 14,15 00,14 
+15,01 14,14 14,15   15,01 14,15        15,01"00@00,15 14  00#14  ## 15,01 00,14#14,15 15,01  00,00#######15,01  14,15   15,01  00,15#####15,01| |14,15 00,14#15,01 14,15 15,01##14,15# 15,01||14,15       00,14#15,01 00,15#14 #15,01#14,15 15,01 14,15 00,14 
+15,01 14,14 14,15   15,01 14,15     ###15,01#14,15##   ##15,01 00@14,15 15,01 00,14#14,15 15,01  00,15#######15,01  14,15#  15,01  """"  m14,15  00,14#15,01 14,15 15,01  00@@15||14,15      |14,01|15|00@@15#m||14,15 00,14 
+15,01 14,14 14,15   15,01||14,15# ##15,01  #|||14,15###15,01## ||14|14,15| 15,01| |14,15     15,01| 14|00,14#14,15##15,01  mmmm14,15#15,01""14,15  |14,01|15||   14,15 15,01 14,15      00,14#15,01 14,15#15,01## 14,15#15,01 14,15  00,14 
+15,01 14,14 14,15   15,01||14,15  15,01##   14,15 15,01  14,15 00,01@15    ||14|14,15|  15,01m  """  14|01,15@00,01@01,15@@15,01  01,15@@@@@15,01| |14,15 |14,01|15|| # 14,15 15,01 """14,15  00,14#15,01 ||  14,15#15,01||14,15  00,14 
+15,01 01@14,15    15,01 14,15 00,01@15     |14|15||| #  ||14|14,15|  m 15,01m14m15m14mm14,14#00##15,01#00,14##14,01mm00,14######14,01mm14,15 01@14,01|15||   ""14,15  15,01mmm  14,15 15,01  || 14,15   00,14#
+15,01       14,15 15,01   ## |  |mmm14,15 15,01"""       14 15                      """14,15 15,01mmmmm14,15#15,01""14,15 00,01@15"  14,15 14,01hn15  
+15,01       |#   mm14,15 15,01  ""      Word/Literature  December 1995      """14,15   15,01m  #|| 
+15,01       |mm14,15 15,01""                                                      ""14,15 15,01mm|
+15,01       "" 00   Highness's Poetry Section / All Literature By Highness   15 "" 
+15,01           00                                      
+00,01----15--00-15-00-----15-00-15-----00-15-00--15-00--15--00-15-00-15-00--------15-00-------------------------------------
+
+00,01  151.00 Your Love              
+00,01                             
+00,01     My body is burnt, my soul is black;
+00,01     Of all I have, your love I still lack.
+00,01     Visage burned to memory, name to soul;
+00,01     Alone I am torn, with you I am whole.
+
+00,01     Without you I fade, slipping from the light;
+00,01     To the mind's depth I fall, no end in sight.
+00,01     You watch me plummet, your face a dark mask;
+00,01     Love never dwindles, for help I won't ask.
+
+00,01     My body strikes the ground, my sanity explodes;
+00,01     I lay in a crimson heap, my eyes watch and forbode.
+00,01     I silently cry for mercy, but my will falters not;
+00,01     Yet I smile as I think of who I've eternally sought.
+
+00,01     The blackness closes in I am lost and alone;
+00,01     My eyelids close, the unknown is now known.
+00,01     But when all is over and all is lost,
+00,01     Over the boundaries of death a warm hand has crossed.
+
+00,01     Mortality fills me with the red kiss of life;
+00,01     Gone are the pain, the torture, the strife.
+00,01     Now I am with you, and you are within;
+00,01     Our love overcomes the black of my sins.
+
+00,01     I smirk in rapture, a secret, curious smile;
+00,01     In the grasp of your love I am charmed, beguiled.
+00,01     Our hands and hearts clasped, my soul returns to me;
+00,01     Together we shall create our own eternity.
+00,01                    
+15,01     Only poem written with a 'happy ending'.  Narrator is alone, missing
+15,01     'her', a loved one.  She rejects him, and losing his mind, he finds
+15,01     himself on the edge of death.  Just before dying, she comes to his
+15,01     rescue ('over the boundaries .. has crossed').  Poem also hints at
+15,01     how the love of two people can save a dark soul.  Last verse makes
+15,01     remarks at how eternity is not found with god, it is found within
+00,01 15    each other.
+
+15,01     14Previously released in Hoard Magazine #1; RAGE Productions 08/94
+
+00,01----15--00-15-00-----15-00-15-----00-15-00--15-00--15--00-15-00-15-00--------15-00-------------------------------------
+
+00,01  152.00 I Shone 
+
+00,01     The world tastes much better,
+00,01     Now that I'm finally gone.
+00,01     The waters are wetter,
+00,01     And the words became a song.
+
+00,01     She that I so loved,
+00,01     Fled as I faded away.
+00,01     Yet without blood, I bled,
+00,01     When I died, I had no say.
+00,01     
+00,01     I'll never forget her,
+00,01     And I'll wait for her sign.
+00,01     My love tastes forever,
+00,01     Her beauty words couldn't define.

@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :      June Update *       July 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0795.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-TEE GIF | 164921 |07.01.95 |%    | ACiD T-Shirt Promo             |
+15,01*|2  |ACID-TEE NFO |   4188 |07.01.95 |%+   | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID0695 ANS |   4957 |07.01.95 |%+   | June 1995 Member/Board List    |
+15,01*|4  |ACIDAPP  EXE |  35277 |06.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW CFG |   3973 |03.01.95 |%+   | ACiD View configuration        |
+15,01*|6  |ACIDVIEW EXE | 168756 |03.01.95 |%    | ACiD View version 3            |
+15,01*|N/C|ACIDVIEW NFO |  42282 |07.01.95 |%+   | ACiD View Documentation        |
+15,01*|7  |ALC0795A ANS |  58126 |07.01.95 |%+   | ACiD logocluster #6 (07/95)    |
+15,01*|8  |ALC0795B ANS |  57379 |07.01.95 |%+   | ACiD logocluster #7 (07/95)    |
+15,01*|9  |ALC0795C ANS |  51459 |07.01.95 |%+   | ACiD logocluster #8 (07/95)    |
+15,01*|10 |AR-STRM1 ANS |  42777 |07.01.95 |%+   | Storm Front                    |
+15,01*|11 |AVW1601B ZIP | 153046 |07.01.95 |%    | ACiD View for Windows 16-bit   |
+15,01*|12 |AVW3201B ZIP | 158454 |07.01.95 |%    | ACiD View for Windows 32-bit   |
+15,01*|13 |AY-BK1   ANS |   8524 |07.01.95 |%+   | Bat Kave                       |
+15,01*|14 |AY-BY1   ANS |  19654 |07.01.95 |%+   | Beyond                         |
+15,01*|15 |AY-UTI3  ANS |  25118 |07.01.95 |%+   | Under The Influence            |
+15,01*|16 |BD-EVOL1 RIP |  34394 |06.20.95 |%    | Evolution Emag                 |
+15,01*|17 |BD-GODS  RIP |  30482 |06.21.95 |%    | God's Realm                    |
+15,01*|18 |BK-TD2   ANS |  30331 |07.01.95 |%+   | Terminal Drift                 |
+15,01*|19 |BM-HUMA  GIF |  67342 |07.01.95 |%    | huma!                          |
+15,01*|20 |BM-LAN   GIF |  70394 |07.01.95 |%    | Lan's Laughter                 |
+15,01*|21 |BM-TU2   RIP |  33735 |06.23.95 |%    | The Unknown                    |
+15,01*|22 |CS-ACID1 GIF | 220061 |07.01.95 |%    | ACiD Homepage Promo            |
+15,01*|23 |CS-BOG1  GIF | 167064 |07.01.95 |%    | The BoG                        |
+15,01*|24 |CS-TALA1 GIF | 204023 |07.01.95 |%    | Taladas                        |
+15,01*|N/C|FILE_ID  DIZ |    695 |07.01.95 |%    | Acquisition FILE ID by {LD}    |
+15,01*|25 |GAS-TT1  ANS |  63024 |07.01.95 |%+   | Termite Terrace                |
+15,01*|26 |HAL-ACID ANS |  12932 |06.20.95 |%+   | ACiD '95                       |
+15,01*|27 |IV-ACID  ANS |  25460 |06.28.95 |%+   | "Need I Say More?!?"           |
+15,01*|28 |IV-BADL1 ANS |  32019 |07.01.95 |%+   | The BadLands                   |
+15,01*|29 |LD-D2    RIP |  29060 |07.01.95 |%    | Dungeon 2                      |
+15,01*|30 |LD-GLUE1 BIN |  13889 |07.01.95 |%+   | Glue                           |
+15,01*|31 |LD-HUMA1 ANS |  28407 |07.01.95 |%+   | huma!                          |
+15,01*|32 |MK-ACID  EXE |   7337 |07.01.95 |%    | ACiD Spintro                   |
+15,01*|33 |P1-ACID1 RIP |  25444 |06.16.95 |%    | ACiD - Where legends are made  |
+15,01*|34 |P1-DL1   RIP |  39579 |06.13.95 |%    | Deathland                      |
+15,01*|35 |P1-SBZ   RIP |  48915 |06.17.95 |%    | Sushi Bar Z                    |
+15,01*|36 |RN-SUCCO RIP |  20066 |07.01.95 |%    | Succotash                      |
+15,01*|37 |SM-EVOL1 RIP |  60418 |06.28.95 |%    | Evolution Emag                 |
+15,01*|38 |SRAT-TP1 ANS |  10537 |07.01.95 |%+   | Territorial Pissings           |
+15,01*|39 |SS-RAZOR GIF | 144206 |07.01.95 |%    | Razor 1911 Promo               |
+15,01*|40 |STC-APOC ANS |  82583 |07.01.95 |%+   | Apocalyptic City               |
+15,01*|41 |US-DISEM ANS |  39028 |06.29.95 |%+   | Disembodied Voices             |
+15,01*|42 |US-LAN1  ANS |   4676 |06.23.95 |%+   | Lan's Laughter                 |
+15,01*|43 |US-SUCC1 ANS |  26346 |06.27.95 |%+   | Succotash                      |
+15,01*|44 |US-TPAN1 RIP |  33624 |07.01.95 |%    | The Pantheon                   |
+15,01*|45 |WE-WILL  SUE |   1662 |07.01.95 |%+   | ACiD Legal Disclaimer          |

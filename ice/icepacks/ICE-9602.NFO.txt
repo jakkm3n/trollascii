@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01RICK HADSALL IS A BIB  "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||LE THUMPIN RACIST PIG
+15,01----------------------#m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "--#"------------------
+15,01 (I had to ft, it      |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01  was begging to be     00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01   done.. :D)           #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+
+15,011.  iCE has once  again  taken  a step  in designing  web  pages.  Our art has
+15,01    appeared  on  more pages  this  month, and  the  group has begun design of 
+15,01    another web  page (html and pics) for  an  organization.  Friar  Tuck  has 
+15,01    taken  a step  in  fighting airbourne  microbes using the power of reason.
+15,01    Force Ten took a step, but tripped. 
+
+15,012.  Hard  to imagine  some  of  the great accolades and achievments our motley
+15,01    crue have been achieving, you'd think that we were a dominant force in the 
+15,01    art  scene  (wait a sec, that's right.. we are. :)).  Our very own Tonedef 
+15,01    has  achieved  great  success  in  the  commercial  world  doing  computer 
+15,01    animation segments for a Saturday morning cartoon show on CBS, in addition 
+15,01    to  landing  a job designing some of the web pages for IBM.  Kabal13, that 
+15,01    wacky  and creative  VGA  maniac, also delves in the world of print media, 
+15,01    making a  mixed  media comic on a regular basis.  More noteworthy however, 
+15,01    he won special  accolades  nationally for having the best school newspaper 
+15,01    based  art  project in the US...  congratulations  go  out  to him on that 
+15,01    special achievment.  Basehead, a music department favorite has just signed 
+15,01    a 6 game contract  with  Origin Systems to produce musical soundtracks for 
+15,01    your  upcoming  favorite  games.   Also  Natex, a necessarily inactive iCE 
+15,01    coder, has  found  happiness  in  the Microsoft halls.  He created a CDROM 
+15,01    that  went  on  every seat at the Super Bowl (go Cowboys, rah rah), and is 
+15,01    now  creating "The Internet Starter Kit".  Look at it in a store near you, 
+15,01    but  don't leave smudges  on the shiny clean windows.  That'll just create 
+15,01    more work for the newly-promoted chief janitor, Shaggy.
+
+15,013.  iCE  would  like  to  announce the re-creation of our iCE Euro department!
+15,01    Members  from  the  group  FUEL have become willingly assimilated into the
+15,01    wonderful  thing  that is iCE.  In  this wonderful synergism of talent, we
+15,01    hope  to  make  ourselves  a  more worldwide  presence,  which  gives  iCE
+15,01    opportunities  to  participate in european demo contests, and in addition,
+15,01    iCE  welcomes  a  bunch  of  fun loving yet mature members who know how to
+15,01    enjoy themselves.   We are truly proud to have them represent the iCE name
+15,01    in  Europe!    Welcome to:  The Knight,  Necrofiliac,  Thrasher,  Dikarpo, 
+15,01    Tung Lo,  Pooh, Night Angel, Warlord, Count Drakula in ANSI; Deep Freezer,
+15,01    Silver Eagle, Mabuse, Ben Hurry, Byron in Coding; Kovax!, Fred, Black Lion 
+15,01    in Music;  and  Cray  and  Lyfe  in VGA.  This completes our collection of 
+15,01    knightly  names: White Knight,  The  Knight,  The Night  Angel, and  Night 
+15,01    Angel.  Slothy  the  psychic  would  like to forecast a handle change next 
+15,01    month, as  it  would  please  the  Mr. Bimble,  the  man in Fozzy's thumb.
+
+15,014.  On a more serious note, we'd like  to  mourn the passing of Lemonade's pet 
+15,01    gerbil to the viscious and foul-tempered  ferret Smedly.  We will all miss 
+15,01    the little guy, but, for some reason though,  Mass  Delusion  seems overly 
+15,01    distraught.  Wonder why.  Hell, he even  sent  Syntax  the plastic tubing.
+
+15,015.  I'd like to apologize on  behalf  of  the minimally exceptional Lord Soth.  
+
+15,01    He inadvertently created the  memberlist without gracing upon it the names 
+15,01    of Snake Grunger, Magnetic M,  and Anarchy.  We apologize for this heinous 
+15,01    error, and acknowledge their activity with solemn love.  Syntax would like 
+15,01    it known that he doesn't  acknowledge  anything  with  solemn  love,  so a 
+15,01    little chuckle will have to do.  I  also  must  note  that Magnetic M is a 
+15,01    trademark of MM Enterprises.  All Rights  Reserved.  (woo!  happy one year 
+15,01    anniversary Xavier!  Here's to  12 months  of good times. :))  Allusion to
+15,01    Anarchy with permission of  the  artist  formerly known as Shaggy (aka Old
+15,01    Dirty Bastard).
+
+15,016.  This .NFO file is 100% Fat Free and contains No Sugar or Additives!
+
+15,016b. Pet peeve  of  the  month:  groups who retain members specifically for the

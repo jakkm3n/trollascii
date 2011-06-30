@@ -1,0 +1,44 @@
+15,01     00m00,00#00,01m15        00m00,00#00,01m   m00,00#00,01m15     00m00,00#00,01m    m00,00#00,01m  m00,00#00,01m15        00m00,00#00,01m  m00,00#00,01m15          00m00,00#00,01m
+00,01   m" "00,00##00,01m    m" "00,00#00,01| 00,00#00,01" "00,00#00,01m m" "00,00##00,01m " "00,00#00,01| m"00,00##00,01m15     00" "00,00#00,01| m"00,00##00,01m15      00m" "00,00##00,01m
+00,01 m00,00#00,01|    "00,00##00,01m"|15     00,00#00,01||    00,00##00,01|   |00,00#00,01|    |00,00#00,01||  "00,00##15,01 00m00,00#15,01    00|00,00#00,01||  "00,00##15,01   00m00,00#00,01|    "00,00##00,01m"
+00,01|00,00##15,01      00m"  |15     00|00,00#15,01     00|00,00#15,01    00,00##15,01      15,15@@15,01    00|00,00#00,01| 00,00#00,01"    15,15@@15,01    00|00,00#00,01| |00,00##15,01      00m"
+00,00##00,01|    m"    |15     00,00#00,01|15     00,00#00,01|   |00,00#00,01|  m   00,15#15,01|   00m00,00#00,01"   m m  00,15#15,01|   00m00,00#00,01"  00,00##00,01|    m"
+15,15@00,00#00,01|  m"15       00"mm 15|15,15@15,01 00mm" 15|00,00#15,01    15,15@00,00#15,01    00""m00,15m00,01mm"""   m00,00#00,01|  "m00,15m00,01mm"""    15,15@00,00#00,01|  m"
+00,15#15@00,01| "15            00"00,15"00,01""    15,15@15,01|   |00,15#15,01|       00,15#15,01        00|00,00#15,01     00,15#15,01   00"m    00,15#15@00,01| "
+15,01|00,15#15@15,01       m"     ||     |00,15#15,01    00,15##15,01        00,15#15,01         15,15@15,01     00,15#15,01    00,00##15,01   |00,15#15@15,01       m"
+15,01 "00,15##15,01m   m"       00,15#15,01 m    00,15#15,01|    |00,15##15,01   m   00,15#15,01         00,15#15,01     00,15#15,01    00|00,00#15,15@15,01   "00,15##15,01m   m"
+15,01   "00,15##15,01m"        |00,15#15,01"    |00,15#15,01m"    "00,15##15,01m"   |00,15#15,01m"       00,15#15,01|m" |00,15#15,01m"   00"15,15@00#15,01m"  "00,15##15,01m"
+15,01    m"         m"      |"       m"     |"         |"   |"      m"     m"
+
+
+15,01                        14Fontwork by EinsteiN [EMPiRE]
+
+
+15,01          Well I'd just like to start off by saying this pack wouldn't have
+15,01     been possible without the efforts of Inquisitor and Primordial Chowder.
+15,01     We were unable to contact SS until a few weeks ago so we are going to
+15,01     release the pack without him...Primordial and Inquisitor took over and
+15,01     they ran it for a short while, then they handed it over to Hooptie who
+15,01     in turn handed it down to me and Night Crawler...from there we picked up
+15,01     where the others left off...due to all the confusion about who was in
+15,01     charge, etc. we lost a few members including Strife...as far as the
+15,01     rumors go, EMPiRE is NOT DEAD! This month's pack has a lot of high
+15,01     high quality work...if your interested in joining EMPiRE you can
+15,01     call Eternal Nightfall, 412.439.2831 and apply online or you can get
+15,01     in touch with any senior staff member or coordinator...well i'm outta
+15,01     here!!
+
+15,01                                                   Shadow Hawk
+15,01                                              [EMPiRE/Psychosis/FS]
+15,01     Greets:
+
+15,01     Inquisitor: i guess i missed all the fun =(
+15,01     Primordial Chowder: "Romeo, Romeo, Where for out thou Romeo?" (How's
+15,01                          that play practice?)
+15,01     Night Crawler: Why do they always call me for the damn conferences?!?
+15,01     Einstien: that ansi rulez!
+15,01     ShadowSorcerer: where the hell are you man?
+15,01     Dark Deception: when are you going to be on MTV?
+15,01     CyberHack: Heard from the General lately?
+15,01     Aerosol: where's my ansi?
+15,01     Kinayda: let's smoke some pot!

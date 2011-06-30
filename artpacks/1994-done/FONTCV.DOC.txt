@@ -1,0 +1,6 @@
+15,01        FontConvert converts PC Magazine's FONTEDIT files
+15,01to .FNT files which can be used with FONTED and SVBUILD.  The
+15,01FONTEDIT file MUST have a .COM extension, and the resulting
+15,01FontEd file will have a .FNT extension.
+15,01        This conversion will reduce the file size by 4195 bytes
+15,01(From 8291 bytes to 4096 bytes).

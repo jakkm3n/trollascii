@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : December Update   *   January 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0193.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-93  EXE |  21320 |12.30.92 |%x   | ACiD Loader by Cerebrus/MFalcon|
+15,01*|2  |ACID-RN  ANS |   3245 |12.07.92 |%    | ACiD Logo by R.Noble           |
+15,01*|3  |ACID-SC2 ANS |  15602 |12.04.92 |%A   | ACiD Logo by Sonic          (2)|
+15,01*|4  |ACID93   ANS |   6461 |12.03.92 |%+   | ACiD Member List for January   |
+15,01*|5  |ACID93IM ANS |   6450 | 1.01.93 |%+   | ACiD 1993 Logo Innate Malice   |
+15,01*|N/C|ACIDART  APL |   4916 |12.17.92 |%+   | ACiD Artists Application Form  |
+15,01*|N/C|ACIDCOUR APL |   3416 |12.17.92 |%+   | ACiD Courier Application Form  |
+15,01*|6  |ACIDZN2  ANS |  10690 | 1.01.93 |%+   | ACiD Logo by Zed Nitro      (2)|
+15,01*|7  |BADLACD5 ANS |  17770 | 1.01.93 |%+   | BadLands                    (5)|
+15,01*|8  |CCIACID2 ANS |  20285 | 1.01.93 |%+   | CyberCrime International    (2)|
+15,01*|9  |CN2ACID  ANS |  65463 |12.14.92 |%Ax+ | Carbon Nation               (2)|
+15,01*|10 |DC4ACID1 ANS |   2209 |12.09.92 |%    | Def Con 4                      |
+15,01*|11 |DINOFLT  ANS |   4355 |12.14.92 |%+   | Fairlight Logo "Cracking..."   |
+15,01*|12 |DSOCACD6 ANS |  24371 |12.13.92 |%x+  | Dark Society                (6)|
+15,01*|N/C|FILE_ID  DIZ |    307 | 1.01.93 |%    | Acquisition FILE ID by Cerebrus|
+15,01*|13 |FLT1-VN  EXE |  16439 |12.08.92 |%    | Fairlight VGA by VindicatioN   |
+15,01*|14 |FREDACID EXE |  11797 | 1.01.93 |%    | Bedrock EGA/VGA ANSi           |
+15,01*|15 |MERC3ACD ANS |   6683 |12.26.92 |%+   | Mercury Logo                (3)|
+15,01*|16 |MHPACID1 ANS |   5237 |12.01.92 |%+   | Manhattan Project           (1)|
+15,01*|17 |MHPACID2 ANS |  77158 |12.28.92 |%Ax+ | Manhattan Project           (2)|
+15,01*|18 |PHYDAM   EXE |   8516 | 1.01.93 |%x   | Physical Damage Loader         |
+15,01*|19 |PYRACID1 ANS |  87794 |12.30.92 |%Ax+ | Pyradical                      |
+15,01*|20 |SINACID1 ANS |   1602 |12.25.92 |%    | Sinister Logo                  |
+15,01*|21 |SOKACID2 ANS |  59979 |12.22.92 |%A+  | SoKrates Transvaluation     (2)|
+15,01*|22 |SOVACID1 ANS |  15735 | 1.01.93 |%+   | Spyrits of Vengeance        (2)|
+15,01*|23 |TDT-CE1  ANS |  36871 |12.28.92 |%+   | TDT Mega-Scroller by Cerebrus  |
+15,01*|24 |TED2ACID ANS |  16957 |12.24.92 |%+   | The Elusive Dream           (2)|
+15,01*|25 |TRIN-BR  ANS |   2845 |12.05.92 |%+   | Trinity Logo by Blade Runner   |
+15,01*|26 |TRIN-RN  ANS |   3215 |12.11.92 |%+   | Trinity Logo by R.Noble        |
+15,01*|27 |UNIQ-ACD ANS |   1692 |12.31.92 |%    | UNIQ Logo by FusioN            |
+15,01*|28 |UT-ACID  ANS |  26392 |12.19.92 |%Ax  | UltreTech Logo by FusioN       |
+15,01*|29 |V2ACID01 ANS |   3530 | 1.01.93 |%    | Vision/2 "The Revision"        |
+15,01*|30 |XAP1ACID ANS |   2733 | 1.01.93 |%    | XAP Logo by Tank               |
+15,01*|31 |ACDU0193 NFO |   6002 | 1.01.93 |%    | This File                      |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Adlib/ANSi Music/SB  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   34     Average Compression Rate: %72          |

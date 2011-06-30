@@ -1,0 +1,80 @@
+15,01       BeginPlease choose your sound card..    ');                    }
+15,01          Gotoxy(8,12);oice,5,48,11,7,0,15,4);                        }
+15,01          Str:='';                                                    }
+15,01          EditLine(Str,cur,WhereX,WhereY,22,Cya,true);                }
+15,01          ExtendedInfo.Courier[1]:=Str;und Card';                     }
+15,01      3:BasicInfo.SoundCard:='Adlib';                                 }
+15,01          If ExtendedInfo.Courier[1] <> ''r';                         }
+15,01             Then.SoundCard:='Sound Blaster PRO';                     }
+15,01              BeginoundCard:='GUS';
+15,01                 Gotoxy(8,13);
+15,01                 Str:='';
+15,01                 EditLine(Str,cur,WhereX,WhereY,22,Cya,true);
+15,01                 ExtendedInfo.Courier[2]:=Str;eInfo,APPRecs,iceio1;
+15,01              End;;
+15,01       End;ing;OCLogo;
+15,01    cur:byte;at *}
+15,01   ClearBox;;g;
+15,01End;n
+15,01   ShowNotesScreen;
+15,01Procedure DistSite;
+15,01var str:String;ta,Screen,4000);
+15,01    cur:byte;tr,cur,WhereX,WhereY,37,Cya,true);
+15,01    cya:Str2;Notes[1]:=Str;lication Generator '+VerNum+' / Coded '+
+15,01Begin BasicInfo.Notes[1] <> ''Si''s by Galahad ',175,True,false);
+15,01   ClearBox;nter maximum three initials to go by (CR/Quits)',10,16,False);
+15,01   TextColor(0);
+15,01   TextBackGround(7);3);
+15,01   Gotoxy(8,9);'';
+15,01   Writeln('Name:');tr,cur,WhereX,WhereY,37,Cya,true);
+15,01   Gotoxy(8,10);nfo.Notes[2]:=Str;
+15,01   Str:='';f BasicInfo.Notes[2] <> ''
+15,01   EditLine(Str,cur,WhereX,WhereY,22,Cya,true);
+15,01   ExtendedInfo.DistSite.BBSName:=Str;
+15,01                  Gotoxy(24,14);
+15,01   TextColor(0);  Str:='';
+15,01   TextBackGround(7);tLine(Str,cur,WhereX,WhereY,37,Cya,true);
+15,01   Gotoxy(8,11);  BasicInfo.Notes[3]:=Str;
+15,01   Writeln('Number:');sicInfo.Notes[3] <> ''
+15,01   Gotoxy(8,12);    Then
+15,01   Str:='';          Begin
+15,01   EditLine(Str,cur,WhereX,WhereY,22,Cya,true);
+15,01   ExtendedInfo.DistSite.BBSPhone:=Str;
+15,01   TextColor(0);        EditLine(Str,cur,WhereX,WhereY,37,Cya,true);
+15,01   TextBackGround(7);   BasicInfo.Notes[4]:=Str;
+15,01   Gotoxy(8,13);     End;
+15,01   Writeln('NUP:');
+15,01       End;
+15,01   Gotoxy(8,14);
+15,01   Str:='';howCreditsScreen;
+15,01   EditLine(Str,cur,WhereX,WhereY,22,Cya,true);
+15,01   ExtendedInfo.DistSite.BBSNUP:=Str;
+15,01   ClearBox;;
+15,01End;extBackground(7);
+15,01   For x:= 1 to 11 doeen,4000);
+15,01Procedure InitStrs;
+15,01Var x:Integer;(8,6+x);
+15,01Begin   Write('                       ');
+15,01   For x:=1 to 4 do
+15,01      BasicInfo.Notes[x]:='';
+15,01   For x:=0 to 1 do
+15,01      beginNSi;
+15,01         ExtendedInfo.Courier[x]:='';
+15,01         ExtendedInfo.Lit[x]:='';
+15,01      end;ff;Data,Screen,4000);
+15,01   For x:=1 to 3 do
+15,01      Beginr(0);
+15,01         BasicInfo.Affils[x]:='';
+15,01         BasicInfo.References[x]:='';
+15,01         BasicInfo.BoardRef[x]:='';);
+15,01      End;8,9);;
+15,01End;riteln('    you can you do:');
+15,01   List.x:= 8;
+15,01Procedure SetUp(Var FName:String);
+15,01VarList.choices[0] := '     Shading      ';
+15,01   Ch:Char;ices[1] := '     Cartoon      ';
+15,01   Temp:String[2]; := '     Animation    ';
+15,01   str:String;0;:= 1 to 36 do
+15,01   cur:byte;= 7;in
+15,01   cya:Str2;= 15;otoxy(x+39,y+1);
+15,01Beginst.c4 := 4;Write(' ');

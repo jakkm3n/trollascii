@@ -1,0 +1,80 @@
+15,01 $$$$$$$$$$$$$$$$$$$$$$$$$$Ss,       $s,   `$$s, `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+15,01  Keys available while viewing a file -SSa,  `$SSa,$$SS$$$$$$$$$S"""""22$$$$$$$
+15,01 $$$$ssssssss,   `""2S$$$$$$$$$$$$,   `$$$$$a,l$$$$$$$$$$$S2""`   ,ssssssss$$$$
+15,01    Arrow keys, pg-up, pg-down, home, end . Scroll the picturess$$$$$$$$$$$2",$
+15,01 $XX   ssss """""Y$$ss,     $$$$$$$$$$$$$$$$$$$$$$$$     ,ss$$Y""""" ssss   XX$
+15,01    ESC or Alt-X or Enter or Return . Return to Main Menu' , ,   XnK l$$l  d"$$
+15,01 $$$"a  "$$s    s,$ l$$Ss, $$$$$$$$$$$$$$$$$$$$$$$$$$ ,sS$$l $,a    s$$"  a"$$$
+15,01    + or F2 or - or F3 or F8 or F9 . Manipulate screen mode (as above) ,sX$$$S$
+15,01 $SS$$$$$$$$XXsssssssssXX$$$$$$$$$$$2'$$$$`2$$$$$$$$$$$XXsssssssssXX$$$$$$$$SS$
+15,01 $$$SS$$SS$$$$$$$$$$$$$$$$$$$$$$$$$sA$$$$$$As$$$$$$$$$$$$$$$$$$$$$$$$$SS$$SS$$$
+15,01+------------------------------------------+   _  _ ______  __ _ __ ____ ___i__
+15,01|  ForceView/2 inbuilt configuration menu  |                             sS'!
+15,01+==========================================+sS   sS s$ sS2'2Sa sS   sS   $$ :
+15,01    $$   2$s$$   $$ $$   $$ $$   $$ $$   $$ $$   $$    $$   $$ $$   $$   $$ .
+15,01    The configuration program should be fairly self-explanatory, but...  $$
+15,01  a j means "enabled", use the enter key to toggle or select.' $$   $$   $$ .
+15,01    $$ss    $$   $$ $$      $$   sS $$   s$n$$   $$ $$ $$   s$n$$   $$   $$
+15,01  Important Note: if "yes" is chosen at the "save options" menu, the$$   $$
+15,01  configuration is saved to disk, if "no" is chosen, the settings get reset .
+15,01  upon reloading ForceView/2$$   $$ $$   $$ $$   $$ $$ $$   $$ $$   $$   $$
+15,01  : $$      `2b,d2' $$      `2b,d2' `2b,d2' `2b,d2' $$ `2b,d2' `2b,d`2b,d2'
+15,01 _i,$2____ __  ___   __ krs _  _   ___  __  _  _   _   ___ _  __ __ ___   _ .
+15,01+------------------------------------------+ 1996
+15,01|  The DOS Shell and file spawning system  |
+15,01+==========================================+lti-purpose File Viewer
+
+15,01    In a DOS Shell, certain programs may conflict with ForceView/2. Files
+15,01  most likely not to work in a DOS shell are those that have high memory
+15,01  requirements. The same is true of spawning (running) EXE and COM files
+15,01  from within the viewer.tion program ANSi art by Anubis & Jez
+15,01               Documentation ASCii art by Krisis & Regurgitator
+15,01  ForceView/2 GUI ANSi art by Warhammer & Criminal Enigma & Kurrupt & Doozle
+15,01+--------------------------+
+15,01|  History of ForceView/2  |
+15,01+==========================+View/2 # MERRY CHRISTMAS VERSION - December'96 ]
+
+15,01  0.1B - Initial (unreleased) version of ForceView/2o there is a definite
+15,01  0.1  - Initial public release version of ForceView/2 we already know of
+15,01         ForceView/2 was in beta stages up until the public release 0.1to
+15,01      fix these. However if you have any questions, comments, suggestions
+15,01  Future plans - BMP, TGA, TIF, JPG, GIF, PNG, PCX file support to Goblin
+15,01               - Full, bug free support for IDF, ADF and XB files, including
+15,01                 VGA viewingnt to root@127.0.0.1
+15,01               - Improved VGA viewing support for all files
+15,01               - Music playing (MOD, S3M, XM) (perhaps??)
+15,01+-------------------------------+
+15,01|  Introduction to ForceView/2  |
+15,01+---------------------------+===+
+15,01|  Credits for ForceView/2  |
+15,01+===========================+ art group now welcomes you to the (soon-to-be)
+15,01   most comprehensive Art Viewer ever made. This first beta release of Force
+15,01  Main (File-handling, interface, etc) code > Goblin/Force & Xtatic and soon
+15,01  ANS, BIN, PCB, ADF, IDF, XB, RIP, BSV, TD viewing code > Goblintimate ANSi
+15,01   & Art scene viewing utility".  This release supports a wide range of file
+15,01  In-Viewer configuration program code > Legend/Force & Xtatic & Destese.
+15,01       "         "           "    ANSi art > Anubis/Force . Jez/Force
+15,01   Note: In this document we refer to this program as "ForceView/2" to
+15,01  Force View Interface ANSi art > Warhammer/Forcegram "Force View", made by
+15,01                                  Criminal Enigma/Force
+15,01                                  Kurrupt/Force
+15,01                                  Doozle/Force (adapted by Goblin & Legend)
+15,01+----------------------------------+
+15,01  Force View Interface VGA art > Grump/Force
+15,01+==================================+
+15,01  Force View Screen Saver main picture > NMe/Force
+15,01    Well, finally, ForceView/2 has reached public release stage, after many,
+15,01  Documentation and History text > Goblin I'd like to thank all of those who
+15,01        "        "     "    Header ASCii art > Krisis/Force & XPS.
+15,01        "        "     "    Footer ASCii art > Regurgitator/Force
+15,01    Next I'd like to congratulate the folks at Acid for putting together some
+15,01  Force View ending ANSi art > Goblinformat. These specifications made it so
+15,01  that I could go ahead and write a C program straight from the specs,
+15,01  Force View inline information ANSi art > Goblind it" in the Pascal code. It
+15,01  would be nice if others could follow this lead.
+15,01  PMODE/W Copyright (C) 1995-1996 Charles Scheffold and Thomas Pytel
+15,01                                      aka DareDevil and Tranly support their
+15,01  own XBIN format?
+
+15,01  Thanks to: of which, the people at Fire need to get their act together and
+15,01             DareDevil and Tran - For making the great PMODE/Wlear in meaning,

@@ -1,0 +1,10 @@
+15,01 A panda walks into a bar, sits down and orders a sandwich.  He eats the
+15,01sandwich, pulls out a gun and shoots the waiter dead.  As the panda stands
+15,01up to go, the bartender shouts, "Hey,  Where are you going?  You just shot
+15,01my waiter and you didn't pay for your sandwich."
+
+15,01 The Panda yells back at the bartender, "Hey man, I'm a PANDA.  Look it up!!!"
+
+15,01 The bartender opens his dictionary and sees the following definition for
+15,01panda:  "A tree dwelling marsupial of Asian origin, characterized by
+15,01distinct black and white coloring.  Eats shoots and leaves".

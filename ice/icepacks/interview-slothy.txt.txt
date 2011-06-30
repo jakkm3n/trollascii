@@ -1,0 +1,80 @@
+15,01Interview with Slothy by iCE Staff for iCE PACK 11/2002
+15,01Converted to ASCII text by RaD Man of ACiD Productions (www.acid.org)
+15,01HTML version available at http://www.ice.org/interviews.php?interview=12
+
+15,01                                          m##m
+15,01                        m14,15 15,01"      #mm#"  m"#14,15 
+15,01                     ##"    " mm14,15 00,01@14,15 15,01  m"  14,15 00,01@14,15 15,01  #
+15,01                     m  m   m14,15 15,01" 14,15 #15,01| |14,15 00,01@15m 14,15 # 15,01m"
+15,01                       m00@14,15 15,01m14,15 #15,01|  14,15  15,01"#|14,15 #15,01| |14,15 15,01"  #
+15,01                       |14,15# 15,01 14,15 00,01@15|  #" m 14,15  15,01 #"    00@
+15,01                     #  14,15  15,01m "|  mm14,15#15,01| |14,15 15,01|#m14,15#00,01@15m "
+15,01                     00@15  14,15 # 15,01"#m  |14,15 00,01@14,15#15,01  14,15 15,01|  14,15 15,01m14,15 # 15,01m
+15,01                     " m14,15 15,01# #m#"m14,15  #15,01m#" "# |14,15  00,01@14,15 15,01 "#
+15,01                      "14,15 15,01|     " ""   kz"#m14,15  #15,01#|
+15,01                        "# m               14,15#15,01"#
+15,01                              "    "#  m #"
+
+15,01iCE: Tell us a bit about yourself - first name, age, occupation, hobbies,
+15,01     etc.
+
+15,01slothy: I'm Jon, but everyone just calls me Slothy. I'm 24, and I'm a PC
+15,01        game programmer.  Aside from keeping tiles.ice.org and www.ice.org
+15,01        happy, I also help Root88 manage the day-to-day operations of
+15,01        running iCE.
+
+15,01        In the non-digital world, I have a cute little car
+15,01        (http://www.slothy.com/sterling_10.jpg) that I like to work on on
+15,01        most weekends.  I'm also obsessive about music, and I occasionally
+15,01        read those book things - but only books about copyright and patent
+15,01        law.
+15,01 
+15,01iCE: Where are you from? Have you lived anywhere else?
+
+15,01slothy: I'm from Sonoma Valley right now - just north of San Francisco.  I
+15,01        just moved out here from Virginia, where I have lived since I was
+15,01        7.  I was working from home in Virginia, but my company tightened
+15,01        the screws and got me to move out here to work at the office with
+15,01        the rest of the company.  It's quite a big change for me to be out
+15,01        here.  I haven't been around as much recently, since I've been
+15,01        trying to get out and meet some new people out here.  But once I
+15,01        get off this ghastly 56k at home I'm sure I'll be around more -
+15,01        especially since I get hours where I'm not "at work" now that I 
+15,01        don't work from home.
+15,01 
+15,01iCE: Is your cousin really an astronaut?
+
+15,01slothy: She rules.  (http://www.slothy.com/sts-112/)
+15,01 
+15,01iCE: If you could live on any other planet, which would it be, and why?
+
+15,01slothy: I think I'd like to live in a black hole, because I could keep a
+15,01        lot of things within reaching distance.
+15,01 
+15,01iCE: How long have you been a member of iCE?
+
+15,01slothy: I joined in late 1993 as a member of the horrific iCE Trial program.
+15,01        I was one of the only ones to make it out of iCE Trial - TooN GooN
+15,01        being another notable survivor.  I was promoted to a full iCE Member
+15,01        by Shaggy on Christmas Eve when I showed him my Hell's Gate ansi
+15,01        (back in the days when you'd call someone and have them type ATA
+15,01        while you typed ATD and then coordinate when you'd both pick up and
+15,01        hang up the modems to talk again :).  When he saw that ansi, he
+15,01        said, "Wait, YOU did this?" and it was history after that.
+15,01 
+15,01iCE: So what was the deal with iCE Trial?
+
+15,01slothy: Essentially, it started as a great idea. You find promising artists
+15,01        and kind of "take them under your wing" until they are good enough
+15,01        to release in the pack. Ideally they could get help from the many
+15,01        members of iCE to help them hone their skills.
+
+15,01        In reality, it failed in almost every aspect.  It was decided that
+15,01        iCE Trial would release their own packs - to reduce the penalty for
+15,01        joining iCE Trial as opposed to being in a separate second-tier art
+15,01        group.  
+15,01        Since those packs still were affiliated with iCE, many iCE members
+15,01        were embarrassed by them.  As a result, they treated the Trial guys
+15,01        as second-class citizens and wouldn't associate with them much.  So
+15,01        the Trial guys got insults from the rest of the scene for being
+15,01        essentially wannabe-member fanboys who "sucked", and in their own

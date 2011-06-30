@@ -1,0 +1,42 @@
+15,01DARKGEN v1
+15,01-----------
+
+15,01First, greets:
+15,01Bigboy - What the FUCK is night exchange :)
+15,01Tesla - DARKVIEW is awesome
+15,01UCC - Why did you have to pick the same initials of my school ?
+15,01Black Widow - He's my boss :)
+15,01MicroSloth - Burn in hell please
+15,01Novell DOS - For allowing me to run my buggy code without reseting each time
+
+
+15,01When I saw the DARK Application form I said to myself "How can I get into 
+15,01DARK with a minimal amount of work?"  I can't draw ANSI, do VGA, track MOD's
+15,01but I can CODE!!!  (Sorta)  Anyway, because I'm to lazy to make my own
+15,01Menus, etc. I used TVISION (With TP7) and I made an Application Generator
+
+15,01If ANYONE knows about OOP could they PLEASE get in contact with me on
+15,01NS (416) or the DARK WHQ!
+
+15,01Anyway, first version of this this thing so have fun!
+
+15,01Future Features (?)
+15,01---------------
+15,01- ANSI Backgrounds
+15,01- ANSI Opening screen
+15,01- Updated Dialog box's
+15,01- Ability to include SAMPLES of work
+15,01- PLAY MOD (?)
+
+15,01EA
+15,01DARK '94
+
+15,01Copyright Stuff
+15,01---------------
+15,01DARKGEN.EXE and it's source code belong to DARK Productions, Mach Corparation,
+15,01and Enraged Avenger.  By running the EXE and/or creating an APP file you
+15,01agree to send me $1,000,000 in unmarked bills of denominations below $20
+15,01in addition you agree to allow Enraged Avenger TOTAL acess to all BBS
+15,01accounts under your name and/or ALIASES
+
+15,01BTW Just kidding <really>

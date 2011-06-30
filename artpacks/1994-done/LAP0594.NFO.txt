@@ -1,0 +1,43 @@
+14,01--------------------------------------------------------------------------------
+15,01           02m14,02#01@12,14#14,01m15       02m14,02#01@12,14#14,01m15       02m14,02#01@12,14#14,01m15      02m14,02#01@12,14#14,01m"14,14 12#01,02@02,01m 14"02m14,02#01@12,14#14,01m"12,14#01,02@14# 02,01"
+15,01          02"14,02 ##01@12,14#14,01"15     02"02,02 14##01@12,14#14,01"15     02"14,02 ##01@12,14#14,01" 02m  "02,02 14##01@12,14#14,01" 12,14#01,02@14#15,01 02"14,02 ##01@12,14#14,01"  02"|
+15,01           02|14,02 ##14,01|15       02|14,02 ##02,01|15       02|14,02 ##02,01| 14,02 12#14 02,01  |14,02 ##02,01|  |14,02#02,01|  |14,02 ##14,01|
+15,01            14,02  #15,01         14,02  #15,01 02m12,02#02,01m15     14,02  #15,01  02|02,02@12#02,01|  02,02  14#15,01  02m14,02 02,01"    14,02  #15,01  02m
+15,01            02|14,02 02,01|15         02|02,02 02,01|  "14,02 12#02,01m   |14,02 02,01| 12m12,12##02,01"   |02,02 02,01|15         02|14,02 02,01|m14,02 12#02,01|
+15,01            02|12,02#02,01|15         02|12,02#02,01|   |12,02#02@12,12#12,01m 02|12,02#02,01|  12" 02m12,02#02,01" |12,02#02,01|15         02|12,02#02,01| ""
+15,01            12,12#02,02@12#15,01     12m|  12,12#02,02@12#15,01    12,02#02@12,12#12,01" 12,12#02,02@12#15,01   02|02,02@02,01|  12,12#02,02@12#15,01         12,12#02,02@12#15,01     12m|
+15,01          02m12"14,12 12#02,02@02,01"mmm02,02@12,12# 15,01 12"14,12 12#02,02@02,01"    12"  "14,12 12#02,02@12,01"  12,02#02@12,12#12,01m"14,12 12#02,02@02,01"15      02m12"14,12 12#02,02@02,01"mmm02,02@12,12# 
+15,01         02""" 12" 02""12"02""12"""  "15           12"15     12"""" "15       02""" 12" 02""12"02""12"""
+14,01------------------------[15     12Lapse Newsletter May 1994    14]--------------------
+
+
+
+15,01         14Another month of struggling turned out for the best this month. We've
+14,01got a new Lapse Application Generator by Ghent. Although, due to some very
+14,01hectic situations we were not able to get the viewer done by the dead line. We
+14,01are trying our hardest to get it finished, but since we lost our head coder
+14,01and our other coders didn't have time to finish it we weren't able to release
+14,01the pack with a viewer.
+15,01         14We'd also like to say goodbye to our valued coder, Weasel, who is
+14,01leaving for College very soon. Also, to Ash who is joining iCE but is still
+14,01doing some work for Lapse. We wish him well and hope he becomes a really
+14,01kick ass artist later on.
+15,01         14We're currently looking for more artists, both vga and ansi, and some
+14,01coders. We're pretty stable in most areas but artists, so if you are an artist
+14,01looking for a group fill out the application and call Deadly Intoxication
+14,01(801)576-9019. If you'd like an ansi or vga, you can contact any of the members
+14,01on Slime, Infi, Dead, and Neurosis Net.
+
+
+14,01--------------------------------[ 12Greets 14]--------------------------------------
+
+14,01Ash: Traitor! :) Good luck in iCE bro..
+14,01Argon: I released a pack, now you better not drop out!
+14,01Insanitor: Well, we accomplished something here, I'll figure it out sometime
+14,01Diamond Back: You'll get an ansi soon enough.. Waxman is hurrying.. <g>
+14,01Sexman: Dude, I'm getting a new hub for Slime-Net just hold on..
+14,01Sludge: Uh.. well, you still interested in the merger?
+14,01Game: Check it! We've improved.. <g>
+14,01Liquidator: Maybe now you'll like, actually get the pack spread.. :)
+14,01Dopey C.c.: Hey, thanks for the report man.. call me sometime
+14,01Yahoo Serious: Same to you, call my board more often.. sheesh..

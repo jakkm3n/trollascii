@@ -1,0 +1,32 @@
+15,01^2[======================^0[ ^5Renegade Full Screen Editor ^0]^4================
+15,01========]
+15,01^2|                                                                             
+15,01|
+15,01^2|=============================^0[^3Cursor Movement^0]^2=======================
+15,01========|
+15,01^2|  ^0^S ^4or Left Arrow   ^0-  ^4Char Left    ^2|  ^0^D ^4or Right Arrow   ^0-
+15,01  ^4Char Right    ^2|
+15,01^2|  ^0^A ^4or ^Left Arrow  ^0-  ^4Word Left    ^2|  ^0^F ^4or ^Right Arrow  ^0-
+15,01  ^4Word Right    ^2|
+15,01^2|  ^0^E ^4or Up Arrow     ^0-  ^4Line Up      ^2|  ^0^X ^4or Down Arrow    ^0-
+15,01  ^4Line Down     ^2|
+15,01^2|  ^0^I ^4or Tab Key      ^0-  ^4Tab Cursor   ^2|  ^0^K ^4or End Key       ^0-
+15,01  ^4End of Line   ^2|
+15,01^2|  ^0^C ^4or PageUp Key   ^0-  ^4Page Up      ^2|  ^0^R ^4or PageDown Key  ^0-
+15,01  ^4Page Down     ^2|
+15,01^2|==========================^0[^3Miscellaneous Commands^0]^2===================
+15,01========|
+15,01^2|  ^0^T - ^4Delete Word         ^0^Y - ^4Delete Line              ^0^J - ^4Joi
+15,01n Lines     ^2|
+15,01^2|  ^0^N - ^4Insert Return       ^0^B - ^4Reformat Paragraph       ^0^Q - ^4Quo
+15,01te Message  ^2|
+15,01^2|=============================================================================
+15,01|
+15,01^2|         ^0Enter / on a blank line to bring up the message command prompt^2  
+15,01    |
+15,01^2|=============================================================================
+15,01|
+15,01^2|  ^5Arrow keys function only with ANSI, VT102, Doorway, or WordStar Emulation
+15,01  ^2|
+15,01^2[=============================================================================
+15,01]

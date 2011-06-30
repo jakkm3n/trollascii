@@ -1,0 +1,23 @@
+15,01                
+15,01                
+15,01                
+15,01                E M P i R E    M U S I C   I N F O R M A T I O N
+15,01                ------------------------------------------------
+15,01                               January, 1994
+
+15,01     In this month's pack, I bring you a classical piece in 669 format.
+15,01'Unattained Dreams in C major.'  I suggest that you use external speakers,
+15,01rather than headphones.  If you do use headphones, and you have a stereo
+15,01soundcard, be sure to select the option to play it in mono, rather than stereo.
+15,01Stereo works great with external speakers, but it sounds awkward with
+15,01headphones for some reason or another.
+
+15,01     Anyways, EMPiRE is still looking for more musicians.  If you think that
+15,01you would like to join us, please fill out an application and send us a song or
+15,01two.
+
+15,01     Greets go out to musicians everywhere, especially Mosaic, C.C.Catch, 
+15,01NECROS and all those fine musicians out there who make it great to own a 
+15,01soundcard!
+
+15,01                                          -Fluorescent Darkness

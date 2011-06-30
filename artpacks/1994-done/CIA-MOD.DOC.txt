@@ -1,0 +1,40 @@
+15,01-----[ C!A-MOD v1.03 ]--[06/28/94]-----
+
+15,01  Welcome to CiA-MOD coded and designed by: iCE Breaker of C!A for C!A,
+15,01makes sense, huh??? - Anyways, make sure you remove all your memory
+15,01managers such as EMM386 or QEMM, they bog your system down and reduce
+15,01the probablity of CiA-MOD working properly on your system.
+
+15,01  Please feel free to use and distribute CiA-MOD in it's un-MODified form
+15,01(pun intended), including all documentation!  There is no registration
+15,01fee for this utility of any kind!  So enjoy, and keep the tunes pumping.
+
+15,01  Hopefully, sooner or later I'll get GUS support in here, but as for now,
+15,01it supports just about every SoundBlaster or compatible soundcard.  If
+15,01you have any problems with it, please leave tell a CIA representive.
+15,01Blah blah blah..  O yea, it might not play LARGE .MOD files over 240k or
+15,01so... Tron and I have tested it, and there were only 2-3 .MOD files it
+15,01wouldn't play.  With more testing it should be fixed shortly...
+
+15,01                                       iCE Breaker (C!A)   -94
+
+
+15,01Greets in no special order:
+
+15,01         C!A Members          - Yur KeWL!
+15,01         MAGiC                - Yur a Hozer!
+15,01         .end of line         - .end of line
+15,01         The Undertaker       - Yur wooped!
+15,01         Zealot               - Yur a delinquent!
+15,01         Mercedes             - Yur HOTT!
+15,01         Whiplash             - Genocide!
+15,01         Mercury              - Play that Heavy Metal!
+15,01         Ms. Jewels           - Learn the value of friendship.
+15,01         Dalamar              - DITTO!
+15,01         Ur'Lord Pyro -K      - 0.25 BETA still??  Upgrade!
+15,01         Magnus               - SKiLL?, no, iCE? no,  Freelance! YES!
+15,01         Sudden Death         - I'm in, I'm out, I'm in, I'm out!
+15,01         Darkened Enmity      - Yur LAME! O-Blowme/Too!
+
+
+15,01[EOF]

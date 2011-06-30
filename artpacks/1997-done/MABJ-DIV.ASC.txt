@@ -1,0 +1,63 @@
+15,01NNP7'#,d' ; $,  . ...;::;iiiilllSSS2' ,g@P,dPn ,s#SSSSSSSSSSSSSSSSSSS;     ;SSS 
+15,01P7' ,dP ,;i, b ..;;:;iiiill11SSS2' ,d$P',dP' ,dP1111111111111111111211a, ,a1111 
+15,01' ,d$P,,;;'  $, ``^""22++SS$S2' ,d$$P' d$' ,dP111lllllliiiiiilllllly11111111111 
+15,01,d$$Pg@@@@SS$$$$$$$$$SS@@gg,,_,d$P' ,;,dP ,lll111iiiiii;;;;;;iiiiii1lll11SSSSSS 
+15,01$$$$$$$$$$$$$$$$S@gg,``nnY$$$$P',,;;',$P ,liiiiii;;;;;;iiiiii;;;;;;iiiiiil1l111 
+15,01$$$$$$$$$$$$$$$$$$$$$$$$b,`n,,,,;ii;,$l .ii;;;:::.. ...::;:;;... ..;;;;;;iiiiii 
+15,01iill&&$$$$$$$$$$$$$$$$$$$$$$b,```;i, $  ;;;.. . ...  . ..  .       .. ...:::;:; 
+15,01, , ;;;;'' ```''nnY$$$$$$$$$$$$$b,`; P .. .;;;;+2"'" ::. .. .;;;::;  . . . .... 
+15,01Pnn**'',g&llii;;,,   ``''nnY$$$$$$$b b,_ `12"',gdP' ,dS;:;;::iiiiii::;:;;   .   
+15,01,,;;;;,`'nY$$$$&&lliii;;;,,,`'Y$$$$$b, $$b,gdP',P' ,d22iiiiiilll111iiiiii;;,.   
+15,01;;iill&&i,,`Y$$$$&&&lliii;;;;;,`nY$$$$b,;;iil'dP' ,dPyy111111SSSSSSlll111iiiii  
+15,01;;;iiill&i;;,`nY$Pnnnn**""nni;;;,''$$$$b,`i;'dP  ;$2" "2SSSSSSSSSSSSSSSSSlll11; 
+15,01;;;;;iiii;;&IP;,,;;il&&$$$$SS@@g,`` 'nY$$b,;Y$$b  ;     ;SSSSSSSSSSSSS01,15S15,01SS888888 
+15,01;;iill&lli;;, ;;il&&&$$$$$&&b```$$&ii;,nY$$b;il&b  ., ,aSS22SSSSSSSSSSSSSSSSSSS 
+15,01,;;;;;,,`iill&;illI&$$$$$$$&&b.`;iil&lli;,Y$b;;il&  7SS2SSyySSSSSSSSSSSSSl1111; 
+15,01;ill&&$$@@g,```nnY$$$$$$$$$$$&li;l&$$$&$&i;;Yb;il&b  7SySSSSSSSSSSSl11l1liiiii' 
+15,01il&&$$$$$$$$$$Sll;```;;ii',;;&&&lil&$$$$$ii;;ib;ill  ;1SSSSSSl111lliiiiii;::. .
+15,01;ill&$$01,15$15,01$$MUU$$$$lii,     &'nY$$$$ll&$UU$&&ii;;g;ilb  7l111l1iiiiii;::;:;.. . .
+15,01``';illI&$$$MUUM$$$ll;, '   `;,`'nY$$$$$MM$$&i;,g;ilb  7iiiii;::;:;.. ..  ... .
+15,01,,   `'';;iill&$$M$$$&$b,     ``'' , `l$$$$&&li;, ;il, '7;::;... .#  . .  . . .
+15,01ii;;,,    `;;iill&&$$$$&&i,   04 15,,_  ` ,`l$$$M$$b;;il$b,  .. .. . . ... . :,.   
+15,01llliii;,, ,  `'';il&&&$$&&l,    `nY$@g,  `Y$$$$$$b;ili;   .. .... .;:::;:iii,   
+15,01&&&lli;;; ,,       '``&&&&ll;;,,_  `'04 15     Y$UU$P';iP'   .. .;;:::;iiiiiil11ll. 
+15,01,&&&IIliii;, ,    ,   '''`''n;nYb, @g, @gd$g'',, $$@g, '2S;:;iiiii1111111SSSSS|
+15,01`&&&&IIII,,_ ;;,,  `; ; , 'n@g,`nYb,`Yb`Y$P'Yd$P b  P' ,aiiii111l1lSSSSSSSSSSSS
+15,01,dPnn'n&&`$$$$b,;Ybg, ;;ll, ''Y$$@gg,.``Y$b,,   P'P' ,Plll111SSSSSSSSSSSSSSSSSS
+15,01_ ,g@Pn"~ "nY$$$b,Y$$b`Y$$$b, `';il&&$$b,`b`$b,  $, `S$SSSSSSSSSSSSSSSSSSSSSSSS
+15,01$n'   ,+`'', Y$$$$$$$$$$$$$$$$gg,;;iil&&$b`$b`$$b,b  `dSSSSSSSSSSSSSSSSSSSSSSS!
+15,01             l$$$$$$$$$$$$$$$$$$&ii;il&$$$b$$$$$$$b   dSSSSSSSSSSSSSSSSSS111l1;
+15,01  `,,       ,n'$$$PnnY$$$P',gg,`Y$$$$$$$$$$$$$$$$$$, `2SSSSSSSSSSSS111111iiii' 
+15,01        , ',gg`P',g@g,`Y .;;i&$,`n*',g,'`gg,`nPnY$$b   ""2SSSlll111iiiiii;::;:;
+15,01         ,il&l`;il&$$l ';;il&$$' ,,;il&,`YPnli;,`$$$      ;l1iiiiii::::::.  ...
+15,01`     ' ,il&P';il&$$$' ;il&$$P',;il&$$P ,gg@,`;;,$$l   .,aiii;:;::: . ...:::;:;
+15,01,,'   ,g,``'` ''nnYP' ;il&$$P';il&$$$P,;i$$P',gg,dP'  ; ;:::: .....;;:::;iiiiii
+15,01    ,;;il&P,;;il&g, , il&$P' ;il&$$P';il&$P';i$$,;i,  . . . .;;;:::iiiiii1111l1
+15,01;  ,;il&P';il&&$$P';; l$$P',_`;ilP'`@g,`nn'g,`''niP  ,i;;;;;;iiiiiil1111lSSSSSS
+15,01$b,`''`, ;iil&$P';;ilb`g. ;ii@gg@ ;;il&$$ ;;il$,g,  ,dliiiiiil111l1S14,15#15,01SSSS$$$$$$ 
+15,01$$$S@gS$b`;iiP' ;il&$P' ,;il&$P',;il&$$P ;;il&P $P ;SSSl112lllSSSSSSSSSSSSSSSSS
+15,01$&&llii;;'',,g$@g,`'n, ;il&P', ;il$Pn', ,;il&Pd$' ,dSS22SSySSSSSSSSSSSSSSSSSSSS
+15,01ggg@S$$$$$$$$$$$$$$$$g,`'``,db,`'`,,g@Sb ````n'  . ^"2yySSSSSSSSSSSSSSSSSSSSSSS
+15,01gggggggaaaa a a gg@@S$&&ii&&&&$lil&$$$$$&ll01,15&15,01&'  ;     ;S22SSSSSSSSSSSSSSSSSSSS!
+14,15#15,01IIlli;;;'' ',,     ,,;;ii;; ,,;;iill&&ii;; '   Sa, ,a2Syy$SSSSSSSSSSSSSSSSSSS;
+15,01&&&IIIlli;;'' ' ,,;;il&&lii;&&&i&&&&&&&$$$$'  ,dSSSSSSySSSSSSSSSSSSSSSSSSSS11| 
+15,01`''nnY, _   ''''''nnnnnnY&&&ii;;,, `;il&$P'',aSSSSSSSSSSSSSSSSSSSSSSSSS11lli'  
+15,01S++,,_``nY$''nn@@g,, _ _,, ''' ' ,, ';il&$, `7SSSSSSSSSSSSSSSSSSSSS11lliiii;:::
+15,01. .;:ii++,,_`'nnY;;,`nnY$$$$S@gg,,.;;ill&$$b, `"2SSSSSSSSSSSSSS11lliiii::;;.. .
+15,01 . ..; :;ii1l++,,_''nYii;;,,`''nY$$$$$$$$$$$$b,.  ,aSNNNNSS11lliiii::;:. .... .
+15,01  .   .. ..:;ii1lSS++,,_`nY&&ii;_,, ,``````'dPn' ,P$$NN11lliiii;:;: . ... .
+15,01  #          ... .        SSSlli;;;,.                                         
+15,01       __++__  ++++, ,,,  SSSSSSiii   ,,,,,      __++__    .      __++__      
+15,01   ,adSSSSSSSSSSSSSg ggg_____    .. . _____  ,adSSSSSli; . .  ,ailSSSSS01,15S15,01Sda,  
+15,01 :lSSSP"`  `"7l11SSSSSSSSSSSS  . ;;::iiii1l:i1SSP"`  `2 . ... .. !"`  `"7SSS1:
+15,01 ii11l        iii11ll1SSSSS2"    "2iil11SSSSS1ll:      :::: .. . .      :11lii
+15,01 :;iii        :::iiiiil11l;        ;1SSS01,15115,01l11liii        iii;;:. .        iii:;
+15,01 ..;::        . .::;;;iiii1a,    ,aSS111iiiii;:;        l1liii::; ______ ;::..
+15,01. .. . ------ . .. . .::;:iii *  l11liii;;::;.. .      #SSS11liiimassmggg .. .
+15,01                  .. .                                                        
+15,01                           # Divine Intervention                          
+
+
+15,01Orig. Ascii Pic: Black Jack(Remorse) / Pic Bground & Font: Mass Murderer(Kwest)
+15,01                                                                              
+15,01>

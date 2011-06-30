@@ -1,0 +1,22 @@
+00,01mmmmmmm-----------mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm-mmm--mm---mmmmmmmmm
+00,01|   15mmmm10,15#11@00,10#10,01"""10,11"10,10 10,11m10,01mmm11m   00|    base : (911/920)    subj  : Message Header15      00#
+00,01|15m10,15###11@@00,10#10,01" 15mm00,15m00,01mm 11"10,10###11,11@@@11,01m00|    to   : White Ice    ref # : 90015                   00#
+15,01|11,15@@@@00,10##10,01| 15|00,15#|00,00  14 00,01| 11|11,11@@10####11,01|    00from : White Ice    msg # : 91115                   |
+14,01+15"11,15@@00,10##14  10,01m 15""00,15"00,01"" 11m10,11###14   11,01"14+------------------------------------------------------#
+14,01|   10""""00,10#11,15@10#15,01mmm10,15#00,11@15#11,01"""14,11   11,01|14| 15u  a  c  k  e  r  s   11|  15h  e  a  d  e  r  -  14\15\00i  14#
+14,01"""""""-----------"11|14,11   11,01m14+"""""""""""""""""""""-11m14,11 11,01|14"""""""""""""-"""--""---"
+15,01                     11"14,11                           11,01"
+14,01m15                       11"""14,11                 11,01"""
+00,14 14#14,01mm
+00,14  #14   14,01mmmmmmm#mmmmmmmmmmmmmmmmmmmmmmmmm01@@14mmmmmmmmmmmmmmmmm#mmmmmmmmmmmmmmmmmmmmm
+00,14#01,15@00,14##14,01|00for : darkchylde15                            00title: quackers header15      14\15\00i
+01,15@14##01@15,01""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+14,15#00#15,01|        00i made this for fun for one of the boards i'm on called quakers.
+15,15@15,01|         00if you would like me to make you an ansi for free call me at
+00,00# 15,01|                    00f.e.a.r. [ 9 o 5 ] 6 o 2 - 8 i 5 2.
+00,01 "00,00 14 00,01mmmmmmmmmm14,00#00,01mmmm15,15@00,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm15@00mmmmmmmmm15@@00mmmmmmmmm
+15,01                                            14,00#15,01>COMNTdid this for darkchylde.     
+15,01                                                                                
+15,01                   \\i                                                          
+15,01   SAUCE00quackers message header            \\i - White Ice     sOciety        
+15,01     19970223N   @@P v     *                       

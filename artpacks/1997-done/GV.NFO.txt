@@ -1,0 +1,80 @@
+15,01                             This command plays <MODULE> while viewing. This
+15,01                             can be used in any one of the modes: Normal, 
+15,01                             Command, and Demo mode.  The settings of the 
+15,01                             soundcard are taken from GV.CFG
+15,01             /D<MASK>     : Put GoldView into DEMO Mode
+15,01                             This searches for <MASK>, and views each file
+15,01                             found seperately in the current ViewMode.
+15,01                             Where <MASK> is a file mask of files, seperated
+15,01                             by a semi-colon. ie. GV.EXE /DGV.NFO;*.ANS;*.RIP
+15,01             /M           : Force mouse OFFmm""
+15,01                             This forces use of the mouse throughout the 
+15,01                             program OFF   mmmmm  mmmm  m   m
+15,01        rface :      "m. .  . . . m"       m"   m14,15 15,01m    14,15 15,01     14,15 
+15,01          Command Line Viewing (CLV)    mm14,15 15,01mm  "mmmm    "m"m"
+15,01             /C<FILENAME> : Show <FILENAME> in CURRENT view mode
+15,01                             This views a seperate file in the current
+15,01                             ViewMode, then exits.ed:           """""""" # .
+15,01                             Where <FILENAME> is a valid DOS File Name
+15,01             /A<AMODE>    : Changes the CURRENT <AMODE> (Resolution) for 
+15,01                             viewing ANS/BIN files.
+15,01                             The selected <AMODE> is then stored in GV.CFG
+15,01                             IF <AMODE> is ommitted, then a list of values for
+15,01                             <AMODE> is displayed
+15,01             /V<VMODE>    : Changes the CURRENT <VMODE> (Resolution) for 
+15,01                             viewing VGA files.
+15,01                             The selected <VMODE> is then stored in GV.CFG
+15,01                             IF <VMODE> is ommitted, then a list of values for
+15,01                             <VMODE> is displayed
+15,01             /I[+|-]      : Force ICE mode ON/OFF
+15,01                             This forces ICE Colour ON/OFF while viewing
+15,01             /G[+|-]      : Force GRAY SCALING ON/OFF
+15,01                             This forces GRAY SCALING ON/OFF while viewing
+15,01             /A[+|-]      : Force ANIMATION mode ON/OFF
+15,01                             This forces ANIMATION mode ON/OFF while viewing
+15,01          .BIN (BINARY Format files)
+15,01   ..     .RIP (Remote Imaging Protocol)
+15,01     #m   .GIF (Graphics Interchange Format)
+15,01 00@14,15 #00,01@15#                   #00@14,15# 00,01@15 
+00,01@14,15 #00,01@15# Updates of GoldView #00@14,15# 00,01@15Files)
+15,01 00@14,15 #00,01@15#                   #00@14,15# 00,01@15 File)
+15,01                        "#.
+15,01                           . for files such as :  
+15,01           ..D (Sound Module)
+15,01             #m(Scream Tracker Module v3)
+15,01         00@14,15 #00,01@15#     #00@14,15# 00,01@15 
+15,01        00@14,15 #00,01@15# V1.02 #00@14,15# 00,01@
+15,01         00@14,15 #00,01@15#     #00@14,15# 00,01@15 
+15,01                  "#.
+15,01                     .
+15,01                                 #00@14,15# 00,01@
+15,01           - Fixed command line options (oops)
+15,01 00@14,15 #00,01@15#                           #00@14,15# 00,01@
+15,01           ..                   "#.
+15,01             #m                    .
+15,01         00@14,15 #00,01@15#     #00@14,15# 00,01@15 
+15,01        00@14,15 #00,01@15# V1.01 #00@14,15# 00,01@
+15,01         00@14,15 #00,01@15#     #00@14,15# 00,01@15 ional memory
+15,01                  "#.ard /w monitor
+15,01                     .r
+15,01           
+15,01           - Added 16 and 256 colour GIF87a AND GIF89a viewing
+15,01           - Added 256 colour PCX viewing
+15,01           - Added 256 colour BMP viewingre)
+15,01           - Added 400x400x256 colour XMode
+15,01           - Added 400x480x256 colour XMode
+15,01           - Added BINARY Support (.BIN Files)
+15,01           - Added .EXE/.COM/.BAT running within GoldView
+15,01           - Added command to delete files (F10)ble driver
+15,01           - Upgraded Viewing system for More than 80 width BIN files
+15,01           - Revised menus for new menu commands
+15,01           - Revised the VGA Ansi viewing modes for Twice as many viewable 
+15,01             lines.
+15,01           - Optimized viewing code     #00@14,15# 00,01@15 
+15,01           - Fixed little bug in ANSImation viewing in text mode                
+15,01   14,15#00,01@15#                                  #00@14,15# 00,01@15 
+15,01           - Fixed screen in DEMO mode, when all the files are done
+15,01           - Fixed autodetect for SBPro16 .
+15,01           - Fixed a couple little bugs not worth mentioning (=
+
+15,01           ..

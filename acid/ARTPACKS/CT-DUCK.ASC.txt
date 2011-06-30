@@ -1,0 +1,49 @@
+15,01                                Cth.
+15,01                          .,o#88888888888#o,.
+15,01                     .,o#8888'           '888#o,.
+15,01                     dP'                      'dP
+15,01              ,ddP,  ;dP,                    ,dP,  ,ddP,
+15,01              dP  dPdP dP,                  ,dP,dPdP' 'dP
+15,01              dP      dPdPdPdP,        ,dPdPdPdP       dP
+15,01              'dP        dP .,o#888888#o,.'   dP     ,dP'dP,
+15,01               'dPP    dP'  ,dP''        d  d   dP  dPP   'dP,
+15,01            ,dPdPP   dP'  ,dP'   ,P' dP,  'd''d  dP,        'dP
+15,01          ,dP'     dP'   ,dP'   ,P'   'dP   'd  d''dP,       'dP
+15,01        ,dP'   dPdP'    dP'   ,P'       'dP    d'  'dP      ,dP'
+15,01       ,dP'  dP'         dP'dP'           'd,,P'     '    ,dP'
+15,01       dP' dP'                                            dP'
+15,01        'dP',dP         ,dPdP,     ,dPdP,                 dP
+15,01           ,dP'       ,dP'         dP' 'dP,               'dP,
+15,01          ,dP'       dP'                 'dP,              'dP,
+15,01          dP'        '   ,dP,      ,dP,    'dP              'dP,
+15,01          dP           ,dP''dP   ,dP''Pd,                    'dP
+15,01          dP           dP   'dP  dP'  'dP                     dP
+15,01          dP           dP, o,dP  dP, o,dP    ,dPdP,           dP
+15,01        dPd'            'dPPd'    'dPPd'   ,dP'  'dP         ,dP
+15,01        dP,                              ,dP'              ,dP'
+15,01        'dP,  dP                       ,dP'              ,dP'
+15,01          'dP,dP,                    ,dP'dPP           ,dP'
+15,01            'dPdP,                 ,dP'    dP        ,dP'
+15,01               'dP,              ,dP'      dP    ,dPdP'
+15,01                'dP,           ,dP'        dP,dPdP'  dP
+15,01                 'dP,        ,dP'         ,dPdP'     'dP   ,dPdPdPdP,
+15,01                  'dP,      ,dP'         ,dP'  dP,    'dP,dP'     'dP,
+15,01                   'dP,    ,ddP,        ,dP'    'dP,   'dP;        'ddP,
+15,01                    'dP,  ,dP' dP,    ,dP'       'dP    'dP,       ,dPdP,
+15,01                     'dP, dP'   'dP,,dP'       ,dPdP      'dP,    ,dP''dP,
+15,01                       'dP'       'dP'       ,dP' dP        'dP ,dP'   'dP,
+15,01                                           ,dP'               ,dP'      'dP
+15,01                                          dPdP,             ,dP'         dP,
+15,01                                         dP 'dP,          ,dP'           'dP,
+15,01                                         dP   'dPdPdPdPdPdP'              'dP,
+15,01Cth.rmrs                                 dP          ;dP;                  'dP,
+15,01                                         dP         ,dP'dP,                 'dP
+15,01                                         dP        ,dPdP'dP,                 dP
+15,01                                         dP       ,dP'    dP,                dP
+15,01                                         dP     ,dP'        dP,              dP
+15,01                                         dP   ,dP;         dPdP,           ,dP'
+15,01                                         dP,,dP dP        dP 'dP,        ,dP'
+15,01                                         dPdP   dP        dP,  'dP,    ,dP'
+15,01                                               dP          dP    'dP,,dP'
+15,01                                                                    dP'
+15,01                                                                     '

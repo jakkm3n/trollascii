@@ -1,0 +1,59 @@
+15,01                     "#
+15,01                       mmm               mmm"#        mmm
+15,01                      |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                       "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                         m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                       m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01------------------------ 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01ice ice ice ice ice ice  14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m nfo nfo nfo nfo nfo nfo
+15,01--------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                        "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                       #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                        |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                         00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                         #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                            #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                            00@15  # "|  #     00@15    "     #
+15,01                            14,15#15,01   |m         14,15#15,01       #
+15,01 1.  June certainly         m    00@15         |          .        has been a month
+15,01     full of changes             #                          as evidenced by the
+15,01     revamped memberlist,                  #     .       information files, and
+15,01     a few other things.  A          #                big goopy thanks to Aphex
+15,01     for his invaluable help                       in the assembly of the pack.
+
+15,01 2.  Policy Updates:
+
+15,01     a.  We welcome Aphex Twin as a new iCE Senior Staff member.
+
+15,01     b.  The Literature division of iCE has been dissolved.  Lit may be
+15,01         seen from time to time in ansi's, but it is the general consensus
+15,01         of the group that this this be done.
+
+15,01 3.  Recent arrivals to iCE include:  Opiate as the Courier Coordinator,
+15,01     Cetis as the Communications Director, Fistandantilus as an artist,
+15,01     and Cynic Cipher as a courier.
+
+15,01 4.  Recently exiting iCE:  Cavalier, Iron Man, and Soul Blazer.
+
+15,01 5.  The iCN hub is Sanctuary(tm), 3o5.792.8771, 21:1305/1.  If you are in
+15,01     iCE, and a sysop of your own board, call there and apply to get the
+15,01     network.  The net has been condensed, and it is all private now.
+
+15,01 6.  There are a few  pictures that can't be viewed with Multi-View this
+15,01     month, they are the .EXE by Stealth Ninja, and the .JPG's by sober and
+15,01     Mascot.
+
+15,01 7.  Ellis Dee has changed his handle back to Aphex Twin.
+
+15,01 8.  Pantheon is the United States Headquarters of iCE.  It is still
+15,01     under construction and will be run by Shaggy and Lord Soth.
+
+15,01 9.  June and July have been designated as iCE Goop(tm) months.
+
+15,0110.  We apologize for the discrepancies in last month's pack, namely
+15,01     Aphex's font.
+
+15,01+-----------------------------------------------------------------------------+
+15,01|       ... Tempus Thales ... Aphex Twin .. Shaggy .. Syntax Error ..         |
+15,01+-----------------------------------------------------------------------------+
+15,01                              aphex@io.org  shaggy@io.org

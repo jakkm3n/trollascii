@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     April Update *        May 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0594.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0494 ANS |  10030 |04.30.94 |%+   | April Member/Board Listing     |
+15,01*|2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 131728 |05.01.94 |%    | ACiD Acquisition Viewer + 2.01 |
+15,01*|N/C|ACIDVIEW NFO |  32842 |05.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AN-AE1   RIP |  24570 |04.30.94 |%    | Awakened Earth                 |
+15,01*|5  |AN-HTC2  RIP |  34777 |04.27.94 |%    | Haunting the Chapel            |
+15,01*|6  |BE-TF1   ANS |  23827 |05.01.94 |%+   | Terra Firma                    |
+15,01*|7  |BK-SKY1  ANS |  17687 |05.01.94 |%+   | SkyNet                         |
+15,01*|8  |CE-TMS1  EXE |  65321 |04.30.94 |%xAM | The Morbid Sacrilege           |
+15,01*|9  |DH-HR1   ANS |  28233 |05.01.94 |%+   | Harsh Realities                |
+15,01*|N/C|FILE_ID  DIZ |    496 |04.26.94 |%    | Acquisition FILE ID by {SO}    |
+15,01*|10 |KM-BAD1  ANS |  32232 |04.30.94 |%+   | The Badlands                   |
+15,01*|11 |KM-HIGH1 ANS |  22518 |05.01.94 |%+   | Higher Grounds                 |
+15,01*|12 |KM-TASB1 ANS |  35898 |04.26.94 |%+   | The Armageddon Support BBS     |
+15,01*|13 |KN-TTT1  ANS |  21801 |05.01.94 |%+   | The Twisted Tower              |
+15,01*|14 |LD-FD    ANS | 122167 |04.30.94 |%+   | Final Destiny                  |
+15,01*|15 |LD-HM    ANS |  38991 |04.30.94 |%+   | Harvest Moon                   |
+15,01*|16 |LD-ID    ANS |  32973 |04.30.94 |%+   | Infinite Despair               |
+15,01*|17 |LD-SN    ANS |  14914 |04.30.94 |%+   | Static Net                     |
+15,01*|18 |MT-SURR1 ANS |  34139 |05.01.94 |%+   | Surrealistic Underground       |
+15,01*|19 |MX-ADD   EXE | 203673 |04.30.94 |%M   | Addict Electronic Magazine     |
+15,01*|20 |RN-CULT1 RIP |  18468 |04.06.94 |%    | The Cult                       |
+15,01*|21 |RS-VESA  ZIP | 104028 |04.30.94 |%    | Example VESA SVGA Source       |
+15,01*|22 |SL-ACID1 EXE |  33880 |04.27.94 |%    | ACiD Popup Intro               |
+15,01*|23 |SL-ACID2 EXE |  72797 |04.27.94 |%    | ACiD Render                    |
+15,01*|24 |SO-DSUN1 ANS |  34956 |05.01.94 |%+   | Dark Sun World                 |
+15,01*|25 |SO-TDG1  ANS |  43289 |04.22.94 |%+   | The Dungeon                    |
+15,01*|26 |SP-WHAM1 RIP |  16144 |04.30.94 |%+   | Whammy Bar                     |
+15,01*|27 |SW-DREAM EXE |  60406 |04.30.94 |%M   | The Elusive Dream              |
+15,01*|28 |SW-KEG1  EXE |  78443 |04.30.94 |%M   | The Keg                        |
+15,01*|29 |TC-DIL1  ANS |  36805 |04.23.94 |%+   | Digital Illusions              |
+15,01*|30 |US-ACID1 EXE |  29991 |05.01.94 |%M   | ACiD Intro                     |
+15,01*|31 |US-HOOD1 ANS |  36014 |04.30.94 |%+   | The Hood                       |
+15,01*|32 |ACDU0594 NFO |   6021 |05.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   34     Average Compression Rate: %41          |

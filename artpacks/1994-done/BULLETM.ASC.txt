@@ -1,0 +1,21 @@
+15,01            mmmmmmmm """14,15 15,01m
+15,01      mmmmm14,15   15,01"""  """" "|
+15,01   mm|14,15 15,01"""mmm         mmmm
+15,01m""   mm""mm"14,15 15,01|     mmm"mm"m
+15,01  mmmm14,15 15,01"""  m "    mmmm14,15 15,01m"14,15 15,01m"m   AT<ACiD>
+15,01mm14,15 15,01""   mm14,15 15,01""mmmmm14,15    15,01"""  "14,15 15,01m"m
+15,01"   mm14,15 15,01"" mm14,15   15,01"""""  m14,15  15,01m   """" """"""" mm        mmmm
+15,01mm"""                  "14,15  15,01mm m""""""m""m 14,15  15,01m"m  mmmm14,15 15,01""""     MESSAGE MENU
+15,01                         "14,15   15,01m""""""""""" "14,15  15,01mmm "" mmm""mm
+15,01  A,* . Change Area         """           mm"14,15   15,01"  "mm ""mm""mm
+15,01  E,P . Post Message                      "14,15  15,01m   mm14,15   15,01""m  ""mm m
+15,01  R . Read Messages                        "14,15  15,01mmm14,15 15,01""  "14,15   15,01mm m14,15   
+15,01  F . File Section           Q . Quit         ""         ""14,15   15,01""
+15,01  G . Goodbye              C,/ . Toggle Newscan
+15,01  J . Join Confrnce          T . Titles               % . Sponsor
+15,01  L . List Users             U . Upload Message
+15,01  H . Help                   V . NewScan Base
+15,01  N . NewScan                K . Kill Message
+15,01  S . Search Messages        + . Next Base
+
+15,01  LSD (c) 1990-1993! All Rights Reserved

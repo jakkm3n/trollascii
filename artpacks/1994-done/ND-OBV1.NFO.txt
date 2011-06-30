@@ -1,0 +1,21 @@
+15,01                                                                              
+15,01--==> SUiCiDE Misc Release.                                                   
+15,01--==> What : OBV/2 Split Screen Chat; No Assembly Required.                   
+15,01--==> Who : Nuclear Dreamer                                                   
+15,01--==> When : Released in the November SUiCiDE Pack (#1)                       
+15,01--==> Note From the Author -+                                                 
+15,01                            v                                                 
+15,01                                                                              
+15,01This is just a little OBV/2 chat ansi that I threw together for               
+15,01my board... Just rename it chatdef.ans and move it to your                    
+15,01\obv\textfile dir and your all set. To request an ansi from me or any         
+15,01suicide member contact us on the IRC somewhere or Call Atomic Delusions       
+15,01make a text called xx-ansi.app and Upload it through the suicide matrix       
+15,01If we do your ansi then it will be in our next pack. If not then it won't     
+15,01be anywhere. <g> It's been great.. Chill.. And take it easy. Lata             
+15,01                                                                              
+15,01Nuclear Dreamer [SUiCiDE Senior Staff]                                        
+15,01                                                                              
+15,01                                                                              
+15,01                                                                              
+15,01>

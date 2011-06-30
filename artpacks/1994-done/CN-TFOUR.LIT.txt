@@ -1,0 +1,80 @@
+15,01  Four men.  Thousands of miles apart, but so close 
+15,01as to feel each other's thoughts.  Sense the others 
+15,01living, breathing.  They are one.
+15,01  "I am trapped."
+15,01  The unspoked words echo loudly through an endless 
+15,01world of insanity.  The four minds vainly grasping 
+15,01for the edge of some sane world.  Drifting.  A tiny 
+15,01thread of sanity dances tauntingly beyond reach.
+15,01  "I must try"
+15,01  "I will be lost"
+15,01  "Only my mind"
+15,01  "It is already lost"
+15,01  "I must try"
+15,01  "I will be saved"
+15,01  A man breaks free.  Driven over the edge.  He falls
+15,01freely.  Quickly.  He is lost.
+15,01  "I am free"
+15,01  "I am trapped"
+15,01  The thread draws nearer.
+15,01  "I am lost"
+15,01  "I can be saved"
+15,01  The one moves closer.
+15,01  "I can reach it"
+15,01  "It is mine"
+15,01  "I will share"
+15,01  "It is too small"
+15,01  "There is enough"
+15,01  "It is mine"
+15,01  The one breaks free.  The other stops him.  It eludes 
+15,01them.  They fall.  They are lost.
+15,01  "I can reach it"
+15,01  One man remains.
+15,01  "I must try"
+15,01  "You must wait"
+15,01  He hears a voice.
+15,01  "It is close, I can reach it"
+15,01  "You will fall, you must wait"
+15,01  The voice is commanding.  Comforting.  Warm.  It can 
+15,01be trusted.  
+15,01  "I will wait"
+15,01  "You must try"
+15,01  The voice grows cold.
+15,01  "I will fall"
+15,01  "You can reach it"
+15,01  "I must wait"
+15,01  "You must try"
+15,01  The voice is pleading.
+15,01  "I will wait"
+15,01  He is unsure.  Wavering.  What is this voice?  Why 
+15,01does it taunt me?
+15,01  "You must try"
+15,01  "I will wait"
+15,01  "You must wait"
+15,01  He hears voices below.
+15,01  "I will wait"
+15,01  "You can reach it"
+15,01  "You will fall"
+15,01  The voices are kind.  Sure.
+15,01  "I will wait"
+15,01  The thread draws nearer.
+15,01  "You are lost"
+15,01  The voice grows colder.
+15,01  "You can reach it"
+15,01  The voices are reassuring.  Strong.
+15,01  "I will try"
+15,01  He grasps the thread.  Milking it.  He breathes the 
+15,01sanity.  It makes him strong.  Another thread draws near.  
+15,01  "I must help you"
+15,01  "We are lost"
+15,01  "I can save you"
+15,01  "You will fall"
+15,01  "I will save you"
+15,01  "You will fall"
+15,01  The voice is colder now.  Evil.  
+15,01  "You cannot help them"
+15,01  The voice is taunting now.
+15,01  "You will fall"
+15,01  He grasps the thread.
+15,01  "I will save them"
+15,01  "You will fall"

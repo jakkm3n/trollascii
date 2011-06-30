@@ -1,0 +1,80 @@
+15,01 Line e : Text to display when selected (before stuffing) (put - for nothing)
+15,01 Line f : Text to be keyboard stuffed                            |
+15,01 ================================================================/ys):
+15,016
+15,01;---------------------------------------------------------------------
+15,01@X4EMAiL COMMANDS
+15,0128
+15,012
+15,01@X4ESYSTEM COMMANDS
+15,0152
+15,012
+15,01@X4EFiLE COMMANDS
+15,01@X0C
+15,01@X1E
+15,01YNN
+15,0131
+15,0160
+15,011
+15,01Abort Help
+15,01^[
+15,01@CLS@
+
+15,012
+15,013
+15,01@X07[@X0EE@X07]@X06nter a message
+15,01E
+15,01#c:\pcb\help\hlpe
+
+15,01i0
+15,01i1
+15,01@X07[@X0EK@X07]@X06ill a message
+15,01K
+15,01#c:\pcb\help\hlpk
+
+15,01i0
+15,01i1
+15,01@X07[@X0ER@X07]@X06ead messages
+15,01R
+15,01#c:\pcb\help\hlpr
+
+15,01i0
+15,01i1
+15,01@X07[@X0EREPLY@X07]@X06 to messages
+
+15,01#c:\pcb\help\hlprep
+
+15,01i0
+15,01i1
+15,01@X07[@X0ETS@X07]@X06 Txt srch messages
+15,01T
+15,01#c:\pcb\help\hlpts
+
+15,01i0
+15,01i1
+15,01@X07[@X0EY@X07]@X06our personal mail
+15,01Y
+15,01#c:\pcb\help\hlpy
+
+15,01i0
+15,01i1
+15,01@X07[@X0EQ@X07]@X06uick message scan
+15,01Q
+15,01#c:\pcb\help\hlpq
+
+15,01i0
+15,01i1
+15,01@X07[@X0EJ@X07]@X06oin conference
+15,01J
+15,01#c:\pcb\help\hlpj
+
+15,01i0
+15,01i1
+15,01@X07[@X0EQWK@X07]@X06 off-line mail
+
+15,01#c:\pcb\help\hlpqwk
+
+15,01i0
+15,01i1
+15,01@X07[@X0ENEWS@X07]@X06 file display
+

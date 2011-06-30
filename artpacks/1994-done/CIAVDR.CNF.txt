@@ -1,0 +1,10 @@
+15,01@X09#@X0B#@X0F# @X03D@X0Boor @X0F# @X0B@TIMELEFT@ Min Left @X0F# @X0BMenu @X0F#@
+15,01X0B#@X09#
+15,01@X09#@X0B#@X0F# @X0A[@X0FEnter@X0A] @X0Bruns @X0A[@X0FQ@X0A] @X0BQuits
+15,01;
+15,01;
+15,01;
+15,01                        CiAVDR v.01 Vision Door Menu
+15,01-----------------------------------------------------------------------------
+15,01Line 1: Main Prompt                                       [0=Internal]
+15,01Line 2: Run/Quit Prompt                                   [0=Internal]

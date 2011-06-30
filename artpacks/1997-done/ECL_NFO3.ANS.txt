@@ -1,0 +1,80 @@
+
+
+15,01                   14##03mmmmmmm      
+15,01                 03 m14,03## 03,01"15   03"14,03   03,01m 15  14##
+15,01  03  14##03mmmmmmm15    03|09,03"14  03,01|15     03  mmmm|14,03##08 03,01|
+15,01  03 m14,03## 03,01"15   03"14,03 09m14 03,01m 09,03m ##15,01   03    09,03##"14 03,01 14,03 08   15,01      03m14,03##03,01mmm15  00ecolove pack #3 infofile.
+15,01  03|14,03 09m14 03,01|15     03|14,03 09##03,01||14,03 09,09##09,01|15     09|09,09##14,03 03,01||14,03   03,01|15       14,03    03,01 
+15,01  14,09 09,03mm 03,01mmmmmmm09,03 09,09##14 09,01 "09,03m"14,09 09,01m15   09m14,09   09,01"03  14,03 09m14  15,01       09,03##"14 03,01 15                  04##
+13,04#04,01|09|09,03"09,09 09,03"09,01|15 04mmm15 03     13m04mm15 09""""""" 04m 14,04 04,01|09|09,03m##03,01|15 04m13,04#04,01m15 03|09,09##14 09,01|03 14,04         04,01" 13m14,04      13##14        01##
+13,13#13,04#09,01 "14,09   09,01m15 04"15 09m14,09 09,00# 09,01"04 13,13#04,04@13mmmmmmmm##04,01| 13|13,04#15,01 09"09,09##14 09,01m15 04"15 09m09,03"14,09 09 09,01" 04m13,04m #" m##04,01| 13|13,13#04,04@@13##14        13"14   04,01"" 
+13,01"""15   09"""""""15   13""""""""""""""04  13""04 15 09 """"""" 15  13""""13,13##13,01"""04""  13""""""""04"13"04"13"04""13"04 mm14,04 
+15,01                                                                          14,13 13,04|14   
+15,01                                                                          14,13 14,04 13##14 
+15,01      00 the opening:15                                                       13,13#14,04    
+15,01                                                                          13,04|14    
+15,01welcome again to another ecolove artpack. this pack is, as some of        14,13 14,04  13 14 
+15,01you may know,  delayed two hole  days.  i'm not proud to  say that        14,13 14,04    
+15,01this was entirely  my foult.  (the avenger that is.)  just a quick        14,13 13,04|14 13 14 
+15,01explanation:  (read carefully  or you might miss it)  i had  other        14,13 13,04|14   
+15,01things to do!,  ok now that that's explained, let's move on to the      04##13,13##13,04#14  
+15,01important stuff.                                                          14,13 13 13,04 14  
+15,01                                                                          14,13 13 14,04   
+15,01                                                                          14,13 13,04|14   
+15,01       00the viewer:15                                                        13,13 14,04  13##
+15,01                                                                          13,13#14,04    
+15,01we're very proud to release our own ansiviewer, which was coded by        14,04     
+00,01sepulcrum15 of revolution, it works pretty nice, so be sure to check        14,04 ##  
+15,01that out. it is ofcourse included in this pack, called ecl640.exe!        04"15   04"
+15,01                                                                          04m14,04   04,01m
+15,01                                                                         04|14,04     04,01|
+15,01      00 new members: 15                                                    04#13,04#14   13##14 
+15,01                                                                         13|13,04m14    04,01|
+15,01as you may have seen, last pack included some guest stuff made  by        13"13,13#13,04mm04,01"
+00,01delusion.02 15now he decided to join ecolove, and ofcourse we welcomed        04m 15  04m 
+15,01him. some info on delusion: he's a hypnotix member, and he's  been        14,04 01##14  
+15,01drawing ascii for some  time  now.     ofcourse we think he does a        14,04     
+15,01pretty good job at that. :)                                               13,04|14    
+15,01                         14 15                                                13,04|14    
+15,01                                                                          13,04|14    
+15,01      00 guest artists:15                                                     13,13 14,04    
+15,01                                                                          13,13#14,04 13m14  
+15,01last pack included some  nice guest ansis, but this time it's even        13,13 14,04    
+15,01better!  last time,  00inclusive12 15 contributed a nice guest ansi, and        13,13 14,04  13,13 14,04 
+15,01this  time,  he created a very nice  file_id.diz for us, which you        13,13 13,04|14   
+15,01might have seen before downloading this pack. :)                         13#13,13#13,04|14   
+15,01                                                                          13,13 14,04 13"14  
+15,01another artist guesting in this pack is 00kenetic,15 he contributed 4!        13,04|14    
+15,01asciis, for which we are very grateful ofcourse.                          14,04     
+15,01                                                                         04  "14,04   
+15,01a new dutch  ascii talent called  00cuckoo12 15decided to draw something          04 14,04  
+15,01for us too, and we liked the result pretty much.                            04 |14,04 
+15,01                                                                          14,04 04,01m15 04 14,04 
+15,01and last  but not  least, 00silence12 15decided  to put something in our        13,04#14 15,01 04 |
+15,01pack,  he stopped  drawing for a  while, but since he created this        13,13#14,04 04,01|
+15,01ansi, he's completely back in drawing ansi.                               13,13 13,04  
+15,01                                                                          13,13 13,04|14 04,01| 
+15,01ofcourse we've  already  personally thanked all these artists, but        13,13 13,04 14  04,01 
+15,01once again: 02     00THANKS!  12   15                                             13,04|14 13##04,01|
+15,01                                                                         04 14,04     
+15,01one word to all you artists  out there:  if you're  any  good, but      04  13,04 14    
+15,01don't want to join ecolove for some reason (you're already in some      04 15 13,04 14    
+15,01group, or whatever) don't hesitate to ask if you could appear as a      04 15 13,04 14    
+15,01guest in one of our packs.                                               04 14,04     
+15,01                                                                          13,04 14    
+15,01                        14##15                                                13,04 14    
+14,04          04,01" m13,04##    14     ## 04,01" m14,04                                  04,01" m14,04  13##14   13    14 
+13,04##14       04,01| 13|13,04m14 13  14 13  14       04,01| 13|13,04|14                                 04,01| 13|13,13#13,04m14       13 14## 
+14,04    13m04,01"""""  13"""13,13#13,01""04""13"04"""13"04""  13""""""""""""""""04"13""04""13""04""13"04"""""""""  13""""""04"""""""
+14,04  13,13#13,01"04 
+14,04 13|
+13,04#13,01|
+13,04|15,01                  12 00joining us:
+13,01|
+15,01             but if you  want to be more  then a guest,  please apply. we don't
+15,01             mind having  a couple of artists more, but we don't really want to
+15,01  04 m13,04#15,01        become a group with 32049 artists either.
+15,01  04|14,04 04@15,01        if you want to apply, you can do two things:
+15,01 04 14,04  13,13#15,01        a) send an email to02 00avenger@westbrabant.net15, or 
+15,01 04|14,04  13,13 15,01        b) call02  00sumatra 15 / 00 the monkey bar15,02 15you can page me or president,
+04,01 14,04  13|13,13 15,01        and then everything will be allright.. ..:)

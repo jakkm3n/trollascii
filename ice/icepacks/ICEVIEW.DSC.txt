@@ -1,0 +1,42 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 10/6/1995
+15,01###############################################
+15,01ice-9509.nfo,ANSI,iCE September Infofile,iCE Staff
+15,01ice-9509.mem,ANSI,iCE September Memberlist,iCE Staff
+15,01ice-9509.sit,ANSI,iCE Sitelist,iCE Staff
+15,01ice-9509.sts,ANSI,iCEPack statistics,iCE Staff
+15,01iceview.doc,ANSI,iCEView Documentation,FTuck/GEvil
+15,01ripfonts.zip,ANSI,RIP Fonts for iCEView,iCE Staff
+15,01boa-pow.ice,ANSI,POW Magazine,BoA
+15,01ck-alm.ice,ANSI,alderAAn!,chromatik
+15,01ck-ice7.ice,ANSI,iCE promo,chromatik
+15,01gr-votb.ice,ANSI,Valley of the Buffalo,Grimace
+15,01lm-bs1.ice,ANSI,Black Sunshine,Lemonade
+15,01lm-dstr1.ice,ANSI,The Death Star,Lemonade
+15,01lm-trn1.ice,ANSI,Ravaged Nightmare,Lemonade
+15,01mm-huma.ice,ANSI,Huma,Magnetic M
+15,01mm-zazen.ice,ANSI,#mtg cards,Magnetic M
+15,01sl-votb2.ice,ANSI,Valley of the Buffalo,Surreal Logic
+15,01sq-lgos4.ice,ANSI,Logo collection #4,Squidgalator ][
+15,01tg-kp1.ice,ANSI,Kerplunk,TooN GooN
+15,01tg-su1.ice,ANSI,The Superunknown,TooN GooN
+15,01us-hyp1.ice,ANSI,Hypnosis,Multiple Artists
+15,01us-nhp1.ice,ANSI,Neurotic's Homepage,Neurotic/Splint
+15,01us-obs.ice,ANSI,Obsidian Magazine,BoA/Lord Soth
+15,01us-vit1.ice,ANSI,Vitalogy,Lord Soth/Splint
+15,01sq-rqm.bin,BIN,Requiem,Squidgalator ][
+15,01prm-erad.rip,RIP,Eradication,Prism
+15,01az-grvis.jpg,EXTERNAL,Advanced Gravis Homepage,Azagoth
+15,01cs-era1.gif,GIF,Era,Catbones
+15,01cs-mafia.gif,GIF,iCE LogoMafia,CatBones
+15,01hr-maxx.gif,GIF,The Maxx,Hellrazor
+15,01rl-sw.jpg,EXTERNAL,Stan Winston,Rogue Leader
+15,01sa-diox.jpg,EXTERNAL,Dioxin,Salmon
+15,01sa-ship.jpg,EXTERNAL,Space Ship,Salmon
+15,01sk-mafia.gif,GIF,iCE LogoMafia,Sprite
+15,01su-iclog.jpg,EXTERNAL,iCE Logo,Supreme
+15,01su-spscn.jpg,EXTERNAL,Space Screen,Supreme
+15,01sw-oonw4.gif,GIF,OONW&AD,Shockwave
+15,01tc-exv.jpg,EXTERNAL,ExVega,Tom Crofton
+15,01tc-nova.jpg,EXTERNAL,Nova,Tom Crofton
+15,01xt-cyber.jpg,EXTERNAL,Cyberweb Studios,Xten

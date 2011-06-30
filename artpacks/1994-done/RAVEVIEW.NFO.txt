@@ -1,0 +1,37 @@
+15,01                --The latest and the <not so> greatest--
+
+15,01     Kay here's the deal.  About 8:45 Thursday night I get a call from Dosage
+15,01here in CA.  He asks if I have the code done for our groups lil' Ansi viewer.
+15,01Up to this point all the work I had invested had been merely investigative --
+15,01trying things out to see how they work.  So, no, I hadn't.  When I asked him
+15,01why he told me there was this new group out somewhere in the far away reaches
+15,01of Cyberspace which was in need of a viewer, and could I write one in about 45
+15,01minutes.  Upon initially looking on the project I had figured, sure, no
+15,01problem...  boy what a mistake.
+
+15,01     Here I am, about 10 coding hours later, and I've finally finished <whew!>
+15,01What resulted from that flurry of scratch-coding is a very basic ANSi-ONLY
+15,01viewer -- no RIP, no GIF, no MOD and no VGA support.  I realise that a lot of
+15,01people were put at an inconvenience due to my mis-estimations on time (ie.
+15,01just gimme 30 more minutes...)  but I finally got it done.  Servicable, buggy
+15,01and the first .60gamma release, RaveView is now in full project.  Of course by
+15,01the next RAVE pack there will be a definite change -- for instance, there will
+15,01actually be some sort of nice interface with which to interact.  However, as it
+15,01stands, this was my first shot at doing a non-parsing ANSi viewer, implementing
+15,01only those ANSi codes as found in my DOS Instant Reference -- I promise better
+15,01support next time ... really!
+
+15,01     In any case, Enjoy the viewer.  There shouldn't be any system-harmful bugs
+15,01in it (no resources are tapped), but there are bound to be quirks.  If anything
+15,01major surfaces, it would be greatly appreciated if you could report to
+15,01"Shattered Beliefs" at (310) 541-9779, an ART-based board in California, via
+15,01Email to "The Flaming Phoenix", or through the Internet at 
+
+15,01                                   soileh@dhvx20.csudh.edu.
+15,01                                  -the flaming phoenix
+15,01                                     [iLL/-unnamed-] CODER
+
+15,01-- SideNote --
+15,01   If you've got any coding projects needing completion, or any requests,
+15,01please feel free to contact me through any of the above (two) means ...  Time
+15,01allowing I should have results within 3days - 2weeks.>

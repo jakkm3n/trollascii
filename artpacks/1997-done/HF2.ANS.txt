@@ -1,0 +1,16 @@
+
+15,01           02XX%.
+15,01           02XXXX
+15,01           02XXXX^XX%. .%XX^XX%. .%XX^XXXX XX%. .%XX .%XX^XX%. .%XX^XX%.
+15,01           02X12X02XX X12X02XX XXXX X%2' X12X02XX XXXX X12X02XX XXXX XXXX X%2' X12X02XX XXXX
+15,01           02X12XX02X X12XX02X XXX12X"15     02X12XX02X 12X02XXX X12XX02X 12X02XXX XXX12X"15     02X12XX02X 12X02XXX
+15,01           12XXXX XXXX XXXX KK%. XXXX XXXX XXXX XXXX XXXX KK%. XXXX XXXX
+15,01           12`%XX XX%' `%XX%XX%' `%XX%XXXX `%XX%XX%' `%XX%XX%' `%XX XX%'
+
+15,01                   02.%XX^XX%.
+15,01                   02XXXX XX%'
+15,01                   02XXXX    .%XX^XXXX .%XX^XX%. .%XX^XXXX^XX%.
+15,01                   02X12X02XX"   X12X02XX XXXX XXXX X%2' X12X02XX XXXX X12X02XX
+15,01                   02X12XX02X    X12XX02X 12X02XXX XXX12X15      02X12XX02X 12X02XXX X12XX02X
+15,01                   12XXXX    XXXX XXXX XXXX15      12XXXX XXXX XXXX
+15,01                   12`%XX    `%XX%XXXX `%XX15      12`%XX XXXX XX%'

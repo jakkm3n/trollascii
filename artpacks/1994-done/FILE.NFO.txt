@@ -1,0 +1,57 @@
+
+
+
+
+15,01FILE SPECS
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+15,01COMMENTS.ZIP
+15,01  
+15,01  File Name        Author               Comment
+15,01  
+15,01 -INTEGJTR.TXT-   -Jack the Ripper -   -Editorial on bbsing                 -
+15,01  
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+15,01LIT.ZIP
+
+15,01  File Name        Author               Comment
+15,01 
+15,01 -CC-ANGEL.LIT-   -C.C.            -   -Poem   
+15,01 -FS-APOT.LIT -   -Freaky Styley   -   -Pondering
+15,01 -GK-SANCT.LIT-   -Grim Knight     -   -A eulogy to a tree
+15,01 -KL-BLEED.LIT-   -Kleptomaniac    -   -Poem
+15,01 -KL-HIT.LIT  -   -Kleptomaniac    -   -Poem
+15,01 -KL-SOUTH.LIT-   -Kleptomaniac    -   -Poem
+15,01 -LS-FIELD.LIT-   -Livid Spectrum  -   -Free Verse
+15,01 -LS-INSPR.LIT-   -Livid Spectrum  -   -An inspirational
+15,01 -LS_JM-TF.LIT-   -Livid & Jungle  -   -Reflectional
+15,01 -RK-LBOND.LIT-   -Rabbit Kaninchen-   -Devotional
+15,01 -RK-SPRIN.LIT-   -Rabbit Kaninchen-   -Devotional
+15,01 -SC-DARK.LIT -   -SCRiBE          -   -Poem
+15,01 -SC-DESPR.LIT-   -SCRiBE          -   -Poem
+15,01 -SC-FATEW.LIT-   -SCRiBE          -   -Poem
+
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+15,01ANSI.ZIP
+
+15,01  File Name        Author               Comment
+
+15,01 -AR-INT.ANS  -   -Acid Reign      -   -Integrity Logo
+15,01 -AR-SI.ANS   -   -Acid Reign      -   -Stripped Ink Logo
+15,01 -BOTTOM.ANS  -   -Freaky Styley   -   -Euphoria Logo
+15,01 -FS-APEX2.ANS-   -Freaky Styley   -   -Apex Logo
+15,01 -FS-CRI2.ANS -   -Freaky Styley   -   -CRiSiS Logo
+15,01 -INT1.ANS    -   -The Master Mind -   -Integrity Logo
+15,01 -SA-DEAD.ANS -   -Samsonite       -   -Dead Landz Logo
+15,01 -SCUM.ANS    -   -Samsonite       -   -SCUM Logo
+
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+15,01Other Works:
+15,01 -INTEGVGA.EXE- by Nuke Dawg, member of Integrity * Spazm/VGA
+15,01 -INT-APP.EXE - by Darkhawk [Application Generator 1.0]
+15,01 -FILE_ID.DIZ - by Freaky Styley
+15,01 -MEMBER.LST  - by Darkhawk, source from Freaky Styley
+15,01 -!README!.TXT- Introduction text by Freaky Styley
+15,01 -SPOTLITE.TXT- a text file on our group headers
+
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

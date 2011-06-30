@@ -1,0 +1,80 @@
+15,01IF u < 1 THEN B = B + 2000000: GOTO 10001
+15,01IF u > 0 THEN GOTO 751
+15,01751 f = INT(RND(1) * 5) + 1
+15,01a = a - f
+15,01IF a < 1 THEN GOTO 10000
+15,01IF a > 0 THEN GOTO 750
+15,0110000 END
+15,0110001 PRINT "hehehe, you suck, bad. cheating ass son of a son of a bitch."
+15,01PRINT5
+15,01PRINT0
+15,01IF pressk < 1 THEN GOTO 0.666
+15,010.555 PRINT "you won, but you cheated, so you suck. "; a$; ". dont press k!"
+15,01PRINT "you beat the almighty satanic dancers! press k!"; pressk; " "; a$; ".": E
+15,01ND= 300
+15,010.666 PRINT "you have beaten the almighty satanic dancers! you rule! "; a$; "!"
+15,01ENDfight = 200
+15,0110002 PRINT "whore, "; a$; " the ymca membership officer has beaten ou.": SLEEP 
+15,015: IF c = 1 THEN a = a - a + 30 AND master = master - master + 75: IF c = 2 THEN
+15,01 a = a - a + 50 AND master = master - master + 125: IF c = 3 THEN a = a - a + 10
+15,010 AND master = master - master + 175: IF c = 4 THEN a = a - a + 200 AND master =
+15,01 master - master + 225: IF c = 5 THEN a = a - a + 300: GOTO 0
+15,01CLS
+15,01RANDOMIZE TIMER
+15,0120000 CLS
+15,01oppfight = 200
+15,01LOCATE 1, 20: PRINT "attack one of your fellow dancers"$$$pyyg"
+15,01LOCATE 3, 15: PRINT "1 maxim"$$pyyg$$$$  $$$$  $$ $$  $$$$  $$"
+15,01LOCATE 4, 15: PRINT "2 keith"$$$$  $$$$**  $$  $$   **$$$$**$$"
+15,01LOCATE 5, 15: PRINT "3 leroy"$$$$  $$$$  $$$$     $$  $$$$  $$"
+15,01LOCATE 6, 15: PRINT "4 cracky"$$$pg$$$$pg$$$$     $$pg$$$$pg$$"
+15,01LOCATE 7, 15: PRINT "5 aneurysm"yyg$$$$  $$ $$pyyggyyg$$ $$gyyg$$    $$pyyg"
+15,01LOCATE 9, 5: INPUT "who will you fight"; fight$ $$$$  $$ $$  $$$$    $$  $$"
+15,01IF fight$ <> "maxim" THEN GOTO 20001 $$7*yy $$  $$$$  $$ $$  $$$$pyyg$$**  "
+15,01GOTO 20005 $$$$  ^^^^  $$$$  $$$$  $$$$  $$ $$  $$$$**       $$$$  $$$$  $$"
+15,0120001 IF fight$ <> "keith" THEN GOTO 20002$ $$py$$$$         $$$$  $$$$pg$$"
+15,01GOTO 20005yyg$$pyyg$$pyyg$$pyygpyyg$$$$$$pyyg     $$$$pyygpyyg$$$$pyygpyyg$$$$py
+15,0120002 IF fight$ <> "leroy" THEN GOTO 20003
+15,01GOTO 20005 $$$$  $$$$  $$$$  $$$$  $$^^$$  $$     $$$$  $$$$  $$$$  $$$$  $$$$  
+15,0120003 IF fight$ <> "cracky" THEN GOTO 20004
+15,01GOTO 20005yyg$$py$$$$  $$$$pg$$$$  $$$$$$     pyyg$$$$pg$$$$  $$$$    $$**  $$  
+15,0120004 IF fight$ <> "aneurysm" THEN GOTO 1
+15,01GOTO 20005 $$$$  $$    $$$$  $$$$  $$$$$$  $$ $$  $$$$  $$$$  $$$$  $$$$  $$$$  
+15,0120005 CLS : IF fight$ = a$ THEN PRINT "you cant beat yourself up, "; a$: SLEEP 5
+15,01: GOTO 1$pg$$$$  $$    $$$$  $$$$  $$$$$$py$$ $$py$$$$  $$$$  $$$$pg$$$$pg$$$$  
+15,01CLS
+15,01LOCATE 10, 20: PRINT a$; youfight; "   "; fight$; oppfight
+15,01LOCATE 11, 20: INPUT "ATTACK OR RUN (a/r)"; e$
+15,01IF e$ <> "a" THEN GOTO 2
+15,01e = INT(RND(1) * you) + 1
+15,01oppfight = oppfight - e
+15,01IF oppfight < 1 THEN B = B + 500: GOTO 0entry coded in qbasic!ereet"
+15,01IF oppfight > 0 THEN GOTO 20006pg like exitilius(door game), or like"
+15,0120006 f = INT(RND(1) * 30) + 1wever it has a deeper meaning. it is "
+15,01youfight = youfight - fore like the attack of killer dancers on"
+15,01IF youfight < 1 THEN GOTO 0 and it takes place in London. have fun."
+15,01IF youfight > 0 THEN GOTO 20005
+15,0130000 CLS
+15,01LOCATE 3, 35: PRINT "SHOP"m of London, "; a$; "."
+15,01LOCATE 6, 15: PRINT "[c]lothes"one other you have ever encountered."
+15,01LOCATE 7, 15: PRINT "[w]eapons"ed such a place of scum, villianry,"
+15,01LOCATE 8, 15: PRINT "[l]eave"; "."
+15,01LOCATE 10, 15: INPUT "WHAT DO YOU WHAT TO DO (a/w/l)"; shop$
+15,01IF shop$ <> "c" THEN GOTO 30001
+15,01GOTO 30002
+15,0130001 IF shop$ <> "w" THEN GOTO 2
+15,01GOTO 30005cing ablility: "; a; "/"; hp
+15,0130002 CLSncing expirence: "; B
+15,01LOCATE 3, 35: PRINT "clothes"ip: "; c
+15,01LOCATE 6, 15: PRINT "[b]aggy pants            10,000 GP"
+15,01LOCATE 7, 15: PRINT "[c]loth pants            100,000 GP"
+15,01LOCATE 8, 15: PRINT "[s]herlock holmes wear   1,000,000 GP"
+15,01LOCATE 12, 15: PRINT "GOLD PIECES: "; gp
+15,01LOCATE 10, 15: INPUT "WHAT WOULD YOU LIKE TO DO (b/c/s/l)"; armor$
+15,01IF armor$ <> "b" THEN GOTO 30003ers."
+15,01IF gp < 10000 THEN PRINT "YOU DON'T HAVE ENOUGH GP, "; a$; ".": SLEEP 3: GOTO 2
+15,01gp = gp - 10000: a = a + 15: hp = hp + 15: GOTO 2
+15,0130003 IF armor$ <> "c" THEN GOTO 30004 dancer."
+15,01IF gp < 100000 THEN PRINT "YOU DON'T HAVE ENOUGH GP, "; a$; ".": SLEEP 3: GOTO 2
+15,01LOCATE 9, 3: PRINT "What do you wanna do punk?"
+15,01gp = gp - 100000: a = a + 50: hp = hp + 50: GOTO 2

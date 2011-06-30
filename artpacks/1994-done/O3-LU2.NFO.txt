@@ -1,0 +1,80 @@
+15,01+------------------------------.
+15,01| "I Wanna Love You" by Anticapella.
+15,01: Final Release on 05/06/94, (C) Ozone/DiE/Brutal.
+15,01  (That's DD/MM/YY format for you yanks!).
+
+15,01  Format
+15,01  ~~~~~~
+15,01  # M.K. (4 Channel) New ProTracker Module.
+
+15,01  Background
+15,01  ~~~~~~~~~~
+15,01  This took me a couple of days to do, which is a normal time period of a
+15,01  sampled MOD of this length for me, since I have school & other great things
+15,01  like that to attend to. I released a 'very-near-finished' version around
+15,01  Sydney on a couple of boards - this version is a little bit more fixed up
+15,01  and contains more groovy sample names :).
+
+15,01  This was my first sampled module in several months (6 months?!), but I
+15,01  think it's one of my better releases. I recorded the samples at 22KHz/11KHz
+15,01  (except for samples 9, 10, 11 and 16 which are ripped from various modules
+15,01  which I can't remember) on a GUS with PLAYFILE and edited them with the
+15,01  Digital Audio accessory in MMPM/2 (the OS/2 multimedia thingie). Most
+15,01  editing was done in ScreamTracker 3.01B, and final adjustments were made
+15,01  with ProTracker for GUS 0.6.
+
+15,01  Bitchin'!
+15,01  ~~~~~~~~~
+15,01  Amiga MOD players (or any 60Hz timed players) should adjust their timing to
+15,01  141bpm. PC people must have a player that supports the retrigger (E9?)
+15,01  function, or they'll hear a couple of missing notes near the end. Note that
+15,01  Inertia Player does NOT support the retrigger function :(.
+
+15,01  Greetz
+15,01  ~~~~~~
+15,01  # Chuck Biscuits/iCE/DiE (heh, copied yer .DOC format!) :).
+15,01  # Electro Maniac/DiE (somebody buy this man a GUS!)
+15,01  # Sudden Death/DiE + Flick/DiE (NOOOO! KILL HOUSTON!! JAZZ FOREVER!)
+15,01  # House Of Mod composers.
+15,01  # Alternate Reality composers, esp. Spinbad.. (BRUTAL! BRUTAL!)
+15,01  # Exception 13 (does this pass the test lamer?) :).
+15,01  # Conner (yeah, you got a greet!) :).
+15,01  # Frankie (frankiePlusDeathmatchDoomEqualsOneDeadFrankie!).
+15,01  # Immortal (see above) :).
+15,01  # Justin (i knew you'd get that sound card one day! haha!)
+15,01  # Mind Blank and all my other friends (HEEEEERE'S JOHNNY!)
+15,01  # Any other people I missed out on..
+
+15,01  Contacting Me
+15,01  ~~~~~~~~~~~~~
+15,01  Email "Ozone" on the following boards:
+
+15,01    MiNDFLUX (my board):
+15,01      +61-2-416-2513
+15,01      NSW DiE HQ # The ONLY Music/GUS/Demos/Art In NSW!
+15,01    Midnight Caller
+15,01      +61-2-869-0223
+15,01            869-0224
+15,01      Digital Access WHQ # House Of Mods!
+15,01    Alternate Reality
+15,01      +61-2-899-7812
+15,01      Home of MANY Sydney composers, including Entropus X!
+15,01    Field of Dreams
+15,01      +61-2-872-2712
+15,01      11:00 PM - 6:00 AM
+15,01    Violent Crimes
+15,01      +61-3-562-1008
+15,01      DiE WHQ # Aussie HQ for just-about-any-three-letter-art-group-
+15,01      you've-heard-of.
+15,01    Liquid Metal
+15,01      +61-7-812-2324 (28k8 V.FC!)
+15,01      Aussie HQ/Distro for just-about-any-demogroup-you've-heard-of.
+
+15,01  Frequent Q&A
+15,01  ~~~~~~~~~~~~
+15,01  Q: This MOD sucks! How can I make it better?
+15,01  A: Type "format c:".
+
+15,01  Q: Yo DuDe, You aRe a K-RaD LeGeND! YoU CooL MaN HeHe!
+15,01  A: Errrrrr, piss off lamer!
+

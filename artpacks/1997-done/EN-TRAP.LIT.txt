@@ -1,0 +1,17 @@
+15,01They're laughing. Are they laughing at me?
+15,01They're yelling. Are they laughing at me?
+15,01They're shooting. Are they shooting at me?
+15,01They're spying. Are they spying on me?
+15,01Chained to the wall, I can't get free.
+15,01Longing to leave, but now they own me.
+15,01Stuck all alone, shivering in my cell.
+15,01Nothing could be worse than being stuck
+15,01in this hell.
+15,01Trapped, abused, ignored and alone.
+15,01Yelling and crying, I scream and moan.
+15,01They won't let me out, the won't let me
+15,01be. I'm stuck in this prison
+15,01I can't get free.
+15,01-en
+15,01>SAUCE00Trapped                            Entrophy                             
+15,01   19970403 14,15@15,01  @ P *                             

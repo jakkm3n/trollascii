@@ -1,0 +1,80 @@
+15,01Spiderman's a SaucyBoy!  Ascii by Skitzo!  Font By KXMode!  For Pore Resistance!
+
+15,01                                                                              
+15,01                                        ;X  dXX                               
+15,01                                        `X. XP`b.                             
+15,01                                         Xb X? `X                             
+15,01                                         ?X X.  Xb                            
+15,01                                         `X Xb?b ?X                           
+15,01                                          X ?X X` Xb                          
+15,01                                          Xb`X ?Xb?X                          
+15,01                                         .?X.X  ?X X   .,                     
+15,01                                         ddXdX   XbX .dXXb.                   
+15,01                                         XP`XP   ?X.dXP  ?Xb                  
+15,01                                         Xb Xb.  .dXP     ?X;                 
+15,01                                         ?X ?Xb  dXP       `b                 
+15,01                                          X. ?X .dX          `                
+15,01                                          Xb.`X.dXP                           
+15,01                                          `?XdX`Xb                            
+15,01                                           ;XP'`?Xb                           
+15,01                                           `XbX  `?X                          
+15,01                                           .X'X   ;X                          
+15,01                                           XP.X .dXP                          
+15,01                                           XbdXdXP                            
+15,01                                           ?X'XP                              
+15,01                                           `X X;                              
+15,01                                            X Xb                              
+15,01                                            X`?Xb                             
+15,01                                          dXP;dXbX                            
+15,01                                         XP'  XPdb                            
+15,01                                         Xb`X.dXP'                            
+15,01                                          `YXbdX'                             
+15,01                                           l?XP;                              
+15,01                                           ;dXdX                              
+15,01                                           dXPXP                              
+15,01                                           `X X;                              
+15,01                          .dX               XXP'                              
+15,01                         (b;?Xb             ?YP            .dOb               
+15,01                          Xb.`?X         .o.`X'.o.        Xd dX               
+15,01                          ?b.`Xb       XP `X xdXb.      dP dX'                
+15,01                           Xb.`?X     XP   ?Y'  dY     X' dP'                 
+15,01                            ?X.`?b.   X     X   X    dP   X'                  
+15,01                             `bo.`Xb dP     ;   ?X  XP   dP                   
+15,01                              `Xb  `XP      Y    ?XP'    X'                   
+15,01               ....            ?Xb         ;X.    `     dP                    
+15,01.            .dXYXXboo..        ?X   `.   ` ` `        XP'                    
+15,01" e.    er  =.`Pbo.```??XXbo.. .dX  '            .'   dX'                     
+15,01  $F    $F    $b  $?o..  ``?XxYXXP                 '  XP                      
+15,01  $F    $F   .P    .$?X                             .X'                       
+15,01  $P====e=====e -=""  `?Xb.          `.            .dP                        
+15,01  $ECCCC$F              ``?Xb.                     XP'                        
+15,01  $beeee$F                 `?Xbo.                 dP'                         
+15,01c.$$$$$$$E.er                `?Xbo.               X'                          
+15,01                                `?Xb.            .X                           
+15,01r          er4e       4e          `Xb            dX                           
+15,01  $r    eF      3e 4$              ?X.           Xb                           
+15,01  $r    $F      4$ 4$              `Xb           ?X                           
+15,01  $F    $F      4$ 4$               ?X.         .dX                           
+15,01  $ECCCC$F      4$C3$               `Xb         dXP                           
+15,01  $beeee$F      4$ed$                ?X         XP'                           
+15,01  ^$$$$$$$.    .$$$$%                `X.        Xb                            
+15,01    "**$P$$$ee$*$*"                   Xb        ?X.                           
+15,01                                      ?X.       `Xb.                          
+15,01.              .                      `Xb        ?Xb                          
+15,01  3e    4$  " e.    $.                 ?X        `?X.                         
+15,01  4$    4$    4P    d"                 ;X         `Xb                         
+15,01  4$....J...J....zE;'                  dX          ?X.                        
+15,01  4$CCCC3$'  `$ECCCC$F                .XP      ;'  `Xb.                       
+15,01  4$$$$$$$    *$$$$$$$$$$             dX'           ?Xb                       
+15,01*""""""""""*   ^"*""""*"              XP            `?X                       
+15,01                                     .X'      ;      `X.                      
+15,01.                    .               dX       '       Xb                      
+15,01  ^b     $     ^"4.  $               XP               ?X                      
+15,01   $     $   $%$F `%X'               X'     .'        `X                      
+15,01   $......  ...$F   `                X.     ;          X.                     
+15,01   $CCCCC$   $F$F.$be$               X;                Xb                     
+15,01   $$$$$$$;.   .;d$$$$               Xb                ?X  ........           
+15,01*""""""""""""""""""""*               ?X     :          `X    $$  $$;          
+15,01                                     `X.               .X    $$eee$'          
+15,01                                      Xb     :         :X    $$  3b           
+15,01                                      ?X.              dX  .e$$e,`$$;'        

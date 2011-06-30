@@ -1,0 +1,37 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 9/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+
+15,01ice-9610.nfo,ANSI,iCE - Oct. 1996 Info,iCE staff
+15,01ice-9610.mem,IDF,iCE - Oct. 1996 Memberlist,iCE staff
+15,01ice-9610.sit,ANSI,iCE - Oct. 1996 Sites,iCE staff
+15,01-ansi---.---,ANSI,,
+15,01BV-PULS2.ICE,ANSI,Pulse,Black Viper
+15,01BV-TT1.ICE,ANSI,Termite Terrace,Black Viper
+15,01CU-RZR1.ICE,ANSI,Razor 1911,Cold and Ugly
+15,01GW-POO.ICE,ANSI,Poo,G. Washington
+15,01JK-ICE2.ICE,ANSI,iCE Advertisements,Joker
+15,01KA-FARTZ.ICE,ANSI,Chronic Farts,Kadaver
+15,01LM-XBBS3.ICE,ANSI,X-BBS,Lemonade
+15,01SG-TREG1.ICE,ANSI,The Regency,Snake Grunger
+15,01TE-CF1.ICE,ANSI,Chronic Farts,Tetanus
+15,01TG-CF1.ICE,ANSI,Chronic Farts,Toon Goon
+15,01US-FCOKE.ICE,ANSI,Free Coke,KA/BV/TNA/SD
+15,01US-RUST0.ICE,ANSI,Rust,KZ/CU/TG/MA/KA
+15,01-logo---.---,ANSI,,
+15,0135-COLLY.ICE,ANSI,Logo Colly,Elastic
+15,01ASS-LGO0.ICE,ANSI,Logo Colly,Soul Assassin
+15,01CU-LGO01.ICE,ANSI,Logo Colly,Cold and Ugly
+15,01MA-LGO01.ICE,ANSI,Logo Colly,Mass Murderer
+15,01US-CEO.ICE,ANSI,CEO,MA/TNA
+15,01-vga----.---,ANSI,,
+15,01AT-JRNY.JPG,EXTERNAL,Rendering,the Aphid of Twix
+15,01AT-ROOM.JPG,EXTERNAL,A Room,the Aphid of Twix
+15,01DI-AP.JPG,EXTERNAL,Sometimes,Digital Interface
+15,01JA-LAND1.JPG,EXTERNAL,Landscape,Jae
+15,01JA-RK1.JPG,EXTERNAL,Roadkill,Jae
+15,01JA-SD1.JPG,EXTERNAL,Snake's Domain,Jae
+15,01NX-TIME.JPG,EXTERNAL,Time is all we have,Nixus
+15,01SK-TATZ.JPG,EXTERNAL,Tatooz,Sprite
+15,01file_id.diz,ANSI,,

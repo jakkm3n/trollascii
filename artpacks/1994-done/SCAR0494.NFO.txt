@@ -1,0 +1,80 @@
+
+
+15,01             mmm14,15   15,01mmm       m  mmmmm       m      m       mmm
+15,01         m14,15               15,01mmm14,15  15,01""     """mmm"14,15 15,01 mm14,15       15,01mm""   """mm
+15,01        14,15                      15,01              14,15       15,01"14,15      15,01m   m    "m
+15,01        14,15                 15,01"14,15 15,01"14,15  15,01       mmm"""m14,15      15,01mmm14,15      15,01 m" "m   14,15 
+15,01        14,15            15,01""  m"   "    m""       14,15               15,01  """    14,15 
+15,01         "14,15         15,01m    14,15 15,01         14,15 15,01        14,15      15,01"" ""14,15      15,01     mm"
+15,01            ""mm    ""mm 14,15          15,01        14,15 15,01   14,15 15,01       14,15 15,01   14,15    15,01""
+15,01      m       mm"       ""14,15           15,01mmm   14,15  15,01  14,15 15,01       14,15 15,01   14,15      15,01mm     m
+15,01      14,15 15,01"mmm"""             14,15                  15,01 14,15 15,01         14,15 15,01 14,15   15,01"14,15       15,01mm14,15  
+15,01      14,15 15,01                   m14,15                  15,01 14,15 15,01         14,15 15,01 14,15   15,01  ""14,15        
+15,01      14,15 15,01 mmm"""mmm    mmm"" ""14,15           15,01"""14,15  15,01  14,15 15,01       14,15 15,01   14,15  15,01      ""14,15    
+15,01      14,15 15,01"         """"           """""    m14,15 15,01m14,15 15,01mmm14,15 15,01m   m14,15 15,01mmmmm14,15  15,01m        "14,15 
+
+15,01                            Shore Cracking/ANSi Runners
+15,01                                                             FonT by Cable 
+15,01                                     VoLuMe IV                 <SCaR/FLT>
+15,01        
+15,01        Well here we are again, still going strong with our fourth
+15,01    pak; And we hope to bring you many more successful paks in the
+15,01    months ahead.  Our main accomplishment this month was pickin up
+15,01    all the new high quality sites you see in the site listing. 
+15,01    We  still have all the same members, and two new ones, Storm and
+15,01    ICE.  Nemesis was also promoted to Head Courier, because of the
+15,01    fine job he did last month.  
+15,01        Look for some huge news comin in the next month from SCaR, 
+15,01    as we are close to completing a merger with RiPE, a ANSi/PPE   
+15,01    group founded by Jack Daniels (formerly of the CiA).  If this
+15,01    merge comes to pass, our ANSi and PPE teams would be greatly 
+15,01    supplemented.  Also, I have spoken to the president of BLADE,
+15,01    and there is a small chance of some kind of merger or alliance
+15,01    with them in the future.
+15,01        We have included in the pak this month a few new SCaR fonts,
+15,01    and three SCaR promotional ads.  All of the SCaR site sysop's 
+15,01    are free to modify them and display them on their BBS's, if it
+15,01    pleases them to do so.  Well, I hope you enjoy this pak, and
+15,01    make sure to pick up all of SCaR's future releases.  
+15,01        If you would like to have an ad or font done by a SCaR mem-
+15,01    ber, you may contact them on DaZeD AnD ConFuSeD, or the site 
+15,01    nearest you (they are all free for the time being). Also, you
+15,01    are free to register all SCaR PPE's, and we encourage you to
+15,01    do so.  You will find all of SCaR's PPE's of the highest quality,
+15,01    and you won't be disappointed with them.
+
+15,01                                                -TechnoPhreaK-
+15,01  # Files Included:
+
+15,01    1) SCAR-APP.ZiP - SCaR App Generator by Cyberglitch 
+15,01    2) SCaRVieW.ExE - SCaR.VieW v1.0 BeTa by Ffejtable? and DP
+15,01    3) GAR390.ExE   - GAR [Group/Acronym Reference] v3.90 by DP
+15,01    4) *.SCa        - March's SCaR ANSi's
+15,01    5) *.GiF        - March's SCaR GiF's
+15,01    6) SiTeS.*      - SCaR SiTe LiST for 3/94
+15,01    7) SCaR0494.NFo - you're readin' it tough guy!
+15,01    8) HotKey.ZiP   - Utility by Cyberglitch
+15,01  
+15,01  # SCaR Members
+
+15,01    1)  Demented PuLchritudE <Founder/Coding/PPE Div.>
+15,01    2)  The Phantom Cow Tipper <Founder/ANSi>
+15,01    3)  TechnoPhreaK <Global Coordinator/ANSi>
+15,01    4)  Nemesis <Head Courier/ANSi Trial>
+15,01    4)  Badger Sputum (AKA Phukt) <ANSi/LiT>
+15,01    6)  Storm <VGA>
+15,01    5)  Sphincter (AKA -69-) <ANSi>
+15,01    6)  Black Ninja <ANSi/VGA>
+15,01    7)  Cable <ANSi/VGA>
+15,01    8)  Cyberglitch <Coding/Couriering>
+15,01    9)  Sigma <PPE Div.>
+15,01    10) Flammable Fuzzball <Telecom>
+15,01    11) Red.Mesq <Cracking/Telecom>
+
+15,01  # SCaR Couriers
+15,01    
+15,01    1)  Blitzkrieg [UDC]
+15,01    2)  Cyber Quail [UDC]
+15,01    3)  Solrunner [UDC]
+15,01    4)  Mental Lunatic 
+15,01    5)  CDS                                                     

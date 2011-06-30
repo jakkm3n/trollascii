@@ -1,0 +1,65 @@
+15,01                                  09-01-94
+15,01                                Site Listing
+
+15,01   +--------------< -*- HIGH REZOLUTION'S HEADQUARTERS -*- >-------------+
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   | BOARD NAME          | NUMBER       | SYSOP            | POSITION    |
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   | HiGH FiDELiTY       | 217-NOT-4YOU | .\\r. .\\Uff     | WORLD       |
+15,01   | APPLY NOW           | ???-???-???? | APPLY NOW!!!!    | COURIER     |
+15,01   | Shadows Den         | 217-529-4336 | Altered Destiny  | NET         |
+15,01   | APPLY NOW           | ???-???-???? | APPLY NOW!!!!    | USA         |
+15,01   | House of Sin        | 217-864-4796 | Living Death     | APPLICATION |
+15,01   | Corrosive Poison    | 516-897-0857 | Psychotic Feind  | EASTERN     |
+15,01   | Harvest Moon        | 216-951-7529 | Qu'Ran           | NORTHERN    |
+15,01   | Electronic Frontier | 816-353-8617 | Net Distortion   | CENTRAL     |
+15,01   | APPLY NOW           |              |                  | SOUTHERN    |
+15,01   | APPLY NOW           |              |                  | WESTERN     |
+15,01   | The Realm           |              | BLACK RANGER     | U.K.        |
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   |                                                                     |
+15,01   +--------------< -*- HIGH REZOLUTION'S MEMBERBOARDS -*- >-------------+
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   | BOARD NAME          | NUMBER       | SYSOP            | POSITION    |
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   | Cyberphuck          | 813-PRI-VATE | Satan Claus      | MEMBERBOARD |
+15,01   | Dead Water Zone     | 908-522-0353 | Xanadu           | MEMBERBOARD |
+15,01   | Limelight           | 908-528-7781 | Semper Fi        | MEMBERBOARD |
+15,01   | Beyond Death        | +31-XXX-XXXX | Killer Bee       | MEMBERBOARD |
+15,01   | Liquid Oddesy       | 304-766-6293 | FrY GuY          | MEMBERBOARD |
+15,01   | Dragged Out Morgue  | 413-         | Dragon           | MEMBERBOARD |
+15,01   | Pinion BBS          | 619-242-7194 | Mr. Self Destruct| MEMBERBOARD |
+15,01   | Toxic Wastelands    | 619 946-4907 | Armagedeon       | MEMBERBOARD |
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   |                                                                     |
+15,01   +--------------< -*- HIGH REZOLUTION'S DISTRO SITES -*- >-------------+
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   | BOARD NAME          | NUMBER       | SYSOP            | POSITION    |
+15,01   +---------------------+--------------+------------------+-------------+
+15,01   | The Beholderz BBS   | 405-250-1329 | Madd Katt        | DiSTRO SiTE |
+15,01   | Piractem            | 813-996-3902 | Burning Chrome   | DiSTRO SiTE |
+15,01   | The Crystallium     | 609-587-0501 | Leader Quest     | DiSTRO SiTE |
+15,01   | Spiritual Void      | 314-349-1566 | Collision        | DiSTRO SiTE |
+15,01   | Obejects of Filth   | 703-356-1782 | The Seventh Son  | DiSTRO SiTE |
+15,01   | The Spade           | 609-443-5789 | Mad DoG          | DiSTRO SiTE |
+15,01   | Meurte              | 908-647-1093 | Trident          | DiSTRO SiTE |
+15,01   | Apocolypse          | 201-934-5613 | Napalm           | DiSTRO SiTE |
+15,01   | Spades Evil Twin    | 609-443-7529 | Beavis           | DiSTRO SiTE |
+15,01   | Digital Escape      | 216-655-5367 | Chronos          | DiSTRO SiTE |
+15,01   | Lost for Wordz      | XXX-xxx-xxxx | OSiRiS           | DiSTRO SiTE |
+15,01   | ViSAGE              | 708-965-4643 | BrimStone        | DiSTRO SiTE |
+15,01   | DiSToRTiON          | 313-426-1986 | HayWood          | DiSTRO SiTE |
+15,01   | The Sanitarium      | 501-327-9069 | Puppet Master    | DiSTRO SiTE |
+15,01   | Green Hell          | 701-523-5909 | Evilive          | DiSTRO SiTE |
+15,01   | Cell Block 4        | 815-282-8732 | Malicious Intent | DiSTRO SiTE |
+15,01   | The Complex         |              | Trackistar       | DiSTRO SiTE |
+15,01   +---------------------+--------------+------------------+-------------+
+
+
+15,01    As you can see we thinned some sites out and we are now accepting more
+15,01    sites. Fill an app out and send it to our application HQ 217.864.4796
+15,01    If you was a site and not mentioned, well your not now. We are only
+15,01    accepting good quality boards.
+
+15,01    File Update: 09-01-94
+15,01    By: .\\r. .\\Uff

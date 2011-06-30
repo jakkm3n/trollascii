@@ -1,0 +1,51 @@
+15,01Jihad is a new group formed by me, hFaze.  Jihad means holy war in Arabic.
+15,01Prime Evil thought of it, i guess.  Ok, so here is the app, fill it out and
+15,01give it back to me.  Fin.
+
+15,01[Jihad...General]
+
+15,01Handle:
+
+15,01Give us a 2 letter abbriviation of your handle:
+
+15,01Full name:
+
+15,01Age:
+
+15,01Voice #:
+
+15,01Data #:
+
+15,01Inter Net email address:
+
+15,01City, State:
+
+15,01Country:
+
+15,01Computer type:
+
+15,01Previous groups:
+
+15,01Do you run a board?
+
+15,01        Name:
+15,01        Number:
+15,01        NUP:
+
+15,01[Jihad...Distro]
+
+15,01Modem type/speed:
+
+15,01Name of board:
+
+15,01NUP:
+
+15,01Number(s):
+
+15,01Software:
+
+15,01Hard drive space:
+
+15,01How many nodes:
+
+15,01Current dist sites and nets:

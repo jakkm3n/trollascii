@@ -1,0 +1,32 @@
+15,01                06mmmm 13mmm    06mmmm15        06mmmm 13mm    mmmm 06mmmm
+15,01                14,06   06,01"13|14,13    13,01m  14,06   06,01" 14,13  13,01  14,13  13,01 14,06   06,01"13|14,13   13,01m  14,13    13,01|14,06   06,01"
+15,01                14,06 06,01"13m14,13 13,01 "14,13     13,01 14,06 06,01"13m14,13 13,01 14,13  13,01  14,13  13,01 14,06 06,01"13m14,13 13,01 14,13    13,01  """" 14,06 06,01"13m14,13 
+15,01                13m14,13   13,01 mm14,13    13,01 m14,13   13,01 "14,13 13,01  14,13 13,01" m14,13   13,01  14,13    15,01      13m14,13   
+15,01                14,13    13,01 """""  14,13    13,01 14,06 06,01m13""06m14,06 06,01 14,13    13,01  14,13    15,01      14,13    
+15,01                14,13    13,01 14,13     13,01m 14,13    13,01 06"""""" 14,13    13,01  14,13  13,01"06m15      14,13    
+15,01                14,13    13,01    14,13   13,01 14,13    13,01 m14,13     13,01 14,13    13,01  "06m14,06  15,01      14,13    
+15,01                14,13    13,01 "14,13    13,01" 14,13    13,01|14,13      13,01 14,13    13,01  14,06    15,01      14,13    
+15,01                                                        08[10UC08]
+15,01                13m14,13            13,01"06m14,06             06,01"13m14,13             13,01"
+15,01                    03E09d14itor : Anton The Pimp  [BLuNT Pre09z03]
+
+03,01G09r14eetings BLuNTeD ones! This news file is for informing the BLuNT members an09d
+03,01d09i14stribution sites of upcoming news in the BLuNTeD Community. Just recently 09w03e
+03,01d09e14cided that BLuNT deserved a nationwide network. So me and Cthulhu formed t09h03e
+03,01n09e14twork of BLuNT, H15e14MPN15e14T!  any BLuNT Distribution site should pick up HeMPN09e03T
+03,01i09f 14netmail is on your system. If not, try to get a front end mailer working 09o03n
+03,01y09o14ur BBS.  You can get all the information for HeMPNeT from the BLuNT WHQ --09-03-
+03,01A09n14ton's Co.3o4.346.2932.  If you are not a BLuNT Distro and wish to carry th09i03s
+03,01n09e14twork, contact me at the BLuNT WHQ, we should be able to arrange it. We ha09v03e
+03,01w09o14rked really hard to get this pack out.. so I'd like to give a few shout-ou09t03s
+
+15,01                                     04G13r00ee13t04s
+
+15,01       14UN15KN00OWN C15OM14iC    00- 14Th15an00ks man... those new ansis kick mucho 15a14ss
+15,01       14Te15mp00us Th15al14es    00- 14Ou15tt00a the scene.. crispy and c15le14an
+15,01       14Q15u00az15a14r15           00- 14Yo15u'00d better put up a board or somet15hi14n!
+15,01       14Bl15ac00k Kn15ig14ht15     00- 14Le15t 00me on those nets ya got up th15er14e!
+15,01       14R15a00D M15a14N15          00- 14Yo15u 00STiLL don't know who I 15a14m!
+15,01       14L15i00QU15i14D15           00- 14Be15tt00er come back soon you K-Rad ANSi d150014d!
+15,01       14Th15e Co00nquist15ad14or 00- 14He15y, 00wanna rename all my ansis for 15me14!?
+15,01       14Th15e Cr00ack Ad15di14ct 00- 14Ca15ll 00my board you James Vaughan y15ou14@!

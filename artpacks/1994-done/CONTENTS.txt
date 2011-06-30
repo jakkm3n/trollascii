@@ -1,0 +1,32 @@
+
+15,01 Volume in drive C is PAL286         Serial number is 3B36:07E1
+15,01 Directory of  c:\games\ansi\pack\*.*
+
+15,01.            <DIR>     12-13-93  20:21 
+15,01..           <DIR>     12-13-93  20:21 
+15,01buttbeav.ans     2374   2-09-94   9:00 
+15,01canary.ans       7865   2-09-94   9:00 
+15,01contents            0   2-10-94   1:32 
+15,01crack.ans        3839   2-09-94   9:00 
+15,01deathrow.ans     5868   2-09-94   9:00 
+15,01eternity.ans     3855   2-09-94   9:01 
+15,01fawk-app.exe    25024   2-09-94  17:53 
+15,01fawk2994.nfo     8553   2-10-94   1:28 
+15,01fawklogo.ans     2726   2-09-94   9:01 
+15,01filestat.ans     1828   2-09-94   9:02 
+15,01file_id.diz       236   2-09-94   8:46 
+15,01guitar.ans       2196   2-09-94   9:03 
+15,01hick.ans        12411   2-09-94   9:03 
+15,01hosofpan.ans    16782   2-09-94   9:02 
+15,01housmain.ans     1842   2-09-94   9:03 
+15,01housstat.ans     2524   2-09-94   9:03 
+15,01jiminy.ans      11335   2-09-94   9:04 
+15,01lagu.ans         6008   2-09-94   9:04 
+15,01mickey.ans        406   2-09-94   9:04 
+15,01mm-800#s.lst     3127   2-02-94   0:26 
+15,01msgstat.ans      1935   2-09-94   9:04 
+15,01readfawk.1st      292   2-10-94   1:31 
+15,01reality3.ans     3554   2-03-94  23:52 
+15,01worm.ans        11948   2-09-94   9:05 
+15,01     136,528 bytes in 26 file(s)           159,744 bytes allocated
+15,01   7,972,864 bytes free

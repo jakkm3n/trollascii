@@ -1,0 +1,67 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                       J  U  N  E            2   0   0   1
+15,01-------------------------------------------------------------------------------
+
+15,011. Another month, another pack.  We hope you guys enjoy this one.  We put a lot
+15,01   of love into this pack, just for you.  If you're a fan of the USA or Canada, 
+
+15,01   happy  Independence Day to you!   If you hate either one,  you can take this 
+
+15,01   time to think of all the reasons you hate them.
+
+15,012. Welcome TonchyZ to  the group!  TonchyZ joins us from  Croatia, and has been
+15,01   absolutely   churning  out  tiles.   TonchyZ  is a fantastic artist,  and he 
+
+15,01   thinks fish and tin foil are neat.
+
+15,013. Slothy is still  covered in  grout after  what is now  known as  the  'tiles
+15,01   incident' and is limping  slowly across the usa  to find slashdot's servers.
+15,01   In lieu of his broken crusade, we've decided to  release some art to attract
+15,01   him home.  To those who tried to get to our site on July 2nd, we're sorry :)
+
+15,014. Root88 was promoted to  Advisor this month,  joining Spot.   At the  crowded 
+
+15,01   hearings before he was voted in, Root answered all of the questions honestly
+15,01   and candidly, even the ones about jellyfish in his pants.  He was applauded,
+15,01   and he thanked everyone  afterwards with a joyful trip to  Chuck E Cheeze's.
+
+15,015. iCE is continuing to try and  make the world a better place.   This time, we
+15,01   are trying to  help find a  cure for cancer.   iCE has donated over 3 months
+15,01   worth of processor time to the  THINK project.   Go to  www.ud.com  for more 
+
+15,01   info.  You can even join the iCE team to help our stats out!
+
+15,016. iCE is  preparing  for  our big  "iCE Con"  this  summer  at an  undisclosed 
+
+15,01   location.  Around 10-15 iCE members  will be getting together  for a weekend 
+
+15,01   of fun, laughs, and other nouns.   They will also be verbing each other with
+15,01   giant nouns, which may be painful,  but the  memories  and photos  will last 
+
+15,01   forever.
+
+15,01Drinking with our pinkies in the air,
+15,01     Slothy, Mass Delusion, Spot and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion
+15,01-------------------------------------------------------------------------------

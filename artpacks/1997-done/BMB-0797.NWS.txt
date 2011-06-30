@@ -1,0 +1,80 @@
+
+
+
+15,01                   03mmmm15      00mm15                  14 #15   14##mmmmmmm  
+15,01             03m09,03mm09,01m03m09,03m14,09   09#09,03m03,01m15  00m14,00 00,15m"00,00 00,01mm15             14,14  14,01mmmmm15 14,14  14,01#15 14,14 15,01  14,14  15,01 14,14  14,01mmmmm
+15,01            03|09,03|09,09 #14,03 09,01""""""03"15 00m14,00 00,15"mm00,00 00,15"m14,00  00,01mm 15       14#15 14,14  14,01  15 14,14  15,01 14,14  15,01  14,14 15,01  14,14  15,01 14,14  14,01  15 14,14  
+15,01             03"09"15 00m00,00# 00,01m15 00,00#14 00,01m15  00"14,00 00,01""15"00""14,00  00,15"m14,00 00,01m  15 14##15 14#15 14,14  14,01## 14,14  15,01 14,14  15,01     14,14  15,01 14,14  15,01 14#15 14,14  
+15,01    14###15        00|00,00 14 00,01m14,00 00,01||m00,00#15,01   00 04m13,04#mm04,01m15 14,00  00,15"m14,00 00,01|15 14#01@@14#15  14,14  15,01   14,14  15,01 14,14  14,01####15 14,14  15,01 14,14  01,01pyx14,14  
+15,01     14#15       04|13m 00""""15 00""15   02#15 04"13""13,13#13,04|04,01|00|00,15m00,00 00,01"15   14#01@14#15   14"""""""15 14mmmmmmmmm15 14"""""""
+15,01   14#15         14,04 13,13 00# 13  #13,04mm04,01m01pyx15 02m12,02mm02,01m15 04"15 14,00 00,01"15      14#15      14mm14,15""""         """"14,01mm##
+15,01  14#01@14#15        04|13,04|13,13  13,04"04,01""15 04"15    14,02 12,12   12,02|02,01|15              14m14,15""       00 14 00##14   00#14      ""14,01m
+15,01   14#15     02#15    04"13,04"13,13 #13,04mmm#04,01m15  02|12,02|12,12   14,02 15,01  14##15     14#15   14m14,15"    00#14 00### ##15@@00####14 00#14  00#14    "14,01m
+15,01         02mm12,02#mm12,01m15 04""""""02 mm12,02m12,12   12,02|02,01|15 14#01@@14#15   14#01@14#15 14|14,15|   00##15@00#15@@@00##15@@00,00#15,15@00#15@@00#15@@00#15@00##14   |14,01|15 14#
+15,01       02m12,02m12,12#      12,02mmmmm12,12      #12,02"02,01"15   14##15 14 15   14#15 14 14,14 14,15   00#15@@00,00#15,15@00,00# #15,15@@00,00###15,15@@00,00##15,15@00,00##15,15@00,00#00,15###14   14,14 15,01 14#
+15,01      02|12,02|12,12               #12,02""02@02,01" 15     10##11mmm  15    11mmmm00 """"""""11 m 00"11 mm 00"""11 mmmmm
+15,01    01p15 14,02 12,12  #14,02 02,01"12,02 "12,12         12,02|02p15,01 01pyx10#11 m14,11 10m14 11,01"11,11p10m10,10 14,11 11,01  m14,11 10m10,01"00""10"11" 10#11m14,11 10m14 10,01#14,11 10m#11,01|10#14,11 00m14 10#11,01 m10,11m10,01"00""11"10##11 
+15,01    01y02|12,02|12,12  12,02|02,01|14,00 00,01mm15 12"12,12##     #02,02@02,01|#15 10#11@10#14,11 00,10##10,11|01,01p11,11y10,10 14,00 00,11|11,01|10#14,11 10,10 10,11|14 11,01""10##11  14,11 14,00 10,10 14,11 11,01 10,11 10,10 10,11|11,01||10,11|14,00  14,11 10,01##11""""10,11#mm14 11,01m
+15,01   02##14,02 12"12,12 12,02"14 00,01|00,15|||14,00 12,01 12,12        12,02|02,01|#15  10#11|10,11|10,10  11,01|01y10,11#10,10   11,01||10,11|10,10  11,01| m10,11m14 11,01m 10,11#10,10 10,11|11,01||10,11|10,10 10,11|11,01||10,11|10,10  14,11 11,01 14,11 10mm14 11,01m 11,11p10,10  10,11|11,01|
+15,01    04m15 02"""01p00,00 00,15m"14,00 00,01|12|12,12         14,02 02,01#15  10#11|10,11|10,10  11,01||10,11|10,10 00#10 11,01||10,11|10,10 10,11|11,01||10,11|10,10  11,01||10,11|10,10 10,11|11,01||00,10#10 11,11p01,01p10,11#10,10   11,01||10,11|14,00 10,10  11,01||11,11y00,10##14,11 11,01 10#
+15,01   04|13,04"13,13 #13,04#15,01 12mm15 00""12 14,12 12         12,02|02,01m15   14,11 10,10  10,11|01,01x11|10,10 00##10,11|10,01#11|10,11|10,10 10,11#11,01 14,11 00,10##10,11|11,01||00,10##14,11 10,01#14,11 00,10#10 11,11y01,01y14,11 10,10  10,11|11,01||10,10   10,11|11,01||10,11|10,10 00 10,11 11,01 @
+15,01    04""" 15 02"12,02"""12,12   ##12,02""""12,12   12,02"#02,01|15  10,11#"10,10 14,11 11,01 10,11 "10,10 10,11" 11,01 14,11 10"10,10 14,11 11,01m14,11 10""11,01"10#14,11 10"10,10 10,11|11,01m10,11#10,10 10,11"11x11,01m14,11 10 "11,01" "10,11"10,10 00#14,11 11,01m14,11 10""#11,01" 10#
+15,01        14pyx02##"""""""""""12,02##02,01"15   10#11""   ""  10##11""""15      11"""""""15 01x15    10##11 """"
+
+
+15,01   Greetings fellow artnerds! Sit up straight and keeps your hands on top
+15,01   of your sheets ...
+
+15,01   Last time, we finally made new 10info-files15. This time, if I'm not
+15,01   mistaken, we should have redisigned the 10applier15. As we've had the same
+15,01   design for some time now, we got out of the coma - tada ! -   All the
+15,01   credits for coding goes to10 Intellius15, and credits to 10Pyx15, for
+15,01   redesigning the old peckar.
+
+15,01   Summer holidays are over us. School is finished, and the most of us are
+15,01   now planning to go to 10Nepal15 or something, just as it is far, far away    
+15,01   from home. We want to relax and forget every little problem, just ...
+15,01   relax. But some of our members have relaxed a bit too long. 10Everyone
+15,01   is on vacation now, exept for Pyx. You will probably see that when you
+15,01   browse the pack.
+
+15,01   But despite the holidays and the lazy attitude, we bring 
+15,01   you another one of our little combustion! Though there are very few 
+15,01   contributions from the artists, 10Pyx15 has gone berserk this month.
+15,01   Chech out those 10pictures15.
+15,01   Intellius is back and recovering from his exam hell.
+15,01   He is also finally updating the bamboosh web pages and checking his
+15,01   email again... :)                       
+
+15,01   Check them out at 10http://home.sol.no/intel/bamboosh
+
+15,01   These two guys has also grown a bit older now too, Intellius is 1021
+15,01   and Pyx is 102015! This is also the 1015th15 pack, so 10horray15,10 horray15!
+
+15,01   Last month we had two new members, 10Dumbfuck 15and 10Poldi15. This month,
+15,01   we were supposed to have a new member, but that went down the drain.
+15,01   He comes from Yoguslavia, but obviously, he got an offer from another
+15,01   group, which he will join. He was supposed to contribute with a
+15,01   10guest appearance15, but it's not here at the moment ;-)
+
+15,01   Most months also have some sad news, and this time it's very sad.
+15,01   10Noah15 is leaving the group, believe it or not. He probably thought
+15,01   it was time to move on, so that is what he did. We can't stop him, 
+15,01   the only thing we can do, is to support his desicion, and say 
+15,01   thank you for everything. We loved working with you, and we wish you
+15,01   luck your forthcoming career as an ansi artist. Check out Pyx'
+15,01   goodbyeansi, dedicated to Noah (10pyx-hulk.ans15).
+
+15,01   A guy we've been missing, this time also comes with a guest appearance!
+15,01   Guess who? Yes... it's..10 Phobic15! Long time no see. He's throwing in
+15,01   a small 10ASC15 he did some days ago. Nice to see you're around, we've 
+15,01   been missing you (a la la la la long)! :-)
+
+15,01   You probably haven't forgotten 10Deranged15 yet :-) Vermin wanted
+15,01   to guest appear in the pack, and the result was one 10ascii15 and one
+15,01   10vga15! Also, 10Joda15 (also a green, little buggar) appeared with his
+15,01   80x50 nice piece of art. He's also got a nice piece off 10ass15! =:->
+15,01 
+15,01   We've had a few applies for 10sites15, but all of them was turned      
+15,01   down... :-/ We have two simple rules for the sitesposition :
+15,01   1 - Only 10two 15sites pr. country (one HQ, one dist)

@@ -1,0 +1,24 @@
+15,01CHARSET: Display all characters of current screen font. Ver 1.5 Apr 16 1993
+15,01Copyright (c) 1990-1993 by Yossi Gil, P.O.Box 3148, Jerusalem, ISRAEL.
+
+15,01     Usage: charset [-p]
+
+15,01Will display a 16x80 screen comprising of a table of all 256 different chars
+15,01in current screen font, text demos (the quick brown fox..., figures, currency
+15,01symbols, and miscellaneous other characters), business graphic, ASCII controls,
+15,01arrows, boxes, mathematical symbols, dots, etc. CHARSET is useful for
+15,01demonstrating and examining a screen font.
+
+15,01FLAGS
+15,01   -p          Wait for a key hit before terminating.
+15,01   -h          Display this message.
+15,01   -H          Display this message.
+15,01   -?          Display this message.
+
+15,01SEE ALSO
+15,01    loadfont, withfont, palette, fontcomp
+15,01    The font collection.
+
+15,01COPYING POLICY Copy freely for private use. Usage as part of any commerical
+15,01  package is under the same restrictions as of Rhaul Dehsi ZOO program. If you
+15,01  cannot obtain ZOO, you cannot use 'charset' commercially.

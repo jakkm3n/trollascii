@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                        M  A  R  C  H    1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Hip hop hooray from the phattest beat-bustin' g's this side of Kuwait. With
+15,01md, apox and the 609 posse as my dj, iCE is back again and we're bound to sell. 
+15,01 
+15,01This month's pack was origionally designed to come with a small attached bag of 
+
+15,01badges and pencils and the like, but the marketing problems would have been too 
+
+15,01much and the idea was scrapped.
+
+15,012.  The guards kept everyone inside the grounds on our spacious compound in the
+15,01glorious  Florida  Everglade swamp.   Even better,  nobody needed  to be fed to
+15,01"Mr. Balkie" - the happy, hungry, ambidextrous, and downright playful alligator 
+
+15,01who feeds on the artists who don't run so quickly.  Not a single soul left this 
+
+15,01month.  
+
+15,013.  Accidentally stolling by  our compound's main gate  on his daily  hike down
+15,01from Canada, we nabbed  Mad-3d, whose 3d talents  speak for themself.   We were
+15,01just  about  to  drop  him  into  the  dripping jaws  of  "Mr. Balkie"  when he
+15,01mentioned that he can "render a little."
+
+15,014.  Artist Update!   We were afraid  our very own Mant|s was lost to the world,
+15,01but we're  glad to report that he is in fact, still living.. and working as the
+15,01lead artist on a new upcoming  Sir-Tech game entitled X-Fire, which seems to be
+15,01a 3D-isometric style game.   Needless to say,  we couldn't be  happier for him,
+15,01and it's  easy to see  that  he hasn't  lost  his creative  flare while  in the
+15,01corporate world.  Check out his  pics this month!   If you have any interest in
+15,01finding out more about the game.. check out
+15,01http://cgw.gamespot.com/news/2b0a.html
+
+15,015.  To those of you who were paying attention, "V2", the new web site, is still 
+
+15,01underway and in approaching completion at a  feverish pace.  For a quick teaser
+15,01of what can be expected,  imagine being able  to search for  every ansi greater
+15,01than 50k that was done  by multiple  artists where "Count Zero"  was one of the
+15,01artists.  Then you could look at a  map to see where your favorite artist lives
+15,01and travel to our message bases to take part in our virtual community.
+
+15,016.  iCE has dipped into another  scene with it's cooperative work on Retrocade,
+15,01the upcoming  arcade game  emulator.   iCE has been  working over  the past few
+15,01months with some  extremely  talented  coders to  develop the  ultimate  arcade
+15,01gaming  experience on your PC.   We expect the first release to be out sometime
+15,01within a month, so stay tuned to the releases section on WWW.ICE.ORG as well as 
+
+15,01WWW.RETROCADE.COM for more information!
+
+15,017.  The first  batch of our  ice t-shirts will soon be rolling off the conveyor
+15,01belts!  Stay tuned for updates!
+
+15,018.  This month, the award for Artist of the Month(TM) goes to... Jae!   Jae has
+15,01cranked out 3 great pics this month, and has been drawing constantly since late
+15,011993  when he  first joined  iCE!   He has shown  that his  style is  flexible,
+15,01doing cartoon  ansis, then shaded ansis,  then moving on to airbrushed vga, and
+15,01finally rendering.   You have no doubt seen his art before, but stop this month
+15,01and take an extra long gander at his work - it's truly amazing.
+

@@ -1,0 +1,59 @@
+
+15,01     "articles from the  vancouver sun"
+
+15,01     A big brown cockroach crawls across the table in the laboratory of
+15,01Japan's most prestigious university. The researcher eyes it nervously, but he
+15,01doesn't go for the bug spray. He grabs the remote.
+15,01     This is no ordinary under-the-refrigerator-type bug.  This roach has
+15,01been surgically implanted with a micro-robotic backpack that allows 
+15,01researchers to control its movements.
+15,01     This is Robo-roach.
+15,01     "Insects can do many things that people can't," said assistant
+15,01professor Isao Shimoyama, head of the bio-robot research team at Tokyo
+15,01University. "The potential applications of this work formankind could be
+15,01immense."
+15,01     Within a few years, Shimoyama s ays, electronically controlled insects
+15,01carrying mini-cameras or other sensory devices couldbe used for a variety of
+15,01sensitive missions, like crawling through earthquake rubble to search for
+15,01victims or slipping under  doors on espionage surveillance.
+15,01     Farfetched as that might seem, the Japanese government has deemed the
+15,01research credible enough to award the equivalent of $7 million Cdn to 
+15,01Shimoyama's micro-robotics team and biologists at  Tsukuba University, a
+15,01leading science centre in central Japan.
+15,01     Money from the five-year grant started coming in this month, and young
+15,01researchers are lining up for a slot on Shimoyama's team.
+15,01     The team breeds its own supply of several hundred cockroaches in
+15,01plastic bins. Not just any roach will do. Researchers use only the American
+15,01cockroach (Perplaneta americana) because it  is bigger and hardier than most
+15,01other species. From that supply, they select roaches to be fitted with hi-tech
+15,01"backpacks" - tiny microprocessor and electrode set.
+15,01     Before surgery, researchers gas the roach with carbon dioxide. Wings
+15,01and antennae are removed. Where the antennae used to be, researchers fit
+15,01pulse-emitting electrodes.
+15,01     With a remote, researchers send signals to the backpacks which
+15,01stimulate the electrodes.
+15,01     The pulsing electrodes make the roach turn left, turn right, scamper
+15,01forward or spring backward.
+15,01     Over the past three years, researchers have reduced the weight of the
+15,01backpack to 2.8 grams, or about twice the weight of the roaches themselves.
+15,01     "Cockroaches are very strong," said Swiss researcher Raphael Holzer
+15,01part of the Tokyo University team. "They can lift 20 times their own weight."
+15,01     The controls, however, still have a few serious bugs on their own.
+15,01     Holzer jolts a roach with an electric pulse to make it move slightly
+15,01to the right and keep to a 2.5-centimetre-wide path. Instead, th
+15,01e roach races
+15,01off the edge of a table into Holzer's out-stretched hands.
+15,01     "The placement of the electrodes is still very inexact," he admits.
+15,01     While a backpack-fitted roach can survive for several months, it
+15,01becomes less sensitive to the electronic pulses over time. That's a big proble
+15,01if the bugs are to be used on longer missions.
+15,01     Holzer is optimistic. "The technology isn't so difficult," he said.
+15,01"The difficulty is to really understand what is happening in the nervous
+15,01system."
+15,01     And technology aside, Robo-roach is still, after all, a roach.
+15,01     "They arenot very nice insects," Holzer confesses. "They are a little
+15,01bit smelly, and there's something aboutthe way they move their antennae. But
+15,01they look nicer when you put a little circuit on their backs and remove their
+15,01wings." (END)
+
+15,01--------------

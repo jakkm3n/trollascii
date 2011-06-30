@@ -1,0 +1,79 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  December Update *    January 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0195.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID1294 ANS |   9120 |12.31.94 |%+   | December 1994 Member/Board List|
+15,01*|2  |ACIDAPP  EXE | 106288 |09.01.94 |%    | ACiD Application Form Generator|
+15,01*|N/C|ACIDVIEW CFG |   3975 |01.01.95 |%+   | ACiD View configuration        |
+15,01*|3  |ACIDVIEW EXE | 174450 |01.01.95 |%    | ACiD View version 3            |
+15,01*|N/C|ACIDVIEW NFO |  41832 |01.01.95 |%+   | ACiD View Documentation        |
+15,01*|4  |AK-TDI   ANS |   9028 |01.01.95 |%+   | The Darker Image               |
+15,01*|5  |AN-SEX1  RIP |  33332 |12.30.94 |%    | Sector X                       |
+15,01*|6  |BD-DOI   ANS |  48811 |01.01.95 |%+   | Dreams of Insanity             |
+15,01*|7  |BG-LOKI  RIP |  24817 |01.01.95 |%    | Loki's Error                   |
+15,01*|8  |BM-SE    RIP |  26894 |01.01.95 |%    | Suicidal Entity                |
+15,01*|9  |CE-ACD95 ANS | 300040 |01.01.95 |%Ax  | ...And A Happy New Year!       |
+15,01*|10 |CS-BADL1 GIF | 148092 |01.01.95 |%    | The BadLands                   |
+15,01*|11 |CS-TOAST GIF | 243351 |01.01.95 |%    | Sarcastic Toaster              |
+15,01*|12 |CS-WNDRL GIF | 183457 |01.01.95 |%    | Wonderland                     |
+15,01*|N/C|FILE_ID  DIZ |    729 |01.01.94 |%    | Acquisition FILE ID by {33}    |
+15,01*|13 |P1-CC1   ANS |  30612 |01.01.95 |%+   | Cat's Cradle                   |
+15,01*|14 |SB-AGORA ANS |  10459 |01.01.95 |%+   | Agora                          |
+15,01*|15 |SI-BSUN1 ANS |  14816 |12.14.94 |%+   | Black Sunshine                 |
+15,01*|16 |SI-TT1   ANS |  22881 |01.01.95 |%+   | Termite Terrace Systems        |
+15,01*|17 |SM-CC1   RIP |  32481 |01.01.95 |%    | Cat's Cradle                   |
+15,01*|18 |SS-DUNG2 RIP |  28905 |01.01.95 |%    | Dungeon II                     |
+15,01*|19 |SS-GRAV4 GIF |  86200 |01.01.95 |%    | The Shallow Grave              |
+15,01*|20 |SS-LCH1  RIP |  25561 |01.01.95 |%    | Leechworld Inc.                |
+15,01*|21 |SS-TF2   RIP |  52282 |12.30.94 |%    | Terra Firma                    |
+15,01*|22 |SS-TR1   RIP |  48212 |12.30.94 |%    | The Regency                    |
+15,01*|23 |STC-COM  ANS |  33799 |12.30.94 |%+   | Ill Communication              |
+15,01*|24 |STC-DF   ANS |  28141 |01.01.95 |%+   | Digital Fluid                  |
+15,01*|25 |STC-TF   ANS |  27290 |01.01.95 |%+   | Terra Firma                    |
+15,01*|26 |ACDU0195 NFO |   5621 |01.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   29     Average Compression Rate: %39          |
+15,01|          Total Bytes:  1,801,476     Average Of Bytes/File: 62,120          |
+15,01|                                      Total Bytes Zipped: 1,107,743          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

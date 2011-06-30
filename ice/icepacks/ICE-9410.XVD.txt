@@ -1,0 +1,15 @@
+15,01ICE-9410.NFO The ICE info file for October '94 =~*^=~*  ? |^ICE-9410.MEM The ICE
+15,01 memberlisting for October '94 =~*  ^=~*ICE-9409.STS The ICE statistics file for
+15,01 October '94 * #^=~*ICE-9410.SIT The ICE Site listing for October '94 ^=~*aHL 7v
+14,15@15,01+!e*^=CJ7.^=^=^=~*  ^=~*PN-EPI1.ICE +Epidemic Logo - Pnakotic e*^=CJ7.^=^=^=~* 
+15,019L 7vDD-SS01.ICE +Suicidal Shrimp - Deepstah ^=CJ7.^=^=~*14,15@15,01 ? ^=~*TG-PAN.ICE d+Th
+14,15@15,01+!e*^=CJ7.^=^=~*  ? ^=~*TG-EI.ICE @d+Evil Intentions - Toon Goon =CJ7.^=~*^=~* 
+15,01 ^=~*TG-DJS.ICE d+Data Jack Systems - Toon Goon J7.^=^=^=~*  ? |^STC-CART.ICE St
+14,15@15,01+!e*^=CJ7.^=^=~*14,15@15,01 L 7v++STC-CART.ICE The Carter - Stone the Crow =CJ7.%   ^=~* 
+15,01K^=~*SY-ND.ICE @d+Nightmares and Dreamscapes - Shaggy *  ? |^^=~*STC-LD.ICE d+Th
+15,01e Last Dimension - Stone the Crow =~*^=~*^=~*STC-LI.ICE d+Letal Injection - Ston
+15,01e the Crow ^=~*^=~*aH^=~*STC-SNC1.ICE Sanctuary(tm) - Stone the Crow 7.^=^=^=~* 
+15,01M^=~*FS-DNGN.ICE +Dungeon2 - Fistandantilus *^=CJ7.^=~*^=~* 9^=~*LS-TNC.ICE d+Th
+15,01e 9th Circle - Lord Soth ^=CJ7.^=^=^=~*aP^=~*CG-SHRMP.GIF Suicidal Shrimp - Chee
+15,01se Gratter ^=^=^=^=~*^=~*ICE-9410.STS The ICE statistics file for October '94  |
+14,15@15,01+!e*^=CJ7.^=^=~*14,15@15,01 L 7v&=a - Smooz +In*

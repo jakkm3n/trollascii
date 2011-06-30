@@ -1,0 +1,80 @@
+
+15,01Filename:  3000FISH.STM
+15,01Name:      The Road Ahead  (Made From 3000% Fish)
+15,01Length:    3:00
+15,01File Type: STM (Created with ST2.25)
+15,01Release:   07/24/94
+15,01Author:    The Hornet [iMP/TPT]
+
+15,01        You know, sometimes life is a lot like a forest, and you're some
+15,01kind of monkey on a branch, and you look around at the other monkeys around
+15,01you, and you look up to another branch to see all the more "respectable" and
+15,01"better" monkeys there and you just wish you could be there with them. And
+15,01one day, you do go with them. Then you look to the branch below, with all
+15,01your old friends, and only then to you realize what you had to leave behind,
+15,01what you can never go back to again.
+
+15,01        The last paragraph you have read is NOT about monkeys... It is a
+15,01metaphoric expression.. It doesn't refer to anything specific, but if you
+15,01read it closely you just may understand... And if you do, you'll then truly
+15,01understand the song.
+
+15,01        A few familiar tunes you may have already heard are in here...
+15,01A tune from the end of the Super Nintendo game Zelda III, and also some of
+15,01the piano from the Hill Street Blues title track.
+
+15,01        This is the product of only 4 days work, I have finished this one
+15,01incredibly early, I usually spend about 2 weeks per 3-4 minutes of song.
+
+15,01        For anyone who actually cares, I am 14, and can't play piano or any
+15,01other instrument. My musical talent seems to come from simply unexplained
+15,01sources....
+
+15,01Greets....
+
+15,01Epeius: Thanks for the request... This song otherwise wouldn't have
+15,01        existed... Hey! I have a PBX and I'm trying to call your board!
+
+15,01Humanoid & Annihilatus: Hey, thanks for getting me into the arts scene...
+15,01                        But right now I don't have any more time to code
+15,01                        demos... I'll try to finish the cylinder scroller
+15,01                        on the loader, but hey.. I have 4 days/week job, and
+15,01                        a social life to try to keep, although it is quickly
+15,01                        diminishing.. :(   And at night I only have the
+15,01                        brain power for music!
+
+15,01iMPERiAL members: Keep up the excellent work!   *-=!BLEU!=-*
+
+
+
+
+15,01To contact me, call either:
+
+15,01Dream World BBS         514-256-3598
+15,01Time Rift BBS           514-684-8728
+
+15,01(Don't be offended if I call your board, and I didn't put your number here!
+15,01 But I can't remember your numbers!!)
+
+15,01Also you can mail me through GripNet...
+
+15,01Also, two things about 1000FISH that I have been pestered about, first of
+15,01all I forgot to give mention to the game StarFox (I took the tune from that
+15,01and made a little piano part in my own song...) I hope Hajime Hirasawa will
+15,01ever forgive me!! :)   Also, people have been asking why the hell did I put
+15,01such a childish song as the Twinkle Twinkle Little Star song... Well, to
+15,01answer your question, I did about 40 minutes of covers, (other people's
+15,01songs,) copied from an old book full of piano scores, so that I could learn
+15,01how piano music is written. (Since I don't play piano.) And I kept the ones
+15,01that turned out best and put it into one song. This is why I chose those 4
+15,01cover songs, because they turned out the best...
+
+
+
+15,01Anyway, I hope this inspires you to try and write your own songs, perhaps
+15,01even piano songs... If so, upload them to Dream World or Time Rift! :)
+
+15,01I have used more samples in this song than 1000fish or 2000fish... I ripped
+15,01all four of them, though... Here is the credits:
+
+15,01string_piano:   Taken from Future Assassin's "Blurred Emotions"

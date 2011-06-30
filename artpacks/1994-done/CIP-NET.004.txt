@@ -1,0 +1,80 @@
+15,01;                     ### CRiME iN PROGRESS NETWORK ###
+15,01;                          Nodelist #4 (04/30/94) 
+15,01;
+15,01;                             AREA LiSTiNG
+15,01;                             ------------
+15,01;                        ! = Sysop Access only
+15,01;                        # = Areas you must carry
+15,01;                       
+15,01;                        !#CIP-SYS    Sysop Base
+15,01;                        !#CIP-TEST   Test Messages
+15,01;                         #CIP-MISC   General Chatter
+15,01;                          CIP-ANSI   ANSi Base
+15,01;                          CIP-LIT    Literature
+15,01;                          CIP-HVK    Havok Discussion
+15,01;                          CIP-CONS   Console / Arcade
+15,01;                          CIP-BBS    BBS Software
+15,01;                          CIP-ADS    BBS Ads
+15,01;                          CIP-BMKT   Black Market
+15,01;                          CIP-DEBT   Current Debates
+15,01;                          CIP-MUSC   Musical Interests
+15,01;                          CIP-SPRT   Sports Forum
+15,01;                          CIP-GTIP   Game Tips
+15,01;                          CIP-ENT    Entertainment
+15,01;                          CIP-PROG   Programming
+15,01;                          CIP-HARD   Hardware
+15,01;                          CIP-SUGG   Suggestions
+15,01;
+15,01;
+15,01;
+15,01Zone,18,CiPNet_WHQ,Lombard_IL,Sneaky_Car_Thief,1-708-261-1849,9600,CM,V32B,V42,H
+15,01ST,XA,REN
+15,01;
+15,01;
+15,01;   |  Region +61 - Australia   |
+15,01;
+15,01Host,100,100_Hub,CiPNet_AU,Acid_Drop,011-61-3-530-0414,9600,CM,V32,V32B,V42,XQ,P
+15,01CB
+15,01,1,Mind_Rape,Caulfiled_Vic,Acid_Drop,011-61-3-530-0414,9600,CM,V32,V32B,V42,XQ,P
+15,01CB
+15,01,2,Violent_Crimes,Melbourne_Vic,Sudden_Death,011-61-3-562-1008,9600,CM,V32,V32B,
+15,01V42,XX,OBV
+15,01;
+15,01;   |  Region 206 - Washington  |
+15,01;
+15,01Host,206,206_Hub,CiPNet_WA,The_Warden,1-206-756-7996,9600,CM,V32B,V42,XA,TAG
+15,01,1,USWorst_Communications,Tacoma_WA,The_Warden,1-206-756-7996,9600,CM,V32B,V42,X
+15,01A,TAG
+15,01;
+15,01;   |  Region 312 - Illinois |
+15,01;
+15,01Host,312,312_Hub,Chicago_IL,Hitman,1-312-745-7899,9600,CM,V32B,V42,XA,REN
+15,01,1,The_Squared_Circle,Chicago_IL,Hitman,1-312-745-7899,9600,CM,V32B,V42,XA,REN
+15,01,2,Falcon's_Nest,Chicago_IL,FaLcoN,1-312-604-8940,9600,CM,V32B,V42,XA,VIX
+15,01;
+15,01;   | Region 404 - Georgia  |
+15,01;
+15,01Host,404,404_hub,CIPNet_GA,Corigan,1-404-928-9020,9600,CM,V32B,V42,HST,XA,EXP
+15,01,1,Land_of_Ziest,Woodstick_GA,Corigan,1-404-928-9020,9600,CM,V32B,V42,HST,XA,EXP
+
+15,01;
+15,01;   |  Region 413 - Massachusettes |
+15,01;
+15,01Host,413,413_Hub,CiPNet_MA,Kolgoria,1-413-684-0245,9600,CM,V42,V32,V32B,XX,VI2
+15,01,1,Temporary_Insanity,Dalton_Ma,Kolgoria,1-413-684-0245,9600,CM,V42,V32,V32B,XX,
+15,01VI2
+15,01,2,Seeds_of_Destruction,Cheshire_MA,Phaser-X,1-413-743-9183,600,CM,V42,V32,V32B,
+15,01XX,VI2
+15,01;
+15,01;   |  Region 414 - Wisconsin  |
+15,01;
+15,01Host,414,414_Hub,CiPNet_WI,Mr_Corruption,1-414-463-9556,9600,CM,V42,V32,V32B,XX,
+15,01VIS
+15,01,1,Corrupted_Society,Milwaukee_WI,Mr_Corruption,1-414-463-9556,9600,CM,V42,V32,V
+15,0132B,XX,VIS
+15,01;
+15,01;   |  Region 513 - Ohio  |
+15,01;
+15,01Host,513,513_Hub,CiPNet_OH,Tron,1-513-385-2749,14400,CM,XQ,V42,V42B,V32,V32B,XA
+15,01,1,Illegal_Embassy,Cincinati_OH,Tron,1-513-385,2749,14400,CM,XQ,V42,V42B,V32,V32
+15,01B,XA

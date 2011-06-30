@@ -1,0 +1,29 @@
+15,0104/26/93                11:50pm
+
+15,01Technical Notes...
+15,01---------------
+
+15,01        Humm... lesse... the first two parts are no marvel of coding, but
+15,01the last page should be familiar from the ts-crit loader. I re-wrote
+15,01about half of it though, and this time we have a bouncing scroll.
+
+15,01        The screen is a virtual 1024x225 layout. The top scroll is 25 pixels
+15,01high, with 25 empty pixels above and below for a total of 75 pixels. The
+15,01bounce and scroll is created by moving the offset register by 1 horizontally
+15,01and one line (1024/4 [Mode X again]) vertically according to a half-wave
+15,01sin table.
+
+15,01        You'll need about 500K free, at least a 286 with VGA to run it.
+
+15,01        <T*S> [iCE]
+
+15,01        Ottawa, Canada!
+
+15,01*Note: A number of people have told me that they've had problems getting
+15,01       the loader to run when selecting the SBPro for the music device.
+15,01       It works fine on my SBPro, so it's hard to tell what the problem is.
+15,01       I suspect it's with this version of GoldPlay, but if you run into
+15,01       trouble, try selecting the ordinary SB for the output device, or
+15,01       failing all else, use the <GASP> PC Honker. Don't worry, I won't
+15,01       be using GP for much longer anyway... I bought a Gravis Ultrasound
+15,01       the other day... ;)

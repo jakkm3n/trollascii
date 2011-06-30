@@ -1,0 +1,14 @@
+15,01Program # File Listing Header Replacement
+15,01Author  # Altered Destiny [HR/RCT]
+
+15,01What Does it Do #
+
+15,01Replaces the :
+
+15,01FileName
+15,01======= 
+15,01Crappy looking thing and adds a fourm-hack look to it.
+
+15,01Just put
+15,01!C:\{PPEPATH}\HEADER.PPE
+15,01on the first line of your DIR files 

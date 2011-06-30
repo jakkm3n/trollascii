@@ -1,0 +1,42 @@
+
+
+
+
+15,01                               00Rulers of Chaos
+15,01                          00October, 1994 Information
+
+
+
+00,011: Lack of Viewer
+
+00,01    Ok we said over and over again that we were waiting on the viewer and thats
+00,01why the pack isn't out yet and now it comes out without a viewer. Seems like we
+00,01were making excuses eh? Well heres the story. We had someone working on the
+00,01viewer but due to circumstances he could not finish it. Now we could have had
+00,01someone else make a viewer but it would have taken too long and it would have
+00,01not been until Novemember until we released a pack. So we decided to release the
+00,01pack without a viewer and see our response. The Second Wave of Pandemonium
+00,01will have a viewer in it.
+
+00,012: New Members
+
+00,01    As you can tell by looking at our member list we do not have very many
+00,01members. We are looking for new artists,writers,and coders. Just fill out the
+00,01application generator and follow the directions it makes in the final
+00,01application.
+
+00,013: A Note From The Prez
+
+00,01    Alright dudes, we are here to make art and though we've had several setbacks
+00,01trying to get this first pack out, we have pulled through and done it. I would
+00,01like to think the members of VOR who supported ROC and everyone else also.
+00,01Everyone has been cool and made us feel welcome in the art scene. Look for some
+00,01suprises in the next pack, like a viewer <g>. Well I guess thats it for this
+00,01.NFO file. Maybe once we get goping a little stronger we'll have more to talk
+00,01about.
+
+
+15,01                                                                00-Godsung
+
+15,01>SAUCE0010/94 ROC NFO File                 Godsung             READ THE INI FILE
+15,01   19940929+A  @@P v                             

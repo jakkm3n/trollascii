@@ -1,0 +1,80 @@
+15,01                      m
+15,01                      14,15 15,01                        14,15 
+15,01                     ""                       m14,15 
+15,01   mm14,15    15,01"""     mm14,15      15,01mm       mm14,15    15,01mm    14,15  15,01    mm14,15    15,01mm       mm14,15    15,01"""
+15,01 m14,15  15,01""         m14,15  15,01"" mm ""14,15  15,01m   m14,15  15,01""  ""14,15  15,01m  14,15  15,01  m14,15  15,01""  ""14,15  15,01m   m14,15  15,01""
+15,01m14,15  15,01"          m14,15  15,01    14,15  15,01    14,15  15,01m m14,15  15,01        14,15  15,01m 14,15  15,01 m14,15  15,01        14,15  15,01m m14,15  
+14,15  15,01            14,15  15,01     14,15  15,01     14,15  15,01 14,15  15,01          14,15  15,01 14,15  15,01 14,15  15,01          14,15  15,01 14,15  
+14,15  15,01 14,15     15,01"""   14,15  15,01     14,15  15,01     14,15  15,01 14,15  15,01         m14,15  15,01 14,15  15,01 14,15  15,01   mmm14,15  15,01 m14,15  15,01 14,15  15,01 14,15     15,01"""  14,15 
+14,15  15,01m           14,15  15,01     14,15  15,01     14,15  15,01 14,15  15,01        m14,15  15,01  14,15  15,01 14,15  15,01        m14,15  15,01  14,15  15,01m          14,15 
+15,01 14,15  15,01mm        m14,15  15,01     14,15  15,01     14,15  15,01 14,15  15,01 mm14,15      15,01"   14,15  15,01 14,15  15,01 mm14,15      15,01"    14,15  15,01mm      m14,15  
+15,01  ""14,15          15,01"      14,15  15,01     14,15  15,01 14,15  15,01             14,15  15,01 14,15  15,01   ""14,15  15,01mm      ""14,15        15,01"
+15,01                     14,15  15,01     "14,15 15,01 14,15 15,01"              " 14,15 15,01"      ""14,15  15,01m
+15,01                     14,15 15,01"      14,15 15,01 14,15 15,01                 14,15 15,01          14,15  
+15,01                     14,15 15,01                                      14,15 
+
+
+15,01   Before I go on and on about everything and nothing, I regret to announce
+15,01that KillRaven; the Empire Ansi Coordinator, excellent artist, and all around
+15,01great guy; is retiring from Empire after this pack is released. With his work
+15,01this month he disclosed the following comments, which I add below your your
+15,01reading displeasure...
+
+15,01-- KillRaven's Comments ----------------------------------------------------
+
+15,01    Well,  as this  is the  last month  that I  occupy the  ANSi coordinator
+15,01title, I would like to say some last words before I leave EMPiRE.
+15,01    Since  I've met  ShadowSorcerer in April/June  of 1993,  I think  that I
+15,01can say that I've progessed  a lot, and I suppose  that all that I had  ever
+15,01really  wanted   was  to   do  something   great.   I   feel  that   I  have
+15,01accomplished that,  and  now  my  work  is  getting  progessively  lesser in
+15,01quality  as  well  as  in  quantity...   Some  personal  reasons  have  also
+15,01caused me to get a little tired of all the going-ons...
+15,01    I would  like  to  continue  making  ANSiS...  but  I  am out-gunned and
+15,01out-classed by  people like  Flick of  the Switch,  Primordial Chowder, etc.
+15,01that produce  ANSiS of  quality and  in quantity  which are  far superior to
+15,01my  own.   That's  the  truth.   And,  I've  set  some  expectations  that I
+15,01cannot possibly achieve in the future...
+15,01    Maybe  I   will  continue   to  do   ANSiS  in   the  future   (but  not
+15,01regularly...  I  can't  even  meet  my  own  quota  that  I  established for
+15,01EMPiRE), but  they are  rather time-consuming,  and I  would like  to take a
+15,01long break  to practice  on my  ANSiS, RIPs,  poetry, and  also on  a myriad
+15,01of other ideas that I have floating about in my head.
+15,01    I  might  do  some  artwork  or   articles   or  something  for  Premier
+15,01Magazine occasionally in the future...
+15,01                                                           --KillRaven
+
+15,01Greets go out to:
+
+15,01    Everyone in EMPiRE  - Good work...  in my  opinion, this  group shows  a
+15,01                          lot  of potential  and is  far better  than a  lot
+15,01                          of other groups... good luck in '94.
+15,01    Doctor Stupid       - Your   RIPs   are   awesome...  and   your   ANSiS
+15,01                          could be awesome if you took them seriously...
+15,01    ShadowSorcerer      - Everything  that  I  have   accomplished  for  the
+15,01                          past seven  months  I  owe  to  you...  thanks for
+15,01                          your faith  in me...   and no,  I won't  take some
+15,01                          of your credit... =)
+15,01    ReDMaN              - You're too disgustingly young...!
+15,01    Ender               - Give me  more advance  notice when  you are  in my
+15,01                          area...
+15,01    Flick of the Switch - Your fonts are awesome... keep it kickin'.
+15,01    primordial chowder  - I  don't  care  what  everyone  thinks.   I  liked
+15,01                          "AWoL".  And your stuff is awesome also.
+15,01    The Manifest Crew   - I haven't  seen a  pack yet,  but so  far you guys
+15,01                          look pretty good...
+15,01-----------------------------------------------------------------------------
+
+15,01   I can honestly say that every Empire veteran feels KR's loss, but we feel
+15,01that this is not only bad but also good. To stop now because of KR's retire-
+15,01ment would be silly, but I would like to commend everyone for their morale
+15,01on this subject. Seems only I was having doubts about his loss. I suppose it
+15,01probably hit me the hardest because I have the strongest bond to him; the
+15,01most probability of being greatly effected. Anyhow, I would like to thank
+15,01KillRaven for all he's done for Empire and Illusion... and it has been alot,
+15,01James, even if you think it wasn't much. I'll miss your style addition to our
+15,01packs... have a well-deserved retirement.
+15,01   We gained a few artists this month, many of which seem to have promise.
+15,01Dark Vision, who has drawn several interesting Ansi pictures, many of which
+15,01are disclosed in the pack, shows the most potential of them all... though I
+15,01really don't like to put anyone on a pedestal. DV has become the West Coast

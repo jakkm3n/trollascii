@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : September Update *    October 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1093.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0993 ANS |   8655 | 9.30.93 |%+   | September Members List         |
+15,01*|2  |ACIDAPP  EXE |  41644 | 9.01.93 |%    | ACiD Application Form Generator|
+15,01*|3  |AE-CEL20 ANS |  14115 | 9.30.93 |%+   | Celerity 2.0                   |
+15,01*|4  |AE-DSUN2 ANS |  29905 | 9.30.93 |%+   | The Dark Sun World          (2)|
+15,01*|5  |BX-BLINE ANS |  21550 | 9.30.93 |%+   | Border Line                    |
+15,01*|6  |CX-COR1  ANS |   4434 | 9.27.93 |%    | Corruption Logo             (1)|
+15,01*|7  |CX-COR2  ANS |   6594 | 9.27.93 |%    | Corruption Logo             (2)|
+15,01*|8  |CX-CRIM1 ANS |   5450 | 9.24.93 |%    | Crimson Logo                   |
+15,01*|9  |DH-TAS   ANS |  41964 | 9.30.93 |%+   | The Amargeddon Support Board   |
+15,01*|10 |DT-MMW   ANS |  12410 | 9.20.93 |%+   | Mad, Mad World                 |
+15,01*|N/C|FILE_ID  DIZ |    273 | 9.28.93 |%    | Acquisition FILE ID by {VN}    |
+15,01*|11 |FN-BS1   ANS |  10886 | 9.26.93 |%+   | Black Sunday                   |
+15,01*|12 |IZ-ACID4 RIP |  10497 | 9.30.93 |%    | How did they?                  |
+15,01*|13 |IZ-POP   ANS |  17900 | 9.30.93 |%+   | Prisoners of Paradise          |
+15,01*|14 |JD-BUTT  ANS | 636783 | 9.30.93 |%Ax  | Beavis and Butthead            |
+15,01*|15 |JD-TNT1  ANS |  18865 | 9.18.93 |%+   | TNT                            |
+15,01*|16 |KS-BLACK ANS | 542188 | 9.30.93 |%Ax  | Black Ice                      |
+15,01*|17 |KS-COR1  ANS |  29062 | 9.23.93 |%A   | Corruption Logo                |
+15,01*|18 |LN-ACID  EXE |   3915 | 9.06.93 |%+   | ACiD Logo                      |
+15,01*|19 |RN-RIP1  RIP |  19740 | 9.19.93 |%    | Rest In Peace                  |
+15,01*|20 |RN-VIS1  RIP |  33292 | 9.25.93 |%+   | "V I S"                        |
+15,01*|21 |RS-ICE   EXE |  92928 | 9.06.93 |%M   | ...Because we care about coding|
+15,01*|22 |RV-LANCE EXE | 209224 | 9.21.93 |%AxM | Lancelot ][ Demo               |
+15,01*|23 |SC-RICK3 EXE |   5916 | 9.06.93 |%+   | Force Ten : Part III           |
+15,01*|24 |SM-DUNG1 RIP |   7686 | 9.20.93 |%    | Dungeon                        |
+15,01*|N/C|TK-AV353 ZIP |  39963 | 6.01.93 |%    | ACiD Acquisition Viewer v3.53  |
+15,01*|25 |VN-CHAOS ANS |  44792 | 9.08.93 |%+   | Children of Chaos              |
+15,01*|26 |VN-DSTAR ANS |  38537 | 9.08.93 |%+   | Death Star                     |
+15,01*|27 |VN-DSTAR EXE | 194733 | 9.26.93 |%M   | Death Star                     |
+15,01*|28 |VN-RTNO1 ANS |  69497 | 9.08.93 |%+   | Road to Nowhere                |
+15,01*|29 |ACDU1093 NFO |   5767 |10.01.93 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Adlib/ANSi Music/SB  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   31     Average Compression Rate: %69          |
+15,01|          Total Bytes:  2,219,165     Average Of Bytes/File: 71,586          |
+15,01|                                      Total Bytes Zipped:   701,450          |
+15,01|                                                                             |

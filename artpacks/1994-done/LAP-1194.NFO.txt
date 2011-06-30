@@ -1,0 +1,80 @@
+12,01                                                                         00     
+12,01                       .       .       .       .                         00     
+12,01                   ___/*\_____/*\ ____/*\_____/*\____________            00     
+12,01                 ..\TE .  \  . . *\.      \  .  . \.  .  . ./..          00     
+12,01                  11...\    /  /:.   \  .\.  \./_____/  /___/... 12          00     
+12,01                  10../   . :   :/ . :.  /   /    .  \  .  .\..11  12          00     
+12,01                  10 ..\   .:____    :   ___/____.   : . ___/..11  12          00     
+12,01                  11.../   /    . \ .: . :  .  ./  . :. \   \... 12          00     
+12,01                 .11./___    . __/   :   :\ .     . /  .  ____\..12          00     
+12,01                       14\  .__/   . \   .\  .  . /. . __\12                 00     
+12,01                         15\/__ .  . / .. . \  . .\ __/12                    00     
+12,01                         15    \  . /\ . /\/ . /\/     12                    00     
+12,01                               00\/    \ /  \/ 12                            00     
+12,01                               00       *      12                            00     
+12,01                               00       .      12                            00     
+12,01                               00       .      12                            00     
+12,01                               00       .      12                            00     
+
+15,01                  Lapse November Newsletter and Commentary
+
+15,01Well, October came and went quickly, TOO quickly for the artists, as you might
+15,01notice.  Lapse's musicians did an excellent job this month; luckily Lapseview
+15,01has .S3M support, so almost everybody can hear the professional-quality tunes.
+15,01Game continues to do an excellent job in the music department of Lapse.
+
+15,01Next month will be a more productive month for Lapse ANSI and AGSE artists--
+15,01unfortunately we couldn't get as much done this month as we wanted.  The 
+15,01artwork that WAS done, by Ghent and T/+E, was good.  Look for a lot of 
+15,01ansi next month, since most of the artists have several projects in the 
+15,01works already <myself included>.
+
+15,01Until next month.. ciao.
+
+15,01Delirium Tremens [Lapse]
+
+
+15,01     Another month, another pack.  Ok, let me get right to the
+15,01point <grin>.  This month there was not much ANSI or AGSE, but
+15,01there was a TON of music and it all RULED.  We were thinking of
+15,01just releasing a music pack this month, but eventually decided to
+15,01keep a "full" pack with emphasis on the music.  If you've enjoyed
+15,01Lapse music in the past, you will thoroughly enjoy what we have
+15,01to offer this month.
+15,01     Game graces us with his usual skill with two excellent
+15,01S3M's, one of which Ghent partially wrote.  Ghent and Insanitor
+15,01also contributed greatly with their usual plethora of good music,
+15,01and even I was able to get 2 S3M's in this pack.  LapseView
+15,01should be able to cater to all your music listening, ANSI
+15,01viewing, or AGSE viewing needs!
+15,01     A little plug: For those of you interested in what the AGSE
+15,01format is (you may have seen us using that format for VGA), I
+15,01have now got a BBS up and running that supports on-line AGSE (ie,
+15,01you can view the VGA over your modem.)  It is very fast.  If you
+15,01would like to demo this, the number is 801-944-5421, with a fast
+15,0128.8k modem on-line.
+15,01     No major improvements with LapseView this month.  The format
+15,01was changed around a little bit, but I didn't really have time to
+15,01work on it because I had to do those S3M's, plus try my hand at
+15,01AGSE.  F8 now stops music (yes!), and the F6 scheme has been
+15,01disabled.  LapseView is kind of in an interim stage right now,
+15,01but it is better than last month.  F6 does nothing for the time
+15,01being, it will eventually be used to view the title and
+15,01instrument lists from S3M's (so you can see all the comments from
+15,01the authors).
+15,01     I am very pleased this month that the music department
+15,01stepped in and saved us.  I anticipate that November will be a
+15,01slow month for most groups out there, so it's a big relief that
+15,01we are releasing on time (November 1st) AND with some quality
+15,01ART.  ENJOY!!!
+
+15,01     --The Red Flame [Lapse Coding Coordinator]
+
+15,01   Well, if nothing else, this month has been a good one for
+15,01the music department... We've gotten a ton of music done this
+15,01month. Thanks go out to Ghent, Insanitor, and The Red Flame 
+15,01for making sure that are pack was of a respectable size. :)
+15,01   All of them kicked butt this month.. And I got a couple of
+15,01pieces in as well.. I'm still getting used the the module
+15,01format, but I'm starting to get the nick of it.. As are all 
+15,01of the other music contributing lapse members.. So look for

@@ -1,0 +1,23 @@
+00,01+-13-00-13--04---13-04------------------------------------------------------------13-04---13--00-13-00-+
+13,01|15                                 04PYRo v1.115                                    13|
+04,01|15                                                                              04|
+13,01|15                                                                              13|
+04,01|15      04Heylo.  It's me, Donut.  Well, not too much improvements on this one    |
+04,01|  except the new spiffy interface by Halaster, and the ability to scroll up   |
+04,01|  and down the files :).  The 'scrollback option' was thrown out at the last  |
+04,01|  minute, cuz it didn't work the way I thought it would.  ANSis are really    |
+04,01|  annoying to deal with. :)15                                                   04|
+04,01|15                                                                              04|
+04,01|15                                                                              04|
+04,01| 00.13S04ome Greetz to fill the rest of this screen up... :)15                        04|
+04,01|15                                                                              04|
+04,01| 00.13S04hrapnel   : "Look Bobbo!  A twinky weiner sandwich!"15                       04|
+04,01| 00.13V04endetta   : I'll just Desq it... and no.  No CoSys.15                        04|
+04,01| 00.13H04alaster   : A week without The Regency was really boring...15                04|
+04,01| 00.13K04tulu15      04: "Checkmate!"  "D'oh!"  :)15                                      04|
+04,01| 00.13E04pitaph    : Let's scribble FiRE all over our school walls. :)15              04|
+04,01| 00.13S04ir Freaks : Boltz.15                                                         04|
+13,01| 00.13A04nd a big greet to all the members of FiRE.  Keep it up!15                    13|
+04,01|15                                                                              04|
+13,01|15                                                                              13|
+00,01+-13-00-13--04----13-04-----------------------------------------------------------13-04---13--00-13-00-+

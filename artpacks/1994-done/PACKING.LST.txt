@@ -1,0 +1,6 @@
+15,01NA-FINAL.ANS -- Very cool Final Net ansi from Napalm (CiA)
+15,01FINAL.ANS -- ANSi FiNAL NET Echo List
+15,01FINAL.ASC -- ASCii FiNAL NET Echo list
+15,01FINAL.010 -- FiNAL NET Node List
+15,01FINALNET.NFO -- Info on FiNAL NET
+15,01PACKING.LST -- List of Files

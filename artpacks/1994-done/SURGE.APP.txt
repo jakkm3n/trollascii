@@ -1,0 +1,48 @@
+15,01           
+15,01           Sorry for the lame app but we got better things to do.
+
+
+
+
+15,01- Personal Info -
+
+15,01Real Full Name :
+15,01Handle         :
+15,01Phone Number   :
+15,01State          :
+
+15,01- Other Shit -
+
+15,013 Best boards you have an account:
+15,01(1)                            Area Code:              
+15,01(2)                            Area Code:
+15,01(3)                            Area Code:
+
+15,013 Vouchers
+15,01(1)
+15,01(2)
+15,01(3)
+
+15,01Ansi/Vga/Lit/Mods/Demos/Game Reviews, which one or two are you appyling for :
+15,01(1)
+15,01(2)
+
+15,01How Long have you been doing whatever your applying for :
+
+15,01Do you have a board :                                   
+15,01Name:
+15,01Number:
+15,01NUP:
+
+15,01                   -Comments to the staff of Surge-
+
+
+
+
+
+15,01                               --------
+
+15,01     Return the app to Realms of Hell and Logon as Surge and pwd Surge
+15,01   Please Upload the app in ZIP format with a ansi/vga/lit/mod whatever
+15,01     Also please rename the zip file to your handle initials and what
+15,01      you are applying for to get quicker responce.  Thanks  -Surge-

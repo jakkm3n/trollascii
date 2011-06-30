@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 N  O  V  E  M  B  E  R    1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  The group that is so close it's almost a cult came  together this month and
+15,01decided to release some more curiously enticing artwork for all to see!  Anyhow
+15,01just check it out; you won't be disappointed!
+
+15,012.  The iCE "Star Wars" program picked  off an oldskool ANSI artist and brought
+15,01him back to iCE headquarters for questioning.   We'll reveal his identity after
+15,01we are throught with... interrogation!
+
+15,013.  The director of internal  gastrointestional curiosities  reports this month
+15,01that one member tunneled their way out the back door of iCE, so to speak.   Our
+15,01beloved Kitiara  is departing this  month to pursue other  opportunities and we
+15,01wish her  well in whatever she  chooses to do,  and hope  one day she'll return
+15,01home.  
+
+15,014.  Information Systems  director  Lickbert  decided to take the  month off and
+15,01visit his homeland  of Tahiti this month,  therefore there is no decent news to
+15,01report.   However, Farmicus was seen stealing the Microsoft sign in Redmond, WA
+15,01and using it as a makeshift port-a-john on his winter west coast roadtrip.   Go
+15,01Farmy!  Literally.
+
+15,015.  This space intentionally left blank.
+
+15,016.  iCE  useless member and  resident Canadian  patriot Rainmaker  was abducted
+15,01this  month on the 27th,  and taken to a hideaway by  Devastator and  Farmicus.
+15,01When Rainmaker was awakened, he found himself at an ornately set table.   "Hey!
+15,01I'm not going to participate in this f*#!in evil American holiday! Thanksgiving
+15,01Schmanksgiving,  everyone knows it's in OCTOBER anyway!" yelled a  now-agitated
+15,01Rainmaker.  "Shut up, tool!" spat Farmy, eagerly stabbing his fork into a slice
+15,01of cranberry sauce.  "Hey Dev, whip out the turkey!" he yelled.  Unfortunately,
+15,01the day got worse when Dev, unable to hear well over the clamor in the kitchen,
+15,01came running into the dining area, ripped off his pants to reveal his, well, uh
+15,01un-surgically-altered private part.  Farmy dropped his spooooooooon! and he AND
+15,01Rainmaker together screamed,  "THAT IS NOT A F***ING TURKEY!"  Hmmm.   Oh well,
+15,01Happy Thanksgiving anyway, eh?
+
+15,017.  It has come to our attention that several middle Americans have stated that
+15,01they identify more with daytime talk TV  than with their leaders in government,
+15,01and leaders of business.   We figure that  when you're a deeply  religious type
+15,01who decides to use  science-derived  fertility drugs to have seven children and
+15,01claim that God gave you the gift,  you really don't  deserve an opinion  on any
+15,01matter that ranks higher in importance than your breakfast menu decision.      
+
+15,018.  Please  direct all discussion  regarding the  above political  statement to
+15,01forceten@ice.org.
+
+15,019.  We must apologize for the relative late release of the pack this month.  It
+15,01was not  planned but was due to some technical difficulties  experienced by the
+15,01person who was going to zip it all up this month.   He's been beaten repeatedly
+15,01and dipped  in a vat of eggnog,  then dipped in a  barrel of gunpowder.   We're
+15,01still trying to decide whether to drop him onto a cement floor or not,  though!
+
+15,0110. Another fine month,  which once again  includes ground-breaking formats not
+15,01often seen in  art packs.  We hope you enjoyed it.  Stay  tuned to the  iCEPACK
+15,01for some iCE cold work this winter!
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion

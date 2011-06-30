@@ -1,0 +1,80 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 3/2/1995
+15,01###############################################
+15,01ICE-9502.NFO,ANSI,What's New In iCE,iCE Staff
+
+15,01ICE-9502.MEM,ANSI,February Active Memberlist,iCE Staff
+
+15,01ICE-9502.STS,ANSI,Pack Stats & Info,iCE Staff
+
+15,01ICE-9502.SIT,ANSI,iCE Distrobution Sites,iCE Staff
+
+15,01AR-DIMX1.ICE,ANSI,Dimension Eks,Argon
+
+15,01AT-HEAVN.ICE,ANSI,Heaven,Aphex Twin
+
+15,01BC-HOARD.ICE,ANSI,Hoard Magazine,BodyCount
+
+15,01BT-AB1.ICE,ANSI,Atari Blues,Biscuit
+
+15,01CG-JALP.ICE,ANSI,The Jalpur,Cheese Grater
+
+15,01CO-1MC2.ICE,ANSI,1 Man Crew,Cooly
+
+15,01DR-IS1.ICE,ANSI,Interstellar,Lord Drakul
+
+15,01DR-LD1.ICE,ANSI,Liquid Dreams,Lord Drakul
+
+15,01DR-SS1.ICE,ANSI,Suicidal Shrimp,Lord Drakul
+
+15,01GM-CFUNG.ICE,ANSI,Club Fungi,Gman
+
+15,01GM-KODE.ICE,ANSI,Kode Abode,Gman
+
+15,01GW-HACK.ICE,ANSI,The Hack Shack,Gwah
+
+15,01GW-MALF.ICE,ANSI,Malfeas,Gwah
+
+15,01IN-THS1.ICE,ANSI,The Hack Shack,Incubus
+
+15,01LO-DSUN1.ICE,ANSI,Dark Sun World,Leonardo
+
+15,01LO-PCITY.ICE,ANSI,Psycho City,Leonardo
+
+15,01LS-CC.ICE,ANSI,The Cat's Cradle,Lord Soth
+
+15,01LS-SG.ICE,ANSI,The Shadowgate,Lord Soth
+
+15,01NC-CH1.ICE,ANSI,Cybernetic Holocaust,Neurotic
+
+15,01NC-PRAY1.ICE,ANSI,Prayer,Neurotic
+
+15,01NC-RVP1.ICE,ANSI,Rendez-Vous Point,Neurotic
+
+15,01NC3-SO1.ICE,ANSI,Sub Oceana,Neurotic/Eerie
+
+15,01SK-MTG.ICE,ANSI,MTG,Skitzo
+
+15,01TG-APOC1.ICE,ANSI,Apocalypse,TooN GooN
+
+15,01TG-AVGA1.ICE,ANSI,Avga,TooN GooN
+
+15,01TG-BLUE4.ICE,ANSI,Atari Blues,TooN GooN
+
+15,01TG-JP1.ICE,ANSI,The Jalpur,TooN GooN
+
+15,01TG-NH1.ICE,ANSI,New Haven,TooN GooN
+
+15,01TG-PC1.ICE,ANSI,Psycho City,TooN GooN
+
+15,01TG-SWW1.ICE,ANSI,So Whatchawant,TooN GooN
+
+15,01TG-THS1.ICE,ANSI,The Hack Shack,TooN GooN
+
+15,01TG-TR1.ICE,ANSI,The Regency,TooN GooN
+
+15,01TG-UT1.ICE,ANSI,Undertow,TooN GooN
+
+15,01US-ITS1.ICE,ANSI,iCE Toon Studios,TG/Magnetic M
+
+15,01AR-ICE1.ICE,ANSI,iCE iCE Baby,Argon

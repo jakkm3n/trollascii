@@ -1,0 +1,9 @@
+15,01$C:\KFS\TEXT\MSGHEAD.ANSS                                        ^C:\KFS\TEXT\ME
+15,01NUPMT2.ANS                                        ^C:\KFS\TEXT\MENUPMT3.ANS     
+15,01               *a  
+15,01               ^C:\KFS\TEXT\MENUPMT1.ANS                                        
+15,01_C:\KFS\TEXT\MATRIX.ANS                                                    *a  
+15,01                                                                                
+15,01                                                                           *a  
+15,01                                                                                
+15,01                                                                      

@@ -1,0 +1,41 @@
+15,01         01"
+15,01         08m
+15,01         08"
+15,01       04m 14,08 08,01 04mmmm mmmmmm mmmm mmmmmmmmm mmmmmmmmm mmmmmmmm mmmmmmmmmmm mmmmmmmmm
+14,01m  08m mm00mm14,00 00,01mm08mmm04"15mmm00mm08m04"00m08m00m15m04"08m00mm15mmmm00mm04"08m00m15mmm00mm08mm04"00mmm15mmmmm04" 00mmm08mm00m08mmmm04"00mm15mmm00mm08mm04"m
+15,01       04m 08,08 00,00#15,15@00# 15,01 04"15m00,15#15@00,00#00,01" 00,00 ##15,15@00#15,01 00,00##15,15@00#14 15,01 00,15#15@00,00#15,01 00,00#15,15@00#15,01 00,15#15@00,00# 14,08 08,01 00,00 #15,15@00#14 15,01 "15,15@@15,01  00,00    00,01""""" 00,00#15,15@00#15,01 00,15#15@00,00# 14,08 08,01 14,04 
+15,01       14,04 04,01 08,08#15,15@00# 14#15,01m15,15 00#15@00,01"04m"00mmm15mmmm"15,15@00# 14#15,01 00,15#15@00,00#15,01 15,15@00#14 15,01 14,15 00#15@00,00# 15,01 00,00#15,15@00#14 #00,01"00,00# 00,01mm 00,00    00,01" 04""" 15,15@00#14 15,01 14,15 00#15@00,00# 
+04,01 02-SF   14,04 04,01 08,08@00,15# 14#01@15,01"00,15#15@00,00##00,01m04" 00,00#15,15@00#14 #15,01 15,15@00#14 #01@15,01 00,15#15@00,00#15,01 00,15#14 #15,01 14,15# 00#15@00,00#15,01 15,15@00#14 #01@15,01 00,00## #15,01 00,00   ##15,15@00#14 #15,01 00,15#14 #15,01 14,15# 00#15@00,00#
+02,01KiNDRED14,04 04,01 08,08#08,15 14#01@00,14#15,01 04m15"00,15#15@00,00##00,01m"00,15#14 #01@15,01 00,15# 14#01@00,14#15,01 00,15#15@00,00#15,01 14,15 #01@15,01 01,15@14# 00#15@15,01 00,15#14 #01@00,14#15,01 15,15@00,00## 15,01 00,00  ##15,15@00#14 #01@15,01 14,15 #01@15,01 01,15@14# 00#15@
+15,01      04"m15""""14"""04m"15m00,15#15@00,00##00,01"15m14,15#01@00,14#14,01m15"""14"" 00,15#15@00,00#15,01 14,15#01@00,14#14,01m00,14#01,15@14# 00#15,01 """"14" 00,15#15@00,00# 15,01 """"00,15#14 #01@00,14#15,01 14,15#01@00,14#14,01m00,14#01,15@14# 00#
+15,01        04"""""""m15"04mmmmm"mmmmm""14,04 04,01"15m"""04m"mmmmmmmmm"""14,04 04,01"15m"""""04m14,04 04,01"15m"""""14"04mmmmmmmmmm"15 
+15,01                04"15              04"m"""15               04"m"""""  "m""""""
+00,01Introduction to KINDRED
+
+00,01  15Kindred... a Clan, a group of tightness with one goal, which is to remain at
+15,01  a common ground.  A common ground of quality mixed with fun.  Kindred was
+15,01  formed by me (sticky fingaz), in order to have a group which is nothing but
+15,01  Art... No more Political Bullshit, no more, I was in a group, and then jump
+15,01  to a newer group, and then continue to jump and jump, and jump. The question
+15,01  i have is.. with all this jumping from group to group, how do you do art??
+15,01  Art is not for impatient people, it is for people who are dedicated to there
+15,01  work, there life, and the pure enjoyment of bringing a thought to reality, and
+15,01  making it into a pure physical object.  Creation, is something that most
+15,01  poeple dont ever get to experience in life, other then childbirth.  Art is an 
+15,01  outlet, of expression.  Art is a way of looking at something, or how you hear 
+15,01  it, or perceive it.  Art is appriecated by everyone.  Art is in our, and every
+15,01  other person on this planets life.  Life is art, without art, there would be
+15,01  no entertainment. Art brings happiness, art brings a sense of emotion, whether
+15,01  its comic book art,movies,litterature,music, or painting, it all is emotion
+15,01  filled, and is perceived in many different ways, or appriciated by certian
+15,01  people more then others.  Art can't be graded,  true some may be more versed
+15,01  in artistic skills then others, but those who are, may have read some books
+15,01  while the others just felt like drawing something, art is emotion remember?
+15,01  Art is the way a person views or precieves something remeber?, and that person
+15,01  is simply having the feeling of recreating something they cant explain, and
+15,01  acting apon it, In conclusion, all of us at Kindred, hope you enjoy our work, 
+15,01  becuase we enjoyed making it.
+15,01                                                      -Sticky Fingaz
+
+15,01>SAUCE00KiNDRED Information                Sticky Fingaz       KiNDRED          
+15,01   19941222jM  @@P '                             

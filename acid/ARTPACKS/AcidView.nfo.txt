@@ -1,0 +1,70 @@
+15,01            ....................
+15,01            :                  :                                  .............
+15,01            :                  :                                  :           :
+15,01      yyyo**aq**yyyo*--*ayy**yyyo**aq  p*-qqyyp*ay**yyyo***aqyynqyyyyy**qyy   :
+15,01 .... P' ,g@p,  T' ,g@p,  `**P' ,g@p,     j$$$L  `ggP' ,g@p, `   T$$$b,  `T ..:
+15,01 :       $$$$$     $$$$$**l     $$$$$     $$$$$  j     T$$$P    j$$$$$$L
+15,01 :    ,  T$$$P  ,  T$$$P  ,  L  T$$$P  $, `T$P' ,$  ,  *ao**qL  T$D++0$P  j
+15,01 :    $$@%uuu@uu$$@%uuu%@$$uu$$@%yyy@yy$$$@%y%@$$$yy$$@%yy%@$$$@%yy%@%u%@$$
+15,01 :      :        .       .   $$$$$$n"`$D+$D+nn+$+n+$$$P""T$$D+nn+$$$jakRMRS
+15,01 :......:........:       :   $$$$D+"  +p  ,d$b     d$$b  `' ,d$b  T$     :
+15,01        :                :   $P' ,g@  P  j$$$$  L  T$$P    j$$$$  j$     :
+15,01        :                :   P  j$$$: `  T$9+'  +`  +' ,L  T$9+'  +'     :
+15,01        :................:   T, `Q$$l :$p++g@$b+g@$p+g$$$$p++g@$by%@ ....:
+15,01                             $$L, "+$  $$$""""""""""""""""""""""""""
+15,01                             $$$$$@p+,,$$$  ACiD Productions, 1997
+15,01                             """""""""""""
+
+15,01                            ACiD View Java 5.00b
+15,01                                Coded by MrK
+15,01                  Graphics by Acid Jack, Catbones, and RaD Man
+15,01                            Documentation by MrK
+
+
+15,01Introduction.
+
+15,01        This is Acid View for Java.  It is a platform independant file-viewer.
+15,01This means you can run this on Windows 95, X windows, MacOs, practically
+15,01any system that has a Java Virtual Machine (JVM).
+
+15,01:NOTICE:  This is a Java application, not an applet.  This has nothing
+15,01to do with the web at all.  This runs stand-alone, just like any other
+15,01program you own.
+
+
+15,01Obtaining a JVM.
+
+15,01        You don't have a program to run java applcations?  You can get one
+15,01from several locations.  Microsoft has one.  There is a freeware one
+15,01(the one I used to develop this applcation) called the Java Development
+15,01Kit (JDK) from Sun.  You can get the SunOs and Windows 95 versions of JDK
+15,01from java.sun.com.  You can get the Linux version from www.blackdown.org.
+
+
+15,01Running Acid View for Java.
+
+15,01        I have included 2 shell routines to run Acid View.  Both require
+15,01that your JVM is called "java".  The first is called avj, and is for unix
+15,01systems.  The second is called avj.bat, and is for Windows 95/NT.  To
+15,01run just type "avj" at the prompt.
+
+
+15,01What Can It View?
+
+15,01        As of now (version 5.0b)  Acid View can view ANSIs, ASCIIs, GIFs,
+15,01JPEGS, XBINs, and any text file you happen to have.  The line length for
+15,01textfiles and ANSIs is limited to 400 lines, however this will be changed
+15,01soon.  And for XBINs it's 1000 lines.
+
+
+15,01Where will it go from here?
+
+15,01        I'm not sure.  I want to speed up the ansi displaying routines.
+15,01SAUCE support will be added soon.  I will recode it using JDK1.1.1 as soon
+15,01as I get my hands on a Linux version.  Hopefully it will run a little faster.
+
+15,01Mr. Kite
+15,01ACiD Productions
+15,01http://www.acid.org
+15,01>SAUCE00ACiD View Java Documentation       MrK                 ACiD Productions 
+15,01   19970501+   @ P D                             

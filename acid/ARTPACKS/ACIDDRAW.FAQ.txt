@@ -1,0 +1,80 @@
+15,01                                                                              
+15,01   This is a list of possible answers to questions you may have.  If your    
+15,01 question does not appear here, then feel free to call up one of the ACiDDRAW  
+15,01 support sites listed in the ACiDDRAW Docs.                                   
+15,01                                                                              
+15,01==============================================================================
+
+15,01Q : Why won't ACiDDRAW load up on my computer?                                
+15,01                                                                              
+15,01A : There can be quite a few reasons for this, the first few problems may be  
+15,01                                                                              
+15,01   1. You are required to run ACiDDRAW on a IBM or 100% Compatible clone.     
+15,01   2. You are required to be running at DOS v3.3 or higher.                   
+15,01      Since this program has not been tested under any other operating systems
+15,01      or multi-taskers, results can be unpredictable.                         
+15,01   3. You must have an enhanced keyboard.  Usually found on AT type computers 
+15,01      and higher.  Note, some XT's with an enhanced keyboard Bios should work.
+15,01   4. You must have around 300k of free base memory to run the program.       
+15,01                                                                              
+15,01    If your system meets all these requirements, and ACiDDRAW still does not
+15,01    work, please leave a message to one of the authors containing your
+15,01    configuration and setup.                                                  
+15,01                                                                              
+15,01==============================================================================
+15,01 
+15,01Q : Why Can't I go into 50 line mode or VGA viewing mode?                       
+15,01      
+15,01                                                                              
+15,01A : For 50 line mode and VGA viewing, an MCGA or better graphics card is   
+15,01    required.  Any generic vanilla VGA card is enough to use the 50 line
+15,01    mode and the VGA viewing mode.                                        
+15,01                                                                              
+15,01    ACiDDRAW automatically determines whether or not you have a VGA card, and
+15,01    will not allow you to switch modes if you do not have one.                
+15,01                                                                              
+15,01==============================================================================
+15,01 
+15,01Q : Why doesn't ACiDDRAW list all of my files when I am loading up an ANSI?   
+15,01                                                                              
+15,01A : ACiDDRAW only searches for directories and regular files.  It will not    
+15,01    search for hidden files.  Also the amount of files that can be listed is  
+15,01    dependent on the amount of memory.  The basic 300k should allow you to    
+15,01    load at least 1000 file names.                                            
+
+15,01==============================================================================
+15,01 
+15,01Q : How do I set how long an ansi is, without entering it into the save menu  
+15,01    every time?                                                               
+15,01                                                                              
+15,01A : ACiDDRAW's configuration menu (ALT-O) allows you to enter a save length.  
+15,01    The save length can range from 1-800 lines.  If you save a configuration  
+15,01    with a save length of 200, each time you go to the save menu it will have
+15,01    200 lines in the save length option.  You can edit this number from the 
+15,01    save menu also.                                                           
+15,01                                                                              
+15,01       If you set the save length to 0 in the option menu, ACiDDRAW will      
+15,01    place the Y position of the cursor into the save length.  What this means 
+15,01    is that, you can use the cursor to determine where you want to save up to.
+15,01    For example if you have 169 line picture and you want to save all of it.  
+15,01    Make sure that the save length in the option menu is set to 0, go to the 
+15,01    bottom of your picture and place the cursor on the last line you want
+15,01    saved.  Type ALT-S and it will use your cursor position for the save
+15,01    length.      
+
+15,01==============================================================================
+
+15,01Q : Why does it screw up when I upload ansi to a BBS?
+
+15,01A : The reason is that most BBS software will wrap a line if it contains
+15,01    more than 79 characters per line.  In order to save an ansi properly,
+15,01    you must use the line length option in the save menu.  This option
+15,01    will allow you to adjust the maximum length of each line from 32-255
+15,01    to unlimited.  To be safe when uploading ansi to a BBS, save your
+15,01    ansi with a line length of 70.  
+
+15,01==============================================================================
+
+15,01Q : What is the SAUCE Menu for?                                               
+15,01                                                                              
+15,01A : The SAUCE Menu is for placing SAUCE (Standard Architecture for Universal

@@ -1,0 +1,80 @@
+15,01     ----------able: Any file that is executable.CiD View will automatically
+15,013)  ANSI-VGA mode routines optimized for speed.-----------------------+ 
+15,01+--------------------------+ to some of these files can make them     |ot be 
+15,01| Credits                  |ICE at the start of this document.        |
+15,01+==========================+------------------------------------------+
+15,01| Acquisition Viewer 4.00b |atatype, you should have FileType set to "" " """ "
+15,01+==========================+ has no other filetypes.  Executables usually' ,$$
+15,01Interface by: RaD Man and Skull Leadertentions : BAT, COM, EXE, OVL, OVR, ,$$'
+15,01ANSI Screens by: Lord Jazz=+        ,$$'  ,$$' ,$$' ,$$'  ,$$' ,$$' ,$$' ,$$'
+15,01File Handling & Baud Simulation by: Skull Leadera completely new version of'
+15,01ANSI and BIN display and GIF Mode Detect by: Skull Leaderrevious versions$'
+15,01JPEG Decoding by: Independant JPEG Groupe that has the look and feel of""'
+15,01JPEG C to Pascal port by: Jacques Nomssi Nzali  Although virtually all the
+15,01JPEG VESA TrueColor and 256Color dithering code by: Skull Leadernts have
+15,01RIP Display routines by: Capn' Crunch & SiDScessor.ting codes or color codes.
+15,01Mode-X Primatives by: Matt Pritchardfor the width of the file.
+15,01Other Graphics Primatives, GIF & PCX from Fastgraph by TGSlines in the file.
+15,01Compiled with Turbo Pascal v7.0  With ANSi color codes and cursorjust
+15,01| Acquisition Viewer 3.99  |ning.er.  This  is  about to change, how------+- ..
+15,01+==========================+ is an addition to the SAUCE  record.  It-----+
+15,01+--------------------------+of additional information.  Each  line 64 lines.
+15,01| Bugs?                    |file.                                         |:
+15,01+==========================+oved bug which causes the screen to shake while|
+15,01    using the bouncing interface.s not  zero,  it holds the number ofnimated
+15,01    additional comment lines available.   A single comment line is 64an ANSi
+15,01        Did you find any bugs?  If so, please write us atAUCE record,e
+15,01        acid-public@acid.org, or mail Skull Leader on any ACiDyte  or a
+15,01        affiliated bulletin board system via AgoraNet.An ANSiMation on the
+15,01+==========================+and is a more like a text mode cartoon.IP
+15,01        The comment block is  preceded  with  a 5 character identifi-
+15,01    cation mark.  This identification mark is 'COMNT'. of ANSi screen lines
+15,01>SAUCE00ACiD View Documentation            RaD Man             ACiD Productions 
+15,01   19970101P+  @ P vA                            e these two values to
+15,01    SAUCE IN FILES   switch to the appropriate video mode.ion for any
+15,01+--------------------------+Imaging Protocol (RIP) graphics file.that
+15,01| Acquisition Viewer 3.05  |ded to it.  Will look like this:tle,  the
+15,01+==========================+holds the height (should be 350)e creator
+15,01     +---------------+Info3 holds the number of colors (should be 16)
+15,01     |               |ile with PCBoard style @X color codes and @ macro's
+15,011)  ACiD View now loads maximum lines of text or ANSI, according tot SAUCE.
+15,01    free memory available rather than crashing to OS.the file.ramming-
+15,01     +---------------+Info2 is used to hold the number of ANSi screen lines
+15,012)  Other minor cosmetic changes made.ement  SAUCE  to your files, wen
+15,01     |  EOF MARKER   |  EOF marker.  This will assure character files can
+15,01     |               |  easily determine the end of file.for those who
+15,01+--------------------------+xt Markup Language.  The type of file used on
+15,01| Acquisition Viewer 3.04  |ide Web (WWW). of filetypes (See PLATES).e
+15,01+==========================+onal Comment block.any type of programming
+15,01     |               |anguage.  The file extention should determine the
+15,01     +---------------+rogramming language (.C=C, .PAS=Pascal, ...)ome
+15,011)  ACiD View reimplements imbedded RIP fonts, resulting in slightlyo
+15,01    faster display, ease of configuration, but reducing availablevent
+15,01    memory by another 120k.e  will  quickly  release  a public update
+15,01     +---------------+ -+- 4 -+- 3 -+- 2 -+- 1 -+- 0 -+  and  updated
+15,012)  Fixed minor bug in the RIP parser.    |     |     |
+15,01      |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  A  |
+15,013)  Interface modified to display cleaner.|     |     | in use.  Each
+15,01      +-----+-----+-----+-----+-----+-----+-----+-----+provide a file
+15,014)  ACiD View forces multi-friendly mode when a Trident video card is
+15,01    dectected due to its history of problems with the split screenith
+15,01    "bouncing" interface.omment block ID bytesT  already have a SAUCEs)
+15,01     |               |e (iCE Color).  manner  is fully implemented inn
+15,01     +---------------+ is SET (equal to 1) The ANSi is created using iCE
+15,01+--------------------------+is a special mode where the blinking is
+15,01| Acquisition Viewer 3.03  |t comment lineund colors available.  Basically,
+15,01+==========================+hoice for background colors as for foregroundng
+15,01     +---------------+                                              |g
+15,01     |               |        ! NOTICE !                            |des
+15,011)  Support for Tab characters in ANSi parser (Tab stops every 5 columns)
+15,01     |               |ly created for supporting only the ANSi & RIP |
+15,012)  Help screen is now avaible in multi-friendly modeof the iCE color, you
+15,01     ... should NOT have this bit set.  When you do not support the iCE
+15,01     +---------------+ou should probably not display the file as it could56 
+15,01+--------------------------+n normal mode.y it should.              |
+15,01| Acquisition Viewer 3.02  | comment line, n equals the Comments field
+15,01+==========================+AUCE record.e other filetypes supported |
+15,01     +---------------+ifications may have serious consequences on   |
+15,01     --------er functioning of other programs using those files,    |
+15,011)  No longer uses an EGA text mode when VGA is avaible.--------------+
+15,01     | WARNING: Adding SAUCE to some of these files can make them     |

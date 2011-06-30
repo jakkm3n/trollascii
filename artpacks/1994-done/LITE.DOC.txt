@@ -1,0 +1,80 @@
+15,01[PPE] LightBar Toolkit v1.1
+15,01-- This is It! -- Mr. Data Enterprises  07/06/94
+15,01Configuration is over
+15,01[PPE] Lightbar Production Kit 1.1 - (__) -+ (yes, he's munch on grass
+15,01###############################################################################
+15,01Other options: using a       /-------\/-* |
+15,01==============g process.    / |     || \  |
+15,01| SOURCE included. Also:   *  ||----||  * |
+15,01Set configuration from PPE code:)(/\/(,,/ |
+15,01        If you wish to run this PPE kit from another PPE then you have the
+15,01problem that the parameter that tells the kit what configuration file to use
+15,01cannot be passed.  Therefore simply create a file called 'DATA' in the same
+15,01directory as the kit's PPE and put the configuration filename (same as if put
+15,01on the parameters).  When the kit is CALLed from your PPE the kit finds the
+15,01DATA file and gets the filename from that and uses that config, then deletes
+15,01the DATA file so it doesn't mess things up afterwards.  Helpful for
+15,01programmers or for those who want to run a lightbar from another place where00@@
+15,01parameters can't be supplied.
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01###############################################################################
+15,01making a system that lets a user select options via arrow keys and/or hotkeys
+15,01Good luck creating easy to use, good looking prompts that are all possible
+15,01thanx to me (ego alert). contact with Vision/X, Vision/2, or Oblivion/2 bbs
+15,01softwares than you would know that they are highly known for an environment
+15,01I hope the configuration is not too complicated.  I tried to give it as many
+15,01features as I could without making it too hard.  I included many examples so
+15,01good luck with BBsing and only expect the best!ws, number pad, Home, End,
+15,01PgUp, or PgDn.  PgUp and PgDn move up or down 1/4 of the way (console only).
+15,01Please take time to read this doc as I will try to keep it simple, because
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01Historywant to get in touch with the author or want to know about beta testing
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01Lightbar kitll be glad to get you the beta test version of Lightbar Kit or any
+15,01 v1.0  03/03/94 --------------------------------------------------------------
+15,01 --- First release, no bugs known
+
+15,01 v1.1  07/06/94 --------------------------------------------------------------
+15,01 - Removed a stupid bug that did a CLREOL after selecting an item
+15,01 - Allow stuff keyboard with file00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01 - Allow stuff character/hotkey character to be any ascii value using '~'
+15,01   operator. (untested)
+15,01 - Allow configuration file selection by data file for cases where parameters
+15,01   simply can't be passed (in a PPE with CALL command).  Put parameter
+15,01   in Lite.PPE's path in file DATA exactly as you would put the parameter in
+15,01   the parameter line.the following line (modify directory to yours):
+15,01 - Fixed bug with T and I relative positioning... not updating correctly
+15,01 - Option to enable/disable use of numbers as directional controls
+15,01 - Option to disable inital redraw of items your system):
+15,01 - Option to execute an item directly upon hotkey keypress
+
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01Author's Notice
+00,01@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01I program in PPE a lot recently since I put up my PCBoard BBS.  I've been
+15,01hooked.  I have experience in 80x86 and even 6502 (eck :) assembly
+15,01programming.to select the others or press the first letter of the option to
+15,01If you have a loader request or a PPE request, I can do one for you.
+
+15,01If you have a reason to contact me, please do so at: keys, numerical keypad
+15,01 (with or without Numlock on), and even the Home/End/PgUp/PgDn keys.
+15,01        SnailMail:      Mr. Dataot be able to use PgUp and PgDn but I did it
+15,01                        P.O. Box 1037
+15,01                        Pennsauken, NJ  08109-0537
+15,01#######################################
+15,01        Support BBs:    Quality Control  (609)662-7314  14.4k v.32bis
+15,01                        
+15,01        FidoNet:        1:266/30.36  (name as Shawn Poulson)it to look just
+15,01        Internet:       Shawn.Poulson@f30.n266.z1.fidonet.org
+15,01Put the following in PCBTEXT prompts #192 and #612:
+15,01I would like to hear any bug reports (there shouldn't be any from my testing),
+15,01and especially any good ideas.  Or if you are a PPE coder yourself and you
+15,01would like to talk, mail me.  If you made any PPE that is the same as mine,
+15,01E-mail it to me uuencoded or something so I can try to beat it. :)MP.PPE
+
+15,01Due to the newly released PPLC 2.0 decompiler from ECR, I am releasing my
+15,01source for another reason other than for those to learn from.  I realize I may-
+15,01be making myself vulnerable to those who want to make some minor modifications
+15,01(like none) and rerelease it under their own name or something extremely lame.
+15,01PPENet had a big flame about the good and bad of this decompiler and it is a
+15,01big change for the PPE scene in the world!  I suggest that my source be usedhe

@@ -1,0 +1,80 @@
+
+15,01           02 15          08#15                08m
+15,01  01fusion -->15         08#08,08|14,00 15,01            04mmm08|14,08 15,01 14,04  #
+15,01               04 15    08#08,08|14 14,00   08,01""15  04mmm14,04    01 14#15,01 08,08|15,01 14,04  #15,01 08 
+15,01           04#mmm14,04  #15,01 08#08,08|14 14,00 04,01 mmm14,04   04,01"""15   04|14,04  04,01|08,08|04,01|14,04  04,01|08 m08,08m
+15,01      04mmm14,04   04,01"""15  08mm08,08m14  00,01|04#13,04###15,01   08m08,08m14 14,00 00,01"08 04|14,04  04,01|08|04|13,04##04,01|08 """15  03                 08  
+15,01     04#13,04###15,01 08m15 04mm13 08"""""08,08"14 15,01 13|13,13##04,01|15 08"""08,08"14  14,00 08,01|04#13,04###04,01 13mmm01 14,04   04,01mmm15    04  15 03 08+ iz00e15      04#14,04 01 14#
+15,01     13|13,13##04,01|15 08"15 04mmm14,04 13  15,01 08|14,08  15,01 13|08,13##13,01|13,13#04,04@13#04,01mmm15 08""04#13,13###08,01#13,13##08#04,01 08#04  """13,04#04@13,13#13,01mmm15      08 mm08,08m14,00 08,01 15 04#13,04###
+15,01     13|08,13##13,01|13,13#04,04@13#04,01"""15  08mm08,08m14  08,01 08,13#13,08##13,01 08 13  04"""13,04#04@13,13#13,01mmm |08,13##13,01|08#08,08|14 14,00  00,01mm15  08#13,13##14 08,01 #15   08""08,08"14  14,00  08,01|13|13,13##13,01|
+15,01    08#13,08###08,01   mm13,08#08,01|#08,08|14    14,00 08,01#13,08###15,01 08|14,08   08,01m00mm15 08#08,13###08,01 |13,08##08,01|#08,08|14   14,00 14,08 14,00 15,01 08#08,13###08,01#13,08##14 08,01mmm15 08"""14,08 15,01 13|08,13##13,01|
+15,01    08#13,08###15,01 08,08|08,01#13,08###13,01 08#08,08|14   14,00 00,01|08#13,08#08,13#08,01|  08,08|14  14,00   08,01|#13,08###08,01#13,08###08,01   08,08|14     08,01 |13,08##08,01|#08,13##13,08#08,01"""14,08   08,01mm#13,08###08,01 
+15,01    08|08,13##08,01| 08,08|08,01#08,13###15,01 08|14,08  14,00 00,01""15 08|08,13#00#08,01| ""08,08"14  14,00 14,08 08,01 |13,08##08,01|#08,13###13,01|mm08m15 08""""15 08|13,08##08,01||13|00,13#08#08,01|15 08mm00m 08""14,08 13###08,01 
+15,01    08|08,13 00#08,01||||08,13 00#08,01| " m13mm13,08mm00,13#13,01""14,13 13,01mm08m15 08"""08,08"15,01 08|08,13##08,01||08,13 00#08,01| ""13"13,08"14,13 13,08m13,01mm08m08,13##13,08|08,01 08,08|08,01|14,13 00#08,01|#08,08|14 14,00  15,01  08|08,13##08,01|
+15,01   08     |||08,13   13,08mm"13,01""08"15      08"13""13,08"mm13,01m08mm13,08m00,13#13,08|13,01 08|08,13  08,01|15 08,08|14 08,01m00m 15 08"13""13,08"00,13#13,08|15,01 08,08|08,01#13,08|14,13 13,08|15,01 08#08,08|14 14,00  15,01 08|08,13 00#08,01|
+15,01 08          """15                  13"""14,13 08 13,08|15,01     08,08|08,01"08,08"14  14,00  15,01       08,08|08,01#13,08|14,13 13,08|15,01  08#08,08|14 
+15,01      08      15   09               15               08,08|14 00,01"15          08 15      08#
+
+
+15,01       14 15         00Fusion productions 15info file - march 1997                  
+
+
+15,01         Hi there again.
+15,01          Another cold month here in sweden and im really pissed 
+15,01          this month. Some lame tard got and ide, lets start a 
+15,01          takeover group and name it 00Fusion15 and then we can start
+15,01          by taking over 00#fusion15. I talked to this person who called
+15,01          himself 00|Shad0w|15 (elite nick eh?) and he told me that his 
+15,01          freind 00KrAsH15 (another elite nick) started this takeover group
+15,01          and named it 00Fusion15. They knew that the channel 00#fusion15 was
+15,01          already in use but 00|Shad0w|15 said "Since channels aren't owned,
+15,01          we walked in, it become our channel". If channels cant be owned
+15,01          how the fuck did that channel became theirs?
+15,01          And to his defens he said that no one had been in the channel.
+15,01          Thats not to strange because they took the channel on a split 
+15,01          and banned most of the fusion members and then made the channel
+15,01          invite, no wonder he never saw anyone of us in that channel 
+15,01          after that. I told this sorry excuse for a human that we had the 
+15,01          channel before them and they should give it back and stop 
+15,01          pretending to be so damn elite. In respones i got banned from 
+15,01          the channel i found the looser in, namnley 00#fusion-accept15.
+15,01          This proves that there are some freaks that have nothing better
+15,01          to do than hang on the irc all the time and takeover channels 
+15,01          so they can look cool, because in real life they are getting
+15,01          molested by their father and in school they are the nerds that
+15,01          get flushed in they toilet and are getting hit on all the time.
+15,01          So who could blame this bunch of retarded freaks that has to 
+15,01          hide behind a screen all day and takeover channels just to look
+15,01          cool infront of the other retards.
+
+15,01          Well enough with that shit and on to some other things.
+15,01          In the last two months we have had loads and loads of 
+15,01          members joining as in this month.
+15,01          We expand our ansi division with artists like 00Milkman15 that
+15,01          comes to us from Shade11 15and 00Vade7915 that will do a little dual
+15,01          thing betwen us and Fire.
+15,01          00Undertaker 15rejoins our ansi division as he has been away for
+15,01          a couple of months.
+15,01          Our ascii division also expands as 00Milkman15 will also do some
+15,01          ascii's for us in the future.
+15,01          This month we also got 00Orphic15 to our team and he will be
+15,01          the first member in our coding division so far.
+15,01          He will develope our own little viewer that will be in the
+15,01          packs in the near future.
+15,01          Our ansi artist 00Carnival15 decided it was time for a handle 
+15,01          change and is now know as 00Untoon15.
+15,01          We lost 00Gloone15 from our ansi division because a little 
+15,01          dispute, we wish you only the best.
+
+15,01          This month we got a killer diz from 00Drynwhyl15(00Blend15/00Rile15).
+15,01          Thank you very much for that diz as we always have a lack
+15,01          of diz's to the packs.
+15,01          I would also like to say that i am sorry for miss spelling 
+15,01          the board name 00Delirium15 and writing the wrong number in
+15,01          the site listings. Im only human ;)
+15,01          We wont accept any more applications for hq's or distro
+15,01          sites for a while now. So please dont bother me with that.
+
+15,01          Do anyone read this info file anyway?
+15,01          If you do give me some feedback on the irc so i can se how
+15,01          many people there is that really reads this incredible

@@ -1,0 +1,80 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 4/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01ripfonts.zip,ANSI,RIP Fonts for iCEView,iCE Staff
+
+15,01ice-9603.nfo,ANSI,iCE March '96 Info,iCE Staff
+15,01ice-9603.mem,ANSI,iCE Memberlist,iCE Staff
+15,01ice-9603.sts,ANSI,iCE March Stats,iCE Staff
+15,01ice-9603.sit,ANSI,iCE Sites,iCE Staff
+15,01ice-9603.ice,ANSI,Animated Memberlist,iCE Staff
+15,01fuel9603.nfo,ANSI,iCE Euro Info,Fuel/iCE Staff
+15,01at-sloth.ice,ANSI,Happy Birthday Lord Soth,Aphid Twix
+15,01bz-compo.ice,ANSI,April Fools,Blazer
+15,01cc-bth.ice,ANSI,Beyond the Horizon,Corpulent Cow
+15,01cu-r666.ice,ANSI,Route 666,Cold and Ugly
+15,01cu-yawn.ice,ANSI,Yawn Electronic Magazine,Cold and Ugly
+15,01lm-fc1.ice,ANSI,Free Coke,Lemonade
+15,01lm-fc2.ice,ANSI,Free Coke,Lemonade
+15,01lm-poo1.ice,ANSI,Poo,Lemonade
+15,01ls-tips.ice,ANSI,Art Tips #1,Lord Soth
+15,01mm-rai1.ice,ANSI,Fall From Grace,Magnetic M
+15,01nc-fin.ice,ANSI,Good-Bye,Neurotic
+15,01ri-apoc.ice,ANSI,Apocalypse,Rai
+15,01ri-evil.ice,ANSI,Evil Intentions,Rai
+15,01ri-pic1.ice,ANSI,Picture Collection,Rai
+15,01ri-spher.ice,ANSI,The Sphere,Rai
+15,01sg-ice96.ice,ANSI,iCE '96,Snake Grunger
+15,01te-hd1.ice,ANSI,Hazardless Destruction,Tetanus
+15,01tg-fw1.ice,ANSI,Force Works,Toon Goon
+15,01tg-rats4.ice,ANSI,The Rats Nest,Toon Goon
+15,01tg-sab1.ice,ANSI,Sabotage,Toon Goon
+15,01tg-utwo1.ice,ANSI,Unity 2,Toon Goon
+15,01us-apoc.ice,ANSI,Apocalypse,CorpCow/Tempus
+15,01us-awarp.ice,ANSI,Antwarp,Magnetic M/Extreme
+15,01us-ice13.ice,ANSI,iCE Promo,Nailz/Lord Soth
+15,01us-ice14.ice,ANSI,iCE/Acid Promo,Rai/Grendel/Splatt
+15,01us-magir.ice,ANSI,Magic Reality,Rai/Napalm
+15,01us-sloth.ice,ANSI,HAPPY BIRTHDAY LORD SOTH,Many Artists
+15,01zk-js1.ice,ANSI,Jive Soda,Zarkon
+15,01zk-sd1.ice,ANSI,Snake's Domain,Zarkon
+15,01zk-soc.ice,ANSI,Sweetness of Candy,Zarkon
+15,01zk-succo.ice,ANSI,iCE,Zarkon
+15,01ax-cdi3.ice,ANSI,CDI,Apox
+15,01bd-lg1.ice,ANSI,Logo Collection,JAILbIRd
+15,01bz-cntst.ice,ANSI,Contest Results!,Blazer
+15,01cu-globe.ice,ANSI,The Globe,Cold and Ugly
+15,01cu-r666m.ice,ANSI,Route 666 Menu,Cold and Ugly
+15,01cu-trem.ice,ANSI,Tremor,Cold and Ugly
+15,01pa-icex.ice,ANSI,iCE Experience,Parasite
+15,01sq2-lg10.ice,ANSI,Logo Collection #10,Squidgalator ][
+15,01te-lgo2.ice,ANSI,Logo Collection #2,Tetanus
+15,01tg-lcol1.ice,ANSI,Logo Collection #1,Toon Goon
+15,01tna-bent.ice,ANSI,Bent,The Night Angel
+15,01us-gd3.ice,ANSI,Global Domination,Lemonade/Apox
+15,01us-sui.ice,ANSI,Suicide Emag,BoA/Cold n Ugly
+15,01cd-sg.ice,ANSI,Sacred Grounds Logoff,Count Drakula
+15,01nf-mend.ice,ANSI,Scared,Necrofiliac
+15,01nf-ml.ice,ANSI,Main Line,Necrofiliac
+15,01nf-rat.ice,ANSI,Stoned Rat,Necrofiliac
+15,01nf-sloth.ice,ANSI,Happy Birthday Lord Soth,Necrofiliac
+15,01sp-ice.ice,ANSI,iCE,Sparr
+15,01sp-mland.ice,ANSI,Modem Land,Sparr
+15,01sp-pbrk.ice,ANSI,Point Break,Sparr
+15,01sp-rnest.ice,ANSI,Rat's Nest,Sparr
+15,01th-fico.ice,ANSI,Final Countdown,Thrasher
+15,01th-gel1.ice,ANSI,Gel,Thrasher
+15,01tk-rebel.ice,ANSI,The Rebel Base Logon,The Knight
+15,01tl-ralph.ice,ANSI,Saturn Advertisement,Tung Lo
+15,01ana-elf.jpg,EXTERNAL,Elf,Anarchy
+15,01az-time.jpg,EXTERNAL,Time,Azagoth
+15,01bn-sklc1.gif,GIF,Skull Control,Borian
+15,01di-zz.jpg,EXTERNAL,Emilee,Digital Interface
+15,01is-tsgd.jpg,EXTERNAL,Triangle Graphic Design,Isosceles
+15,01ja-nw1.jpg,EXTERNAL,Netherworld,Jae
+15,01kb-armg1.jpg,EXTERNAL,Armageddon City,Kabal-13
+15,01kb-ice.jpg,EXTERNAL,iCE,Kabal-13
+15,01kb-infr.jpg,EXTERNAL,Infrared,Kabal-13
+15,01kb-kabal.jpg,EXTERNAL,Kabal-13,Kabal-13
+15,01ob-alien.jpg,EXTERNAL,Alien Workshop,Obsidian

@@ -1,0 +1,61 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                F  E  B  R  U  A  R  Y       1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  Happy Valentines!!  We hope that you celebrated the occasion with that
+15,01special someone.  We sure as hell didn't.  But hey, we've got each other right?
+
+15,012.  Noone died this month.  Hrmm.
+
+15,013.  The annual iCE Ball (tm) went extremly well.  Lord Soth and others sent
+15,01emails to other iCE members while intoxicated.  Aneurysm cracked a 40oz.
+15,01alcoholic beverage bottle over Jae's head and called him names.  Kamikazee was
+15,01even sighted there, and when someone asked him "Hey, whats up?" he swiftly
+15,01responded, "Nothing, just fixing my contact."  He then whiped some white flakes
+15,01from his nose.
+
+15,014.  A very disturbing rumor has been passing around the scene and we would like
+15,01to dispell any beliefs in it.
+
+15,015.  THIS MONTH: Magnetic Rage, in all his glory has jumped aboard and is
+15,01embarking on the great rollercoaster that is iCE.  Hope he has his seatbelt on
+15,01tight!
+
+15,016.  New Jersey girls do it the best.  Trust us on this one.
+
+15,017.  SpaceDev is still denying any involvement.
+
+15,018.  Some of you might have heard those "got Milk?" commercials on the radio,
+15,01where a hostage situation is resolved when the police give the terrorists
+15,01cookies and chocolate cake.  We would like to protest these advertisements,
+15,01because that is not how it happened!  Another example of the liberal media!
+
+15,019.  iCE has *NOT* gone bankrupt as was previously stated.  Sheesh.
+
+15,0110.  iCE would like to extend a very special "Happy Birthday you geek!" to
+15,01one of iCE's best and most dedicated artists.  Jae (aka Toon Goon, in a far off
+15,01land).  If you run by him ever, please extend a graceful "Happy 11th birthday!"
+
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

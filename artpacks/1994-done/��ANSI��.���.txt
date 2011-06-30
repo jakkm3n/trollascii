@@ -1,0 +1,80 @@
+15,01That Sam-I-am!
+15,01That Sam-I-am!
+15,01I do not like that Sam-I-am!
+
+15,01Do you like green eggs and ham?
+
+15,01I do not like them, Sam-I-am.
+15,01I do no like green eggs and ham.
+
+15,01Would you like them here or there?
+
+15,01I would not like them here or there.
+15,01I would not like them anywhere.
+15,01I do not like green eggs and ham.
+15,01I do not like them Sam-I-am.
+
+15,01Would you like them in a house?
+15,01Would you like them with a mouse?
+
+15,01I would not like them in a house.
+15,01I would not like them with a mouse.
+15,01I would not like them here or there.
+15,01I would not like them anywhere.
+15,01I do not like green eggs and ham.
+15,01I do not like them Sam-I-Am.
+
+15,01Would you eat them in a box?
+15,01Would you eat them with a fox.
+
+15,01Not in a box.
+15,01Not with a fox.
+15,01Not in a house.
+15,01Not with a mouse.
+15,01I would not eat them here or there.
+15,01I would not eat them anywhere!
+15,01I would not eat green eggs and ham.
+15,01I do not like them, Sam-I-am.
+
+15,01Would you?  Could you?  In a car?
+15,01Eat them!  Eat them!  Here they are.
+
+15,01I would not, could not, in a car.
+
+15,01You may like them you will see.
+15,01You may like them in a tree.
+
+15,01I would not, could not, in a tree.
+15,01Not in a car!  You let me be.
+15,01I do not like them in a box.
+15,01I do not like them with a fox.
+15,01I do not like them in a house.
+15,01I do not like them with a mouse.
+15,01I do not like them here or there.
+15,01I do not like them anywhere.
+15,01I do not like green eggs and ham.
+15,01I do not like them, Sam-I-am.
+
+15,01A train!  A train!
+15,01A train!  A train!
+15,01Could you, would you, on a train?
+
+15,01Not on a train!  Not in a tree!
+15,01Not in a car!  Sam!  Let me be!
+15,01I would not, could not, in a box.
+15,01I could not, would not, with a fox.
+15,01I will not eat them with a mouse.
+15,01I will not eat them in a house.
+15,01I will not eat them here or there.
+15,01I will not eat them anywhere.
+15,01I do not eat green eggs and ham.
+15,01I do not like them, Sam-I-am.
+
+15,01Say!  In the dark?
+15,01Here in the dark!
+15,01Would you, could you, in the dark?
+
+15,01I would not, could not, in the dark.
+
+15,01Would you, could you, in the rain?
+

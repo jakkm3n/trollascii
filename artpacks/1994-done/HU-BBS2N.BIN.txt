@@ -1,0 +1,80 @@
+15,01 x x x * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+15,01 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * x x xmx x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * *"x14,15#15,01xmxmx * * * * * * * * * * * x x"x14,15#15,01xmxmx
+15,01 * * * * * * * * * x x"x14,15#15,01xmxmx * * * * * * * * * * * * * * * * * * * x x x|x14,15#15,01x14,15#15,01x
+15,01mxmxmxmx x * * * x x x x xmx x"xmxmx * * * * x x x|x x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * *|x#L#L#L14,15 15,01x14,15 15,01xmxmxmx * * * * x x * *|x#L
+15,01#L#L14,15 15,01x14,15 15,01xmxmxmx x x x x x x14,15 15,01x14,15 15,01x14,15 15,01x14,15 15,01xmxmx x x x xmx14,15#15,01x * * * * * * * * * x x x x14,15 15,01x"x
+15,01 x x"x14,15 15,01x#L#L#L14,15 15,01x14,15 15,01xmxmxmx14,15#15,01x x x x|x#L#L#Lmx * x xmx14,15#15,01x|x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * *14,15 15,01x#L14,15 15,01x"x14,15#15,01x x x"x#Lmx * * x x * * *14,15 15,01x
+15,01#L14,15 15,01x"x14,15#15,01x x x"x#Lmx x x x x|x14,15 15,01x14,15 15,01x14,15#15,01x"x"x14,15#15,01xmxmx|x14,15#15,01x|x * * * * * * * * * x x x x14,15#15,01x x
+15,01 x x x x14,15 15,01x#L14,15 15,01x"x x x"x14,15#15,01x|x x x x x14,15 15,01x#L14,15 15,01x"x14,15#15,01x14,15 15,01x"x"x|x"x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * *|x14,15 15,01x|x x00@15x x x x|x#L|x x x x x x x|x
+14,15 15,01x|x x00@15x x x x|x#L|x x x x x#L14,15 15,01x|x x x x14,15#15,01x"x"x14,15#15,01x14,15#15,01x * * * * * * * * * x x x x00@15x x
+15,01 x x x x|x14,15 15,01x|x x x x x14,15#15,01x x x x x x|x14,15 15,01x|x x00@15x x x x#L|x x x x x x x x x x x x x x
+15,01 x xmx x x xmx x x x x x x x x x x x x x x x#x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * *mx#L14,15 15,01x x x#x x#x x x#L L * x x * *mx#L
+14,15 15,01x x x#x x#x x x#L L * x x|x#L#L|x x x x00@15x x x x00@15x * * * * * * * * * x x x x#x x
+15,01 x x#xmx#L14,15 15,01x * * x x x00@15x x x x14,15#15,01xmx#L14,15 15,01x * *#x x x|x#L#L x x x x x x x x x x x x x
+15,01 x x|x14,15#15,01x14,15#15,01x"x14,15#15,01x"x#L"x"x#x"xmx#x"x14,15#15,01xmx14,15 15,01xmxmx14,15 15,01x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * *#x"x x14,15 15,01x14,15 15,01x xmxmx"x x x|x#L|x x x x#x"x x14,15 15,01x
+14,15 15,01x xmxmx"x x x|x#L|x x x x"x|x14,15 15,01x#Lmx x x#x x x x#x * * * * * * * * * x x x x x x
+15,01 x x x x14,15 15,01x14,15#15,01x|x * x x x#x x x x x x14,15 15,01x14,15 15,01x * * * x xmx#L14,15 15,01x|x x x x x x x x x x x x x
+15,01 x x x14,15#15,01x|x xBxBxSx xtxox xNxoxwxhxexrxex|x14,15#15,01x x x x x x x x x14,15 15,01x x x x5x0x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * *|x14,15 15,01x14,15 15,01x x14,15#15,01x"x14,15 15,01xmxmx14,15 15,01x"x x x x x x x|x14,15 15,01x
+14,15 15,01x x14,15#15,01x"x14,15 15,01xmxmx14,15 15,01x"x x x x x x x"x|x14,15 15,01x14,15 15,01xmxmx * * * * * * * * * * * * * x x x x x x
+15,01 x x x|x14,15 15,01x14,15 15,01x|x * x x x x x x x x|x14,15 15,01x14,15 15,01x * * * x x|x14,15 15,01x14,15#15,01x x x x x x x x x x x x x x
+15,01 x x x00@15x x x#x x x x x x x x x x#x x x x x00@15x x x x x x x x x14,15 15,01x x xlxixnxexsx!x x
+15,01 x x x * * * * * * * * * * * * * * * * *mx14,15 15,01x#L14,15 15,01x x00@15x x|x"x14,15#15,01x"x14,15 15,01xmx x x x xmx14,15 15,01x#L
+14,15 15,01x x00@15x x|x"x14,15#15,01x"x14,15 15,01xmx * x x * * * * *14,15#15,01x"x14,15 15,01x14,15 15,01xmx * * * * * * * * * * * x x x x x x
+15,01 x xmx14,15 15,01x#L14,15 15,01x * * x x x x x x xmx14,15 15,01x#L14,15 15,01x * * * x x x14,15#15,01x|x x x x x x x x x x x x x x
+15,01 x x x#x x x x x x x x x x x x x x x x x x#x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * *|x#L#L14,15 15,01x|x#x x x x00@15x x|x#L|x x x x|x#L#L
+14,15 15,01x|x#x x x x00@15x x|x#L|x x x * * * * *00@15x x x14,15#15,01x14,15 15,01x#Lmx * * * * * * * * * x x x x x x
+15,01 x x|x#L#L14,15 15,01x|x * x x x x x x x|x#L#L14,15 15,01x|x * * x x|x14,15#15,01x14,15#15,01xmx x x x x x x x x x x x x
+15,01mx x x x x x x xmx x x x x x x x xmx x x x x x|x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * *14,15 15,01x#L14,15 15,01x14,15#15,01x x x x x#x x x D D x x * *14,15 15,01x#L
+14,15 15,01x14,15#15,01x x x x x#x x x D D x x *|x x x x#x x x00@15x x#L#L|x * * * * * * * * x x x x x x
+15,01 x x x14,15 15,01x#L14,15 15,01x14,15#15,01x x x x x x x x x x14,15 15,01x#L14,15 15,01x14,15#15,01x x x xmx14,15#15,01x14,15#15,01x14,15#15,01x14,15#15,01x x x x x x x x x x x x x
+15,01|x14,15#15,01xmx#x#x#x"x14,15#15,01x"x14,15 15,01x"x14,15#15,01x#x14,15#15,01x"x#x"x"x#L#Lmxmx"x14,15#15,01xmx x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * *14,15 15,01x14,15 15,01x14,15 15,01x00@15x * * * * * * *14,15 15,01x14,15#15,01x x x x x14,15 15,01x14,15 15,01x
+14,15 15,01x00@15x * * * * * * *14,15 15,01x14,15#15,01x x x|x14,15#15,01xmx * * * * *#x x|x#L|x * * * * * * * * x x x x x x
+15,01 x x x14,15 15,01x14,15 15,01x14,15 15,01x00@15x x x x x x x x x x14,15 15,01x14,15 15,01x14,15 15,01x00@15x x x x|x14,15#15,01x14,15#15,01x"x00@15x x x x x x x x x x x x x
+14,15#15,01x14,15#15,01x"x xSxyxsxoxpx:x xBxaxkxexdx xPxoxtxaxtxox x14,15#15,01x|x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * *|x14,15 15,01x#L14,15 15,01x#x * * * * * *|x14,15 15,01x00@15x x x x|x14,15 15,01x#L
+14,15 15,01x#x * * * * * *|x14,15 15,01x00@15x x x x14,15#15,01x"x14,15#15,01xmxmx x xmxmx14,15 15,01x#L * * * * * * * * * x x x x x x
+15,01 x x|x14,15 15,01x#L14,15 15,01x#x * x x x x x x x|x14,15 15,01x#L14,15 15,01x#x * * x x14,15#15,01x|x x#x x x x x x x x x x x#x"x
+14,15#15,01x14,15#15,01xmx x x x x4x0x8x-x3x3x8x-x2x4x3x5x x x x x"x14,15#15,01x"x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * *#x"x D D14,15 15,01x|x * * * * *mx14,15 15,01x"x#x x x#x"x D D
+14,15 15,01x|x * * * * *mx14,15 15,01x"x#x x x x|x|x x14,15#15,01x"x14,15 15,01x14,15 15,01x14,15 15,01x"x14,15#15,01x * * * * * * * * * * x x x x x x
+15,01 x x"x D D14,15 15,01x|x * x x x x x x x"x D D14,15 15,01x|x#x"x"x14,15 15,01xmx14,15 15,01x x x x x x x x x x x x x x x
+15,01|x14,15#15,01x#x x xRxuxnxnxixnxgx xPxCxBx x1x5x.xxx x x x00@15x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * *|x14,15#15,01x|x"x#x x#x"x"x14,15#15,01x x x#x x x x x|x14,15#15,01x
+15,01|x"x#x x#x"x"x14,15#15,01x x x#x x x x x14,15#15,01x x00@15x * * * * *00@15x * * * * * * * * * * x x x x x x
+15,01 x x x|x14,15#15,01x|x"x#x x x x x x x x x|x14,15#15,01x|x"x x x x x x14,15#15,01x"x#x x x x x x x x x x x x x
+14,15#15,01x|x x xMxaxnxyx xWxaxrxexsx xAxfxfxixlxsx.x x x#x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * *14,15#15,01x * * * * * * *00@15x * * * x x * * *14,15#15,01x
+15,01 * * * * * * *00@15x * * * x x * *00@15x * * * * * * *#x * * * * * * * * * * x x x x x x
+15,01 x x x x14,15#15,01x * * * x x x x x x x x x14,15#15,01x * * * * x x x00@15x x x x x x x x x x x x x x x
+00,01@15x x x x x x x x1x.x5x xGxixgx.x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * *00@15x * * * * * * *#x * * * x x * * *00@15x
+15,01 * * * * * * *#x * * * x x * *#x * * * * * * * * * * * * * * * * * * x x x x x x
+15,01 x x x x00@15x * * * x x x x x x x x x00@15x * * * * x x x#x x x x x x x x x x x x x x x
+15,01#x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * *#x * * * * * * * * * * * x x * * *#x
+15,01 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * x x x x x x
+15,01 x x x x#x * * * x x x x x x x x x#x * * * * x x x x x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+15,01 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+15,01 * * * x x x x x x x x * * * * * * x x x x x x x x x x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x
+15,01 x x x * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+15,01 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+15,01 * * * x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+15,01 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x14,15 15,01x x x x x x x x x x

@@ -1,0 +1,80 @@
+15,01:HELP
+15,01You may use the HELP command to obtain either a listing of available
+15,01commands or to get a brief summary of a command. To get a listing of
+15,01commands, type "HELP" by itself. To get help on a specific command,
+15,01type "HELP (command name)". For example, "HELP DIR" would get you
+15,01help on the DIR COMMAND.
+15,01:ATTRIB
+15,01The ATTRIB command may be used to view or change the attributes a file
+15,01or series of files. The syntax is as follows:
+
+15,01    ATTRIB [+-r +-h +-s +-a] FileSpec
+
+15,01    (R=Read only, H=Hidden, S=System, A=Archive)
+15,01:CD
+15,01The CD (or CHDIR) command is used to change the current directory. For
+15,01example, typing "CHDIR \DOWNLOADS" would switch you to the \DOWNLOADS
+15,01directory (providing you have one). You can also type "CHDIR" by itself
+15,01to get the name of the current directory.
+15,01:CHDIR
+15,01The CD (or CHDIR) command is used to change the current directory. For
+15,01example, typing "CHDIR \DOWNLOADS" would switch you to the \DOWNLOADS
+15,01directory (providing you have one). You can also type "CHDIR" by itself
+15,01to get the name of the current directory.
+15,01:CLS
+15,01CLS will clear the SDOS window.
+15,01:COPY
+15,01COPY is a powerful command that lets you copy files from one location
+15,01to another. There are two forms of copy supported by SDOS:
+
+15,01    COPY <source file> <dest file>        - Copy a single file
+15,01    COPY CON <dest file>                  - Copy keyboard output to file
+
+15,01If you use the "COPY CON" format, all keyboard output will be sent to the
+15,01file until you send a CTRL-Z character.
+15,01:D:
+15,01"d:" designates a drive letter. For example, typing "A:" would switch you
+15,01to drive a, typing "B:" would switch you to drive b, etc.
+15,01:DEL
+15,01The DEL (or ERASE) command allows you to delete a file or series of files.
+15,01DEL accepts one parameter which is the filespec (wild card allowed) of the
+15,01file(s) you wish to delete. You will be prompted before the erasure is made
+15,01to make sure you wish to delete the files.
+15,01:DELNUL
+15,01DELNUL is a special command that will delete zero-length files. It accepts the
+15,01same parameters as DEL, but will only files that have a size of 0 bytes.
+15,01Occasionally, some programs (such as file transfer protocols) may leave zero
+15,01length files laying around. This command gets rid of them.
+15,01:DIR
+15,01The DIR command will list the files in a certain directory. Typed by itself
+15,01{i.e. "DIR"), the DIR command will list the files in the current directory.
+15,01You may also specify a directory name (i.e. "DIR C:\TURBO") or a file mask
+15,01(i.e. "DIR *.PAS") or both (i.e. "DIR C:\TURBO\*.PAS"). Specifying the
+15,01/P option will cuase the directory to pause after each screen and
+15,01specifying the /W option will display a wide directory. The "/T" option
+15,01may be used to display the TRANSFER TIME of each file.
+15,01:ERASE
+15,01The DEL (or ERASE) command allows you to delete a file or series of files.
+15,01DEL accepts one parameter which is the filespec (wild card allowed) of the
+15,01file(s) you wish to delete. You will be prompted before the erasure is made
+15,01to make sure you wish to delete the files.
+15,01:FREE
+15,01The FREE command will display the free space on a drive. Typed by itself,
+15,01FREE will display the amount of space on the current drive. By specifying
+15,01a drive letter, FREE will display the amount of free space on that
+15,01drive.
+15,01:MD
+15,01The MKDIR (or MD) command will allow you to create a subdirectory. The
+15,01subdirectory created will be a subdirectory of your current working
+15,01directoriy unless you specify otherwise. MKDIR accepts one parameter
+15,01which is the directory name/path.
+15,01:MKDIR
+15,01The MKDIR (or MD) command will allow you to create a subdirectory. The
+15,01subdirectory created will be a subdirectory of your current working
+15,01directoriy unless you specify otherwise. MKDIR accepts one parameter
+15,01which is the directory name/path.
+15,01:REN
+15,01The REN (or RENAME) command will let you rename and/or move files. Unlike
+15,01dos, you can rename across subdirectory - in effect, moving the file.
+15,01REN takes two parameters, a source and a destination file name.
+15,01:RENAME

@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  December Update *    January 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0194.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID1293 ANS |   9187 |12.31.93 |%+   | December Member/Board Listing  |
+15,01*|2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 106712 |01.01.94 |%    | ACiD Acquisition Viewer + 1.32 |
+15,01*|N/C|ACIDVIEW NFO |   8561 |01.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AN-LD    ANS |  21218 |12.04.93 |%+   | Lost Destiny                   |
+15,01*|5  |AT-CCI   ANS |  27668 |12.23.93 |%+   | Cybercrime International Net   |
+15,01*|6  |AT-NS    ANS |  15594 |12.18.93 |%+   | Northern Sector                |
+15,01*|7  |AT-PSY   ANS |   3911 |12.12.93 |%    | Psychosis Magazine             |
+15,01*|8  |BE-GOD1  ANS |  19886 |12.31.93 |%+   | Gates of Destiny               |
+15,01*|9  |BK-CH01  ANS |  64968 |12.12.93 |%+   | Channel Zer0                   |
+15,01*|10 |BK-HARD1 ANS |  17467 |12.30.93 |%+   | Hard Wired                     |
+15,01*|11 |CA-CTE   EXE | 177773 |01.01.94 |%A   | Countdown to Extinction        |
+15,01*|12 |CB-ADC1  ANS |  35253 |12.15.93 |%+   | After Dark Club                |
+15,01*|13 |CE-ACID  EXE | 218230 |12.30.93 |%AxM | ACiD Television                |
+15,01*|N/C|FILE_ID  DIZ |    249 |12.30.93 |%    | Acquisition FILE ID by {BE}    |
+15,01*|14 |GD-CODE1 ANS |  16491 |01.01.94 |%+   | Codename: Overlord             |
+15,01*|15 |GU-GOD1  ANS |  44305 |12.21.93 |%+   | Gates of Destiny               |
+15,01*|16 |IC-ADRN1 COM |   3968 |12.23.93 |%+   | Adrenalin "WideScroller"       |
+15,01*|17 |IM-EOT1  ANS |  29438 |01.01.94 |%+   | End of Time                    |
+15,01*|18 |IZ-KEG1  ANS |  10507 |01.01.94 |%+   | The Keg                        |
+15,01*|19 |KS-CRI   ANS | 254268 |12.28.93 |%A   | Critic                         |
+15,01*|20 |KS-PLOST ANS |  17605 |12.01.93 |%+   | Paradise Lost                  |
+15,01*|21 |MX-TMS   ZIP | 215932 |12.20.93 |%M   | The Morbid Sacrilege           |
+15,01*|22 |QR-HRVST ANS |  25767 |12.30.93 |%+   | Harvest Moon                   |
+15,01*|23 |RN-CH01  RIP | 110252 |12.31.93 |%    | Channel Zer0                   |
+15,01*|24 |RN-DG1   RIP |  48088 |12.05.93 |%    | Dark Guild                     |
+15,01*|25 |RN-TPP1  RIP | 110232 |12.24.93 |%    | The Phunk Palace               |
+15,01*|26 |SW-CTE   EXE | 176884 |12.31.93 |%M   | Countdown to Extinction        |
+15,01*|27 |SW-WHERE EXE | 115769 |12.19.93 |%    | Out of Nowhere & Access Denied |
+15,01*|28 |SX-CP1   ANS |  18776 |12.30.93 |%+   | Corrosive Poison               |
+15,01*|29 |TC-REICH ANS |  17321 |12.31.93 |%+   | The Fourth Reich               |
+15,01*|30 |ACDU0194 NFO |   5861 |01.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   32     Average Compression Rate: %47          |
+15,01|          Total Bytes:  2,046,253     Average Of Bytes/File: 63,945          |
+15,01|                                      Total Bytes Zipped: 1,092,502          |

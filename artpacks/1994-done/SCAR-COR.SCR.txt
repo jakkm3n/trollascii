@@ -1,0 +1,22 @@
+15,01Courier Application
+15,01OUTFILE:SCAR-COR.APP
+15,01ANSI:SCAR-COR.ANS
+
+15,01INPUT:21:Years Couriering:;~R05~C21
+15,01INPUT:07:How many hours do you call out:;~R06~C35
+15,01INPUT:38:How many BBS's do you think you could courier to or handle calling, We 
+15,01need Couriers who can handle up to 3 BBS's regardless of where the BBS resides a
+15,01t:;~R11~C04
+
+15,01INPUT:21:Your Handle:;~R05~C57
+15,01INPUT:18:Your Real Name:;~R06~C60
+15,01INPUT:20:Your Voice #:;~R07~C58
+15,01INPUT:11:Good time to call you:;~R08~C67
+15,01INPUT:21:Refernce #1:;~R09~C57
+15,01INPUT:21:Refernce #2:;~R10~C57
+15,01INPUT:21:Refernce #3:;~R11~C57
+
+15,01DISPLAY:@C|15A|07pplic|08ation |15c|07rea|08ted |15b|07y |15C|11yberg|03litch|09
+15,01[|15S|12C|08a|04R|09], |15P|07le|08ase |15s|07e|08nd |14SCAR-COR|09.|14APP |15t|
+15,0107o |15y|07o|08ur |15l|07oc|08al |15S|12C|08a|04R |15S|07i|08te
+15,01END:

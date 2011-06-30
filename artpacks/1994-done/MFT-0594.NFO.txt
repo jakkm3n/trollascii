@@ -1,0 +1,80 @@
+
+15,01                                                                     00m
+15,01       00mm15               00""14,00  00,01"   m15        00mmmm14,00#15,01@00#15                 00mmm15@00#
+15,01      00"00,00#15,15@@@00,00##00,01mm15           00mm00,15#14,00  00,01"15m15,15@@00,01mmm00,00##14    #15,01@00# 14,00   00,01mmmm   mmm14,00     #15,01@00#
+02,01# . --- 00"00,15##15@@00,00##14  00,01m15     00m15,15@00#14 15 00,01""15m14,15 00#15@@00,00###14       #15,01@00# 14,00     00  ###    14   #15,01@00# 02---- . #
+02,01.15         14,15 00##15@00,00##14   00,01m14,00 00#15,15@@00## 15,01 14,12 12,01 15"14,15  00##15@@00,00##14 00#14     #15,01@00# 14,00  00  ##15,15@@@00,00####  14  #15,01@00#15       02.
+02,01|15         02,15 14 00#15@@00,01"00,00#14  # 00##00,01"00,15#14 15 15,01 14,12 12,01 14,12 12,01 14,15  00##15@00,01"00,00##00,01""   """"# 14,00 00 00,01"14"15,15@00###15@@@@00,00#00,01""""14,00#15,01@00#15      02|
+02,01+--------- 02,15 14 00#15@@15,01 00,00#14  # 00,01  00,15# 15,01 14,12  12,01  14,12 12,01 14,15  00##15@15,01 02----- 00m 02-------- 14,15   00###15,01 02------ 15@00#m 02---+
+12,01+---------- 12,15 14 00#15@15,01  14,00 ###00,01 12- 12,15 15,01 14,12   12,01 14,12  12,01 14,15  00##15@00,01mm15,15@@@00,00##14#00,01 12--------- 14,15   00#15,01 12-------- 00"" 12--+
+00,01+--------- 12,12 15,01 14,15 00#15@15,01  00#15@14,00##00,01 - 00,15 15,01 14,12  12#15,01  14,12  12,01m15"14,15  00###15@@00,00##14#15,01@00 -------- 14,12 12,01 14,15  15,01|00---------------+
+12,01+-------- 12,12# 15,01 14,15  15,01 12-- 00#15@00 12--- 14,12  12#02,02@15,01  12,12  14  12,01m15""14,15  00#00,01"""""#m 12----- 14,12   12,01  14,15 15,01 12--------------+
+02,01+-------- 02,02@12,12 15,01 14,15  15,01 02---00|# 02-- 14,12  12#02,02@12#15,01  12,12    14   12,01 02--------------- 12,12##14   12,01 02---------------+
+02,01|15        12,02#02@12,12# 15,01 14,15 15,01         14,12  12#02,02@12#15,01   12,12##   14 12,01    00MANiFEST15      02,02@@12,12##14  15,01               02|
+02,01.15       12,02#02@12,12## 15,01           14,12 12##02,02@12#15,01  02,02@@12,12###  #15,01              02mm12,02###02@@12,12###02,01m15             02.
+02,01# . - m12,02#02@@12,12##   12,01m15       14,12  12#02,02@@12#15,01 12,02###02@@12,12## ####02,01mm15       02m14,02      12##02@@@@@02,01m ------- . #
+02,01    m12,02####02,01"12"12,12###    12,01m mm14,12   12##02,02@@12#02,01mm 12,02##02@@12,12##02,02@@@12####02,01m m14,02       02,01"""14,02 12######14  02,01mm
+02,01   """"15       12""12,12    12,01m"14,12  12###02,02@@@@12##02,01m"   """"""14,02 12###02,01m"14,02  02,01""15         02"""""""14,02  02,01m
+14,01--15-- 00#15          12mmm "m14,12 12,01"""    02""12,02###02,01m15         02mm"""15     Innovations: tm1994 00# 15-14-
+15,01          14m14,14 14,01  12m14,12   12,01"""  14mmmm mmm mmmmm mm   m02""15     14|m mmmm m  m    m
+15,01       14m14,14   14,01|15            m 14,15 15,01 14,15 15,01 14,15 15,01  m  14,15 15,01   "m"        14"  15m  m m  m    14"14,14  14,01m
+15,01     14m14,14   14,01"15              15,15@15,01 15,15@15,01 15,15@15,01 15,15@15,01  15,15@15,01""15,15@15,01    15,15@15,01            """15,15@15,01 """15,15@15,01      14"14,14  14,01mm
+14,01  mm14,14   14,01"15                00"  "  "  "  "    "15               00"    "15        14"14,14   14,01m
+14,01 14,14    14,01"15                                                                    14,14    14,01m
+14,01 14,14   14,01    15Manifest is pleased to put out our third release for May of 1994.   14,14   
+14,01 14,14   14,01    15We have expanded  tremendously since our first release.  We have    14,14   
+14,01 14,14   14,01m   15grown alot as a  group and have  gotten  alot of new members and   14m14,14  14,01"
+14,01  14,14   14,01   15boards since the  first pack was put out.  I would like to thank   14,14   
+14,01  14,14   14,01   15everyone who has contributed to  this months release and welcome   14,14   
+14,01  14,14   14,01   15a few new members we have gotten this month.  This month some of   14,14   
+14,01  14,14   14,01   15the  new faces in  Manifest  are The Mad Cartoonist, ZipperHead,   14,14   
+14,01   14,14   14,01  15Phaser-X, and SkyPager!.  Some other  new faces in the group are  14,14   
+14,01   14,14   14,01  15Dark Reaper,  Squirrley,  Ali Baba,  and Red Bud.  Also on a sad  14,14   
+14,01   14,14   14,01  15note we lost one of artists  who has been in the group since our  14,14   
+14,01   14,14   14,01  15first  pack, Whispering Death.  He decieded  to quit a  week ago  14,14   
+14,01   14,14   14,01  15for his own reasons and I  wish him good luck for the future and  14,14   
+14,01   "14,14  14,01  15I thank him   for what he has done for the group.  Anyhow enough  14,14   
+14,01    14,14  14,01  15with the  bad news.  This month  our Art  Division has  gotten a  14,14  
+14,01    14,14  14,01  15few new  faces and has produced  alot  of nice work this  month.  14,14  
+14,01    14,14  14,01  15We have gotten quite a  few nice ansis which seems to be growing  14,14  
+14,01    14,14  14,01  15every month but our rip and vga work remains about the same size  14,14  
+14,01    14,14  14,01  15as before since we haven't  gotten any new people in these areas  14,14  
+14,01    14,14  14,01  15of our group.  Our music  division  this month  has produced one  14,14  
+14,01    "14,14 14,01  15music file this  month which was  done by  Digital Effects.  For  14,14 14,01"
+15,01     14,14 14,01  15his aoc mod, please use DMP to listen to his 100% orignal stuff.  14,14 
+15,01     14,14 14,01  15Its 10 channels and  is in .mtm format.  This month the  app was  14,14 
+15,01     14,14 14,01  15not forgotten like last month!  If you want to apply to Manifest  14,14 
+15,01     14,14 14,01  15fill the app and follow the instructions given. Also theres alot  14,14 
+15,01     14,14 14,01  15of Manifest  boards  wanting to get into the NET.  I put  in the  14,14 
+15,01     14,14 14,01  15stuff needed for  IntentNet in the pack in a zip.  So get it and  14,14 
+15,01     14,14 14,01  15contact  Deranged Evil for any  questions about the net that you  14,14 
+15,01     14,14 14,01  15might have.On a final note I found a bug on the Manifest viewer.  14,14 
+15,01     14,14 14,01  15If you want to view the rips, please use the Acid viewer.I found  14,14 
+15,01     14,14 14,01  15out that  the rips get screwed  up using our viewer. Sorry about  14,14 
+15,01     14,14 14,01  15that, and hopefully next month it will be fixed. Everything else  14,14 
+15,01     14,14 14,01  15should work fine though.Okay so that should be it for this month, 14,14 
+15,01     14,14 14,01  15if i made any thoughtful or grammar mistakes, sorry.              14,14 
+15,01     14,14  14,01m15                                                                14m14,14  
+15,01     14"14,14  14,01m15                                       14Be15t00ra15y14er <Ma15ni00fe15st 14SS> 14,14  14,01"
+15,01       14,14  14,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,14 14,01"
+
+
+15,01         Okay thanks for downloading our pack for this month.  Now here
+15,01         are my greets14:
+
+15,01         Groups14:  15Acid14, 15Alive14, 15Bad14, 15Blade14, 15Cia14, 15Curse14, 15Ice14, 15Lancelot 214,
+15,01         Lapse14, 15Nation14, 15Relic14, 15Tribe14, 15Union14.
+
+15,01         Personal14:  A15zrael            14: 15No more merge? =(
+15,01                    14B15inary Beast      14: 15Still Disappointed at you...
+15,01                    14C15odex             14: 15Hey there, whats up man?
+15,01                    Dark Reaper       14: 15Thanks for all the help this month.
+15,01                    Dark Sword        14: 15When's that pack gonna be out?
+15,01                    Digital Effects   14: 15Make more awsome music.
+15,01                    Dr. Phunk         14: 15DeathBlow is just too elite!
+15,01                    Gambit            14: 15I didn't forget the App!
+15,01                    Grifter           14: 15Hows the new HD?
+15,01                    Hannibal Lecter   14: 15The man with the Skillz!
+15,01                    HunchBack         14: 15Thanks for all your help man.
+15,01                    Indicator         14: 15Anything but Pcboard!
+15,01                    Kurse             14: 15Nice pack. Waiting for the 2nd one.

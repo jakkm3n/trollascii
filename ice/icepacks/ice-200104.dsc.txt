@@ -1,0 +1,24 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 4/1/2001
+15,01###############################################
+15,01ice-020104.nfo,ANSI,iCE NFO File 4/2001,iCE Staff
+15,01ag-revo.jpg,EXTERNAL,Revo,Adam Grossi
+15,01dh-ayu.jpg,EXTERNAL,Ayu,Darkhalo
+15,01dh-namie.jpg,EXTERNAL,Amuro Namie,Darkhalo
+15,01dh-tech.jpg,EXTERNAL,Tech Heart,Darkhalo
+15,01em-greengal.jpg,EXTERNAL,Green Gal,Empyrean
+15,01id-7sporks.jpg,EXTERNAL,7 Sporks,Ian Dale
+15,01qx-fish.jpg,EXTERNAL,Fish,Quantum-X
+15,01ss-april1.jpg,EXTERNAL,April 1,Steven Stahlberg
+15,01ss-crawl.jpg,EXTERNAL,Bad Guy,Steven Stahlberg
+15,01ss-badguy.jpg,EXTERNAL,Crawl,Steven Stahlberg
+15,01te-cred.jpg,EXTERNAL,Credence,Tetanus
+15,01te-gall.jpg,EXTERNAL,The Gallows,Tetanus
+15,01te-onth.jpg,EXTERNAL,On This Day,Tetanus
+15,01ti-nosfer.ice,ANSI,Nosferatu The Vampire Movie Poster,Trip
+15,01ti-nyc26.ice,ANSI,NYC2600.ORG Logo,Trip
+15,01us-Quilt7.jpg,EXTERNAL,Invite Only Quilt No. 1,Slothy/Corpulent Cow/Squidgalator
+15,012/Jamie McCarter/Root88/Tetanus/Leonardo/GRRR/Empyrean/Darkhalo/Valacar/MrScrapp
+15,01y/Nessahead/Quantum-X/Nokturnal
+15,01xb-Laser_Tag.jpg,EXTERNAL,Laser Tag,Xebra
+15,01xb-Little_Bug.jpg,EXTERNAL,Little Bug,Xebra

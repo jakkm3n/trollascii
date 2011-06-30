@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                       J  U  N  E      1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+15,011.  Once again, we've  decided  to crack the whip  here at iCE and release  the
+15,01    pack on-time,  on the first of  the month.  We  apologize to  a few artists
+15,01    who had eleventh hour submissions - I'll admit,  the Devo got out  of hand,
+15,01    and  we will  pay  for  the  medical bills.   Whip-it!   Whip  it good!  =)
+
+
+15,012.  Our web site  has  won numerous awards  this past month including,  but not
+15,01    limited  to: Cool Site of the Day,  Spiders Pick of the Web, Spiffy Musical
+15,01    Frog Award, and Vision Quest 'Site of the Week'.  We've  also been added to
+15,01    the Cool Site  Club.  In fact,  our pages  were hit 100,000  times one day,
+15,01    by  far our current  record.  Thanks  to everyone  who made  this possible.
+15,01    Special thanks  to the penguin underlings who teased and tickled  the award
+15,01    committees into choosing www.ice.org!
+
+
+15,013.  Special Note:  iCE has furthered  the noble cause  of the Southern Baptists
+15,01    by  boycotting  not only  Disney,  but Barney the  Purple Dinosaur,  Sesame
+15,01    Street  and  the  Children's  Television Workshop,  and Mr. Rogers  due  to
+15,01    similar obvious  flagrant violations  of morality and  decency with regards
+15,01    to  children.  We  can  only  solemly say  to  the heinous  social deviants
+15,01    behind these evil schemes  to pollute and poison the pristine minds  of our
+15,01    children:  Shame On You!
+
+15,013b. iCE produced a number of related works to further the cause this month, but
+15,01    they were pulled from  the pack at the last minute because they, too,  were
+15,01    found to be indecent.
+
+
+15,014.  ice.org has made yet  another breakthrough  in scene  networking!  Our very
+15,01    own IRC server.  irc.ice.org is up and servicing chatters, however  we have
+15,01    yet to link to an IRC Network.  When we decide  on one and connect, we will
+15,01    surely let you know!
+
+
+15,015.  A fine how-do-you-do this  month to new VGA comrades CeeDee, Easel, Mantis,
+15,01    Smooth, and Renderbrandt. These guys are phenominal, and their resumes with
+15,01    major companies in the graphics design field further it! Some of their work
+15,01    debuts in this pack, and next month will debut the rest.  Also  joining the
+15,01    team in ANSI this month were Defiant and Wyvern,  two talented artists with
+15,01    a new perspective.  And Wyvern  can out-bowl  anyone in the  519 area code!
+15,01    Also sporting the iCE Olympic Jacket  are Hornet (music),  Humanoid (code),
+15,01    and Aneurysm (html member).  Welcome to all!
+
+15,015b. The  hazy grey  skies above  the IRC universe have opened up  once more and
+15,01    deposited three slightly startled  former iCE members back  in the group! A
+15,01    warm welcome back to Biscuit, Joker, and Deeply Disturbed!
+
+
+15,016.  On the other side of the coin, there is either the face or the building.
+
+15,016b. Unless, of course, it's not an American coin.
+
+15,016c. If one side of the coin is a naked lady, it's probably not a coin at all.
+
+15,016d. However, tokens can prove useful in certain situations.
+
+

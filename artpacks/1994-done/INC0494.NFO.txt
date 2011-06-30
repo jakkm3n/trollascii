@@ -1,0 +1,30 @@
+15,01   14,15    15,01  mmmmmm                                                 14,15    15,01  mmmmmm
+15,01   """" 14,15 15,01"""""""                                                """" 14,15 15,01"""""""
+15,01   14,15  15,01m  14,15 15,01    mmmm                                               14,15  15,01m  14,15 15,01    mmmm
+15,01   14,15    15,01 14,15 15,01     14,15  15,01      iNCARNATE GRAPHICS 04/15/94 PACK          14,15    15,01 14,15 15,01     14,15  
+15,01   "14,15  15,01" "14,15     15,01"                                                 "14,15  15,01" "14,15     15,01"
+
+15,01--------------------------------------------------------------------------------
+
+15,01--------------------------------------------------------------------------------
+
+
+15,01# Welcome to the first pack, to view ansis or listen to mods, use incview.exe.
+15,01  It is our viewer coded by Kano, and it was done in a bit of a hurry so if you
+15,01  find any bugs e-mail an incarnate member on a board they call.
+
+15,01# Things are going well for iNCARNATE, we've picked up many new members over the
+
+15,01  past few weeks. If you are interested in joining, e-mail The Weasel on any of
+15,01  the iNCARNATE Member Boards or HQs.
+
+15,01# I know that there has been a lot of bad blood between iNCARNATE and X-Products
+
+15,01  lately. I'd like to say that I have no interest in argueing anymore, so I will
+
+15,01  not start anything, as long as no one starts anything with me.
+
+15,01# Enjoy the pack if you got any questions, or comments mail The Weasel on any
+15,01  board he calls.
+
+15,01                                           . The Weasel [iNCARNATE President]

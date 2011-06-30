@@ -1,0 +1,31 @@
+15,01And once again I continue in a heroic effort
+15,01     to live out of touch
+
+15,01Whats that you said? I cant here you.
+15,01     I'm busy with my bottle
+
+15,01My back hurts from lifting and I cant find my parachute
+15,01     Have you seen me anywhere?
+
+15,01I'm bored of all this schooling
+15,01     I cant find a teacher here
+
+15,01I'm too full of complaints I know
+15,01     I'll listen now
+
+15,01It's time to give my energy to others
+15,01     Where do I plug in around here?
+
+15,01So once again I continue in a heroic effort
+15,01     To live out of touch?
+
+15,01     Pardon?
+
+15,01     Who, me?
+
+15,01     Why thank you for showing me.
+
+15,01     It's been on my back the whole time...
+
+15,01>SAUCE00"Out of Touch"                     Hippy               Mistigris        
+15,01   199706 5}14,15@15,01                                    

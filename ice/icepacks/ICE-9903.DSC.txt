@@ -1,0 +1,36 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 4/1/1999
+15,01###############################################
+15,01-STAT---.---,ANSI,Divider,iCEPack
+15,01ice-9903.sit,ANSI,iCE 99/03 Sites,iCE Senior Staff
+15,01ice-9903.nfo,ANSI,iCE 99/03 Info File,iCE Senior Staff
+15,01ice-9903.mem,ANSI,iCE 99/03 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01-ANSI---.---,ANSI,Divider,iCEPack
+15,01cc-infi.ice,ANSI,Infinite Darkness,Corpulent Cow
+15,01in-year2.ice,ANSI,2 Year Anniversary,Inazone
+15,01mi-fos99.ice,ANSI,Fistful of Steel 99,Mongi
+15,01ng-tt1.ice,ANSI,,Nosegos
+15,01sy-v2.ice,ANSI,iCE.ORG V2!,Shaggy
+15,01us-haz2.ice,ANSI,Hazard/2,Fluor and Grindstone
+15,01-LOGO---.---,ANSI,Divider,iCEPack
+15,01fr-waves.ice,ANSI,Permanent Waves,Fractal
+15,01-VGA----.---,ANSI,Divider,iCEPack
+15,01ae-rose.jpg,EXTERNAL,Rose,AE
+15,01ae-suns.jpg,EXTERNAL,Sunset,AE
+15,01dn-goway.jpg,EXTERNAL,Go Away,Darkmage
+15,01fb-evil.jpg,EXTERNAL,Evil,Funbaby
+15,01fb-zip.jpg,EXTERNAL,Zipperhead,Funbaby
+15,01hf-gally.jpg,EXTERNAL,Gally,Hfaze
+15,01hf-zalem.jpg,EXTERNAL,Zalem,Hfaze
+15,01id-monst.jpg,EXTERNAL,Ack! A monster!,Roadkyll
+15,01jk-tukk.jpg,EXTERNAL,Tukkuq,Joker
+15,01lo-tgres.jpg,EXTERNAL,Tiger Eyes,Leonardo
+15,01mi-tbc1.jpg,EXTERNAL,The Blind Circle,Mongi
+15,01mm-ice.jpg,EXTERNAL,iCE,Mr. Mister
+15,01nf-lair.jpg,EXTERNAL,Lair Dweller,Necrofiliac
+15,01po-lep.jpg,EXTERNAL,The Last Leprechaun,Poweronx
+15,01sd-vuelt.jpg,EXTERNAL,Vueltabajo,Shade
+15,01ep-face.jpg,EXTERNAL,Epoch,The Blind Circle
+15,01tk-time.jpg,EXTERNAL,Time Flies,The Knave
+15,01file_id.diz,ANSI,File_ID.Diz,Shaggy

@@ -1,0 +1,9 @@
+
+
+15,01                14,12 12,01""" 02"""" """ 14"" "
+15,01                14,12 12,01  06Now you have a chance to explain to the sysops
+15,01                02m  06WHY you should be given access, WHAT you can
+15,01                14,02 02,01  06do for this BBS, WHO you know, and a brief
+15,01                02"  06description of yourself.
+15,01                14m
+15,01                14"

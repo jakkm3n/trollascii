@@ -1,0 +1,44 @@
+15,01* ForceNet Application
+
+15,01Forward to : Legend (legend@fl.net.au) at Warhammer (+61-2-9879-6261)
+15,01          or Krisis (krisis@speednet.com.au) at OrgKaos (+61-2-9876-1536)
+15,01--------------------------------------------------------------------------------
+
+15,01SysOp Handle            :
+15,01SysOp Real Name         : 
+15,01SysOp Age               : 
+15,01SysOp Voice             : 
+15,01City/State              : 
+15,01BBS Name                : 
+15,01BBS Number              : 
+15,01BBS Affils              : 
+15,01                        :
+15,01                        :
+15,01BBS Software            :
+15,01BBS Number of Users     : 
+15,01BBS Calls per Day       : 
+15,01BBS has been up for     : 
+15,01BBS Hours of Op         : 
+15,01BBS NUP                 : 
+15,01BBS Other Nets          : 
+15,01Front End Mailer        : 
+15,01Mail Tosser             : 
+15,01Computer Type           : 
+15,01Storage in Mb           : 
+15,01Modem Type              : 
+15,01Modem Protocols         : 
+15,01TIC Support             : Y/N?
+
+15,01Why do you wish to join ForceNet? :
+
+
+
+15,01BBS Description :
+15,01  
+15,01  
+15,01  
+15,01What can you contribute to ForceNet :
+15,01  
+15,01 
+15,01 
+15,01--------------------------------------------------------------------------------

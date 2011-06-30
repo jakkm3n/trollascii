@@ -1,0 +1,14 @@
+15,01FORM   +PBM BMHD   P@@ +      @   @@@@ +CMAP  *      ? ?  ???  ? ??T ???TTTTTnTn
+15,01TTnnnTTnTnnnTnnnnnn***mmm++++++KKKLLLiii|||lll\\\LLL<<<,,,___   n  *  m  +  +  K
+15,01  L  i  |  l  \  L  <  ,  _     nn ** mm ++ ++ KK LL ii || ll \\ LL << ,, __    
+15,01 n  *  m  +  +  K  L  i  |  l  \  L  <  ,  _     nn ** mm ++ ++ KK LL ii || ll \
+15,01\ LL << ,, __     n  *  m  +  +  K  L  i  |  l  \  L  <  ,  _   n n* *m m+ ++ +K
+15,01 KL Li i| |l l\ \L L< <, ,_ _   n  *>>m  +00+@@?TTyddettxaahooT??D++4++$++PII nn
+15,01 n >*> m 0+0@+@T?Tdydtetaxaoho?T?+D++4++$+IPIn n  n>>*  m00+@@+TT?ddytteaaxooh??
+15,01T++D++4++$IIPnn n  n _n <n \n |n Ln +n mn na n+ na nC n` n@ n  n  n _n <n \n |n 
+15,01Ln +n mn nn na n+ na nC n` n@ n  n _n <n \n |n Ln +n mn nn na n+ na nC n` n@ n  
+15,01n+al#oIneay|+ip+Cd+tX+hL?\@yP4iD(|8_p,>`_ PP @   ||P||$||4||D||T||h||x||e||y||?|
+15,01u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u 
+15,01u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u 
+15,01+ u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + u u + 
+15,01u u + u u + u u + u u +  

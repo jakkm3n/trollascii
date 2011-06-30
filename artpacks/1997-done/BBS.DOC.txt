@@ -1,0 +1,10 @@
+15,01# bbs files
+
+15,01  aflist.exe.....* all files lister 1.1 - brian white copywrite 1994
+15,01  fbases.exe.....* file base list maker - author unknown    
+15,01  fblist.ans.....* example of file base list    
+15,01  filereq.bat....* bat file for processing file requests   
+15,01  find.exe.......* dos util, needed for filereq.bat      
+15,01  flist.bat......* batch file for creating your file areas list     
+
+15,01# eOf

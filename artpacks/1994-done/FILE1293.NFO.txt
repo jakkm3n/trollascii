@@ -1,0 +1,78 @@
+15,01                  m
+
+15,01                  14,15 
+15,01                  "                                              "
+15,01             "m       m"
+15,01               "m m m"                                           "m
+15,01 m   m   mmmmmmmmm14,15 15,01mm m m m  m  m mm      m   m mm      m mm     "m
+15,01                m"14,15 15,01"m14,15##15,01   14,15##15,01m m14,15##15,01  "14,15#15,01m  m14,15##15,01 m14,15##15,01  "14,15#15,01m  m14,15##15,01  "14,15#15,01m   m
+15,01              m"    14,15###15,01   14,15##00,01@15 14,15##00,01@15   14,15##00,01@15 14,15##00,01@15 14,15##00,01@15   14,15##00,01@15 14,15##00,01@15   00@14,15##15,01  m"
+15,01             "    m 00@@@15   #00@@15 #00@@15   #00@@15 #00@@15 #00@@15   #00@@15 #00@@15   00@@15#  14,15 15,01m
+15,01                  14,15 15,01 14,15 15,01##   ##14,15 15,01 14,15 15,01##   ##14,15 15,01 14,15 15,01## 14,15 15,01##   ##14,15 15,01 14,15 15,01##   ##14,15 15,01  "m
+15,01                     "# m14,15 15,01#"   "14,15 15,01   #"   "#  "14,15 15,01#m14,15 15,01#"   "#    "   "14,15 
+15,01                  "                                              14,15 15,01"
+15,01                                m "m" m"14,15  15,01m"m14,15     15,01m14,15    15,01"14,15  15,01"m14,15 15,01"14,15 15,01m14,15  15,01"
+
+15,01                  # P   R   O   D   U   C   T   I   O   N   S #
+
+15,01 +--------------------------------------------------------------------------+
+15,01 |                      THE UNiON COMPENDIUM 02-94                          |
+15,01 +--------------------------------------------------------------------------+
+
+15,01      The art that has been released with this pack, is the works of all
+15,01  the UNiON Artists for the month of January.  Because this pack has been
+15,01  delayed until now, the art has also been collected from start of February.
+
+15,01-------------------------------------------------------------------------------
+15,01 | FileName........| Note.| Description.........| Type.| Artist...............|
+15,01-------------------|------|---------------------|------|------------------------
+
+15,01 | DI-DHMEN.ANS....| Uv...| Dead Homies PCB Menu| Ansi.| Dark Image...........|
+15,01 | DI-PNET2.ANS....| UA...| Psycho Net..........| Ansi.| Dark Image...........|
+15,01 | DI-RD212.ANS....| UA...| Red Dawn 2..........| Ansi.| Dark Image...........|
+15,01 | DI-UNI02.ANS....| Uv...| UNiON Site Logo.....| Ansi.| Dark Image...........|
+15,01 | HT-UNION.ANS....| Uv...| UNiON Logo..........| Ansi.| Hard Target..........|
+15,01 | NZ-CHLZ1.ANS....| UA...| Channel Zero........| Ansi.| Nailz................|
+15,01 | NZ-COUNT.ANS....| UA...| Count Zero..........| Ansi.| Nailz................|
+15,01 | NZ-DRED1.ANS....| Uv...| Dreadloc Mag. Logo..| Ansi.| Nailz................|
+15,01 | NZ-FLAT2.ANS....| UA...| Flatlined Reality...| Ansi.| Nailz................|
+15,01 | NZ-GAR1.ANS.....| UA...| The Garden..........| Ansi.| Nailz................|
+15,01 | NZ-LUPUS.ANS....| Uv...| LUPUS Couriers Logo.| Ansi.| Nailz................|
+15,01 | NZ-UNI2.ANS.....| Uv...| UNiON Logo..........| Ansi.| Nailz................|
+15,01 | NZ-UNI3.ANS.....| Uv...| UNiON Logo..........| Ansi.| Nailz................|
+15,01 | NZ-CP1.ANS......| UA...| Corrosive Poison....| Ansi.| Nailz................|
+15,01 | NC-OSM1.ANS.....| Urv..| OSMiUM Magazine Logo| Ansi.| No Carrier...........|
+15,01 | NC-UNIO1.ANS....| UrA..| UNiON Ansi..........| Ansi.| No Carrier...........|
+15,01 | SA-METAL.ANS....| UrA..| Metal Edge..........| Ansi.| Stone Angel..........|
+15,01 | SA-ULOGO.ANS....| UrA..| UNiON Logo..........| Ansi.| Stone Angel..........|
+15,01 | SA-UNION.ANS....| UrA..| UNiON...............| Ansi.| Stone Angel..........|
+15,01 | BD-FLUX.GIF.....| U....| Untitled............| Gif..| Blue Devil...........|
+15,01 | LU-PANDE.EXE....| UE...| Pandemonium Loader..| EXE..| Lockup...............|
+15,01 | LU-FLAT.ZIP.....| UE...| Flatlined Reality...| EXE..| Lockup...............|
+15,01 | UNI-VIEW.EXE....| UE...| Ansi Viewer.........| EXE..| Winter Mute..........|
+15,01 | UNION.NFO.......| U*...| UNiON Info 1293.....| NFO..| GenoCide.............|
+15,01 | FILE1293.NFO....| U*...| This File...........| NFO..| GenoCide.............|
+15,01 | FILE_ID.DIZ.....| U....| File Identification.| DIZ..| Dark Image...........|
+15,01--------------------------------------------------------------------------------
+
+15,01 | Legend.....................................................................|
+15,01--------------------------------------------------------------------------------
+
+15,01 | M - Music.........| % - Animation........| ................................|
+15,01 | A - 50+ Line Ansi.| U - UNiON Production.| This NFO File was constructed by|
+15,01 | v - 50- Line Ansi.| r - Trial ArtWork....| GenoCide of UNiON Productions   |
+15,01 | * - NFO File......| E - Executable.......| 1994............................|
+15,01--------------------------------------------------------------------------------
+
+15,01 | Miscellaneous..............................................................|
+15,01--------------------------------------------------------------------------------
+
+15,01 | Total Ansis: 19...| Total Bytes: 204480 bytes....| 204k....................|
+15,01 | Total Gifs:   1...| Total Bytes:  12713 bytes....|  13k....................|
+15,01 | Total 669s:   1...| Total Bytes: 216121 bytes....| 216k....................|
+15,01 | Total EXEs:   3...| Total Bytes: 176411 bytes....| 176k....................|
+15,01 | Total FLIs:   x...| Total Bytes: xxxxxx bytes....| xxxk....................|
+15,01 | Total NFOs:   2...| Total Bytes:  16386 bytes....|  16k....................|
+15,01 | Total DIZs:   1...| Total Bytes:    188 bytes....|   0k....................|
+15,01 | Total Files: 24...| Total Bytes: 626299 bytes....| 626k Overall Total......|
+15,01--------------------------------------------------------------------------------

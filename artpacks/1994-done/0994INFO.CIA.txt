@@ -1,0 +1,80 @@
+15,01                    m14,15              15,01m  mmmm  m14,15              15,01m
+15,01                    14,15 15              14 15,01 15,15@00####15@15,01 14,15 15      00#   ##  14 
+15,01                    14,15 00#   ##  ###  #14 15,01 00,00#15,15@@@@00,00#15,01 00,15##   ##15@00# #15@@00# 14 
+15,01                    00,15#15@00###15@@00##15@@@00##15@00#15,01 00,00 #### 15,01 15,15@@00###15@@00,00#15,15@00#15@00,00##15,15@00##
+15,01                    15,15@00,00#15,15@@@00,00##15,15@00,01""00,00##15,15@@00,00#15,15@15,01 00,00      15,01 00,00##15,15@@@00,00#00,01""""00,00#  #15,15@@
+15,01                    00,00# ###  #15,01  00"00,00 ## 00,01"  """"  00,00  ### 15,01    00,00    ##
+15,01                    00,00     00,01"14,00 00 15,01         14m00,14    14,01m 00"00,00    00,01"    "14mm00"00,00  
+15,01                    00"14m00"14mm14,14 14,01m00"15         00,14 #### 15,01 00,14 14,01mm00"14m14,14 14,01mmmm00,14    14,01mm
+15,01                    00,14     #  15,01  14m00,14  # 14,01m 00,14#01,15@@@@00,14#15,01 00,14#    #    ####  
+15,01                    00,14# ###01,15@00,14##14,01mm00,14 ##01,15@00,14# 15,01 01,15@14####01@15,01 01,15@00,14####01,15@00,14## #01,15@@@@00,14##
+15,01                    01,15@00,14#01,15@@@14#01@@@00,14##01,15@@14#01@00,14#15,01 14,15#    #15,01 14,15#01@@@@14#14,01""""14,15####01@@
+15,01                    14,15#01@14### ###01@@14## #01@15,01 14,15 15    14 15,01 14,15 #### 15,01    14,15 15   14##
+15,01                    14,15 #       ##    #15,01 14,15 15    14 15,01 15,15     14 15,01    14,15 15    14 
+15,01                    "14,15              15,01" "14,15    15,01" "14,15    15,01"    "14,15    15,01"
+15,01                    14L15o00go    14B15y    14L15i00quid15     14V15i00sion    14[15C00iA]
+
+15,01                     14Cr15ea00tors 14o15f 14in15te00nse 14A15r00t  14P15a00ck 14#151006 14I15n00fo
+15,01                    14--04-13-00--13-04-14----04-13-04-14--------04-13-00-13-04-14------04-13-04-14---
+
+13,01*  Okay, here it is plain and simple.  The pack is late because _I_, Tron
+13,01   caused it to be late.  I was the one that gathered all the data on all
+13,01   our new members, boards, and boards for the net, therefore, _I_ was the
+13,01   only one capable of compiling all of that info for the pack.  I mean,
+13,01   hell, when you do as much as I do >SMACK<  (attitude adjustment performed
+13,01   by image)...Okay, even though that snazzy little .DIZ caught your attention
+13,01   truth is, we make our member and site lists based upon the Senior Staff
+13,01   phone number list (which we guard like the Rebellion, against the evil
+13,01   DaRK Empire, who's always dying to get their hands on it), and since I'm
+13,01   the one that compiles that baby, the other staff members couldn't do
+13,01   their jobs in making those.  So, instead of pissing off all of our new
+13,01   members and sites, we decided to delay the pack.
+
+06,01*  Speaking of which, a bunch of really cool members joined us this month!
+06,01   The Narccissist and Maximum Overdose joined us from the dearly departed
+06,01   Imperial.  Narc lends us his leadership abilities as our new Canadian
+06,01   Coordinator, and the Max  brings us his awesome ansi talents. Glad to
+06,01   have ya, guys!  Also, the guys from CAE decided to merge with us, and
+06,01   that added a whole bunch of talent to our group.  CAE brought us Twitch,
+06,01   Flashpoint, Psi-Stalker, Skitzo, and Vapor (former ACiD also) to our
+06,01   ansi department, Dark Spyre beefs up our coding team, and Doomsday and
+06,01   Screwworm bring their awesome music abilities to the group. Thrilled to
+06,01   have you, dudes.  And also, The Fugitive (ansi), Mirage (courier), and
+06,01   Dark Jester (coder) join us from Reactor!  Hey, fellas! And finally,
+06,01   Psychoskyshark joins our Lit department. Wassup, man?!?!  Welcome all
+06,01   new members! Looking forward to seeing your work in the coming months..
+
+13,01*  Also, we've added Pestilence's board, Point of No Return, as our Canadian
+13,01   Headquarters.  We asked for a CHQ that gave a shit about OUR group, and
+13,01   we couldn't have asked for a better board!  Thanks, Pestilence!
+
+06,01*  In an effort to keep tardy, unorganized packs from happening again, I am
+06,01   stepping down from some of my duties in CiA, and handing over the World
+06,01   Headquarters position to Trident's board, Brave New World.  My job and
+06,01   the rest of my life are making it tough on me to continue as WHQ, and I
+06,01   am quite sure Trident will do a much better job than I am capable of
+06,01   doing at the moment.
+
+13,01*  This month, we've also decided to add a new feature to our packs, that
+13,01   we're calling CAB.  CAB, Creators of intense Art Biographies, will be a
+13,01   personal look at the lives of each of the members that make up our group.
+13,01   Each month, we'll have a few of our members fill out a little questionaire
+13,01   detailing their lives and motivations.  If you'd like to see a specific
+13,01   question added to CAB, drop us a line.
+
+06,01*  In Crime in Progress Net news, a whole hell of a lot of boards applied
+06,01   to the net, this month, and due to the overwhelming response, many were
+06,01   added without notice.  If you see yourself in the nodelist, you already
+06,01   have mail being held on Illegal Embassy, join us!  And as usual, if
+06,01   you'd like to join the net, fill out the net packet enclosed in this pack.
+06,01   Some great boards have joined the net, and MANY groups are being represented
+06,01   by the users there. It is VERY active and sure to catch your interest.
+
+13,01*  And lastly, I'd like to apologize to everyone that I personally have
+13,01   ignorned, forgotten about, or otherwise might have pissed off this month.
+13,01   You can imagine if the pack is this damn late, I must have done more to
+13,01   everyone else that you.  If this applies to you, please remind me what I
+13,01   was suppossed to do or reply about.  As Maestro is fond of saying, there
+13,01   is more to this than just the scene, lives do exsist, and mine got in the
+13,01   way this month.
+

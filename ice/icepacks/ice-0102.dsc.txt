@@ -1,0 +1,24 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 2/1/2001
+15,01###############################################
+15,01ice-0102.sit,ANSI,iCE Site Listing,iCE Staff
+15,01ice-0102.nfo,ANSI,iCE NFO File 2/2001,iCE Staff
+15,01ice-0102.mem,ANSI,iCE Member List 2/2001,iCE Staff
+15,0109-awe1.bin,BIN,Awe's Memorial,Fluor
+15,0109-backg.ice,ANSI,Backgrounds,Fluor
+15,0109-ice4.ice,ANSI,Ice Advertisements 2001,Fluor
+15,0109-sk8.ice,ANSI,Sk8 Shop,Fluor
+15,0188-blues.jpg,EXTERNAL,Blues,Root88
+15,0188-hooka.jpg,EXTERNAL,Hooka So Complicated That It Takes Two Mouths To Smoke It,
+15,01Root88
+15,0188-the_viewing.jpg,EXTERNAL,The Viewing,Root88
+15,01id-all_dried_up.jpg,EXTERNAL,All Dried Up,Roadkyll
+15,01id-jabberwocky_still.jpg,EXTERNAL,Jabberwocky Still,Roadkyll
+15,01lo-jestr.jpg,EXTERNAL,Jester,Leonardo
+15,01sq2-heqz.jpg,EXTERNAL,Hexadecimal 2001,Squidgalator2
+15,01us-coma1.ice,ANSI,Coma,Fluor/The Night Angel/The Extremeist/Mr.Wrong
+15,01us-coma2.ice,ANSI,Coma,Fluor/The Night Angel/The Extremeist/Mr.Wrong
+15,01vc-tete.jpg,EXTERNAL,Head,Vincent Claes
+15,01xebra-devils_candy_dish.jpg,EXTERNAL,Devil's Candy Dish,Xebra
+15,01xebra_fire_demon.jpg,EXTERNAL,Fire Demon,Xebra
+15,01file_id.diz,ANSI,Zipfile Description,iCE Staff

@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :    August Update *  September 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0994.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0894 ANS |   9028 |08.31.94 |%+   | August Member/Board Listing    |
+15,01*|2  |ACIDAPP  EXE | 106288 |09.01.94 |%    | ACiD Application Form Generator|
+15,01 |3  |ACIDVIEW EXE | 132304 |06.01.94 |%    | ACiD Acquisition Viewer + 2.02 |
+15,01 |N/C|ACIDVIEW NFO |  37470 |08.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AE-11D2  ANS |   6346 |09.01.94 |%+   | The Eleventh Dungeon Two       |
+15,01*|5  |AK-TF    EXE |  43192 |09.01.94 |%    | Terra Firma                    |
+15,01*|6  |AN-CAES4 ANS |  19708 |09.01.94 |%+   | Caesar's Palace                |
+15,01*|7  |AN-JELY1 RIP |  25838 |08.22.94 |%    | Jello Insanity                 |
+15,01*|8  |BE-SOE1  ANS |  14480 |09.01.94 |%+   | State of Euphoria              |
+15,01*|9  |CM-TF    ANS |  84110 |08.30.94 |%    | Terra Firma                    |
+15,01*|10 |EL-AMBER ANS |  20821 |09.01.94 |%+   | Amber                          |
+15,01*|11 |EO-AC95  EXE |  61409 |09.01.94 |%    | ANSiCON '95                    |
+15,01*|12 |EX-SOV1  COM |  20793 |09.01.94 |%+   | Spirits of Vengeance           |
+15,01*|13 |FI-SS1   ANS |  39400 |09.01.94 |%+   | Suicidal Shrimp                |
+15,01*|14 |FI-TF    ANS |  54317 |09.01.94 |%+   | Terra Firma                    |
+15,01*|N/C|FILE_ID  DIZ |    558 |09.01.94 |%    | Acquisition FILE ID by {SP}    |
+15,01*|15 |FK-TEH1  RIP |  28995 |09.01.94 |%    | The Eleventh Hour              |
+15,01*|16 |JD-PAL1  ANS |1234567 |09.01.94 |%Ax+ | Paladium                       |
+15,01*|17 |KZ-IOT   ANS |  40680 |09.01.94 |%+   | Illusion of Tranquility        |
+15,01*|18 |LD-ACID2 ANS |  18194 |09.01.94 |%+   | ACiD Productions               |
+15,01*|19 |LD-TC1   ANS |  25103 |09.01.94 |%+   | The Complex                    |
+15,01*|20 |LD-TPF1  ANS |  18888 |09.01.94 |%+   | The Phoenix Foundation         |
+15,01*|21 |LOGO0994 ZIP |  23890 |09.01.94 |%    | Logo Assortment for September  |
+15,01*|22 |NEWS0994 ANS |  12557 |09.01.94 |%+   | ACiD Newsletter Issue #5       |
+15,01*|23 |PC-BADL1 ANS |  42341 |09.01.94 |%+   | The BadLands                   |
+15,01*|24 |RN-COR1  RIP |  30570 |08.29.94 |%    | Corruption Ad                  |
+15,01*|25 |RN-COR2  RIP |  14388 |08.29.94 |%    | Corruption Ad                  |
+15,01*|26 |RN-RANS1 RIP |  10670 |09.01.94 |%    | Ransom                         |
+15,01*|27 |SB-ACID  ANS |  14742 |09.01.94 |%+   | ACiD Productions               |
+15,01*|28 |SB-TF    ANS |  27058 |08.31.94 |%+   | Terra Firma                    |
+15,01*|29 |SB-TTT   ANS |   7995 |08.25.94 |%+   | The Twisted Tower              |
+15,01*|30 |SN-ATG1  ANS |  23160 |09.01.94 |%+   | Alpha Trading Grounds          |
+15,01*|31 |SO-EVEND ANS |  81436 |09.01.94 |%+   | Evolution's End                |
+15,01*|32 |SS-CHAIN RIP |  44049 |09.01.94 |%    | Chains of Destruction          |
+15,01*|33 |SS-TF    RIP |  43871 |09.01.94 |%    | Terra Firma                    |
+15,01*|34 |SS-THA   RIP |  50391 |09.01.94 |%    | The Heretic Asylum             |
+15,01*|35 |SS-TSG   RIP |  40456 |09.01.94 |%    | The Shallow Grave              |
+15,01*|36 |T2-TF2   ANS |  13795 |09.01.94 |%+   | Terra Firma                    |
+15,01*|37 |TS-NEO1  COM |   3715 |09.01.94 |%    | Neo Tokyo                      |
+15,01*|38 |US-AMBER RIP |  35708 |09.01.94 |%    | Amber                          |
+15,01*|39 |US-DSUN1 RIP |   8335 |09.01.94 |%    | Dark Sun World                 |
+15,01*|40 |US-DUNG  RIP |  23570 |09.01.94 |%    | The Dungeon                    |
+15,01*|41 |US-TSP   RIP |  18332 |09.01.94 |%    | The Silicon Phalanx            |
+15,01*|42 |ACDU0994 NFO |   6821 |09.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+

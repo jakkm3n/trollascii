@@ -1,0 +1,23 @@
+
+15,01 Blink v1.0 - Documentation
+
+
+15,01        Blink.Exe is a program created for viewing ansi file with
+15,01extended background colors.  To use blink simply run Blink with the
+15,01following command lines.
+
+15,01        ON    :  This allows blinking foreground colors (Which is the
+15,01                 default Dos configuration)
+
+15,01        OFF   :  This disables blinking foreground, and allows
+15,01                 extended forground colors.
+
+15,01After running Blink with the command line OFF, you can use Dos's TYPE
+15,01command to view any ansi file which uses these extended background colors.
+15,01(Note-Currenly only the REGISTERED version of ACiDDRAW will support these
+15,01      extended background colors)
+
+
+15,01                                              Blink v1.0 Was Created By
+15,01                                                 Skull Leader [ACiD]
+15,01>

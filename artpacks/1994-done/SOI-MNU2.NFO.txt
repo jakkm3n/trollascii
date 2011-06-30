@@ -1,0 +1,10 @@
+15,01ETERNiTY Presents ... An SoI Production
+
+15,01SOI-MN2 .ANS --> Spirit of Illusion / MAiN MENu #2
+15,01SOI-FIL2.ANS --> Spirit of Illusion / FiLE MENu #2
+15,01SOI-MSG2.ANS --> Spirit of Illusion / MeSSaGE MENu #2
+
+15,01        SoI here, with another 3 menus for you to use.  Feel free to edit
+15,01them, change them, whatever..  Anyways, stick in the commands yourself <g>.
+15,01                                
+15,01                                -Spirit of Illusion . ETERNiTY/DEVo

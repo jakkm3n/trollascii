@@ -1,0 +1,20 @@
+15,01Your Password is
+15,01Your Calling From
+15,01Business/Data Phone #
+15,01Home/Voice Phone #
+15,01Brand of CPU
+15,01Clear screen Between Messages
+15,01Scroll Multi Screen Messages
+15,01Use Long Message Headers
+15,01Full Screen Editor
+15,01Set Editor WorkSpace to 79 Col
+15,01Alias Name
+15,01Street Address
+15,01Apt Or Suite #
+15,01City
+15,01Providence/State
+15,01Postal/Zip Code
+15,01Country
+15,01Select Conferences for Scanning
+15,01EDIT
+15,01Q To Quit

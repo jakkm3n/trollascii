@@ -1,0 +1,74 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                      A  P  R  I  L          2   0   0   1
+15,01-------------------------------------------------------------------------------
+
+15,011. We would  like to  welcome some  new  artists  into iCE!  We  know,  this is 
+
+15,01   practically unheard of.  But Tetanus  started the petition,  and once Sprite
+15,01   visited the mayor about it, well, there wasn't much we could do.
+
+15,011a. Quantum-X joined  ice this  month, and is  already turning  out some really
+15,01   great art.  Check out his fish in this month's pack!  Despite his insistance
+15,01   that he is the direct offspring of  Napoleon and Cindy Lauper, he's a pretty
+15,01   good fella.  
+
+15,011b. Next up, we have our most recent addition, Nokturnal.  He hails from Sweden
+15,01   and has a ton of potential.  And boy does he ever look good in a red pair of
+15,01   pumps!
+
+15,011c. Finally we have MdK971,  who is a professional  graphic artist.  Patrick is
+15,01   looking for a place to show off his real  creativity, and we think he'll wow
+15,01   everyone with what he's working on.   Or maybe  he won't at all,  and you'll
+15,01   all  hate  his art.   I  guess that  could happen,  but I  bet  it's  fairly 
+
+15,01   improbable.  You see, the art I've seen so far is really awesome. That's why
+15,01   I go so far as they say that you probably won't be disappointed.   As far as
+15,01   hating it, I think that's right out.  I'll stick with my earlier gut feeling
+15,01   on this one.  
+
+15,011f. All three of these new guys are  fantastic artists, and we're proud to have
+15,01   them in iCE.  Except for Quantum-X.  He smells like soup.
+
+15,012. In  other news,  we decided  to  release one  of  the finished  quilts  from
+15,01   tiles.ice.org in the pack this month.   A lot of iCE  members contributed to
+15,01   it, as well as many  others who aren't  iCE members.  It  turned out  really
+15,01   well, and even caused Jamie McCarter to exclaim, "Holy circus!  We need more
+15,01   hostages!".   Thanks to me (slothy) (of  course),  Corpulent Cow, Sq2, Jamie 
+
+15,01   McCarter,  Root88, Tetanus,  Leonardo, GRRR,  Empyrean,  Darkhalo,  Valacar, 
+
+15,01   MrScrappy,  Nessahead,  Quantum-X, and  Nokturnal for  contributing  to this
+15,01   kick-ass image.  
+
+15,013. We'd just like to mention that 7 sporks are better than none at all.
+
+15,014. Thanks again to root88 for his hard work making the pack this month.  Root88
+15,01   is so awesome that his head  lice don't  even bite him.   They're  all  just 
+
+15,01   groupies, trying to get some alone time with him.
+
+15,01Oodles of noodles,
+15,01     Slothy and Mass Delusion
+
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion
+15,01-------------------------------------------------------------------------------

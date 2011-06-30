@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : July Update      *     August 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0893.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0793 ANS |  10415 | 7.31.93 |%+   | July Members List              |
+15,01*|2  |ACIDAPP  EXE |  22049 | 7.01.93 |%    | ACiD Application Form Generator|
+15,01*|3  |DV-CTDL  EXE |  60239 | 7.30.93 |%AM  | Citadel                        |
+15,01*|4  |ES-SVOR1 ANS |  24346 | 7.08.93 |%+   | Silicon Vortex                 |
+15,01*|5  |EX-CITDL ANS |  26854 | 7.27.93 |%+   | The Citadel                    |
+15,01*|6  |EX-DSOC1 ANS |  44539 | 7.10.93 |%+   | Dark Society                   |
+15,01*|N/C|FILE_ID  DIZ |    237 | 8.01.93 |%    | Acquisition FILE ID by AE      |
+15,01*|7  |FN-DD1   ANS |  22519 | 7.17.93 |%+   | Dark Dimension                 |
+15,01*|8  |FN-HNET  ANS |   4279 | 7.28.93 |%    | hyper net Logo                 |
+15,01*|9  |FN-IRID1 ANS |   1638 | 7.18.93 |%+   | Iridium Logo                   |
+15,01*|10 |FR-STATS ZIP |   6204 | 7.26.93 |%x   | Stats screens by Feyd-Rautha   |
+15,01*|11 |FR-SWAT  ANS |  18173 | 7.29.93 |%+   | Swat                           |
+15,01*|12 |FX-3D    EXE | 126601 | 7.30.93 |%AM  | Three-Dee Shaded Vectors       |
+15,01*|13 |FX-HARD1 EXE |   5836 | 7.29.93 |%    | Hard Wired                     |
+15,01*|14 |FX-SPIN  EXE |  22087 | 7.28.93 |%A   | Spinning ACiD                  |
+15,01*|15 |GL-CVT2  ANS |  33113 | 7.10.93 |%+   | Cover Action 2                 |
+15,01*|16 |GL-HARD1 ANS |  10937 | 7.07.93 |%+   | Hardwired                      |
+15,01*|17 |GL-PAW1  ANS |   3766 | 7.13.93 |%    | PAW Logo                       |
+15,01*|18 |GL-UNXD1 ANS |  19358 | 7.19.93 |%+   | The Unexpected Domain          |
+15,01*|19 |HL-TBE1  ANS |   5426 | 7.13.93 |%    | The Body Electric              |
+15,01*|20 |HL-TDS2  ANS |   2619 | 7.15.93 |%    | The Dark Society Logo          |
+15,01*|21 |HL-TSBR1 ANS |   4189 | 7.09.93 |%    | The Sound Barrier Logo         |
+15,01*|22 |HO-ACID  ANS |  12875 | 7.29.93 |%    | ACiD Logo                      |
+15,01*|23 |HO-HTEK  ANS |   4257 | 7.15.93 |%    | Housetek Logo                  |
+15,01*|24 |HO-TG    ANS | 181588 | 7.03.93 |%+   | Total Grindage                 |
+15,01*|25 |IC-CS    ANS |  31005 | 7.30.93 |%+   | Crusty's Spamland              |
+15,01*|26 |IC-PWA   ANS |   5374 | 7.29.93 |%    | PWA Logo                       |
+15,01*|27 |IC-OBV2  ANS |   6431 | 7.30.93 |%    | Oblivion/2 Stats Screen        |
+15,01*|28 |IL-ACID  ANS |   6323 | 7.30.93 |%    | ACiD Logo                      |
+15,01*|29 |IL-HS    ANS |  11182 | 7.30.93 |%+   | Helter Skelter                 |
+15,01*|30 |IM-CHAR1 ANS |   7102 | 7.11.93 |%+   | Charisma Logo                  |
+15,01*|31 |IM-DL    ANS |  32855 | 7.22.93 |%+   | Data Lore                      |
+15,01*|32 |KR-FBEER ANS |  23850 | 7.09.93 |%+   | Free Beer                      |
+15,01*|33 |LM-SWAT2 ANS |  64905 | 7.27.93 |%+   | Swat                        (2)|
+15,01*|34 |LN-FX    ANS |  18424 | 7.30.93 |%+   | F/X                            |
+15,01*|35 |MH-WHIRL EXE |  39903 | 7.29.93 |%AM  | ACiD Whirlpool                 |
+15,01*|36 |MO-ALIEN ANS |  55457 | 7.31.93 |%+   | Alien picture                  |
+15,01*|37 |PE-DSOC1 ANS |  17242 | 7.19.93 |%+   | Dark Society                   |
+15,01*|38 |PJ-CRIM  ANS |   3413 | 7.28.93 |%    | Crimson II Logo                |
+15,01*|39 |RS-METAL EXE | 119881 | 7.30.93 |%M   | Metal Works                    |
+15,01*|40 |SC-GHETO ANS |  60003 | 7.23.93 |%A   | Ghetto                         |
+15,01*|41 |TK-AV353 ZIP |  39963 | 6.01.93 |%    | ACiD Acquisition Viewer v3.53  |
+15,01*|42 |TR-SOUND ANS | 322040 | 8.01.93 |%Ax+ | Sound Barrier                  |
+15,01*|43 |VS-SGMAG ANS |   4513 | 7.27.93 |%    | Shallow Ground Logo            |
+15,01*|44 |ZN-INC   ANS |   4779 | 7.03.93 |%    | INC Logo                       |
+15,01*|45 |ACDU0893 NFO |   6962 | 8.01.93 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+

@@ -1,0 +1,23 @@
+15,01                       00- 13Celerity Full-Screen Editor 00-
+
+13,01^E00: 15Cursor up                 13^R00: 15Page up                   13^Y00: 15Delete line
+13,01^X00: 15Cursor down               13^C00: 15Page down                 13^T00: 15Delete word
+13,01^S00: 15Cursor left               13^A00: 15Word left                 13^H00: 15Delete char
+13,01^D00: 15Cursor right              13^F00: 15Word right                13^J00: 15Join lines
+13,01^V00: 15Toggle insert             13^Q00: 15Start of line             13^B00: 15Break line
+13,01^Z00: 15Macros (#1-3)             13^W00: 15End of line               13^N00: 15Insert line
+13,01^K00: 15Extra Commands00:   13^K F00: 15Format paragraph     13^K C00: 15Cycle Display
+15,01                      13^K S00: 15or 13/S 15Save Message   13^K A00: 15Abort message
+
+00,01For 08C13OL10O09R12S 00use 13| 00followed by a 132-digit number 00(121-2300)
+00,01 |00 01,15Black15,01           00|04 04Red15             00|08 14Bright Grey15     00|12 13Bright Red
+13,01 00|01 02Blue15            00|05 06Magenta15         00|09 12Bright Blue15     00|13 13Bright Magenta
+13,01 00|02 03Green15           00|06 08Brown15           00|10 09Bright Green    00|14 08Bright Yellow
+08,01 00|03 11Cyan15            00|07 15Grey            00|11 10Bright Cyan15     00|15 Bright White
+00,01 |16 Black Bkgrnd    |17 00,02Blue Bkgrnd15,01     00|18 00,03Green Bkgrnd15,01    00|19 00,11Cyan Bkgrnd
+15,01 00|20 00,04Red Bkgrnd15,01      00|21 00,06Purple Bkgrnd15,01   00|22 00,08Brown Bkgrnd15,01    00|23 00,15Grey Bkgrnd
+
+12,01|UN 00= Print out handle of the user15     12|KE 00= Wait for key to be pressed
+15,01      00that is currently online15               00by the user
+12,01|Px 00= Pause for x seconds15              12|DA 00= Print out current Date
+12,01|CL 00= Clear the screen15                 12|TI 00= Print out current time

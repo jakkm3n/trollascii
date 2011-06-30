@@ -1,0 +1,2 @@
+15,01Use these .TMP files as templates when you are making game add-ons. Just fill
+15,01in the info in the template and name it the same as your game add-on.

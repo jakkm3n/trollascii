@@ -1,0 +1,30 @@
+
+15,01                                     11Drivel
+
+
+15,01                            Frustration
+15,01                             Anger
+15,01                            I can't let go
+
+15,01                            Mask
+15,01                             14Calm
+15,01                            14It's all a show
+
+15,01                            14Fear
+15,01                             14Inside
+15,01                            02Huddled in fright
+
+15,01                            02Pain
+15,01                             02Writhe
+15,01                            02A demon's bite
+
+15,01                            12Ideals
+15,01                             12Shattered
+15,01                            12What I wanted to be
+
+15,01                            02Tears
+15,01                             02Fall
+15,01                            14That no one sees.
+
+02,01o12. 02Control
+14,01BL15/14+DE

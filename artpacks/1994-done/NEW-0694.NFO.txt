@@ -1,0 +1,80 @@
+15,01                 mm                                      mm
+15,01                |14,15 15,01|    Getting better all the time.     |14,15 15,01|
+15,01          mmmmm 00@14,15#15,01 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 00@14,15#15,01 mmmmmm
+15,01          14,15#15,01    |#|                                     |#|      14,15 
+15,01          14,15#15,01    14,15  15,01    m14,15 15,01          m14,15 15,01  mm      m14,15 15,01   m14,15 15,01   14,15  15,01    m14,15 15,01 14,15#
+15,01          14,15#15,01   |#|  m00@15#"        m00@15#| |#|    m00@15"  m00@15#|  |#|  m00@15"  14,15#
+15,01          00@15   14,15#00,01@15 m14,15 15,01"14,15##15,01       m14,15#15,01"14,15##15,01  14,15#00,01@15   m14,15 15,01"  m14,15 15,01"14,15# 15,01   14,15#00,01@15 m14,15  15,01    00@
+15,01          00@15  |14,15 15,01m14,15 15,01" |14,15 15,01|     m14,15 15,01" |14,15 15,01| |14,15 15,01| m14,15 15,01"  m14,15 15,01" |14,15 15,01|  |14,15 15,01m14,15 15,01"14,15 15,01|    00@
+15,01          #  00@14,15#15,01"    14,15#00,01@15   m14,15#15,01"    14,15#00,01@15  14,15#00,01@15|14,15#15,01  m14,15#15,01"    14,15#00,01@15  00@14,15#15,01"  14,15#00,01@15    #
+15,01          # |#| nb  |#| |#|  mm"|#| |##| |#|     |#||#|   |#|   #
+15,01             ""      ""  """""   ""  """  """""""""  ""    ""
+15,01          """""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01           E     N     T    E    R    P    R    I    S    E    S
+15,01           -----------------------------------------------------
+15,01                           NewsLetter Issue #3
+15,01  
+15,01  
+15,01  Introduction
+15,01        
+15,01        Havok has suffered some major setbacks this month, which range        
+15,01        from loss of users, to loss of artwork, to lack of motivation.
+15,01        Havok continues to exist, however, shows some very unworthy
+15,01        artists as of lately..
+
+15,01New Members:
+15,01        
+15,01        New members include Buckwheat.  He has joined us from spLat, which
+15,01        broke up towards the end of the month.  He joins us as a coder, and
+15,01        shows some great skill in coding.
+15,01        
+15,01Members resigning:
+15,01        
+15,01        Ozzy has left us, who joined from the iLLUSiON Merge.  Where he plans
+15,01        to go, and what he plans to do is unknown, but fortunately he leaves
+15,01        us on good terms.
+15,01        Asrael has left our RIP department, leaving for ACiD Productions, 
+15,01        who offered him to draw for them.
+15,01        Mr. Corruption has left us to form his own group, Fury.  We wish 
+15,01        him the best of luck.
+15,01        Techie has left us for the time being to code a viewer for CiA
+15,01        who is paying him 50$ to do so, which is more than we offered
+15,01        him.  Coding is a HUGE setback for Havok once again.  So if you
+15,01        have the talent, please give us a call.
+
+15,01Artwork: 
+
+15,01        In RIP this month, we are back to what we started with, ONE RIP
+15,01        artist, our 2nd artist who came from iLLUSiON, Asrael, got an
+15,01        offer from ACiD and accepted.  Good luck Asrael.
+15,01        
+15,01        VGA work is slow this month, showing very little work.  VGA Art
+15,01        is limited in Havok, as we lack in VGA Artists.
+15,01        However, Zaphod has been elected as Head of VGA Art, and did some
+15,01        fantastic work this month.
+
+15,01        Nightbreed again shows an outstanding collection of ANSi work this
+15,01        month.  Incredible job NB.  Sword Weaver as well continues to
+15,01        amaze us with his outstanding work, however minimal due to college
+15,01        entrance exams.  He plans to start drawing more again this month.
+15,01        He contiues to show that he can also do origional artwork, and 
+15,01        not copy from Comic books. :)
+15,01        Nightbreed has been nominated Head of ANSi Art.  Congradulations
+15,01        NB!
+
+15,01        The Lit department is again very solid, with Zaphod contributing 
+15,01        another large quantities of work, as well as quality.  Destiny
+15,01        has continued to amaze me with her truly origional poetry, and the
+15,01        ability to make a poem not only sound good, but have appeal to the
+15,01        vision as well.  Destiny has accepted the position of Head of
+15,01        Literture department.
+
+
+15,01Closing:
+
+15,01        This has been the update for this month.  Any questions
+15,01        about Havok can be answered by myself on CiPNet, KMANet, ValiantNet,
+15,01        ThunderNet, my board, ANY of the Havok HQ's, or my voice 
+15,01        line (7O8)557-2825.
+
+15,01        Anyone interested in becoming a site for Havok can apply using

@@ -1,0 +1,47 @@
+15,01This file is a brief history of what has been added to ShiverView.
+15,01All routines and additions are mine (Cyric) unless otherwise noted.
+15,01If you should find an error, please notify me.  If you would like
+15,01a file format supported, please contact me, and I shall try to include
+15,01it.
+
+15,01Version 1.2 - 11/1/94
+15,01-Mouse Support added
+15,01-Rip Support readded (Thanx to SiDS)
+15,01-File sorting added
+15,01-Smoother file selection routines
+15,01-8 customizable filemasks!
+
+15,01Version 1.1 - 10/1/94
+15,01-Renamed to ShiverView (from ProView)
+15,01-Multiple menusets (Artists listed in menu)
+15,01-Optimized routines
+15,01-Defaults written to disk
+15,01-Rip Support Dropped (temporary?)
+15,01-Page Up/Down converted to Fast Up/Down
+15,01-Non-Scrollback pausing (holding down space)
+
+15,01Version 1.0 - 8/29/94
+15,01-New interface (Additions by: Aventari and Gossomer)
+15,01-SVGA modes (640x480 - 1280x1024)
+15,01-UltraSmooth Scrolling
+15,01-GIF Support
+15,01-RIP Support (Yuck!)
+15,01-Non-Scrollback mode added
+15,01-Full SAUCE support
+15,01-ICE Color support
+15,01-Multiple filemasks
+15,01-Palette bug fixed
+
+15,01Version 0.5a - 7/11/94
+15,01-PDESC description dropped
+15,01-Minimal SAUCE support (Plaz's idea)
+
+15,01Version 0.5 - 6/22/94
+15,01-First release
+15,01-PDESC description files
+15,01-400 line ANSI supported
+15,01-25/50/320x200 supported
+
+
+15,01>SAUCE00Shiver View History                Cyric               Shiver           
+15,01   19941029+x    P v                             

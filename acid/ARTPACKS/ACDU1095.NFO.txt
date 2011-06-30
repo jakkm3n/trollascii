@@ -1,0 +1,78 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : September Update *    October 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1095.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-TEE GIF | 164921 |07.01.95 |%    | ACiD T-Shirt Promo             |
+15,01*|2  |ACID-TEE NFO |   4268 |08.01.95 |%+   | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID0995 ANS |   5950 |09.30.95 |%+   | September Member/Board Listing |
+15,01*|4  |ACIDAPP  EXE |  35277 |07.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW CFG |   3979 |10.01.95 |%+   | ACiD View configuration        |
+15,01*|6  |ACIDVIEW EXE | 167795 |10.01.95 |%    | ACiD View version 3 final      |
+15,01*|N/C|ACIDVIEW NFO |  43156 |10.01.95 |%+   | ACiD View Documentation        |
+15,01*|7  |ALC1095  ANS |  74663 |10.01.95 |%+   | ACiD logo cluster #11 (10/95)  |
+15,01*|8  |ASC1095  ASC |  23380 |10.01.95 |%+   | ACiD ascii cluster #1 (10/95)  |
+15,01*|9  |BG-COC3  EXE |  23232 |10.01.95 |%    | Citadel of Chaos               |
+15,01*|10 |BM-PIA   RIP |  50134 |09.25.95 |%    | Piranha                        |
+15,01*|11 |BM-SAGA  RIP |  25782 |10.01.95 |%    | Saga Promotional (view @ 9600) |
+15,01*|N/C|FILE_ID  DIZ |    625 |10.01.95 |%    | Acquisition FILE ID by {RK}    |
+15,01*|12 |GS-BSUN1 ANS |  18839 |10.13.95 |%+   | Black Sunshine                 |
+15,01*|13 |GS-VOS1  ANS |  34660 |10.13.95 |%+   | Visions of Sacrifice           |
+15,01*|14 |KO-GC01  GIF | 116509 |10.13.95 |%    | Gravitational Collapse         |
+15,01*|15 |P1-ST2   ANS |  45682 |10.13.95 |%+   | Sadistic Temptations           |
+15,01*|16 |P1-TR7   GIF | 159126 |10.01.95 |%    | The Regency                    |
+15,01*|17 |SA-ACID  BIN |  36289 |10.01.95 |%+   | ACiD Promotional               |
+15,01*|18 |SE-UGTEN ANS |  16688 |10.13.95 |%+   | Underground Tensions           |
+15,01*|19 |SL-SUCCO EXE | 197555 |10.01.95 |%    | Succotash                      |
+15,01*|20 |STC-ACID GIF |  48573 |10.13.95 |%    | ACiD Promotional               |
+15,01*|21 |STC-INF  ANS |  49881 |09.19.95 |%+   | Infinity                       |
+15,01*|22 |STC-INF  RIP |  25589 |09.16.95 |%    | Infinity                       |
+15,01*|23 |TR-SUCCO ANS |  20572 |10.13.95 |%+   | Succotash                      |
+15,01*|24 |WE-WILL  SUE |   1531 |10.01.95 |%+   | ACiD Legal Disclaimer          |
+15,01*|25 |ZV-KEEEN RIP |  59509 |10.13.95 |%    | Zevo is Keeen.  Keeen is Zevo. |
+15,01*|26 |ACDU1095 NFO |   5541 |10.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   28     Average Compression Rate: %27          |
+15,01|          Total Bytes:  1,459,706     Average Of Bytes/File: 52,132          |
+15,01|                                      Total Bytes Zipped: 1,072,300          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

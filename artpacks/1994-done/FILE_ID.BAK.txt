@@ -1,0 +1,6 @@
+15,01       = HOW OLD V1.0 =
+15,01 Small Util for file testing
+15,01  to add oldest, newest, diz
+15,01and nfo dates to another file
+15,01OLD : %OF NEW : %NF
+15,01DiZ : %DZ NFO : %FO

@@ -1,0 +1,33 @@
+15,01asphyxia menu engine . . . what's new since 1.4
+15,01-----------------------------------------------
+
+15,01# Added to the menu structures for more flexability
+
+15,01# Added case switching (by request)
+
+15,01# Optimized memory handling
+
+15,01# FadeIn routine
+
+15,01# SoundBlaster detection routines
+
+15,01# Fixed bugs
+
+15,01in the NEAR future
+15,01------------------
+
+15,01# external data routines (haven't written em because I didn't need em, but
+15,01                          what the hell . . . i just like the sight of one
+15,01                          single EXE hehehe)
+
+15,01in the FAR future
+15,01-----------------
+
+15,01# faster and more efficiant assembly routines to take over slower routines
+15,01  (i am learning assembly now . . . just started so it may be a month or 2)
+
+15,01# graphical interface that looks & feels nothing like windows
+15,01  (windoze haters unite!!!)
+
+15,01that's about it . . . this file is for your info only, and really won't be
+15,01included with anything but beta releases concerning my engine.

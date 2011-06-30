@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     March Update *      April 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0496.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0496 ANS |  42704 |04.01.96 |%+   | April Member/Site Listing      |
+15,01*|2  |ACIDAPP  EXE |  45178 |02.27.96 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW DAT | 125438 |03.05.96 |%    | ACiD View BGI/RIP font data    |
+15,01*|4  |ACIDVIEW EXE |  69618 |04.01.96 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  51070 |04.01.96 |%+   | ACiD View Documentation        |
+15,01*|5  |AL-LAN   RIP |  34680 |04.01.96 |%    | Lan's Laughter                 |
+15,01*|6  |ALC-0496 ANS | 148623 |04.01.96 |%+   | ACiD logocluster #14 (04/96)   |
+15,01*|7  |BS-PRIOR ANS |  24026 |04.01.96 |%+   | Priori                         |
+15,01*|8  |BS-SUCCO ANS |  16345 |04.01.96 |%+   | Succotash                      |
+15,01*|9  |CS-ACID3 GIF | 138108 |04.01.96 |%    | ACiD Advo for www.acid.org     |
+15,01*|10 |CS-INFTI GIF | 194041 |04.01.96 |%    | Infiniti Web Design            |
+15,01*|11 |CS-SCTEM GIF | 170527 |04.01.96 |%    | Sonic Temple                   |
+15,01*|12 |CS-TWST1 GIF | 187864 |04.01.96 |%    | Twisted Society                |
+15,01*|13 |CY-TDS1  RIP |  43875 |04.01.96 |%    | The Dark Society               |
+15,01*|14 |DE-ARCAN GIF | 171269 |04.01.96 |%    | Arcane                         |
+15,01*|15 |DF-ACID1 ANS |  30959 |04.01.96 |%+   | ACiD Advo                      |
+15,01*|N/C|FILE_ID  DIZ |    477 |04.01.96 |%    | Acquisition FILE ID by {IV}    |
+15,01*|16 |I1-HELLB GIF | 215544 |04.01.96 |%    | Hellbound                      |
+15,01*|17 |IV-ASP   ANS |  46318 |04.01.96 |%+   | Aspire                         |
+15,01*|18 |KM-DOH   ANS |  40296 |04.01.96 |%+   | The Depths of Hell             |
+15,01*|19 |KO-7SEAL GIF | 167012 |04.01.96 |%    | The Seventh Seal               |
+15,01*|20 |PR-ASH   GIF | 348131 |04.01.96 |%    | ASH System Modification Promo  |
+15,01*|21 |PR-DSCVR GIF | 164988 |04.01.96 |%    | Discovery                      |
+15,01*|22 |PR-MOON  GIF | 135787 |04.01.96 |%    | Fullmoon Madness               |
+15,01*|23 |RS-ACID2 EXE |    924 |03.15.96 |%A   | ACiD minitro                   |
+15,01*|24 |SA-PHRCD ANS | 121141 |04.01.96 |%+   | The Pharcyde                   |
+15,01*|25 |SB-FAIR1 ANS |  13934 |04.01.96 |%+   | Fairgrounds                    |
+15,01*|26 |SB-RAZOR ANS |  19840 |04.01.96 |%+   | Razor 1911 - "Sharpening..."   |
+15,01*|27 |SI-BENT1 ANS |  28359 |04.01.96 |%+   | Bent                           |
+15,01*|28 |SI-DISM1 ANS |  13986 |04.01.96 |%+   | Disembodied Voices             |
+15,01*|29 |SI-FLAT3 ANS |  19095 |04.01.96 |%+   | Flat Liner                     |
+15,01*|30 |SI-FLAT4 ANS |  16295 |04.01.96 |%+   | Flat Liner                     |
+15,01*|31 |SZ-SONIC GIF | 141943 |04.01.96 |%    | Sonic Temple                   |
+15,01*|32 |US-HHOLE ANS |  25421 |04.01.96 |%+   | Hell Hole                      |
+15,01*|33 |US-SPYDR ANS |  25303 |04.01.96 |%+   | Street Spyders                 |
+15,01*|34 |WE-WILL  SUE |   1531 |04.01.96 |%+   | ACiD Legal Disclaimer          |
+15,01*|35 |ACDU0496 NFO |   6261 |04.01.96 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+

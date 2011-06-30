@@ -1,0 +1,80 @@
+15,01,4,Vesica_Piscis,CiA_Board,Obelisk,1-909-944-8063,14400,CM,XQ,V42,V42B,V32,V32B,
+15,01XA     14,15 15,01"" 14,15   15,01 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01"14,15 15,01    14,15 15,01 14,15 15,01m||   14,15   15,01 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15 15,01""
+15,01;                                                                               
+15,01      
+15,01;   |  Region 915 - Texas |AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAv
+15,01;                     ### CRiME iN PROGRESS NETWORK ###
+15,01Host,915,915_Hub,CiPNet_TX,Wire_Fashion,1-915-581-1592,9600,CM,V32B,V42,XA,REN
+15,01,1,Eve_Of_Chaos,El_Paso_TX,Wire_Fashion,1-915-581-1592,9600,CM,V32B,V42,XA,REN
+15,01;
+15,01;   |  Region 916 - California  |LEGAL EMBASSY -/-
+15,01;                       CiPNet WHQ (18:18/0) Main Hub
+15,01Host,916,916_Hub,Beach_CA,Deranged_Evil,1-916-662-5283,9600,XA,CM,V32B,V42B
+15,01,1,Mindfuk,Beach_CA,Deranged_Evil,1-916,662-5283,9600,XA,CM,V32B,V42B
+15,01;         -/- CELL BLOCK 4 -/-                    -/- Stellar Nights -/-
+15,01;+------------------------------------------------------------------------+
+15,01;|                           Front End Mailers                            |
+15,01;+------------------------------------------------------------------------+r    
+15,01;|                                                                        |
+15,01;|                        XA          FrontDoor                           |
+15,01;|                        XB          Binkley                             |
+15,01;|                        XS          SeaDog                              |
+15,01;|                        XO          Opus                                |
+15,01;|                        XX          D'Bridge                            |
+15,01;|                        XT          Other                               |
+15,01;|                        XP          Prodoor                             |Av
+15,01;|                        XQ          QFront                              |32B,X
+15,01;|                                                                        |
+15,01;+------------------------------------------------------------------------+
+15,01;+------------------------------------------------------------------------+
+15,01;|                          BBS Program Listing                           |
+15,01;+------------------------------------------------------------------------+32B,X
+15,01;|           AMI - Amiga Misc               CEL - Celerity                |
+15,01;|           CHA - Charisma                 CYP - Cypher                  |,XA
+15,01;|           DOM - Dominion                 ECL - Eclipse                 |42,V4
+15,01;|           FOH - Forum Hack               LIQ - LiQUiD                  |
+15,01;|           LSD - LSD                      MIR - Mirage                  |
+15,01;|           OBV - Oblivion/2               OTH - Other Software          |
+15,01;|           PAR - Paragon                  PCB - PCBoard                 |
+15,01;|           PCE - PCExpress                RBB - RBBS-PC                 |VIS
+15,01;|           REM - Remote Access            REN - Renegade                |,VIS
+15,01;|           REV - Revelation               SBB - SuperBBS                |
+15,01;|           SYN - Synchronet               TAG - TAG                     |
+15,01;|           TEL - Telegard                 TGH - Telegard Hack           |
+15,01;|           VBB - VirtualBBS               VIS - ViSiON-X                |G
+15,01;|           VI2 - Vision/2                 WCT - WildCat!                |V42,X
+15,01;|           WWV - WWiV                     ??? - Unknown                 |
+15,01;|                                                                        |
+15,01;+------------------------------------------------------------------------+
+15,01;
+15,01;ost,215,215_Hub,CiA_Board,Targa_Phantom,1-215-493-6282,14400,CM,XQ,V42,V42B,V32
+15,01,V32B,XA
+15,01,1,Tactical_Command_2,CiA_Board,Targa_Phantom,1-215-493-6282,14400,CM,XQ,V42,V42
+15,01B,V32,V32B,XA
+15,01,2,Arcadaes,CiA_Board,Drakkhen,1-215-295-0178,14400,CM,XQ,V42,V42B,V32,V32B,XA
+15,01,3,Underground_Outpost,CiA_Board,Spanky,1-215-493-7703,14400,CM,XQ,V42,V42B,V32,
+15,01V32B,XA
+15,01,4,The_Futile_Frontier,Livittown_PA,Jay,1-215-943-1309,9600,CM,V32B,V42,XA
+15,01;
+15,01;   |  Region 312 - Illinois |
+15,01;
+15,01Host,312,312_Hub,Chicago_IL,Hitman,1-312-745-7899,9600,CM,V32B,V42,XA,REN
+15,01,1,The_Squared_Circle,Chicago_IL,Hitman,1-312-745-7899,9600,CM,V32B,V42,XA,REN
+15,01,2,Falcon's_Nest,Chicago_IL,FaLcoN,1-312-604-8940,9600,CM,V32B,V42,XA,VIX
+15,01;
+15,01;   |  Region 313 - Michigan  |
+15,01;
+15,01Host,313,313_Hub,CiA_Board,Dalamar_the_Dark,1-313-721-7731,14400,CM,XQ,V42,V42B,
+15,01V32,V32B,XA
+15,01,1,Mental_Gridlock,CiA_Board,Dalamar_the_Dark,1-313-721-7731,14400,CM,XQ,V42,V42
+15,01B,V32,V32B,XA
+15,01,2,Digital_Distortion,Northville_MI,Ares,1-313-420-1032,9600,CM,XA,V32B,V42B,OBV
+
+15,01;
+15,01;   | Region 404 - Rhode Island  |
+15,01;
+15,01Host,401,401_Hub,Warwick_RI,Undead_Urgent,1-401-738-6643,9600,CM,XA,V32B,V42B
+15,01,1,Dilithium_Excess,Warwick_RI,Undead_Urgent,1-401-738-6643,9600,CM,XA,V32B,V42B
+
+15,01;
+15,01;   | Region 404 - Georgia  |

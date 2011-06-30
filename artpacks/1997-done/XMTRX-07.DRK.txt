@@ -1,0 +1,67 @@
+15,01               m     mmmmmm           mmm
+15,01              |14,15 15,01 #  14,15        #00,01@15#    m14,15       15,01m     14,15 15,01m  xm  m14,15 15,01 14,15 15,01""||||
+15,01              14,15 #15,01 #  14,15 15,01""mm""14,15   00,01@15#  14,15          15,01"m   14,15 15,01 "m  m" 14,15 15,01 14,15 15,01 m" |m"""
+15,01             mm"|  14,15        15,01m"14,15 #15,01  |14,15 00,01@14,15#      15,01 m|   14,15 15,01mm||||""14,15 15,01 14,15 15,01"mm ||"mm
+15,01            |14,15   15,01m 14,15   15,01"" "14,15  15,01 14,15  00,01@15#  14,15 #       15,01|"
+15,01             " "14,15   15,01"     |14,15 15,01| "   "14,15 15,01""14,15     15,01""14,15 15,01"        mm14,15  15,01mmm
+15,01              m | "14,15 15,01m  mm14,15   15,01m   m m14,15 15,01mmm14,15 15,01mmm14,15 15,01m m     m14,15#         15,01m
+15,01               14,15 15,01|mm 14,15    15,01""14,15 #15,01"  "mm ""|14,15 15,01m14,15 15,01|"" mm""m |14,15#    15,01"""" m14,15 15,01"
+15,01               |14,15       15,01m     m""   #|  " m00@15#   ""m #00@14,15#  15,01m mm14,15 15,01"14,15 15,01"m14,15 15,01m
+15,01                "14,15   15,01" "14,15 15,01" "m"        "m14,15 15,01|"        "m14,15#    15,01"" m14,15#  15,01"|14,15 15,01"m
+15,01                14,15 15,01 "m14,15 15,01m  m 14,15 15,01           "14,15 15,01"           14,15 15,01"m  m"  "" m14,15 15,01"14,15   15,01m
+15,01               |14,15 15,01"  "  14,15 15,01 14,15 15,01                           14,15 15,01 14,15 15,01  mm m14,15 15,01 |14,15  15,01  ""14,15 15,01m
+15,01              mmmm14,15    15,01mm||    With this wreath of    || m14,15  15,01| "|  |14,15  
+15,01           m14,15         15,01m 14,15  15,01        skulls I bury        14,15    15,01""   mm "  m
+15,01          14,15             15,01m14,15 15,01      The Lethal Aspect      14,15   15,01mm"""mm"14,15  15,01m |14,15#
+15,01        14,15 15,01"m"14,15   15,01""mm14,15  15,01m"14,15# 15,01|                           |14,15 #15,01"       "m14,15   15,01"14,15 15,01|
+15,01         "14,15 15,01m14,15 15,01m14,15    #15,01""14,15  15,01"14,15  15,01     Dark WHQ 1994-'97     14,15  15,01           14,15     #
+15,01           mm14,15 15,01mm    mm14,15 15,01m  14,15 15,01                         14,15 15,01"14,15 15,01|          |14,15  15,01" 14,15#
+15,01          ""| "14,15   15,01m14,15     #15,01 m"m         RIP         m"mm"14,15 15,01m       m14,15  #15,01  00@
+15,01          m14,15 15,01m14,15  15,01m14,15 15,01m00@15""14,15  15,01"   "m"mm               mm" |14,15       15,01mm14,15    15,01"14,15 15,01  #
+15,01          |m14,15    15,01|"14,15 15,01m      m14,15      15,01"mmmm   mmmm14,15   15,01m"   ""  "14,15 15,01"14,15   15,01" 14,15 15,01|#
+15,01          14,15 15,01|14,15  # #15,01  "14,15#15,01    14,15        #15,01  mm"""mm14,15     # #15,01#    m14,15      15,01m14,15 15,01|
+15,01         |14,15 15,01"14,15  00,01@15|14,15 15,01|      14,15  #     #15,01"14,15 15,01   " 14,15         15,01"  # m  "14,15     #
+15,01         14,15  15,01|14,15  15,01# 14,15 15,01"      |14,15       15,01|||    14,15       15,01""  m14,15#00,01@15#|14,15 15,01 mm """
+15,01         "  14,15 #15,01         m14,15  15,01""14,15   15,01""14,15  15,01m  |14,15        15,01m14,15 15,01m 00@15# 14,15      15,01"
+15,01            14,15 #15,01          "   m"m   "    ""14,15 15,01"  m14,15 15,01"14,15 15,01  #  |14,15  #15,01"
+15,01            |"            "14,15 15,01mmm14,15 15,01"       "m"14,15  15,01"m m14,15 15,01m    ""
+15,01                           |"14,15 15,01||        |"14,15 15,01 14,15 15,01m"14,15   15,01"
+15,01                             14,15 15,01           |14,15 15,01||14,15  15,01""
+15,01                                         |14,15   15,01"
+15,01                                         "14,15  15,01"
+
+
+15,01  I'd like to thank all the users of The Lethal Aspect, who made this bulletin
+15,01  board system a legend in the 416/905 a/c.  I can't convey the immense honour
+15,01  it's been to host Dark's WHQ, as well as the leaders and members of the best
+15,01  art and courier groups around.
+
+15,01  TLA will never rise again.  Neither will it be forgotten.
+
+15,01  I trust you all to maintain the tightly-knit community you've created over
+15,01  the past four years.  After a countless number of meets, the bonds between
+15,01  us should be strong enough to survive with or without a home.
+
+15,01  To the many artists who volunteered their artwork without ever being asked :
+15,01  May your creativity be boundless, and your monitors radiation-free.
+
+15,01  To the message posters who flooded the bases daily with debates, ridiculous
+15,01  constructions, insightful criteria, and so much more :
+15,01  May you all become successful writers, and your keyboards remain infallible.
+
+15,01  To the rabid couriers who forced me to purchase *2* different backup units :
+15,01  May your CPS rates soar, error-free.
+
+15,01  Finally, I'd like to apologize to all the Staff members I managed to sucker
+15,01  into maintaining this monster.  ;)  Your help was invaluable.
+
+15,01  Thank you.
+
+
+15,01                                     Xypher Matryx, SysOp of The Lethal Aspect
+
+
+
+15,01  NO CARRIER
+15,01>SAUCE00TLA is dead                        Xypher Matryx       Dark             
+15,01  @ P A                             

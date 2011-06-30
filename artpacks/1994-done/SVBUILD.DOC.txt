@@ -1,0 +1,68 @@
+15,01ShiverVu Menu Builder
+
+15,01-Getting Started-
+
+15,01Before you are ready to put a menu together, you must have two things.
+15,01These things are:
+15,011: A Main screen saved as a 80x25 .BIN
+15,012: A Font created with FONTED.COM
+
+15,01In order to check if these requirements have been met, you can check the
+15,01file size.  The .BIN file must be 4000bytes long, the .FNT will be
+15,014192bytes long.
+
+15,01The main screen MUST have the following:
+15,01"F1 - Info    SPACE - Tag    ENTER - Select    ALT - Menu"
+15,01You may put it anywhere on the screen, just as long as it's there.
+
+15,01After these three files have been created. You should run SVBUILD.EXE.
+15,01It will load up with the default menu.  Hit ESC to bring up the menubar.
+
+
+15,01-General Menu-
+
+15,01The General menu is where you change the main screen along with the font.
+15,01This is very easy, simply select which feature you would like to change,
+15,01and then you'll be given a list of the files in the current directory.
+15,01Select which file should be loaded.
+
+15,01-Window Menu-
+
+15,01The Window menu is where you select what the menubar and windows should
+15,01look like.  The process is a bit tricky to begin with, but becomes fairly
+15,01easy once you've done it a couple of times.  Step-by-step you will select
+15,01the characters for the Top/Bottom/Left/Right parts of the window. THen
+15,01you will select the color for each part of the window as well.
+
+15,01-MainScreen Menu-
+
+15,01The MainScreen Menu is where you select the location of the filelist, the
+15,01number of files in the filelist, and the colors of the selection bar.
+15,01It is fairly straightforward.  You will first select the upper left corner
+15,01of the files.  Then you'll select the offsets of the description and
+15,01artist lists. Finally you'll select the bottom of the filelist, along with
+15,01the colours.
+
+15,01-Saving-
+
+15,01When you have finished, select SAVE from the FILE menu.  Type in the
+15,01first 8 characters of the filename (".MNU" is assumed - do not type it in)
+15,01Then type in the title of the menuset.  This title will be shown in
+15,01the menu of ShiverVu.  Please follow the format "Title/Artist" for the
+15,01sake of all humanity ;)
+
+15,01-Getting it TO me-
+
+15,01Now you have a 8k .MNU file.  ZIP it up, and then get it to me somehow.
+15,01There are a couple of ways to get it to me.  The #1 recommended way of
+15,01getting it to me, is to UUENCODE it, then email it to me at
+
+15,01        sean.kasun@com2bbs.com
+
+15,01You may also give it to a Shiver Member.  Be cautioned though, if you
+15,01do give it to a Shiver Member, they may have NO idea what to do with it
+15,01or may have NO way of getting to me, and it'll be lost forever.
+15,01Another way is to find a board that I'm on (which will be in 619) and
+15,01simply uploading it with a description like "For Cyric".
+
+15,01Cyric/94

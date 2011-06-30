@@ -1,0 +1,80 @@
+15,01                                            xnone                          xnone
+15,01                  xnone                                                         
+15,01                                                          MAlligator Room       
+15,01         xnone                  xnone                                           
+15,01                                   <                                    xnone   
+15,01                       xnone                  xnone                             
+15,01                                                                                
+15,01      xnone                          xnone                  xnone               
+15,01                                                                                
+15,01                    xnone                          xnone                  xnone 
+15,01                                                                                
+15,01                                  xnone                          xnone          
+15,01        xnone                                                                   
+15,01                                                xnone                          x
+15,01none                  xnone                                                     
+15,01                                                              xnone             
+15,01             xnone                  xnone                                       
+15,01                                                                            xnon
+15,01e                          xnone                  xnone                         
+15,01                                                                                
+15,01          xnone                          xnone                  xnone           
+15,01                                                                                
+15,01                        xnone                          xnone                  xn
+15,01one                                                                             
+15,01                                      xnone                          xnone      
+15,01            xnone                                                               
+15,01                                                    xnone                       
+15,01   xnone                  xnone                                                 
+15,01                                                                  xnone         
+15,01                 xnone                  xnone                                   
+15,01                                                                                
+15,01xnone                          xnone                  xnone                     
+15,01                                                                                
+15,01              xnone                          xnone                  xnone       
+15,01                                                                                
+15,01                            xnone                          xnone                
+15,01  xnone                                                                         
+15,01                                          xnone                          xnone  
+15,01                xnone                                                           
+15,01                                                        xnone                   
+15,01       xnone                  xnone                                             
+15,01                                                                      xnone     
+15,01                     xnone                  xnone                               
+15,01                                                                                
+15,01    xnone                          xnone                  xnone                 
+15,01                                                                                
+15,01                  xnone                          xnone                  xnone   
+15,01                                                                                
+15,01                                xnone                          xnone            
+15,01      xnone                                                                     
+15,01                                              xnone                          xno
+15,01ne                  xnone                                                       
+15,01                                                            xnone               
+15,01           xnone                  xnone                                         
+15,01                                                                          xnone 
+15,01                         xnone                  xnone                           
+15,01                                                                                
+15,01        xnone                          xnone                  xnone             
+15,01                                                                                
+15,01                      xnone                          xnone                  xnon
+15,01e                                                                               
+15,01                                    xnone                          xnone        
+15,01          xnone                                                                 
+15,01                                                  xnone                         
+15,01 xnone                  xnone                                                   
+15,01                                                                xnone           
+15,01               xnone                  xnone                                     
+15,01                                                                              xn
+15,01one                          xnone                  xnone                       
+15,01                                                                                
+15,01            xnone                          xnone                  xnone         
+15,01                                                                                
+15,01                          xnone                          xnone                  
+15,01xnone                                                                           
+15,01                                        xnone                          xnone    
+15,01              xnone                                                             
+15,01                                                      xnone                     
+15,01     xnone                  xnone                                               
+15,01                                                                    xnone       
+15,01                   xnone                  xnone                                 

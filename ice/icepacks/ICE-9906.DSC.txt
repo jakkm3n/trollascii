@@ -1,0 +1,31 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 7/1/1999
+15,01###############################################
+15,01ice-9906.nfo,ANSI,iCE 99/06 Info File,iCE Senior Staff
+15,01ice-9906.mem,ANSI,iCE 99/06 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,0109-SAE1.ICE,ANSI,Share and Enjoy,Fluor
+15,01IV-TEA.ICE,ANSI,Tea,Inner Vision
+15,01NG-TGG.ICE,ANSI,The Guppie Graveyard,Nosegos
+15,01TI-PSS1.ICE,ANSI,PS Scrabble,Trip
+15,01TI-PSS2.ICE,ANSI,PS Scrabble,Trip
+15,01US-PBS99.ICE,ANSI,PBS,Multiple People
+15,01DG-GASM.RIP,RIP,Boregasm,Degenerit
+15,01KT-BLEND.RIP,RIP,Blender,Kitiara
+15,01KT-SHAMU.RIP,RIP,Shamu,Kitiara
+15,01DG-EVIL.JPG,EXTERNAL,Evil,Degenerit
+15,01DM-SNSET.JPG,EXTERNAL,Sunset,Darkmage
+15,01HF-BPOSE.JPG,EXTERNAL,Bpose,Hfaze
+15,01HF-CCAT.JPG,EXTERNAL,Ccat,Hfaze
+15,01HF-MOON.JPG,EXTERNAL,Moon,Hfaze
+15,01HF-NINAH.JPG,EXTERNAL,Nina Hagan,Hfaze
+15,01HF-SMKNG.JPG,EXTERNAL,Smoking,Hfaze
+15,01HF-SOL5.JPG,EXTERNAL,Solstice 5,Hfaze
+15,01HF-STND.JPG,EXTERNAL,Stand,Hfaze
+15,01ID-SELF.JPG,EXTERNAL,Self,Ian Dale
+15,01JS-SBOTS.JPG,EXTERNAL,Sbots,Jerry Sandefur
+15,01KI-TRPPD JPG,EXTERNAL,Trppd,Kirk
+15,01SHO-TEDY.GIF,EXTERNAL,Teddy Bear,Shoten
+15,01TL-PILOT.JPG,EXTERNAL,Pilot,Tim Lewis
+15,01VE-CAT.JPG,EXTERNAL,Kinkycat,Vesalius
+15,01VE-DOC.JPG,EXTERNAL,Toon Doctor,Vesalius

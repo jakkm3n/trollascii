@@ -1,0 +1,80 @@
+
+
+15,01                             "Oh shit!  He's back."
+15,01             Another Dreary(but short) Nfo by Mass Delusion/ALiVE
+
+
+15,01        You dread me.  You see my writing and you run.  Look out!  It's MD's
+15,01info files! aaaaaah!  Well guys, this month I have to clear up a couple of
+15,01things.  This last month could have been a helluva lot better.  Anyways -
+15,01here goes.
+
+15,01        First, I'd like to extend my apologies to RaD Man of ACiD
+15,01        Productions for the miscommunication error that occured last month
+15,01        with ReDMaN and Variation and Grifter.  Like I've said previously,
+15,01        we'll all double check, as should everyone.   It's a long story, and
+15,01        unless RaD Man wants to tell it, I'm tired of relaying it, so read
+15,01        some old MRi messages.
+
+15,01        Secondly, I'd like to extend a second set of apologies to Demize,
+15,01        our 'one-month-old-and-still-producing-like-mad' Member.  Last month
+15,01        was Demize's first month... well, it WAS supposed to be.
+15,01        Unfortunately, it was late at night when I was putting together the
+15,01        pack.  I was using a ziplist, and going in alphabetical order.  Well
+15,01        unfortunately my alphabet didn't contain the letters 'DM' and Demize
+15,01        was left off the list.  Yeah, yeah, I'm a dumbass.  Well, his work
+15,01        IS represented, and quite well, in the April pack, and we hope you
+15,01        enjoy and gurgle a whole bunch over it!
+
+15,01        Next, this month we would like to welcome our newest addition -
+15,01        PLiNy of CoRoSioN (in)fame!  He'll be doing our diz and zip comment
+15,01        work and some ascii login screens for boards who want them.  We're
+15,01        looking forward to some great work (like that found in this pack,
+15,01        just hafta remeber 'PL') and those who are going to inevitably
+15,01        request them may post on any ALiVE sub (MRi or Intrusion currently)
+15,01        and ask him.
+
+15,01        Communication.  The most essential part of our group.  To aid in it,
+15,01        we've started MRi (Malicious Revelation International) and we've
+15,01        added quite a few distribution sites and a couple of member boards,
+15,01        and we've just drastically expanded our central and eastern
+15,01        standings this last week.  Any board interested in a good small,
+15,01        general but art emphasis network, please contact either Ryunosuke on
+15,01        ENiGMA 408/484.2058 or myself on my board (# at end).
+
+15,01        SAGA.  Small Art Group Alliance.  This doesn't really belong in the
+15,01        alive info file, but I'm writing it so suck it.  SAGA is something I
+15,01        started with one simple laid back purpose in mind.  To promote the
+15,01        small guy.  It's often hard for a group to gain exposure when they
+15,01        just start out.  So, SAGA offers a cheap and easy alternative.  Any
+15,01        WHQ for any small art group(acid/ice/gothic don't need exposure =)
+15,01        is free and encouraged to join SAGA.  SAGA is just a small network,
+15,01        with simple rules and minimal polling(3-7 per week, 5 minimum
+15,01        recommended).  Each WHQ that joins, gains a sub for the groups they
+15,01        WHQ(art groups that is) and then each node picks up that sub.  Thus,
+15,01        the WHQ, having a wide selection of that groups members online, can
+15,01        provide a strong forum for answering group questions.  Thus, the
+15,01        only requirement to join SAGA is that the board be the WHQ.  I may,
+15,01        in time extend this to one other HQ board for each group, but not
+15,01        yet.  Interested parties/sysops/presidents please email Mass
+15,01        Delusion, wherever you see him 'round.  Oh yeah, if any font masters
+15,01        read this(hint : big 4!) I need a cool SAGA font.. thanks in
+15,01        advance.
+
+15,01        Ok, enough personal stuff outta the way.  What else happened this
+15,01        month?  Oh yeah - our viewer.  Our viewer made VAST improvements
+15,01        this month, which you'll get to see(if it makes this pack).
+15,01        Internal ANSi parser(no ANSI.SYS), GIF code, shell to deadview until
+15,01        our personal rip code is finished, an alive member demo sequence to
+15,01        the tune of 'Wild Thang', and regular MOD support during normal
+15,01        viewing.  Our version after this will include video modes, full
+15,01        internal rip support, and a new ansi of Maxx by T3 <yea! yea! yea!>
+15,01        Cool alive font this month by none other than Variation.
+15,01        I'd like to thank, on behalf of ALiVE, Ascension and ByteMan for
+15,01        really cranking down on that sucker and getting to work on some
+15,01        serious improvements.  Good work you two!
+
+15,01        Sites.  People have bombarded us with site apps.  Until after this
+15,01        pack is released, we ARE NOT giving any sites.  As of 4/1, the sites
+15,01        will begin to be given out, but in such a small and slow manner,
+15,01        that only strong art boards will stand a chance at aquiring the

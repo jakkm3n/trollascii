@@ -1,0 +1,11 @@
+
+15,01LSD BBS Software v1.45+ Status Screens (File/User)
+15,01~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+15,01     For all you sysop's who've been put down by the ViSiON-X sysop's about
+15,01how plain and ordinary looking LSD looks. Finally some user stats screens
+15,01done by iCE. 
+
+15,01     Special thanks to: Lord FireCat for testing them out on his board.
+15,01Hope you all enjoy this one..
+
+15,01     EternaL Darkness [iCE]

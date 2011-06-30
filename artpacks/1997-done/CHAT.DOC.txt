@@ -1,0 +1,80 @@
+15,01                     transmission's unseen demon presents..
+15,01                     |00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@15|
+15,01                     |--------> C H A T  V 1 . 0 <--------|
+15,01                     |00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@15|
+15,01                     transmission's unseen demon presents..
+
+
+15,01                                        TOC
+
+15,01                               1> How To Set-It Up
+15,01                               2> Copyright Stuff
+15,01                               3> Greets
+
+15,01                
+15,01                                      (1)
+
+15,01             Setting up a BBS door has never been easier thanks to
+15,01             me. I have created a door routine that does all the work
+15,01             for you! All you gotta do is tell it where to find your
+15,01             BBSs dropfile (door.sys, dorinfo1.def, chain.txt, etc..)!
+
+15,01             For Example:
+
+15,01             (REMOTE ACCESS)
+15,01             Insert a new menu entry intro your doors menu (or whatever
+15,01             menu you want this chat program to appear on), and for your
+15,01             action it should be "7 Execute sub-program". For your display,
+15,01             just put something like "(^P^)age The Sysop". For your optdata,
+15,01             put "*c /c c:\ra\doors\chat\chat.exe c:\ra\door.sys"(or whatever
+15,01             directory set-up you've got.
+
+15,01             (ILLUSION BBS)
+15,01             In the menu you want to have the door run off of, create a new
+15,01             entry. For the short and extended descriptions, just put text
+15,01             like "(P)age The Sysop" and for the menu keys, it could be any
+15,01             key you can think of that hasn't already been taken. For your
+15,01             command data or whatever, just put DD (for dorinfo1.def), or
+15,01             DS (for door.sys). IT IS HIGHLY RECOMMENDED THAT YOU CHOOSE
+15,01             *DOOR.SYS* FOR IT BECAUSE IT CAN INCREASE THE LOAD TIME BY AS
+15,01             MUCH AS HALF!.
+
+15,01             (MAXIMUS)
+15,01             Edit a chat.mec file, and type in:
+
+15,01             [cyan]Loading External Door Program...
+15,01             [exec]c:\max\chat.bat
+
+15,01             compile it...and for your batch file, type in:
+
+15,01             @echo off                                    <--- ignore <>'s>
+15,01             copy c:\max\doors\door.sys c:\max\doors\chat <--- what ever path>
+15,01             cd\max\doors\chat
+15,01             chat.exe door.sys
+15,01             del door.sys
+15,01             cd\max
+15,01             exit
+
+15,01             ...you should know how to call it from a menu.
+
+15,01             (OTHER SOFTWARE)
+15,01             I cannot provide information regarding installation procedures
+15,01             for other software because I don't know them very well.
+
+15,01             It's Probably Right About Now That Your Wondering..
+15,01                        What Are The Damn Keys Already :)
+15,01                        Well..
+
+15,01                        (SPACE) - Break in to chat!
+15,01                          (ESC) - Exit chat
+
+15,01                                           (2)
+
+15,01                Just "one" thing! Please do not decompile this program or
+15,01                I will have to kill you! I worked hard on this! (3 weeks).
+
+15,01                                           (3)
+
+15,01                Greets go out to Pestiferous, Liquid, Reznor, Insomniac,
+15,01                Toilet Duck, Project X, The Protologist, and ALL Members
+15,01                of our group, Transmission!!!

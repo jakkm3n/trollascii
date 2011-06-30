@@ -1,0 +1,73 @@
+15,01                     VAGRANT PRESENTS A FiRE PRODUCTION:
+15,01                Why Buying DOS Compression Now Is A Dumb Idea
+
+15,01        Several months ago, a court ruled that Microsoft was in violation 
+15,01of a patent held by Stac Electronics.  This patent involved forms of the 
+15,01LZS compression technology, which, by itself, is freeware.  This forced MS
+15,01to pull copies of DOS 6.2 off store shelves everywhere.  This also pushed 
+15,01Gates & Company to create a new disk compression prgram that is more stable
+15,01than the one used in earlier Dos 6.
+15,01        This all started with the release of MS DOS 6.  Dos 5, and its pre-
+15,01decessors required third party utilities to compress a disk, commonly giving
+15,01about double the space on the disk than what is really, physically there.
+15,01These programs use replacement techniques, changing long phrases in code into
+15,01shorter single charachters, and then chaniging the data back through replacing
+15,01the phrases to their original form.  Microsoft, wanting to put its hands into
+15,01the pockets of Stac and Addstor, the major disk compression makers, put com-
+15,01pression straight into DOS.  Unfortunately, the first attempt failed.  The 
+15,01first 30,000 copies shipped formatted the hard disks that they were installed
+15,01on.  Major errors in the code of DoubleSpace, which it is commonly known by,
+15,01caused many cases of lost data, sometimes compeletely ruining a hard disk.
+15,01        Microsoft quickly released fixes for these problems, and even tried
+15,01to prevent problems from cropping up.  These were implemented through an
+15,01upgrade called DOS 6.2.  It included a new, more stable version of Double-
+15,01Space, and a new program called DoubleGuard.  DoubleGuard tried to stop
+15,01problems from occuring before they happened, but slowed down the compression
+15,01even more, and warned you before they became too serious if they did occur.
+15,01At the same time, Microsofts main DOS rival, IBM, released a version of thier
+15,01DOS, called IBM DOS 6.1.  It didn't use DoubleSpace, but instead used a third
+15,01party program from Addstor, called SuperStor.  The program, however, wasn't
+15,01finished, so a coupon was sent instead.  You sent in the coupon and recieved
+15,01the SuperStor compression program in the mail when it was completed.
+15,01        After several months of relative quiet on the dos Compression front,
+15,01Stac dropped a bomb: It was sueing software giant Microsoft for patent in-
+15,01fringement, and expected reparations for lost revenues.  The lawyers took
+15,01their cases, and drew their lines.  The battle had begun.  Few people know
+15,01what happened in the courtroom at the time, but when the smoke had cleared,
+15,01David had beaten Goliath.  Microsoft had to stop production of MS DOS 6, and
+15,016.2, and had to release a compressionless program, making DOS 6.21.  Stac 
+15,01had won a large sum of money, and won back main control of the compression
+15,01"scene."  Microsoft, however, didn't lose entirely.  It sued Stac for a minor
+15,01patent infringement, and won.  Stac had to rerelease a copy of its newest
+15,01version of the compression software, Stacker 4.0.
+15,01        Microsoft sent a coupon along for the same compression technology
+15,01in IBM DOS, SuperStor, and went about writing a "clean" version of Double
+15,01Space.  The sales of DOS 6.21 were not exactly overwhelming, and the 
+15,01programmers at Microsoft were having a problem writing a program that wouldn't
+15,01get them sued.  IBM, at the same time, was rewritting a copy of the IBM DOS,
+15,016.3.  It had better compression technology, and took less space.  It, however,
+15,01unlike earlier versions, was included.  I was lucky enough to see a late
+15,01beta of this program, and it was impressive, and stable.
+15,01        Finally, several weeks ago, Microsoft, trying to save face, released
+15,01a copy of MS DOS 6.22.  It included a compression program known as Disk
+15,01Space, obviously trying to keep them out of court, and keeping with the 
+15,01DoubleSpace moniker.  I have, as of yet, not heard any bad news about it, nor
+15,01have I heard any GOOD news about it.  Microsoft hasn't been sued over it, and
+15,01may have saved themselves from being behind in the 16-bit OS wars until DOS
+15,017 is released late this year or next.
+15,01        Strangely enough, however, this didn't end the fight over the comp-
+15,01ression technologies.  Late last week, MS BOUGHT 500 million dollars of 
+15,01Stac electronics, and paid them royalties so that they could release a copy
+15,01of the Stacker compression program in their later revisions of DOS!  This
+15,01gives them pretty much total control over Stac, and puts another question
+15,01into the minds of most educated computer users.  Will Microsoft rerelease
+15,01Doublespace, or bundle Stacker 4.0 with DOS?  
+15,01        At this point, it's hard to say. It would be very expensive to take the 
+
+15,016.22 version off the shelves, and to rewrite the program to include the older 
+15,01version of Doublespace or Stacker.  It would also make MS look like a group 
+15,01of trained monkeys, who will just try to buy you off, and would make Gates 
+15,01himself look like an idiot.  Then again, no one REALLY knows what goes on there,
+15,01 
+15,01anyway. Right now this industry is looking too confusing.  Stick with Dos 6.2, 
+15,01if you can.

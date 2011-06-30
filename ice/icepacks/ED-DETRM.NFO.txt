@@ -1,0 +1,27 @@
+15,01     0 iCE(tm) Proudly Presents 0
+15,01---------------------------------------
+00,01@15# "m14,15 15,01"14,15  15,01m m14,15 15,01"14,15  15,01m # "Determined" (MOD)
+15,01#m14,15 15,01|14,15 15,01|# " |14,15 15,01mm " ## by EternaL Darkness
+15,01|14,15 15,01|14,15  15,01 00@15## 14,15  15,01| ##00@@15#
+15,01"14,15 15,01 "14,15  15,01mm" "14,15  15,01mm" ## 01/30/93
+15,01---------------------------------------
+
+15,01     My second MOD since my arrival in iCE. This one was composed
+15,01and edited in Whacker Tracker v1.01. I don't recommend any other
+15,01musicians out there using a MOD editor like ModEdit. ModEdit saves
+15,01the .MOD files in an uncompatible format, which many players don't
+15,01handle too well. Whacker is fully compatible with all players I've
+15,01tried so far.
+
+15,01     I suggest using Visual Player if you have a SoundBlaster Pro.
+15,01Probably the best stereo MOD player available for the PC.
+
+15,01     Lastly, I will hopefully get some more MODs as well as more
+15,01ANSI/VGA pieces out, but of course there is always that ever
+15,01restricting thing we call 'time' which limits my available time. So
+15,01go on ahead an enjoy.
+
+15,01EternaL Darkness [iCE]
+
+15,01Personal Greetings: Tempus, Midnight Sorrow, Technical Disrupter,
+15,01                    Violator, Force Ten & whoever..

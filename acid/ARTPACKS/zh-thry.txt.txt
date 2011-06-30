@@ -1,0 +1,80 @@
+15,01Here are a few fundamentals you will need to know before reading any
+15,01   The same process is used to complete the rest of the modes.
+15,01   Noice seven modes, one for each note of the major scale.
+
+15,01   I will not include tablatures of each mode, You've got to do that for
+15,01   yourself.to C#, C# to D, D to D#
+15,01All half steps.
+15,01    Ionian: A  B  C#  D  E  F#  G#  A
+15,01   Formula: 1  2  3   4  5  6   7   8two notes that are TWO frets apart.
+15,01  ample - C to D, D to E, E to F#
+15,01    Dorian: A  B  C   D  E  F#  G   A
+15,01   Formula: 1  2 b3   4  5  6  b7   8
+15,01       Tip: Flat the 3rd and 7th notes of any major scale to get the dorian
+15,01        mode
+15,01Flat(b): This symbol indicates the lowering of a note by one Half step
+15,01  Phrygian: A Bb  C   D  E  F   G   A
+15,01   Formula: 1 b2 b3   4  5 b6  b7   8
+15,01       Tip: Flat the 2nd, 3rd, 6th, and 7th notes of any major scale to get
+15,01       the Phrygian Mode.accidental letters indicated by a sharp
+15,01(#) or a flat (b). (A# or Bb, C# or Db, D# or Eb, F# or Gb, G# or Ab)
+15,01    Lydian: A  B  C#  D# E  F#  G#  A
+15,01   Formula: 1  2  3  #4  5  6   7   8
+15,01       Tip: Sharp the 4th note of any major scale to get the Lydian Mode.
+15,01(repeat)
+15,01Mixolydian: A  B  C#  D  E  F#  G   A
+15,01   Formula: 1  2  3   4  5  6  b7   8en B-C and E-F.
+15,01       Tip: By flatting the 7th note of any major scale by half a step you
+15,01       have the Mixolydian mode.ust take it as fact.
+
+15,01   Aeolian: A  B  C   D  E  F   G   Atab format.
+15,01   Formula: 1  2 b3   4  5 b6   b7  8
+15,01       Tip: By flatting the 3rd, 6th and 7th notes of any major scale
+15,01       you have the Aeolian mode.
+15,01e|-------------------------------4-5--------------------
+15,01   Locrian: A Bb  C   D  Eb F   G   A-------------------
+15,01   Formula: 1 b2 b3   5 b5 b6   b7  8-------------------
+15,01       Tip: By flatting the 2nd, 3rd, 5th, 6th, and 7th notes of any major
+15,01       scale by a halfstep, you have the locrian mode.--
+15,01E|--5-7-------------------------------------------------
+
+15,01 Harmonic and Melodic Minor Scales:
+15,01The Major Scale:
+15,01      Harmonic Minor: A  B  C  D  E  F  G#  A
+15,01             Formula: 1  2 b3  4  5 b6  7   8Pentatic, Blues, Minor,
+15,01                 Tip: By flatting the 3rd and 6th notes of any major
+15,01                 scale by half a step you have the Harmonic Minor,
+15,01A blues will be constructed from A major.
+15,01      Melodic Minor: A  B  C  D  E  F#  G#  A
+15,01            Formula: 1  2 b3  4  5  6   7   8
+15,01                Tip: By flatting the 3rd note of any major scale by half a
+15,01                step you have the Melodic Minor
+15,01h = half.        w   w   h   w   w   w   h
+15,01               C   D   E   F   G   A   B   C
+15,01 Diminished and Whole Tone Scales: 6   7   8(octave)
+
+15,01    Diminshed Scale: A   B   C   D   Eb   F   F#   G#   Aroot, or tonal
+15,01            Formula: 1   2  b3   4   b5  b6   6    7    8 degree
+15,01                Tip: The Diminshed scale has eight different notes
+15,01                Diminished works well over major chord, or power chord,
+15,01                but start the diminished scale one half step higher major.
+15,01                than the root of the chord. sixth scale degree in C major.
+
+15,01                Example: For a "A" power chord, play "A#" Diminished
+15,01                         For a "B" Dominant 7th chord, play "C" Diminished
+15,01                         The Diminshed scale works over a diminished
+15,01                         chord of the same name.
+15,01e|-------------------
+15,01   Example:----------
+15,01G|-------------------
+15,01D|-----------6-8-9---
+15,01e|--------------------------------4-5-7-
+15,01B|--------------------------4-6-7-------
+15,01G|--------------------4-5-7-------------
+15,01D|--------------4-6-7-------------------
+15,01A|--------5-6-8-------------------------he eighth note is an octave of the root
+15,01E|--5-7-8------------------------------- played eight scale degrees lower
+15,01or high, depending on the situation.
+15,01>SAUCE00Guitar Theory                      zerohour            Remorse Ascii    
+15,01   19990812*,                                    whole step apart.
+15,01To build a major scale remember this:

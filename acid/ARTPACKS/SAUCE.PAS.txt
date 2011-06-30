@@ -1,0 +1,80 @@
+15,01{$I SETTINGS.INC}
+15,01UNIT SAUCE;
+15,01{=============================================================================
+
+15,01   Process SAUCE Full asm code.
+
+15,01=============================================================================}
+
+15,01{""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""}
+15,01INTERFACE
+15,01{mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm}
+
+15,01{ Types of datafiles implemented }
+15,01TYPE  DataTypes      = (None, Character, GFX, Vector, Sounds, BinaryText);
+
+15,01{ Character/Text Files }
+15,01TYPE  CharacterFiles = (ASCII, ANSi, ANSiMation, RIP, PCBoard, AVATAR);
+
+15,01{ Graphics files BITMAP }
+15,01TYPE  GFXFiles       = (GIF, PCX, LBM, TGA, FLI, FLC, BMP, GL, DL, WPG, SBM,
+15,01                        JPG, MPG, AVI);
+
+15,01{ Graphics files Vector }
+15,01TYPE  VectorFiles    = (DXF, ACAD_DWG, DrawPerfect, SVI);
+
+15,01{ Sound Files }
+15,01TYPE  SoundFiles     = (_MOD, _669, _STM, _S3M, _MTM, _FAR, _ULT, _AMF, _DMF,
+15,01                        _OKT, _ROL, _CMF, _MIDI, _SADT, _VOC, _WAV,
+15,01                        _Sample8, _Sample8Stereo, _Sample16,
+15,01                        _Sample16Stereo, Patch8Bit, Patch16Bit);
+
+15,01      Char2    = Array [0..1]  of Char;
+15,01      Char5    = Array [0..4]  of Char;
+15,01      Char8    = Array [0..7]  of Char;
+15,01      Char20   = Array [0..19] of Char;
+15,01      Char35   = Array [0..34] of Char;
+15,01      Char64   = Array [0..63] of Char;
+
+15,01Const SAUCE_ID      : Char5 = 'SAUCE';
+15,01      SAUCE_Version : Char2 = '00';
+15,01      CMT_ID        : Char5 = 'COMNT';
+15,01      MaxCMT        = 10;
+
+15,01CONST iCE_Color     = $01;             { Check for iCE_Color flag with :     }
+15,01                                       { IF (Flags AND iCE_Color)<>0 THEN    }
+
+15,01TYPE  SAUCERec = RECORD                { +-- Implemented in Version ?        }
+15,01                   ID       : Char5;   { 00  'SAUCE'                         }
+15,01                   Version  : Char2;   { 00  '00'                            }
+15,01                   Title    : Char35;  { 00  Title of the file               }
+15,01                   Author   : Char20;  { 00  Creator of the file             }
+15,01                   Group    : Char20;  { 00  Group creator belongs to        }
+15,01                   Date     : Char8;   { 00  CCYYMMDD                        }
+15,01                   FileSize : Longint; { 00  Original FileSize               }
+15,01                   DataType : Byte;    { 00  Type of Data                    }
+15,01                   FileType : Byte;    { 00  What type of file is it ?       }
+15,01                   TInfo1   : Word;    { 00  \                               }
+15,01                   TInfo2   : Word;    { 00   \ Type Info Zone               }
+15,01                   TInfo3   : Word;    { 00   /                              }
+15,01                   TInfo4   : Word;    { 00  /                               }
+15,01                   Comments : Byte;    { 00  Number of Comment lines         }
+15,01                   Flags    : Byte;    { 00* Bit flags                       }
+15,01                   Filler   : Array[1..22] of Char;
+15,01                 END;
+15,01      CMTRec   = Char64;
+15,01      CMTBlock = RECORD
+15,01                   ID       : Char5;
+15,01                   Comment  : Array[1..MaxCMT] of CMTRec;
+15,01                 END;
+
+15,01CONST SAUCE_SIZ= Sizeof(SAUCEREC);
+15,01      CMTR_SIZ = Sizeof(CMTRec);
+15,01      CMTB_SIZ = Sizeof(CMTBlock);
+
+15,01VAR   SAUCE    : SAUCERec;
+15,01      CMT      : CMTBlock;
+
+
+15,01PROCEDURE ClearSAUCE;
+

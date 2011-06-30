@@ -1,0 +1,80 @@
+
+15,01                      08#15                08m
+15,01                     08#08,08|14,00 15,01            04mmm08|14,08 15,01 14,04  #
+15,01               04 15    08#08,08|14 14,00   08,01""15  04mmm14,04    01 14#15,01 08,08|15,01 14,04  #15,01 08 
+15,01           04#mmm14,04  #15,01 08#08,08|14 14,00 04,01 mmm14,04   04,01"""15   04|14,04  04,01|08,08|04,01|14,04  04,01|08 m08,08m
+15,01      04mmm14,04   04,01"""15  08mm08,08m14  00,01|04#13,04###15,01   08m08,08m14 14,00 00,01"08 04|14,04  04,01|08|04|13,04##04,01|08 """15  03                 08  
+15,01     04#13,04###15,01 08m15 04mm13 08"""""08,08"14 15,01 13|13,13##04,01|15 08"""08,08"14  14,00 08,01|04#13,04###04,01 13mmm01 14,04   04,01mmm15    04  15 03 08+ iz00e15      04#14,04 01 14#
+15,01     13|13,13##04,01|15 08"15 04mmm14,04 13  15,01 08|14,08  15,01 13|08,13##13,01|13,13#04,04@13#04,01mmm15 08""04#13,13###08,01#13,13##08#04,01 08#04  """13,04#04@13,13#13,01mmm15      08 mm08,08m14,00 08,01 15 04#13,04###
+15,01     13|08,13##13,01|13,13#04,04@13#04,01"""15  08mm08,08m14  08,01 08,13#13,08##13,01 08 13  04"""13,04#04@13,13#13,01mmm |08,13##13,01|08#08,08|14 14,00  00,01mm15  08#13,13##14 08,01 #15   08""08,08"14  14,00  08,01|13|13,13##13,01|
+15,01    08#13,08###08,01   mm13,08#08,01|#08,08|14    14,00 08,01#13,08###15,01 08|14,08   08,01m00mm15 08#08,13###08,01 |13,08##08,01|#08,08|14   14,00 14,08 14,00 15,01 08#08,13###08,01#13,08##14 08,01mmm15 08"""14,08 15,01 13|08,13##13,01|
+15,01    08#13,08###15,01 08,08|08,01#13,08###13,01 08#08,08|14   14,00 00,01|08#13,08#08,13#08,01|  08,08|14  14,00   08,01|#13,08###08,01#13,08###08,01   08,08|14     08,01 |13,08##08,01|#08,13##13,08#08,01"""14,08   08,01mm#13,08###08,01 
+15,01    08|08,13##08,01| 08,08|08,01#08,13###15,01 08|14,08  14,00 00,01""15 08|08,13#00#08,01| ""08,08"14  14,00 14,08 08,01 |13,08##08,01|#08,13###13,01|mm08m15 08""""15 08|13,08##08,01||13|00,13#08#08,01|15 08mm00m 08""14,08 13###08,01 
+15,01    08|08,13 00#08,01||||08,13 00#08,01| " m13mm13,08mm00,13#13,01""14,13 13,01mm08m15 08"""08,08"15,01 08|08,13##08,01||08,13 00#08,01| ""13"13,08"14,13 13,08m13,01mm08m08,13##13,08|08,01 08,08|08,01|14,13 00#08,01|#08,08|14 14,00  15,01  08|08,13##08,01|
+15,01   08     |||08,13   13,08mm"13,01""08"15      08"13""13,08"mm13,01m08mm13,08m00,13#13,08|13,01 08|08,13  08,01|15 08,08|14 08,01m00m 15 08"13""13,08"00,13#13,08|15,01 08,08|08,01#13,08|14,13 13,08|15,01 08#08,08|14 14,00  15,01 08|08,13 00#08,01|
+15,01 08          """15                  13"""14,13 08 13,08|15,01     08,08|08,01"08,08"14  14,00  15,01       08,08|08,01#13,08|14,13 13,08|15,01  08#08,08|14 
+15,01      08      15   09               15               08,08|14 00,01"15          08 15      08#
+
+
+15,01      14 15         00fusion productions 15info file - january 1997                  
+
+
+
+15,01        we are kickin it in 00'97
+15,01          This has been a very good start on the new year for fusion,
+15,01          as we got very good response one the last pack and we also got 
+15,01         nine new members that is going to release with us.
+15,01         here is a comment about the last pack from 00tankgirl15(00blend15)
+
+
+15,01         *** 00tankSPERm15 (enberg@kruuna.Helsinki.FI) has joined #00FUSION
+15,01         <00tankSPERm15> someone should give you guys some credit :)
+15,01         <00tankSPERm15> what. you have like 4 dudes :)
+15,01         <00tankSPERm15> and you still put up a decent pack-
+15,01         <00tankSPERm15> HAHA :)
+15,01         <00tankSPERm15> you're great.
+15,01         *** 00tankSPERm15 (enberg@kruuna.Helsinki.FI) has left #00FUSION
+
+
+15,01          that made my heart all warm and soft, though i must give the
+15,01         credit to our artist that released in that pack. thanks guys!
+15,01         unfortantly 00caithor15 is no longer with us as he decided to join
+15,01         00blend15 and 00noname15, well we wish you only the best!
+15,01         and now for the people who joined us, i would like to welcome
+15,01         the following people:
+
+15,01         00alla15 00xul15, 00baphomet15, 00ezy15, 00krazie15, 00oddball15, 00oolite15, 00scoundrel15,          
+15,01         00tre15 00cool15 and 00weirdo15         
+
+15,01          some of these people are pretty new on the scene and other 
+15,01         have been there for a long time but they all share one thing 
+15,01         in common and thats that they are all very talented artists  
+15,01         that has joined fusion!
+
+15,01          well im not to good at writing texts like this so i will
+15,01         wrap it up here and leave it over to my elite doodler ize.
+15,01 
+
+15,01                                                                  - rex
+
+15,01                                                                    
+15,01         Elite eh? :) oh well.. This month has been extremly well for
+15,01          00Fusion 15as many members joined and few dropped out ..
+15,01         
+15,01         00Alla xul, 15I dont know anything about him but I hope i'll get to 
+15,01                   know him soon .. well what could I say.. he draw 00kickass
+15,01                   pictures, but I heard he was having some trouble with
+15,01                   his fontage .. maybe I can be of some help? :)
+
+15,01         00Baphomet, 15An oldschool ascii artist with a great deal of talent and
+15,01                   stuff... I expect some 00kickass15 fonts by him ;)
+
+15,01         00Ezy,      15Comes from the Norweigan group 00Bamboosh15 and the Swedish
+15,01                   group00 Fluid15, He shows great promise and talent.
+
+15,01         00Krazie,   15Is apperantly a 00newbie15, check out his picture it this
+15,01                   pack it would explain everything :)
+
+15,01         00Oddball,  15I havn't heard much about him nor talked with him
+15,01                   so .. well his art shows atleast some 00spirit15 and 
+15,01                   I hope he'll get much better :)

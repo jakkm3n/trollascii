@@ -1,0 +1,6 @@
+15,01     This menu set may be used for Oblivion/2 BBS Software, programmed by
+15,01Darkened Enmity.  If you have any questions or comments about the menus,
+15,01or would like to request an Empire ansi, feel free to ask.  I can be most easily
+15,01contacted on the DMZ (Empire World Capitol), 512.267.9557, or the SoundGarden
+15,01(Empire Distro), 914.462.4O19.  Thanks.
+15,01                                      primordial chowder [Empire]

@@ -1,0 +1,30 @@
+15,01Board Name              SysOp Name         AreaCode   Status (as of o3/o1/94)
+
+15,01After Dark Club         Glenn Danzig            916     P
+15,01Corrosive Poison        Psychotic Fiend         516     S
+15,01Damage Incorporated     Special Ed              609     P
+15,01Doom Incorporated       Insidious               404     CP
+15,01Eleutheria              Soul Rebel              606     ? CP
+15,01Genesis Academy         Tatsu                   604     C
+15,01Harvest Moon            Qur'an                  216     ? C
+15,01Lands Of Lore           Natex                   206     C
+15,01Latitude Zero           R.Noble                 510     P
+15,01Molten Hardware         Hideous Spawn           314     C
+15,01Phunk Palace            Hannible Lecter         408     P
+15,01Power Grid              Grid Runner             813     ?
+15,01Ravid Intersekt         White Slasher           215     P
+15,01Road Runner             Coyotes Member          916     ?
+15,01Sanctuary(tm)           Tempus Thales           305     S
+15,01Serpents Isle           NightShade              613     ?
+15,01Shadowlands             Raistlin                609     S
+15,01South Of Hell           Devil's Spawn           305     P
+15,01Terminal Sabotage       Bane                    314     P
+15,01TSBD                    Farmicus                703     P
+15,01Underworld Element      Dark Angel              203     P
+15,01Waking Nightmare        Prince Of Death         604     S
+
+15,01                        P=Polling Correctly.
+15,01                        S=Setting Up.
+15,01                        ?=No Idea
+15,01                        C=Contact Me.
+15,01                        CP=Contact Me, Or You MAY Be Purged In Next Update.

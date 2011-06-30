@@ -1,0 +1,9 @@
+15,01Z*ZmodemZS14,15@15,01r5 +*  *9+8<&  @  *E+ GSZ.EXECW+% >port %1 speed %2 rz -rr %3  E+A .U
+15,01n+CWu #-:(o>n+CW0A>Add ZIPM$Zmodem (MobyTurbo)}x6ea  i~x6i GSZ.EXE~x6i}-port %1 
+15,01speed %2 rz -rr -m %3#i~x6i}x6ea>#0+ i~x6i}x6C}l tv+G Ymodem-G00@15d00@15 # PE  10:00 pm
+15,01+x6i GSZ.EXE     vport %1 speed %2 rb -g %3_=+>@yQ  d$i@yQ       14,15@15,01A  >*14,15@15,0100m+` HM
+15,01HS/Link v1.21B                
+15,01HSLINK.EXE  P-P%1 -B%2 -U%3 -LF%4 @FILELIST.TXT                          S<Super
+15,01 ZModem 2.00              szmodem.exe _port %1 speed %2 RZ %3                   
+15,01                   R ZyRion 3.00.1.0               
+15,01ZYRION.EXE  MR -P%1 -B%2 %3                                              

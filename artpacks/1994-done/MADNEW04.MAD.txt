@@ -1,0 +1,80 @@
+15,01                                                 00-Sub-ZeroX, (Less than a copy)
+14,01--------------------------------------------------------------------------------
+15,01                 00,00 00,04"""""""""""""""00,01m15     00m00,04"""""""00,00 15,01     00m00,04""""""00,01m
+15,01                 14,00 00,04mm04@@@00mm04@@@@00mm04@@@14,00 00,01   "00,04mmmmmm04@@00,00#15,01    00"00,04mmmmm04@@@00,00#
+15,01                   15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01         15,15@13,04##15,15@15,01     mmmm 15,15@13,04##15,15@
+15,01                   00,15#00,04  00,15#15,01  00,15#00,04  00,15#15,01  00,15#00,04  00,15#15,01    m15,04"""""  00,15#15,01     00,15#00,04  00,15#15,01 00,15#00,04  00,15#
+15,01                   00,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01   14,15 14,04###04,01"""14,04##14,15 15,01     14,15 14,04##14,15 15,01 14,15 14,04##14,15 
+01,01Rip this file Beyat14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01   14,15#01,04@@04,01mmm01,04@@@15""14,15#15,01   14,15#01,04@@@15""01@@14,15#
+15,01                   01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01    14"14,04mmmmmmmmm01,15@15,01    "14,04mmmmmm01,15@
+14,01--------------------------------------------------------------------------------
+15,01              00Malicious Art Denomination  -  Newsletter - April '94
+14,01--------------------------------------------------------------------------------
+14,01 09m09,09#09,01m
+09,01|03,03@15,01 03,03@09,01|
+09,03 #15,01 09,03# 
+14,03# 03,01"03,03 14#
+01,03@14#15,01 14,03#01@15,01 00wesome turnout this month, About a Meg of MAD Work.  Yeah, It's getting
+15,01      00to be filled with More and More stuff that ISN'T ansi, but I don't give
+15,01      00a shit.  Anyways, We do have more ansi than in out MARCH pack, So don't
+15,01      00run off and start saying that MAD is a VGA Group.
+
+00,01 09m09,09#09,01m
+09,01|03,03@15,01 03,03@09,01|
+09,03 #15,01 09,03# 
+14,03# 03,01"03,03 14#
+01,03@14#15,01 14,03#01@15,01 00lso, Welcome our new members.  WtS (Uhm, Weird Handle... Oh well) Our
+15,01      00new Coder.  He showed of a Small loader this Pack.  Reptile, after a
+15,01      00month of practice, he has gotten the fonts to look good, what's next for
+15,01      00him?  Pics!! (Yeah, I can hear Reptile arguing about drawing Pics already)
+15,01      00Mephitopeles, An Ansi artist who can only get better (And NO I am not
+15,01      00slamming a fellow MAD Member, hehehe) He drew some nice stuff.
+15,01      00And Apocolypse, Someone that has been around for a while and I know will
+15,01      00distro this pack like a good courier should! And Any other MAD Newbies
+15,01      00that I might have missed! (GASP!)
+
+
+09,09#####
+09,01  03,03@
+09,01  09,03#
+09,01  09,03 
+14,03#####15,01   00Bet you're wondering why good ol' Sub-ZeroX didn't do shit for this pack
+15,01      00well, good ol' Sub-ZeroX won't tell you so fuck off..  Anyways, Pack 5
+15,01      00will have some of my work in it.. And the only person that knows why
+15,01      00I didn't do shit is Cougar.  Anyways, I'll do work for pack 5, and those
+15,01      00to come.  (I DID DO A MOD DAMNIT, SO QUIT BUGGING ME ABOUT IT) Geez!!!!!
+
+
+03,03@09,01m
+09,03#03@09,09#09,01m
+09,03 #09,01"09,03# 
+14,03# 15,01 14,03 #
+01,03@14#15,01 14,03#01@15,01 00ew distro Sites may not be in the list, WHY!?  Because I lost the list and
+15,01      00had to redo it all by memory!  Yeah, and everyone knows How good my
+15,01      00memory is...  Hell.. I can't even spell Courrier (DAMNIT, I mean Courier)
+15,01      00Anyways, that's the deal if you applied as a site, and I said "Okie" and
+15,01      00you aren't here... So just apply again, and I'll add you for Pack 5.
+
+03,03@09,01m    m03,03@
+09,03#03@09,09#09,01mm09,09#03,03@09#
+09,03 #09,01"09,03##09,01"09,03# 
+14,03# 15,01 14,03  15,01 14,03 #
+01,03@14#15,01 14,03##15,01 14,03#01@15,01 00AD '94?  There some things I want to do with this group..  I want to
+15,01         00make a VGA Magazine, I'll probably need Cyberbeast's, WtS's and Coug's
+15,01         00help with Code (I want stars in the back moveing).  I'll Need
+15,01         00The Eternal Warrior for those great NeoPaint Gifs and Stuff for Menu
+15,01         00Details, and I'll need Lawnmower Man for the Menus and Fonts because
+15,01         00he is a 3DS Expert.  As for Music, Doomsday, (Good MODS By the way.)
+15,01         00and Maybe a "Not so fucking Happy" MOD By Yours Truely (SZ)..
+15,01         00MAD, It's only as good As YOU Make it.. So Let's make A neato MAG
+15,01         00or something...   Oh.. Also, I need to take a vote on haveing a MAD
+15,01         00Net, Linking out Distro Sites and all.   I also Need SOMEONE to
+15,01         00code a New Viewer interface.. I need it to do the following..
+15,01         001> Play MODS (Background as well)
+15,01         002> View VGA Files (EVGA and VGA)
+15,01         003> View Ansi's
+15,01         004> View Rips (BTW, Nice RIP Coug)
+
+
+09,01m09,09####
+03,03@@

@@ -1,0 +1,80 @@
+
+15,01                                        ,s,
+15,01                                        `n'
+15,01  ,gQn""$Qp,gQn     ,gQ"   Qp,,gQn"""n ,gQn,gQ"  nQp,Q$$n"nQpn"nQp,
+15,01  $$l   l$$$$l   ggg$$l    l$$`""""n*,_$$l $$l    l$$$$l   l$   l$$
+15,01  $:n""""'l$:   l$$l$:     QQQ$:   :$$l$: l$:    :$ll$:   :$l  :$$l
+15,01  `"n*,.   `"n*,.''"`"n*, :$$l "n*,. ''`"n*`"n*, *n"''"' ,*n" ,*n"' c1
+15,01                        .,*n"'       ## p o w e r
+
+15,01 a p p l y i n g  f i l e .                  art / modding power
+15,01(+)---#------------------(+)
+15,01name:
+15,01handle/alias:
+15,01groups/location:
+15,01voice number:
+15,01dataphone number(bbs):
+15,01email address:
+
+15,01irc nick;
+15,01channels hanging in;
+
+15,01ok .. so here we go ..
+
+15,01apply as:    [.] courier
+15,01             [.] rip or vga artist
+15,01             [.] ansi artist
+15,01             [.] ascii artist
+15,01             [.] headquarter/distsite (bbs)
+15,01             [.] asm/pasc/c coder
+15,01             [.] bbs utilities coder
+
+15,01if courier just tell me some info about your self.
+15,01*
+15,01*
+15,01*
+15,01*
+
+15,01if rip artist or vga artist.
+15,01abbrev(ex, mine is c1);
+15,01affils;
+15,01previous affils;
+15,01fav artist;
+15,01fav group;
+15,01how many pics do you draw / week;
+
+15,01if ansi artist.
+15,01abbrev(ex, mine is c1);
+15,01affils;
+15,01previous affils;
+15,01fav artist;
+15,01fav group;
+15,01how many pics do you draw / week;
+
+15,01if ascii artist.
+15,01abbrev(ex, mine is c1);
+15,01affils;
+15,01previous affils;
+15,01fav artist;
+15,01fav group;
+15,01how many pics do you draw / week;
+
+15,01ohh my, there is a serious different between those apps .. :)
+
+15,01for sysops.
+15,01name of your board:
+15,01what kind of system is your board running under:
+15,01type of board(art, warez, modding, demo):
+15,01main sysops:
+15,01cosysops:
+15,01affils your board have already:
+15,01previous affils you have lost:
+
+15,01if coder, asm/pasc/c just pack something you have done in the file and send
+15,01it to mastermind@skynet.be
+
+15,01if bbs utilities coder.
+15,01what do you code:       [.] ppes
+15,01                        [.] pcboard utils
+15,01                        [.] iniquity mods
+15,01                        [.] iniquity utils

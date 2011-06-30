@@ -1,0 +1,80 @@
+15,01;A  iNSANiTY Corporate Network Echo/Nodelist
+15,01;A
+15,01;A          iCN Echolist
+15,01;A +-----------------------------------+
+15,01;A |      iCN Privte Bases             |
+15,01;A +----------+----+-------------------+
+15,01;A | ICN-TEST |#@ *| Test Base         |
+15,01;A | ICN-SYS  | @ *| SysOp Base        |
+15,01;A | ICN-ICE  |p@  | General Base      |
+15,01;A | ICN-ANSI |p@  | iCE/SKiLL Support |
+15,01;A | ICN-VGCD |p@  | iCE Coding/VGA    |
+15,01;A | ICN-PRO  |p@  | iCE Projects      |
+15,01;A | ICN-ADM  |p@$ | iCE Administration|
+15,01;A +----------+----+-------------------+
+15,01;A |      iCN Public Bases             |
+15,01;A +----------+----+-------------------+
+15,01;A | ICN-SUGG |#  %| Suggestions       |
+15,01;A | ICN-GEN  |#  %| General Base      |
+15,01;A | ICN-AGEN |#  %| Art General Base  |
+15,01;A | ICN-MUZK |#  %| Music (Mod,Mid)   |
+15,01;A | ICN-TDS  |#  %| The Demo Scene    |
+15,01;A | ICN-ART  |#  %| iCE Art Review    |
+15,01;A | ICN-LIT  |#  %| General Lit       |
+15,01;A | ICN-MAG  |#  %| Magazine Disc.    |
+15,01;A | ICN-IRI  |#  %| iRiDiUM Support   |
+15,01;A | ICN-OTHR |#  %| Other Art Groups  |
+15,01;A | ICN-NEWS |#  %| iCE News / Updates|
+15,01;A +----------+----+-------------------+
+15,01;A
+15,01;A       * = SysOps Only.
+15,01;A       @ = Required.
+15,01;A       p = iCE Private Base Stricly For iCE Members Only.
+15,01;A       $ = For iCE Directors and Staff Only.
+15,01;A       % = For All Users.
+15,01;A       # = New Base To iCN Since Last Update.
+15,01;A
+15,01;A
+15,01;A
+15,01;A    iNSANiTY Corporate Network Nodelist.
+15,01;A
+15,01;A  iNSANiTY Corperate Network :
+15,01;A            Administration : xerobe     - Coordinator
+15,01;A                             Metal Head - Base Moderator
+15,01;A
+15,01;A       Modifications : 
+15,01;A                 The ArMageddon Suppport (New Areacode)
+15,01;A                 Forced Breakin          (Purged)
+15,01;A                 Underworld Element      (Added)
+15,01;A                 Power Grid              (Added)
+15,01;A                 The Glass Palace        (Added)
+15,01;A                 Corrosive Poison        (Added)
+15,01;A                 Doom Incorporated       (Added)
+15,01;A
+15,01Zone,21,iNSANiTY_CORPORATE_NETWORK,Pughtown_PA,iCE's_Official_Net,1-610-469-9499
+15,01,9600,CM,XA,V32B,V42B,UREN
+15,01Host,97,___,___,___,1-610-469-9499,9600,CM,XA,V32B,V42B,UREN
+15,01Host,98,#iCN(tm).iCN(tm).iCN(tm)#,_,#iCN(tm).iCN(tm).iCN(tm)#,1-610-469-9499,960
+15,010,CM,XA,V32B,V42B,UREN
+15,01Host,99,___,___,___,1-610-469-9499,9600,CM,XA,V32B,V42B,UREN
+15,01;A
+15,01;A                     #  iCN - CONTROL ( World )  #
+15,01;A
+15,01Host,100,___+=============+,Pennsynvania_USA,+======================+,1-610-469-
+15,019499,9600,CM,XA,V32B,V42B,UREN
+15,01Region,101,___|_WORLD__H.Q._|,Pennsylvania_USA,|_i_C_N__C_O_N_T_R_O_L_|,1-610-46
+15,019-9499,9600,CM,XA,V32B,V42B,UREN
+15,01,1,________________________--+,Pughtown_PA,+--_______________________,1-610-469-
+15,019499,9600,CM,XA,V32B,V42B,UREN
+15,01,2, iCN World Head Quarters  |,Pughtown_PA,| The ArMageddon Support  ,1-610-469-
+15,019499,9600,CM,XA,V32B,V42B,UREN
+15,01,3,________________________--+,Pughtown_PA,+--_______________________,1-610-469-
+15,019499,9600,CM,XA,V32B,V42B,UREN
+15,01Host,102,___+=============+,Pennsylvania_USA,+======================+,1-610-469-
+15,019499,9600,CM,XA,V32B,V42B,UREN
+15,01Host,103,___,___,___,1-610-469-9499,9600,CM,XA,V32B,V42B,UREN
+15,01;A
+15,01;A                   #  iCN - CONTROL ( United States )  #
+15,01;A
+15,01;A
+15,01Host,104,___+=================+,Pughtown_PA,+======================+,1-610-469-9

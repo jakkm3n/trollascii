@@ -1,0 +1,63 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 J   A   N   U   A   R   Y       2   0   0   0
+15,01-------------------------------------------------------------------------------
+
+
+15,011.  Completely knocked out by the Y2k bug, iCE's information systems department
+15,01is still in  complete  and utter  shambles.  We scoffed at  the notion of a big
+15,01failure all year long only to  find our internet server  offline and inoperable
+15,01New Years' Day. Bad  planning? Non-Y2k compliant BIOS?  Bad testing? No, it was
+15,01that  subversive Canadian  collective in iCE  led by  Rainmaker and Count Zero.
+
+15,012.  iCE Members this month  could be  found all over  the globe - celebrating a
+15,01common theme. Some stayed inside  with their shotguns cocked, others partied it
+15,01up in Las Vegas (site of the only millenium  party related death on Earth), and
+15,01still  others  plotted  to  overthrow a number of  third  world  countries. The
+15,01result?  100% of iCE  survived, we  hear  Rwanda is under  new  leadership, and
+15,01Syntax Error is still gay. The more things change, the more they stay the same.
+
+15,013.  According to central intelligence, no iCE  members came nor went during the
+15,01chilly  month  of  December.  In  fact, the  cold   weather  encourages  sexual
+15,01intercourse  which in  an indirect  way  could  be  considered an investment in
+15,01future iCE  members around the globe.  We've got our peepholes drilled, do you?
+
+15,014.  The iCE Senior Staff  would like to take this opportunity to greet everyone
+15,01who has been part of iCE up to now. Starting  more than a decade ago, iCE has a
+15,01long  and  proud  tradition of  great  art and good times. The  group has built
+15,01friendships, relationships  and  businesses, and has fueled our artistic desire
+15,01for a long, long time.  To those who helped shape iCE into what it is today, we
+15,01thank you, and wish you all good luck and a happy New Year.
+
+15,015.  Lastly, the  group  of iCE, especially  Cold and  Ugly, Force Ten, and Trip
+15,01would  like to  thank Fluor for  helping put out the packs the last few months.
+
+15,016.  That's all  for  now, but  all bets are off for 2000. If you don't think we
+15,01have a trick or two up our sleeve, what millenium are _you_ living in?
+
+
+15,01-Mass "2000 ... Calories per Beer" Delusion, massd@ice.org
+
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------
+15,01>

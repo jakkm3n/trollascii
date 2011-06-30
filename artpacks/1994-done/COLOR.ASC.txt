@@ -1,0 +1,12 @@
+15,01  ^1____________________________________________
+15,01 |                                            |
+15,01 |  ^3Press Control-P, release, then press any^1  |
+15,01 |  ^3number from 0-9, which represents one of^1  |
+15,01 |  ^3the following colors:^1                     |
+15,01 |                                            |
+15,01 |        ^00  ^11  ^22  ^33  ^44  ^55  ^66^7  7  ^88  ^99^1        |
+15,01 |                                            |
+15,01 |  You can also use ^ and then press any num |
+15,01 | from 0-9, like ^8, although it won't be in |
+15,01 | color until you read the message.          |
+15,01 |____________________________________________|

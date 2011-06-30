@@ -1,0 +1,27 @@
+15,01                             14-15-00- 15Rivendell 00-15-14-
+15,01                                00"15"14"""""""15"00"
+15,01                00Try as you will, to escape lifes many parallels
+15,01               00Your only sanctuary is the haven called Rivendell
+15,01                 00Where the wild eyed stars and pristine towers
+15,01                    00Bow and pray - before the eternal powers
+15,01               00Which are seen at night, by the light of the moon
+15,01                 00They rise before you out of the shadowy gloom
+15,01                    00And speak to all those who will listen:
+
+15,01                 00"I have come before thee to watch over you all
+15,01               00To prevent the coming of Mankind's irreputed fall
+15,01             00And to shine upon thee in your days of majestic glory
+15,01                 00To climb the towers of heaven - story by story
+15,01              00I have come to all of thee in this town of Rivendell
+15,01               00To help thee in thy battle between heaven and hell
+15,01                 00All lives who have lived and all those before
+15,01              00Have found this to be the gateway to heaven's shore
+15,01                  00I take thee in my hands and praise thee well
+15,01                 00For thou art the heart and life of Rivendell!"
+
+15,01                                             00I15s14raf15e00L 14[00i15C14E12/00P15S14Y]
+
+
+
+15,01*14,15@15,01--- Revelation v0.92a
+15,01** * Origin: Rivendell . iCE WHQ . IUD CHQ . TCS WHQ . IOD/ICD (69:3201/1)

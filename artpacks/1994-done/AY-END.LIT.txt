@@ -1,0 +1,21 @@
+15,01                00The End Of Her Pain
+
+04,01The e11nd i14s near,
+04,01and on11ly o14ne does know it.
+04,01The one11s th14at caused it are out tonight.
+04,01This is 11thei14r fault,
+04,01they know 11wha14t they've done,
+04,01but in the11ir b14lindness and their fortunes,
+04,01they attend 11par14ties rather than atone.
+04,01A parting of 11way14s unique to you,
+04,01as the bullet 11see14ms to slide into place.'
+04,01This is how it 11all 14must end,
+04,01for life cannot 11go 14on as is,
+04,01and problems do 11not 14just go away,
+04,01so thence they be11come 14wrenched from life.
+
+
+15,01                     06[13Apothecary06]
+
+15,01>SAUCE00The End of Her Pain                Apothecary          READ THE INI FILE
+15,01   19940727!*  @@P v                             

@@ -1,0 +1,80 @@
+15,01Unvalidated User
+15,01Major Lamer
+15,01Big Lamer
+15,01Minor Lamer
+15,01Lamer
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01"Non-Special" User
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01Regular User
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01High Level Access
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01"Special User"
+15,01No Ratio
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01ACiD Member
+15,01iCE Member
+15,01Tribe Member
+15,01BCA Member
+15,01Blade Member
+15,01Breed Member
+15,01CiA Member
+15,01Union Member
+15,01PWA Member
+15,01Razor 1911 Member
+15,01TRSi Member
+15,01Future Crew Member
+15,01Dreadloc Staff
+15,01Corruption Staff
+15,01ALF Member
+15,01Shiver Member
+15,01Psychosis Member    
+15,01Blur Member        
+15,01Rancid Member       
+15,01Dark Member        
+15,01Sabre Member
+15,01Image Member
+15,01MiiS Member
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>
+15,01<New Security Level>

@@ -1,0 +1,61 @@
+15,01                    "#                                                       
+15,01                      mmm               mmm"#        mmm                     
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "                    
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 15,01                       
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 15,01                       
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m                     
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" -------------------------- 
+15,01ice ice ice ice ice ice 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m nfo nfo nfo nfo nfo nfo
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m --------------------- 
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||                    
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"                 
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt                
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "                       
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@15                          
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "                       
+15,01                           00@15  # "|  #     00@15    "     #                       
+15,01                           14,15#15,01   |m         14,15#15,01       #                          
+15,01 1.  Apologies for the     m    00@15         |          .   tardiness on the pack 
+15,01     this month.  The blame               #     .     can be placed on me, Syn 
+15,01     as I was  in the process       #                of taking  exams, moving  
+15,01     to a new apartment, and                       heading home for my  break. 
+15,01     I hope it was worth the wait.  Now you can all get your ten minute fix.:) 
+15,01                                                                              
+15,01 2.  Policy Updates: N/A.  We fear change.                                    
+15,01                                                                              
+15,01 3.  Recent arrivals to iCE include:  Cooly, Flick, Genesis, Sliver Cut,      
+15,01     Deeply Disturbed, ICL, MasterKen, iRON MAN, and Desolated Dream - Courier 
+15,01     Coordinator.                                                             
+15,01                                                                              
+15,01 4.  Recently exiting iCE:  King Midas.                                       
+15,01                                                                              
+15,01 5.  The iCN hub is Sanctuary(tm), 3o5.792.8771, 21:1305/1.  If you are in    
+15,01     iCE, and a sysop of your own board, call there and apply to get the      
+15,01     network.  The net has been condensed, and it is all private now.         
+15,01                                                                              
+15,01 6.  There are a few  pictures that can't be viewed with Multi-View this      
+15,01     month, they are the .EXE by Stealth Ninja, and the .JPG's by Mascot.     
+15,01                                                                              
+15,01 7.  There seem to be a few questions regarding our info files that we release
+15,01     within the monthly packs.  Hopefully we can clear some of them up:       
+15,01                                                                              
+15,01 7a. Member Listing: Being listed on this list basically signifies that an    
+15,01     artist has released some iCE quality work within the past two months.
+15,01     If a member is not listed, it is b/c he has either not been active, or   
+15,01     has been lacking in the quality department.                              
+15,01                                                                              
+15,01 7b. Site Listing:  iCE, under any circumstances, is not accepting anything   
+15,01     resembling an official site anymore, period.  We feel that the few sites 
+15,01     that we have, coupled with the strength of the internet and regular      
+15,01     day to day trading gets the pack spread around plenty as-is.  But thanks 
+15,01     for your support.                                                        
+15,01                                                                              
+15,01 8.  A big thanks goes out to our communications crew, namely Hellfire and    
+15,01     Opiate for all the communications help this month.                       
+15,01                                                                              
+15,01+----------------------------------------------------------------------------+ 
+15,01|      ... Tempus Thales ... Aphex Twin .. Shaggy .. Syntax Error ..         | 
+15,01+----------------------------------------------------------------------------+ 
+15,01            aphex@io.org  shaggy@io.org  pbiondic@mailer.fsu.edu             
+15,01                                                                              
+15,01                                                                              

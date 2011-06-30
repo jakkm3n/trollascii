@@ -1,0 +1,80 @@
+15,01               02mmmm15                             02mmmm15              02mmm
+04,04@13# 04,01""""""""""15 02|12,02|14,12 12,02#02,01|15 04"""14,04  04,01"""""""""14,04  04,01""""""""""15 02|12,02|14,12 12,02#02,01|04#02|12,02mm#02,01|04"""""""15  02"12,02#02,01|15 04"""""""""
+13,04#04,01"12 02m12,02 m 02,01""13,02 12m#13#02,01"13,02 14,12 12#12,02 02,01""12,02  02,01m12  02m13,02#12m 02,01"12,02 m 02,01m12  02m12,02 m 02,01""13,02#12mm 02,01"12,02 14,12 12#12,02 04,01 12 02"""""12,02 mm 02,01""12,02 m 02,01m12 02m12,02 m 02,01""12,02 m#13#
+13,04#04,01|02|12,02|12,12#12,02|02,01|12 02""""12 02|12,02|12,12#12,02|02,01|04#02|12,02|12,12#12,02|02,01|""""12  02|12,02|14,12 12,02|02,01||12,12#14 12,02|02,01|04#02|12,02|14,12 12,02|02,01||12,02|12,12#12,02|02,01|04#02|12,02mm#02,01||12,02|12,12#12,02|02,01|04#02|12,02|12,12#12,02|02,01||12,02|12,12#12,02|02,01|12 02""""12 04m
+13,04 12,01 02"""""12,02 mm 02,01m12 12,02 12,12#14 12,02 12,01  12,02 12,12#14 12,02 12,01 02m12,02 m 02,01""12,02 12,12#14 12,02 12,01 12,02 02@12,12#12,02 12,01  12,02 12,12#14 12,02 12,01 13,02#12,12# 12,02 12,01  12,02 12,12#14 12,02 12,01 12,02 12,12#14 13,02#12,01  12,02 12,12#14 12,02 12,01 02""""""12,02 # 02,01m15 13,04 
+04,01|02|12,02#02@12#02,01|04#02|12,02#02@12#02,01||12,02#02@12#02,01|04#02|12,02#02@12#02,01||02,02@12,12#12,02|02,01|04#02|12,02|02@12|02,01||12,02|12,12#12,02|02,01|04#02|12,02#02@12#02,01||12,02#02@12#02,01|04#02|12,02#02@12#02,01||12,02#02@12#02,01|04#02|12,02#02@12#02,01||12,02#02@12#02,01|04#02|12,02#02@12#02,01|04|13,04#
+12,01 13,02#12 # 02,01mm12,02  #02,01"12 13,02#12 # 12,01  12,02  # 02,01m13,02#12#" 02,01mm12,02 #" 02,01m12,02 #" 02,01mm12,02 # 02,01"12 02"12,02 # 02,01mm12,02  # 02,01m12,02  # 12,01  12,02  #13#02,01m12,02  # 02,01mm13,02#12 #02,01"15 04m04,04@
+04,01mmmmmmmmmmmmmmmmmmm13 15     04mmmmmmmmmmmmmmmmmmm14,04 04,01mmmmmmmmmmmmm15  13  15 04mmmmmmmmmmmmmm13,04 14,13 13#
+13,04m13,13   14 13#04,04@13# 04,01""""""""""10 11|10,11##m11,01|04"""""""""13,04  04,01""""""""""13,04 04,01"""""""""""11|10,11mm 11,01|04"13,04  ##04@@13,13#14         
+13,13#14   13#04,04@13# 10,01 11m14,11 10m13#11,01""10,11 11@14 11,01m10 11""""10 13,11#10mm14 11,01""14,11 13#11,01m10  11m14,11 10m14 11,01""13,11#10m14 11,01m10 11m13,11#10m14 11,01""14,11 10m#14 11,01m14,11 14,10 10#13,11#11,01mmmm10 04"13,04 #04@13,13#14   13##14  13#
+04,04@13,13#14 13#04,04@13# 04,01|11|10,11m14,10 10#11,01|10 11"""""13,11#10#mm11,01||10,11|10,10#10,11|11,01|04#11|10,11#14,10 10,11|11,01||10,11#14,10 10,11|11,01|04#11|10,11|10,10#10,11#11,01||10,11|10,10#10,11|11,01|10 11""""13 11|10,11#14,10 10,11|11,01|mmmm10 13,04 #04@13,13#14   13#04,04@@13,13#14 04,04@
+13,13#14 13##04,04@13# 10,01 13,11#11@10,10#14,11 11,01"""10 04m14,04 10,01 10,11#11@10,10#14,11 10,01 14,11 10,10#11,11@14 10,01  10,11#11@10,10#14,11 10,01 10,11#11@10,10#13,11#11,01""""""10 11""""""14,11 10#14 11,01m10 10,11#11@10,10#14,11 10,01  13,11#10,10#10,11|10,01 13,04  #04@13,13#14   13##14  13,04#
+13,04""""# 04,01|11|10,11##"11,01|04|13,04##04@13#04,01|11|14,11 10#"13#11,01m14,11 10"#11,01|04#11|13,11#10#"14 11,01m13,11#10#"14 11,01m14,11  10##14 11,01"13,11#14  11,01mm14,11 10###11,01|"13,11#10#14 11,01mm14,11 10#11@11,01"10 13,04   #04@@13"""""" 
+
+13,04  00S H A O L I N ' S   F I N E S T  -  P A C K  3  -  N E W S  -  1 1 / 9 7 13     
+
+15,01             13mmm-m04mm15 13mmm-m04mm15 13mmm-m04mm15 13mmm15 13m04mm15   13mmm-m04mm15   13mm04mm
+15,01             14,13   15,01 14,13  14,04 15,01 14,13   13,01 14,13  14,04 15,01 14,13   15,01 14,13  14,04 15,01 14,13   13,01-14,13  04,01"15   13 ---14,13  13,04 15,01   13|14,13  04,01|
+15,01             14,04 14,13  13,01-"""15 14,04 14,13  13,01-14,13   15,01 14,04 14,13  15,01 13mmm15 14,04 14,13  13,01 14,13   15,01 13 15 13,04 14,13  15,01 14,13   15,01    13""
+15,01             04""13"15 13   15 04""13"15 13"""15 04""13"-"""15 04""13"15 13"""15   04""13"-"""15    04"13"
+
+08,02 I N T R O D U C T I O N
+
+00,01  Welcome to the third installment of Shaolin's Finest Artpacks. We realise that
+00,01we are a little bit late but this was for a good reason! More than half of our 
+00,01artists are currently in year 12 or year 11 this year and have very the all 
+00,01important VCE Exam CATs to do (argh!) which left us very little time to work on
+00,01art. Well now that the horrible experience is over we will definitely be 
+00,01releasing on time!
+
+00,01  This pack contains art from several new artists. We are currently on a 
+00,01recruitment spree. If you do art we would like to hear from you. Come on all 
+00,01Australian artists, help strengthen our art scene!
+
+15,01  00We are also in search of a good coder to code a Shaolin View. To all you good
+00,01coders please contact me on Decay BBS if you think you may be able to code one 
+00,01for us. We can organise a trade or something for you coding expertise so if you 
+00,01are a good coder and have a little time on your hands, code a Shaolin View.
+
+00,01  One more little thing. It seems that a lot of people think that Shaolin's
+00,01Finest are a group solely for Asian people to join. This is not so we do not
+00,01descriminate against artist for their colour and race. What matters to us is 
+00,01that you can produce good quality artwork. We do NOT care if you are yellow, 
+00,01black, white, purple, green, red or whatever.. just your art! 
+
+
+08,02 N E W   M E M B E R S
+
+15,01   10Shaolin's Finest00 is happy to welcome the following members to our happy 
+00,01family:
+00,01  13 Moon Dogg15 00 15  00-15 00providing us with heaps of ascii art. I've known Moon Dogg 
+15,01                  00since the first days of bbsing. Make him welcome! :)
+
+15,01   13Sikko15        00-15 00the sysop of the highly successful board, No End, has finally
+15,01                  00joined us to provide ascii art. He is one of the fastest 
+15,01                  00improving artists i have seen.
+
+00,01  13 Ripped15       00-15 00providing us with some mad vga if he can get off his lazy ass.
+15,01                  00:) I did my very first piece of art for his board and he was
+15,01                00  one of the first to get me into the scene. Word niggah :)
+
+00,01  13 Crash15        00- hailing from Sweden, Crash is Shaolin's Finest first 
+15,01                  00international artist. 
+
+13,01   Havok15        00-15 00providing us with vga. Havok is another artist that i feel is
+15,01                00  showing a lot of potential.
+
+13,01   Warp15         00-15 00providing us with his mad vgas and ansis, warp will be a great
+13,01   15             00  asset to the further growth of Shaolin's Finest
+
+15,01   13Towser15       00- a relatively new artist on the scene. Towser will be providing
+15,01                00  us with some of his great new school ascii styles.
+
+
+08,02 D I S T R O   B O A R D S
+
+00,01   Please note that the Shaolin's Finest WHQ is no longer Midian, it has now 
+00,01changed to Decay BBS. I would like to thank Wolverine, the sysop of Midian, for
+00,01providing us a temporary world headquarters and for all the support with the
+00,01promotion of our first pack. The reason for this change is that Midian is a very

@@ -1,0 +1,80 @@
+15,01iCE -                                                                      - iCE
+
+
+
+15,01iCE -                   "What's New" in iCE Recently.                      - iCE
+
+
+
+15,01iCE -                                                                      - iCE
+
+
+
+
+
+15,01  1.    Hey whats up, Metal Head here.  Putting together the iCEPACK yet
+15,01      again.  Well let's see what kind of news there is in iCE this Month.
+
+15,01  2.    On a sad note LiQUiD iMAGE has decided to leave his illustrious career
+15,01      in ANSI Art.  In my humble opinion though, he'll be back.  In the
+15,01      summer probably.  Well here is his text file which he included with his
+15,01      "last ANSI" :)...
+
+15,01                                    Final Word.
+
+15,01  You guys that are reading this might wonder why the end of the ansi
+15,01    said that it was my last one of my career.  Well frankly it is.  I have
+15,01    came to a hard decision, I have decided that I am ending my career as an
+15,01    artist.  This means that I dont want people calling me up in the middle of
+15,01    the night and trying to grab an ansi off me for free.  I'll still be on
+15,01    some boards just doing messages.  Anyways, I think that iCE will do just
+15,01    fine without the input of my artwork.  So from now on I don't want to be
+15,01    bothered by ANY BODY about ansis.
+
+15,01    Greets: Denizen
+15,01            Tempus Thales
+15,01            Golgotha
+15,01            Infernal Majesty
+15,01            & Staff of AOM.
+
+15,01               Thanks to all the people that made my career great.
+15,01                               Best wishes to iCE
+15,01                     Someday I might come back to the scene.
+
+15,01               LiQUiD iMAGE (iCE)
+
+15,01                  This was written and completed on the 26/10/93
+
+15,01  3.    We have 2 ANSI artist who have switched over to the VGA side of the
+15,01      group.  The first of these is Eternal Darkness.  He has been doing
+15,01      VGA's and Mod's for a while now.  But he has decided to go at it full
+15,01      time.  Most likly a blessing in desguise.  I've seen some of his
+15,01      unreleased work and it is much better then his earlier VGA's.
+15,01      With him devoting all his time to VGA he could be another Pixel :) heh.
+15,01        The other artist is Danzig, he as well is very talented in the area
+15,01      so watch for his releases (He has one in this pack).
+
+15,01  4.  iCE has come out with yet ANOTHER ansi viewer :)  This one is called
+15,01      K-View/Krystal View the file name is KV.exe.  Check it out.  It has
+15,01      a few thing in it that no others do.  Such as 320x200 VGA mode for
+15,01      ANSI's which in my opinion looks better then 640x480.  Plus as well
+15,01      as viewing 80x25 line mode ANSI's in VGA Mode, it views 80x50 Line
+15,01      mode ANSI's in VGA Mode.  It's and great viewer.
+
+15,01  5.  Among the new artists that we have gotten this month is Black Sabbath.
+15,01      He is getting better and better with each ANSI.  And will be VERY good
+15,01      as time progresses.  We also have aquired R0nin a contribution to our
+15,01      literature section, he is more of an evil, pessimistic writer.
+
+15,01  6.  A new version of iCEColor, v1.3 has been released and is in this pack.
+15,01      It fixes all errors that we could find with v1.0.  It's also has
+15,01      some Library files to help with iCEColor detect in other programs, etc.
+
+
+15,01                                                       - Metal Head [iCE] Staff
+15,01                                                           metalhed@phantom.com
+
+
+
+15,01  Greets to:  Lord Michief - Money... Huh-huh
+15,01              Night Shade  - Kewl d00d

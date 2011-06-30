@@ -1,0 +1,32 @@
+
+15,01            /_ _  _____     ______ _ __  _ _____   ___  _ ___ /
+15,01           %/          \         /  /        \      \       /%
+15,01          //            \     __/__/   _     \\      \     //______
+15,01         /     \____/    \    _)\  \_//    ___\   z   \   //_\    /%
+15,01     < <<     __|  |__               /     \                     //
+15,01         \     \____/   __________  /___    \     I____          /
+15,01  .  . ...\_____\../_____/......\__/....\___/_____/...\_________/... .  .
+
+15,01            b         a         b          b         l         e
+
+15,01----------------------------------------------------------------------------
+
+15,01         hi. my name is son of sam. I decided to give ascii a try.
+15,01         the main reason why I wanna draw ascii is to get a local
+15,01         board up real soon, 'cause I miss local boards, and well,
+15,01         we've never had an ascii board in these parts (central
+15,01         819) and I thought it'd be cool to have something different
+15,01         for once, and something that doesn't take forever to display.
+15,01         of course, my style sucks, and I'm gonna experiment a little,
+15,01         prolly in oldschool, 'cause I want my board to be portable,
+15,01         so I don't wanna use hi-ascii (just a momentary thought, not
+15,01         an all-life politic). what I like about ascci is that even a
+15,01         lazy fuck like me can experiment, and you can experiemnt a
+15,01         lot on each logo. something else I wanna try is using old
+15,01         graphism techniques with ascii, not just the new "hip" art
+15,01         of the streets. imagine a logo inspired by the pre-war german
+15,01         school ;).
+
+15,01                                        - son.
+15,01>SAUCE00                                   Son of Sam          rev.dk           
+15,01   19970818i*  @ P A                             

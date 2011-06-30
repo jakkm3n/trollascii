@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :       May Update *      June 15th, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0696.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0696 ANS |  44969 |06.15.96 |%+   | June Member/Site Listing       |
+15,01*|2  |ACIDAPP  EXE |  45178 |02.27.96 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW DAT | 125438 |06.01.96 |%    | ACiD View BGI/RIP font data    |
+15,01*|4  |ACIDVIEW EXE |  72023 |06.01.96 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  51319 |06.01.96 |%+   | ACiD View Documentation        |
+15,01*|5  |ASC0696  ASC |  62827 |06.01.96 |%+   | ACiD logocluster #14 (06/96)   |
+15,01*|6  |BG-NAID1 GIF | 135807 |06.01.96 |%    | You Too Can Be A Gfx Dude!     |
+15,01*|7  |BN-ACID1 GIF | 215847 |06.15.96 |%    | ACiD Advo                      |
+15,01*|8  |BS-TWST1 ANS |  26437 |06.01.96 |%+   | Twisted Society                |
+15,01*|9  |CB-ACHRN GIF | 202508 |06.01.96 |%    | Acheron                        |
+15,01*|10 |CS-ANKH2 GIF | 208424 |06.01.96 |%    | Ankh Advo                      |
+15,01*|11 |CS-ARAC1 GIF | 191505 |06.01.96 |%    | Arachne                        |
+15,01*|12 |CS-LIQU1 GIF | 176443 |06.01.96 |%    | Liquid Dreams                  |
+15,01*|13 |CT-AOS   ANS |  35969 |06.01.96 |%+   | Altar of Sacrifice             |
+15,01*|14 |DG-BTH   RIP | 121136 |06.15.96 |%    | Beyond The Horizon             |
+15,01*|N/C|FILE_ID  DIZ |    562 |06.01.96 |%    | Acquisition FILE ID by {AY}    |
+15,01*|15 |IF-STILL ANS |  16534 |05.01.96 |%+   | Stillborn                      |
+15,01*|16 |JD-SUCCO ANS |  15908 |06.01.96 |%+   | Succotash                      |
+15,01*|17 |KH-PIR2  ANS |  81604 |06.15.96 |%+   | Piranha (Anscii)               |
+15,01*|18 |KO-AVATA GIF | 202863 |06.01.96 |%    | Kosh's Avatar                  |
+15,01*|19 |KO-NAID1 GIF |  63864 |06.01.96 |%    | Count Zero Interrupt           |
+15,01*|20 |NEWS0696 ANS |  46275 |06.15.96 |%+   | ACiD Newsletter Issue #12      |
+15,01*|21 |PH-SUCCO ANS |  21981 |06.01.96 |%+   | Succotash                      |
+15,01*|22 |PR-LORE  GIF | 133799 |06.01.96 |%    | LORE Magazine Promo            |
+15,01*|23 |RA-MAGNO ANS |  51012 |06.01.96 |%+   | Magic Node                     |
+15,01*|24 |RA-SUCCO ANS |  59765 |05.27.96 |%+   | Succotash                      |
+15,01*|25 |RA-TP1   ANS |  64461 |05.15.96 |%+   | Territorial Pissings           |
+15,01*|26 |RC-MORBD ANS |  47408 |05.06.96 |%+   | Morbid Pleasures               |
+15,01*|27 |SA-DEMNC GIF | 117867 |06.01.96 |%    | Demoniac                       |
+15,01*|28 |SB-FREE  ANS |  39956 |06.01.96 |%+   | Free Coke                      |
+15,01*|29 |SB-GOMO  ANS |  14048 |06.01.96 |%+   | Gomorra                        |
+15,01*|30 |SH-ACID  RIP |  22286 |06.01.96 |%    | ACiD Advo                      |
+15,01*|31 |SI-ACID1 ANS |  75020 |06.01.96 |%+   | ACiD Advo                      |
+15,01*|32 |SI-CDI1  ANS |  21064 |06.01.96 |%+   | CDI                            |
+15,01*|33 |SX-SADIS BIN |  32769 |06.01.96 |%+   | Sadistic Temptations           |
+15,01*|34 |TH-ACID2 GIF | 161137 |06.01.96 |%    | ...gonna lick it?              |
+15,01*|35 |TH-FISH1 GIF | 191431 |06.01.96 |%    | Abstract Fish                  |
+15,01*|36 |US-XPAK3 GIF | 183693 |06.01.96 |%    | Blatant XPAK Advo              |
+15,01*|37 |WE-WILL  SUE |   1531 |06.01.96 |%+   | ACiD Legal Disclaimer          |
+15,01*|38 |ACDU0696 NFO |   6501 |06.15.96 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |

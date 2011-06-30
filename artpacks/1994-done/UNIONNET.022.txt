@@ -1,0 +1,80 @@
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - The OFFICIAL Union ONLY Network - Compiled 11/01/94 - v022
+15,01;----------------------------------------------------------------------------
+15,01;
+15,01; Current Nodelist Co-Ordinator: Neurotic
+15,01;
+15,01;       What's New:  Poll or be removed
+15,01;                  - non-member/site boards can now join the net so long
+15,01;                    as there is a member who FREQUENTLY calls your board
+15,01;                    and will vouch for you
+15,01;       214        - Removed CDi
+15,01;                  - Added Line of Fire
+15,01;       215        - Removed Reversed Utopia
+15,01;                  - Added Cyber Force
+15,01;       216        - Reworked entire area
+15,01;
+15,01Zone,193,Flatlined_Reality,uNIONrULEZ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42
+15,01,v42b,*
+15,01;
+15,01;
+15,01Region,214,Flatlined_Reality,World_Hub,Neurotic,1-613-824-7375,9600,CM,XA,v32,v4
+15,012,v42b,*
+15,01,1,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v42b,*
+15,01;2,Line_Of_Fire,Member_Board,AcidFlash,1-819-669-1685,9600,CM,XA,v32,v42,v42b,*
+15,01,3,Syndication-X,Member_Board,The_Temperate_Hijacker,1-609-467-3573,9600,CM,XA,v
+15,0132,v42,v42b,*
+15,01,4,Altered_Sanity,Member_Board,Raze,1-705-670-9452,9600,CM,XA,v32,v42,v42b,*
+15,01;
+15,01;
+15,01Region,215,Harvest_Moon,Eastern_Hub,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42
+15,01b,*
+15,01; Polling off of 193:214/0
+15,01,1,Harvest_Moon,East_HQ,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42b,*
+15,01; Pack for 193:216/1, not 193:216/0.. Qur'an's just weird or something :)
+15,01;2 is free
+15,01,3,Eternal_Insanity,US_Dist,MindCrime,1-908-224-8750,9600,CM,XA,v32,v32b,v42b
+15,01;4,Realm_of_Anarchy,Member_Board,Cyric,1-313-282-1250,9600,CM,XA,v32,v32b,v42b,*
+
+15,01;5,Cyber_Force,Member_Board,Cybernary,1-804-482-5667,9600,CM,XA,v32,v32b,v42b,*
+15,01,6,Realm_Of_Insanity,Member_Board,God_Speed,1-203-568-1502,9600,CM,XA,v32,v32b,v
+15,0142b,*
+15,01;7 is free
+15,01,8,Edge_Of_Darkness,Member_Board,Terminally_Nothing,1-301-898-0882,9600,CM,XA,v3
+15,012,v42,v42b
+15,01;
+15,01;
+15,01Region,216,Terra_Firma,Western_Hub,Somms,1-714-963-4851,9600,CM,XA,v32,v32b,v42b
+15,01,*
+15,01; Polling off of 193:215/1
+15,01,1,Terra_Firma,Temp_Western_HQ,Somms,1-714-963-4851,9600,CM,XA,v32,v32b,v42b
+15,01,2,Packaged_Rebellion,US_HQ,Mass_Delusions,1-408-246-0281,9600,CM,XA,v32,v42,v42
+15,01b,*
+15,01,3,Malicious_Insanity,Member_Board,Bishop,1-714-631-3355,9600,CM,XA,v32,v32b,v42
+15,01b,*
+15,01,4,Exiled_Race,Western_HQ,KooL,1-714-527-0327,9600,CM,XA,v32,v42,v42b,*
+15,01;
+15,01;
+15,01Region,217,Despair_2,Central_Hub,Usul,1-708-301-2948,9600,CM,XA,v32,v32b,v42b,*
+15,01; Polling off of 193:215/1
+15,01,1,Despair_2,Northern_HQ,Usul,1-708-301-2948,9600,CM,XA,v32,v32b,v42b,*
+15,01,2,Jello_Insanity,Central_HQ,#28,1-708-420-0587,9600,CM,XA,v32,v32b,v42b,*
+15,01;
+15,01;
+15,01;
+15,01;
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - Echo_Tags
+15,01;-----------+-------------------------+--------------------------------------
+15,01; Echo_Name | Echo_Description        | Access Given To:
+15,01;-----------+-------------------------+--------------------------------------
+15,01; UNi_GEN   | General Discussion      | All Sites / All Users
+15,01; UNi_DISC  | Union Discussion        | All Sites / All Users
+15,01; UNi_REQ   | Union Requests          | All Sites / All Users
+15,01; UNi_AD    | BBS Advertisements      | All Sites / All Users
+15,01; UNi_ANS1  | Union Ansi Displays     | All Sites / All Users
+15,01; UNi_MEM   | Union Members Only      | Member Boards / Members ONLY!
+15,01; UNi_ANS2  | Union Ansi Private      | Member Boards / Members ONLY!
+15,01; UNi_SIT   | Union Sites Only        | All Sites / SysOp + 1 Drop to Dos Co
+15,01; UNi_TEST  | Test Messages           | All Sites / Site SysOps Only
+15,01;-----------+-------------------------+--------------------------------------

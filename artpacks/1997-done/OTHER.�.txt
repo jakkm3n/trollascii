@@ -1,0 +1,55 @@
+15,01                College Seniors vs. Freshmen
+15,01               ==============================
+15,01Freshmen:  Are never in bed past noon.
+15,01Seniors:   Are never out of bed before noon.
+15,01Freshmen:  Read the syllabus to find out what classes they can cut.
+15,01Seniors:   Read the syllabus to find out what classes they need to
+15,01           attend.
+15,01Freshmen:  Brings a can of soda into a lecture hall.
+15,01Seniors:   Brings a jumbo hoagie and six-pack of Mtn. Dew into a
+15,01           recitation class.
+15,01Freshmen:  Calls the professor "Professor."
+15,01Seniors:   Calls the professor "Bob."
+15,01Freshmen:  Would walk ten miles to get to class.
+15,01Senior:   Drives to class if it's further than three blocks away.
+15,01Freshmen:  Memorizes the course material to get a good grade.
+15,01Seniors:   Memorizes the professor's habits to get a good grade.
+15,01Freshmen:  Knows a book-full of useless trivia about the university.
+15,01Seniors:   Knows where the next class is.  Maybe...
+15,01Freshmen:  Shows up at a morning exam clean, perky, and fed.
+15,01Seniors:   Shows up at a morning exam in sweats with a cap on and a
+15,01           box of pop tarts in hand.
+15,01Freshmen:  Have to ask where the computer labs are.
+15,01Seniors:   Has 'own' personal workstation.
+15,01Freshmen:  Use the campus buses to go everywhere.
+15,01Seniors:   Use the campus buses to run block while crossing
+15,01           the street.
+15,01Freshmen:  Worry about the last freshman composition essay.
+15,01Seniors:   Worry about the last GRE essay.
+15,01Freshman:  Lines up for an hour to buy his textbooks in the
+15,01           first week.
+15,01Senior:    Starts to think about buying textbooks in October...
+15,01           maybe.
+15,01Freshman:  Looks forward to first classes of the year
+15,01Senior:    Looks forward to first beer garden of the year
+15,01Freshman:  Is proud of his A+ on Calculus I midterm
+15,01Senior:    Is proud of not _quite_ failing his Complex Analysis
+15,01           midterm
+15,01Freshman:  Calls his girlfriend back home every other night
+15,01Senior:    Calls Domino's every other night
+15,01Freshman:  Is appalled at the class size and callousness of profs
+15,01Senior:    Is appalled that the campus 'Subway' burned down over
+15,01           the summer
+15,01Freshman:  Conscienciously completes all homework, including optional
+15,01           questions
+15,01Senior:    Offers to 'tutor' conscientious frosh of opposite sex...
+15,01Freshman:  Goes on grocery shopping trip with Mom before moving onto
+15,01           campus
+15,01Senior:    Has a beer with Mom before moving onto campus
+15,01Freshman:  Is excited about the world of possibilities that awaits
+15,01           him, the unlimited vista of educational opportunities, the
+15,01           chance to expand one's horizons and really make a
+15,01           contribution to society
+15,01Senior:    Is excited about new dryers in laundry room
+15,01Freshman:  Takes meticulous four-color notes in class
+15,01Senior:    Occasionally stays awake for all of class

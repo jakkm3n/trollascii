@@ -1,0 +1,22 @@
+15,01KitschNet Info File v.008
+
+15,01        KitschNet is the official network of Mistigris. It is an
+15,01international art related network with nodes in East and West Canada,
+15,01as well as parts of the United States. To join KitschNet fill out an
+15,01application form using KITSCHAP.EXE and upload the application to the places
+15,01listed below, or any KitschNet Hub you are on, or, look for a member on IRC.
+
+15,01        Daemon's Gate
+15,01        SysOp: Mavrik
+15,01        (604)948-0363
+15,01        KitschNet WHQ
+
+15,01        The Screaming Tomato
+15,01        SysOp: Nitnatsnoc, Cthulu
+15,01        (604)430-8805
+15,01        Mistigris WHQ
+
+15,01        The Sarcastic Toaster
+15,01        SysOp: Eerie
+15,01        (418)849-0121
+15,01        KitschNet West Canada Hub

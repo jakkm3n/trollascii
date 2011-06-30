@@ -1,0 +1,53 @@
+00,01. HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 .
+00,01--------------------------------------------------------------------------------
+
+15,01      00. HEAT #04: Highly Experienced Artist Talent .
+00,01--------------------------------------------------------------------------------
+
+00,01. HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 . HEAT #04 .
+
+00,01    Whoa! You never thought you'd see the day come, did you? Well, here it is,
+00,01HEATWave Packet #04. This is a great looking pack, probably excelling the
+00,01previous month's packet. Well, I have decided to discuss the issue of what it's
+00,01like trying to compile a nice looking set of ten or more ANSi's by myself. At
+00,01the same time, I had to balance a fifteen people/board waiting list. Sounds
+00,01easy, eh?  Well, it's sure as hell not.  That is probably the reason why the
+00,01HEAT packets are not going to be released on a "set" basis. Things are about to
+00,01change, however, a handful of  asmall New Jersey group, (201), called
+00,01Independence. This will hopefully take care of most of the delays and add a new
+00,01perspective to the group.  Here's a list of the new members joining, not
+00,01necessarily in any order:
+
+00,01Boom-Boom: ANSi Artist
+00,01Cyberstorm: Courier
+00,01Major Pervert: ANSi/VGA
+00,01Toad: ANSi Artist
+00,01Cool Guy: VGA
+00,01Fryar Tuck: Coder (C . C++ . Assembly)
+00,01Dark Deception: ANSi Artist
+00,01Lucid Nightmare: Composer
+00,01Eclipse: VGA/Coder (Pascal)
+
+00,01    On a sad note, HEAT will be dropping nearly all of its "sites" to develop
+00,01a more controlled, closed system. This should hopefully develop a much easier
+00,01and more efficient way to receive contributions and application for HEAT. For
+00,01all who helped to support us, we regret to inform you that there will be only
+00,01-ONE- HEAT site per Area Code, known as "OutPosts.." Unfortunately, we were
+00,01not able to release a site list due to close to no organization by ex-SS
+00,01member Bishop, who has now been retired to founder. PLEASE, all sites
+00,01call and leave feedback to QuR'aN on either Harvest Moon (SysOp), or 
+00,01Black Earth (HEAT WHQ)..
+00,01    Finally, our HEAT World Headquarters, formerly known as Legion of Doom has
+00,01changed it's name to "Black Earth" due to the recent conflict between
+00,01an "out of (216)" board with the same name.. :( Also, HEAT has now dropped
+00,01the high ascii characters, 'E' and 'A' with normal, capital letters. Please
+00,01make appropriate changes.
+00,01    Be sure to give Black Earth a call at: 216-646-1250. Also, for all
+00,01of the latest news on HEAT and new packs, call the courier headquarters
+00,01Harvest Moon at: 216-951-7059. For the NUP leave E-Mail to Bishop, Magnus, 
+00,01or QuR'aN on any HEAT board or through the many nets that help to support us:
+00,01     Valiant . CyberCrime International . Shadow . StormWatch . Impact
+
+15,01       00Magnus.HEAT President
+15,01       00Bishop.HEAT President
+15,01       00QuR'aN.Coordinator

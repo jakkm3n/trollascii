@@ -1,0 +1,61 @@
+
+15,01                                    mmmm                 m00@14,15 # 15,01#m
+15,01    "14,15  # 15,01m             m14,15#15,01#00@14,15 15,01"     m14,15#15,01##14,15#15,01#14,15 15,01#m   mm         14,15#15,01#14,15 15,01" "##
+15,01     "14,15  # 15,01m           m14,15 15,01#14,15#15,01#"      14,15 00,01@15#"  "#14,15 15,01 "14,15 #00,01@15#m       14,15  15,01#    #00@
+15,01      "14,15 # # 15,01m       m#00@14,15#15,01#14,15 15,01"        00@15#m   "    14,15#00,01@@@15m      #00@14,15 15,01    14,15##
+15,01        14,15 00,01@15##00@15m  m  m14,15 15,01#00@14,15# 15,01   mmmm   ##14,15 15,01        "00@14,15#00,01@14,15 15,01m     00@15#14,15 15,01m m14,15 #
+15,01        "#14,15#00,01@14,15#15,01#m14,15#15,01"14,15 15,01m14,15 00,01@15#00@15#" m##""14,15#15,01#00@15  00@14,15#00,01@15        "#00@14,15# 15,01m    "14,15#15,01#00@14,15# 15,01"
+15,01          14,15 # 15,01#14,15#15,01" "14,15 #00,01@15##  00@@15#    #00@14,15#15,01 m14,15#15,01#00@15m       "#00@14,15# 00,01@15mmmmm
+15,01           14,15 # 15,01"   "14,15 #15,01#    "##mm#00@15"               14,15 15,01#00@14,15 # 15,01#14,15 #  
+15,01                            """"
+
+15,01      ----- Works Of Really Lavish Design application form -----
+
+15,01      If you are interested in joining this awesome group, fill out your
+15,01  vitals in the spaces below.
+
+15,01  ---- Alias     -
+15,01  ---- Real name -
+15,01  ---- Age       -
+15,01  ---- Address   -
+15,01  ---- Phone #   -
+15,01  ---- E-Mail    -
+15,01  ---- Do you make/draw - <Tick 2 at least>
+
+15,01                        -- ANSIs                   [ ]
+15,01                        -- Graphics (GIFs or JPGs) [ ]
+15,01                        -- Graphical Animations    [ ]
+15,01                        -- Warcraft 2 PUDs         [ ]
+15,01                        -- Doom 1 WADs             [ ]
+15,01                        -- Doom 2 WADs             [ ]
+15,01                        -- Heretic WADs            [ ]
+15,01                        -- BBS Mods (any software) [ ]
+15,01                        
+15,01     There, you got past the easy part.. :P With this application form
+15,01  you must submit at least THREE works from the above list... Meaning you
+15,01  can have 2 of 1 type, and at LEAST 1 of another type... This is to ensure
+15,01  that you can create a variety of types... Not all ansis, nor all PUDs, etc.
+15,01  Three files, at least two types...
+15,01  
+15,01     You must be able to submit at least THREE pieces of work (doesn't matter
+15,01  what type) once a month... Pure Massacre and I (Pender) will be collecting
+15,01  everyone's uploads no later than the 29th of each month, to be released on
+15,01  the first of each month.. People who do not submit their works by the 29th
+15,01  of any given month will be out of the group, pending a decent reason for
+15,01  tardiness :) (PENDing, TARdiness ;)... This is to simply ensure that people
+15,01  aren't mooching off the group's good name while not participating in the
+15,01  actual work...
+
+15,01     ZIP all files together and upload it to TAR at (709)579-1925... Label the
+15,01  file your first two initals, a dash, then WRLD... So it looks like (for Pure
+15,01  Massacre) PM-WRLD.ZIP... This is so we know it's the application form...
+15,01  (If you've gotten this off the internet you can upload your application
+15,01  to me through e-mail at crazypender@geocities.com)...
+
+15,01     For joining this group you get prestige, and the knowledge that you're
+15,01  doing something which makes people happy.. :) There will perhaps also be
+15,01  a set of get togethers for the group members, depending on interest in such
+15,01  activities..
+
+15,01Rulers of WORLD,
+15,01Pure Massacre & Pender

@@ -1,0 +1,33 @@
+15,01                      iNSANiTY Corporate Network Rules
+
+15,01     o To carry ANY of the private bases the board must be run by an iCE
+15,01        member.
+
+15,01     o Each board is expected to poll ATLEAST 5 times per week,
+15,01        exceptions will be made with consent of xerobe.
+
+15,01     o All bases denoted PRIVATE must be made so, meaning ONLY iCE
+15,01        members should have access to these bases.
+
+15,01     o All information/discussions held in iCN are strictly for iCE
+15,01        members, no exceptions.
+
+15,01     o If requested any board should be willing to HUB for another board
+15,01        as the case may arise.
+
+15,01     o There shall be no internal wars in iCN, it defeats the point of
+15,01        the net.
+
+15,01     o Understand COMPLETELY, the info file, and abide ALL rules therein.
+
+15,01     o Make sure that your users save their ansi screens for fido format,
+15,01      (ie: save length should about 78).
+
+15,01     o If any staff member requests that ANY user is to removed from iCN
+15,01       it is required by the SysOp to do so immediately.
+
+15,01     o It is the SysOp's responsibility to review each message before
+15,01       it is packed and for messages, below quality to be purged.
+
+15,01    
+15,01     - Rules maybe added as needed over iCN or in each update.

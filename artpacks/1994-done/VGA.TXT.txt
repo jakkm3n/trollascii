@@ -1,0 +1,5 @@
+
+15,01Okay, folks, here's a text update for the VGA files included in this pack
+15,01You need to rename all the .GiF files back to their original .LBM titles
+15,01to view them if you're not using Cshow.  It's my fuck up, so sue me if I
+15,01like .GiF extension better than the .LBM extension.  ;)

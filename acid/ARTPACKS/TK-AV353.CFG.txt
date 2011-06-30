@@ -1,0 +1,7 @@
+15,01ACID ANSi VIEWER CONFIGURATION FILE
+15,01       WRITTEN BY TANK
+
+15,01Program Mode [25/50]
+15,0150
+15,01Extended ANSi Information [Y/N] {leave N will abort program after 15 ANSi's}
+15,01N

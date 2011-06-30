@@ -1,0 +1,19 @@
+15,01           _______                                            _______
+15,01           \_:*:_/ request for tOcOnt: zyzo of are you sure?  \_:*:_/
+15,01            ~~~~~                                              ~~~~~
+
+15,01                  __________________________________________
+15,01                  \_____  \_____  \_____  \______ \   _____/
+15,01                   |    \  \    \  \    \  \    /  \____  \
+15,01                   |     \  \    \  \    \  \   ___/    \  \
+15,01                   |    _/   \  \/   \  \/   \      \   /   \
+15,01                   |___       \______/_______/__:    \______/
+15,01        :~~~~~~~~~~~~~~\______/~~~~~~~~~~~~~~~tz!____/~~~~~~~~~~~~~~~~~:
+15,01        :                                                              :
+15,01        :  news - system news             resume - resume upload       :
+15,01        |  lang - language               request - request a file      |
+15,01        |  sent - change your uploaded    select - select conf to scan |
+15,01        |           by string                        for mail          |
+15,01        :   bbs - bbs list                  test - test a file         :
+15,01        :                                    qwk - download qwk packet :
+15,01        :__ ___ _____ ______ _______  ____  _______ ______ _____ ___ __:

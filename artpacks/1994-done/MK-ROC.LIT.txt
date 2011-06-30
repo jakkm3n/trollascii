@@ -1,0 +1,41 @@
+15,01                             00Rulers of Chaos
+
+15,01         00The storm swirled and snarled outside, but he sung of gods paid no
+00,01heed   His long curtain of raven-jet hair curled at the corners of his cynic's
+00,01face  He and all else, knew that he stood alone  Then again there was the
+00,01screaming, meaningless procession called life to keep him company  He
+00,01grinned at the attempts of architects, attempting to make perfect geometries of
+00,01sides and volume, attemptin  to stave off the incurable  All was formless,
+00,01meaningless  An honest man has just as much chance being right as he does
+00,01of being wrong  But he embraced what others faced blindly, unknowingly
+00,01He used it to his advantage  a ruler of chaos
+15,01         00How ironic  the next to join him a paragon of purity   t'was he who
+00,01touched the Holy Grail when all others failed, even the great Launcelot Du
+00,01Lake  Yet, how fitting, for he sung of gods knew that though he embraced the
+00,01chaos, he could not tell it where to lay and eddy  A slow grin crept across
+00,01his chapped lips as fair paragon's alabaster armor shone like spots of
+00,01white-flashing sulfur  His helmet framed his smooth and unmarred features
+00,01like an eagle's crest  paragon's grin was one of pure empathy and consideration,
+00,01foiling the other's sarcasm and cynicism  But both grinned nonetheless, and
+00,01allied  a ruler of chaos
+15,01         00A black feathered fowl of yore aawked off at the horizon's edge  It
+00,01seemed feral brown animal, a weasel, had hissed and stared and held him at
+00,01impasse  The bird bared the tiny ridge of sharp nubs on its beak as its dander
+00,01and neck-feathers flared open and it aawked louder and more rhythmically  It
+00,01was only a matter of scant moments before the brown-furred creature darted its
+00,01retreat, its eyes pin-prick red and hateful, and a sick, dying hiss escaping
+00,01from its curled maw  The large black-feathered waterfowl flapped hard thrice
+00,01and glided with determined effort onto a cushion of air, then sailed with
+00,01ease over to the first two rulers  Aawk  He was gladly accepted  They became a
+00,01focus of three, ringed in rank and purpose  a ruler of chaos
+
+15,01         00SO CAME THE FIRST THREE
+
+15,01        00[Boomed the senile elder]
+
+15,01         00ON MORROW NIGHT I'LL TELL YE OF THE OTHERS
+
+15,01        00[The assemblage disperses]
+
+15,01>SAUCE00Rulers Of Chaos                    Marduuk             READ THE INI FILE
+15,01   19940929+   @@P v                             

@@ -1,0 +1,36 @@
+15,01the label on the record
+15,01VINYL
+15,01on the record player
+15,01ANCIENT
+15,01goes around
+15,01SPINNING
+15,01I'm watching it
+15,01SEE
+15,01it's making me dizzy
+15,01SICK
+15,01I think I'm going to vomit
+15,01PUKE
+
+15,01Then I stop
+15,01     I listen to the music
+15,01           to the rhythms
+15,01                 the rhythms that make my mind feel
+15,01                                            I feel too
+15,01                                            I wish I could feel you
+15,01                                                         I miss you
+15,01                                                         I remember you
+15,01                                                    do you remember me?
+15,01                                         I hope you do
+15,01                                 because I think I loved you
+15,01                                         I think too
+15,01                                                 too much
+15,01                                                     mush
+15,01                                                    slush
+15,01                                                    flush
+15,01                                                         down the drain
+15,01                              ONLY TO SEE
+15,01                                 YOUR
+15,01                              EYE'S THERE
+
+15,01>SAUCE00Record                             Candide             MiSTiGRiS        
+15,01   19941118+x  @@P v                             

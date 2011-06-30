@@ -1,0 +1,34 @@
+15,01###############################################################################
+15,01iCEView Bug Report
+15,01###############################################################################
+
+15,01Please email this form to "friar@netcom.com" or dcc it
+15,01to Friar (sparkssc@*.alfred.edu) when you find bug reports.
+
+15,011. Version of iCEView you're using:   ________
+
+15,012. What type of bug:
+15,01      [ ] Main Menu   [ ] ANSI Reading   [ ] ANSI Display   [ ] BIN Display
+15,01      [ ] IDF Display [ ] GIF Display    [ ] Other
+
+15,013. Describe the bug:
+
+
+
+15,014. Do you have any ideas what might have caused it?
+
+
+15,015. Describe your computer.
+
+15,01  CPU Make and Speed:
+15,01  Memory:
+15,01  EMS Driver (qemm, emm386):
+15,01  DOS Version:
+15,01  Running Desqview?
+15,01  Video card:
+15,01  Mouse type:
+15,01  Mouse driver version:
+
+15,016. Please attach/zip up the offending artwork (if any.)
+
+15,01thanks.. -FT

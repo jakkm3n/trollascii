@@ -1,0 +1,80 @@
+15,01do_words proc                           ;====================================;
+15,01        add cs:[ltrptr],2               ;ndle monocolor fonts, by dealing    ;
+15,01        cmp cs:[ltrptr],10              ;o the color font format, which is   ;
+15,01        jne dw01                        ;ram was originally designed to do   ;
+15,01        mov cs:[ltrptr],0               ;ideways <wierd..> Anyway, I had to  ;
+15,01        call do_next_char               ; fairly quick.                      ;
+15,01dw01:   mov bx,cs:[ltrptr]              ;====================================;
+15,01        mov ax,word ptr cs:letdat[bx]   ;
+15,01        mov di,word ptr cs:letadr[bx]   ;
+15,01        mov bx,ax                       ;
+15,01        call do_char                    ;
+15,01        ret                             ;
+15,01do_words endp                           ;
+15,01        ;-------------------------------;
+15,01        ; Da Words.                     ;
+15,01        ;                               ;
+15,01        ; Text by Syntax Error.         ;
+15,01        ;---------------------------------------;
+15,01        ;                                       ;
+15,01        ; '~' means move cursor, but dont       ;
+15,01        ;       plot. Aligns text correctly.    ;
+15,01        ;                                       ;
+15,01        ; 13,?? means next line, offset next    ;
+15,01        ;       line by ?? bytes. -1 is standard;
+15,01        ;       3 is to center.                 ;
+15,01        ;                                       ;
+15,01        ; '|' means to clear the screen.        ;
+15,01        ;                                       ;
+15,01        ; Zero restarts the text.               ;
+15,01        ;---------------------------------------;
+15,01wrds    db      13,-1,13,-102           ;
+15,01        db      '~~~~~~~~~~~~~~~~THE POWERGRID'                 ,13,-1
+15,01        db      '         PHONE NUMBER: 1-813-278-3680'         ,13,3
+15,01        db      ' STAFF: GRIDRUNNER, SYNTAX ERROR, AND COWBOY'  ,13,-1
+15,01        db      '~~~VISION/2 0.85B REGISTERED SITE.. NO NUP'    ,13,3
+15,01        db      '~~~~~~~USR 16.8 DUAL AND A GIG STORAGE       |',13,-1
+15,01        db      '      THE ULTIMATE DEMO/ART EXPERIENCE!'       ,13,-1
+15,01        db      '    WE SUPPORT THE FOLLOWING DEMO GROUPS:'     ,13,-1
+15,01        db      13,-1                   ;
+15,01        db      ' AVALANCHE WORLD HQ AND DIST APPLICATION HOME' ,13,-1
+15,01        db      '~LEINAD FAN CLUB HOME AND WORSHIPPING GROUNDS     |',13,-1
+15,01        db      '   US HEADQUARTERS FOR THE FOLLOWING GROUPS '  ,13,-1
+15,01        db      '~~FUTURE CREW,DUST,SHADOW FACTION,TEI,IGUANA'  ,13,-1
+15,01        db      '~~PSYCHIC MONKS,PENTAGON,DARKZONE,GOLLUM AND'  ,13,3
+15,01        db      '~~~~~~~~~~~~~~~~PHANTOMDESIGN'                 ,13,3
+15,01        db      '~~~~~~~~~~~~~~      ~~~~~~~~~~~~~~~~~~~~~~~~|' ,13,3
+15,01        db      '   WE ALSO SERVE AS DISTRIBTION SITES FOR:'    ,13,3
+15,01        db      'THE SILENTS PC * SURPRISE! PRODUCTIONS * VLA'  ,13,3
+15,01        db      'ELECTROMOTIVE FORCE * TWILIGHT ZONE * ADMIRE'  ,13,3
+15,01        db      '~~~IGUANA * EXTREME * AARDVARK * XOGRAPHY'     ,13,-1
+15,01        db      '~~~~~~~~~RENAISSANCE * MENTAL DESIGN     |'    ,13,-1
+15,01        db      '    WE SUPPORT THE FOLLOWING ANSI GROUPS:'     ,13,-1
+15,01        db      13,3                    ;
+15,01        db      '  ~~~~~~~~~~ICE, UNION, SHIVER                 ',13,3
+15,01        db      '     |',13,-1          ;
+15,01        db      '           MAGAZINE DISTRIBUTIONS:'            ,13,-1
+15,01        db      13,-1                   ;
+15,01        db      '~~~~~!INTENSITY MAGAZINE US HEADQUARTERS '     ,13,-1
+15,01        db      '~~PULSE DEMO MAGAZINE DISTRIBUTION / POLLING     |',13,3
+15,01        db      '     INFINITY MAGAZINE DISTRIBUTION SITE'      ,13,-1
+15,01        db      '~~~~~ADRENALIN MAGAZINE DISTRIBUTION SITE'     ,13,-1
+15,01        db      '~~~~~~IRIDIUM MAGAZINE DISTRIBUTION SITE     |',13,-1
+15,01        db      '     SPECIAL THANKS TO FRIAR TUCK, PIXEL,'     ,13,3
+15,01        db      '~~~~~~~~~~PSI, AND EIGHT BALL FOR'             ,13,-1
+15,01        db      '~~~CONTRIBUTING TO THIS NICE LITTLE PACKAGE'   ,13,3
+15,01        db      'HI SOUL REBEL, EGGHEAD, AND DEEPLY DISTURBED!' ,13,-1
+15,01        db      ' HEY TEMPUS, THIS WHAT YOU WERE LOOKING FOR?     |',0
+15,01        sub al,20h                      ;
+15,01        mov cx,FONTCHARSIZE             ;
+15,01        imul cx                         ;
+15,01        add ax,cs:[wr_font_off]         ;
+15,01        mov si,ax                       ;
+15,01        pop dx                          ;
+15,01        push ds                         ;
+15,01        mov ax,cs:[datseg]              ;
+15,01        mov ds,ax                       ;
+15,01        mov ah,bl                       ;
+15,01        mov cx,8                        ;
+15,01dc00:   push di                         ;
+15,01        push cx                         ;

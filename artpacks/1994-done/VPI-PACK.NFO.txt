@@ -1,0 +1,43 @@
+15,01   m"m      m""m m"""""""m
+15,01 m"  "m   m"    14,15 15,01    |   ||        -|-[ Infos ]------------------------------|-
+15,01"m    "m m"    14,15 15,01         14,15 15,01         +|          Author 0 COMPILATION          |+
+15,01  14,15 15,01##  "m"    14,15 15,01    m""mm"          +|        Packager 0 CHARLIE X            |+
+15,01   14,15 00,01@@15##"    14,15 15,01#   14,15 15,01  14,15 15,01  ||         +|         Release 0 01 AUG 1994          |+
+15,01    14,15 #00,01@@15##  |14,15#15,01## || |14,15#15,01# 14,15 15,01          -|----------------------------------------|-
+15,01     "14,15 00,01@@15##14,15 15,01 14,15 00,01@@15#14,15 15,01   14,15 00,01@15# 14,15 15,01          .                                        .
+15,01       """"   """     """           .                                        .
+15,01-+===ViSuAl PoLLuTiON InC===+- . . -|-[ Support ]----------------------------|-
+15,01-+     AuGusT 1994 PaCk     +      +|                                        |+
+15,01 |     "^"^^" ^^^^ "^"^     |      +|     Sound 0 NONE                       |+
+15,01 +     VGA/LIT/PPE More     +-     +|  Graphics 0 ANSI/ASCII/PCB/SVGA/PCB    |+
+15,01-+===================[PACK]=+- . . -|----------------------------------------|-
+
+
+15,01-+ DESCRIPTION +---------------------------------------------------------------
+
+15,01 Here is our second release... apologies for you who waited for a July pack,
+15,01 But you'll find this pack is of higher quality, and we are exploring new
+15,01 things... This month we introduce doom WAD files by Pictorial Element, and
+15,01 some stunning SVGA graphics, some poetry and ansi work... we even threw in
+15,01 a logoff PPE for PCBoard.
+
+15,01     0 VPI would like to extend a warm welcome to our new trial members 0
+15,01                       Master of Puppets * Ansi Artist
+15,01                       Stainless Steel Rat * EXE Coder
+
+
+15,01-+ JOIN US TODAY +-------------------------------------------------------------
+
+15,01 We have positions available in all facets of the group. If you would like to
+15,01 go public with your talent, please give us a call at any of our headquarter
+15,01 or distribution sites.  If you would like to be a distribution site or a
+15,01 member of MERCURY NET (vpi net with many forums), contact any of our members
+15,01 or sites for further information.
+
+15,01                   EDGE OF DARKNESS 0 VPI WHQ 0 3o1.898.0882
+
+15,01-+ GREETS +--------------------------------------------------------------------
+
+
+15,01                     PPE Greets  *  SCUM 0 PWA 0 AL BUNDY
+15,01                 Group Greets  *  ACID . ICE . UNION . REVOLT

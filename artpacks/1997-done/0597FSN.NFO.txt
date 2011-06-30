@@ -1,0 +1,80 @@
+
+15,01           02 15          08#15                08m
+15,01  01fusion -->15         08#08,08|14,00 15,01            04mmm08|14,08 15,01 14,04  #
+15,01               04 15    08#08,08|14 14,00   08,01""15  04mmm14,04    01 14#15,01 08,08|15,01 14,04  #15,01 08 
+15,01           04#mmm14,04  #15,01 08#08,08|14 14,00 04,01 mmm14,04   04,01"""15   04|14,04  04,01|08,08|04,01|14,04  04,01|08 m08,08m
+15,01      04mmm14,04   04,01"""15  08mm08,08m14  00,01|04#13,04###15,01   08m08,08m14 14,00 00,01"08 04|14,04  04,01|08|04|13,04##04,01|08 """15  03                 08  
+15,01     04#13,04###15,01 08m15 04mm13 08"""""08,08"14 15,01 13|13,13##04,01|15 08"""08,08"14  14,00 08,01|04#13,04###04,01 13mmm01 14,04   04,01mmm15    04  15 03 08+ iz00e15      04#14,04 01 14#
+15,01     13|13,13##04,01|15 08"15 04mmm14,04 13  15,01 08|14,08  15,01 13|08,13##13,01|13,13#04,04@13#04,01mmm15 08""04#13,13###08,01#13,13##08#04,01 08#04  """13,04#04@13,13#13,01mmm15      08 mm08,08m14,00 08,01 15 04#13,04###
+15,01     13|08,13##13,01|13,13#04,04@13#04,01"""15  08mm08,08m14  08,01 08,13#13,08##13,01 08 13  04"""13,04#04@13,13#13,01mmm |08,13##13,01|08#08,08|14 14,00  00,01mm15  08#13,13##14 08,01 #15   08""08,08"14  14,00  08,01|13|13,13##13,01|
+15,01    08#13,08###08,01   mm13,08#08,01|#08,08|14    14,00 08,01#13,08###15,01 08|14,08   08,01m00mm15 08#08,13###08,01 |13,08##08,01|#08,08|14   14,00 14,08 14,00 15,01 08#08,13###08,01#13,08##14 08,01mmm15 08"""14,08 15,01 13|08,13##13,01|
+15,01    08#13,08###15,01 08,08|08,01#13,08###13,01 08#08,08|14   14,00 00,01|08#13,08#08,13#08,01|  08,08|14  14,00   08,01|#13,08###08,01#13,08###08,01   08,08|14     08,01 |13,08##08,01|#08,13##13,08#08,01"""14,08   08,01mm#13,08###08,01 
+15,01    08|08,13##08,01| 08,08|08,01#08,13###15,01 08|14,08  14,00 00,01""15 08|08,13#00#08,01| ""08,08"14  14,00 14,08 08,01 |13,08##08,01|#08,13###13,01|mm08m15 08""""15 08|13,08##08,01||13|00,13#08#08,01|15 08mm00m 08""14,08 13###08,01 
+15,01    08|08,13 00#08,01||||08,13 00#08,01| " m13mm13,08mm00,13#13,01""14,13 13,01mm08m15 08"""08,08"15,01 08|08,13##08,01||08,13 00#08,01| ""13"13,08"14,13 13,08m13,01mm08m08,13##13,08|08,01 08,08|08,01|14,13 00#08,01|#08,08|14 14,00  15,01  08|08,13##08,01|
+15,01   08     |||08,13   13,08mm"13,01""08"15      08"13""13,08"mm13,01m08mm13,08m00,13#13,08|13,01 08|08,13  08,01|15 08,08|14 08,01m00m 15 08"13""13,08"00,13#13,08|15,01 08,08|08,01#13,08|14,13 13,08|15,01 08#08,08|14 14,00  15,01 08|08,13 00#08,01|
+15,01 08          """15                  13"""14,13 08 13,08|15,01     08,08|08,01"08,08"14  14,00  15,01       08,08|08,01#13,08|14,13 13,08|15,01  08#08,08|14 
+15,01      08      15   09               15               08,08|14 00,01"15          08 15      08#
+
+
+15,01      14 15         00Fusion productions 15info file - may 1997                  
+
+
+15,01   00Hi! Im here again!
+
+15,01     The past month has gone by quickly hasnt it?
+15,01     Well i didnt get much done with the scene stuff since the last
+15,01     pack because i had loads and loads of things to do in school.
+15,01     While im writing this im also studying math, because i got a huge
+15,01     math exam later on.
+15,01     This month most of the artist with us was very lazy and didnt even 
+15,01     bother to check in to let me know they wasnt going to release anything.
+15,01     I also played the shit out of 00Ize15 while we where playing basketball
+15,01     the other day, right 00Ize15? <pure luck> <sure, thats what you always say>
+
+
+15,01   00Latest updates on the takeover issue
+
+15,01     After we took the channel several times on splits they finally
+15,01     gave after. They gave back the channel and also promised us a
+15,01     bot as our own bot is currently K-lined.
+15,01     After some members talked to a person called Shadow who was in
+15,01     the group they also agreed to change their name.
+15,01     So thats the end of that takeover.
+15,01     Well it looked so then, but now someone else has taken the channel
+15,01     from us with no reason what so ever.
+15,01     Guess we have to deal with another lame takeover.
+15,01     I dont see the fun in taking a channel making it invite and just
+15,01     sit there all alone.
+
+
+15,01   00Member News
+
+15,01     00Gypsy15 who is a member of our ansi department changes his alias 
+15,01     to 00Caviar15. After being a guest artist in the last pack 00Senile15 
+15,01     decides to join up.
+15,01     Also 00Ize15 found another swedish artist that he brought to the group,
+15,01     so welcome 00Bizzaro15 to the group.
+15,01     Other than that there is no more members joining.
+15,01     But we have one member leaving us this month, and that is 00Orphic
+15,01     who didnt have enough time to code on the viewer as he has his
+15,01     hands full with 00Twilight Studios15.
+15,01     00Milkman15, our very talanted ansigod will from now on concentrate
+15,01     more on school & his life, so sadly he will not be able to do as 
+15,01     much art as before, but its ok :) hope you'll manage to squeeze in
+15,01     more time somehow, uhm if you manage to do that tell me how! :)
+
+
+15,01   00Board Section
+
+15,01     Still people dont get it, we dont accept any more board applications.
+15,01     So please dont send me emails to ask if you can be a Headquarter.
+15,01     Only boards runned by a fusion member will be accepted.
+15,01     Maybe i will remove all 00non-fusion15 member runned boards from the
+15,01     list depends in if we feel like we need them <shrug>
+
+
+15,01   00WWW.FSN97.COM
+
+15,01     The url for the page will be changed shortly to 00www.fsnweb.com15.
+15,01     Soon all members will have a email adress like 00rex@fsnweb.com15 so you
+15,01     can reach them with out any problems.

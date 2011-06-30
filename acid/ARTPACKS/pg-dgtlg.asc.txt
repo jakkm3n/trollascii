@@ -1,0 +1,80 @@
+
+15,01                                                      14,15   
+15,01                           mm14,15      15,01m        mm14,15    15,01m  14,15   15,01|
+15,01                  mmmm   m14,15  15,01""   "14,15   15,01     m14,15    15,01" "14,15  15,01|14,15  15,01"
+15,01                    """#14,15  15,01        |14,15   15,01   |14,15    15,01    |14,15   15,01|
+15,01                       14,15  15,01||14,15 15,01m      14,15   15,01|  14,15    15,01     14,15   15,01"        mmmm
+15,01               m14,15    15,01m  |14,15  15,01 |14,15 15,01|     |14,15   15,01 |14,15   15,01|               m14,15  15,01"""14,15 15,01m
+15,01             m""  "14,15   15,01  "14,15    15,01      |14,15   15,01 14,15    15,01|             m14,15  15,01"      "#
+15,01            #     14,15   15,01     ""       |14,15   15,01 |14,15    15,01   m14,15     15,01m  14,15   
+15,01                 14,15   15,01     m14,15    15,01m   m14,15   15,01|  14,15    15,01|  14,15  15,01 |14,15   15,01| 14,15   
+15,01                 14,15   15,01|  m14,15   15,01" "14,15       15,01"   "14,15    15,01m  " 14,15    15,01  14,15  15,01|
+15,01                  14,15   15,01   ""      """       "14,15      15,01m14,15    15,01  14,15  15,01|
+15,01                  "14,15  15,01m  mmmmmm          mmmm  """""""  |14,15 15,01|
+15,01                    "14,15    15,01"""""14,15   15,01mmm  14,15  15,01""""14,15   15,01mmmmmm14,15   15,01"
+15,01                                 """14,15 15,01m         """"""""       <kts!a>
+15,01                                m14,15 15,01" m14,15 
+15,01      mm                         ""14,15 15,01"
+15,01     |14,15 15,01|
+15,01     14,15  15,01       DiGiTAL GETDOWN PRESENTS:
+15,01    |14,15 15,01|
+15,01    14,15  15,01              Digital Getdown - Self-titled
+15,01   |14,15 15,01|
+15,01    14,15  15,01    - you should know: ------------------------------------------------m
+15,01    |14,15 15,01|||                                                                     |
+15,01  ""m14,15   15,01                                                                      |
+15,01      ""                                 GENRE........: country               |
+15,01 |       RIPPER.: Digital Getdown        DATE RIPPED..: 00-00-2001           |
+15,01  |      LABEL..: Digital Getdown        DATE RELEASED: 00-00-2001           |
+15,01  |      ENCODER: FHG Radium Codec       RELEASE SIZE.: 99.9 MB              |
+15,01  |      BITRATE: 192 kbps               TRACKS.......: 99                   |
+15,01  |      MODE...: Stereo                 SOURCE.......: CDDA                 |
+15,01  |                                                                          |
+15,01   """""""""""""""""mm                                                       |
+15,01  .                 . """mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"""""
+15,01  .  TRACK LISTING: .                                                        .
+15,01  . . . . . . . . . .                                                        .
+15,01  .                                                                          .
+15,01  .    01.aaaaaaaaaaaaaaaaaaaaaaaaa                               [00:00]    .
+15,01  .    02.aaaaaaaaaaaaaaaaaaaaaaaaa                               [00:00]    .
+15,01  .    03.aaaaaaaaaaaaaaaaaaaaaaaaa                               [00:00]    .
+15,01  .    04.aaaaaaaaaaaaaaaaaaaaaaaaa                               [00:00]    .
+15,01  .    05.aaaaaaaaaaaaaaaaaaaaaaaaa                               [00:00]    .
+15,01  .                                                                          .
+15,01  .                                                               -------    .
+15,01  .                                                               [00:00]    .
+15,01  .                                                                          .
+15,01  . . . . . . . . . .   . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15,01  .                 .                                                        .
+15,01  .  RELEASE NOTES  .                                                        .
+15,01  . . . . . . . . . .                                                        .
+15,01  .                                                                          .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa       .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa       .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa       .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa       .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa       .
+15,01  .                                                                          .
+15,01  .                                                                          .
+15,01  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15,01    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15,01   .                .                                                        .
+15,01  .   GREETINGS    .                                                         .
+15,01  . . . . . . . . .                                                          .
+15,01  .                                                                          .
+15,01  .       DiGiTAL GETDOWN                                                    .
+15,01  .                                                                          .
+15,01  .                                                                          .
+15,01    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15,01                  w w w . d i g i t a l g e t d o w n . c o m
+
+15,01    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15,01  .           .                                                              .
+15,01  .  ABOUT   .                                                               .
+15,01  . . . . . .                                                                .
+15,01  .                                                                          .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   .
+15,01  .       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   .

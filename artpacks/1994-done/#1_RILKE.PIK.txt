@@ -1,0 +1,50 @@
+15,01                        12BL11/+12DE Poetry Pik #111
+
+11,01...Rilke, from The Sonnets to Orpheus; series 1, sonnet #2
+
+
+15,01                                 122
+
+15,01                 12Und fast ein Madchen wars und ging hervor
+15,01                 12aus diesem einigen Gluck von Sang und leier
+15,01                 12und glanzte klar durch ihre Fruhlingsschleier
+15,01                 12und machte sich ein Bett in meinem Ohr.
+
+15,01                 12Und schlief in mir.  Und alles war ihr Schlaf.
+15,01                 12Die Baume, die ich je bewundert, diese
+15,01                 12fuhlbare Fern, die gefuhite Wiese
+15,01                 12und jedes Staunen, das mich selbst betraf.
+
+15,01                 12Sie schlief die Welt.  Singender Gott, wie hast
+15,01                 12du sir collendt, dass sie nicht begehrte,
+15,01                 12erst wach zu sein?  Sieh, sie erstand und schlief.
+
+15,01                 12Wo ist ihr Tod?  O, wirst du dies Motiv
+15,01                 12erfinden noch, eh sich dein Lied verzehrte?--
+15,01                 12Wo sinkt sie hin aus mir?... Ein Madchen fast...
+
+
+15,01                                 122
+
+15,01                 12And yet barely a girl, and leaping
+15,01                 12out of this happy harmony of song and lyre,
+15,01                 12and shining clearly through her veils of Spring,
+15,01                 12and made herself a bed inside my ear.
+
+15,01                 12And slept in me.  And her sleep was all.
+15,01                 12The trees I always marveled at, those
+15,01                 12palpable distances, the felt meadows,
+15,01                 12and every mystery that filled me with awe.
+
+15,01                 12She slept the world.  How did you perfect
+15,01                 12her, singing god, so that she didn't crave
+15,01                 12to be awake first?  See, she arose and slept.
+
+15,01                 12Where is her death?  Oh, will you invent the leit
+15,01                 12motif before your songs sings its own grave?
+15,01                 12Where does she shrink to from me...? barely a girl yet...
+
+12,01   11Rilke was a German poet of the late 19th / early 20th century. If you
+11,01   want to check him out, look for either the Stephen Mitchell or the
+11,01   A. Poulin Jr. translations, they're the best ones. He also wrote poems
+11,01   in French which you can find in a seperate volume.

@@ -1,0 +1,15 @@
+15,01Command Line Parameters:
+15,01          0 . Disable sound
+15,01 4000-44100 . Sets mixing speed for sound
+
+15,01Keys Availible During Demo:
+15,01  F1 . Oscilloscope off
+15,01  F2 . Oscilloscope on
+15,01  F3 . Channels 2,4 left / Channels 1,3 right
+15,01  F4 . Channels 1,3 left / Channels 2,4 right
+15,01 ESC . Exit demo
+
+15,01Hey Sub Zero, have fun calculating the file sizes 5 billion times? :-)          
+15,01                                                   
+
+15,01                                                             IRIDIUM 05/01/93

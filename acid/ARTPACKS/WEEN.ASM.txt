@@ -1,0 +1,80 @@
+15,01@@itsok:ween Loader by Wonder Monkey  [ACiD]        
+15,01;;;
+15,01        mov     ah,11hd in the nov 94 acid pack. This source
+15,01        int     16h             ;has a key been pressed??.1 and Tlink v3.0
+15,01        jz      main            ;nope, LOOP!lers.
+15,01;;; 
+15,01        mov     ah,10h          ;call function 10h ..hat i am including.
+15,01        int     16h             ;clear key outta thereease. i am not sure if
+15,01        mov     ah,2y problems, and i wish it wasn't there, but i lost the 
+15,01        call    _hscplayer      ;stop da music.l, it don't make a shit.
+15,01;;;        
+15,01        mov     ax,00003hm should be directed to wmonkey@ucsd.edu        
+15,01        int     10h             ;set videomode=text!
+15,01         my BBS! frappe (619) 535-1929
+15,01        mov     dx,offset credz        d shit like that.
+15,01        mov     ah,9rez, no lamers, no nup.
+15,01        int     21h             ;print creds..
+15,01        
+15,01        mov     ax,4c00h        ;Pass control to dos
+15,01        int     21h             ;do it!
+15,01        .MODEL large
+15,01END STARTSTACK 40h
+15,01extrn   _hscplayer :FAR        
+15,01        
+15,01        .DATA  ;holdsdata
+
+15,01;;sine data. don't ask
+
+15,01sines db 1,1,1,1,0,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15,01,1,0,0,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,2,1,1,2,1,2,1,2,2,1,2,2,2,2,1,2,2,2,2,2,2,2
+15,01,2,2,2,2,2,1,2,2,2,2,1,2,2,1,2,1,2,1,1,2,1,1,1,1
+15,01sineslen equ 100
+15,01include pump2.inc ;;COOL picture by Cat of ACiD!
+15,01;include pal.inc ;;pallette is in pump2.inc
+15,01include credz.inc ;;credz
+
+
+15,01;;;ATTENTION PEOPLE! IF I SEE ONE DICKWEED CHANGE THE TEXT OF THE SCROLLER
+15,01;;;BELOW AND THEN RELEASE THIS LOADER FOR HIS PIECE OF SHIT LITTLE GROUP
+15,01;;;I WILL BE VERY PISSED. AND I WILL NEVER, EVER RELEASE SOURCE CODE AGAIN.
+
+15,01;;;THIS SOURCE CODE RELEASED FOR LEARNING PURPOSES ONLY. DON'T BE A LAMER!
+
+15,01scrollstop equ (60*8)*12 ;;funky yes. but fuck you.
+15,01scrolltext db "               ACiD presents ACiDween!   Fizuck!  This ween "
+15,01db            "we are sending greetz to all the other groups out there. Gre"
+15,01db            "eetz go to da phat doggs at iCE, RELiC, UNiON, Surprise! Pro"
+15,01db            "ductions, Future Crew, and all of dem nutty euro coders. Oh "
+15,01db            "and all the cool guys in VLA....           This ween we are "
+15,01db            "using M-80's to chase kids off the porch!   Personal greetz "
+15,01db            "from me, Wonder Monkey, go out to GWoP, Mr.Fab, Sushi X, Kas" 
+15,01db            "ka F. Kaska, Twink, P-Chan, Lord Jazz, Rad Man, Somms, the g"
+15,01db            "reat new artist  -Cat- , who drew this pumpkin for me, and a"
+15,01db            "ll the little fuckers that have asked me for loaders recentl"
+15,01db            "y. Ah.   Hrm, this music is definately confused.   Shat.    "
+15,01db            "---COOL---  ::::hmmmmmmm. K-RaD.   lets loop this mofo..:..:"
+15,01scrollofs dw 0
+
+15,01scroll db 200 dup (0)
+
+15,01        .CODE
+15,01        .386
+
+
+15,01        
+
+15,01include ray09.dat    ;;dats the music
+
+15,01;=============MAIN!============
+
+15,01START:
+15,01        mov     ax,@data        
+15,01        mov     ds,ax
+15,01        mov     ax,0A000h       ;video area baybe
+15,01        mov     es,ax           
+15,01                                
+15,01        mov     ax,13h
+15,01        int     10h             ;set videomode 13h
+15,01       
+15,01        lea     si,pal   ;put first spank into si

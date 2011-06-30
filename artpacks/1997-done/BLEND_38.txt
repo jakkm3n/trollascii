@@ -1,0 +1,23 @@
+15,01SON:     "Dad, I have to do a special report for school.  Can I ask you a
+15,01         question?"
+15,01DAD:     "Sure Son, what's the question?"
+15,01SON:     "What is politics?"
+15,01DAD:     "Well, let's take our home for an example.  I am the wage earner, so
+15,01         lets call me "Capitalism".  Your mother is the administrator of the
+15,01         money so we'll call her "Government".  We take care of you and your
+15,01         needs, so lets call you "the people".  We'll call the maid "the
+15,01         working class" and your baby brother "the future".  Do you
+15,01         understand, Son?"
+15,01SON:     "I'm not really sure, Dad.  I'll have to think about it."
+15,01         That night, awakened by his baby brother crying, the boy went to see
+15,01         what was wrong.  Discovering that the baby had seriously soiled his
+15,01         diaper, the boy went to his parents' room and found his mother sound
+15,01         asleep.  He then went to the maid's room and saw his father in bed
+15,01         with the maid.  The boy's knocking went totally unheard by his father
+15,01         and the maid, so the boy returned to this room and went back to 
+15,01         sleep.  The next morning he reported to his father.  SON: "Dad, now I
+15,01         think I understand what politics is." 
+15,01DAD:     "Good, Son.  Can you explain it to me in your own words?"
+15,01SON:     "Well, while CAPITALISM is screwing the WORKING CLASS and the
+15,01         GOVERNMENT is sound asleep, the PEOPLE are being completely ignored
+15,01         and the FUTURE is full of shit."

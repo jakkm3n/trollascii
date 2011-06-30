@@ -1,0 +1,18 @@
+15,01          d I S T O R T E d  -  Emag  By private parts of  twilight
+
+
+15,01 This is very simple to use.  If you have a mouse you can use that and click
+15,01   on only the yellow word(s) which are Links.  You can also use your mouse
+15,01   to scroll the WHOLE page. just goto the top of the screen or the bottom
+15,01   with the mouse.  If you dont have a mouse you must use the tab key to get
+15,01   around, and the arrow keys to scroll the page.
+
+15,01 The up down arrow keys scroll the page, along with pagedown/pageup/home/end
+15,01   control(pgdn/pgup/end/home), and the leftarrow key AND the right mouse
+15,01   button will return you from a link that you are currently on, or quit.
+
+15,01 If you experience problems with your mouse you type  NWS-XXXX.exe /nomouse
+15,01   that will disable the mouse.
+
+
+15,01  Thats about it, you can find me on irc as pparts.

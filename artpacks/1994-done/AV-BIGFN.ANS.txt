@@ -1,0 +1,80 @@
+00,01                                  14///15aaa00AAAAAAAAAAAAAAAAAAA15aaa14///00             
+00,01                                  14///15aaa00AAAAAA15aaaaaaaaa00AAAAA15aaa14///00              
+00,01                                 14///15aaa00AAAAAA15aaa14/////15aaaa00AAA15aaa14///00             15 
+00,01                                14///15aaa00AAAAAA15aaa14///00 14///15aaa00AAA15aaa14///00             15 
+00,01                               14///15aaa00AAAAAA15aaa14///00  14///15aaa00AAA15aaa14///00              
+00,01                              14 ///15aaa00AAAAA15aaa14///00   14///15aaa00AAA15aaa14///00              
+00,01                              14///15aaa00AAAAA15aaa14///00    14///15aaa00AAA15aaa14///00              
+00,01                              14///15aaa00AAAA15aaa14///00     14///15aaa00AAA15aaa14///00            14--
+00,01                              14///15aaa00AA15aaaa14///00      14///15aaa00AAAA15aaa14///00             
+00,01                             14///15aaa00AA15aaa14////00       14///15aaa00AAAA15aaa14///00           
+00,01                            14///15aaa00AA15aaa14///00       14////15aaaa00AAAA15aaa14///00           
+00,01                           14///15aaa00AA15aaa14///00    14//////15aaaa00AAAAAA15aaa14///00           
+00,01                          14///15aaa00AA15aaa14///00  14/////15aaaaaa00AAAAAAAA15aaa14///00           
+00,01                         14///15aaa00AA15aaa14/// ////15aaaaa00AAAAAAAAAAAA15aaa14///00           
+00,01                        14///15aaa00AAA15aaa14//////15aaaaaaaaaaaaaa00AAAAA15aaa14///00           
+00,01                        14///15aaa00AAAA15aaaaaaaaaaaa14////////15aaa00AAAA15aaa14///00           
+00,01                       14///15aaa00AAAAAAA15aaaaaa14//////00    14///15aaa00AAA15aaa14///00           
+00,01                      14///15aaa00AAAAA15aaaaa14///////00      14///15aaa00AAAA15aaa14///00           
+00,01                     14///15aaa00AAAAA15aaa14/////00           14///15aaa00AAAA15aaa14///00           
+00,01                     14///15aaa00AA15aaaaa14///00             14///15aaa00AAAA15aaa14///00            
+00,01                    14///15aaa00A15aaaa14/////00             14///15aaa00AAAA15aaaa14///00            
+00,01                  14////15aaaaaaa14////00               14///15aaa00AAA15aaaa14////00             14/00 
+00,01                 14///15aaaaaaa14////00                14///15aaa00AA15aaaa14////00               14//
+00,01                14///15aaaaaaa14///00                 14///15aaaaaaaa14////00                 14//
+00,01              14////15aaaaa14/////00                  14///15aaaaa14/////00                   14//
+00,01             14///15aaaaa14////00                   14 ///15aaa14/////00                      14//
+00,01           14////15aaa14/////00                     14///15aa14////00                          14/
+00,01         14////15aa14/////00                        14///////00                           
+00,01       14////15a14/////00                          14/////00                              
+00,01      14///////00                              14////00      <+valanche of ENiGMA     
+00,01     14/////00                                14//00                                  
+00,01    14///00                                   14/00                                   
+00,01   14//00                                                                         
+00,01  14/00                                                                           
+00,01                                                                              
+15,01>>SAUCE00ENiGMA                             Avalanche           RAiD            
+15,01    19941109+i  @@P v                             00                            
+00,01                  14///15eee00EEEEEEEEEEEEEEE15eee14////00                                14 /
+00,01                  14///15eee00EEEEEEEEEEEEEEE15eee14///00                                14///
+00,01                  14///15eee00EEEEEEEEEEEEEEE15eee14///00                              14/////
+00,01                  14///15eee00EEEEEEEEEEEEEEE15eee14///00                            14///////
+00,01                  14///15eee00EEEEEEEEEEEEEEE15eee14///00                          14////15e14///00 
+00,01                 14///15eee00EEEEEEEEEEEEEEEEE15eee14///00                       14////15ee14///00  
+00,01                 14///15eee00EEEEEEEEEEEEEEEEE15eee14///00                   14//////15eee14///00   
+00,01                14///15eee00EEEEEEEEEEEEEEEEEE15eee14///00                14//////15eeeeee14///00   
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEE15eee14///00         14 /////////15eeeeeeee14///00    
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEE15eee14///////////////15eeeeeeeee00EE15eee14///00     
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEEE15eeeeeeeeeeeeeeeeeee00EEEEEEE15eeee14///00      
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eee14///00        
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eee14///00         
+15,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eee14///
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eeee14///00           
+15,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eeeee14////
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eeee14/////00              
+15,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eeeee14////15  
+00,01               14///15eee00EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE15eeeee14/////00                 14 /
+15,01               14///15eee00EEEEEEEEEEEEEEEEEEE15eeeeeeeeeeeee14/////15                    14//
+00,01               14///15eee00EEEEEEEE15eeeeeeeeeeeeee14////////////00                      14///
+00,01              14///15eeeeeeeeeeeeee14//////////////00                              14/////
+00,01            14///15eeeeeee14///////////00                                        14//////00 
+00,01          14////15ee14////////00                                              14////////
+00,01        14//////////00                                                 14/////////00  
+00,01       14////00                                                     14/////15n14/////00   
+00,01     14//00                                                      14/////15nnn14///00      
+00,01    14/00                                                     14/////15nnnnn14////00      
+00,01        14/////////////00                                   14/////15nnnnn14////00        
+00,01         14/////15nnnn14///////00                              14////15nnnnnn14///00          
+00,01           14////15nnnnnnn14///////00                         14////15nnnnnn14///00           
+00,01            14////15nnn00N15nnnnnn14////00                       14////15nnnnn14////00            
+00,01            14 ///15nnn00NNNNN15nnn14/////00                    14////15nnnnnn14///00             
+00,01             14///15nnn00NNNNNN15nnnn14/////00                 14////15nnn00N15nnn14///00             
+00,01             14///15nnn00NNNNNNNN15nnnn14/////00               14///15nnnn00N15nnn14///00             
+00,01             14///15nnn00NNNNNNNNN15nnnnn14////00             14////15nnn00NN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNN15nnn14////00            14///15nnn00NNN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNNN15nnn14////00          14///15nnn00NNNN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNNNN15nnn14///00          14///15nnn00NNNN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNNNN15nnn14////00        14///15nnn00NNNNN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNNNNN15nnn14////00      14////15nnn00NNNNN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNNNNNN15nnn14///00     14////15nnn00NNNNNN15nnn14///00             
+00,01             14///15nnn00NNNNNNNNNNNNNNNNN15nnn14///00   14////15nnn00NNNNNN15nnn14////00             

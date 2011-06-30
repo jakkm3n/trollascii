@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+15,01                 00TYPE THIS IN DOS.  ONLY VIEW IN A VIEWER THAT
+15,01                        00SUPPORTS ANSI ANIMATION VIEWING.
+
+
+15,01                      00THIS HAS BEEN A LORD SOTH PRODUCTION
+15,01                             00BROUGHT TO YOU BY....
+
+15,01                                      00iCE.
+
+15,01                                                 00-LS
+15,01>

@@ -1,0 +1,40 @@
+15,01============================================================================
+15,01                  ...-==[ FiNAL NETWORK APPLiCATiON ]==-...
+15,01============================================================================
+
+15,01FinalNet is currently accepting new systems of all types.  If you are would
+15,01like more information about FinalNet, or would like to join, please fill 
+15,01out this application, and RENAME the completed FINAL.APP application to 
+15,01YOUR_BOARD.APP.   
+
+15,01Example: MUERTE.APP
+
+15,01After completing your application please call our WHQ at 9O8-647-1194, and
+15,01login with the ID:
+
+15,01HANDLE: FiNAL NET
+15,01PASSWORD: Apply
+
+15,01You will then be able to upload your application for FinalNet and download 
+15,01current infoformation on the network.
+
+15,01============================================================================
+
+15,01   Handle:[...........................]   City/State:[....................]
+15,01                    
+15,01   First Name:[.......................]   Your Board Number:[...]...-....
+
+15,01   Voice Phone:[......................]   BBS Software:[..................]
+
+15,01   Your Board Name:[..................]   Fido MAILER used:[..............]
+
+15,01   Board NUP:[........................]   Modem Speed/Type:[..............]
+
+15,01   BBS Affiliations: (Groups/Other Networks etc.)
+15,01     1.:[................................................]
+15,01     2.:[................................................]
+15,01     3.:[................................................]
+
+
+15,01============================================================================
+15,01>

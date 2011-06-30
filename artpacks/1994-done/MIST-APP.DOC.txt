@@ -1,0 +1,80 @@
+
+15,01               +--------------------------------------------+
+15,01               |Documentation: MiST Application Factory v1.1|14,15 
+15,01               +--------------------------------------------+14,15 
+15,01                """"""""""""""""""""""""""""""""""""""""""""""
+
+15,01                            Programmer: Dr. Cpu
+15,01                             Menu ANSI: Mavrik
+15,01                      Application Layouts: Nitnatsnoc
+15,01                            Music: Admiral Skutt
+
+15,01                   Equinox Music Interface Kit v1.1 (EMiK)
+15,01                         Copyright (C) 1994 Hexx / SE
+15,01                Original Music Routines by Frontman / Crew242
+
+15,01   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+15,01   +-------------+
+15,01   | What is it? |14,15 15,01--------------------------------------------------------
+15,01   +-------------+14,15 
+15,01    """""""""""""""
+
+15,01        Well, here it is!  The MiST Application Factory that will be
+15,01    distributed out with our Art Pack each month.  Well, this
+15,01    Application Factory is similar to the ones that the other major
+15,01    groups use.  If you've seen ACiD's, VOiD, and all the other
+15,01    major groups out there, they all have somewhat a similar
+15,01    interface.
+
+15,01   +---------------+
+15,01   | What to do... |14,15 15,01------------------------------------------------------
+15,01   +---------------+14,15 
+15,01    """""""""""""""""
+
+15,01        Just to get started...  The Application Factory is very easy to
+15,01    use.  When you load it up, it will display a menu with all its
+15,01    available option shown.  All you have to do is move the cursor around
+15,01    and voila.  When you want to pick the specific area that you want to
+15,01    join, just smack the <ENTER> key and you will be presented with an
+15,01    InfoForm similar to the ones you see as you apply to certain BBS
+15,01    (though, mostly Forum hacks).  Just answer the questions to the best
+15,01    of your ability (of course, if any invalid information is given,
+15,01    you application must be void!).
+
+15,01        Since you may be talented in many of the fields presented, you
+15,01    will be able to apply for whatever position that you feel that you
+15,01    are most comfortable in.  Just select each of the position and fill
+15,01    out the application form.  Most of the application form will be saved
+15,01    into the current drive and directory with a similar format (filename):
+
+15,01                           xx-XXXX.APP
+15,01                           |    |
+15,01                           |    +--------- XXX is the position you are
+15,01                           |               applying for
+15,01                           +----------------- xx are you initials
+
+15,01    For example, since I am a programmer, I will select the Coding
+15,01    application and fill out the form.  After it is done, it will save it
+15,01    to the current directory and drive with the name:
+
+15,01                           DC-CODE.APP
+15,01                           |        |
+15,01                           |        +--------- COD stands for Coder
+15,01                           +----------------- DC is my initials
+
+15,01        When you have finished filling out all the application form(s) of
+15,01    the position(s) you feel that you capable of performing under, ZIP
+15,01    up all your application forms into one small ZIP file:
+
+15,01                           xx-APP.ZIP
+15,01                           |
+15,01                           +----------------- xx being your initials
+
+15,01    (since ZIP is the standard for today use) and UL it to the WHQ
+15,01    (The Screaming Tomato @ 1-604-430-8805).
+
+15,01    After all is completed, sit tight and wait for one of the
+15,01    Senior member to give you a call.  But remember, all information
+15,01    that was enter in the application form must be real...or else!
+

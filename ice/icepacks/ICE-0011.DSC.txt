@@ -1,0 +1,14 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 11/1/2000
+15,01###############################################
+15,01ice-0011.sit,ANSI,iCE Site Listing,iCE Staff
+15,01ice-0011.nfo,ANSI,iCE NFO File 11/2000,iCE Staff
+15,01ice-0011.mem,ANSI,iCE Member List 11/2000,iCE Staff
+15,01ice-tile.jpg,EXTERNAL,tiles.ice.org promo,Various Artists
+15,01iv-dj.jpg,EXTERNAL,DeeJay EyeVee,Inner Vision
+15,01ja-sea.jpg,EXTERNAL,Seaside,Jae
+15,01jm-goon.jpg,EXTERNAL,Goon,Jamie McCarter
+15,01rg-room.jpg,EXTERNAL,Room with a View,Robin Graham
+15,01ss-todd.jpg,EXTERNAL,TODD,Steven Stahlberg
+15,01ve-seal.jpg,EXTERNAL,Seal of Quality,Vesalius
+15,01file_id.diz,ANSI,Zipfile Description,iCE Staff

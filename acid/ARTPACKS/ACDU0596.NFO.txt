@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     April Update *        May 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0596.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0596 ANS |  43716 |05.01.96 |%+   | May Member/Site Listing        |
+15,01*|2  |ACIDAPP  EXE |  45178 |02.27.96 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW DAT | 125438 |05.01.96 |%    | ACiD View BGI/RIP font data    |
+15,01*|4  |ACIDVIEW EXE |  69663 |05.01.96 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  51117 |05.01.96 |%+   | ACiD View Documentation        |
+15,01*|5  |ALC0596  ANS |  89809 |05.01.96 |%+   | ACiD logocluster #15 (05/96)   |
+15,01*|6  |BS-NEZO  ANS |  22512 |05.01.96 |%+   | Neutral Zone                   |
+15,01*|7  |CB-ABST  GIF | 226322 |05.01.96 |%    | Abstract Illusions             |
+15,01*|8  |CS-ACID4 GIF | 177356 |05.01.96 |%    | ACiD Advo                      |
+15,01*|9  |CS-DDOM1 GIF | 174878 |05.01.96 |%    | Dark Domain                    |
+15,01*|10 |CS-ENTOM GIF |  43667 |05.01.96 |%    | Entombed                       |
+15,01*|11 |CS-PIR1  GIF | 226594 |05.01.96 |%    | Piranha                        |
+15,01*|12 |CS-ROC1  GIF | 206444 |05.01.96 |%    | Rulers of Chaos                |
+15,01*|13 |CS-SPAN1 GIF | 214592 |05.01.96 |%    | Spantobi                       |
+15,01*|14 |CS-XPAK1 GIF | 183576 |05.01.96 |%    | XPAK Advo                      |
+15,01*|15 |CY-EU1   RIP |  14825 |05.01.96 |%    | Enemy Unknown                  |
+15,01*|16 |DG-BLUR1 RIP |  85227 |05.01.96 |%    | Blur Magazine                  |
+15,01*|N/C|FILE_ID  DIZ |    618 |05.01.96 |%    | Acquisition FILE ID by {RK}    |
+15,01*|17 |I1-IMPUR GIF | 178772 |05.01.96 |%    | Impure                         |
+15,01*|18 |KO-MECHA GIF | 107171 |05.01.96 |%    | Kosh's bot                     |
+15,01*|19 |PR-ROAD  GIF | 158116 |05.01.96 |%    | The Back Harlow Road           |
+15,01*|20 |RA-ACID  ANS |  39445 |05.01.96 |%+   | ACiD Advo                      |
+15,01*|21 |SB-J4F1  ANS |  26121 |05.01.96 |%+   | Just 4 Fun                     |
+15,01*|22 |SB-J4F2  ANS |  66959 |05.01.96 |%+   | Just 4 Fun                     |
+15,01*|23 |SI-FLAT5 ANS |  22107 |05.01.96 |%+   | Flat Liner                     |
+15,01*|24 |TH-ACID1 GIF | 182516 |05.01.96 |%    | ACiD Advo                      |
+15,01*|25 |US-BV2   RIP |  64755 |05.01.96 |%    | Bladeview/2 Advo               |
+15,01*|26 |US-IDES2 ANS |  31990 |05.01.96 |%+   | Ides of March                  |
+15,01*|27 |US-SOMA  RIP |  51706 |05.01.96 |%    | Rare Soma                      |
+15,01*|28 |WE-WILL  SUE |   1531 |04.01.96 |%+   | ACiD Legal Disclaimer          |
+15,01*|29 |ACDU0596 NFO |   5781 |05.01.96 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   31     Average Compression Rate: %17          |
+15,01|          Total Bytes:  2,938,502     Average Of Bytes/File: 94,790          |
+15,01|                                      Total Bytes Zipped: 2,452,334          |
+15,01|                                                                             |

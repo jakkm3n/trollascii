@@ -1,0 +1,40 @@
+15,01WITHFONT: Run program on EGA/VGA with a given font. Ver 1.5. Apr 16 1993
+15,01Copyright (c) 1991-93 by Yossi Gil, P.O.Box 3148, Jerusalem, ISRAEL. 
+15,01Email: yogi@cs.technion.ac.il
+
+15,01  Usage: WITHFONT fontfile command [arg(s)]
+15,01         WITHFONT fontfile [ [-bN fontfileN] ... ]  [ -c ] command [arg(s)]
+
+15,01Will run 'command' on 'args' using a text-mode font loaded from 'fontfile'.
+15,01WITHFONT looks for 'fontname' in the current directory and then in all the
+15,01directories listed in the FONTPATH environment variable. Multiple directories
+15,01in FONTPATH are separated by ';' chars. The 'fontfile' name should be of the
+15,01form *.fYY, where YY is the font height in pixels (a 2 digit number in the
+15,01range 04-32). If the font height cannot be determined from the file name,
+15,01then it is set to the file size divided by 256. All fonts loaded must be of
+15,01the same height. The font load will not be effected by 'command' changing
+15,01the video mode. WITHFONT cures some of MS-DOS 3.3+ CodePage braindamage.
+
+15,01EXAMPLES  withfont old-engl.f14 charset              (Load and examine font)
+15,01          withfont cp862.f16 hebedit hebfile         (Edit using Heb. chars)
+15,01          withfont cp437.f16 -b1 tex-math.f16 view      (Load banks 0 and 1)
+
+15,01FLAGS    -h   Display this help screen       -c   Next argument is command
+15,01         -H   Display another help screen    -bN  Load next file to bank N
+15,01         -?   Display all help information
+
+15,01EXIT CODES       255   Error occured while WITHFONT executed
+15,01                 254   WITHFONT couldn't parse its command line parameters
+15,01                 0     WITHFONT and 'command' terminated successfully
+15,01                 Other 'command' exit code
+
+15,01BUGS             o     Executed command should not go TSR.
+15,01                 o     Internal commands ('DIR' and such) will not be located
+15,01                 o     Does not work on adapters other than EGA/VGA
+
+15,01SEE ALSO
+15,01             _, loadfont, dumpfont, charset, breakcpi
+
+15,01COPYING POLICY Copy freely for private use. Usage as part of any commercial
+15,01  package is under the same restrictions as of Rhaul Dehsi ZOO program. If
+15,01  you cannot obtain ZOO, you cannot use 'withfont' commercially.

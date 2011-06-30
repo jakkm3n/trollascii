@@ -1,0 +1,64 @@
+15,01##################################
+15,01# RemorseView Configuration File
+
+15,01#########
+15,01# LINES #
+15,01#########
+15,01# Videomode to display ansi in.
+15,01# 25, 43, 50
+15,01LINES=25
+
+15,01########
+15,01# FONT #
+15,01########
+15,01# Font to display ansi in.
+15,01# IBM, AMIGA
+15,01FONT=IBM
+
+15,01#############
+15,01# INTENSITY #
+15,01#############
+15,01# Allow intense background colours?
+15,01# ON, OFF
+15,01INTENSITY=OFF
+
+15,01#########
+15,01# COLOR #
+15,01#########
+15,01# Color style to use:
+15,01# COLOR, ASCII, GREY
+15,01COLOR=COLOR
+
+15,01##############
+15,01# AUTOSCROLL #
+15,01##############
+15,01# Autoscroll ansis? (aka AnsiMation mode)
+15,01# ON, OFF
+15,01AUTOSCROLL=OFF
+
+15,01#############
+15,01# FILEMASKS #
+15,01#############
+15,01# Filemasks for filter
+15,01# Up to 8 allowed
+15,01FILEMASKS={
+15,01*.ANS
+15,01*.ASC
+15,01*.DOC
+15,01*.TXT
+15,01*.LGO
+15,01*.LIT
+15,01*.NFO
+15,01*.DIZ
+15,01}
+
+15,01##########
+15,01# SMOOTH #
+15,01##########
+15,01# Scroll Ansis using Smooth Scroll
+15,01# ON, OFF
+15,01SMOOTH=ON
+
+15,01#
+15,01# END
+15,01#######

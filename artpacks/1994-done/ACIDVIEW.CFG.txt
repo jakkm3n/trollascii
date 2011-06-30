@@ -1,0 +1,80 @@
+15,01; 00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+15,01; |   ACiDView 3.04 Configuration (.CFG) file - ACiD Productions(tm) 1994   |
+15,01; |                   See ACiDVIEW.NFO for more information                 |
+15,01; 00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+15,01;---------------------------------- Notes -----------------------------------
+15,01;  The format of the commands below MUST be left as it is.  You should only
+15,01;  modify the information after the : mark, or after the = mark if it
+15,01;  is a toggle.
+
+15,01;----------------------------- Start Up Config ------------------------------
+15,01RESOLUTION=TEXT
+15,01;  The resolution ANSI and BIN are displayed in
+15,01;  TEXT, XGA, VGA, SVGA1, SVGA2, SVGA3, SVGA3
+
+15,01BAD MODES:
+15,01:END BAD MODES
+15,01;  List of RESOLUTIONs not to be used 
+15,01;  XGA, VGA, SVGA1, SVGA2, SVGA3, SVGA4
+
+15,01iCE COLOR=OFF
+15,01;  Determines if ANSI and BIN blinks or allows 16 background colors, 
+15,01;  aka iCE Color.  If ON blinking is not possible  
+15,01;ON, OFF   
+
+15,01COLOR=COLOR
+15,01;  What coloring to use for ANSI and BIN
+15,01;  COLOR = Full color
+15,01;  GREY = Grey scale
+15,01;  ASCII = No color
+15,01;  COLOR, GREY, ASCII
+
+15,01ASPECT RATIO=25
+15,01;  How ANSI and BIN "look"
+15,01;  25 = Looks like 25x80 text mode
+15,01;  50 = Looks like 50x80 text mode
+15,01;  25, 50
+
+15,01WIDE=OFF
+15,01;  If turned on ANSI and BIN are scaled up by about 2X when graphicly
+15,01;  interputed
+15,01;  ON, OFF
+
+15,01VIEWING=READ
+15,01;  Determines how ANSI is viewed
+15,01;  READ = Interputed then displayed
+15,01;  VIEW = Displayed as it is interputed (ANSImation)
+15,01;  VIEW, READ
+
+15,01TAGGING=SHOW
+15,01;  Determines what file tagging is used for
+15,01;  SHOW = Slide show
+15,01;  DUAL = Dual mode (See ACIDVIEW.NFO for more information)
+15,01;  SHOW, DUAL
+
+15,01BPS=OFF
+15,01;  BPS rate to simulate durring ANSI and RIP display, must be in VIEW
+15,01;  mode to use with ANSI
+15,01;  OFF, #
+
+15,01MASK=*.*
+15,01;  Used to "filter" the files shown.   1 mask allowed.
+
+15,01EXCLUDE:
+15,01ARJ
+15,01COM
+15,01DRV
+15,01EXE
+15,01HLP
+15,01LZH
+15,01MOD
+15,01S3M
+15,01WAV
+15,01ZIP
+15,01:END EXCLUDE
+15,01;  List of extensions to be excluded from file listings and command line
+15,01;  operation
+
+15,01BOUNCE=ON
+15,01;  Whether or not BIN viewing in TEXT mode bounces when the edge is reached

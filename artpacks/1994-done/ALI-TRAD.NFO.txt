@@ -1,0 +1,54 @@
+
+
+
+15,01                            'TRADITION'
+15,01                       nfo file by md/alive
+
+15,01        Tradition is going to be an alive created magazine.  It's not quite
+15,01done yet, but hopefully soon you'll see the combined efforts of 6 months of
+15,01alive's work and dedication in one simply mag.  The mag follows a generic
+15,01iridium layout, but with side-scrolling interfaces similar to those
+15,01coded by Tasmaniac/ACiD and others coded by the Tribe and Crisis guys.
+15,01(I mention Tas in particular because his was all ASM and coolness.. =)
+15,01But anyways, the point is our mag will be different, contain articles by all
+15,01alive members, some outsiders(beastie, neurotic, ryunosuke, jello), contain
+15,01the top 3 pieces of artwork from our last 5 packs, have some up to the
+15,01moment of publishment news stuff.  It should be pretty k-c00l, but we need
+15,01a few things from you 'outsiders' =)
+15,01The following is needed from others..
+
+15,01*       If you have been involved with, or around alive for most of our
+15,01        existence - and would like to pay us back with an article - contact
+15,01        us and we'll tell you how many slots are left.
+
+15,01*       The easiest way to get your name in the mag is this -
+15,01                call up Packaged Rebellion - 9162467165
+15,01                leave matrix feedback.
+15,01                make a quote up about alive
+15,01                send it to me, we'll put it in the mag in one section.
+15,01                you'll be famous. =)
+
+15,01        Guidelines are this : Positive comments only, CONSTRUCTIVE
+15,01        criticism will be reviewed, and ideas are more than welcome.
+15,01        Just mail me with the format -
+
+15,01                Tradition Mag Quote on ALiVE
+
+15,01                "alive is really looking strong, i love their art!"
+15,01                                    <your handle here/group affils>
+
+15,01        then save it.  That's it, simple huh?  And then you'll be in a
+15,01        really el33te magazine..
+
+15,01        Anyways, that's the extent of the mag for now.  ALiVE Members -
+15,01        DO YOUR FRAGGIN ARTICLES AND INTERFACES.  I also need a message
+15,01        reader, and a font or two (normal 25 line mode) for intro/closing
+15,01        and stuff.  Pliny - do a couple of ascii fonts.  Other than that,
+15,01        we thank you for your support.. lates!
+
+15,01                                               md/alive.te94
+
+15,01damnit.. a simply nfo file and it's 51 lines long. ack.
+
+15,01>SAUCE00ALiVE's Mag - Tradition - NFO      Mass Delusion       ALiVE            
+15,01   19940602T      @@P v                             

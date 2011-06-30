@@ -1,0 +1,66 @@
+
+15,01   #------------------------------------------------------------+
+15,01   |  "The Acquisition" - Contains A-Z of the ANSi Collection.  |
+15,01   |  Background History:    The Acquisition was originated in  |
+15,01   |  San Jose, California.   After  it had been organized and  |
+15,01   |  its contents  sorted,  it  first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To  this day the original zips are still  |
+15,01   |  floating around,  but  as  more  and  more high  quality  |
+15,01   |  computer graphics  are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                    |
+15,01   +============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |  The Acquisition : August Update  *  September 1st, 1992  |
+15,01   +-----------------------------------------------------------+
+15,01   || Note:   The file ACDU0992.ZIP is only an update of the  ||
+15,01   || latest ANSis not included in the preceding Acquisition. ||
+15,01   ++-- --  -  -                                   -  -  -- --++
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01*|1  |ACDLIVES ANS |  48637 | 7.25.92 |%Ax+| ACiD Lives!                     |
+15,01*|2  |ACID-MEM ANS |   5537 | 8.24.92 |%   | ACiD Member List w/Logo         |
+15,01*|3  |ACID92   ANS |   6149 | 9.01.92 |%+  | ACiD Member List for September  |
+15,01*|4  |ACIDROCK ANS |   9393 | 8.03.92 |%+  | ACiD Logo w/Goblin Rockin in 92!|
+15,01*|5  |BCACID5  ANS |   8808 | 8.11.92 |%+  | Body Count                   (5)|
+15,01*|6  |BCACID6  ANS |  27065 | 8.31.92 |%+  | Body Count                   (6)|
+15,01*|7  |BOGACID1 ANS | 230478 | 8.13.92 |%Ax | The BoG                         |
+15,01*|8  |CRNGACD3 ANS |   7031 | 8.09.92 |%   | Crime Ring                   (3)|
+15,01*|9  |CRTLACD1 ANS |   3850 | 7.30.92 |%   | The Crime Cartel             (1)|
+15,01*|10 |CRTLACD2 ANS |   7027 | 8.18.92 |%+  | The Crime Cartel             (2)|
+15,01*|11 |CYBRACD2 ANS |  12321 | 8.30.92 |%+  | Cyber City                   (2)|
+15,01*|12 |EITW-SD2 ANS |  11148 | 8.29.92 |%+  | Echoes In The Well           (2)|
+15,01*|13 |GRAVYARD ANS |  10219 | 8.14.92 |%+  | The Grave Yard                  |
+15,01*|14 |IMPACID  ANS |  47060 | 8.04.92 |%A+ | Imperial City                   |
+15,01*|15 |JEDVXMAM ANS |   3954 | 8.13.92 |%   | Vision-X Main Menu              |
+15,01*|16 |KOROV-SD ANS |   5741 | 8.02.92 |%   | Korova Milkbar               (1)|
+15,01*|17 |KOROVA2  ANS | 308940 | 8.12.92 |%Ax+| Korova Milkbar               (2)|
+15,01*|18 |KPMENUS  ZIP |  48000 | 8.22.92 |%x  | Celerity v1.40 Menu Set by KP   |
+15,01*|19 |MCACD2MS ANS |  25580 | 8.18.92 |%+  | Medieval Crypt                  |
+15,01*|20 |PHUNACD1 ANS |  11889 | 8.14.92 |%+  | The PHUN LiNE                   |
+15,01*|21 |PITSACD3 ANS |  26292 | 7.27.92 |%A+ | P.I.T.S.                     (3)|
+15,01*|22 |RELMACD7 ANS |  96489 | 8.10.92 |%A+ | Beyond the Realm of Reality  (7)|
+15,01*|23 |SAS-SDSW ANS |  34030 | 8.02.92 |%x+ | Satanic Syndicate               |
+15,01*|24 |SEEKACID ANS |  25165 | 7.30.92 |%Ax+| Seek And Destroy                |
+15,01*|25 |TAC-ACD1 ANS |   6406 | 8.18.92 |%   | The Atomic Cafe              (1)|
+15,01*|26 |TAC-ACD2 ANS |   6166 | 8.24.92 |%   | The Atomic Cafe              (2)|
+15,01*|27 |TEC1ACID ANS |  25974 | 9.01.92 |%+  | The Eldar's Craftworld          |
+15,01*|28 |TSH1ACD  ANS |  14254 | 7.25.92 |%+  | The Slaughter House             |
+15,01*|29 |UNRLACID ANS |   9478 | 7.31.92 |%+  | Unreal Logo                     |
+15,01*|30 |VISXSLUM ANS |   2197 | 8.07.92 |%   | Vision-X Logo                   |
+15,01*|31 |ACDU0992 NFO |   4598 | 9.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = ANSiMated             |
+15,01  | M = ANSi Music           + = Scrolling             |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 31         Average Compression Rate: %82  |
+15,01  |   Total Bytes: 1,089,876  Total Bytes Zipped:   206,280  |
+15,01  |                                                          |
+15,01  +----------------------------------------------------------+

@@ -1,0 +1,68 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                  J  A  N  U  A  R  Y           2   0   0   2
+15,01-------------------------------------------------------------------------------
+
+15,011.  Happy first 2002 pack!   Here's some great art from  January to please your
+15,01    nostrils and wiggle your toenails.   It turns out that in our contract with
+15,01    Steven Stahlberg, we agreed to let him sponsor a pack at some point, and he
+15,01    had his agent call us to let us know  that he wanted to have this pack.  So
+15,01    welcome  to the  Official  Steven  Stahlberg Pack!   We  have  a  fantastic 
+
+15,01    interview with  Steven, and he  contributed a  handfull of gorgeous images.
+
+15,012.  Also this month, ANSI!  Thanks to Mongi  and Trip we have two ansis full of
+15,01    tasty ansi goodness!  It's so much fun to see ansi again!
+
+15,013.  Only one quilt this  month from those  crazy kooks  over at  tiles.ice.org. 
+
+15,01    We serve up the "Mean Green Tiling Machine" this month.   Next month I hope
+15,01    we'll have our Tribute to H. R. Giger quilt finished...
+
+15,014.  We have a great  tutorial from  Gecko this month!   She did a cool combo of
+15,01    two shorter tutorials.  One is a tutorial on how to draw the night sky, and
+15,01    the  other is a  tutorial that  explains how to  draw eyes.   The latter is
+15,01    probably more useful to advanced artists, the former is probably acceptable
+15,01    for all ages!
+
+15,015.  Old  ansi folks,  check out  www.bbsdocumentary.com.   Slothy filled  three 
+
+15,01    hours  of  video  this  month  being  interviewed,  and  Jason  Scott  (the 
+
+15,01    filmmaker) is looking to  interview other  prominent art  scene folks for a
+15,01    special segment entirely about the art scene.  Hopefully we'll (eventually)
+15,01    get a great look at the rich history of the art scene from this interesting
+15,01    project.
+15,01    
+15,016.  Remember  that some of  us hang out  on irc,  just waiting for  you to come 
+
+15,01    visit  so   you  can  be   overwhelmed  by   our  disgusting   and  bizarre 
+
+15,01    conversations.  Hit  irc.ice.org #ice and #tiles,  irc.deviantart.com #ice, 
+
+15,01    or EFnet #ice to chat with us.
+15,01    
+15,01Hoping all your resolutions have failed,
+15,01     Slothy and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01                      Lord Soth                    Root88
+15,01-------------------------------------------------------------------------------

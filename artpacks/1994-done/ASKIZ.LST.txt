@@ -1,0 +1,33 @@
+
+15,01  [ooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoo]
+15,01  Oo. filename .ext Oo. description                   Oo.  artist         Oo.
+15,01  .Oo-*|*-x-*|*-x-*|.Oo|*-x-*|*-x-*|*-x-*|*-x-*|*-x-*|.Oo|*-x-*|*-x-*|*-x-.Oo
+15,01  o.O =!=[COLOR]=!= o.O                               o.O                 o.O
+15,01  Oo. nt-clan  .ans Oo. cyber legions artists network Oo.  nightrain      Oo.
+15,01  .Oo nt-fusio .ans .Oo fusion flux                   .Oo  nightrain      .Oo
+15,01  o.O nt-horz  .ans o.O horror zone                   o.O  nightrain      o.O
+15,01  Oo. nt-kts   .ans Oo. katharsis                     Oo.  nightrain      Oo.
+15,01  .Oo nt-mz    .ans .Oo megazone                      .Oo  nightrain      .Oo
+15,01  o.O nt-v2lo  .ans o.O vision/2                      o.O  nightrain      o.O
+15,01  Oo. tz-bsun1 .ans Oo. black sunday                  Oo.  tinyz          Oo.
+15,01  .Oo               .Oo                               .Oo                 .Oo
+15,01  o.O =!=[ASCII]=!= o.O                               o.O                 o.O
+15,01  Oo. tz-ctry1 .asc Oo. the country house             Oo.  tinyz          Oo.
+15,01  .Oo tz-atar1 .asc .Oo atari blues                   .Oo  tinyz          .Oo
+15,01  o.O tz-badl1 .asc o.O badlands <vnz style>          o.O  tinyz          o.O
+15,01  Oo. tz-dtox1 .asc Oo. deadly intoxication           Oo.  tinyz          Oo.
+15,01  .Oo tz-eot3  .asc .Oo the end of time               .Oo  tinyz          .Oo
+15,01  o.O tz-isd   .asc o.O insane software design        o.O  tinyz          o.O
+15,01  Oo. tz-it    .asc Oo. illegal trading               Oo.  tinyz          Oo.
+15,01  .Oo tz-mour1 .asc .Oo the mourning after            .Oo  tinyz          .Oo
+15,01  o.O tz-sih   .asc o.O souls in hell                 o.O  tinyz          o.O
+15,01  Oo.               Oo.                               Oo.                 Oo.
+15,01  .Oo =!=[!DIZ!]=!= .Oo                               .Oo                 .Oo
+15,01  o.O nt-risid .diz o.O eris                          o.O  nightrain      o.O
+15,01  Oo. tz-dmg   .diz Oo. damage                        Oo.  tinyz          Oo.
+15,01  .Oo tz-nok   .diz .Oo nokturnal net                 .Oo  tinyz          .Oo
+15,01  o.O tz-prog1 .diz o.O progeny                       o.O  tinyz          o.O
+15,01  Oo. tz-sl1   .diz Oo. smartliners                   Oo.  tinyz          Oo.
+15,01  .Oo tz-vor   .diz .Oo visions of reality            .Oo                 .Oo
+15,01  o.O               o.O                               o.O                 o.O
+15,01  [ooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoo]

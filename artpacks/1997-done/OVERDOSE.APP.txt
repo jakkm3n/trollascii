@@ -1,0 +1,43 @@
+15,01                ----=overdose=----
+
+15,01  . temporary application-till someone does us one =] .
+15,01    
+15,01----------------------------------------------------------------
+15,01general
+15,01handle:
+15,01real name:
+15,01voice number:
+15,01experience:
+15,01what can you provide to overdose?:
+15,01:
+15,01:
+15,01how many pieces of work per month?:
+15,01----------------------------------------------------------------
+15,01art
+15,01ansi<y/n>:
+15,01ascii<y/n>:
+15,01vga<y/n>:
+15,01other:
+15,01:
+15,01:
+15,01please include at least two examples zipped with yournick.zip
+15,01----------------------------------------------------------------
+15,01www
+15,01html<y/n>
+15,01java<y/n>
+15,01other:
+15,01:
+15,01:
+15,01please give at least two URL's that you have done+
+15,011:
+15,012:
+15,01----------------------------------------------------------------
+
+15,01temporary application for overdose inc.
+
+15,01rename to yournick.app and send to an op in #overdose
+15,01or email to jerfsa@flinet.com
+15,01visit our www site at - http://www.toptown.com/hp/overdose
+
+15,01----if you can code us an application... please message erased----
+15,01              -- u will be loved by all =] --

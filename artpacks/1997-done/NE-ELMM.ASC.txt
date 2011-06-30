@@ -1,0 +1,28 @@
+15,01                               .. 
+15,01,+yy  _;  ,, ;; ne     .    _  ,,____
+15,01$$P+ sy   n$biiyyy@@SS$$ys' + +$$$n""^^`` `
+15,01. :: ,` yyy$$P2"^``2$$$!$yyyyy $$:  ( F ) File Directories    ( USER ) List 
+15,01y ys@$  $$$$'  i;  y$$$;$$$$$' $l   ( N ) New file scan        Users
+15,01! $$$$; !$$$ ;sy:  $$$$ l$$$: 4$;   ( D ) Download a file     
+15,01  $$$$; :$$l  $$$, $$$$ :$$$yy,`.   ( U ) Upload a file       ( WHO ) Who is 
+15,01y l$$$i  S$$: :$y  l$$$; `4$$$l     ( L ) Locate a filename    online?
+15,01! ;$$$$; ;$$$. `4: ;$$$$b+,`$$;     ( Z ) Zippy Text Search   
+15,01:  $$$$$, !$$$b,_   ^^224$$ !!      ( R ) Read messages       ( TS ) Text search
+15,01   `$$$$$i,`$$$$S; ;,    $P ``      ( E ) Enter a message      in message
+15,01 .  ``"24$$;$$P'`_yy 2y, ``         ( C ) Comment to SysOp    
+15,01g$' $S;, `$i$! ;$$$$S@$$bs:: :      ( Q ) Quick Message Scan  ( QWK ) Transfer
+15,01'_,d$$i$b `$$;  !'^^""``n"     :    ( O ) Page SysOp           QWK Mail
+15,01 ``^n$$$!; `$i,,++ss@@SS$$S@s, i    ( G ) Goodbye             
+15,01,@S  '``^$yyy$$++222""$$$$ys: :$    ( M ) Color/NoColor       ( SELECT ) Select 
+15,01$$!yys+._  __'  :sy@$ ''22',+d$$b.  ( X ) Xpert mode toggle    Confs to Scan
+15,01$$; ..`^$$22""' '  $l  ;$yy$$$^``   ( V ) View your stats.    
+15,01$@yy$$b ' :sys@ %@$$$s l$$'$$@y::   ( W ) Change your info    ( ULBY ) Change
+15,01$$"^^^``           ++' ''' $$l      ( P ) Page length setting  Ulby string
+15,01''  The Elm - Mainmenu ... $$$y___  ( T ) Transfer protocol   ______ ___________
+
+15,01                                                   08  
+15,01pcb main for meeeeeeeee!
+
+15,01yeah.
+15,01>>SAUCE00Elm                                Nemo                AWE Lettering   
+15,01    199708 97*  @@P v                             

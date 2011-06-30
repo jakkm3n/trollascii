@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  November Update *   December 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1295.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-TEE GIF | 164921 |12.01.95 |%    | ACiD T-Shirt Promo             |
+15,01*|2  |ACID-TEE NFO |   4268 |12.01.95 |%+   | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID1195 ANS |   5944 |11.30.95 |%+   | November Member/Board Listing  |
+15,01*|4  |ACIDAPP  EXE |  43939 |12.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW EXE |  97412 |12.01.95 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  41782 |12.01.95 |%+   | ACiD View Documentation        |
+15,01*|6  |AL-ACID2 RIP |  23956 |12.01.95 |%    | http://www.echo-on.net/~alien  |
+15,01*|7  |ALC1295  ANS |  70057 |12.01.95 |%+   | ACiD logocluster #12 (12/95)   |
+15,01*|8  |AN-EVIL1 ANS |  27118 |12.01.95 |%+   | Evil Intentions                |
+15,01*|9  |AN-NEO1  ANS |  23753 |11.24.95 |%+   | Neo Nacho                      |
+15,01*|10 |ASC1295  ASC |  51363 |12.01.95 |%+   | ACiD ascii cluster #2 (12/95)  |
+15,01*|11 |AZ-TBF1  RIP | 110802 |12.01.95 |%    | The Blast Furnace              |
+15,01*|12 |BM-VOICE RIP |  27472 |12.01.95 |%    | Disembodied Voices             |
+15,01*|13 |CS-7DEGR GIF | 154720 |12.01.95 |%    | Seven Degrees                  |
+15,01*|14 |CS-APOCA GIF | 189522 |12.01.95 |%    | Apocalypse                     |
+15,01*|15 |CS-BUDDH GIF | 184028 |12.01.95 |%    | Buddha Emag                    |
+15,01*|16 |CS-HIFI1 GIF | 188239 |12.01.95 |%    | High Fidelity                  |
+15,01*|17 |CS-PROPH GIF | 200949 |12.01.95 |%    | Prophecy BBS Software          |
+15,01*|N/C|FILE_ID  DIZ |    604 |12.01.95 |%    | Acquisition FILE ID by {RK}    |
+15,01*|18 |GS-TRN1  ANS |  31110 |12.01.95 |%+   | The Ravaged Nightmare          |
+15,01*|19 |KO-RAPTR GIF | 173044 |12.01.95 |%    | Kosh's Pet Raptor              |
+15,01*|20 |MA-BSUN  ANS |  15199 |12.01.95 |%+   | Black Sun Rising               |
+15,01*|21 |PC-IC2   ANS |  35264 |12.01.95 |%+   | Inner Circle                   |
+15,01*|22 |RK-CNB2  RIP |  23737 |12.01.95 |%    | Crash N Burn                   |
+15,01*|23 |RK-HYP2  RIP |  22359 |12.01.95 |%    | Hypnosis                       |
+15,01*|24 |SA-SUCCO RIP |  65405 |12.01.95 |%    | Succotash                      |
+15,01*|25 |SUCCO    EXE |   9587 |11.30.95 |     | Succotash                      |
+15,01*|26 |TR-ERE1  ANS |  29673 |12.01.94 |%+   | Erebus                         |
+15,01*|27 |TRE-IOM5 ANS |  29720 |12.01.94 |%+   | Ides of March                  |
+15,01*|28 |US-ACID3 RIP |  28683 |12.01.95 |%    | ACiD Promo                     |
+15,01*|29 |US-HYP1  RIP | 175644 |12.01.95 |%    | Hypnosis                       |
+15,01*|30 |US-IOM1  ANS |  56997 |12.01.95 |%+   | Ides of March                  |
+15,01*|31 |US-NH1   RIP |  51249 |12.01.95 |%    | Nuclear Holocaust              |
+15,01*|32 |US-NH2   RIP |  50518 |12.01.95 |%    | Nuclear Holocaust              |
+15,01*|33 |US-TROM2 ANS |  46209 |12.01.95 |%+   | The Realm of Magic             |
+15,01*|34 |WE-WILL  SUE |   1531 |11.01.95 |%+   | ACiD Legal Disclaimer          |
+15,01*|35 |ZV-ECHH  RIP |  20401 |12.01.95 |%    | Brand Echh                     |
+15,01*|36 |ACDU1295 NFO |   6341 |12.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

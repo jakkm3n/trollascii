@@ -1,0 +1,80 @@
+15,01      DARK0595.ZIP - The May 1995 DARK Collection
+15,01      DARK0695.ZIP - The June 1995 DARK Collectionare very diverse - but they
+15,01      DARK0795.ZIP - The July 1995 DARK Collectionndered and non-rendered
+15,01      DARK0895.ZIP - The August 1995 DARK Collection art drawn with the aid
+15,01      DARK0995.ZIP - The September 1995 DARK Collectiono(tm) or POV
+15,01      DARK1095.ZIP - The October 1995 DARK Collectionwn, "freestyle" form of
+15,01      DARK1295.ZIP - The December 1995 DARK Collectionushing to--------------
+15,01      DARK1995.ZIP - The Best of DARK 1995 Collection
+15,01      DARK0196.ZIP - The January 1996 DARK Collection
+15,01      DRK0296A.ZIP - The February 1996 DARK Collection (Disk 1/2)
+15,01      DRK0296B.ZIP - The February 1996 DARK Collection (Disk 2/2),yuu
+15,01      DARK0396.ZIP - The March 1996 DARK Collectionging Protocol. The Remote
+15,01      DARK0496.ZIP - The April 1996 DARK Collection a method devised by
+15,01      DARK0596.ZIP - The May 1996 DARK Collectionplay EGA quality graphicsyyy
+15,01      DARK0696.ZIP - The June 1996 DARK Collection  RIP was devised as a wayM
+15,01      DARK0796.ZIP - The July 1996 DARK Collectiond eventually, to send fullM
+15,01      DARK0896.ZIP - The August 1996 DARK Collection, as mentioned above, isM
+15,01      DARK0996.ZIP - The September 1996 DARK CollectionA quality.  However,hO
+15,01      DARK1096.ZIP - The October 1996 DARK Collectionto be released, which
+15,01      DARK1196.ZIP - The November 1996 DARK CollectionM, through JPEG(tm)
+15,01      DARK1296.ZIP - The December 1996 DARK Collection
+15,01      DARK0197.ZIP - The January 1997 DARK CollectionILLUSTRATED --
+15,01      DARK0297.ZIP - The February 1997 DARK Collectionn in using the Remote
+15,01      DRK-FAQx.xx  - Frequently Asked Questions About DARK Illustratedt only
+15,01                     (The filename used up to v1.706)e structure of various
+15,01      DARK-FAQ.xxx - Frequently Asked Questions About DARK Illustratedecific
+15,01                     (The filename used as of v1.80)awing.  Due to theses
+15,01      inherent limitations, the drawing of a RIP requires previous planning,
+15,012.  Where can I get these files? designed to be displayed across phone lines,
+15,01      it is not instantly displayed as with a VGA.  Individual shapes are
+15,01      In addition to getting the Collections from DARK-affiliated BBS'scture.
+15,01      (See V, 3), DARK Collections can be obtained from The Regency, DARK's.
+15,01      Internet Headquarters.  Run by Halaster, this telnet-BBS can be reached
+15,01      through telnet or FTP, at "tregency.res.cmu.edu".o Email Carnifex, or
+15,01      Not really, though the now-defunct Apathy Studios once put forth their
+15,01      The latest DARK Collections are also supported on the ACiD Artpacko see
+15,01      Archives, under "ftp.cdrom.com/pub/artpacks/incoming/artpacks".convey
+15,01      its essence to the public, and we encourage other art groups to follow
+15,01      These files can also be obtained through an EFNet server on the
+15,01      IRC, in channel #dark; just ask somebody on the channel.
+15,016.  Why are aliases/handles/pseudonyms used in this document?a major
+15,013.  Listing of DARK-affiliated BBS's:  In addition to much updated
+15,01      Aliases are used throughout this document, referring to people who are
+15,01     BBS Name:                 Status:                    SysOp:liases is
+15,01      prevalent; one might relate it to the use of a "nick" on the Internet
+15,01     The Lethal Aspect         World Headquarters         Xypher Matryxand
+15,01     The Regency               Internet Headquarters      Halasterfun way
+15,01     Clockwork London          DARK Member Board          Seraphim
+15,01     Mad Cows?!?               DARK Member Board          Night Stalker
+15,01     Savage Exile              DARK Member Board          Acidic Soap--------
+15,01     Sight & Sound             DARK Member Board          Drone-Fly
+15,01     Special Sauce             DARK Member Board          Samurai
+15,01     The Way Station           DARK Member Board          The Anarchist
+15,01     Abraxas/Diabolic          DARK US Support Site       Meggz Hertz
+15,011.  So what is "DARK" anyway?  What is group's background? email addresses.
+15,01-----------------------------------------------------------------------------
+15,01      DARK Illustrated is a non-profit, special interest group which supports
+15,01Maintained by DARK's Senior members.  Primarily written by CarnifexA artwork,
+15,01(fex@interlog.com) and Forlorn Extender, a/k/a desalvo (forlorn@sizone.org).
+15,01Re-writes by Xypher Matryx.  ASCII "DARK" header by Holocaust.on features an
+15,01      enthusiastic team of talented young artists.
+15,01All references  made to  copyrighted  or trademarked items,  people,  places,
+15,01things, or events are (c)copyright or (tm)trademark the specific originators,
+15,01creators, maintainers, or  owners of the specific  item(s), people, place(s),
+15,01thing(s), or  event(s).  DARK  Illustrated reserves  all of its rights in any
+15,01matter pertaining  to the group  or its members.   This  document may not  be
+15,01distributed,  in print  or in electronic form,  without prior consent by  the
+15,01DARK Illustrated Senior members.or something?
+15,012.  What does "DARK" mean, if anything?ection"?
+15,01THIS DOCUMENT IS COPYRIGHT (c) 1995-1997, DARK ILLUSTRATED
+15,01ALL RIGHTS RESERVEDed as an acronym, the word "DARK" was once coined for
+15,01      "Digital Artists of the Rare Kind."  The use of the acronym within the
+15,01      group declined over time, however, and eventually became obsolete.  It
+15,01      was replaced in mid-1994 with the current group name, DARK Illustrated.
+15,01      "DARK" and "DARK Illustrated" are used interchangeably, as both refer
+15,01      to the same thing. official position on "dual-grouping"?
+15,01     * 6. How can I request artwork from DARK members?
+15,013.  What is meant by a "DARK Collection"?em work?
+15,01     * 8. Where's the second disk of the July 1995 DARK Collection?
+15,01      At the end of each month, a compilation of recent artwork from DARK

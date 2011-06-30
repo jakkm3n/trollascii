@@ -1,0 +1,57 @@
+
+
+15,01                      12RA02iD14 Application Generator 02v112.015                          
+15,01              12     15   02                                 
+15,01      12Co02ded by 12Fr02eestyle [raid] # 12Me02nu/Layout by 12Em02erald 12Sk02lelter [raid]
+
+
+12,01   00 12He02re it is!
+00,01  12 00 12--02---------
+
+00,01      12 He02re it is, our first application generator which should have been
+00,01    02included in the last pack, but because of one fat lazy-assed guy (me?)
+00,01    02we ran out of time last month, so here it is now.. this app-gen will be
+15,01    02included in all the future raid packs. 15 02You probably know what to do with
+02,01    these things already, but I'll go through it again anyway.. my job :)
+
+
+00,01    12He02re's what you do
+00,01    12--02----------------
+
+00,01        12Fi02rst you load up the program (if you don't know how then need not 
+02,01    apply :) and you should see a menu with all the options that are available15 
+00,01    02for you. What you do is simply move the cursor (watch the kid's eyes 
+02,01    carefully!) to the option you want and press <ENTER>. Next you will see 
+00,01    02all sorts of questions that must all be answered, truthfully & to best
+02,01    of your ability. If any invalid/false information is given, your applicatio
+02,01    will be void, and we'll post it up on our net and laugh at it =) J/K
+
+
+15,01    12It02's time for delivery
+15,01    12--02--------------------
+
+00,01        12Ok02ay, so you filled in everything, now it's time to deliver your      15 
+00,01    02application to our WHQ so that we can process your application.15 02The number15 
+00,01    02is listed at the very bottom. All you have to do is simply zip up
+02,01    your application file, preferably with some sample works (include some of  
+02,01    your best works). 
+
+00,01       
+15,01    12Th02e World Headquarters       
+15,01    12--02--------------------       
+
+15,01        12Ri02se of The Midnight Sons       1260024-431-6515
+15,01                                        1260024-431-3821
+
+
+15,01        12Lo02gon with handle 00GUEST02 and password 00RAID02.15 02After all is finished, just15 
+02,01    wait and one of our senior member will contact you. 
+
+02,01        12Ok02 I guess that's it, thanks again to Freestyle15 02and Emerald Skelter
+02,01    for doing such a fantastic job! (and so funny too =)
+
+
+15,01   12             15                            12 02 12fa02b one . 12ra02id senior
+15,01>>SAUCE00RAiD App-Gen Documentation         Fab One             RAiD            
+15,01    19941201[
+15,01  @@P v                             

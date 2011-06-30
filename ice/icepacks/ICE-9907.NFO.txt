@@ -1,0 +1,72 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                      J   U   L   Y     1    9    9    9
+15,01-------------------------------------------------------------------------------
+
+15,011.  If running space explorers into the moon in search of iCE doesn't  titilate
+15,01your control panel, perhaps you  need to try browsing the 227MB of art located
+15,01at http://www.ice.org.  Everyone has their own thing, we understand.
+
+15,012.  While the Lunar Prospector  didn't find any traces of water, it did pick up
+15,01one  blip on its radar - Inazone.  Oddly  enough, Inazone was  found lying in a
+15,01crater on the south side of the Moon, complaining about being thirsty.
+
+15,013.  While some  people might claim we're in "summer" already, iCE  always feels
+15,01like  a warm spring day.  With that  fuzzy feeling in mind,  we decided to take
+15,01a duster  to our memberlist and  clean up some  of the cobwebs.  It once  again
+15,01reflects  "active"  members in iCE.  Except  for Force  Ten.  But  nobody likes
+15,01him anyways, what with his big teeth and all.
+
+15,014.  Two new  guys are showing their wares for the  first time this month, hirez
+15,01boys  Fyrenurbs (Ryan3d) and Tim Lewis both  have great work in the pack.  Ryan
+15,01has some incredible 3D talent (make sure you check his website) while Tim keeps
+15,01doing this amazingly realistic dp2e images.  Either way, we've  got a real pair
+15,01so keep your eyes on them.
+
+15,015.  Showing that the girls have what it takes in iCE as well, Kitiara came from
+15,01the RIP  department to show  off two new 35k+ ANSIs.  Now if we  could convince
+15,01Elizabeth Hurley to join, iCE would be complete!
+
+15,016.  A  victim of  the memberlist  cleanup, it was revealed in high  level staff
+15,01meetings  that senior staffer Sinned Soul  has actually not  contributed to iCE
+15,01since  he joined as senior  staff more than a decade ago.  Amazed how something
+15,01like this  could happen, Cold and Ugly  was heard exclaiming "SON OF A!"  while
+15,01Boa took the less militant approach and had a smoke.
+
+15,016.66  Despite  an intense investigation  from our "logic and sensability" focus
+15,01group, Ricky Martin still had the #1 spot on the charts this month.
+
+15,017.  Adam Grossi hits us this month with his sophomore submission - an excellent
+15,01example of  what talented artists can come up  with.  Stir with  iCE, and watch
+15,01out!  We  had some great pieces  turned in by guys like Magnetic M, Mongi, Jae,
+15,01Mass Murderer,  Sprite, Rogue  Leader and more.  This  art pack is  filled with
+15,01art that is good art.  and art.  and stuff.
+
+15,018.  With that English  out of our system, we're  ready to say adios and let you
+15,01get  back to what you were accidentally stopped from doing - but we  won't talk
+15,01about that, now will we?
+
+
+15,01-Mass "I (heart) Dawson's Creek" Delusion // iCE Senior Staff
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------

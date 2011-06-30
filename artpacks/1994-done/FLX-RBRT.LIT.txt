@@ -1,0 +1,49 @@
+15,01                           00The Actor's Monologue
+
+
+15,01      00"I am Robert Lyton Cohen.  You must recognize the name?  Perhaps it is
+00,01our present setting, it is so without the characters I've played.  If I were
+00,01to encounter you on a sidewalk, or waiting in front of the men's room in your
+00,01favorite Denny's, you would recognize me, because those are settings native
+00,01to my characters.  I, you see, am quite a different person.  I care for the
+00,01Italian, anything Italian. `Quando vicino di Roma,' as they say.  That we are
+00,01not near Italy is of no consequence; I plan to go there next year, it's just
+00,01that I've been busy, so busy!  I hope to go by way of Constantinople.  I have
+00,01heard that Constantinople's ancient walls are in an architectural museum in
+00,01what used to be East Berlin, & that they are blue.
+
+15,01                        00&15            00&15           00&
+
+15,01      00"I never really had a father, you understand.  He was blown-up in a
+00,01boiler room when I was six-months on my way.  My mother told me that he was
+00,01an odd man.  Apparently, whenever he was disturbed he would do the most
+00,01extraordinary things.  She said that he had never seen a boiler blow, &
+00,01that he had always wanted to.  My mother was fabulous.  She knew what would
+00,01happen, so she went shopping when he said he was going to the basement.
+00,01She always had such foresight, & her face was always red.
+
+15,01                         00&15           00&15          00&
+15,01      00"Why am I in Bishop?  Why, I'm on my way to my film location, of course.
+
+00,01It will be a dashing production, I'm sure.  I play this man who is obsessed
+00,01with rocks.  He likes the shapes of rocks, & the hardness of rocks.  He has
+00,01thousands around the apartment he shares with his wife, who is a ballet
+00,01dancer.  He likes to position his rocks around the apartment, & his favorite
+00,01thing about them is how they don't move.  He is fascinated by their inanimacy.
+
+00,01His wife is always taking his rocks, & hiding them because he likes to put
+00,01them on the floor in her studio.  He often takes her toe-shoes, so that she
+00,01will not move his rocks, but she simply buys new ones.  One night he gets
+00,01very angry, &, realizing the futility of taking her shoes again, he takes
+00,01her feet away, & hides them instead.  Her feet were yellow.
+
+15,01                          00&15          00&15          00&
+
+15,01      00"Take a good look at me.  All of these people I've told you about are
+00,01dead now.  I shared the same environment with all of them.  I survive.  How
+00,01much of me can you really see?  How much do you fill in?  I am very largely
+00,01comprised of water; so are you.  I can see what you are thinking.  You think
+00,01that I am very troubled, perhaps insane.  Here, I will remove my sunglasses.
+00,01My eyes are strange, aren't they?  What you need to do now is think in the
+00,01only truly logical way.  Believe what you see, but be logical.  Don't create
+00,01what isn't there.  I see that you understand me now.  I am clear."

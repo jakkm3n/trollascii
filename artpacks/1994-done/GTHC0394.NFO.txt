@@ -1,0 +1,80 @@
+
+15,01                                 |
+15,01                  m|            14,15 
+15,01             mmmm14,15  15,01 m14,15  15,01 mmmmmmm|# mmmmmm mmmmmm mmmmmmmmmmmmmmmmmmmmmmm
+15,01       mm14,15     15,01""14,15 15,01"  14,15 15,01#14,15#15,01 ##00@@14,15## 15,01|00@15 #00@@14,15##15,01|14,15 15,01m"14,15##15,01#|14,15 15,01m"#00@14,15#######               15,01mm
+15,01    m14,15     15,01""   "     ""         #       14,15   15,01    14,15   
+15,01  m14,15      15,01                    mm "|"14,15           15,01 14,15   15,01  mm        mm      mm
+15,01 14,15       15,01                  mm14,15 15,01""14,15 15,01mm  "   14,15   15,01    14,15   15,01m"14,15   15,01m    m14,15  15,01|   mm14,15 15,01""14,15 15,01mm
+15,01|14,15      15,01|                14,15    15,01    14,15    15,01    14,15   15,01    14,15   15,01   "14,15   15,01   14,15   15,01  14,15    15,01    14,15    
+15,01"""""""              mm  """    """     """    """    """   """   """    """
+15,01#######         mm14,15###15,01"   ###    ###     ###    ###    ###   ###   ###
+15,01 00@@@@@@@15      ""14,15##  15,01|    00@@@15    00@@@15     00@@@15    00@@@15    00@@@15   00@@@15   00@@@
+15,01  "14,15######15,01       |14,15   15,01    |14,15###15,01    14,15###15,01|    14,15###15,01    14,15###15,01    14,15###15,01   14,15###15,01  |14,15###15,01    14,15###15,01|
+15,01    ""14,15    15,01m     14,15    15,01    14,15    15,01    14,15    15,01   |14,15   15,01    14,15   15,01    14,15   15,01   14,15   15,01  14,15    15,01    14,15    
+15,01    "mm ""14,15  15,01mmm14,15     15,01|     ""14,15 15,01mm14,15 15,01""    m14,15  15,01"   "14,15    15,01    14,15    15,01"|14,15 15,01" mmm ""14,15 15,01mm14,15 15,01"" m
+15,01      "14,15  15,01mm   """"""" m14,15 15,01mm   ""      """  mm14,15 15,01m """    """  " m14,15     15,01m  ""  m14,15 
+15,01       |14,15   15,01" "14,15 15,01mmmmm   14,15    15,01mmmmm"   ""mm14,15          15,01mmmmm14,15 15,01""  ""14,15     15,01""14,15 15,01mm14,15   
+15,01        14,15  15,01| ## "14,15  15,01"    |14,15  15,01" #""        14,15   15,01"   "14,15    15,01""##   #    14,15  15,01| #00@15 "14,15  15,01"
+15,01        |14,15 15,01  00@15   ||      14,15 15,01   00@15          |14,15 15,01|  #   14,15 15,01"  00@@15    00@15    |14,15 15,01  "   14,15 15,01|
+15,01        14,15  15,01||14,15#15,01|  14,15  15,01      14,15 15,01  |14,15#15,01|         |14,15 15,01   "  |14,15 15,01|  "    |14,15#15,01|   14,15  15,01|    |14,15 15,01|
+15,01       |14,15   15,01 "  |14,15  15,01|    |14,15 15,01|  "          14,15  15,01|      "         "     "     14,15   
+15,01        """     ""      "               "         GL[Got]              "
+
+15,01-------------------------------------------------------------------------------
+15,01               14,15 #00,01@15# The Gothic Revival - March 1994 edition #00@14,15# 
+15,01-------------------------------------------------------------------------------
+
+15,01               "Loyalty, trust, and friendship shall guide us."
+
+15,01===============================================================================
+
+15,01    o My first NFO file for Gothic.  Enjoy ... - Aphex Twin
+
+15,01    o First off, the bad news: Forlorn Extender has left the group to
+15,01      pursue, uh ... well ... we don't know.  Word has it he's possibly
+15,01      leaving the scene but that is as yet unconfirmed.
+
+15,01    o I have replaced STiLE as one of the two Canadian Directors, and Bane
+15,01      is the new US Director, replacing The Calibre who went to ACiD.
+
+15,01    o A new position has been created: "Administrative Officer".  STiLE
+15,01      and Sinned Soul, who have helped out the group in many ways over the
+15,01      past month, are now holding this title.
+
+15,01   .o We're sad to announce the break-up of TRiBE.  After Shihear was
+15,01      caught ripping off a Quasar ANSI he left the scene to compose "a very
+15,01      long message" explaining how he was framed; TRiBE quickly fell apart
+15,01      due to a lack of organization.  Coming to Gothic from TRiBE is Jocko.
+15,01      Welcome to the group.
+
+15,01    o We have two promising new artists joining us this month in Fizban
+15,01      and Ground Zero; we hope to see some good stuff out of you two...
+15,01      welcome to Gothic.  Blade has been promoted from apprenticeship to a
+15,01      full VGA artist, and Xerf, a newcomer to the scene, is our new VGA
+15,01      apprentice.  Critical Perspective has also joined us as a VGA
+15,01      artist.
+
+15,01    o Dual Standard has joined us as a courier, and is handling the boards
+15,01      out in western Canada.  His new US counterparts are Cybermage, Cynic
+15,01      Cipher, and Omega Redd.
+
+15,01    o We have a new viewer this month -- Bloodview, coded by SiDS, who is
+15,01      the latest member of our coding division.  Both GV and BV will be
+15,01      included in future packs; use whichever you prefer.
+
+15,01      A new version GothicView is being released in the pack; all RIP
+15,01      functions are now working correctly.  BIG thanks to Skull Leader for
+15,01      the last minute help.  It's really appreciated.
+
+15,01    o GothicDraw will be released sometime next month.  It's a new 800
+15,01      line ANSI editor with built-in VGA, being programmed by Sinned Soul.
+15,01      I've tried out an early beta, and it's already starting to look
+15,01      pretty cool.
+
+15,01    o Forgemaster has become a Gothic musician, joining us from ACiD.
+15,01      Timelord and Basehead are currently working on a musicdisk that will
+15,01      be released within the coming months.
+
+15,01    . After much discussion and deliberation, Gothic has reluctantly agreed
+15,01      on the long-awaited iCE/ACiD -> Gothic merger.  We will retain the

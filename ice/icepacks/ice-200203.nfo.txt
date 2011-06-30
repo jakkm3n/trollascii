@@ -1,0 +1,72 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    M  A  R  C  H           2   0   0   2
+15,01-------------------------------------------------------------------------------
+
+15,011. Big news this month!  Slothy made his big film debut this month in Ice Age.
+15,01   He plays himself in the movie, but he used a stage name for the production.
+15,01   We have tried to talk to him to ask about the experience, but he tells us
+15,01   that he doesn't have time for his fans anymore, and that he's hoping to star
+15,01   in his own movie next.
+
+15,012. We have an extra special tutorial this month from our very own Greater Evil.
+15,01   The tutorial this month is on "How to make really awesome graphics."  
+15,01   Definitely a must-read!
+
+15,013. Our featured artist this month is everybody's favorite Croatian, TonchyZ. As
+15,01   well as having some great pics from him, we have an interview with His 
+15,01   Tonchiness.  Check it out or Mr. T will kill you.
+
+15,014. We have to welcome our new member!  We'd proud to welcome Trollboy to the
+15,01   hallowed halls of iCE.  Aside from drawing phalluses, Mark also enjoys doing
+15,01   things that make him happy and not contracting deadly diseases.  His name
+15,01   also never Cindy.  You might recognize his art this month as being the only
+15,01   one to contain a shlong.
+
+15,014a. Yonadaan, who joined last month, finally went nuts and submitted a mess of
+15,01   art this month!  Since you didn't get to enjoy his amazing talents last 
+15,01   month, I figured I'd give him a proper greet and make sure everyone notices
+15,01   one of our new members.  Plus I owe him for losing a bet over who was the
+15,01   better badminton player.
+
+15,015. Our sincere apologies for our server woes earlier this month.  We were 
+15,01   forced to change our network provider rather suddenly, which caused 24 hours
+15,01   of downtime while we switched all our DNS records to the new IP.  We hope
+15,01   not to have to do that again. 
+
+15,016. We have another quilt this month.  This time it's our "Digital Graffiti"
+15,01   quilt that nokturnal started.  It turned out to be pretty cool stuff, so I
+15,01   suspect we're going to have to do another one soon!
+
+15,017. Oh, and mad pr0ps to Trip for doing EVEN MORE ansi!  Wh00p!
+
+15,018. Just a note about Slothy here.  It was his birthday on the 30th and he made 
+15,01   a special birthday wish before blowing out the candles at his big birthday 
+15,01   party (there was a clown, pony rides, and even songs that everyong sang
+15,01   along with!).  So on April 9th, please go to work with no pants on, to honor
+15,01   his birthday wish.
+
+15,01Hoping you'll appear in a movie too,
+15,01     Slothy and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01                      Lord Soth                    Root88
+15,01-------------------------------------------------------------------------------

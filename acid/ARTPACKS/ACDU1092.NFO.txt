@@ -1,0 +1,68 @@
+
+15,01   #------------------------------------------------------------+
+15,01   |  "The Acquisition" -  Contains A-Z of the ART Collection.  |
+15,01   |  Background History:    The Acquisition was originated in  |
+15,01   |  San Jose, California.   After  it had been organized and  |
+15,01   |  its contents  sorted,  it  first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To  this day the original zips are still  |
+15,01   |  floating around,  but  as  more  and  more high  quality  |
+15,01   |  computer graphics  are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                    |
+15,01   +============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |  The Acquisition : September Update  * October 1st, 1992  |
+15,01   +-----------------------------------------------------------+
+15,01   || Note:   The file ACDU1092.ZIP is only an update of the  ||
+15,01   || latest works not included in the preceding Acquisition. ||
+15,01   ++-- --  -  -                                   -  -  -- --++
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01*|1  |ACID-SC  ANS |   5441 | 9.25.92 |%   | ACiD Logo by Sonic              |
+15,01*|2  |ACID-TR  ANS |  40726 | 9.27.92 |%A  | ACiD Logo by Tracer             |
+15,01*|3  |ACID92   ANS |   6187 | 9.28.92 |%+  | ACiD Member List for October    |
+15,01*|N/C|ACIDART  APL |   4822 | 9.27.92 |%+  | ACiD Artists Application Form   |
+15,01*|4  |ACQACID1 ANS |   7230 | 9.06.92 |%+  | ACiD's Acquisition Logo/Intro   |
+15,01*|5  |ACQMENUS ANS |   3424 | 9.27.92 |%   | ACiD AAV Viewer B Logo          |
+15,01*|6  |AF1ACID  ANS |  16021 | 9.21.92 |%+  | Avenging Force               (1)|
+15,01*|7  |AF2ACID  ANS |  11763 | 9.25.92 |%+  | Avenging Force               (2)|
+15,01*|8  |BCACID7  ANS | 269538 | 9.28.92 |%+  | Body Count                   (7)|
+15,01*|9  |BNTYACID ANS |  13476 | 9.24.92 |%Ax | The Bounty                      |
+15,01*|10 |BOGACID2 ANS |   3359 | 9.26.92 |%   | The BoG                      (2)|
+15,01*|11 |BOGACID3 ANS |   3853 | 9.27.92 |%   | The BoG                      (3)|
+15,01*|12 |BRTRACD2 ANS | 299721 | 9.26.92 |%Ax | Barter Town                     |
+15,01*|13 |DSOCACD1 ANS |  34888 | 9.27.92 |%A+ | Dark Society                    |
+15,01*|14 |EVILACD1 ANS | 284395 | 9.05.92 |%Ax+| The Evil Palace                 |
+15,01*|15 |FFACID1  EXE | 157272 | 9.27.92 |%Ax | Final Fantasy (Super-Loader)    |
+15,01*|16 |FFACID5  ANS |   5858 | 9.05.92 |%+  | Final Fantasy                (5)|
+15,01*|17 |FLT-ACD3 ANS |   4892 | 9.29.92 |%   | Fairlight Logo               (3)|
+15,01*|18 |HG-ACID1 EXE |  24385 | 9.04.92 |%   | ACiD Logo by Hologram           |
+15,01*|19 |KOROVA   ANS |  11456 | 9.22.92 |%+  | Korova Milkbar (The Original)   |
+15,01*|20 |KOROVA3  ANS |  15111 | 9.24.92 |%+  | Korova Milkbar               (3)|
+15,01*|21 |KOROVA4  ANS |  10490 | 9.27.92 |%+  | Korova Milkbar               (4)|
+15,01*|22 |LEXICON4 ANS |   4081 | 9.16.92 |%   | The Lexicon : CAE            (4)|
+15,01*|23 |MERCACID ANS |   2053 | 9.07.92 |%   | Mercury Logo                    |
+15,01*|24 |PMTACID1 ANS |  11205 | 9.11.92 |%+  | Paramount Net Logo              |
+15,01*|25 |SC-ACID3 ANS |  17615 | 9.06.92 |%+  | Spyrit's Crypt               (3)|
+15,01*|26 |SSACID4  ANS |  62948 | 9.27.92 |%Ax+| Street Spydrz                (4)|
+15,01*|27 |STIMPYBS ANS |   3848 | 9.06.92 |%+  | Stimpy w/ Small ACiD Logo       |
+15,01*|28 |TDT1ACID ANS |   9618 | 9.04.92 |%+  | The Dream Team Logo             |
+15,01*|29 |TEC2ACID ANS |  45456 | 9.30.92 |%Ax | The Eldar's Craftworld       (2)|
+15,01*|30 |TPL1ACID ANS |   8510 | 9.29.92 |%+  | The Psychotic Lab               |
+15,01*|31 |TSH2ACD  ANS |   8542 | 9.02.92 |%+  | The Slaughter House          (2)|
+15,01*|32 |ACDU1092 NFO |   4758 |10.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = Animated/ANSiMated    |
+15,01  | M = Adlib/ANSi Music/SB  + = Scrolling             |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 33         Average Compression Rate: %74  |
+15,01  |   Total Bytes: 1,412,944  Average Of Bytes/File: 42,816  |
+15,01  |                           Total Bytes Zipped:   381,098  |
+15,01  +----------------------------------------------------------+

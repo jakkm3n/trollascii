@@ -1,0 +1,80 @@
+15,01                    [  F U R Y  A P P L I C A T I O N ]
+
+15,01     Here is the application form for FURY just fill out everything
+15,01the best you can and upload it to the WHQ The Stand (615)776-3163 or 
+15,01to USHQ Corrupted Society (414)467-2794 Thanks for taking the time to fill
+15,01this out, once you upload your application give us 2-3 days to review your
+15,01application for FURY and we will then contact you by voice.
+
+15,01    You will also need to zip up your best/latest ansi's or pieces of work
+15,01that you have done and once you have done that zip up your fury.app file
+15,01with it and rename the whole zip with your handle.  Example: AZRAEL.ZIP
+
+15,01Personal Information---------------------------------------------------------
+15,01Handle:
+15,01Real Name:
+15,01Age:
+15,01Voice Number: (   )   -
+15,01Data  Number: (   )   -
+15,01Street Address:
+15,01City:
+15,01State:
+15,01Zip Code:
+
+
+15,01BBS Info---------------------------------------------------------------------
+15,01BBS Name:
+15,01CoSysops:
+15,01Nodes:
+15,01BBS Number: (   )   -
+15,01Meg's On-Line:
+15,01# of Users:
+15,01NUP:
+15,01Main theme of board
+15,01[ ] Warez       [ ] Ansi   [ ] Programming  [ ] Hacking/Phreaking  [ ] Music
+15,01[ ] Messages    [ ] Virii  [ ] Cracking
+15,01How often do you call LD:
+
+
+15,01Net Information
+15,01NET              Zone:Region/Node        ZC   Region Host  Hub
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01                     :   /              [ ]       [ ]      [ ]
+15,01                     :   /              [ ]       [ ]      [ ]
+
+15,01Do you run a NET?  [ ] Yes  [ ] No
+15,01If "Yes" please briefly inform us on the net.
+15,012:
+15,013:
+15,014:
+15,01Number of Nodes?  [   ]
+15,01Would you be willing to join the support net for FURY and poll daily or 
+15,01every other day?  [ ] Yes [ ] No
+
+15,01References  Information
+15,01BBS                   AC   Phone Number    Sysop   NUP
+15,011:                  (   )      -                   :
+15,012:                  (   )      -                   :
+15,013:                  (   )      -                   :
+
+15,01Artistic Information:
+15,01Talents:
+15,01[ ] Ansi   [ ] VGA  [ ] Mod  [ ] 669  [ ] Wav  [ ] Coding  [ ] Literature
+15,01Previous/Current Affiliations:
+15,01[ ] ACiD    [ ] ALiVE   [ ] UNiON    [ ] R.E.M.  [ ] MaD      [ ] CiA
+15,01[ ] iCE     [ ] MaX     [ ] GOTHiC   [ ] MiRAGE  [ ] DARK     [ ] Blunt
+15,01[ ] TRiBE   [ ] iMAGE   [ ] TaG      [ ] RELiC   [ ] Titan    [ ] Manifest
+15,01[ ] EMPiRE  [ ] VOiD    [ ] TaR      [ ] Crisis  [ ] Imperial [ ] Illusion
+15,01[ ] ATOMiC  [ ] Cancer  [ ] Shiver   [ ] Nation  [ ] DoPE     [ ] 
+15,01[ ] RiOT    [ ] Visual Insanity      [ ] Light   [ ] STX      [ ]
+
+15,01Can you code Demo's, ansi viewers, and application generators? [ ]Yes/[ ]No
+15,01If YES what language(s) do you code in?
+15,01[ ] Assembly     [ ] QBasic      [ ] Fortran
+15,01[ ] Turbo C      [ ] QBasic Ext. [ ] Cobol
+15,01[ ] Turbo C++    [ ] LISP        [ ] Basica
+15,01[ ] Turbo Pascal [ ] SAS         [ ] Visual Basic
+
+15,01Now write a little essay on yourself and your experience in the art scene.
+15,011:
+15,012:

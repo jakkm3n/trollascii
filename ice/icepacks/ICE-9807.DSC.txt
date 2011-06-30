@@ -1,0 +1,49 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 8/1/1998
+15,01###############################################
+15,01ice-9807.sit,ANSI,iCE 98/07 Sites,iCE Senior Staff
+15,01ice-9807.nfo,ANSI,iCE 98/07 Info File,iCE Senior Staff
+15,01ice-9807.mem,ANSI,iCE 98/07 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,0109-haze.ice,ANSI,Haze,Fluor
+15,0109-scent.ice,ANSI,Scent,Fluor
+15,01dn-ec01.ice,ANSI,Eclipse,Dreadnought
+15,01fr-ice98.ice,ANSI,iCE 1998,Fractal
+15,01in-1st.ice,ANSI,My 1st Logo,Inazone
+15,01iv-ice9.ice,ANSI,iCE Promo,Inner Vision
+15,01jk-v2.ice,ANSI,www.ice.org v2,Joker
+15,01tgh-phl.ice,ANSI,Phluph,The Green Hornet
+15,01tgh-ice3.ice,ANSI,iCE Promo,The Green Hornet
+15,01tg-ice6.ice,ANSI,iCE Promo,Toon Goon
+15,01ti-brt1.ice,ANSI,Black Rose Tavern,Trip
+15,01ti-brt2.ice,ANSI,Black Rose Tavern,Trip
+15,01ti-mum.ice,ANSI,Lethal Vengeance,Trip
+15,01ti-brt3.ice,ANSI,Black Rose Tavern,Trip
+15,01us-cloud.bin,BIN,Clouds - AWE/Legion/iCE Joint,Lots'o'Artists
+15,01us-goop2.ice,ANSI,Goop/2,sq2
+15,01us-ice98.ice,ANSI,Mass Delusion / Shaggy / Magnetic M
+15,01bg-ice.rip,RIP,iCE Promo,Black Guard
+15,01iv-ice9.rip,RIP,iCE Promo,Inner Vision
+15,01DM-GATWY.JPG,Gateway,dmp
+15,01DM-SLVTN.JPG,Salvation,dmp
+15,01DM-VOW.JPG,Vows,dmp
+15,01DM-WRATH.JPG,Wrath,dmp
+15,01ht-arrw.jpg,Arrows,Heat
+15,01ht-mtn2.jpg,Motion,Heat
+15,01jk-v2promo.jpg,v2 Promo,Joker
+15,01mi-dinam.jpg,Dina Meier,Mongi
+15,01mi-lgos2.jpg,Quake Logos,Mongi
+15,01mr-v2.jpg,www.ice.org v2 promo,Mr. Mister
+15,01tk-alone.jpg,Alone,The Knave
+15,01tk-defs.jpg,Defsquad,The Knave
+15,01tk-zoj.jpg,Zoo of Jupiter,The Knave
+15,01tw-ally.jpg,Alley,Tim Wallace
+15,01tw-cast.jpg,Colony Cast,Tim Wallace
+15,01tw-flar2.jpg,Sun Flare,Tim Wallace
+15,01tw-flare.jpg,Sun Flare 2,Tim Wallace
+15,01tw-fore.jpg,Foreman,Tim Wallace
+15,01tw-key.jpg,Keyboard Render,Tim Wallace
+15,01tw-lbss.jpg,LBSS,Tim Wallace
+15,01tw-sktch.jpg,Pencil Sketch,Tim Wallace
+15,01tw-wrhse.jpg,Warehouse,Tim Wallace
+15,01us-v2.jpg,v2 Promo,Jae/Joker

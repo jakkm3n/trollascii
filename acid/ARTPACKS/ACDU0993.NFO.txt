@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : August Update    *  September 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0993.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0893 ANS |   7684 | 8.31.93 |%+   | August Members List            |
+15,01*|2  |ACIDAPP  EXE |  41644 | 9.01.93 |%    | ACiD Application Form Generator|
+15,01*|3  |AE-NTMD1 ANS |  19967 | 9.01.93 |%+   | 'The Man you Love to Hate'     |
+15,01*|4  |CA-CORE  ANS |   2348 | 8.03.93 |%    | Core Logo                      |
+15,01*|5  |CE-UNDR2 ANS | 887678 | 9.01.93 |%Ax+ | Underworld ANSIMATION(tm)   (2)|
+15,01*|6  |DH-FJ1   ANS |  25288 | 8.29.93 |%+   | Final Judgement                |
+15,01*|7  |EX-RIP   ANS |  11134 | 8.24.93 |%+   | RIP                            |
+15,01*|N/C|FILE_ID  DIZ |    264 | 9.01.93 |%    | Acquisition FILE ID by Fusion  |
+15,01*|8  |FR-STAT  ANS |   6113 | 8.28.93 |%+   | Stats Screen                   |
+15,01*|9  |HO-MAN   ANS |   8796 | 8.18.93 |%+   | Manhattan Project Logo         |
+15,01*|10 |IC-COE   ANS |  42899 | 9.01.93 |%+   | Code of Ethix                  |
+15,01*|11 |IC-X     ANS |   4127 | 8.10.93 |%    | eXodus Couriers Logo           |
+15,01*|12 |IL-HOI   ANS |  22215 | 8.04.93 |%+   | House of Insanity              |
+15,01*|13 |IL-LIQ2  ANS |   2450 | 8.14.93 |%    | The Liquor Cabinet Logo        |
+15,01*|14 |IL-SUB   ANS |  10341 | 8.04.93 |%+   | Suburbia                       |
+15,01*|15 |IZ-ACID3 ANS |   2748 | 8.16.93 |%    | ACiD Logo                   (3)|
+15,01*|16 |IZ-MSTAT ANS |   9614 | 9.01.93 |%+   | Stats Screen                   |
+15,01*|17 |IZ-PWA   ANS |   2163 | 8.12.93 |%    | PWA Logo                       |
+15,01*|18 |KS-ACID1 ANS |   4804 | 8.23.93 |%    | ACiD Logo                      |
+15,01*|19 |KS-ARISE ANS |   1898 | 8.23.93 |%    | Arise Logo                     |
+15,01*|20 |KS-BLITZ ANS |   3122 | 8.19.93 |%    | Blitz Net Logo                 |
+15,01*|21 |KS-EXOD1 ANS |  14543 | 8.19.93 |%+   | Exodus                         |
+15,01*|22 |KS-RGRK1 ANS | 975934 | 8.24.93 |%Ax  | Ragnarok                       |
+15,01*|23 |KS-RPM1  ANS |  40263 | 8.19.93 |%+   | Revolutions Per Minute         |
+15,01*|24 |KS-TU01  ANS | 672917 | 8.25.93 |%Ax  | An Untimely Adventure          |
+15,01*|25 |MX-CITAD EXE |  41372 | 8.30.93 |%x+M | Citadel                        |
+15,01*|26 |RD-ALPHA EXE | 321382 | 8.27.93 |%M   | Alpha 2010                     |
+15,01*|27 |RN-ACID1 ANS |  33804 | 8.23.93 |%+   | DieHard w/ ACiD Logo           |
+15,01*|28 |RN-ACID1 RIP |   2181 | 8.21.93 |%    | Death Blow w/ ACiD Logo        |
+15,01*|29 |RN-ACID2 RIP |   2788 | 8.21.93 |%    | ACiD Logo                      |
+15,01*|30 |RN-ACID3 RIP |   9069 | 9.01.93 |%    | The Incredible RIP Screen      |
+15,01*|31 |RN-BC    RIP |   5599 | 8.25.93 |%    | Burning Chrome                 |
+15,01*|32 |RN-DSOC1 RIP |   5049 | 8.21.93 |%    | The Dark Society               |
+15,01*|33 |RN-DSUN1 RIP |   3759 | 8.21.93 |%    | The Dark Sun                   |
+15,01*|34 |RN-NTG   RIP |   6476 | 8.27.93 |%    | Nevada Testing Grounds         |
+15,01*|35 |RS-ELUS  EXE |  14793 | 8.29.93 |%M   | Elusive Dream                  |
+15,01*|36 |ST-ACID  ANS |   9772 | 8.27.93 |%    | ACiD Logo                      |
+15,01*|37 |SW-CYC   EXE |  26641 | 8.29.93 |%M   | Cyclops BBS                    |
+15,01*|38 |SX-DSOC1 ANS |   7484 | 8.23.93 |%+   | The Dark Society               |
+15,01*|39 |SX-SK8   ANS |  11962 | 8.10.93 |%+   | Harmony Skates                 |
+15,01*|40 |TK-AV353 ZIP |  39963 | 6.01.93 |%    | ACiD Acquisition Viewer v3.53  |
+15,01*|41 |VN-PWA   EXE |  23013 | 8.31.93 |%x   | PWA Logo                       |
+15,01*|42 |VS-ACID1 RIP |  50094 | 8.23.93 |%    | Death Blow w/ ACiD Logo        |
+15,01*|43 |VS-RL1   ANS |  35218 | 8.13.93 |%+   | Renegade Legion                |
+15,01*|44 |ACDU0993 NFO |   6887 | 9.01.93 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+

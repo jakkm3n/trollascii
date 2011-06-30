@@ -1,0 +1,80 @@
+15,01;--------------------------------------------------------------------
+15,01;                    SimplexAdlib Player
+15,01;--------------------------------------------------------------------
+15,01;              Copyright (C) 1993 Future Crew
+15,01;--------------------------------------------------------------------
+15,01;                        code: Psi
+15,01;                       music: Skaven
+15,01;--------------------------------------------------------------------;
+15,01; Modifications for PGRID Loader by Friar Tuck, outlined by comment  ;
+15,01; blocks                                                             ;
+15,01;--------------------------------------------------------------------;
+15,01;14,15                15,01 Simplex Adlib Player 14,15                
+15,01;this doesn't just read raw data to output to adlib like the one
+15,01;used in the last starport intro. This player really does have
+15,01;note & instrument data it reads and processes!
+
+15,01;adlib data
+15,01a_musiccnt dw   0
+15,01a_chdelaycnt db 9 dup(0)
+15,01a_chdelay db    9 dup(0)
+
+15,01;adlib player data
+15,01a_inst_table LABEL BYTE
+15,01        db 20h+0,20h+1,20h+2,20h+8,20h+9,20h+10,20h+16,20h+17,20h+18
+15,01NTB equ 8192 ;+1024*1
+15,01a_note_table LABEL WORD
+15,01        dw NTB+363,NTB+385,NTB+408,NTB+432,NTB+458,NTB+485
+15,01        dw NTB+514,NTB+544,NTB+577,NTB+611,NTB+647,NTB+868
+15,01        ;note: a zero word is expected after this table (found in col0)
+
+15,01;00@@@@@@@@@@@@@@@@15 output data to adlib 00@@@@@@@@@@@@@@
+15,01a_lodsboutaw03: ;size optimization related entry (instrument loading)
+15,01        call    a_lodsboutaw
+15,01        add     ah,3
+15,01a_lodsboutaw: ;size optimization related entry (instrument loading)
+15,01        lodsb
+15,01a_outaw PROC ;ah=reg,al=data
+15,01        push    ax
+15,01        push    cx
+15,01        xchg    al,ah
+15,01        mov     dx,388h
+15,01        out     dx,al
+15,01        mov     cx,7
+15,01        call    a_wait
+15,01        mov     dx,389h
+15,01        mov     al,ah
+15,01        out     dx,al
+15,01        mov     cx,30
+15,01        call    a_wait
+15,01        pop     cx
+15,01        pop     ax
+15,01        ret
+15,01a_wait: in      al,dx
+15,01        loop    a_wait
+15,01        ret
+15,01a_outaw ENDP
+
+15,01;00@@@@@@@@@@@@@@@@15 load instrument to adlib 00@@@@@@@@@@@@@@
+15,01a_loadinstrument PROC
+15,01        ;bx=channel, ds:si=offset to instrument data
+15,01        mov     ah,ds:a_inst_table[bx]
+15,01        mov     cx,4
+15,01@@11:   call    a_lodsboutaw03
+15,01        add     ah,20h-3
+15,01        loop    @@11
+15,01        add     ah,40h
+15,01        call    a_lodsboutaw03
+15,01        mov     ah,bl
+15,01        add     ah,0c0h
+15,01        jmp     a_lodsboutaw
+15,01a_loadinstrument ENDP
+
+15,01;00@@@@@@@@@@@@@@@@15 set note on/off 00@@@@@@@@@@@@@@
+15,01a_playnote PROC
+15,01        ;bx=channel, ax=data
+15,01        push    bx
+15,01        xchg    ah,bl
+15,01        add     ah,0a0h
+15,01        call    a_outaw
+15,01        mov     al,bl

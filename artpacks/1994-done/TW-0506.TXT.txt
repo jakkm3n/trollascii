@@ -1,0 +1,80 @@
+
+
+15,01                04m13,04#14 04,01"|13,04# 04,01m m04,04 13#04,01|06"14,11 13,06#06,01m15     04m13,04#14 15,01     04m14,04 13#04,01|"14,04 13#04,01m m04,04 13#04,01|
+15,01               04|13,04#04@14#04,01 |04,04@13#14#04,01 14,04#13#04@04,01| 14,11#04,06@13#06,01|   04|13,04#04@14#04,01"14,04# 04,01m 14,04#13#04@04,01| 14,04#04@13#04,01|14,04#13#04@04,01|
+15,01               04|04,04@13,13#13,01@04 |13,13#04,04@13,01@04 13@04,04@13,13#13,01| 10@13,13#04,06@06,01|13@13,13#04,04@04,01|04,04@13,13#13,01@04 13@04,04@13,13#04,01|13@04,04@13,13#13,01| @13,13#04,04@04,01|13@04,04@13,13#13,01|
+15,01               13|13,13##04,01# 13|13,13##04,01# #13,13##13,01| 11#13,13##13,01|04#13,13##13,01|13,13##04,01# #13,13##13,01|04#13,13##13,01| 04#13,13##13,01|04#13,13##13,01|
+15,01                13,13#04,06@11,01# 13|04,06@13,13#11,01# #13,13#04,06@13,01| 04#04,04@13,13#13,01|11#04,06@13,13#13,01|13,13#04,06@11,01# #13,13#04,06@13,01|11#13,13#04,06@13,01| 11#04,06@13,13#13,01|11#13,13#04,06@13,01|
+15,01                    06|13,06#04@10,01@11 10@04,06@13#06,01| 13@13,04#04@04,01|10@13,06#04@13,01|04,06@13#10,01@11 10@04,06@13#06,01|10@04,06@13#06,01| 10@13,06#04@06,01|10@04,06@13#06,01|
+15,01                    06|06,06 13#14,11#11,01 14,11#13,06# 06,01| 04""" 14,11#11,06 13#06,01|13,06# 14,11#11,01 14,11#13,06# 06,01|14,11#13,06# 06,01|m14,11#11,06 13#06,01|14,11#13,06# 06,01|
+15,01                    06|06,06  14,11 11,01 14,11 11,06  06,01|15     14,11 11,06  15,01 06"06,06 14,11 06,01|14,11 14,06 06,01" 14,11 11,06  06,01| 14,11 11,06  06,01|14,11#11,06  06,01|
+
+15,01             04m13,04# 04,01||13,04# 04,01|14,04 13#04,01m  m04,04 13#04,01|06"14,11 13,06#06,01m15     04m13,04#14 04,01"|13,04# 04,01m m13,04#14 04,01"14,04 13#04,01m m13,04#14 04,01"14,04 13#04,01m
+15,01             14,04#04@13#04,01||04,04@13#04,01|14,04#04@13#04,01| 14,04#13#04@04,01| 14,11#04,06@13#06,01|   04|13,04#04@14#04,01 |04,04@13#14#04,01|13,04#04@14#04,01 13,04#04@14#04,01|13,04#04@14#04,01 13,04#04@14#
+15,01             13@13,13#04,04@04,01|13|13,13#04,04@04,01|13@13,13#04,04@04,01| 13@04,04@13,13#13,01| 10@13,13#04,06@06,01|13@13,13#04,04@04,01|04,04@13,13#13,01@04 |13,13#04,04@13,01@04|04,04@13,13#13,01@04 04,04@13,13#13,01@04|04,04@13,13#13,01@04 04,04@13,13#13,01@
+15,01             04#13,13##13,01||13,13##13,01|04#13,13##13,01| 04#13,13##13,01| 11#13,13##13,01|04#13,13##13,01|13,13##04,01# 13|13,13##04,01#13|13,13##04,01# 13,13##04,01#13|13,13##04,01# 13,13##04,01#
+15,01             11#04,06@13,13#13,01||04,06@13,13#13,01|11#04,06@13,13#13,01| 11#13,13#04,06@13,01| 04#04,04@13,13#13,01|11#04,06@13,13#15,01 13,13#04,06@11,01# 13|04,06@13,13#11,01#13|13,13#04,06@11,01# 13,13#04,06@11,01#13|13,13#04,06@11,01# 13,13#04,06@11,01#
+15,01             10@13,06#04@13,01|06|13,06#04@13,01|10@13,06#04@13,01| 10@04,06@13#06,01| 13@13,04#04@04,01|10@13,06#04@15,01     06|13,06#04@10,01@13|04,06@13#10,01@06m04,06@13#10,01@06|04,06@13#10,01@11 06mm
+15,01             14,11#11,06 13#06,01||06,06 13#06,01|14,11#11,06 13#06,01| 14,11#13,06# 06,01| 04""" 14,11#11,06 13#15,01     06|06,06 13#14,11#06,01|13,06# 14,11#11,01 06mm11m 06""  13,06# 14,11#
+15,01             11|11,06  06,01|14,06 06  14 14,11 11,06  06,01| 14,11 11,06  06,01|15     14,11 11,06  15,01     06|06,06  14,11 11,01 06"06,06 14,11 06,01|13,06# 11,01"06|13,06# 14,11 11,01 11,06  11,01"
+15,01                                                              (mt)
+15,01 14------------------------------------------------------------------------------
+14,01 04T13R15i00BAL WRiTES - 04T13h15e 00TR13i00BE Newsletter - 04V13o15l00ume #1 / 04I13s15s00ue #12 - 04M13a15y 00& June 1994
+00,01 14------------------------------------------------------------------------------
+
+14,01 13#  00Welcome to the FINAL installment of TRiBAL WRiTES.  It TRiBE's 12th pack,
+00,01    but only "our" second, and as part of the change, TW is going bye-bye.
+00,01    It's been "fun", but this is the past, and "There's no time like the
+00,01    present..." to start thinking about the future.  What is the future?  Go
+00,01    back to the past, for a blast, Paradigm Returns to revolutionize what it
+00,01    revolutionized the first time!  Starting THIS Archive, and each following
+00,01    Archive you'll be hearing all the poop in TRiBAL iNSTiNCTS directly from
+00,01    Cavalier.
+
+00,01 13#  00To deal with it upfront, NO, TRiBE did not delay it's pack, it CHANGED
+00,01    the release date.  The 10th simply was not a good time of the month for
+00,01    me.  So after polling the membership with the choice of either going out
+00,01    with one on the 10th, and another only 20 days later on the 1st, everyone
+00,01    perfered simply moving the date here and now.  However, unlike SOME groups,
+00,01    we fully point out that the material in this Archive was done over a period
+00,01    of aproximately 50 days, nearly two months, and accurately shows it, with
+00,01    nearly two pieces from every member.  The entire episodes was my fault for
+00,01    being GAY and moving the release date in the first place.  We were going
+00,01    to put out a TRIBE-25.ZIP : iMAGES of the Future type pack, but with the
+00,01    absolute moronic lamers that happen to hang out on #ANSi these days, we
+00,01    felt they'd be too confused by it and run off looking for the other dozzen
+00,01    archives.
+
+00,01 13#  00Yes, the rumors are true!  Following the ever popular trend, I have now
+00,01    officially changed my handle!  I am now (a top secret Symbol)!  When you
+00,01    write it or say it, it's "The artist formerly known as Shihear Kallizad"
+00,01    (or TafkaSk for the lazy or macro impaired).
+
+00,01 13#  00Welcome Prime Evil and Chaos Breed into our TRiBE, VGA and RIP artists
+00,01    respectively.  Pevil is also known as The Greet Master, so get used to
+00,01    it.  Chaos Breed is best known for hooking SiDS up with his favorite
+00,01    phrase, Laid Her.  Both seem to be fitting right in here in the land of
+00,01    TeePee's and Payote.  Yes, those are ASCii's by Piromaniac who is also
+00,01    new in TRiBE.  Look for more ASCii's, ANSi's and other surprises from
+00,01    Mr. Versitality himself.
+
+00,01 13#  00Speaking of Payote, CyberChrist, the Ex-SWaT-Master, not the ANSi doodler,
+00,01    joins Cavalier this month as "Shaman's".  That's Staff to you.  They've
+00,01    left thier previous situation to blaze some new trials in TRiBAL Country.
+00,01    I'm still the lord high god of all things TRiBAL, but they are here to
+00,01    take the load off this old dog as we move ever forward.
+
+00,01 13#  00Wish Quazar and Asriel a happy Summer vacation!  QZr's off in Florida
+00,01    with no computer until August.  ASr's off in Seattle playing at System
+00,01    Administrator for a couple months.  Both are officially on hiatus and
+00,01    you shouldn't expect to see anything from them until thier return, at
+00,01    which time we'll force them to do twice as much while we sit back and
+00,01    watch.
+
+00,01 13#  00It's *BIN* two months since NaTiON was formed by TRiBE Members.  Maestro
+00,01    Steve and Mistif Sinister not only activly conspired to take the members
+00,01    that they wanted with them, they took our idea, .BIN support.  Since it
+00,01    was and *IS* TRiBE's intent to do for and support .BIN as ACiD has done
+00,01    for and supported .RIP, this is not a problem.  In fact, thier embrace of
+00,01    OUR idea, like that of so many that were a part of the old TRiBE, only
+00,01    goes to show, WHERE they're AT in the present, is OUR past!  We NOW are the

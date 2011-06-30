@@ -1,0 +1,14 @@
+15,01Can v1b by SiDS[TRiBE/PoW]
+
+15,01Syntax:
+15,01can <rip name> <color> <spread amount>
+
+15,01ex:
+15,01can temp.rip 0 3
+
+15,01rip name  ex: temp.rip
+15,01color     ex: 0
+15,01spread amount  ex:3   (0+)
+
+15,01Afterwards edit the rip file and remove any blank lines and move the '|#'s to
+15,01the end of the RIP!!!!

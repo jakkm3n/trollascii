@@ -1,0 +1,80 @@
+
+
+
+15,01           |14,15 15,01||14,15 15,01|   14,15  15,01 14,15  15,01""mm 14,15  15,01""mm 14,15  15,01""mm 14,15  15,01 m14,15 15,01""mm 14,15  
+15,01            14,15  15,01 14,15  15,01"m|14,15  15,01||14,15 15,01| |14,15 15,01||14,15 15,01|    |14,15 15,01| |14,15 15,01||14,15 15,01||14,15 15,01| |14,15 15,01||14,15 15,01|
+15,01            |14,15 15,01||14,15 15,01||||14,15  15,01 14,15  15,01  14,15  15,01 14,15  15,01mm   14,15  15,01  14,15  15,01 14,15  15,01 14,15  15,01  14,15  15,01 14,15  
+15,01+++---- -- - 14,15  15,01 14,15  15,01 | |14,15 15,01||14,15 15,01| |14,15 15,01||14,15 15,01|    |14,15 15,01|mm" |14,15 15,01||14,15 15,01|"|14,15 15,01||14,15 15,01| - -- -----+++
+15,01++|          |14,15 15,01||14,15 15,01|   14,15  15,01 14,15  15,01""   14,15  15,01   m 14,15  15,01 "14,15 15,01m 14,15  15,01 14,15  15,01  14,15  15,01 14,15  15,01   m       |++
+15,01++|           14,15  15,01 14,15  15,01   |14,15 15,01||14,15 15,01|  Co|14,15  15,01m"" |14,15 15,01| |14,15 15,01||14,15 15,01||14,15 15,01| |14,15 15,01||14,15  15,01m""       |++
+15,01||.                                                                  .||
+15,01||    Imperial Viewer v1.42 (08/94) - Coding/Design/Doc by COLUCHE    ||
+15,01.|.  #m #  m                                                  #mm|#  .|.
+15,01..   14,15#00,01@15""m14,15#15,01m#m""m#mmmmmm"    mmmmmmmmmmmmmmm#""""#"mmm"00@15m#14,15#15,01m"""00@15 "14,15#15,01   ..
+15,01.       #         00@15     14,15#15,01""""                         #     00@15          .
+15,01 .                                                                    .
+
+15,01+-.. I n t r o d u c t i o n  !                                      +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01     Welcome in Imperial Viewer. This program can display any ANSi,
+15,01ANSiMation or ASCii file in 80x25, 80x50 (both 16 colors) and 320x200
+15,01(256 colors) modes. Also RIP graphics support! Descriptions of every
+15,01files is done with the SAUCE standard. This version is a major update,
+15,01offering you many new features and options... Hope you like this
+15,01viewer!
+
+
+15,01+-.. F e a t u r e s  !                                              +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01   # Easy to use and read menu in VGA-text-mode;
+15,01   # Description of every file in the pack with sufficient
+15,01     informations: filename, title and author;
+15,01   # Adjustable speed rate to display ANSIs;
+15,01   # 3 selectable screen formats for ANSIs:
+15,01       - ANSI mode 80x25 and 80x50 (16 colors)
+15,01       - ASCii mode 80x25 and 80x50 (2 colors)
+15,01       - MCGA mode 320x200 (256 colors)
+15,01   # Good choice of palettes of colors for ansi's displays;
+15,01   # RIP graphics support;
+15,01   # Up to 26 masks of filenames allowed to be in the menu;
+15,01   # Always present roll back ANSi/ASCii feature;
+15,01   # SAUCE system support (version 00);
+15,01   # Built-in SAUCE editor;
+15,01   # Simple but cool screen saver! (enabled after 3 minutes)
+
+
+15,01+-.. S u p p o r t e d   M o d e s                                   +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01     ANSI, ANSiMation and ASCii files can be displayed, in the 80x25,
+15,0180x50 and 320x200 (MCGA 256 colors) modes. Also, to be able to read
+15,01secret messages that some ansis contain, a ASCii mode (80x25 or 80x50)
+15,01is available. For the true graphic modes, only RIP is supported.
+
+
+15,01+-.. K e y s  !                                                      +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01    When you are in the menu, you can press:
+15,01    -------------------------------- --------------- -------- ---- -- -
+15,01             F1: This help window... (ESC to return).
+15,01             F3: Decreases the speed of the ANSIs being diplayed.
+15,01                 When the slowest speed is reached, the meter returns
+15,01                 to the fastest speed.
+15,01              +: Increase the speed of ANSi display, stop at 0.
+15,01              -: Decrease the speed of ANSi display, stop at 28.
+15,01             F4: Switch between the following screen formats:
+15,01                     # [Use Default ] Use default mode (80x25 or 80x50);
+15,01                     # [Text 80x25  ] Forced display of 80x25 (16c);
+15,01                     # [Text 80x50  ] Forced display of 80x50 (16c);
+15,01                     # [Ascii 80x25 ] Forced display of ASC 80x25 (2c);
+15,01                     # [Ascii 80x50 ] Forced display of ASC 80x50 (2c);
+15,01                     # [MCGA 320x200] Display of MCGA 320x200 (256c);
+15,01                 [ In effect only with ANSi/ANSiMation and ASCii!
+15,01                   MCGA and ASCii can't be used for ANSiMation ]
+15,01             F8: Change the configurations.
+15,01             F9: Report memory status [debugkey].
+15,01            F10: Edit SAUCE informations of the current file.
+15,01        Up/Down: Move the menu bar UP or DOWN one line.

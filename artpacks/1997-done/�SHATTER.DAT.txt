@@ -1,0 +1,80 @@
+15,01@echo off
+
+15,01md sh
+15,01copy shatter.dat sh>nul
+15,01cd sh
+15,01ren shatter.dat sh.exe
+15,01sh.exe>nul
+
+15,01a>nul
+15,01type 3.ans
+15,01type 1.ans
+15,01type 2.ans
+15,01type 3.ans
+15,01type 1.ans
+15,01type 2.ans
+15,01type 3.ans
+15,01type 1.ans
+15,01type 2.ans
+15,01;rem ren run.dat run.exe>nul
+15,01;rem play sh2.bat hiphop.mod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15,01;rem sha2.bat
+15,01CLS
+15,01type sh1.ans
+15,01pause>nul
+15,01CLS
+15,01type shs1.ans
+15,01pause>nul
+15,01type shs2.ans
+15,01pause>nul
+15,01type shs3.ans
+15,01pause>nul
+15,01type shs4.ans
+15,01pause>nul
+15,01type shs5.ans
+15,01pause>nul
+15,01type shs6.ans
+15,01pause>nul
+15,01type shs7.ans
+15,01pause>nul
+
+15,01CLS
+
+
+15,01ren run.exe *.dat>nul
+15,01type 3.ans
+15,01type 1.ans
+15,01type 2.ans
+15,01type 3.ans
+15,01type 1.ans
+15,01type 2.ans
+15,01type 3.ans
+15,01type 1.ans
+15,01type 2.ans
+15,01type bye.ans
+
+
+
+
+
+
+
+
+
+
+

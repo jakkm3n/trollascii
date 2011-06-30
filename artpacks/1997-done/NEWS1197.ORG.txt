@@ -1,0 +1,80 @@
+14,14#    00,01 02       00 04,08@08,13######00  #############13,01""""""""00,13###########08  #####04,08@@00,01    02       00 14,14 01,01@14,14 15,01 
+14,14    14,01|02     00   04,08@08,13#######00  ##########13,01"00  02mm00mm02m 01,15"00,01m01,15"00,01 13"00,13########08   ######04,08@00,01   02        00 14##15 
+14,14    00,01 02    00   04,08@08,13#########00  #######13,01"00 01,15"|02,01|14,02 00#15@12,00#15,02@00#00,01 00,00#15,15@00#01"00,01 00,13#######08   #######04,08@@00,01 02         14|01@15 
+14,14    02,01     00  13|08,13#14 08#########00  ######13,01mm01,15m 13,01m02""00"14,02 02,01""01,15mm 13,01m00,13#########08   #########04,08@00,01  02        14,14#15,01 
+14,14   00,01 02     00  01,08 13,01"""00      13""""00,13  #########################  13,01""""00      13"""01,08 04@00,01 02        14|15 
+14,14   00,01 14#02    00 13,08 08,01m01,08 """""""""""00,01   13"00,13  #########04,15@@@@@00,13#####  13,01"00   01,08""""""""""" 08,01m04,08@00,01 02        00 15 
+14,14   00,01 01@02    00 13,08 #01 "  13#########08,01m00   13"00,13 08#00######04,15@@@@@@00,13###08#00 13,01"00   08m13,08#########01  " 13#08,13#01,08|02,01        00 15 
+14,01#14,14 14,01|02 14,14#02,01    00 13,08 #01  13###14 08,01""""""""13,08##08,01mm00 13"08,13###00##04,15@@@@@@00,13#08###13,01"00 08mm13,08##08,01""""""""14,08 13###01  13#01#04@02,01        00 15 
+01,01@14,14 14,01|02      00 13,08 #01 13##08,01"00 01,15"00,01m01,15"00,01 m12m02m12m02m00  08"13,08##08,01m01,08#08,13## 00##04,15@@@@00,13#08###01,08#08,01m13,08##08,01"15 00  02m00m02m12m02m 01,15""00,01 08"13,08##01 13#  00,01 02        15 
+14,14# 14,01|02       08|13,08  #00,01 01,15"00#15@00,00#00,01 00,02"12,00#15,02@12,01@14,12#14,02#02,01|01,15|"00,01 08"13,08##04@@08,13 00##04,15@@00,13##08##04,08@@13##08,01"00 01,15" |02,01|00,02"12,00#15,02@00#12,01@02#00 15,15@00#01"00,01 13,08#    00,01 02        15 
+14,14  14,01|02       08|13,08    #08,01m01,15 mm02,01""14,02 02,01"""08m01,15 m08,01mm01,08#04@@@08,13#  04,15@@00,13#08 ##04,08@@@01#13,01mm01,15mm 13,01m02"""14,02 02,01""01,15m 08,01m13,08#    01   02,01        15 
+14,01""00 02        13,08    ###04@@@08,13         ###04,08@@@14,13 08 04,15@00,13#08  #04,08@@@08,13###         04,08@@@13###    01 |00,01 02     #  15 
+01,01          15                01pry open your third eye.
+11,01   08 11     15                    11o r g a n i c  i i i .
+15,01   08 
+11,01 intro08 +15 14welcome people, and again, 08thank you14 for leeching this pack. 1st
+15,01   08 15   14we must apologise for the lateness of this release. we really dont
+15,01   08 15   14care about when we  release our packs,  as long as what we release
+15,01   08 15   14is of some sufficient quality  and isn't just a montage of someone 
+15,01   08 15   14else's art, rehashes of other artist's ideas15 14and just general crap
+15,01       14that utilises other people ideas, concepts and work.
+
+11,01summer08 +15      14welp,  summer  is upon us once more,  and it was during this 
+15,01       14time where we drunk bums decided to create an art group. since then
+15,01       14we've released a grand total of *three*15 14yes *three* packs inclusive
+15,01       14where even newbies 08shaolin14 have been out for a couple of months and 
+15,01       14already have three out... jeez we're lazy.
+
+11,01rleas3 08+15 08     14Also,  I  think you'd have noticed that we've gotten our act   
+15,01       14together.  No  this does not mean we will release regular packs but   
+15,01       14what this does  mean is  that we now have:  (i) a website  (ii) an     
+15,01       14application generator (iii) a proper executable newsfile and (iv) 
+15,01       14stanna's done more than one picture ;)
+
+11,01online15 08+15      14our  08web page14  is  up.   although  its  not  entirely fully 
+15,01       14functional we have 08hat-rack14 to thank for this foray into the multi
+14,01 15      14media online medium. a word of warning though,  it may be a little 
+15,01       14tough  on those either 1.) with slow connections; 2.) those not on
+15,01       14alphalink or 3.) those with no connections at all.15 14however,  it is  
+15,01       14a spankingly great looking page well worth a gander. address is at 
+15,01       14http://www.alphalink.com.au/~idunno15 14<- that is the real address.
+
+11,01appgen 08+15 08    14Our enrollment podiumn. Do not adjust your sets. It's s'posed  
+15,01       14to be tripped out/fucked. Inspired by the fuckedup credit sequences   
+15,01       14of 08seven14 and 08idiot box14. we hope you find it exciting.15 14 we certainly
+15,01       14do.15 14note that this app generator is buggy, possibly unfunctional &
+15,01       14optimised for best effect on shitty monitors.
+
+11,01future15 08+15      14Next month (hopefully)  we will feature what we believe will 
+15,01       14be a world first premiere  08unplugged 14art pack.15 14yes, in tradition of
+15,01       14mtv,   organic  present  organic   unplugged,   a  collection  from 
+15,01       14australia's  worst digital artists, leaving their mediums unplugged
+15,01       14and producing  some truly  warped creations that have to be seen to 
+15,01       14be believed.15 14Pack four!
+
+11,01syntht15 08+15      14we'd  also  like  to  take  this opportunity to congratulate 
+15,01       08synthetic14 on their  twelth  release,  their best so far. also synth    
+15,01       14related: 15 08trippah14's board, 08decay15 14is up and it is great, with syd on
+15,01       14exams with  08mur 14 08systems14  down,  this is where you get15 14all your art
+15,01       14related paraphenalia. give trip a call on 904-------14.04(dead - 25/6/98 -vej)15 
+
+11,01wanted15 08+15      14anyhow we are looking for 08couriers14.  if you want to join our
+15,01       14grand  team of  three  and  have  interstate/intercontinental links 
+15,01       14then mail any of us15 14and we'll see what arrangements we can work out.
+
+11,01thanks15 08+15      14Also,  a massive thank-you must go to  08nutbutter 14for putting 
+15,01       14us (specifically I) onto tool...
+
+11,01   btw08 +15      14lit is not a legitimate art form.
+
+
+08,13# #########  ######13,01mm04                                                           
+13,01"""00      13""""00,13  ######
+01,08 """""""""""00,01   13"00,13  ###
+01,08 "  13#########08,01m00   13"00,13 08#00#
+01,08  13###14 08,01""""""""13,08##08,01mm00 13"08,13#
+01,08 13##08,01"00 01,15"00,01m01,15"00,01 m12m02m12m02m00  08"13,08##08,01m01,08#
+13,08 #00,01 01,15"00#15@00,00#00,01 00,02"12,00#15,02@12,01@14,12#14,02#02,01|01,15|"00,01 08"13,08##
+13,08   #08,01m01,15 mm02,01""14,02 02,01"""08m01,15 m08,01mm01,08#04@15,01 13contact
+13,08   ###04@@@08,13         ###13,01-----------------

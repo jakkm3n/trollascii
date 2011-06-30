@@ -1,0 +1,80 @@
+15,01+-.+++.+++.+I+. K K K+K    r  K K K K K+K+. I+I+.+++.+++.+++.+I+. K K K+K    r  
+15,01K K K K K+K+. I+I+.+++.+++.+++.+I+. K K K+K    r  K K K K K+K+.nI+.rI+.+++.+++.+
+15,01I+. K K K+K    r  K K K K K+K+.nI+.rI+.+++.+++.+I+. K K K+K    r  K K K K K+K+.n
+15,01I+.rI+.+++.+++.+I+. K K K+K    r  K K K K K+K+.nI+.rI+.-++.+I+.+++.=I+. K K K+K 
+15,01   r  K K K K K+K+.nI+.*I+.-I+.+I+. K K K+K    r  K K K K K+K+.nI+.*I+.-I+.+I+. 
+15,01K K K+K    r  K K K K K+K+.nI+. I+I+. K K K+K    r  K K K K K+K+.nI+. I+I+. K K 
+15,01K+K    r  K K K K K+K+.nI+. I+I+. K K K+K    r  K K K K K+K+.=I+. I+I+. K K K+K 
+15,01   r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r
+15,01  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K 
+15,01K K K K+K+.EI+. I+I K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K 
+15,01K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I K K K+K    r  K K K K K+K+.E
+15,01I+. I+I K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+
+15,01I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I-I+. 
+15,01K K K+K    r  K K K K K+K+.EI+. I-I+. K K K+K    r  K K K K K+K+.EI+. I-I+. K K 
+15,01K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K 
+15,01   r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r
+15,01  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K 
+15,01K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K 
+15,01K K+K+.EI+. I+I+. K K K+K    r  K K K K K+K+.EI+. I+I+. K K K+K    r  K K K K K+
+15,01K+.EI+. I+I+. K K K+K    r  K K K K K+K+.=I+. I+.0K+. K KaK    r  K K K K K+K+.=
+15,01I+. I+.rK+. K KaK    r  K K K K K+K+.=I+. I+.qK-. K KBK    r  K K K K K+K+.=I+. 
+15,01I+.nK+.+K+. K K+K    r  K K K K K+K+.=I+. I+.=K14,15 15,01.+K+. K K+K    r  K K K K K+K+.=
+15,01I+. I+.+K+.+K+. K+K+. K+K    r  K K K K K+K+.=I+. I+.+K+.+K-.*K+.+K+. K+K    r  
+15,01K K K K K+K+.=I+. I+.+K+.+K+.<K+.+K+.+K+. K    r  K K K K K+K+.=I+. I+.+K=.14,15 15,01K+.n
+15,01K+.+K+.-K-.+K-..K    r  K K K K K+K+.=I+. I+.+K-.uK+.0K+.+K+.+K+.K+.nK    r  K K
+15,01 K K K+K+.=I+. I+.+K-.rK+.-K+.<K+.+K+.K+.2K    r  K K K K K+K+.=I+. I+.+K-.rK+.+
+15,01K+.EK+.+K+. K    r  K K K K K+K+.=I+. I+.+K-.BK+.+K+.0K+.+K+. K+K    r  K K K K 
+15,01K+K+.=I+. I+.+K+.+K+.+K+.+K+.uK+.+K+. K+K    r  K K K K K+K+.=I+. I+.+K-.+K+.+K+
+15,01.+K+.+K+.+K+. K+K    r  K K K K K+K+.=I+. I+.+K+.+K+.+K-.mK+.+K+.+K+. K+K    r  
+15,01K K K K K+K+.=I+. I+.+K+.+K+.+K+.=K+.+K-. KrK    r  K K K K K+K+.=I+. I+.+K+.-K+
+15,01.+K+.+K+.+K+.+K+.+K+. KnK    r  K K K K K+K+.=I+. I+.+K+.+K-.+K+.+K+.+K+.-K+.K+.
+15,01+K+.+K+. KqK    r  K K K K K+K+.=I+. I+.+K-.+K+.+K+.+K+.-K+.+K+.K+.K+.+K+. KuK  
+15,01  r  K K K K K+K+.=I+. I+.+K-.+K+.+K-.+K+.+K+.+K+.K+.+K+.+K+. KrK    r  K K K K 
+15,01K+K+.=I+. I+.+K+.+K+.+K-.+K+.+K+.+K+.+K+.+K+. KrK    r  K K K K K+K+.=I+. I+.+K+
+15,01.+K+.+K+.+K+.+K+.K-.+K+.+K+.+K=. KnK    r  K K K K K+K+.=I+. I+.+K+.+K+.+K+.+K+.
+15,01+K+.+K+.+K+.+K+. K"K    r  K K K K K+K+.=I+. I+.+K+.+K+.+K+.+K+.+K+.+KS+.+K+.+K+
+15,01. K14,15 15,01K    r  K K K K K+K+.=I+. I+.|K+.+K+.-K+.-K+.+K14,15 15,01. K+K    r  K K K K K+K+.=I+
+15,01. I+.rK-.+K+.=K+.+K-.-K+. K+K    r  K K K K K+K+.=I+. I+.nK+.+K+.+K+.+K+.+K+. K+
+15,01K    r  K K K K K+K+.>I+.2I+.EK+.-K+.IK-.+K+. K+K    r  K K K K K+K+.>I+.2I+.uK+
+15,01.+K+.EK+.|K+. K+K    r  K K K K K+K+.>I+.2I+.*K+.rK-.rK+. K+K    r  K K K K K+K+
+15,01.+I+.2I+.*K+. K+K+.2K    r  K K K K K+K+.+I+.2I+.*K+. K|K+..K    r  K K K K K+K+
+15,01.+I+.2I+.0K+. KEK-.%K    r  K K K K K+K+.+I+.2I+.0K+. K KaK    r  K K K K K+K+.+
+15,01I+.2I+. K K K+K    r  K K K K K+K+.+I+.2I+. K K K+K    r  K K K K K+K+.+I+.2I+. 
+15,01K K K+K    r  .+.+v .+.+v . .+.+v . .+.+v . .0.+v+.    r v+.v+.v+.+v+.+vI.+v+.-v
+15,01+.v+.+v+.-v+.+v-.v+.+v-.+v+.v+.v+.v+.v+.+v+.+v+.v+.+v+.+v+.vn.v+.+v+.+v+.v+.+v+.
+15,01+v%.v+.v+.-v+.v+.v+.-vr.+v+.    r v+.v+.v+.v .v+.v+.v+.v+.v+.v+.+v+.+v+.v+.v+.v+
+15,01.v+.v+.+v-.v+.v+.v+.v+.v%.v+.vn.v+.v+.v-.v+.v+.v..v+.v+.v+.v+.v=.+v-.+v+.v-.v+.v
+15,01-.v..    r +.v+.v-.+v+.+v+.+v+.v+.v+.v+.+v+.v-.v+.+v+.+v-.-v+.v-.v+.-v+.+v+.v+.v
+15,01-.v+.v-.+v+.v-.v+.v+.v+.v+.v+.v+.v+.v-.v+.v+.v+.v+.-v-.+v+.v+.v+.+v+.+v-.+v+.-v+
+15,01.v+.+v+.+v+.+v+.+v+.+v+.v-.v+.+v+.+v+.+v+.-v+.-v+.+v-.+v+.v+.+v+.v+.v+.-v+.+v+.v
+15,01-.+v-.-v+.v+.v+.+v+.-v+.+v+.+v-.+v-.-v+.+v-.+v+.v+.+v+.-v+.+v-.v+.v+.v+.v+.v+.v+
+15,01.v+.v+.v+.+v+.+v+.+v+.v+.v+.v+.+v+.-v-.-v+.+v+.+v+.+v-.+v+.    r +.v+.v+.v-.v+.v
+15,01-.v+.v-.v+.v+.v+.-v+.v-.v+.v-.v+.v+.v-.v+.v-.v+.v+.v+.v-.v+.v+.v+.v-.v+.v+.v+.v-
+15,01.v+.v+.v+.v+.v+.v+.v+.v+.v+.v+.v+.v+.v-.v+.v-.v+.-v-.v+.v-.v+.v-.v+.v-.v+.v-.v+.
+15,01+v-.v+.v+.v+.v+.v+.v-.v+.v-.+v-.v-.v+.v-.v+.v-.v+.v+.v+.v+.v-.v+.+v-.v+.v+.v-.v+
+15,01.v+.v-.v-.v+.v-.v+.+v+.v+.v+.v+.v+.v-.v+.v+.v+.v-.v+.v-.v+.v+.v+.v+.v-.v+.v+.v+.
+15,01v+.-v+.v+.v+.v+.+v+.v+.v-.v+.v-.v+.v+.+v-.v-.v+.v-.v+.v-.v+.v+.v-.v+.v-.v+.    r
+15,01 +.v+.v-.v-.v+.v-.v+.v-.v+.v+.v+.v+.v-.v+.v-.v+.v+.v-.v+.v-.v-.+v+.v-.v+.v+.v+.v
+15,01+.v+.v-.v+.v-.v+.v+.+v+.v+.+v+.v+.v+.v+.v+.v+.v+.+v+.v-.v+.v+.v+.v-.v+.v-.v+.v-.
+15,01v+.+v+.v+.+v+.v+.+v+.v-.v+.v-.v+.v-.v+.v-.v+.+v+.v+.v+.v+.v-.v+.v+.+v+.v-.v+.v+.
+15,01v-.v-.v+.+v+.v-.v+.v+.v+.v+.v-.v+.+v+.v-.v+.v-.v+.+v+.v+.v-.v+.v+.v+.v+.v+.v+.v+
+15,01.v+.v+.v+.v-.v+.v-.v+.v+.-v+.v+.v-.v+.+v+.v-.v+.v+.v-.v+.v-.v+.    r +.v+.v-.v-.
+15,01v+.v-.v+.v-.v+.v+.v+.v+.v-.v+.v-.v+.v+.v-.v+.v-.v-.+v+.v-.v+.v+.-v-.v+.v-.v+.v-.
+15,01v+.v+.v+.v+.+v+.v-.+v+.v+.v-.v+.v+.v+.v-.v+.v-.v+.v-.v+.v+.v+.v+.v+.v+.v-.v+.v-.
+15,01v+.v-.v+.v-.v+.v+.v+.v+.v+.v-.v+.v+.v+.v+.v-.v+.v+.v-.v-.v+.v+.v+.v+.v+.v+.v+.v+
+15,01.v-.v+.v+.v-.v+.v-.v+.v+.v+.v-.v+.v+.v+.v+.v+.v+.v+.v+.v+.v+.v-.v+.v-.v+.v+.v+.v
+15,01+.v-.v+.v+.v-.v+.v+.v-.v+.v-.v+.    r +.v+.v-.v+.v-.v+.v-.v-.v+.v+.v-.v+.v-.v+.v
+15,01+.v-.v+.v-.v+.v+.v+.v-.v+.v+.v+.v+.v+.+v+.v+.v+.v+.v=.v-.v+.v+.v+.+v+.v+.v+.v-.v
+15,01+.v-.v+.v+.v+.v-.v+.v-.v+.v-.v+.v-.v+.v+.v+.v+.v+.v+.v+.v-.v+.v-.v+.v-.v+.v-.v+.
+15,01v-.v+.v+.v+.v+.v-.v+.v+.v+.v+.v-.v+.v+.v-.v-.v+.v-.v+.v+.v+.v+.v+.v+.v+.v-.v+.v+
+15,01.v+.v-.v+.v-.v+.v+.v+.v+.v-.v+.v+.v+.v+.v+.v-.v+.v+.v+.v-.v+.v-.v+.v-.v+.v+.v-.v
+15,01+.v-.v+.v-.v+.v+.v-.v+.v-.v+.    r +.v+.+v+.+v+.+v+.v+.+v+.+v+.-v-.v+.v-.v+.-v+.
+15,01v-.v+.-v-.v+.v+.v+.v+.v+.v+.-v+.v+.v+.v+.v+.+v+.v+.v+.-v-.+v+.v+.v+.+v+.v-.v+.+v
+15,01+.-v+.v+.+v+.v+.+v+.+v+.v-.v+.+v+.+v+.-v+.v+.v+.v+.+v+.v+.v+.v+.-v-.v+.v-.v-.v+.
+15,01-v+.+v-.v+.v+.v+.v+.+v-.+v-.-v+.v-.v+.+v+.v-.+v+.v+.v+.v+.v+.-v+.v+.v+.v+.+v+.+v
+15,01+.+v+.-v-.v+.-v-.-v+.v-.v+.v+.v-.v+.+v+.    r +.v+.v+.v . . . . . .+.vI.v+.v+.v 
+15,01.n.v+.    r +.-v+.v+.v . . . . . .+.v .+.v .".-v+.    r                         
+15,01*                         *                         *                         * 
+15,01                        *                         *                         *   
+15,01                      *                         *                         *     

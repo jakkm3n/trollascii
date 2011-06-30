@@ -1,0 +1,51 @@
+15,01                           Krystal-View Documentation
+15,01       
+15,01       Krystal View, otherwise known as K-View, is the newest adition to the 
+15,01ANSI viewers  that have been released by iCE.  It is a versitile, but easy to
+15,01use viewer.  The Options anf Features include:
+
+15,011) ANSI Scrolling (Up & Down Arrows)
+15,01        A simple but not always included feature, you can scroll back in an 
+15,01        ANSI.
+
+15,012) Mouse support
+15,01        Self explanitory.
+
+15,013) ANSI display speed changing ("+" & "-" keys)
+15,01        The display speed can be changed from 0 to 10
+
+15,014) Text or VGA mode viewing ("V" toggles)
+15,01        ANSI's can be viewed in both regular text mode or in, 320x200, VGA
+15,01        mode.
+
+15,015) 50 line mode ANSI viewing in both text and VGA mode ("F" toggles)
+15,01        ANSI's can be viewed in text 50 line mode and "to-scale" VGA, 
+15,01        320x200, VGA mode.
+
+15,016) Animated ANSI viewing in both text and VGA mode ("A" toggles)
+15,01        Animated ANSI's can be viewed in reglar text and in, 320x200,  VGA 
+15,01        mode. (VGA mode does go just as fast as text mode) 
+
+15,017) File directory & file extension changing ability ("P") 
+15,01        Files with any extension can be viewed by K-View, and directorys
+15,01        can be changed within K-View.
+
+15,018) Wrap Around Mode
+15,01        ANSi's viewed in VGA mode can also be viewed with the ansi wraping 
+15,01        around on the screen instead of scrolling in a column.  This is
+15,01        MUCH faster. It can be toggled with the letter 'W'.
+
+15,019) Extension Switch
+15,01        K-View loads up as a deafault finding files with the extension *.ICE
+15,01        but can now also be loaded with a switch from dos.  IE: 'KV *.ANS'.
+
+
+
+15,01That's it..
+
+15,01Credits for K-View:
+
+15,01Programming.............Watchman [iCE]
+15,01Text Font...............Watchman [iCE]
+15,01Opening screen........Metal Head [iCE]
+15,01Interface.............Metal Head [iCE]

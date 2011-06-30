@@ -1,0 +1,21 @@
+15,01 
+15,01                              ,ssSS$$$$$$Ss.
+15,01                           ,s$$$$$$$$$$$$$$$Ss
+15,01                          sS$$$$$SSS$$$$$$$$$$$$g
+15,01                         `$$$$$2    `2$$$2"^` `$S
+15,01                          s$$$'  n ,s$$$$$s,.n $$
+15,01                          n$$$$$$$$$2   `$$$$$$n
+15,01                            2n$$$$SSss$ssS$$S22
+15,01                              `$$$$$$$$$$$s
+15,01                                2'2`2j`2' '
+15,01           xxxxx.gggggggg.xxxxxxxxxxxxxxxxxxxxxxggxxxxggggxxxxxxxxggggggg
+15,01          $$$$2.S$2nnnM$$$ s$Pn"^$$$ ;M$Pn"^$$$ $ M$m SS2 sSSSSSSm $$$$$
+15,01         $$$$2.S$$ $$ gM$ `$ sS sg$ ($l sn ,g$ SS$$$$Ss.,$$2 0 $$'.$$$$
+15,01        $$$$2.S$$$gggM$$ n,ggggdMM$ ,`n?a,."''.x M$2.x. S$$$$$SS'.$$$$
+15,01       $$$$2 $$$nnnnnnn ;$$Pn"^$MM x$b `n?$g,S$ M$2.$2 $' sssssS[m0!]
+15,01      $$$$2.$$2 $$$$$$.s$l ;l d$n $$' nS l$$ $ M$2.$$ $S nn,sSS $$$$
+15,01     $$$$2.$$2 S$$$$$$x`$bgsdPM2 oM$bxsdPn'g$ $$2 $$$ 2SSS$SS2 $$$$
+15,01    SSSS2.SS2 SSSSSSSSSSxxxxxxxxSxxxxxxxxxSSSSXxxSSSSSSxxxxxxxSSSS
+15,01                                  g.g..g.
+15,01                                  n$$$$$n
+15,01                                   `nnn'

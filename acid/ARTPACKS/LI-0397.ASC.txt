@@ -1,0 +1,80 @@
+15,01...............................................................................
+15,01:li[acid]:::::::       ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,        :::::::::::::::::
+15,01::::::::::::     ,s'.sS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$SSs.`s,    :::::::::::::::
+15,01:::::::::    ,siS## $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ ##Sis,    :::::::::::
+15,01:::::::   ,slS$$$$$$s`nS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$Sn`s$$$$$$Sls,   :::::::::
+15,01:::      slnnnn sssssss,`$$$$$$$$$$$$$$$$$$$$$$$$$$$`,sssssss nnnnls      :::::
+15,01:::  ""~``.sSSSss,,`nnlSSs,`nS$$$$$$$$$$$$$$$$$Sn`,sSSlnn`,,ssSSSs.``~""  :::::
+15,01:::  sSS$$$$$$$$$$$$$.`nnSS$s,`nSS$$$$$$$$$SSn`,s$SSnn`.$$$$$$$$$$$$$SSs  :::::
+15,01:::  s.`nY$$$$$$SS$$$$$b.`n$S:ns,`nSS$$$SSn`,sn:S$n`.b$$$$$SS$$$$$$Yn`.s  :::::
+15,01:::  $$$b.`Y$$$$$S"S$$$$$Sss,.`nsSs,`n$n`,sSsn`.,ssS$$$$$S"S$$$$$Y`.b$$$  :::::
+15,01:::. `$$$$b.`T$$$$$$$$$$$$$$$$Ss- `"nsssn"` -sS$$$$$$$$$$$$$$$$T`.b$$$$` .:::::
+15,01 :::  `$$$$$s.`nnSS$$$$$$SSnn`..s,nSsssss$$Ss..`nnSS$$$$$$SSnn`.s$$$$$`  ::::::
+15,01 :::.   `i$$$$$Ss,,,,,,,,,,sd$$,il$$$$$$$$$$$$$$ds,,,,,,,,,,sS$$$$$i`   .::::::
+15,01 ::   i$$$sssssssssssss ,sS$$n,$$$$$$$$$$$$$$$,n$$Ss, sssssssssssss$$$i   :::::
+15,01; :  i$$$$$$$$$$$$$$$$ s$$$$$i$$$$$$$$$$$$$$$$$i$$$$$s $$$$$$$$$$$$$$$$i  : :::
+15,01  :  i$$$$i$$$$$$$$$$$ n$s,`i$$$$$$$ln"nl$$$$$$$i`,s$n $$$$$$$$$$$i`,$$$$i  : :
+15,01; :  i$$$%`jS$$$$$$$$$$s `nnS$$$$$$$Ss,sS$$$$$$$Snn` s$$$$$$$$$$Sj`,S$$$$i  : ;
+15,01l :   i$$$s,,,,,,,, $$$$$$ss,`nS$$$$$$$$$$$$$Sn`,ss$$$$$$ ,,,,,,,,sS$%$$$i  :
+15,01$      `$`nnn$$$nnnnnnnnS$$$$$ss,,`nnSSSnn',,ss$$$$$Snnnnnnnn$$$nnnnS$$$i   : ;
+15,01$ ;  l  ,$SSs```,,ssSSSs.``~"``,sssS `n' Ssss,``"~``.sSSSss,,```sSSs,`$`    : l
+15,01S   ,$ ,s$nn`.$$$$$$$$$$$$$SS$$$$SSn$$.`nnSS$$$$SS$$$$$$$$$$$$$.`nnSS$,  l  ; $
+15,01$s,sS$ s$$.b$$$$$SS$$$$$$Yn`.$$$$n`.b$$$$$SS$$$$$$Yn`.$$$SS$$$$$$b.`n$s, $,   $
+15,01mnn$$$,`dl~``.sSSSss,,```s"~``.sSSSssSSSs.``~",`s```,,ssSSSs.Ss.``~" $$s $Ss,sS
+15,01$$,'$$$s `S$$$$$$$$$$$$$.`SS$$$$$$$$$$$$$$$$SSS$`.$$$$$$$$$$$$$$$$SS ld`,$$$nn$
+15,01$$$$,'n$$s`nY$$$$$$SS$$$$$.`nY$$$$$$$$$$$$Yn`.n$$$$$$SS$$$$$$$$$Yn`.s` s$$$',$s
+15,01$$$$$$,'$$ns`.$$$$$$$$$$$$$SS$$$$SSn$$.`nnSS$$$$SS$$$$$$$$$$$$$n  ssss$$n',$$$$
+15,01#$$$$$$$ $$    sssssSSSs~"``,sssS```sSSsss,``"~``."~sSSSsssssss $$$$$$$',$$$$$$
+15,01#$$$$$$$ $$ $$l$$$$$$$$$$$,il$$$$$$$$$$$$$$$$$$$$l$$$$$$$$$$$` l$$$$$$ $$$$$$$$
+15,01z$$$$Sn',$$  ' ,`n$$$$$$n,$$$$$$$$$$,$$$$$$$$$$$$$,n$$$$$$n`,s  $$$$$$ $$$$$$$$
+15,01,dsss,sSSa$  $ $Ss,`SS$'i$$$$$$$$$$$$$$$$$$$$$$$$$$i'$SS`  ,s$  $$$$$$,'nS$$$$$
+15,01$sSSa,`"*nSb,.,ss$$s,`l $$$$$$$Ss,sS$$$$$$Ss,sS$$$ l`,s$$ss,.,bSn*"`,aSSs,sssds
+15,01$$$$$$$$s,,,,,,sssssss,,`nS$$$$$$$$$nS$$$$$$$$$$$`,,sssssss,,,,,,s$$$$$$$$$$$$$
+15,01$$nnnnnnnnnnnnnnnnnnnnnnn  nnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnnnnn$$
+15,01 '.n?Pn,gdPn"n?$$bg,"n?$n?Pn,gdPn" n?$$bg,"n?$,gdl$lg,n dSl',$$n'n$$ ",d$$$l $$
+15,01 ;l",d$$$l',db`l$$$$$b,n",d$$$l' ,s,`l$$$$$b,n$$$$$$$$,$S',S$S""""*' i$$$$$;  $
+15,01 nl $$$$$; """ ;$$$$$$$li$$$$$; S$$l ;$$$$$$$l$$$$$$$$$'.,asssd"`"^'nl$$$$$ . $
+15,01 :l ,ssssss"`^'n$$$$$$$;l$$$$$  in',i $$$$$$$;`n?$lPn' ii$$$$$$ n,s,`$$$$$$ : $
+15,01S$ i$$$$$$$     $$n',gdl$lg,n$  sd$$i """""""  ,ssssss l$$$$$$$ S$$l $$$$$$ n '
+15,01$dg,'$$$$$$ ,_  $$ l$$$$$$$$l ; $$$$l $$$$$$$;i$$$$$$$ i$$$$$$$ in' i$$$$',gdS$
+15,01$$$$ $$$$$$ $$l $$ l$$$$$$$$l i $$$l' $$$$$$$ll$$$$$$$ l$$$$$$$ sd$ i$$$ l$$$$$
+15,01$$$$ $$$$$$  ' ;$$s,`n?$lPn',sl, n', ;$$$$$$$$$$$$$$$$;$$$$$$$$ `$$ l$$$ l$$$$$
+15,01 Sn',$$$$$$  $ l$$$$$$Pnn?$$$$$; dSl l$$$$$$Pnn?$$$$$$ln?$$$$$$l `$ l$$$$,`n$$$
+15,01 sSSa,`"*nSb,.,d$n*"`,glbs,`"*nSb,.,d$n*"`,,glb,_`"nn?$b, `"*nSb,.,d$n*"`,s,,,,
+15,01 $$$$$$$s,,,,,,,,,ssSS$$$$$$$s,,,,,,,,,ssSS$$$$$$$Ssssssss$$$s,,,,,,,,,ssSS$$$$
+15,01 lethal injection [ac1d]  _\|/_  march  collection  _\|/_  remorse nine seven
+
+15,01, ,sSSPn""'```"""`````````"""nnn+++++++"""nnnnn'''''```````+++nn"""""~~'nYSs,
+15,01$Wl'                                                                       'lW,
+15,01$$$      awrite, this is my colly for acid's best pack of the year.         $$$
+15,01$$$   too bad this colly sucks ;). reason for that is, i don't have time    $$$
+15,01$$$  to draw anymore, I'm soooo busy with school and shit.  so here it is   $$$
+15,01$$$  don't complain. neway,  i wanna thank all the people who have dcc'ed   $$$
+15,01$$$  me and emailed me for requests or compliments, as you can see,  I've   $$$
+15,01$$$  only started to get to a few, mainly cause I forget whatever you req   $$$
+15,01$$$  uested ;). shouts to acid, rmrs, negromancer, dis, f3, mHz, Mark Goh   $$$
+15,01$$$  rev, nappy, empty, killa, tDa, all my 604 peeps, evacid, biGGie, vae   $$$
+15,01$$$  ic0n, mrmr and all my phans (count em, 1-2-3). If you have a request   $$$
+15,01$$$   you can e-mail me at: ease@digital-rain.com or catch me on the irc    $$$
+15,01$$$      in #ascii. later all, and don't hesitate to request sumthin'       $$$
+15,01$$$                                                                         $$$
+15,01$$$  ATTN!: I am looking for a coder for FLAVA (my hiphop zine) anyone who  $$$
+15,01$$$  can code C++ or ASM, please email me with a demo of your abilities at  $$$
+15,01$$$           ease@digital-rain.com You can get back issues at              $$$
+15,01`$$                www.iceonline.com/home/rahimk/flava.htm                  $$$
+15,01 W$$l,._                                                               _.,l$$W`
+15,01  `""""""nnnnnnnnnnnnnnnnnnnnn""""""""""""""""+++nnnnnnnnnnnnnnnnnn"""""""""`
+15,01   ....
+15,01 . clip ..: title: reveal .:. requested by: f3ral :............................
+15,01   ....
+
+15,01 a
+15,01 l$#l$aaaa                 $#l$aaaa  a
+15,01  lll$l$$$$$               lll$l$$$$$`   a           $#l$aaaa  a
+15,01  llllllllll""l$#l$aaaa  a llllllllll    l$#l$aaaa  alll$l$$$$$`     li(acid)
+15,01  lll;;;l;;l   lll$l$$$$$` lll;;;l;;l     lll$l$$$$$`llllllllll   a
+15,01  l;;;;pp;;l   llllllllll  l;;;;pp;;l     llllllllll lll;;;l;;l   l$#l$aaa,
+15,01  ;;''''''';   ;''''''';;  ;''''''';;     ;;'''''''; ;;''''''';    l;''''''';;
+15,01  ; alS$Sla     alS$Sla ;   alS$Sla ;     ; alS$Sla  ; alS$Sla       alS$Sla ;
+15,01  ,l$$$$$$$l   l$$$$$$$l,  l$$$$$$$l,     ,l$$$$$$$l ,l$$$$$$$l     l$$$$$$$l,
+15,01  l$$$$$$$$l   ;pl$$$$$l'  l$$$$$$$$$     a$$$$$$$$q l$$$$$$$$$     a$$$$$$$$q

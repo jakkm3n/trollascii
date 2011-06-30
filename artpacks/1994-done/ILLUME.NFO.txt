@@ -1,0 +1,80 @@
+15,01               again, it will only view _256_ color gifs!  Illume will
+15,01               just ignore all others.10              "14,10 10,01mm
+15,01            +  Small bug fixed with the ansimation flag.  If you had a10mm14,10 10,01"""
+15,01               file tagged as an ansimation on the picklist and its10 m14,10 10,01"
+15,01               currently on the screen, when you use the PGUP/PGDN/END/10"""""
+15,01               or HOME keys the ansimation flag(s) would not be placed
+15,01               in the right spot later...14,10  10,01  14,10 10,01|   |14,10 10,01 |14,10 10,01   " |14,10 10,01| 14,10  10,01 |14,10 10,01|
+15,01            *  Some more screen effects have been added.10    |14,10 10,01| |14,10 10,01| "14,10 10,01mm
+10,01   "   """14,10   10,01m " m""m  m""m"     |   |  "   " m""m   14,10 10,01|      ""  ""    """""
+15,01         0  v1.6a -10.94-10 ||                 ||    m14,10 10,01"
+15,01            ?  This is mainly a small maintenence release (I've been10    
+15,01               a little lazy with Illume the last month).  Not a lot
+15,01               has been added or modified.  I HAD planed on putting
+15,01               mouse support in, but right now I dont feel like doing
+15,01               it, since its SOOOO tedious to do!!! IMO, ugh... ;>
+15,01            +  Illuminate now sports a new interface, Designed by
+15,01               Asterix.rogrammed by Lief O'Pardy, Asterix
+15,01            +  Viewing Ansis in SVGA modes is now a LOT faster (about
+15,01               2x to 3x faster).  The earlier code was slow due to a
+15,01               stupid "oversite" on my part...
+00,01  -|------------------+
+15,01         0  v1.6  -09.94-
+15,01            *  A title screen was finally added.
+15,01            *  Illuminate no longer depends on ANSI.SYS for Ansi-
+15,01               Mations!  Illume uses direct memory writes to do
+15,01               it, so that means its fast too! (sometimes too fastnate
+15,01               ;> ).  So that means Illume now FULLY supports  purpose
+15,01               AnsiMations in TEXT and MCGA modes!  this also means my
+15,01               that illume no longer needs ANSI.SYS AT ALL!NPI or VOR,
+15,01            -  You no longer have the option of turning the cursortime
+15,01               ON and OFF. Now it just stays off all the time.ate  was
+15,01            *  Now use the + - keys while viewing an ansi to changeped
+15,01               the current resolution.  Note that, when you go from IS
+15,01               a TEXT mode TO a Graphic mode, It will have to Create
+15,01               a new palette, & when you go from a Graphic mode to a
+15,01               TEXT mode, it will have to Re-Load the file again. It
+15,01               does this because of the way the ansi gets loaded, it
+15,01               tries to use the least amount of memory possible.
+15,01            *  The 3 SVGA modes have been coded back into Illuminate.
+15,01               (finally).  The code is my OWN (not that BGi crap!),
+15,01               and they are very limited.  It only supports the VESA
+15,01               standard, but that shouldnt be a problem anyways.
+15,01               The setpix() routine is a little slow, but that will
+15,01               be speeded up later... (ScrollBack is NOT supported
+15,01               in the SVGA modes).nch.ICE routines)
+15,01            *  Illuminate now incorporates SMOOTH scrolling when
+15,01               viewing ANSi's In the VGA Graphics modes.00 it may be put
+15,01            +  VGA mode 360x480 was replaced with 320x400.00ases another
+15,01               This mode gives the same effect (almost) of a 50 line
+15,01               Text mode.on support in TEXT and MCGA modes
+15,01            +  The ANSI Pharsing routines have been improved.
+15,01               It now supports file's  that have lines longer then 255
+15,01               chars.~3800 file/directories in one sub-directory
+15,01            +  The 400 line limit in scrollback mode has been  broken.
+15,01               Its  now  only  limited to  the  amount of conventional
+15,01               memory you have available.n.
+15,01         0  Features SMOOTH-Ansi-scrollback in VGA graphics modes
+15,01         0  v1.5  -08.94-text modes)
+15,01            *  When EXECUTING an EXE/COM from the picklist.  Illume
+15,01               will now "shrink" it self in memory, to give as muchs)
+15,01               memory as possible to the new executable.
+15,01            !  Minor drawback.  The configuration is now saved in an
+15,01               external CFG file.  For some reason the RIP routines
+15,01               interfear with some of my other routines for figuring
+15,01               the EXE size, so I can't attach the config there.
+15,01                (Even though the RIP routines are not included in this
+15,01                release, I dont feel like changing everything around
+15,01                again, so that the CFG is saved in the EXE.
+15,01                -Live with it!)
+15,01            *  Added XGA mode 360x480x256 for viewing ANSI's. -works
+15,01               on any 100% register-compatable VGA card.
+15,01            *  Completely RE-Coded the Option's Menu.
+15,01            +  Now 7 filemasks can be searched at once, instead of 3.
+15,01               (this can be changed to as many as i want, but the
+15,01               option menu, can only hold so many file masks in thedes
+15,01               list!) ;>e  in  the  "Features"   section.   Also,  The
+15,01            +  Greatly increased the scrollback speed for MCGA mode.ic
+15,01            *  0-1 level RIP support has been implemented.  Rip routines
+15,01               are by Cap'n Chrunch / ICE. (as if you could'nt tellThe
+15,01               by the NAG when illuminate starts. ugh!).

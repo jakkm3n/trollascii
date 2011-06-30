@@ -1,0 +1,31 @@
+15,01               __________________          ___  ___  __________
+15,01               \  _ _______    _/    _____/   \/   \/  _______/
+15,01                \/ \__   \|    | ___/ ___ \   /    \\   _)/   \
+15,01                /    |   \\    |/   \/   \/  _  _   \\         \
+15,01               /          \\        \\   \\  |\/|     \         \
+15,01               \___________/_________/____/__|  |_____/_________/
+15,01                                  Echo List                 -tZ!
+15,01,--------------------------------------------------------------------------,
+15,01| Tag Name   |  Description                                   | Flags      |
+15,01|------------|------------------------------------------------|------------|
+15,01|  SL-GENER  | General Discussion                             |#           |
+15,01|  SL-BBS    | BBS/Ansi Ads                                   |#           |
+15,01|  SL-ART1   | Opium Discussion                               |!           |
+15,01|  SL-ART2   | PoW Discussion                                 |!@          |
+15,01|  SL-ART3   | General Art Group Discussion                   |#           |
+15,01|  SL-MAG1   | Guilt E-Mag                                    |!           |
+15,01|  SL-MAG2   | Terbium E-Mag                                  |!           |
+15,01|  SL-MAG3   | General E-Mag Discussion                       |!           |
+15,01|  SL-RENE   | Renegade Discussion                            |!           |
+15,01|  SL-BBSOF  | General BBS Software Discussion                |#           |
+15,01|  SL-HP     | Hacking/Phreaking                              |#           |
+15,01|  SL-INET   | InterNet Discussion                            |!@          |
+15,01|  SL-SUGGE  | Slime-Net Suggestions                          |#*          |
+15,01|  SL-TEST   | Slime-Net Testing                              |#*          |
+15,01|  SL-SYSOP  | Slime-Net SysOp Discussion                     |#*          |
+15,01|--------------------------------------------------------------------------|
+15,01|     #      | Required Base                                               |
+15,01|     !      | Optional Base                                               |
+15,01|     *      | SysOp's/CoSysOp's Only                                      |
+15,01|     @      | New Base/Change                                             |
+15,01`--------------------------------------------------------------------------'

@@ -1,0 +1,35 @@
+15,01[PyroView v.5]
+
+15,01[MultiTasker]
+15,01False     ; False if you don't run under a Multitasker
+15,01          ; I found some rather disgusting things when i ran d/v... No fades
+15,01          ; etc etc... And then with os/2 the delays were um can we say,
+15,01          ; interesting...
+
+15,01[FileNames]
+15,01*.ANS,0   ;0 = ANSI/ASCii Files
+15,01*.NFO,0   ;1 = PCX Files
+15,01*.REL,0   ;2 = GIF Files
+15,01*.iCE,0   ;3 = BIN Files Still not implemented
+15,01*.VOR,0   ;4 = RiP Files
+15,01*.TRI,0   ;5 = Music Files (Shitty shell to dos for dmp etc..)
+15,01*.NAT,0   ;6 = EXE's-COM's-BAT's
+15,01*.ASC,0
+15,01*.BIN,3
+15,01*.RIP,4
+15,01*.GIF,2
+15,01*.PCX,1
+15,01*.EXE,6
+15,01*.COM,6
+15,01*.BAT,6
+15,01*.DOX,0
+15,01*.S3M,5
+15,01*.MOD,5
+15,01*.WAV,5
+15,01*.669,5
+15,01*.STM,5
+
+15,01[Muzak Player]
+15,01E:\COMPRESS\DMP.EXE
+15,01$FILE>SAUCE00Pyroview .INI File                 Wintermute          Fire        
+15,01        19941211+14,15@15,01  @@P v                             

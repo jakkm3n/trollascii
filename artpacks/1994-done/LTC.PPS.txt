@@ -1,0 +1,80 @@
+15,01        STRING          CALLER1        
+15,01        STRING          CITY1
+15,01        STRING          SEC1
+15,01        STRING          CALLER2        
+15,01        STRING          CITY2
+15,01        STRING          SEC2
+15,01        STRING          CALLER3        
+15,01        STRING          CITY3
+15,01        STRING          SEC3
+15,01        STRING          CALLER4        
+15,01        STRING          CITY4
+15,01        STRING          SEC4
+15,01        STRING          CALLER5        
+15,01        STRING          CITY5
+15,01        STRING          SEC5
+15,01        STRING          CALLER6        
+15,01        STRING          CITY6 
+15,01        STRING          SEC6
+15,01        STRING          CALLER7        
+15,01        STRING          CITY7
+15,01        STRING          SEC7
+15,01        STRING          CALLER8        
+15,01        STRING          CITY8
+15,01        STRING          SEC8
+15,01        STRING          CALLER9        
+15,01        STRING          CITY9
+15,01        STRING          SEC9
+15,01        STRING          CALLER10       
+15,01        STRING          CITY10
+15,01        STRING          SEC10
+15,01        STRING          LEVELNAME
+15,01        STRING          BottomLine
+15,01        INTEGER         USEC
+15,01        STRING          Col1
+15,01        STRING          Col2
+15,01        STRING          Col3
+15,01        STRING          Col4
+15,01;-----------------------------------------------------------------------------
+15,01        PRINT           "@POFF@@QOFF@"
+15,01        DISPFILE        PPEPATH()+"LTC-HEAD.PCB", GRAPH
+15,01        FOPEN           1, PPEPATH()+"LTC-LAST", O_RD, S_DN
+15,01        FGET            1, Caller1
+15,01        FGET            1, City1
+15,01        FGET            1, Sec1
+15,01        FGET            1, Caller2
+15,01        FGET            1, City2
+15,01        FGET            1, Sec2
+15,01        FGET            1, Caller3
+15,01        FGET            1, City3
+15,01        FGET            1, Sec3
+15,01        FGET            1, Caller4
+15,01        FGET            1, City4
+15,01        FGET            1, Sec4
+15,01        FGET            1, Caller5
+15,01        FGET            1, City5
+15,01        FGET            1, Sec5
+15,01        FGET            1, Caller6
+15,01        FGET            1, City6
+15,01        FGET            1, Sec6
+15,01        FGET            1, Caller7
+15,01        FGET            1, City7
+15,01        FGET            1, Sec7
+15,01        FGET            1, Caller8
+15,01        FGET            1, City8
+15,01        FGET            1, Sec8
+15,01        FGET            1, Caller9
+15,01        FGET            1, City9
+15,01        FGET            1, Sec9
+15,01        FGET            1, Caller10
+15,01        FGET            1, City10
+15,01        FGET            1, Sec10
+15,01        FCLOSE          1
+15,01        FOPEN           1, PPEPATH()+"LTC.CFG", O_RD, S_DN        
+15,01        FGET            1, Col1
+15,01        FGET            1, Col2
+15,01        FGET            1, Col3
+15,01        FGET            1, Col4
+15,01        FGET            1, BottomLine
+15,01        FCLOSE          1
+15,01        PRINT           Col1+"| "+Col2+Caller1+"@POS:29@"+Col1+"| "+Col3+City1+"

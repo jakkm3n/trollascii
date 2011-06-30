@@ -1,0 +1,38 @@
+15,01@X78[#@X7CL@X74OGO@X7CN@X78#]
+15,01@X78[#@X7CC@X74HECK FOR ACCES@X7CS@X78#]
+15,01@X78[#@X7CA@X74PPLY FOR ACCES@X7CS@X78#]
+15,01@X78[#@X7CL@X74EAVE FEEDBAC@X7CK@X78#]
+15,01@X78[#@X7CL@X74OGOF@X7CF@X78#]
+15,01@X08[#@X0CL@X04OGO@X0CN@X08#]
+15,01@X08[#@X0CC@X04HECK FOR ACCES@X0CS@X08#]
+15,01@X08[#@X0CA@X04PPLY FOR ACCES@X0CS@X08#]
+15,01@X08[#@X0CL@X04EAVE FEEDBAC@X0CK@X08#]
+15,01@X08[#@X0CL@X04OGOF@X0CF@X08#]
+15,0136;16
+15,0131;17
+15,0131;18
+15,0132;19
+15,0136;20
+15,01system
+15,01nup
+15,01SysOp
+15,0120
+15,01@X0FHa@X07nd@X08le@X05: _
+15,01@X0FPa@X07ss@X08word@X05: _
+15,01@X0FMa@X07tr@X08ix @X0FPa@X07ss@X08word@X05: _
+15,01@X0FChe@X07cki@X08ng @X0Freq@X07ues@X08t @X01...
+15,01 @X03Request confirmed.  Matrix password: @X0B
+15,01 @X03Request confirmed.  Application accepted.
+15,01 @X03Account already exists!
+15,01@X0FN@X07U@X08P@X05: _
+15,01@X09T@X01o@X08: 
+15,01@X09B@X01y@X08: _
+15,01@X09R@X01e@X08: _
+15,01@X08/@X0BS@X03ave                                                               
+15,01     @X08/@X0BA@X03bort
+15,01@X08----------------------------------------------------------------------------
+15,01---
+15,01@X08 -@X01 PCBOARD LOGIN SHELL v1.00
+15,01 @X03That user does not exist!
+15,01 @X03You have not been validated yet.
+15,01@X08T@X04h@X0Cat user does not exis@X04t@X08!

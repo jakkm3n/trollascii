@@ -1,0 +1,80 @@
+15,01+-----..-.-------------------------------------------------------. ..------+
+15,01|         14,15 #15,01  m14,15 15,01      14,15 #15,01""14,15 15,01m 14,15 #15,01     m14,15#15,01""14,15 15,01m 14,15 #15,01  14,15  15,01 14,15 #15,01""14,15  15,01 14,15 #15,01""14,15 15,01m            |
+15,01|         14,15 #15,01  14,15  15,01   m  14,15 #15,01  14,15  15,01 14,15 #15,01     14,15 #15,01  14,15  15,01 14,15 #15,01  14,15  15,01 14,15 #15,01     14,15 #15,01  14,15  15,01            |
+15,01|         "14,15#15,01 m14,15 15,01"  14,15# 15,01  14,15 #15,01  14,15  15,01 14,15 #15,01     14,15 #15,01  14,15  15,01 14,15 #15,01  14,15  15,01 14,15 #15,01m    14,15 #15,01  14,15  15,01            | 
+15,01|         m14,15#15,01 "14,15 15,01m  14,15# 15,01  14,15 #15,01 #14,15  15,01 14,15 #15,01     14,15 #15,01 #14,15  15,01 14,15 #15,01  14,15  15,01 14,15 #15,01"    14,15 #15,01 #14,15 15,01"            |
+15,01|         14,15 #15,01  14,15  15,01  14,15#15,01"  14,15 #15,01"""  14,15 #15,01     14,15 #15,01""14,15  15,01 "14,15#   15,01" 14,15 #15,01  14,15  15,01 14,15 #15,01""m             |
+15,01|         14,15 #15,01  14,15  15,01 ---- 14,15 #15,01 --- 14,15 #15,01mm14,15  15,01 14,15 #15,01  14,15  15,01 - 14,15  15,01 - 14,15 #15,01mm14,15  15,01 14,15 #15,01  14,15  15,01 V2.51      |
+15,01|------------=====================--=---================-===-==----------- |
+15,01|   PROGRAMMER # RAY^[RADICAL RHYTHMS]^[BLANK]                             |
+15,01|       DESIGN # COSMiC^[RADICAL RHYTHMS]^[D-LUSION]^[BLANK]               |
+15,01|   (C)1994,95 # RAY & COSMIC                                              |
+15,01| DiSTRiBUTiON # UNDERCOVER & RADiCAL RHYTHMS                              |
+15,01|    ReLEASE   # VeRZiON V2.51 -/- 12/17/1994                              |
+15,01|------------=====================--=---================-===-==----------- |
+15,01| # X-PLAY ReQUiRES #                                                      |
+15,01|                     [ FREE MEMORY                                      ] |
+15,01|                     [ AT LeAST a 386SX/16                              ] |
+15,01|                     [ A SoUNDCARD (GUS/SB/SBPRO/SB16ASP)               ] |
+15,01|                     [ A COOL USER (WELL, MAYBE YOU... ;) )             ] |
+15,01|------------=====================--=---================-===-==----------- |
+15,01| # HOW TO USE THE PLAYER #                                                |
+15,01|                                                                          |
+15,01|  At your  command line type - X-PLAY FILENAME.DMF to  play  your desired |
+15,01|  sound file (or without parameters to view the list of options).         |
+15,01|                                                                          |
+15,01|  After  selecting  a valid  sound file, the program prompts you to enter |
+15,01|  several information. Select  your  sound  card  and  the  corresponding |
+15,01|  mixer information. This of course only affects  SoundBlaster(tm) output |
+15,01|  and is therefore not required if  running in GUS mode.                  |
+15,01|                                                                          | 
+15,01|  The  player  main  screen  shows some information while playing and, of |
+15,01|  course, a  fine, 32 channel wide  equalizer! Please  note  that the DMA |
+15,01|  transfer  on SB  and  compatible cards  slows  down the systemspeed and |
+15,01|  affects the frame update of the equalizer. Let there be GUS!            |
+15,01|                                                                          |
+15,01|  Note from RAY: I could have made the equalizer a LOT faster  in SB mode | 
+15,01|  but this would  decrease the sound qualitiy, so I decided to give maxi- |
+15,01|  mum performance to quality.                                             |
+15,01|                                                                          |
+15,01|  This is why I implemented the "/B:xx" option which  sets the DMA buffer |
+15,01|  length. The smaller  the value, the faster  the equalizer  on SB cards. |
+15,01|  Just use the value you want to...                                       |
+15,01|                                                                          |
+15,01|  DISCLAIMER: You  use  this  software  at  your  own  risk! We  are  not |
+15,01|  responsible for you putting the cat into the fridge while playing!      |
+15,01|                                                                          |
+15,01|  This program may be  distributed  freely  as long no fee is charged for |
+15,01|  distribution. If  you  do  copy this program, then  copy it for FREE!!! |
+15,01|  (Otherwise we'll get ya!)                                               |
+15,01|                                                                          |
+15,01|                                                                          |
+15,01|  X-Tracker Player(c) 1993, 1994 by D-LUSION, RAY & COSMIC                |
+15,01|  X-Tracker (c) 1993, 1994 by TBG/ASi                                     |
+15,01|                                                                          |
+15,01|                                                                          |
+15,01|  Contact uz at:                                                          |
+15,01|                                                                          |
+15,01|  Undercover Support BBS +49 23 23 450 850                                |
+15,01|  Ray's kewl voice line  +49 23 23 460 525                                |
+15,01|                                                                          |
+15,01|  Sorry for this SHORT docu, but no time to write a bigger one! ;)))      |
+15,01|                                                                          |
+15,01|  Greetings from RAY go to: everybody at RADiCAl RhYthMS, BlANk,          |
+15,01|  D-lUSiON, lEGENd dESiGN, k.l.f. (Germany), klf (USA), CREW 242.         |
+15,01|  Persona grata: MANhUNtER.CYbERdECk, RAP.CYbERdECk, ChiCkEN.ECR.S!P.     |
+15,01|  Sorry, if I forgot your name in this list. Just let me know...          |
+15,01|                                                                          |
+15,01|  Revizion hiztory:                                                       |
+15,01|   Changes from Verzion 1.o1 to 1.2o:                                     |
+15,01|    - Renamed to X-PLAY because of some problems with the small D-LUSION  |
+15,01|      player.                                                             |
+15,01|    - Config file implemented. the first time you run the program and     |
+15,01|      enter the parameters, X-PLAY will store your configuration in a     |
+15,01|      special .INI file (hi BOP, CODE-X!).                                |
+15,01|    - some graphical changes (yo COS) - think you feel better now!        |
+15,01|    - check out the new functions! (watch the player screen!)             |
+15,01|                                                                          |
+15,01|   Changes from Verzion 1.2o to 1.26:                                     |
+15,01|    - added support for DMA's 2,4,5,6,7,8,9 and IRQ's 2 and 12 for more   |
+15,01|      success on SB 16 and GUS.                                           |

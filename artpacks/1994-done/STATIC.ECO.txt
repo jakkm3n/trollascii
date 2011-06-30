@@ -1,0 +1,78 @@
+15,01  S    t    a    t    i    c       N   e   t
+15,01+---+---------------------------+--------+---+
+15,01|## | Message Bases             |TagNames|LGD|
+15,01+---+---------------------------+--------+---|
+15,01|01 | General Discussions       |0001_STC|!  |
+15,01|02 | BBS Advertisements(Ansi)  |0002_STC|!  |
+15,01|03 | BBS Advertisements(Ascii) |0003_STC|!  |
+15,01|04 | For Sale(All)             |0004_STC|C  |
+15,01|05 | Dirty Talk                |0005_STC|NC!|
+15,01|06 | ANSi Discussion           |0006_STC|C  |
+15,01|07 | Musical Interests         |0007_STC|   |
+15,01|08 | Movie Reviews             |0008_STC|   |
+15,01|09 | Sports Talk               |0009_STC|   |
+15,01|10 | Software Reviews          |0010_STC|   |
+15,01|11 |                           |    _STC|D  |
+15,01|12 | Programmer's Corner       |0012_STC|   |
+15,01|13 | Japanese Anime.           |0013_STC|   |
+15,01|14 | Technical Help(Hardware)  |0014_STC|   |
+15,01|15 | BBS Help / Reviews        |0015_STC|   |
+15,01|16 | Hobbies                   |0016_STC|   |
+15,01|17 | Practical Jokers          |0017_STC|   |
+15,01|18 | Couch Potatoes            |0018_STC|   |
+15,01|19 | Comic Books               |0019_STC|   |
+15,01|20 | Games Discussions (all)   |0020_STC|   |
+15,01|21 | The CrossRoads Pub        |0021_STC|C  |
+15,01|22 | Group Discussions         |0022_STC|   |
+15,01|23 |                           |    _STC|   |
+15,01|24 |                           |    _STC|   |
+15,01|25 |                           |    _STC|   |
+15,01|26 |                           |    _STC|   |
+15,01|27 |                           |    _STC|   |
+15,01|28 |                           |    _STC|   |
+15,01|29 |                           |    _STC|   |
+15,01|30 |                           |    _STC|   |
+15,01+---+---------------------------+--------+---|
+15,01|   | Groups Stuff.             |TagNames|LGD|
+15,01+---+---------------------------+--------+---|
+15,01|31 | REM INC (Public)          |0031_STC|   |
+15,01|32 | REM INC (Private)         |0032_STC|%  |
+15,01|33 | INSOMNIA (Public)         |0033_STC|N% |
+15,01|34 |                           |    _STC|   |
+15,01|35 |                           |    _STC|   |
+15,01|36 |                           |    _STC|   |
+15,01|37 |                           |    _STC|   |
+15,01|38 |                           |    _STC|   |
+15,01|39 |                           |    _STC|   |
+15,01|40 |                           |    _STC|   |
+15,01+---+---------------------------+--------+---|
+15,01|   | STC Stuff.                |TagNames|LGD|
+15,01+---+---------------------------+--------+---|
+15,01|41 | STC News & Suggestions    |0041_STC|!  |
+15,01|42 | STC Sysops                |0042_STC|!  |
+15,01|43 | STC Beta Testing          |0043_STC|!  |
+15,01+---+---------------------------+--------+---+-----+
+15,01|         T H E   G R E A T   L E G E N D          |
+15,01+---+----------------------------------------------+
+15,01| ! |Core Echo (Required by all StaticNet Systems) |
+15,01| % |Group Members Boards Only                     |
+15,01| N |Newly Added Bases                             |
+15,01| * |Restricted Echos (Ask WHQ/CentralHQ/WestHQ)   |
+15,01| D |Deleted Bases                                 |
+15,01| C |Changed Bases(Names/Moved/etc)                |
+15,01+---+----------------------------------------------+
+
+15,01StaticNet will only go up to 43 bases.  As time goes on we will be deleting
+15,01or adding bases.  Thus being a number system(tagnames/base #'s) it is easier
+15,01for me to slide bases in and out of the network.  If you want to add a base
+15,01to StaticNet you must sponsor that base, and if found worthy you shall keep
+15,01it.  But if not we will delete it due to lack of participation.
+
+15,01StaticNet is fairly new so the quality of messages has not been established
+15,01at this point.  No rules have not yet been conducted.  We will learn as we
+15,01go along.  I do encourage QUALITY messages.  Give us a shot. BTW: this net
+15,01does not guarantee anything it is for the reading and viewing pleasure of
+15,01the Underground Community.
+
+15,01StaticNet is a division of REM INC.
+15,01REM INC member boards are encourage to apply.

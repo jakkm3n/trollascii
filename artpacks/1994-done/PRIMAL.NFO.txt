@@ -1,0 +1,80 @@
+15,01Member List Update : 09/24/93         
+15,01         mmmmmmmmmm   mmmmmmmmmm   mmmm mmmm        mmmm       m mmmm
+15,01         14,15           15,01m 14,15           15,01m 14,15    15,01 14,15     15,01m    m14,15     15,01     m14,15  15,01 14,15    
+15,01                "14,15    15,01        "14,15    15,01      14,15       15,01mm14,15       15,01   m14,15    
+15,01 mmmmmmm mmmm m  14,15    15,01 mmmm m  14,15    15,01 mmmm 14,15    15,01"14,15      15,01"14,15    15,01 m14,15      15,01 mmmm mmmmmmmm
+15,01mmmmmmmm 14,15    15,01mmm14,15     15,01 14,15    15,01mmm14,15     15,01 14,15    15,01 14,15    15,01  "14,15  15,01"  14,15    15,01 14,15       15,01 14,15    15,01 mmmmmmm
+15,01  mmmmmm 14,15          15,01"  14,15          15,01"  14,15    15,01 14,15    15,01 mmmmmm 14,15    15,01 14,15 15,01" 14,15    15,01 14,15    15,01 mmmmmmmmm
+15,01 mmmmmmm ##14,15  15,01 mmmmmmm ##14,15  15,01 m "14,15   15,01m ##14,15  15,01 ##14,15  15,01 mmmm   14,15    15,01 mm 14,15  15,01## ##14,15  15,01 mmmmmmmm
+15,01         00@@14,15  15,01         00@@14,15  15,01    14,15    15,01 00@@14,15  15,01 00@@14,15  15,01     m14,15 15,01 14,15    15,01    14,15  00,01@@15 00@@14,15  
+15,01         14,15##  15,01         14,15##  15,01    14,15    15,01 14,15##  15,01 14,15##  15,01   m14,15   15,01 14,15    15,01    14,15  ##15,01 14,15##  15,01mmmmm
+15,01         14,15    15,01         14,15    15,01    14,15    15,01 14,15    15,01 14,15    15,01  14,15    15,01" 14,15    15,01    14,15    15,01 14,15         
+15,01         ####         ####    #### #### ####  ####  ####    #### #########
+
+15,01                    ITS TIME TO HAVE A NEW REIGN OF POWER
+
+
+
+15,01-/- Do you want to become a Primal Site ?
+
+15,01        If so call WHQ's Demons Abyss 516 293 7313 or 516 752 9820.
+
+15,01        If you would like to carry PRiMALnet call anyboard that currently 
+15,01        carries it or call Demons Abyss.
+
+15,01=============================================================================
+
+15,01* New Member.
+15,01- Retired, Quit or Ejected.
+
+15,01        Current Member List:
+15,01        
+15,01                Mortacan        [Senior Staff]
+15,01                Vigilante       [Senior Staff]
+15,01                White Knight    [Senior Staff]
+15,01                Acid Patrol     [Canadian Co-ordinator]
+15,01                Warrior         [F.C.A.]
+15,01              - Toonsinator     [F.C.A.]   
+15,01                Ghost Crazy     [Italian Co-ordinator]
+15,01                Musicphreak     [F.C.A.]
+15,01                Bub             [SysOp Member Board]
+15,01                Mac Wacko       [Programmer, Cracker]
+15,01                Magician        [F.C.A.]
+15,01                Zapper          [F.C.A., Writer]
+15,01                J-Walker        [SysOp Member Board]
+15,01                The Beholder    [ANSi/Vga]
+15,01                Viceroy         [SysOp Member Board]
+15,01                The Phantom     [SysOp Member Board]
+15,01                Acid Patrol     [Canadian Co-Ordinator]
+15,01                Waysted         [SysOp Member Board]
+15,01                Sticky Fingaz   [Ansi/Vga]
+15,01                Odin            [Ansi/Vga]
+15,01                Corwin          [SysOp Member Board]
+15,01                Master Wizard   [SysOp Member Board]
+15,01                Crazy Young     [Vga]
+15,01                Hellmaster      [Ansi/Vga]
+15,01                Lone Viking     [SysOp Member Board]
+15,01                Azmodeous       [SysOp Member Board]
+15,01                Stuntman        [SysOp Member Board]
+15,01                SKiLL           [SysOp Member Board]
+15,01                ScarFace        [SysOp Member Board]
+15,01               *The RiPPER      [SysOp Member Board]
+15,01               *Six Pack        [SysOp Member Board]
+
+15,01============================================================================
+
+
+15,01Board Affiliations:
+15,01++ = Not a Distro Site
+
+15,01                Demons Abyss    [World Head Quarters]    516.752.982O
+15,01                Bub's Place     [PrimalNet Site]         516.345.2485
+15,01                CyberSpace      [PrimalNet Hub]          718.382.6498
+15,01                Cemetary Gates  [PrimalNet Hub]          419.865.XXXX
+15,01                Magic Castle    [PrimalNet Europe Hub]   +39.532.097397
+15,01                Amber           [PrimalNet]              914.779.1369
+15,01                The Danger Zone [PrimalNet]              XXX.XXX.XXXX
+15,01               Forgotten Worlds [PrimalNet]              203.233.2358
+15,01          Fellowship of Camelot [PrimalNet]              +??.xxx.xxxx
+15,01                Tech-9          [Member Board]           516.568.0885
+15,01             Velvet Underground [PrimalNet]              516.DNT.CALL

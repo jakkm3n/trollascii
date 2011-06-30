@@ -1,0 +1,80 @@
+15,01       03#
+15,01       09@03   #
+03,01  14"03"14,03#03,01""14,03#03,01m14m 14,03#09#03,01"
+03,01    09@03  # 14,03#03,01 #m14m
+14,01    03#    #
+15,01       00"00,00#15,15@00#15,01""" 14,00 00#00,01"15       14,00 00#00,01"15       14,00 00#00,01" 14,00 00#00,01"15""""14,15  15,01" 14,00 00#00,01m   15"14,15  15,01 14,00 00#00,01"15""""14,15  15,01 14,00 00#00,01"15""""14,15 
+15,01      00m15,15@00#15,01" 14m14,14#14,01  00,00#15,15@15,01        00,00#15,15@15,01        00,00#15,15@15,01  00,00#15,15@15,01     14,15  15,01  00,00#15,15@15,01 "m  14,15  15,01 00,00#15,15@15,01        00,00#15,15@15,01     14,15 
+15,01    00m15,15@00#15,01"   01,15@00,14#15,01  15,15@00#15,01        15,15@00#15,01        15,15@00#15,01  15,15@00#15,01     14,15  15,01  15,15@00#15,01   "m14,15  15,01 15,15@00#15,01        15,15@00#15,01     14,15 
+15,01   00m15,15@00#15,01"    01,15@00,14#15,01  00,15#14 15,01        00,15#14 15,01        00,15#14 15,01  00,15#14 15,01     14,15  15,01  00,15#14 15,01     14,15  15,01 00,15#14 15,01        00,15#14 15,01     14,15 
+15,01  00,00#15,15@00#15,01      01,15@00,14#15,01  14,15  15,01        14,15  15,01        14,15 #15,01  14,15  15,01     14,15 #15,01  14,15  15,01     14,15 #15,01 14,15  15,01        14,15  15,01     14,15 
+15,01 00,00#15,15@00#15,01"""""" 01,15@00,14#15,01  14,15  15,01        14,15  15,01        14,15#01@15,01  14,15  15,01"""" 14,15#01@15,01  14,15  15,01     14,15#01@15,01 14,15  15,01        14,15  15,01""""""
+00,01|15,15@00#15,01|       14,15#01@15,01  14,15  15,01        14,15  15,01        01,15@00,14#15,01  14,15  15,01     01,15@00,14#15,01  14,15  15,01     01,15@00,14#15,01 14,15  15,01        14,15  
+15,15@00#14 15,01        14,15#01@15,01  14,15  15,01mmmm14m00,14#14 14,01 14,15  15,01mmmm14m00,14#14 14,01 00,14#14 14,01  14,15  15,01     00,14#14 14,01  14,15  15,01     00,14#14 14,01 14,15  15,01mmmm14m00,14#14 14,01 14,15  15,01mmmm14m00,14#
+15,15@00#14 15,01        14,15#01@15,01                                                   04m15      04mm  mmm
+15,01|00,15#14 15,01|       14,15 #15,01 04#  ## ####13@04##13@@04#13@@@@14,04#13,01@@14,04##13,01@14,04#### ##  #                            
+04,01 15"14,15#01@14,01m15      14,15 #15,01                                                        04"  "" """
+15,01           14,15 #15,01                                        14[00G13u04ile 14. 00A13C04iD 00P13r04oductions
+15,01           14,15 #
+15,01           14,15 #
+
+00,01------------------------------------------------------------------------------
+00,01  15. 14The Alliance 15. 14A New Force in 619 15. 14Newsletter Issue #1 15. 14July 17, 1994 15.
+00,01------------------------------------------------------------------------------
+
+15,01         Welcome, to the first ever Alliance Newsletter. First off, we should
+15,01tell you a little about ourselves. The Alliance is, or rather was a three grou
+15,01combination, the Children of Judas, Epinicion, and Sonic. It was never seen to
+15,01be a merger, but a combined effort to bring new talent into the scene, just
+15,01something that 619 can say, "HEY! We've got one more group that looks like it'
+15,01going to fail!" but we won't, we are dedicated and just out to have some good
+15,01old fun. Now, we will compete, especially with our main rival group here in
+15,01619, Pro. With all of the combined talent and connections that the three group
+15,01had seperately, we saw benefits to all of the groups if we were to join. So,
+15,01after all that jazz we have decided to drop all of the "COJ/EPI/SNC" junk and
+15,01just say we are "The Alliance".
+
+15,01         The Alliance was started when Black Magik and Mendelssohn were in
+15,01chat on The Hierarchy. They were blabbing about something that made no sense
+15,01whatsoever, as most chats go, when they came up with the idea of The Alliance.
+15,01Since then many things have happened. The Alliance has gotten support from
+15,01such people as Guile [ACiD], Faazy [Manifest], and Axe Battler [Shiver], and
+15,01are on their way to international standings. We may not be the most talented
+15,01artists but we are a dedicated group of artists and musicians and we are here
+15,01to stay, we will not expunge into oblivion if we get flamed. So if you think
+15,01we shouldn't be on the scene becasue we're not "talented" enough, oh well.. =)
+
+15,01         The Senior members of The Alliance are Black Magik, Island of Reil,
+15,01Mendelssohn, Nemesis, and Schizophreniac. We also have two advisors who give
+15,01us a "viewers opinion" on what looks good and what doesn't, Black Aria and
+15,01Digital Orgasm. There is no corporate ladder, all of the Senior members of the
+15,01group do their work and have deadlines just like all of the other members of
+15,01the group. The only thing that distinguishes the Seniors from the other
+15,01artists/musicians is that they also decide what art/music is to be released in
+15,01the pack, and they decide which applicants will be accepted. We, the Senior
+15,01members, do all of this extra work but we don't think of ourselves as "above"
+15,01the other members, we are also artists/musicians. We also take all of the
+15,01members opinions into as much consideration as we take our own.
+
+15,01         Now, you have heard in the beginning of this little newsletter about
+15,01the Children of Judas, Epinicion, and Sonic. Well, in The Alliance, COJ and
+15,01Sonic have permenantly merged, and most of the members of Epinicion have
+15,01joined with us. COJ and Sonic are no longer, they, along with the majority of
+15,01the Epinicion members, are forever "The Alliance". Epinicion is the premier
+15,01music group in 619, and they are joining us as a seperate group because they
+15,01have more plans for the future that The Alliance would interfere with, they
+15,01plan on releasing demos and more musicdiscs.
+
+15,01         Well, in the future you should expect a HELL of a lot more work and
+15,01releases from us. We won't have scheduled releases due to the fact that
+15,01our everyday lives get somewhat busy, and are more improtant than making art
+15,01and music... =) Expect packs to be irregularly released with unscheduled
+15,01side releases. Well, that's just about all we have to blab about for now, look
+15,01for our releases and we will be glad to take any and all criticism on our
+15,01work.
+
+15,01                             Black Magik and Schizophreniac
+
+00,01------------------------------------------------------------------------------
+00,01  15. 14The Alliance 15. 14A New Force in 619 15. 14Newsletter Issue #1 15. 14July 17, 1994 15.
+00,01------------------------------------------------------------------------------

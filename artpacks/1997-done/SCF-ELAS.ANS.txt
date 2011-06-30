@@ -1,0 +1,80 @@
+15,01                                                                    14    
+15,01                                       14 15  14  15                         14   
+15,01                                            14 15                     14.15   14  
+15,01                                            14, 15                  14,15      14 
+15,01                                     14.15    14  15  14c 15              14c 15    14 15   14 
+15,01                                   14,15 14.15    14   15  03c14c  15      14.15  14cc 15         14 
+15,01                        14,15        03c14   15 14 ,  15      14c03c14c 15    14c15  14c03c15    14 15  14      
+15,01                      14c15        14cc   15 14   c 15      14cccc15  14cc15  03c14cc15   14  15  14  15 14  
+15,01                    03c14c 15      14 03cc14cc      c03cc15    14ccccccccc15 14ccccc15  14  15  14        
+15,01                   14ccc 15    14cccccccccccc cccc15   14c03c14ccccccc03c14c03c14cc     
+15,01                  14cc03c14cc cccc03cccccccccccc09c03c14ccc15 14ccc03ccccccc14cccc      15  14           
+15,01   10S15   10c15         14ccc03cc09c14cc03c14c03c14cc09c03c09c03cccc09cc14c03ccc09cc14cc03cc14c03c14c03cc14cccc   
+15,01           10F15 14  15 14 cccc09c14c03ccccccccccccccccc14c03cc09c03cc14cc03cccc14cccc15 14         15  14            
+15,01              03c15   14cc09cc03ccc14c03cccc14ccccccccc03ccccc09c03ccccc14c03c14cc15 14 15     14.
+15,01           14,15  14 cc15 14 c09c14c03ccccccc14ccccc03c14ccccc03cc14c03cc09cc03c14cccc15  14     ,      15  14            
+15,01         14c15      14cc15  14cc09c03cccccccc14cccccccccc03ccccc14cccc15 14 15     14c
+15,01   14  15  14c03c15        03c14c15  14ccc03cc14c03cccccccc14ccccccc03c09cc14c        cc          15  14            
+15,01      14c03c14c15       14c03c14c09c14  c03c14cc03ccc09c03c09c03cccccccc14cc09cc14c  15     03c14c
+15,01       14cc03cc14 15  14ccccc03c14c cc03c14cc03cccc14c09c03cccccc14cc09c14cc      cc09c14             15  14       
+15,01         14cc09c14c03cc14ccc09cc14ccc03ccccccccccccccc14c09c14ccc     c03c14cc 
+15,01            14c09c14cc03c14cc03ccccccccc14cccc09c14ccccccccccc09cc14c03c14ccc               
+15,01              14c09c14c03c14c03ccc09c03c14cccccc09c14ccccccc03cc09c03ccc14cccccc 
+15,01               14ccccc03ccccc14cc09c14c09c14ccc03ccccccc14c03cc14cccc03c14c 15 14            
+15,01               03c14cc03c14c03cccccccccccccc14c03c09c03ccc14ccccccc09c14c
+15,01              14c03c14cccc03ccc14c03c09cc14c03cccccc09c14c03ccc09c03cccc14cccc09c14             
+15,01            14ccc09cc14cc03ccc14c03ccc09c14c03ccccc09c03cccccccc14ccc03cc14cc 
+15,01       14    c09cc14c03c14cccc03ccccccc14cc03ccccccc14ccc03c14cc09c14  ccc03c14c 15     14      
+15,01         14cc03cc14cc15 14c09c14c03c14cc03cccccccc14cc09c14c03c14cccc         cc03c15 14 
+15,01        14c09c14cc 15  14.15   14cc03c14c03cc14cc03c14ccccc09c14c15                14cc
+15,01      14ccc15  14 15  14c15      14c09c14cc03c14cc09cc14ccccccc15                 14c
+15,01    14c15       14cc 15     14cc03cc14ccc09c14c09c14ccc09c14cccccc15                  14.
+15,01 14. 15        14ccc 15   14ccc09c14cccccccc09c14c09c14ccccc09cc14ccc15              14.15             14.
+15,01          14ccccc cccccccccc09c14ccccccccccccc09c14ccc15               14 15         14c15 14 
+15,01         14 ccc09c14ccc03cccccccc14c03cccccccccccc14cccc15                  14c 15     14cc
+15,01          14 cc09cc14ccc03cccccccc14cc03ccccccccc14cccc15                    09c14  15 14cc 
+15,01            14cccc09cc14c03cccccccc14cc03cc09c03cccc14cc09c14c15                    14cc  09c14c
+14,01 15     14   15  14, cccccc03ccccccc14c03ccccc09c03c09ccc14c15                    14 cc ccc
+14,01 15 14   15   14 c15 14 15  14cccccc03cccccccccccccc14ccc15                  14 09c14cc03c14c09cc
+15,01     14 15  14c     ccc09c14cc03cccc14c03cccccccc14ccc15                 14cccc03cc09c14cc
+15,01      14 cc     cccccc03cc09c03ccc14c03c09c03cccc14c09c14c15               14c03c09c14c03ccc14c03c14c
+15,01       14c09c14c   ccccccc03c09c03cccc14c03c09c03cccc14ccc15           03cc14c09cc14c03cccc14cc09cc
+15,01       14cccc ccccc09c14c03cccccc14cc03c09c03cccc09ccc14c15      14ccc09c14c09c14cc03cccccc14cc03c14cc15 14  
+15,01       14 c09c14cc09c14cccccc03ccccccccccccccc14c03c14cccc03c14cc09cc14cc03cccccccccc14cc09c14ccc     15          14,
+15,01      14   ccc09cc14cc03c14cc03cc14cc03c14c03ccccc09c03cc14ccc09cc14c03c14ccc03cc09c03cccccccccccc14ccc09c03c14c   15         14c
+15,01        14 ccccccccc03cccccccc14ccc03cccc14c03c14cccc03cccc09c03cc09c03cccc09c03ccccccc14ccc03cc14c 15        14c
+15,01         14cccc03c14cccc03cccccccccc14c03ccc14c03cccccccccccccccccc09c03cccccccc14cccccc15      14cc
+15,01         14ccccc03c14cc03cccccccccccccc14c03cccc14c03cc09c03ccccccccc09c03cccccc09c03c09c03cc14ccc09c14cc15   14c09c14c
+15,01    14     cc03c09c14c03c14cc03ccccccccc09c03c14c03cccccc09c03c14cc03c09cc03ccccc14ccc03ccccccc09c03cccc14cc09c14c09cc14cc09c14cc
+15,01      14  cccc03c14ccc03cccccccccc14c03cccc14c03ccccccccccccccc14c03ccccccccc14ccc03c09c03cc14cccc09c14c09c14cc
+15,01     14  ccc09c03c14ccc03cccccccccccc14cc03cccccccccccccccccccccc14c03c14c03c14cc09cc14ccccccc09c03cc09ccc14cc
+15,01   14   cccc09cc14c03ccccccccccccc14ccc03cc14c03cccccccccccccc14ccccccccc03c14cc03c09cc14ccc  cccccccc
+14,01     cccc03c14cc03ccccccccccccccc09c03c14ccc03ccccccccc14cccc03c14cccc15  14 cc09ccc14cc  15      03c14c09cc14c   
+14,01 15 14   c09cc03c14ccc03cccccccccccccc09c03cccccccccc14cccccccccccc15    14  09cc14cc  15       14cc03c14c   
+15,01     14 c03c09c14ccccccccc03cccccc09cc03ccccccc09c14ccccc09c14cc03c14cccc15      14 c09c14c  15         03c14c15     14 
+15,01     14 cccc  cccccc09c14cc03ccccccccc14cc09c03c14c03cc14cc03c14c03c14ccc15      14  cc  15          14cc
+15,01     14 cc15    14cc03c14c03c14cccccc03ccc14ccccc09c14ccc03c14c09c03c14cccc15  14 15  14   09c14 15             03c
+15,01    09 c14c15      14cc09cc14cc ccc03c14cccccccc09c03c14cc09cc14ccc15  14,15    14, 15             14,
+15,01   14 c15          14c09c14c15    14ccc03c14c09cc14ccc03c14cc09cc14cc 15     14 15  14 15            14.
+15,01 14 ,15              14c09c15     14cc03cc14c09c14ccc09c14cccc15    14c 15                 14  
+14,01. 15                 14c15     14cccc03c14ccccccc15    09c14 15    14,
+15,01                     14,15   14ccccc03ccc14cccc15  14ccc15       14c15              14  
+15,01              14 15         14.ccc03cccccccc14ccc09c14c09c14c15        14cc 15         14  
+15,01           14   .15        14ccc03cccccccccc09c03c14cccccc15        14cc 15   14      15         14.
+15,01 14  15        14 c15        09c14cc03cc09c03c09c14cc03ccc09cccc03c09c14cc09cc14cc15       14c09c14c15  14      15       14,
+15,01   14  15     14c09c15        09c14cc03cccc14cc03c14c03cccccccc09cc03cc14cccccc15    14cc09c14c15    14    15    14c
+15,01     14    cc15      14 cccc03cccc14ccccc03ccccccccccccc09cc14ccccc15 14c09c14c09c14cc15  14     09cc14c
+15,01     14 15 14 c09c14c15 14    ccccc03cccc14cc03c09c03ccccc14cc03cc09cc03c14c03ccccccc14ccccc09c14cccc15  14   ccc 
+15,01        14c09cc14cccccccc09c03cccc14c03c14c03c09c03c14c03ccc14ccc03ccccccccccc09cc03c14cc09c14c09c14cccc15   14c09c14c 
+15,01         14ccccc09c14c09c14cc03ccccccc14cc09c03cccccccccccccccccc09cc03cc14cc03c14cccccc c09c14ccc15           14 15 14.
+15,01           14ccccccc03ccccc09cc03c14c03ccccccccccccc09c03ccccccccccc14cc03ccc14ccccccc09c14cc 15        14 c
+15,01           14 c09c14ccc03ccccc14cc09c03c14c03ccccccc14ccc03ccc09cc03cccccccccccccc14cc03ccc09c14cccccc15       14c09c
+15,01          14  cccc03cccc14c03cc09c03ccc14c03ccccc14cccccc03cccc09c03cccccccc09c03cc14c03cc09c14c03cccc14ccc09c14c15    14cc09c14c
+15,01          14 cccc03ccccccc14ccc03cc14c03cc09c03c14ccccccccc03ccccccccc09c03ccc09c03cc14cc03c14cc03ccccc14cccc15 14cc09cc14c
+15,01          14cccc03ccccc09c14cccccc03cc14c03cc09c14ccccccccc09cc03ccccc09c14c03cc14cc03c14c03cc14ccccc03cccc09c03cc14ccccc09c14cc
+15,01         14cccc03ccccc14c03cc14c03ccc14c03cc09c03c14ccccccccccccccc03ccccccccccccc14cc03c14cc03cccccccccc14c09cc14ccc
+15,01       14ccc09c14c03cccc09c14c03ccc09c14cccc09c03cc14c09c14ccccccccccc09c14ccc03cccccccc14c03ccc14c03cccccc14ccc09c14cccc09c14cccc
+15,01     14cccccc09c03cccccc14cc03cccccccc09c14ccccccccccccccc09cc14c03ccccc14c03cccc14c03ccc14ccc09cc14cccccccccc09c
+15,01  14 ccccc09cc14ccccccccccccccccccccccc09c14cccccccccccccc03cccc14c03ccccc14cc09c14cccccccc15   14cccccc
+15,01    14 cccccc09c14cccc 15 14cc09cc14c15  14ccc09ccc14c15  14ccccccccccccccc03cccc14c03cc14cccc09c14cccc15        14ccc
+15,01      14 cccccccc 15   14ccc15     14c09c14cc15  14ccccc09cc14cc09c14cccccc03cccc14ccccccc09cc14c15         14cc15  14.

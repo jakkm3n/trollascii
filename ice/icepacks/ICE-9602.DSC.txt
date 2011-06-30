@@ -1,0 +1,75 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 3/1/1996
+15,01###############################################
+15,01tg-rats3.ice,ANSI,The Rats Nest,toOn gOon
+15,01tg-icol1.ice,ANSI,Interface Collection,Toon Goon
+15,01mm-23shs.ice,ANSI,Logopiccy things,Magnetic M
+15,01ka-nwld.ice,ANSI,the netherworld,kadaver
+15,01te-conv1.ice,ANSI,Convertical,Tetanus
+15,01us-hhol.ice,ANSI,The Hell Hole,blklightning/kadaver
+15,01us-ice1.ice,ANSI,iCE Promo,Lord Soth/STC
+15,01bt-ice1.ice,ANSI,iCE Promo,Biscuit
+15,01pa-ice1.ice,ANSI,iCE Promo!,Parasite
+15,01cu-ooze.ice,ANSI,Ooze Electronic Magazine,Cold and Ugly
+15,01ri-magic.ice,ANSI,magic reality,rai
+15,01sg-ss1.ice,ANSI,System Shock,Snake Grunger
+15,01cu-bs2.ice,ANSI,Black Sunshine,Cold and Ugly
+15,01mt-mh1.ice,ANSI,Morbid Hallusinations,Misfit
+15,01us-trb1.ice,ANSI,The Rebel Base,CC/TNA/LM
+15,01us-sd1.ice,ANSI,Snake's Domain,CC/Uns/Gh/SG
+15,01us-ice2.ice,ANSI,iCE Promo,CC/LS/SG
+15,01lm-henry.ice,ANSI,Henry's Hallucinations,Lemonade
+15,01us-hyp.ice,ANSI,Hyperion,Kadaver/Hal/P1
+15,01sq2-lg09.ice,ANSI,Logo Collection #9,Squidgalator2
+15,01cu-gote3.ice,ANSI,Gothic Error,Cold and Ugly
+15,01cu-zg.ice,ANSI,Zero Gravity,Cold and Ugly
+15,01us-bt1.ice,ANSI,Bent,Unsane/Apox
+15,01te-lgo1.ice,ANSI,Logo Colly,Tetanus
+15,01te-hoth1.ice,ANSI,House of the Holy,Tetanus
+15,01te-paint.ice,ANSI,Paint,Tetanus
+15,01pa-logo1.ice,ANSI,Logos,Parasite
+15,01ka-logo1.ice,ANSI,logo colly #1,kadaver
+15,01ax-gum2.ice,ANSI,Gum,Apox
+15,01ax-numb2.ice,ANSI,Numb,Apox
+15,01ri-lgo.ice,ANSI,rai's fifth logo colly,rai
+15,01cu-nw.ice,ANSI,The New Wave,Cold and Ugly
+15,01us-lno1.ice,ANSI,Like No Other,Boa/LS
+15,01tna-fc1.ice,ANSI,Free Cocaine,TNA
+15,01tna-imp.ice,ANSI,Impure Free Cocaine,TNA
+15,01tna-cdi.ice,ANSI,Cool Dudes with Impure Free CocaineTNATNA,TNA
+15,01sg-logo2.ice,ANSI,Logo Colly,Snake Grunger
+15,01tna-ooze.ice,ANSI,Oozing Dudes with Impure Free Coke,TNA
+15,01lm-sonic.ice,ANSI,Sonic Semen,Lemonade
+15,01sg-lame1.idf,IDF,Lame,Snake Grunger
+15,01sq2-tdu.bin,BIN,[320x25bin] The Deep Umbra,Squidgalator2
+15,01ripfonts.zip,ZIP,RIP Fonts for iCEView,iCE Staff
+15,01ice-9602.sts,ANSI,iCE Statistics,iCE Staff
+15,01iceview.doc,ANSI,iCEView Documentation,Friar Tuck
+15,01ice-9602.nfo,ANSI,iCE Information 2/96,iCE Staff
+15,01ice-9602.mem,ANSI,iCE Active Memberlist,iCE Staff
+15,01ice-9602.sit,ANSI,iCE Stites List,iCE Staff
+15,01na-pints.ice,ANSI,Pints,Night Angel
+15,01us-re.ice,ANSI,Red Dawn logon,Necro & Whitesnake
+15,01nf-tribt.ice,ANSI,vampirella,necrofiliac
+15,01th-col#2.ice,ANSI,smartass logo thingy #2,thrasher
+15,01th-erebu.ice,ANSI,pissing trip for erebus,thrasher
+15,01th-flice.ice,ANSI,fuel * iCE-euro promotional bitch!,thrasher
+15,01tk-colle.ice,ANSI,collection!?,The Knight
+15,01fuel.nfo,ANSI,Fuel Newsletter,The Knight
+15,01tk-wetwo.ice,ANSI,iCE Promo,The Knight
+15,01is-blue.gif,GIF,Canadien ICE Promo,Isosceles
+15,01bn-su1.gif,GIF,Super Unknown,Borian
+15,01rl-msm.jpg,EXTERNAL,"My Mouse"  (XXX),Rogue Ldr
+15,01rl-sm.jpg,EXTERNAL,Spiderman,Rogue Leader
+15,01jm-lemon.jpg,EXTERNAL,Lemonade,Jamie McCarter
+15,01ja-ice.gif,GIF,ICE Promo,Jae
+15,01sk-claw1.jpg,EXTERNAL,Cougar's Claw,Sprite
+15,01ana-moll.jpg,EXTERNAL,A Random iCE Girl,Anarchy
+15,01vg-web.jpg,EXTERNAL,Arcane Online Designs,Visigoth
+15,01vg-cyb.jpg,EXTERNAL,Cyberstuddo,Visigoth
+15,01sq2-mg.gif,GIF,MG.COM - The Place to Be,Squidgalator2
+15,01jm-snova.jpg,EXTERNAL,Supernova,Jamie McCarter
+15,01kb-star.jpg,EXTERNAL,Star Card,Kabal 13
+15,01kb-tower.jpg,EXTERNAL,Tower of Eliteness,Kabal 13
+15,01kb-emprs.jpg,EXTERNAL,Average Empress,Kabal 13
+15,01kb-chrot.jpg,EXTERNAL,Chariot of Eliteness,Kabal 13

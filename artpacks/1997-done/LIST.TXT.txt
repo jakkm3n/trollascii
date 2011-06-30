@@ -1,0 +1,13 @@
+15,011 : Shine
+15,012 : Senser
+15,013 : Thrasher
+15,014 : Otium Man
+15,015 : Count Dracula
+15,016 : Sad
+15,017 : E605
+15,018 : DirtBag
+15,019 : Orkyd
+15,0110 : Noize
+15,0111 : Poi2
+15,0112 : The Knight
+15,0113 : Necro

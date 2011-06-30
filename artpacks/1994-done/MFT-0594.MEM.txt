@@ -1,0 +1,80 @@
+15,01                            14M E 15M B 00E R  15L I 14S T
+
+15,01                          14+-15----00-- 14F15ou00n15de14r 00--15----14-+
+15,01                          14|15        14G15a00mb15i14t15         14|
+15,01                          14+-15-----00-----------15-----14-+
+
+15,01                      14+-15----00---- 14Se15ni00or S15ta14ff 00---15----14-+
+15,01                      14|15            14B15et00ra15ye14r15           14|
+15,01                      14|15          14Bi15na00ry B15ea14st15         14|
+15,01                      14+-15-------00---------------15-------14-+
+
+15,01                14+--15------00----- 14Th15e Ar00t Div15isi14on 00-----15-----14--+
+15,01                14|  Bu15r00no15u14t, Bi15na00ry Be15as14t,Dr15. 00Phu15n14k, G15a00mb15i14t  |
+15,01                14| Mad 15Ca00rtoo15ni14st,M15a00dma15n14,Ni15sq00ua15ll14y, Ov15e00rF15l14ow |
+15,01                14|  Pa15r00ad15o14x, Ph15a00ser15-14X, Qu15ik00sil15ve14r, Qu15i00xot15i14c, |
+15,01                14|  Se15r00pe15n14t, Sk15y00pag15er14!,  S15p00azu15m14, Zi15pp00er15He14ad  |
+15,01                14+---15-------00-------------------------15-----14---+
+
+15,01                       14+--15----00---- 14Li15t00er15a14ry 00----15----14--+
+15,01                       14|  Da15rk 00Rea15pe14r, Di15am00ond B15ac14k,  |
+15,01                       14|    Ee15k t00he 15Ca14t,  Pa15r00ad15o14x,    |
+15,01                       14| Zen15ith 00Blitz15kri14eg,Zi15pp00er15He14ad |
+15,01                       14+---15----00----------------15----14---+
+
+15,01             14+-15---00---- 14M15u00s15i14c 00-----15---14-+  +-15---00---- 14C15o00di15n14g 00----15---14-+
+15,01             14|    Dig15ita00l Ef15fec14ts,    |  |15     14Der15an00ged 15Ev14il,15     14|
+15,01             14|15       14S15ou00nd W15av14e15       14|  |15      14Sh15ad00ow D15em14on15      14|
+15,01             14+--15----00------------15----14--+  +--15----00------------15----14--+
+
+15,01                    14+---15-----00------- 14Co15u00ri15e14rs 00------15-----14---+
+15,01                    14|  Ap15oc00aly15ps14e, A15li 00Ba15ba 14, Da15rk 00Rea15pe14r,  |
+15,01                    14|15     14F15e00tu15s 14, In15di00ca15to14r, No15rt00hw15in14d,15     14|
+15,01                    14|15       14Sh15at00ter Pr15oo14f, Sq15ui00rr15le14y,15       14|
+15,01                    14|15          14Sud15ica00l Tend15enc14ies15           14|
+15,01                    14+-----15------00-----------------15------14-----+
+
+
+15,01                                14S 15I 00T E  L I 15S 14T
+
+15,01          14|15                      14|15     14|15                   14|
+15,01          14| 00BBS Name15             14| 00AC  14| 00Sysop15             14| 00Status
+00,01   14.-  ---+----------------------+-----+-------------------+----------  -.
+15,01          14| 00Evil Intentions15      14| 154O8 14| 15Indicator         14| 15World    HQ
+15,01          14| 00Programmed Illusion  14| 15613 14| 15Neurotic          14| 15Canadian HQ
+15,01          14| 00-* OPEN *-15           14| 15??? 14|15                   14| 15Northern HQ
+15,01          14| 00-* OPEN *-15           14| 15??? 14|15                   14| 15Eastern  HQ
+15,01          14| 00Revolution Number 9  14| 15305 14| 15The Wolverine     14| 15Southern HQ
+15,01          14| 00Channel Zero15         14| 15714 14| 15Beastie           14| 15Western  HQ
+15,01         14-|----------------------|-----|-------------------|----------  -.
+15,01          14| 00Apocalyptic City15     14| 15517 14| 15Thor              14| 15Dist. Site
+15,01          14| 00Crystallinum15         14| 15609 14| 15Leader Quest      14| 15Dist. Site
+15,01          14| 00Cult, The15            14| 15314 14| 15Psycho Child      14| 15Dist. Site
+15,01          14| 00Eleventh Hour15        14| 15415 14| 15Grifter           14| 15Dist. Site
+15,01          14| 00Eternal Nightfall    14| 15412 14| 15Shadow Hawk       14| 15Dist. Site
+15,01          14| 00Falling Fast15         14| 15410 14| 15Einstein          14| 15Dist. Site
+15,01          14| 00Harsh Realities15      14| 15615 14| 15Azrael            14| 15Dist. Site
+15,01          14| 00Harvest Moon15         14| 15216 14| 15Qur'an            14| 15Dist. Site
+15,01          14| 00Illegal Embassay15     14| 15513 14| 15RumpelStealSkin   14| 15Dist. Site
+15,01          14| 00Realm of Insanity    14| 15203 14| 15Tranquility       14| 15Dist. Site
+15,01          14| 00Sonic Equinox15        14| 156O2 14| 15Saturn-32         14| 15Dist. Site
+15,01          14| 00Termporal Distortion 14| 1551O 14| 15Abomination       14| 15Dist. Site
+15,01          14| 00Terra Firma15          14| 15714 14| 15Somms             14| 15Dist. Site
+15,01          14| 00Theatre of Pain15      14| 15707 14| 15Night Breed       14| 15Dist. Site
+15,01         14-|----------------------|-----|-------------------|----------  -.
+15,01          14| 00Architecture of Agg. 14| 15813 14| 15Ali Baba          14| 15Member Board
+15,01          14| 00Cause 'n Effect15      14| 15313 14| 15SkyPager!         14| 15Member Board
+15,01          14| 00Element 11215          14| 158O3 14| 15Zenith Blitzkrieg 14| 15Member Board
+15,01          14| 00High Times15           14| 15713 14| 15Red Bud           14| 15Member Board
+15,01          14| 00Mindfuk15              14| 15916 14| 15Deranged Evil     14| 15Member Board
+15,01          14| 00Nuclear Nightmare    14| 158O5 14| 15Diamond Back      14| 15Member Board
+15,01          14| 00Seed of Destruction  14| 15413 14| 15Phaser-X          14| 15Member Board
+15,01          14| 00Warner Studios15       14| 15604 14| 15Mad Cartoonist    14| 15Member Board
+15,01   14.-  ---+----------------------+-----+-------------------+----------  -.
+15,01          14|15                      14|15     14|15                   14|
+
+15,01                                00N O T E :
+
+15,01       00This is the list for May '94 and should have everyone. If your not
+15,01        00on the list i either forgot about you, or you just ain't in the
+15,01       00group no more. Please contact a Senior Member if theres any probs.

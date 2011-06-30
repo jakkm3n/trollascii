@@ -1,0 +1,80 @@
+15,01                                 |                                              
+
+15,01                  m|            14,15 
+15,01             mmmm14,15  15,01 m14,15  15,01 mmmmmmm|14,15 15,01 mmmmmm mmmmmm mmmmmmmmmmmmmmmmmmmmmmm
+15,01       mm14,15     15,01""14,15 15,01"  14,15 ##15,01 ##00@@14,15## 15,01|14,15 15,01 mmmmm|14,15 15,01m"mmm|14,15 15,01m"mmmmmmmmmmmmmmmmmmmm14,15    15,01mm
+15,01    m14,15     15,01""   "     ""         14,15 15,01       14,15   15,01    14,15   
+15,01  m14,15      15,01                    mm "|"14,15           15,01 14,15   15,01  mm        mm      mm
+15,01 14,15       15,01                  mm14,15 15,01""14,15 15,01mm  "   14,15   15,01    14,15   15,01m"14,15   15,01m    m14,15  15,01|   mm14,15 15,01""14,15 15,01mm
+15,01|14,15      15,01|                14,15    15,01    14,15    15,01    14,15   15,01    14,15   15,01   "14,15   15,01   14,15   15,01  14,15    15,01    14,15    
+15,01"""""""              mm  """    """     """    """    """   """   """    """
+15,01#######         mm14,15###15,01"   ###    ###     ###    ###    ###   ###   ###
+15,01 00@@@@@@@15      ""14,15##  15,01|    00@@@15    00@@@15     00@@@15    00@@@15    00@@@15   00@@@15   00@@@
+15,01  "14,15######15,01       |14,15   15,01    |14,15###15,01    14,15###15,01|    14,15###15,01    14,15###15,01    14,15###15,01   14,15###15,01  |14,15###15,01    14,15###15,01|
+15,01    ""14,15    15,01m     14,15    15,01    14,15    15,01    14,15    15,01   |14,15   15,01    14,15   15,01    14,15   15,01   14,15   15,01  14,15    15,01    14,15    
+15,01    "mm ""14,15  15,01mmm14,15     15,01|     ""14,15 15,01mm14,15 15,01""    m14,15  15,01"   "14,15    15,01    14,15    15,01"|14,15 15,01" mmm ""14,15 15,01mm14,15 15,01"" m
+15,01      "14,15  15,01mm   """"""" m14,15 15,01mm   ""      """  mm14,15 15,01m """    """  " m14,15     15,01m  ""  m14,15 
+15,01       |14,15   15,01" "14,15 15,01mmmmm   14,15    15,01mmmmm"   ""mm14,15          15,01mmmmm14,15 15,01""  ""14,15     15,01""14,15 15,01mm14,15   
+15,01        14,15  15,01| ## "14,15  15,01"    |14,15  15,01" #""        14,15   15,01"   "14,15    15,01""##   #    14,15  15,01| #00@15 "14,15  15,01"
+15,01        |14,15 15,01  00@15   ||      14,15 15,01   00@15          |14,15 15,01|  #   14,15 15,01"  00@@15    00@15    |14,15 15,01  "   14,15 15,01|
+15,01        14,15  15,01||14,15#15,01|  14,15  15,01      14,15 15,01  |14,15#15,01|         |14,15 15,01   "  |14,15 15,01|  "    |14,15#15,01|   14,15  15,01|    |14,15 15,01| [GL]
+15,01       |14,15   15,01 "  |14,15  15,01|    |14,15 15,01|  "          14,15  15,01|      "         "     "     14,15   
+15,01""""""" ""  ""  "" """" " """"""""""""  " """""""""""""""""""""""""""  "  """"""
+
+15,01              14,15 #00,01@15# The Gothic Revival - January 1994 edition #00@14,15# 
+15,01               "Loyalty, Trust, and Friendship shall guide us."
+
+15,01 The Gothic Revival is a monthly release of ALL the attained Gothic artwork for
+15,01the respective month. Free of censorship (quality control) and other undesirable
+
+15,01elements, the Revival is a true representation of our art.
+
+15,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+15,011. First off we would like to point out that several BBS's have mysteriously
+15,01   become what we call "Phantom sites". In other words are lying through their
+15,01   teeth. If a BBS is not in the member list, it is NOT a site. To apply for a
+15,01   Gothic Site contact Golgotha, Elminster or STiLE in Canada or Kinayda in the
+15,01   U.S.
+
+15,012. We would like to announce a newcomer by the name of Visionary. He will be
+15,01   heading the telecom division for Gothic. This means better communication 
+15,01   between artists etc..
+
+15,013. Also new to the group we have quite a few Ansi artists, all of high quality. 
+
+15,01   They are Forbidden Image, straight from iCE; Guile and Sushi-X from ACiD;
+15,01   and a newcomer by the name of Soul Blazer. We have started a music
+15,01   division and our first victim is Time Lord. Hopefully we can rack up a few
+15,01   more there. Courier wise, our situation has improved greatly. Quadzilla,
+15,01   Shinobi and Tranquility join the Gothic crew so now we should be a little
+15,01   more organized. The Immortal joins up as a coder, and Visionary our head
+15,01   of Telecommunications increases the size of our Telecomm. Division by 300%.
+15,01   Welcome to Death Knight, Factory and Vengeance.
+
+15,014. Gothic is in dire need of skilled coders. If you would like to become a coder
+
+15,01   contact Kinayda in the U.S. and Elminster in Canada.
+
+15,015. Couriering problems of the past will be cleared up shortly, very shortly.
+15,01   a) In addition to our own couriers MALiCE couriering will be moving the pack
+15,01   around as well. Thanks Guys
+
+15,016. Now as things are beginning to come together and we are becoming more and
+15,01more operable you should begin to see many more Gothic articles. Note that all
+15,01former requests for articles have been taken into account and will be met. The
+15,01following magazines will recieve (if they choose) serious submissions.
+
+15,01                                        -Iridium
+15,01                                        -Corruption
+15,01                                        -Infinity Diskmag
+15,01                                        -Lucid
+
+15,01Sorry for the delays... If a magazine desires a Gothic submission contact
+15,01Golgotha.
+
+15,017. Also, a special thanks goes out to Aada for his amazing Vga.  No, Aada is
+15,01   not in Gothic, it is just a little gift from our guest Vga artist.
+
+

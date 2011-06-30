@@ -1,0 +1,80 @@
+
+
+
+15,01 00"14,00 00##15,15@@00##14               ##  00#15@00,00# 00,01"15m14,15  ##  00#15@00,00# 00,01"15m00,15#15@15,01 15,15@@00##14       ##  00#15@00,00# 00,01"15m14,15#  00#15@00,00# 00,01"
+00,01   "15,15@00##14               ##01@@14## 00#00,01"15m14,15  ##01@@14## 00#00,01" 15"""" 00,15##14       ##01@@14## 00#00,01"14m00,14#01,15@@14## 00#00,01"
+15,01     "14,15    15,01"  "14,15      15,01"  14"00,14##01,15@@15,01"m14,15  15,01"  14"00,14##01,15@@15,01"   00,00#15,15@@00#15,01 "14,15      15,01"mm14"00,14##01,15@@15,01"   14"00,14##01,15@@15,01"
+15,01       "14,15 15,01     m"15,15   15,01      14,14 14,01" 14,15   15,01      14,14 14,01"15     "00,15## 15,01  m"15,15   15,01   "14,15 15,01 14,14 14,01"15m      14,14 14,01"
+15,01         "    14,15#15,01  "08,15#15,01     14" 14,15#15,01  "08,15#15,01    14m"15       14,15#15,01 "08,15#15,01  14,15#15,01  "08,15#15,01    14m" 15"08,15#
+08,01  00Maestro15     00@15   08m15       00@15   08m  14m"08m08,15@15,01m      00@15  08m  00@15   08m  14m"m15"m 08m 14m
+14,01  15[00TRiBE15]     # 08m00,08##15,01       # 08m00,08##15,01   00,08###08,15@@15,01m    14"08m00,08##15,01  # 08m00,08##15,01    #  14,15 15,01m    "m
+15,01            08# m14,08# 00  08,01m15     08#m14,08# 00  15,01   14,08  08 00##08,15@@15,01   14,08# 00  08,01m m14,08# 00  15,01    08m|15|08,15##14 15,01m    14,15 15,01m
+15,01             08"01,08@@14###15,01      08"01,08@@14###15,01   14,08##   00##08,01m"01,08@@14###15,01 08"01,08@@14###15,01   08"14,08#15,01 00,08#08,15@@##14 15,01m |08,15##14 15,01m
+15,01               08"01,08@@@15,01        08"01,08@@@15,01  14|01,08@@14##    08,01| "01,08@@@15,01   08"01,08@@@15,01    08m14,08# 00##08,15@@##14 15,01m08"08,15@##14 15,01m
+15,01                 14"08,14#15,01          14"08,14#15,01  08,14###01,08@@14###  08,01   14"08,14#15,01     14"08,14#15,01 14mm08,14#01,08@@14#  00##08,15@@## 15,01m08"08,15@## 15,01m
+
+15,01         14,08#08,01 14,08# 08,01"15                                                   08"14,08 #15,01 14,08#
+15,01         08@ 01,08@15,01  00T   R   i   B   E15     00G   r   a   p   h   i   c   s  01,08@15,01 08@
+15,01         08# 08,14#01,08@08,01m15                                                   08m01,08@08,14#15,01 08#
+
+
+15,01        08The TRiBE Archive is a monthly collection of Artwork that is
+15,01        08produced by TRiBE Artists.  The first Archive was released
+15,01        08on June 1st, 1993.  The Arcive will be released on the 1st of
+15,01        08each month and should be available on the finer art boards in
+15,01        08the scene.
+
+15,01        08If you are interested in a TRiBE piece, you can contact one or
+15,01        08more TRiBE members via CyberCrime International, FelonyNet,
+15,01        08The Federation Network, StormWatch or a TRiBE Member Board near
+15,01        08you.
+
+15,01        08Current members include, but are not limited to: Aerosol, Asriel,
+15,01        08Beez, The Calibre, Dark Deception, Deeply Disturbed, Demon Death,
+15,01        08Dreamevil, Emp, Kamikazee, Killean, King Midas, KroniX, LogaN,
+15,01        08Leper Messiah, Maestro, Mediator, Minor Threat, Mr. Sinister,
+15,01        08Panama Jack, Quazar, Red Leader, Shihear Kallizad, Spirit of Illusion,
+15,01        08Stormblade, Thanatos, Tom Sawyer, Xenophobe and Zeppelin.
+
+
+08,01    Filename15     | 08Discription15                      | 08Artist
+08,01   15-------------------------------------------------------------------------
+15,01    08ANSIM10 .ZIP 15| 08ANSiM V1.015                       | 08n/a
+08,01    ARCHIVE .NFO 15| 08This File15                        | 08n/a
+08,01    AS-TR3  .TRI 15| 08TRiBE Logo15                       | 08Asriel
+08,01    BZ-187  .TRI 15| 08187 Couriers15                     | 08BeeZ
+08,01    BZ-PENT2.TRI 15| 08Pentagon15                         | 08BeeZ
+08,01    BZ-RTW  .TRI 15| 08Road to Wiskeytown15               | 08BeeZ
+08,01    BZ-TPL  .TRI 15| 08The Promised Land15                | 08BeeZ
+08,01    DC-CH2  .TRI 15| 08Chaotic Hysteria15                 | 08Dark Deception
+08,01    DM-CULT .TRI 15| 08The Cult15                         | 08Demon Death
+08,01    DM-TIC  .TRI 15| 08The Inner Circle15                 | 08Demon Death
+08,01    DM-TRIBE.TRI 15| 08TRiBE15                            | 08Demon Death
+08,01    DP-ACD01.TRI 15| 08ACiD Logo15                        | 08Deeply Disturbed
+08,01    DP-FAN01.TRI 15| 08Fanatic15                          | 08Deeply Disturbed
+08,01    DP-NVL01.TRI 15| 08Never Land15                       | 08Deeply Disturbed
+08,01    DP-RV001.TRI 15| 08Reversed Utopia15                  | 08Deeply Disturbed
+08,01    EMP-HW  .TRI 15| 08HardWired15                        | 08EMP
+08,01    FILE_ID .DIZ 15| 08File ID15                          | 08n/a
+08,01    KM-ADC3 .TRI 15| 08After Dark Club15                  | 08King Midas
+08,01    KM-DROW .EXE 15| 08Death Row15                        | 08King Midas
+08,01    KM-GRID2.TRI 15| 08PoW!eRGriD15                       | 08King Midas
+08,01    KM-PA1  .TRI 15| 08Parental Advisory15                | 08King Midas
+08,01    KX-DSRVR.TRI 15| 08Reversed Utopia15                  | 08KroniX
+08,01    KZ-EN   .TRI 15| 08Eternal Nightfall15                | 08Kamikazee
+08,01    KZ-FB   .TRI 15| 08Free Beer15                        | 08Kamikazee
+08,01    KZ-REVU .TRI 15| 08Reversed Utopia15                  | 08Kamikazee
+08,01    KZ-TRIBE.TRI 15| 08TRiBE15                            | 08Kamikazee
+08,01    LO-ANGLO.EXE 15| 08Loganglo15                         | 08LogaN
+08,01    MA-ADD  .TRI 15| 08ADDiCT15                           | 08Maestro
+08,01    MA-ADDI .TRI 15| 08ADDiCT15                           | 08Maestro
+08,01    MA-CP   .TRI 15| 08Corrosive Posion15                 | 08Maestro
+08,01    MA-DIS  .TRI 15| 08DiSTORTED15                        | 08Maestro
+08,01    MA-DR5  .TRI 15| 08Death Row15                        | 08Maestro
+08,01    MA-DRLGO.TRI 15| 08Death Row15                        | 08Maestro
+08,01    MA-DRST .TRI 15| 08Death Row15                        | 08Maestro
+08,01    MA-INFI2.TRI 15| 08Infinity15                         | 08Maestro
+08,01    MA-IS   .TRI 15| 08Inner Sanctum15                    | 08Maestro
+08,01    MA-SSN  .TRI 15| 08Sysop Support Network15            | 08Maestro
+08,01    MA-TRI  .TRI 15| 08TRiBE15                            | 08Maestro
+08,01    MA-TRI2 .TRI 15| 08TRiBE15                            | 08Maestro

@@ -1,0 +1,78 @@
+15,01                    00"#
+15,01                      00mmm15               00mmm"#15        00mmm
+15,01                     00|14,00 15,01@14,00#00,01|15         00mm14,00  #  00,01|15     00mm14,00    00,01| "
+15,01                      00"14,00#00,01" m14,00 00,01"# mm14,00  00,01"" 14,00 15,01@14,00  00,01   m14,00  00,01"  14,00 15,01@14,00 
+15,01                        00m14,00  00,01| m14,00  00,01m14,00  00,01   14,00 00,01#14,00# 00,01 m14,00    00,01  "14,00 00,01m14,00 
+15,01                      00m"14,00 00,01m14,00 00,01||" 14,00 00,01 14,00# 00,01  m14,00 00,01m14,00  00,01|"14,00# 00,01m14,00 15,01     00""m
+00,01----------------------- 14,00 00,01 14,00# 00,01   14,00 00,01#14,00  15,01     00"""m14,00# 00,01 14,00#  00,01" --------------------------
+00,01iCE iCE iCE iCE iCE iCE 14,00 00,01#14,00  00,01   14,00 15,01@14,00  00,01 m"m15     14,00# 00,01#14,00 00,01   14,00  00,01m NFO NFO NFO NFO NFO NFO
+00,01-------------------- #m 14,00 15,01@14,00  00,01 m 14,00 15,01@14,00  00,01   14,00   00,01m  15@14,00 15,01@14,00 00,01   14,00 15,01@14,00 00,01"m ---------------------
+15,01                       00"14,00 #  00,01m||14,00 #  00,01   14,00 15,01@14,00  00,01"m#14,00 # 00,01m14,00 00,01"14,00 00,01m14,00 00,01 ||
+15,01                      00#m "14,00 15,01@14,00# 00,01 14,00 #  00,01m14,00 00,01"14,00 00,01m14,00  00,01   14,00 # 00,01"m|"14,00  00,01 "  #"
+15,01                       00|14,00#00,01m 14,00#00,01"  14,00 #  00,01" m m14,00  00,01| |14,00  00,01|  14,00 00,01m || at/tt
+15,01                        @00    m14,00  # 00,01 m14,00#00,01| |14,00 00,01"  14,00   00,01   14,00#00,01| "
+15,01                        00#15     00|14,00   00,01  15@00  "    |14,00 00,01|   15@
+15,01                           00#   14,00  00,01   #15     00#  "14,00 00,01   #  "
+15,01                           @00  # "|  #15     @00    "15     00#
+15,01                           14,00#00,01   |m15         14,00#15,01       00#
+15,01                                 @         00|15         00.
+15,01                                  00.15       00#    .
+00,01-------------------------------------------------------------------------------
+15,01                  00D  E  C  E  M  B  E  R15     001   9   9   6
+00,01-------------------------------------------------------------------------------
+
+00,011.  Another December behind us,  as iCE looks  forward to operating  in its 7th
+00,01calendar year.   But this December pack shouldn't be ignored!  It's filled with
+00,01lots of eye-candy that  you're sure to eat up!  (And,  it has no cholesterol or
+00,01calories, which is good news after holiday feasting and drinking!)
+
+00,012.  Force Ten, Mass Delusion, Cold and Ugly, and BoA were out wandering the iCY
+00,01wastelands (no, not Canada... necessarily!)  when they were ambushed by a small
+00,01group of migratory giant earthworms!  The dynamic crew were saved when the lead
+00,01earthworm bit into BoA and decided he didn't like the Black Crowes -- something
+00,01about a bad omen or whatnot. :)
+
+00,013.  We need to make a note  that the real number  for The Sanctuary(tm),  iCE's
+00,01BBS headquarters, is ++1-954-791-RiCE (7423).   For those that don't know, it's
+00,01operated by our very own Tempus Thales,  who points out that he, along with the
+00,01board itself,  it's users,  it's community,  and practically everything else is
+00,01gay. So don't be fooled by false number advertising, call the real thing today!
+
+00,014.  Whoops!  We jumped the gun a bit in the last .NFO file about ice.org; there
+00,01was a slight problem in the anonymous FTP site (ftp.ice.org) that caused one of
+00,01the commands to be inoperative for a short time.   It's been remedied,  and NOW
+00,01we can  say that  ice.org is  100% back  and better than before,  with some new
+00,01hardware and software upgrades, as well as additional bandwidth.
+
+00,015.  iCE once again proved that we are  the most "stellar" art conglomerate this
+00,01month with the increase in strong theories  about Mars and its soil.   It would
+00,01appear that scientists believe that, since the red planet was once covered with
+00,01water and has a low surface temperature,  that there is iCE under the soil!  We
+00,01are not surprised by this revelation, and  in fact, 9 out of 10 aliens surveyed
+00,01by iCE members during their abductions said  that they prefer  the iCEPACK over
+00,01the other leading brands!
+
+00,016.  The following artists were accepted  to the group after  performing the hit
+00,01song "tattva" for the group.   They are:  Amnesia in Coding,  and Blenderhed in
+00,01RIP/VGA.  Acintya bheda bheda tattva! (what does it mean anyway?!)
+
+00,017a. But, our dearly departed this month was Lord Drakul, who couldn't deal with
+00,01the bright reflection off the iCE and headed for Twilight.
+
+00,017b. Going inactive this month is Kyp, the newcomer from last month.  He's going
+00,01to spend some time  concentrating on honing his VGA skills,  and won't be doing
+00,01much ANSI these days.  We hope to see him around soon!
+
+00,018.  We'd like to take the opportunity to wish our fans and followers and casual
+00,01viewers a happy hannukah/merry christmas/happy yule!  We hope that your holiday
+00,01was as fulfilling as can be.
+
+00,019.  The year's over!  Happy new year to everyone from all of us at iCE! 1997!!!
+
+00,0110. Once again, high quality output from everyone, even though everyone was
+00,01quite scattered during the holidays/finals/break.  Congratulations on a job
+00,01well done.  Bring on 1997...
+
+00,01-------------------------------------------------------------------------------
+15,01           00Cold and Ugly15           00Force Ten15           00Mass Delusion
+00,01-------------------------------------------------------------------------------

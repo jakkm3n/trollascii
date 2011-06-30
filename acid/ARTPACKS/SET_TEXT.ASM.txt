@@ -1,0 +1,9 @@
+15,01.model small
+15,01.code
+15,01     public _set_text
+15,01_set_text proc near
+15,01        mov    ax,0003h    ;Text Mode 03h
+15,01        int    10h         ;Video Services
+15,01        ret
+15,01_set_text endp
+15,01        end

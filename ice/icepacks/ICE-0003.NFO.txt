@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                M   A   R   C   H             2   0   0   0
+15,01-------------------------------------------------------------------------------
+
+15,011.  Taking  a  solid   shot  to  our  thick  iCE  fortress  walls  this  month, 
+
+15,01temperatures  soared in  most parts  of the states -  allowing outsiders to see 
+
+15,01inside at all of  the new art we  have in  progress.  Our Canadian fortress was 
+
+15,01however   unscathed,   as  the  temperature  there  is  ALWAYS  FRICKIN'  COLD.
+
+15,012.  The Knave was  nominated this  month for best  flash interface at the Flash 
+
+15,01Forward 2000 conference in San Francisco.   His site was up against a number of 
+
+15,01other Flash sites from around the world.  While Knave's site was just edged out
+15,01in the voting, his exposure  has garnered him  offers to work with Fox Studios,
+15,01among others.
+
+15,013.  As  times  change,  so  does  the  face of  iCE  Senior Staff.   It's a new
+15,01millennium and we're allowing some of  our hardest workers to move from the top 
+
+15,01ranks  of   management   into   the  senior   citizens  home - er,  the  plush, 
+
+15,01all-expense-paid vacation called iCE Alumnus.  Force Ten is taking a drive into
+15,01the distance for awhile and Cold and Ugly is working hard on becoming a doctor.
+15,01Just because Syntax Error was able to do it for all those years while HE was in
+15,01medical school however shouldn't  dishearten good ole' CnU.  Afterall, we can't 
+
+15,01all get gay with  kids like Snax did.   This leaves Mass Delusion and Lord Soth 
+
+15,01to bear all of the love children to populate our little team.
+
+15,014.  While  we were  evaluating  our management,  we asked Microsoft trial Judge 
+
+15,01Thomas Penfield  Jackson to  also do a  finding of facts regarding iCE members. 
+15,01 
+15,01Here  is  what  he  determined  (while  spending  just  over  $44.6  million of 
+
+15,01taxpayers' money):
+
+15,01* Syntax Error is very busy
+15,01* Vesalius has a fecal fetish
+15,01* Trip forgets things
+15,01* Darkmage needs his own pair of breasts to be satisfied
+15,01* Spacedev is good with stocks
+15,01* Knave is pretty good at Flash
+15,01* Mass Delusion mollests collies
+
+15,01In  conclusion, we  paid through the nose  to learn  things  we  already  knew.
+15,01Thanks Attorney General, we appreciate your work!
+
+15,015.  After nine years of april  fools packs and jokes,  this year  we decided to
+15,01fool you  all once  more by having our  april fools  pack in (or NOT in, as the
+15,01case may be)  March.   For those  dedicated  iCE followers  who  were  met with 
+
+15,01dysfunction and low blood sugar when  realizing there would be no 02/00 (March)
+15,01iCE Pack - you may now breathe  deeply and rejoice as  the release of our 03/00
+15,01(April) pack also sees the release of  our March pack.  And to know some of you
+15,01thought we would be like ACiD and miss a pack.  Shame on you!

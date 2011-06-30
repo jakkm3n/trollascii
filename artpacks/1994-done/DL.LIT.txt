@@ -1,0 +1,80 @@
+15,01C
+15,01C
+15,01@X08|@X4F(D)ownload@X08, @X06(@X0CE@X06)@X04dit@X08, @X06(@X0CL@X06)@X04ist@X08,
+15,01 @X06(@X0CP@X06)@X04rotocol@X08, @X06(@X0CG@X06)@X04oodbye@X08, @X06(@X0CA@X06)@
+15,01X04bort@X08|
+15,01@X06
+15,01@X4F
+15,01YYN
+15,016
+15,01R1
+15,01C
+15,01@X06(@X0CD@X06)@X04ownload
+15,01D
+
+15,01^M
+15,01I2
+15,01C
+15,01@X06(@X0CE@X06)@X04dit
+15,01E
+
+15,01E
+15,01I2
+15,01C
+15,01@X06(@X0CL@X06)@X04ist
+15,01L
+
+15,01L
+15,01I2
+15,01C
+15,01@X06(@X0CP@X06)@X04rotocol
+15,01P
+
+15,01P
+15,01I2
+15,01C
+15,01@X06(@X0CG@X06)@X04oodbye
+15,01G
+15,01%c:\pcb\ppl\lite\dl_bye.pcb
+15,01G
+15,01I2
+15,01C
+15,01@X06(@X0CA@X06)@X04bort
+15,01A
+
+15,01A
+
+15,01;---------------------------------------------------------------------
+15,01  for positioning:
+15,01  C     = Current Pos (no change)
+15,01  Rxx   = Relative, move xx places from start of the beginning of prompt
+15,01  Txx   = Relative, move xx places from end of last printed title
+15,01  txx   = Relative, move xx places from start of last printed title
+15,01  Ixx   = Relative, move xx places from end of last printed item or title
+15,01  ixx   = Relative, move xx places from start of last printed item or title
+15,01  xx    = Absolute, move to xx pos
+15,01  Axx   = Absolute, just another way
+15,01  (Negative Numbers ARE allowed in relative positioning, i.e. T-5, R-10)
+15,01 
+15,01  for Title/Display text entries:
+15,01  ...                       = any text, shown as-is
+15,01  %drive:\path\filename.ext = display the file following the '%'
+15,01  #drive:\path\filename.ext = clear screen and then display file following '#'
+15,01  !drive:\path\filename.ext = call the PPE following '!'
+15,01 
+15,01  for Hotkey/Stuff text:
+15,01  ...   = any text, stuffed as-is
+15,01  ^x    = for control characters (i.e. ^A, ^Z)
+15,01  ~xxx  = input any ascii value, xxx must be 0-255 (i.e. ~168 -> '?')(untested)
+15,01 
+15,01  for Stuff text only:
+15,01  %drive:\path\filename.ext = stuff with contents of file following '%'
+15,01 
+15,01 -----
+15,01 ==Repeat This section for as many title/text displays you want==\
+15,01 Line 1 : X pos to start at for title                            |
+15,01 Line 2 : Y pos to start at for title                            |
+15,01 Line 3 : Title Text                                             |
+15,01 ================================================================/
+15,01 --
+15,01 Line 4 : @X code for unhighlighted item  (must use @X format)

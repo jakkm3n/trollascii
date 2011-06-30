@@ -1,0 +1,80 @@
+
+15,01        Hey ho.  Just Cthulu here professing a justification of what you are
+15,01about to see below (or rather, in the next few files.)  You may notice that
+15,01the two following ANSI files look like blatantly GIF2ANS'd pictures.  There
+15,01are several things to keep in mind, however.  To start off, Questor did draw
+15,01these by hand, using a square ratio (80x50 mode which GIF2ANS does NOT save
+15,01to).  In addition, GIF2ANS will not convert to ansis over 100 lines, both of
+15,01which these pictures are.  If you seek proof, there are preliminary sketches
+15,01of the Christy Turling pic in the archive QT_HAND.ZIP.
+
+15,01        There is little we can do to convince you further if you refuse to 
+15,01admit that they are genuine, but we offer this in the manner of logical 
+15,01compensation.  Surely one with the talents of Questor would not need to resort
+15,01to GIF2ANS.  Look at the preceeding picture and his skill will be apparent.
+15,01He has no claim in the art scene and refuses to draw advertisements for
+15,01anyone, meaning that what he draws is intended for his own pleasure and not
+15,01yours.  If you think that it's ugly, well, good luck finding a way to render
+15,01into ANSI format so completely a photograph in a way which is more visually
+15,01appealing in 80x25 mode.  Yes, we admit, you will need to probably view the
+15,01ansis in a high-resolution viewing mode, but when you see the end result,
+15,01the accomplishment that Questor has made should be apparent.  His skill and
+15,01curiosity has resulted in a creation that until now would have seemed
+15,01impossible without the aid of a computer.
+
+15,01        Thus, it is in keeping with the knowledge that some people will remain
+15,01fast in the belief that the pics are scanned and that others may begrudge us
+15,01that but still fail to see the point... he did it because it was there.  A
+15,01graduate of the Integrity school of art, surely those of you who were around
+15,01back then will remember the greyscale experiments that Darkforce was making
+15,01at that time, while tutoring the other members, including this one Questor.
+15,01If anyone would be capable of doing by hand what a program did, it would only
+15,01be a member of Intgrity.
+
+15,01        Well, Integrity has been dead for a long time, so he's had a lot of
+15,01time to perfect his technique.  From a technical point of view, here's how
+15,01he prepared the image before beginning to ansify it.  He wanted to draw in
+15,01greyscale because there are twice as many shades to utilize (blacks, whites,
+15,01and both greys) but not so many as to use the entire palette (that would be
+15,01mind-boggling) so he photocopied these lovely ladies from magazines on a
+15,01black and white photocopier with the contrast up real high so he could get
+15,01an idea of the outlines he wanted to draw around.  Once he did that, it was
+15,01simply a matter of filling it in with the proper greyscale shading, bit by
+15,01bit.
+
+15,01        In conclusion, here are some of his own words regarding these ansis
+15,01in his own uncaring defense, should you still seek a quarrel with these
+15,01items.
+
+15,01...
+
+15,01date: 12:42 am  Mon Dec 23, 1996       number : 13 of 16
+15,01from: Questor                          He said: Private Mail
+15,01to  : Cthulu                           refer #: None
+15,01subj: QT-ANSIS.ZIP                     replies: None
+
+15,01hey, Cthulu.... i've left for twilight.... just kidding... uh... here're a
+15,01couple of ansis i've been working on over the vacation...  i don't know if
+15,01you'll want to use them or not...  they're not your conventional comic
+15,01rips...  they're a bit....  abstract?  i don't really know...
+
+15,01they're reminiscent of the b&w stuff Darkforce used to do.. i'm sort
+15,01of experimenting a bit with doing ansis only in shades of grey.... i find
+15,01them the most versatile... they're both in 80x50 mode.. you should be happy
+15,01that someone's actually using that mode.... i like it for drawing... it's a
+15,01higher resolution than 80x25 (though, i use the term 'high-resolution'
+15,01loosely)... the only problem is, they're twice the amount of blocks to put
+15,01in.. :(
+15,01 
+15,01i was trying to see how accurate a reproduction i could do with the greys and
+15,01text blocks... i think i'm going insane.... i probably wore out the
+15,01alt-v keys flipping between textmode and vga mode.... ansi was getting a bit
+15,01boring, so i figured this would be a bit of a challenge... i even tried
+15,01anti-aliasing in text mode! god, i really _AM_ insane.. :)
+15,01 
+15,01i did qt-dpest.ans awhile ago... it's my first try at b&w... it's
+15,01not bad, i guess... but it doesn't look too accurate.... there isn't enough
+15,01contrast... the second one looks pretty good... i used up my buddy's toner
+15,01printing the original image out nice and dark :).... uhm...
+15,01 
+15,01use them if you want to.. you don't have to.... the art scene can be fickle

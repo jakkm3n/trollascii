@@ -1,0 +1,8 @@
+
+
+15,01+====================  System Configuration Setup Commands  ==================+
+15,01| S) Change BBS shortname   M) Select Matrix   P) System Password             |
+15,01| N) New User Password      U) U/L Time Back   T) Sysop Password              |
+15,01| A) Allow New Users        H) Login "Cliche"  F) Matrix Feedback (Yes/No)    |
+15,01| C) Matrix Chat (Yes/No)   V) View Config     Q) Quit                        |
+15,01+=============================================================================+

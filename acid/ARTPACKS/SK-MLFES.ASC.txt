@@ -1,0 +1,67 @@
+15,01                    This is Pitt incase you couldn't tell.                    
+15,01Pic By Skitzo, Font By K-Spiff, for Malfeas requested by Nmancer done for RMRS
+15,01                                                                              
+15,01   ...oooooOOOOOOOOOOOOOOOooo,,,,            dX'                              
+15,01'''''''''''              ...dO;O d'O  dOP'  ,XP   .XX                         
+15,01                 ..odOOOOP'' dOPX.OOb.O     XP' od''                          
+15,01Obo o..    .odOOOOP'''     dOP;XdO'O`O      X' XP'      .odXXX                
+15,01 `" "?;OOOOP"''       ..odOO ;OOP'O' O;    ;$dP'     .dXP''                   
+15,01                 ..odOOP''  .OP' ;O  `O;   dXP'     XP'                       
+15,01         ...odOOOP''     .odPO' .O'   `b.  XbX X   d'          `?Xbo.         
+15,01..o oddOOOOPP'''     .odOP'  O.OP         ;Xb?X   '      ...  ..  `?Xb        
+15,01                ..oP''     .;OP'          XxX X       .odXP    ?XX `?X;       
+15,01                       ..oOPO'        .d X'X( `X     dXP'         `Xb?;       
+15,01           Xbo.       '''.dO'         XP X `Xb     XP'      .odXX.'`?X`       
+15,01          X'`?Xbo.    .odOP'          Xb `XbdX   .d'     .odXP'`XY'  X        
+15,01         XP    `` ..odOP''            `X; `?X' XP'     .od''    ?X;od'        
+15,01         X'  .odOPP'''                 `X    .d'     .dX'      .dXP;d`        
+15,01       ..oodP'  ..  `?b `?X.   ;.            ;b     ;P`'    .odXP;dP'         
+15,01     .dP''       ```'  `  ?Xo. `X           .dX    '     ``  .odXP'           
+15,01                  Xbo.  `Xb ?X  `X        .dX' ` ,;`        ```               
+15,01                   ``?Xbo.`?X b   `    .dXXP' ..odX'                X         
+15,01        ..odXXXXXbo..  ``?X  `?X      XP''  .XP''     ..odXXXXXbo.. `?Xb      
+15,01    .dXXXXP''   ``?XXXXbo..     `    '          ..odXXXXP''   ``?XXXXb.`X     
+15,01   dXP'     `   ..    ``?XXXXXXbo..     ..odXXXXXXP''    .     .    `?X ;     
+15,01 .dP;b  dX,  dX.  `           ``?XXXXXXXXXP''         ,;` `  .' `  .'dX;`     
+15,01 X;`?X XP ?XP ?Xb .Xo `.   .';                 .' `. ;     X     X   XPb.     
+15,01dX  `XPX XJ'X  ?X X?X   `Xb   `  .odXbo.dXb         X     XoX   Xb.`bX'`b,    
+15,01XP    `Xob' X;  ?X  X`X   ?X    X    XoX     X    X`?   X XP'X  X`X X'  ?.    
+15,01X;     `XXX ?b   X`?X  `XbX`X  XP    XP'     ?X  X'(boXP'?X .X dPdX'    ;;    
+15,01Xb.      ?, `X` d?X  `   `P `?XC'    dXb      )XP' ;?P' .' .X'dX'      .d;    
+15,01?Xb       `  `XbdX             `?XYXP' `?XYYXP'    d'      X'dX        dX'    
+15,01X?X           `?XXb                                       dXXP'       .XP     
+15,01``Xb.            `?X                                     XP'         .dX'     
+15,01; ?`Xb.                          ...     ...            '           .dXP      
+15,01X   `?XboodXXXb.          .odXXxXP?XXb,dXXP?XX,do           .dXXXbo,dXP'      
+15,01X    `?XXP'  `?Xb  dXXb  dXP' X     `?YP'     X `X.dXYXbo.odXP'  `?XXb'       
+15,01`;    `X X     `XP     ?XP'   ;      `X'      ;  `XP'  `?XP'       P'"X       
+15,01 ?b     Xb`    ' `.    .' `.  ,`    .' `.    ' `.P'`.    ?;`.     ,;';P       
+15,01 `X     `XXbo..      ;       `   `        '            '     ..odXXP.X        
+15,01  X ;    `?XXXXXbo...                                  ...odXXXXXP'oX         
+15,01  ` ?.       ```?XXXXXXXXXXboo...         ...oodXXXXXXXXXXP'''   .oP          
+15,01    `Xb.    `         ````?XXXXXXXXXXXXXXXXXXXXXP''''            XX           
+15,01     `XXbo..   ..                                  .. ,       .od;'           
+15,01       ``?XXXboo..`                   ,         '       ..oodXXP'             
+15,01           ``?b'?XXXXXbo..  ..odXb.      dXbo..   ..odXXXXP'd''               
+15,01              `Xbo.. ```?XXXXXP''         ``?XXXXXP''' ..odX'                 
+15,01               `?XXXbo..                           ..odXXXP'                  
+15,01                  ``?XXXXXXbo..             ..odXXXXXXP''                     
+15,01                         ``?XXXXXbo.. ..odXXXXXP'''                           
+15,01                               ``?XXXXXXP''                                   
+15,01                                                                              
+15,01                                                                              
+15,01                                                                              
+15,01                     _._                   _._      _._      _._        _._   
+15,01`Y$$Po,  ,oY$$P'`Y$$P"`"Yb   `Y$$P'   `Y$$P"`Yb`Y$$P"`Yb`Y$$P"`"Yb    dP"`"Yb 
+15,01 `$$'`YbdP'`$$'  `$$'   `$b   `$$'     `$$'   ' `$$'   ' `$$'   `$b  $$     ' 
+15,01  $$   `'   $$    $$     $$    $$       $$       $$       $$     $$   Ybo,._  
+15,01  $$        $$  .,$$oo## $$    $$     .,$$oo#  .,$$oo#  .,$$oo## $$    `'"Y$b,
+15,01  $$        $$    $$     $$    $$       $$       $$       $$     $$        `$$
+15,01 .$$       .$$   .$$    .$$   .$$    . .$$      .$$    . .$$    .$$  .     ,$$
+15,01,d$$b.    ,d$$b.,d$$b, ,d$$b,,d$$boo#$,d$$b,   ,d$$boo#$,d$$b, ,d$$b,`$##od$P'
+15,01                                                                              
+15,01                                                                              
+15,01                                                                              
+15,01                                                                              
+15,01                                                                              
+15,01>

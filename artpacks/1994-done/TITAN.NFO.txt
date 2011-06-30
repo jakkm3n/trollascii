@@ -1,0 +1,80 @@
+
+15,01    04m04,04 04,01m15               04m14,04#04,01m    m14,04 04,01m15               04m14,04#04,01m15                         04m04,04 
+04,01   14,04 ##   04,01m mm# #mm m14,04  ##01@@15,01  14,04 ##   04,01m mm# #mm m14,04  ##01@@15,01                      04m04,04@13# 
+13,01  14|01,04@@14##    04,01|04,04  13#  04,01||04,04  14##01@@13,14#14,01||01,04@@14##    04,01|14,04 04 13#  04,01||14,04  ##01@@13,14#14,01|15                   04m13,04#04@13,13#04,04@13#
+13,01  14|13,14#01,04@@14#  04    13#04@13# 04,01|04,04  14##01@@13,14##14,01||13,14#01,04@@14#     04 13#04@13# 04,01|14,04  ##01@@13,14##14,01|15                 04m04,04 13#04@13,13# #04,04@
+13,01  14|14,14#13#15,01 04"   "04,04 13#04@13,13#04,04@13# 04,01"   " 13,14#14#14,01||14,14#13#15,01 04"   "04,04 13#04@13,13#04,04@13# 04,01"   " 13,14#14#14,01|15                  04"04,04 13#04@13,13#04,04@13#
+13,01   14"15       04|04,04@13,13# #04,04@04,01|15       14"  "15       04|04,04@13,13# #04,04@04,01|  m13,14#14,01m  "15          04m13,14#14,01m15        04"13,04#04@13# 
+15,01            04,04@13,13#  #04,01|15       04m04,04 15,01          04,04@13,13#  #04,01| |13,14#01,04@14# 15,01           04|13,14#01,04@14# 15,01        04|13,04## 
+15,01            04|04,04@13,13# #04,01|15     04m13,04#  15,01   14-SC-   04|04,04@13,13# #04,01| |01,04@14#  13#15,01          04|01,04@14#  13#15,01       04|13,04#  
+15,01            04|04,04@13,13# #04,01|    |13,04#04@13# 15,01          04|04,04@13,13# #04,01| |14,04#  13#04@13#15,01         04|14,04#  13#04@13#15,01      04|04,04 04,01|14,04 
+15,01            04|04,04@13,13# #04,01|    |04,04@13,13#04,04@13#15,01          04|04,04@13,13# #04,01| |04,04  13#04@13,13#04,04@13#15,01        04|14,04  13#04@13,13#04,04@13#15,01     04|14,04 04,01 14,04 
+15,01           04m13,04#04@13,13# #04,01|    |13,13# #04,04@15,01         04m13,04#04@13,13# #04,01| |04,04 13#04@13,13# #04,04@13#15,01       04|14,04 13#04@13,13# #04,04@13#15,01    04|| 14,04 
+15,01        04mm" 04,04 13#04@13,13#04,04@04,01|    |13,13# #04,04@15,01      04mm" 04,04 13#04@13,13#04,04@04,01| |04,04  13#04@13,13# #04,04@13#15,01      04|14,04  13#04@13,13# #04,04@13#15,01   04| |14,04 
+15,01     04m""15     04,04 13#04@13#04,01|    |04,04@13,13#04,04@13#15,01   04m""15     04,04 13#04@13#04,01| 14|14,04#  13#04@13,13# #04,04@13#15,01     14|14,04#  13#04@13,13# #04,04@13#15,01  04| 04,04  
+15,01      04"""mmm  04,04 13# 04,01|   m04,04 13#04@13# 15,01    04"""mmm  04,04 13# 04,01| 14|01,04@14# 15,01 13,04#04@13,13# #04,04@13#15,01    14|01,04@14# 04,01 13,04#04@13,13# #04,04@13#15,01 04||04,04  
+15,01            04"m 04,04 14 04,01|    "04,04 13#  15,01          04"m 04,04 14 04,01| 14|13,14#01,04@14#15,01  13,04#04@13,13# #04,04@13#15,01   14|13,14#01,04@14#15,01  13,04#04@13,13# #04,04@13#04,01|14,04  04 
+15,01              14,04 04,01 14,04 04,01|15      04"04,04  04,01|15           14,04 04,01 14,04 04,01| 14|14,14#13##15,01   13,04#04@13,13# #04,04@13#15,01  14|13,14##01,04@15,01   13,04#04@13,13# #04,04@13#   
+15,01               14,04 04,01||15        04"04,04 15,01            14,04 04,01|| 14|14,14#13#14,01"    13,04#04@13,13# #04,04@13#15,01 14|14,14#13#04,01"    13,04#04@13,13# #04,04@13#  
+15,01                04"15                        04"   14"15       13,04#04@13,13# #04,04@13#15,01 14"15       13,04#04@13,13# #04,04@13# 
+15,01                                                    04|04,04 13#04@13,13#04,04@13# 14 15,01       04|04,04 13#04@13,13#04,04@13#  
+15,01                                                   04m14,04  04 13#04@13# 14   15,01     04m14,04 04  13#04@13#    
+15,01                                                    04""14,04 04 13# 14  04,01"15       04""04,04  13#   04,01"
+
+13,01+--------04-13--04- -13-04-----14- 04--14- - -- -
+04,01|
+14,01|15        Well, here we are again.  Didn't think we'd make it, did you?
+14,01:15        I know what else you're probably thinking.   Why are there so
+14,01.15        many penises in this pack?  00;14)  15It's simple, TiTAN is full of
+15,01         dickheads.  00;14)  15No, but seriously, I have a friend who runs a
+15,01         board called The  Red  Light  District and he sort of gave me
+15,01         the idea.   Penis is his favorite word or something.  00;14)
+
+15,01         Now,  to get some things out of the way regarding dist sites.
+15,01         When our first pack came  out I unexpectedly received several
+15,01         dist site requests.   Unfortunately, I do not, at the present
+15,01         time,  have the  resources  to  honor too many dist sites, so
+15,01         from here on  I  will only hand out dist sites through invite
+15,01         only.   Once the group begins to grow and I acquire the means
+15,01         to  handle  more  dist  sites  then  I  will  extend  an open
+15,01         invitation for all who wish to join.
+
+15,01         With that out of the way,  in no particular order,  here  are
+15,01         some happenings for TiTAN last month.
+
+15,01         We were approached, at the beginning of May, by the head dude
+15,01         of ALiVE for a merger, but due to  conflicts  of interests it
+15,01         did not coalesce.  Each  side  wanted to retain its identity,
+15,01         which,  needless to say,  left  no  room  for compromise.  00;14)
+15,01         However, of late,  False  God  asked me if  I  would agree to
+15,01         giving him control of a  LiT division  in  TiTAN.   What  the
+15,01         hell,  and so you have it.  With that, welcome False God into  
+15,01         the group.   He's  currently  the  sysop  of  Terminal  State 
+15,01         operating out of the 4O5 AC,  so  give  his  board  a try and 
+15,01         check out his net GTCM.  
+
+15,01         No new ANSi or VGA artists joined the group last month, which
+15,01         tells me one thing:   none  of  you were fucking good enough.
+15,01         'Nuff said.
+
+15,01         Okay, let's move on to TiTView.   As  you  might have noticed
+15,01         (that is, if you've tried it)  it is a vast  improvement over
+15,01         the first version.   Praises  go  to  Ricker  for  a job well
+15,01         done.  It  is  now  capable of scrollback,   scroll  locking,
+15,01         and smooth scrolling.   Also,  it is now  capable of  viewing
+15,01         ansis in 640x480 or 320x200 vga mode.   Of  course,  it  will
+15,01         improve even more with time.
+
+15,01         One subject  I  think I should address is the type of artists
+15,01         that TiTAN is looking for.    We will accept ANSi,  VGA,  and
+15,01         LiT artists only.   ASCii  artists  and musicians will not be
+15,01         handled by TiTAN.
+
+15,01         An app generator (simple but effective) has been included  in
+15,01         this pack just like I said it would.  I was beginning to have
+15,01         some doubts after awhile, but here it is. It was put together
+15,01         by TiTAN's newest coder Voltaic.  So, I'd like to welcome him
+15,01         into the scene. Send all applications to Psychotic Aftermath.  
+15,01         Do not send them to dist sites or  member  boards.  I  review  
+15,01         all  applications  and  art submissions.  If I think there is 
+15,01         any hope for you then  I will have the other members of TiTAN  

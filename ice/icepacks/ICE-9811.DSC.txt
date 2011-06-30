@@ -1,0 +1,61 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 12/1/1998
+15,01###############################################
+15,01ice-9811.sit,ANSI,iCE 98/11 Sites,iCE Senior Staff
+15,01ice-9811.nfo,ANSI,iCE 98/11 Info File,iCE Senior Staff
+15,01ice-9811.mem,ANSI,iCE 98/11 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,0109-salt.ice,ANSI,Salt,Fluor
+15,0109-h2.ice,ANSI,h2,Fluor
+15,01boa-fos.ice,ANSI,FOS,Boa
+15,01bv-def1.ice,ANSI,Defjamz,Black Viper
+15,01c0-l1198.ice,ANSI,Logos,Count Zero
+15,01c0-zy.ice,ANSI,Salt,Count Zero
+15,01in-acher.ice,ANSI,Acheron,Inazone
+15,01ng-gtr1.ice,ANSI,Gutter,Nosegos
+15,01qp-9811.ice,ANSI,Logos,Quip
+15,01qp-guttr.ice,ANSI,Gutter,Quip
+15,01te-bhc1.ice,ANSI,Black Hole Cafe,Tetanus
+15,01tg-bhc1.ice,ANSI,Black Hole Cafe,Toon Goon
+15,01tg-ice7.ice,ANSI,iCE,Toon Goon
+15,01tg-merc1.ice,ANSI,Merc Magazine,Toon Goon
+15,01tg-tlp1.ice,ANSI,The Lost Paradise,Toon Goon
+15,01ti-djsk.ice,ANSI,Defjamz,Trip
+15,01ti-skule.ice,ANSI,iCE,Trip
+15,01tk-legn.ice,ANSI,Legion,The Knight
+15,01us-id.ice,ANSI,Idle Dreams,Multiple Artists
+15,01us-neo1.ice,ANSI,Neosporin,Multiple Artists
+15,01us-v22.ice,ANSI,V2,Multiple Artists
+15,01v9-dirt.ice,ANSI,Dirt,Vade79
+15,01v9-ice2.ice,ANSI,iCE,Vade79
+15,01bg-ice3.rip,RIP,iCE,Bagboy
+15,01dg-ice.rip,RIP,iCE,Degenerit
+15,0188-sensu.jpg,Sensual Intercourse,Root 88
+15,0188-wisdm.jpg,Wisdom,Root 88
+15,01ae-can.jpg,v2 Can,ae
+15,01ae-cstl.jpg,Castle,ae
+15,01ae-gil.jpg,Guillotine,ae
+15,01ae-whl.jpg,Wheel,ae
+15,01dm-dmnss.jpg,Demoness,Darkmage
+15,01dm-dmntd.jpg,www.Demented.org,Darkmage
+15,01dm-ninja.jpg,www.Digitalninja.com,Darkmage
+15,01dm-pr12.jpg,Pier 12,Darkmage
+15,01dm-statn.jpg,Mars Station,Darkmage
+15,01dm-vamp.jpg,Vampiress,Darkmage
+15,01dv-icegl.jpg,iCE girl,DaVinci
+15,01ja-spnt2.jpg,Serpent,Jae
+15,01jm-sydny.jpg,Sydney,Jamie McCarter
+15,01me-cyber.jpg,Cyber,Megalith
+15,01mn-dada.jpg,Dada,Mantis
+15,01nf-mekka.jpg,Mekka,Necrofiliac
+15,01nf-wild.jpg,Wild,Necrofiliac
+15,01nf-xmass.jpg,Merry Christmas!,Necrofiliac
+15,01pn-int1.jpg,Int1,Pnakotic
+15,01pn-int2.jpg,Int2,Pnakotic
+15,01pn-intr1.jpg,Intr1,Pnakotic
+15,01po-walkr.jpg,Work in progress,Poweronx
+15,01ss-crims.jpg,Crims,Steven Stahlberg
+15,01tk-fff.jpg,Funky Flask Flamboyance,The Knave
+15,01tk-frogq.jpg,Frog Queen,The Knave
+15,01tk-tss.jpg,the sun - setters,The Knave
+15,01tr-spawn.jpg,Spawn,Tear

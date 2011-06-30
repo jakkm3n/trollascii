@@ -1,0 +1,33 @@
+15,01+----------------------------------------------------------------------------+
+15,01| Title      : TDT Salute Demo NFO file                                      |
+15,01| Date/Time  : 04-01-93 03:51pm                                              |
+15,01| Written by : ZigZag [iCE]                                                  |
+15,01+----------------------------------------------------------------------------+
+
+15,01Author Notes:
+15,01        Greets...  Well, they told me to write a little NFO file.  Well, I
+15,01am not too happy with this demo, but then again, it was my first attempt
+15,01at Mode-X so deal.  Thanks got to VLA for helpin' me with learning
+15,013-D shit.  
+15,01        I guess this iCE Pack definitely shows you that THG F/X has merged
+15,01with iCE VGA Crew.  It went pretty smooth and was basically handled over
+15,01InterNet.  The sound routines are SLOW as piss, so forgive me.  I didn't
+15,01have time to implement the new routines.  Oh well...
+
+
+15,01General Bullshit Greets go to:
+
+15,01        FordPrefect      :  Stud!
+15,01        Renegade BitHead :  Where's my damn Text file!??
+15,01        Quick Silver     :  Err I mean Iridium?  
+15,01        Syntax Error     :  Too many damn greets man...CHILL! :)
+15,01        Quazar & Vapor   :  Good job on Couriering boys...
+
+15,01Note:  Watch for my board going up soon...about a month.  Number will
+15,01        follow in next demo...
+
+
+
+15,01'Nuff Bullshit!
+
+15,01  -ZigZag

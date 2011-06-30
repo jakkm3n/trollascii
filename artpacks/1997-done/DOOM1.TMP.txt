@@ -1,0 +1,54 @@
+15,01================================================================
+15,01Title                   :
+15,01Filename                : xxxx.WAD
+15,01Author                  : 
+15,01Email Address           :
+15,01Misc. Author Info       :
+15,01Description             : 
+15,01Additional Credits to   :
+15,01================================================================
+
+15,01* Play Information *
+
+15,01Game                    : DOOM I
+15,01Episode and Level #     : ExMx (,ExMx,...)
+15,01Single Player           : Yes/No
+15,01Cooperative 2-4 Player  : Yes/No
+15,01Deathmatch 2-4 Player   : Yes/No
+15,01Difficulty Settings     : Yes/Not implemented
+15,01New Sounds              : Yes/No
+15,01New Graphics            : Yes/No
+15,01New Music               : Yes/No
+15,01Demos Replaced          : None/1/2/3/All
+
+15,01* Construction *
+
+15,01Base                    : New level from scratch/Modified ExMx/xxx.WAD
+15,01Editor(s) used          :
+15,01Known Bugs              :
+
+
+15,01* Copyright / Permissions *
+
+15,01Authors (MAY/may NOT) use this level as a base to build additional
+15,01levels.
+
+15,01(One of the following)
+
+15,01You MAY distribute this WAD, provided you include this file, with
+15,01no modifications.  You may distribute this file in any electronic
+15,01format (BBS, Diskette, CD, etc) as long as you include this file
+15,01intact.
+
+15,01You MAY not distribute this WAD file in any format.
+
+15,01You may do whatever you want with this file.
+
+
+15,01* Where to get this WAD *
+
+15,01FTP sites:
+
+15,01BBS numbers:
+
+15,01Other:

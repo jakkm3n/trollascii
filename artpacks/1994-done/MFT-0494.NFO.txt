@@ -1,0 +1,80 @@
+
+15,01                                                                      00m
+15,01        00mm15               00""14,00  00,01"   m15        00mmmm14,00#15,01@00#15                 00mmm15@00#
+15,01       00"00,00#15,15@@@00,00##00,01mm15           00mm00,15#14,00  00,01"15m15,15@@00,01mmm00,00##14    #15,01@00# 14,00   00,01mmmm   mmm14,00     #15,01@00#
+00,01 02# . --- 00"00,15##15@@00,00##14  00,01m15     00m15,15@00#14 15 00,01""15m14,15 00#15@@00,00###14       #15,01@00# 14,00     00  ###    14   #15,01@00# 02---- . #
+02,01 .15         14,15 00##15@00,00##14   00,01m14,00 00#15,15@@00## 15,01 14,12 12,01 15"14,15  00##15@@00,00##14 00#14     #15,01@00# 14,00  00  ##15,15@@@00,00####  14  #15,01@00#15       02.
+02,01 |15         02,15 14 00#15@@00,01"00,00#14  # 00##00,01"00,15#14 15 15,01 14,12 12,01 14,12 12,01 14,15  00##15@00,01"00,00##00,01""   """"# 14,00 00 00,01"14"15,15@00###15@@@@00,00#00,01""""14,00#15,01@00#15      02|
+02,01 +--------- 02,15 14 00#15@@15,01 00,00#14  # 00,01  00,15# 15,01 14,12  12,01  14,12 12,01 14,15  00##15@15,01 02----- 00m 02-------- 14,15   00###15,01 02------ 15@00#m 02---+
+02,01 12+---------- 12,15 14 00#15@15,01  14,00 ###00,01 12- 12,15 15,01 14,12   12,01 14,12  12,01 14,15  00##15@00,01mm15,15@@@00,00##14#00,01 12--------- 14,15   00#15,01 12-------- 00"" 12--+
+12,01 00+--------- 12,12 15,01 14,15 00#15@15,01  00#15@14,00##00,01 - 00,15 15,01 14,12  12#15,01  14,12  12,01m15"14,15  00###15@@00,00##14#15,01@00 -------- 14,12 12,01 14,15  15,01|00---------------+
+00,01 12+-------- 12,12# 15,01 14,15  15,01 12-- 00#15@00 12--- 14,12  12#02,02@15,01  12,12  14  12,01m15""14,15  00#00,01"""""#m 12----- 14,12   12,01  14,15 15,01 12--------------+
+12,01 02+-------- 02,02@12,12 15,01 14,15  15,01 02---00|# 02-- 14,12  12#02,02@12#15,01  12,12    14   12,01 02--------------- 12,12##14   12,01 02---------------+
+02,01 |15        12,02#02@12,12# 15,01 14,15 15,01         14,12  12#02,02@12#15,01   12,12##   14 15,01                  02,02@@12,12##14  15,01               02|
+02,01 .15       12,02#02@12,12## 15,01           14,12 12##02,02@12#15,01  02,02@@12,12###  #15,01              02mm12,02###02@@12,12###02,01m15             02.
+02,01 # . - m12,02#02@@12,12##   12,01m15       14,12  12#02,02@@12#15,01 12,02###02@@12,12## ####02,01mm15       02m14,02      12##02@@@@@02,01m ------- . #
+15,01     02m12,02####02,01"12"12,12###    12,01m mm14,12   12##02,02@@12#02,01mm 12,02##02@@12,12##02,02@@@12####02,01m m14,02       02,01"""14,02 12######14  02,01mm
+02,01    """"15       12""12,12    12,01m"14,12  12###02,02@@@@12##02,01m"   """"""14,02 12###02,01m"14,02  02,01""15         02"""""""14,02  02,01m
+15,01                 12mmm "m14,12 12,01"""    02""12,02###02,01m15         02mm"""15     Innovations: tm1994
+15,01               12m14,12   12,01""" 14mmmmm mmmmm mmmmm mm m02""15     14|m mmmm m  m
+15,01                        m  14,15 15,01  m  14,15 15,01  m  14,15 15,01  m m       14"  15m  m m  m
+15,01                        15,15@15,01""15,15@15,01  15,15@15,01"""  15,15@15,01""00m  15,15@15,01 15,15@15,01          """15,15@15,01 """15,15@
+15,01                        00"  "  "15     00"  " "" """"15          00"    "
+
+
+14,01--15-- 00# 15Thank you for downloading this April's ManifesT Pack.  Based in San 00# 15-14--
+15,01       Jose, California, USA, ManifesT has overwhelmingly grown over since
+15,01       the  March  Pack.  Although  only  the  second pack  released,  the
+15,01       foundation of ManifesT Innovations has been  firmly secured  due to
+15,01       the  fine  setup  and  expansion  of  the  World  Headquaters, Evil
+15,01       Intentions.   By  the   work of  coordinator,  Betrayer,  and  last
+15,01       month's advertising, ManifesT has covered more ground as more sites
+15,01       have been accepted.
+
+14,01--15-- 00# 15The  programming in this pack, viewer and  application, was done by 00# 15-14--
+15,01       Deranged  Evil.  Having  over ten  revisions, and more to come, the
+15,01       viewer  has changed  from a normal  8Ox25 ANSI viewer to a VGA ANSI
+15,01       and RIP  viewer.  The application now has sound  blaster support at
+15,01       hex22O.  Shadow  Demon, our  newest and only other  programmer, has
+15,01       been working  diligently on a  Buletin  Board Software.  Expect  it
+15,01       soon.
+
+14,01--15-- 00# 15The music  department  lagged last month, but due to the acqusition 00# 15-14--
+15,01       of  two new  musicians, sound wave and someone  who is undergoing a
+15,01       handle  change.  Due to inactivity, Digital Effects has been placed
+15,01       on the Missing in Action (MiA) list.
+
+14,01--15-- 00# 15The Art  category has  smoothly  progressed.  Necronite's last Mft. 00# 15-14--
+15,01       works  are in  this  pack.  He  has taken  on to  ITR  (iCE Trial).
+15,01       Also,  there  are  new  artists:  MadMan, Nisqually,  Quixotic, and
+15,01       Paradox.  RIP  has  slowly  progressed, but  mainly because this is
+15,01       the  first  pack  including  RIP.  Dr. Phunk,  Overflow, and myself
+15,01       have taken that category.  In VGA,  we  have  acquired  one artist,
+15,01       Spazum.  Whispering  Death  and Quiksilver have been placed  on the
+15,01       MiA list.
+
+14,01--15-- 00# 15In  the  Literary  department:   Bounty   Hunter,  Paradox,  Zenith 00# 15-14--
+15,01       Blitzkrieg,  and  Eek   the  Cat storm  that division with original
+15,01       and thoughtful works.
+
+14,01--15-- 00# 15I wish  those  well who  apply for ManifesT.  Fill out the Deranged 00# 15-14--
+15,01       Evil's application, ZIP  it  up with examples  of your  best  work,
+15,01       and  upload it  to  any  site or any  courier, then  hope  it  will
+15,01       get it to Evil Intentions.
+
+15,01                                                       00#15G14ambi15T00#
+
+
+
+15,01           00T   H   E15       00M   E   M   B   E   R15       00L   I   S   T
+
+15,01                          14#01@14,14# 00#01,15@14# 15,01 00F15o14und15e00r 00,15#14#01@00,14#14 #01,01@14#
+15,01                          14#01@15       GambiT        01@14#
+15,01                          14#01@14,14# 00#01,15@14# 00#15@00,00#14  00#15,15@00# #14#01@00,14#14 #01,01@14#
+
+15,01                      14#01@14,14# 00#01,15@14# 00#15@15,01 00Co15or14din15ato00rs 00,15# 14#01@00,14#14 #01,01@14#
+15,01                      14#01@15           Betrayer          01@14#
+15,01                      14#01@15         Binary Beast        01@14#
+15,01                      14#01@14,14# 00#01,15@14# 00#15@00,00#           #15,15@00# 14#01@00,14#14 #01,01@14#
+
+15,01                14#01@14,14# 00#01,15@14# 00#15@00,00#    14   00,01 S15en14i15or00s 14,00 00        #15,15@00# 01@00,14#14 #01,01@14#

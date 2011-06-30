@@ -1,0 +1,80 @@
+15,01 ============================================================================
+15,01 ============================================================================
+
+
+15,01                                .a&$* ..            gggg
+15,01                    .a&$* ..    $$$$:   $a      .. *$$$$ RAD
+15,01                    $$$$:   $a  $$$$:   $$$   a$:   $$$$
+15,01                    $$$$:   $$$ $$$$:   $$$l $$$:   $$$$
+15,01                    $$$$:   $$$l$$$$:   $$$$l$$$:   $$$$
+15,01                ::: $$$$: ::$$$$$$$$: ::$$$$$$$$: ::$$$$ :::
+15,01                    $$$$:   $$$$$$$$:   $$$$$$$$:   $$$$
+15,01                    $$$$:   $$$$$$$$aaa $$$$$$$$:   $$$$
+15,01                    $$$$:   $$$$$$$$:   $$$$$$$$:   $$$$
+15,01                    $$$$:   $$$$$$$$:   $$$$$$$$:   $$$$
+15,01                a aaggggaa aggggggggaaa ggggggggaa aggggaa a
+15,01                    $$$$:   $$$$$$$$:   $$$$$$$$:   $$$$
+15,01                    $$$$:   $$$$ ACK    $$$$$$$$aaa $$$$
+15,01                    $$$$:   Radioactive Aardvark Dung
+
+
+15,01 ============================================================================
+15,01 ============================================================================
+
+15,01        Radioactive Aardvark Dung E-zine, also referred to as "RAD E-Zine" is
+15,01 something that you can find on the internet and many "scene" BBSs.  More
+15,01 precisely, it is an elecetronic form of a magazine -- and it's all humor!
+
+15,01 ============================================================================
+15,01 ============================================================================
+
+15,01 How to get our files off the Internet...
+
+15,01        ftp.openix.com /ftp/phorce/rad/
+15,01        alt.ezines.rad 
+15,01        http://www.pla-net.net/corp/zineworld/rad (*newly overhauled!*)
+15,01        jwapienn@pla-net.net (request what issue you want &/or send a
+15,01                             submission)
+
+15,01 ============================================================================
+15,01 ============================================================================
+
+15,01 BBS distribution sites...
+
+15,01 01 :: Erebus                 :: 201-762-1373   :: World Head Quarters
+15,01 02 :: Morbid Insite          :: +618-828-10568 :: Australia Head Quarters
+15,01 04 :: Deranged Illusion      :: 219-988-5189
+15,01 06 :: Scum                   :: 606-266-6720
+15,01 07 :: The Hood               :: 604-583-2742
+15,01 08 :: Strand                 :: 314-230-6397
+15,01 09 :: Halcyon                :: 519-332-8498
+15,01 10 :: Abandoned Insurrection :: 414-744-7578
+15,01 11 :: Pez                    :: 413-496-9308
+15,01 12 :: Flatscan               :: 602/815-7904
+15,01 13 :: Total Chaos            :: 705-424-6834
+15,01 14 :: Poo!@                  :: 602/589.0791
+15,01 15 :: Onix                   :: 770/920.1601   :: Atlanta, Georgia
+15,01 16 :: Nick's Cafe American   :: telnet://neekland.usfca.edu 
+15,01 17 :: Tantalized Dreams      :: 204/632.0685   :: NUP: rOdlene
+15,01 18 :: Crack-Addict Central   :: 215/744.0226   :: 5 Node Ringdown
+
+
+15,01 Please let me know if any of these are out-dated.
+
+15,01 ============================================================================
+15,01 ============================================================================
+
+15,01 Writers and what issues they've written for...
+
+15,01 01 :: Mercuri
+15,01 02 :: Handle
+15,01 03 :: Phorce
+15,01 14 :: The Masked Marauder
+15,01 05 :: Cerkit               :: 1, 2, 10 (c/o metalchic)
+15,01 06 :: Creed                :: 6
+15,01 07 :: Gaurdian             :: 1
+15,01 08 :: Gecko                :: 3
+15,01 09 :: Ghetto Gabe          :: 3
+15,01 10 :: Hal08                :: 1, 2, 5
+15,01 11 :: Intrepid             :: 10, 12
+15,01 12 :: JubJub [JoltCola]    :: 3

@@ -1,0 +1,32 @@
+15,01# -------------------------------------------------------------------------- #
+15,01# Example PERL code to read SAUCE                                            #
+15,01# Written by Shivan Bastard <ACiD>                                           #
+15,01# Copyright 1996 ACiD Productions, All Rights Reserved.                      #
+15,01# -------------------------------------------------------------------------- #
+15,01# Tested under FreeBSD, Linux, and Perl 5.0                                  #
+15,01# -------------------------------------------------------------------------- #
+15,01#                                                                            #
+15,01# Building a binary SAUCE structure in PERL would be much too time consum-   #
+15,01# ing.  The simple and efficient nature of SAUCE itself allows us to treat   #
+15,01# it's identification like one big 128 byte string.  Since PERL was designed #
+15,01# for manipulating text and strings it is only natural that this would be    #
+15,01# the easiest way to extract the information we need from the SAUCE header.  #
+15,01# -------------------------------------------------------------------------- #
+
+15,01open($temp,"$temp");
+15,01seek($temp,-128,2);
+15,01read($temp,$sauce,128);
+15,01close($temp);
+15,01$id=$sauce;
+15,01$id=substr($id,0,5);
+15,01if ($id eq 'SAUCE')
+15,01{
+15,01       $name=$sauce;
+15,01       $name=substr($name,7,35);
+15,01       $author=$sauce;
+15,01       $author=substr($author,42,20);
+15,01       $Print "$name by $author";
+15,01}
+
+15,01>SAUCE00PERL SAUCE Reader                  Shivan Bastard      ACiD Productions 
+15,01   19961201AA  @ P A                             

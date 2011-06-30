@@ -1,0 +1,48 @@
+15,01                                                                               
+15,01      ____._                                   .___/\_ tshk    ____  _.        
+15,01      \   |_____                ___\_  ______  |     /______  /  _ \\\|        
+15,01       \  /    /__   ___._   ___\   \__\__   \_|    /    _  \/   /  \ \        
+15,01   ._  /  |   /(__)__\   \ ___  _        __   /|    _)   /  \ _____ /          
+15,01   |///__  _____    /(   /   /__\ ___/___\_____\    | ______/                  
+15,01   /==== \/ === \______ /____\ = \ ============ /___1 ========== [ 2 0 0 2 ]   
+15,01                       / +++++ v i n d a l o o +      +   + .....\             
+15,01                                                          | |:::||             
+15,01    Release date      : Ago-xx-2002                       | |:::||             
+15,01    Release name      : xxxxxxxxxx "xxxxxxxxxxx"          | |:::||             
+15,01    Release type      : Vynil                             | |:::||____         
+15,01    Company           : xxxxxxxxxxxxxx                    | |:::/     `-.      
+15,01                                              \\ /\ /     | |::!_____   `.     
+15,01    Supplied by       : Vindaloo                /oO\      | |::j\   \    l     
+15,01    Ripped by         : Vindaloo                \ _/      | |::\_oo  )___/_    
+15,01    Genre             : Goa / Psytrance          \/       | |:::_\.__/_ _      
+15,01    Year              : 2002                              | |::/     ,`/(      
+15,01                                                          | |:(_    _)/  \     
+15,01    Audio Source    : CD                                  |_|:/      /  +/     
+15,01    Encoding Software : Audioative Prod. 2.04             )\\/______(  //      
+15,01    Quality           : 192kbps / 44,1kHz / Full Stereo   \_(      \/\_)       
+15,01                                                          | \\  +   \/ +mt     
+15,01    # of Tracks       : x                                 | |\.  \   \_        
+15,01    Lenght            : xx:xx min                         | |:_)  \    \       
+15,01    Size of Files     : xx,x MB                           | |/   _/     \_     
+15,01                                                          | \___(        (     
+15,01                                                          | `----\________\    
+15,01  + Track list -------------------------------------------+ ---- `---------`   
+15,01                                                          .                    
+15,01                                                                               
+15,01                                                          +                    
+15,01    o1. xxxxxxxxxxxxxxxxxxxxxxxxx  (xxxxxxxxxx)                 [xx:xx]         
+15,01    
+15,01    o2. xxxxxxxxxxxxxxxxxxxxxxxxx  (xxxxxxxxxx)                 [xx:xx]         
+15,01    
+15,01    o3. xxxxxxxxxxxxxxxxxxxxxxxxx  (xxxxxxxxxx)                 [xx:xx]         
+15,01    
+15,01    o4. xxxxxxxxxxxxxxxxxxxxxxxxx  (xxxxxxxxxx)                 [xx:xx]         
+15,01    
+15,01    o5. xxxxxxxxxxxxxxxxxxxxxxxxx  (xxxxxxxxxx)                 [xx:xx]         
+15,01    
+15,01                                                                               
+15,01    Total Time:                       [xx,x MB]                 [xx:xx]         
+15,01    
+15,01                                                                               
+15,01                                                                               
+15,01[eof]

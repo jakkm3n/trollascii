@@ -1,0 +1,24 @@
+14,01i am writing this file due to the fact that in previous versions of this ansi
+14,01pack the file ls-notes.exe was infected with either "abraxas 5" or "dropper".
+14,01it may have been that they were infected with nothing at all, and that it was
+14,01simply a false alarm caused by me encrypting the com file with a program called
+14,01"cryptcom" included with a package called the "nowhere utilities" v2.0.
+
+14,01whatever it was, i am recalling the pack for the second time (the first was to
+14,01correct some errors in the member list).  i have destroyed all of the files on
+14,01my hard drive that were supposedly infected, and have replaced the executable
+14,01notes file with a simple ansi file of the same information.
+
+14,01although i could not find any description of a "dropper" virus (drop, dropper 2
+14,01and 3, but no dropper) my system did not seem to experience any of the symptoms
+14,01of the "abraxis 5" virus until after i had scanned it, and then the only
+14,01problem was that none of my copies of ls-notes.exe would run (overwritten code
+14,01in the infected files is one of the symptoms).  at any rate, if you have a
+14,01copy of the old pack on your hard drive, you may wish to delete the ls-notes.exe
+14,01file, or the entire pack to be sure, and be sure to scan your hard drive.
+
+14,01this is a little late, but i am assuming that the sysops who found this for me
+14,01fixed it before putting the file online.  so this is only an "official"
+14,01correction.  i have taken measures to insure that this doesn't happen again.
+
+15,01                                  00p15h14orce ph15e00d

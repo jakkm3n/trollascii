@@ -1,0 +1,11 @@
+15,01+---------------------------------------------------------------------------+
+15,01| By UnZipping this file you agree to abide by all copyright laws of the    |
+15,01| United States as found in U.S.C.A., and specifically those sections       |
+15,01| regarding non-profit library check-out of software. Once your checkout    |
+15,01| period is over you must return or destroy this file. If you do not do so  |
+15,01| you will be in violation of Federal Law.  If you have any questions       |
+15,01| regarding your legal liability please consult U.S.C.A. or your local      |
+15,01| attorney.  Making copies or distribution of this file is expressly        |
+15,01| forbidden by Federal Law.  You checkout period is 24 hours.  If you can   |
+15,01| use this software please purchase it from your local retailer.            |
+15,01+---------------------------------------------------------------------------+

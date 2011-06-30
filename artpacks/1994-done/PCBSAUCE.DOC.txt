@@ -1,0 +1,80 @@
+15,01         PCB/Sauce v1.00
+15,01         Coded by Wildfire of BLADE
+15,01         ------------------------------------------------------------
+
+15,01         INTRODUCTION
+
+15,01         PCB/Sauce was created because I haven't seen SAUCE support
+15,01         for PCBoard yet. I saw it for Obv/2, and decided to write
+15,01         something up for PCBoard. So I made PCB/Sauce.
+
+15,01         Perhaps you're wondering ... 'WHAT THE FUCK IS SAUCE?' ...
+15,01         well I'll explain it to you. What it does is keep information
+15,01         about an ANSI or RIP file. I suppose it would work for a TEXT
+15,01         file too ... I never thought about it.
+
+15,01         Anyway, it's a 128 byte header at the end of the header. It
+15,01         contains information such as the name of the art, the artist,
+15,01         and the group that the artist is in.
+
+15,01         What this program is extract SAUCE information into the
+15,01         PCBoard description. I'll explain later in the docs how it
+15,01         picks the format.
+
+15,01         I'm including the source code. If you decide to use this
+15,01         source to make something better, then please at least mention
+15,01         me in the credits.
+
+15,01         Also, you have the ultimate in configurability. Instead of
+15,01         having some complex configuration file, you can just edit the
+15,01         source and re-compile. This program does NOT use any special
+15,01         libraries. I hate it when I get the source to something and
+15,01         it won't compile. This should run in QBASIC ... but you need
+15,01         to compile it in Turbo Basic or QBX in order to make it
+15,01         useful.
+
+
+
+15,01         INSTALLATION
+
+15,01         You don't even need a brain to install this program. I made
+15,01         it as simple as possible. No special command line parameters
+15,01         or CFG files.
+
+15,01         If you have installed PCBDESC, this is installed the same
+15,01         way. All you need to do is add this at the top of your
+15,01         PCBVIEW.BAT:
+
+15,01         IF %2 == UPLOAD PCBSAUCE %1 %3
+
+15,01         Make sure that PCBSAUCE.EXE is in your C:\PCB directory or it
+15,01         won't work (obviously.)
+
+
+
+15,01         ADVANCED INSTALLATION
+
+15,01         If you have a brain, you can use this method to save time
+15,01         when testing uploads. It takes more time and brain to install
+15,01         this way, but is nice, because you don't have to sit there as
+15,01         long when testing new uploads.
+
+15,01         What you do is select the extensions that are likely to have
+15,01         SAUCE information in them. The only ones I can think of would
+15,01         be ANS and RIP files. Perhaps PCB @X files, I don't know.
+
+15,01         What the following example will do is check the extension
+15,01         before using PCBSAUCE. This saves time, if the file doesn't
+15,01         have SAUCE information.
+
+15,01         If you use ANS and RIP as your two sauce extensions, you
+15,01         would add them to your TESTFILE statement, and make it go to
+15,01         a label, SAUCE.  So an example might be:
+
+15,01           @echo off
+15,01           testfile %1 ZIP ARJ ANS RIP
+15,01           if errorlevel == 98 goto end
+15,01           if errorlevel == 04 goto sauce
+15,01           if errorlevel == 03 goto sauce
+15,01           if errorlevel == 02 goto arj
+15,01           if errorlevel == 01 goto zip

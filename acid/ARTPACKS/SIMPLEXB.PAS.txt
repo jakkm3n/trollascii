@@ -1,0 +1,80 @@
+15,01     Dispose(Lines[Count]);DISPLAY UNCOMPRESSED XBIN DATA ===== }
+15,01  END;     STM_Goto(XBIN,Lines[(Y+TopY) DIV 1024]^[(Y+TopY) MOD 1024]+(TopX*2));
+15,01END.
+15,01           IF (XBIN.LastErr<>STM_OK) THEN BEGIN
+15,01              TextMode(Co80);
+15,01              Abort('Error reading XBIN.');
+15,01           END;Streams }
+15,01           STM_Read(XBIN,MEM[SegB800:Y*160],Len*2);
+15,01           IF (XBIN.LastErr<>STM_OK) THEN BEGIN
+15,01              TextMode(Co80);..3] OF Char;
+15,01              Abort('Error reading XBIN.');
+15,01           END;    : Char4 = 'XBIN';
+15,01        END;ALETTE = $01;
+15,01     END;N_FONT    = $02;
+15,01      XBIN_COMPRESS= $04;
+15,01     CH:=ReadKey;NK= $08;
+15,01     IF CH=#0 THEN BEGIN;
+15,01        CH:=ReadKey; $E0;
+15,01        CASE Ch OF
+15,01           #72 : IF TopY>0 THEN Dec(TopY);  { Up key }
+15,01           #80 : IF TopY<XBHdr.Height-DispHeight THEN Inc(TopY);  { Down key }
+15,01           #75 : IF TopX>0 THEN Dec(TopX); { Left key }
+15,01           #77 : IF TopX<XBHdr.Width-80 THEN Inc(TopX); { Right key }
+15,01        END;           Height  : Word;
+15,01     END;              Fontsize: Byte;
+15,01  UNTIL CH=#27;        Flags   : Byte;
+15,01END;                 END;
+15,01      LineStart    = ARRAY[0..1023] OF LongInt;
+15,01      LineStartPtr = ^LineStart;
+15,01BEGIN
+15,01  CheckBreak:=True;: Stream;
+15,01  DirectVideo:=False;XB_Header;
+15,01  TextMode(Co80);  : ARRAY[0..63] OF LineStartPtr; { Offset in File of line star
+15,01t }
+15,01  WriteLn ('SimpleXB V1.00.  Simple eXtended BIN format viewer');               
+15,01  WriteLn ('Coded by Tasmaniac / ACiD.');
+15,01  WriteLn ('Sourcecode placed into the public domain, use freely');             
+15,01  WriteLn;
+15,01      FontDepth    : Word;                         { 256 or 512 characters      
+15,01  { --- Check for presence of a VGA card --- }
+15,01  IF (NOT VGA_IsPresent) THEN
+15,01     Abort('VGA required');
+15,01      CountByte    : Byte;
+15,01  { --- Check if sufficient memory is available and allocate Lines --- }
+15,01  WriteLn('Allocating memory...');
+15,01  FOR Count:=Low(Lines) TO High(Lines) DO BEGIN
+15,01     IF MaxAvail<Sizeof(Lines[Count]^) THEN
+15,01       Abort('Insuficient memory');
+15,01     New(Lines[Count]);
+15,01  END;teLn;
+15,01   WriteLn('SimpleXB V1.00.  Execution aborted.');
+15,01  { --- Check passed parameter and open XB file -------------------------- }
+15,01  IF (ParamCount<>1) THEN Abort('SimpleXB Filename');
+15,01   WriteLn;
+15,01  WriteLn('Opening XBIN ('+ParamStr(1)+')...');
+15,01  STM_Open(XBIN,ParamStr(1),NOCREATE);
+15,01  IF (XBIN.LastErr<>STM_OK) THEN Abort('Error opening XBIN file '+ParamStr(1));
+15,01FUNCTION Strf(Val:Word):String;
+15,01  { --- Read XBIN Header ------------------------------------------------- }
+15,01  WriteLn('Reading XBIN Header...');
+15,01  STM_Read(XBIN,XBHdr,Sizeof(XBHdr));
+15,01  IF (XBIN.LastErr<>STM_OK) THEN Abort('Error reading XBIN Header.');
+15,01END;
+15,01  { --- ID bytes check out ? --------------------------------------------- }
+15,01  IF (XBHdr.ID<>XB_ID) OR Dirty method 14,15                                      15,01}
+15,01     (XBHdr.EofChar<>26) THEN Abort('File is not an eXtended BIN');
+15,01  WriteLn('   Image width  : ',XBHdr.Width);63,63,63);
+15,01  WriteLn('   Image height : ',XBHdr.Height);
+15,01  { IF Width=0 then Height must be 0 too. and vice versa }
+15,01  IF ((XBHdr.Width =0) AND (XBHdr.Height<>0) OR
+15,01      (XBHdr.Width<>0) AND (XBHdr.Height =0)) THEN
+15,01     Abort('Invalid XBIN.  <Width> and <Height> must both be equal or different 
+15,01from 0');
+15,01  WMode:=DirectVideo;                  { Save DirectVideo status }
+15,01  Write  ('   Palette      : ');       { Set it to false         }
+15,01  IF (XBHdr.Flags AND XBIN_PALETTE) <> 0 THENmode 320*200 256 colors }
+15,01     WriteLn('Alternate palette present')        }
+15,01  ELSE0 : remains black                          }
+15,01     WriteLn('Default palette');                 }
+15,01  {   2-17 : Palette from XBIN                   }

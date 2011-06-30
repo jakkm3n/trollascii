@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    O  C  T  O  B  E  R    1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  Well, well.   Another month has  passed bringing you the  1st wonder of the
+15,01cyber underground, the iCEPACK.   As if you didn't already know that.   A month
+15,01laced with  high-quality VGA from some talented newcomers,  as well as some new
+15,01visual sweets from the veterans.
+
+15,012.  Unfortunately,  this month has a sad overtone to it.   iCE is very sorry to
+15,01announce the passing of iCE VGA artist Levi Dedi,  aka Night Daemon.   Levi was
+15,01an amazing  artist who managed to make everyone around him smile.   Levi was an
+15,01integral part of iCE,  and we feel that some of the fabric that  makes us whole
+15,01is gone forever.  Levi will be missed dearly.  Much work has gone into tracking
+15,01down the last  remaining incomplete  works by Night Daemon,  as well as tribute
+15,01material from  his friends from all over the scene.   We have posted some of it
+15,01to http://shalom.ice.org on the web.   If you'd like to contribute,  we welcome
+15,01it - just email rmaker@ice.org and Rainmaker will take care of it.   God speed,
+15,01Levi.  Rest in peace.
+
+15,013.  The iCE  nuclear arms  inspection  team scrubbed  behind a few  corners and
+15,01plucked up  a few grimy new radioactive  artists!   iCE welcomes  Poweronx  and
+15,01Darkmage to the VGA team.   These guys are  excellent - don't  miss their  work
+15,01as featured in the pack this month.   iCE would also like to welcome Fluor back
+15,01to the group this month, rejoining the ANSI logomafia team.  A big sloppy happy
+15,01welcome to all!
+
+15,014.  The iCE chief security officer managed to  contain all attempts to flee the
+15,01starbase this month.  Nobody got away, but several disgruntled  members made it
+15,01to the brig, where they are served cold oatmeal and tap water.  One of the more
+15,01outspoken was an infuriated Friar Tuck,  who came out of hiding to  lead one of
+15,01the incursions.   "How the hell am I supposed  to survive without nachos?!", he
+15,01spat.  Indeed!
+
+15,015.  Newly  psychoanalyzed Information  Systems  Director Lickbert  came  to the
+15,01podium and  reported that Sanctuary(tm) will be  delayed due to some logistical
+15,01problems.  It will return shortly.  Keep your eyes here fore more.  But the iCE
+15,01IRC server, irc.ice.org, has returned to X-Net full force this month.  Check it
+15,01out if you're looking for an elite new network.
+
+15,016.  Recently there  has been a  disturbing amount of people  who feel that they
+15,01can steal the original copyrighted  artwork from the iCE web page and use it on
+15,01their own.   We would like to help stem the tide  a bit by publicy stating that
+15,01under NO  circumstances is iCE  artwork on the  web site,  or previously on the
+15,01web site, to be used on another  web site without the expressed written consent
+15,01of iCE  and the iCE  senior staff.   All images are  Copyright (C) iCE  and the
+15,01originating artist.
+
+15,017.  Another high-quality month that you've come to expect from iCE.   While the
+15,01quantity is a  bit under the normal level,  certain  unfortunate  circumstances
+15,01beyond  our  control caught most  of our attention  this month.   The heartfelt
+15,01feelings and strength that  the group showed during  the tragedy this month was
+15,01inspiring.   And I'd also like to say  how wonderful it was to see that,  for a
+15,01little  while,  the scene was  one big family.   Maybe  that  isn't such  a dim
+15,01possibility after all.   I'd like to dedicate this pack and the rest of 1997 to
+15,01the memory of Levi Dedi.   This was  a good pack,  but there's  one person  who
+15,01never got to see it.   Please check out  http://shalom.ice.org,  and help us to
+15,01build as much into it as we can.  It's still a work in progress,  and hopefully
+15,01it always will be...  See you next month.
+
+15,01-------------------------------------------------------------------------------

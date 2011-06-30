@@ -1,0 +1,80 @@
+
+15,01     ,---------------------------------------------------------------------.
+15,01  ,--'                                                                     `--.
+15,01  |                  ACiD Productions (tm) Application Form                   |
+15,01  |      Based on the generated output by the ACiD Application Generator      |
+15,01  |                 coded by The Hit Man, Jazz and Tasmaniac.                 |
+15,01  `--.                                                                     ,--'
+15,01     `---------------------------------------------------------------------'
+
+
+15,01  ,---------------.
+15,01,-' General Info  `---------------------------------------------------------.
+15,01|                                                                           |
+15,01`---------------------------------------------------------------------------'
+
+15,01Handle             : 
+15,01Previous Handle(s) :
+15,01Abbreviation       : [XYZ] (3 Character Limit)
+15,01Real Name          : 
+15,01Voice Phone        : [   ][               ]
+15,01Cell Phone         : [   ][               ]
+15,01Data Phone         : [   ][               ]
+15,01Daytime Phone      : [   ][               ]
+15,01 A minimum of one phone number is required for voice validation.
+15,01 Please specify the preferred number and time you wish to be contacted.
+15,01Email Address Prime: 
+15,01Email Address Alt. : 
+15,01Street Address     : 
+15,01City, State        : 
+15,01Country            : 
+15,01Postal Code        : 
+15,01Date of Birth      : [YYYY/MM/DD]
+15,01Date first started
+15,01 dialing BBSes     : [YYYY/MM]
+15,01Date first started
+15,01 using the internet: [YYYY/MM]
+15,01Past Affiliations  : 
+15,01  >  
+15,01Comments           : 
+15,01  > 
+
+
+15,01  ,----------------.
+15,01,-' ASCII Artist   `-------------------------------------------------------.
+15,01|                                                                           |
+15,01`---------------------------------------------------------------------------'
+
+15,01Years Drawing ASCII       : 
+15,01Number of pieces produced : 
+15,01What size is your largest ASCII?        : 
+15,01How much time does it take to complete one ASCII?   : 
+15,01How many pieces can you produce on a monthly basis? : 
+15,01What is your favorite drawing program? : 
+15,01What is your preferred aspect ratio? (80x25, 80x50) : 
+
+15,01What are you best at (IBM PC-High ASCII, Amiga/Oldschool, Unicode, other): 
+
+
+15,01Who are your favorite ASCII Artists?:
+
+
+15,01Additional Comments:
+15,01 > 
+15,01 > 
+15,01 > 
+
+
+15,01  ,-----------------.
+15,01,-' Essay Section   `-------------------------------------------------------.
+15,01|                                                                           |
+15,01`---------------------------------------------------------------------------'
+15,01Below, explain why you feel you should be accepted to ACiD, including how
+15,01you plan to contribute if accepted.  Touch upon previous experience, give
+15,01some references, etc.
+15,01 > 
+15,01 > 
+15,01 > 
+15,01 > 
+15,01 > 
+15,01 > 

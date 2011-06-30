@@ -1,0 +1,17 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 7/1/2000
+15,01###############################################
+15,01ice-0006.nfo,ANSI,iCE 06/2000 Nfo File,iCE Senior Staff
+15,01ice-0006.sit,ANSI,iCE 06/2000 Site Listing,iCE Senior Staff
+15,01ice-0006.mem,ANSI,iCE 06/2000 Member List,iCE Senior Staff
+15,01id-glass.jpg,EXTERNAL,Glass,Ian Dale
+15,01ja-orlok.jpg,EXTERNAL,Orlok,Jae
+15,01ja-wolf.jpg,EXTERNAL,Huggable Little Wolfy,Jae
+15,01jm-cncpt.jpg,EXTERNAL,Concept Painting,Jamie McCarter
+15,01sq2-ecle.jpg,EXTERNAL,Eclectic,Squidgalator 2
+15,01sq2-tec.jpg,EXTERNAL,Tec Logo Remix,Squidgalator 2
+15,01sq2-trol.jpg,EXTERNAL,Battle Trolls,Squidgalator 2
+15,01te-66602.jpg,EXTERNAL,Evil Birdie,Tetanus
+15,01te-falln.jpg,EXTERNAL,Fallen,Tetanus
+15,01te-fireh.jpg,EXTERNAL,Firehead,Tetanus
+15,01te-grvld.jpg,EXTERNAL,Grave Land,Tetanus

@@ -1,0 +1,42 @@
+15,01        11m15          11m15     10m10,10#10,01m  #m 11m10,11#11,01m10,11#11@10,10#10,01mm15       11mm 10#m 11m10,11#11,01m10,11#11@10,10#10,01mm15            11m
+11,01    mm14,11 ##01@10,14#14,01m15     11m11,11@10,10#11,11@11,01m m10,11#11@10,10#11,11@10#15,01  10|10,10#11,11@10##14 10##11@10,10##10,01m    11|10,11#11@10,10#10,01m|10,10#11,11@10##14 10##11@10,10##10,01m15      11mm14,11 ##01@10,14#14,01m
+14,01  10m10,10#11,11@10#14 11,01"" 14"10,14#14,01"   10,11#11@10,10#10,01"10,10#11,11@10#11@10,10#10,01"11,11@10,10#11,11@10#15,01  11,11@10##14 11,01" ""10,11#11@10,10##15,01    11"11,11@10,01"  11,11@10##14 11,01" ""10,11#11@10,10##15,01   10m10,10#11,11@10#14 11,01"" 14"10,14#14,01"
+14,01 10|10,10#11,11@10#11,01"15         14,11  10#15,01   11"10,11#11,01"   11,11@10,10#11,11@10#15,01 11|10,11#14 11,01|15     10,11#11@10,10##15,01 11m10,10#10,01m    11|10,11#14 11,01|15     10,11#11@10,10##15,01 10|10,10#11,11@10#11,01"
+11,01 10,10#11,11@10#11,01m15         11|14,11# 11,01|15         11|11,11@10#14 11,01|"14,11   11,01m  m10,11#11@10,10##15,01 11|10,11#11@10,10#10,01"   11"14,11   11,01m  m10,11#11@10,10##15,01  10,10#11,11@10#11,01m
+11,01 10,10#11,11@10##11,01"#15       10,14#01,11@14#15,01           10,11#14# 11,01||14,11# #   10#11@10,10#10,01"  14,11# 10#15,01     11|14,11# #   10#11@10,10#10,01"   10,10#11,11@10##11,01"#
+11,01 10|10,10#11,11@10#11,01m15        14|10,14#01,11@14,01|15         11|14,11#01@14#15,01 10,14#01,11@14#01@15,01 11"""    |14,11#01@11,01|15     10,14#01,11@14#01@15,01 11""14,11 10#11@10#11,01m  10|10,10#11,11@10#11,01m
+11,01  10"10,10#11,11@10#14 11,01mm 14m10,14#14,01m m10,14###14,01m#15      14m10,14#01,11@10,14#14,01|"14,14 10#01,11@10,14#14,01m15     14#m10,14#01,11@10,14#14,01m   #"14,14 10#01,11@10,14#14,01m   11|10,11#14#01@11,01|  10"10,10#11,11@10#14 11,01mm 14m10,14#14,01m
+14,01    10"10,10#11,11@10#14#01@10,14#14,01"   "10,14#14,01"15         14"10,14#14,01"   "10,14#14,01"15        14"10,14#14,01"15       14"10,14#14,01"    m10,14#01,11@10,14#14,01m    10"10,10#11,11@10#14#01@10,14#14,01"
+15,01       11""15                                                     14"10,14#14,01"15        11""
+15,01                    00n   e   w   s   l   e   t   t   e   r
+14,01--------------------------------------------------------------------------------
+
+00,01#    11This month, Empire as a new VGA Coordinator. He goes by Prime  Evil.  This
+11,01  fella is sure to become a big name in the VGA scene, he's  an  EXCELLENT  VGA
+11,01  artist.  This  month,  Empire  also  acquires  European Coordinator Qube from
+11,01  Switzerland, Hooptie - the author of Dreadloc and former ACiD artist, Cisco -
+11,01  former ACiD VGA artist, Tron  Powerhouse - fun  Literary  guy,  PsychotranE -
+11,01  another fun Literary guy, and  probably  a few others I'm forgetting to name.
+11,01  If I didn't name ya, I'm sorry... but to  everyone  who  joins us this month,
+11,01  whether I remembered ya or not, welcome to Empire.
+
+00,01#    11Seems like all good things take time. ConquestNet  has  been  delayed  yet
+11,01  another month pending my problems with GEcho not fucking scanning my outmsgs.
+11,01  Someday I'll remedy this problem and get C-Net running  properly, until  then
+11,01  stop asking me... it's not up.
+
+00,01#    11Premier Magazine is progressing nicely,  however  slowly.  Art  and Coding
+11,01  services are being accepted at this time. If you can offer either, and desire
+11,01  to become a part of the magazine, simply contact me at the DMZ. The number is
+11,01  in a few places within the pack. We are NOT accepting articles at this time.
+
+00,01#    11Hopefully next month, we will have a little surprise for you. Stay tuned to
+11,01  see what exactly it is. I can guarantee you it's something special.
+
+00,01#    11This month Empire was forced to drop over half  of  it's  sites and  member
+11,01  boards. This is due to lack of couriering efforts  within the Empire Staff. If
+11,01  your board is not on the list in the  pack,  you're  not a site. If I told you
+11,01  otherwise,  make  sure  I  know  for  the  next  pack. If you're interested in
+11,01  becoming a courier, call the DMZ with your applications.
+
+00,01No Greets This Month.

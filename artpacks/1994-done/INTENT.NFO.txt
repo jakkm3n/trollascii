@@ -1,0 +1,26 @@
+15,01IntentNet is the Manifest Support Net, and has recently been scaled down to
+15,01include only Manifest related topics.  We encourage the Sysops of all Manifest
+15,01Sites and Member boards to join the net, which consists of around 6 echos, in
+15,01order to help the Seniors communicate and give assignments to the members, 
+15,01and to make it easier for users to request work from Manifest.  
+15,01   Any Manifest affiliated board will be accepted, simply edit INTENT.INT with
+15,01your favorite text editor, rename it to the first 8 letters of your board,
+15,01(ie MINDFUK.INT or EVILINTE.INT), and get it to me one of the following ways:
+15,01  
+15,01  # Post it in the IntentNet Manifest Members base on a current IntentNet Node
+15,01  # Apply to Mindfuk, 916-662-5283, and send it in feedback, or your new user
+15,01    application letter to Deranged Evil.
+15,01  # Temporarily enter 3:100/0 into your mailer, and send it as Netmail to
+15,01    Deranged Evil (3:916/0).
+15,01  # Send it to a Manifest Site or WHQ. (This may take a while longer to get to
+15,01    me, however)
+
+15,01Well, hope to get a lot of sites onto this, once I get you proccesed, I will
+15,01try to contact you, every how you asked me to in your application, and give
+15,01you your Address.  After you have that, I will send you the updated Nodelist, 
+15,01via your mailer, so make sure you have one up.  All nodes will need to poll
+15,013:916/0 nigthly.
+
+15,01                                                  -Deranged Evil
+15,01                                                   Manifest Senior Coder/
+15,01                                                   IntentNet Coordinator

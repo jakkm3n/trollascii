@@ -1,0 +1,7 @@
+
+15,01   Whats up kiddies, it's me again. I don't know whats up with me and doing
+15,01 menu sets lately. Anyway, you know the story. Don't change my name or any
+15,01 part of the ansis except the commands. Those you can change to better suit
+15,01 your BBS setup. I only did the main menus. The rest you'll have to do you
+15,01 lazy bastards. Us them wisely, they're the only Maestro menus you'll ever
+15,01 get for free.

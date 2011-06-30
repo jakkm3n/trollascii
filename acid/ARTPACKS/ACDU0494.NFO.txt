@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     March Update *      April 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0494.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0394 ANS |   9539 |03.31.94 |%+   | March Member/Board Listing     |
+15,01*|2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 129536 |03.31.94 |%    | ACiD Acquisition Viewer + 2.00 |
+15,01*|N/C|ACIDVIEW NFO |  32672 |03.31.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AE-APRLF ANS |   3515 |04.01.94 |%    | The Humdinger                  |
+15,01*|5  |AE-CH02  ANS |  11091 |03.31.94 |%+   | Channel Zer0                (2)|
+15,01*|6  |AK-ABSAR EXE |  15083 |03.30.94 |%    | Absolut Arcadia                |
+15,01*|7  |AK-SKY1  EXE |  65160 |03.27.94 |%M   | SkyNet                         |
+15,01*|8  |AN-WHAM1 ANS |  35203 |03.31.94 |%+   | Whammy Bar                     |
+15,01*|9  |BE-PI1   ANS |  18609 |04.01.94 |%+   | Programmed Illusion            |
+15,01*|10 |DR-EOT1  ANS |  22029 |03.11.94 |%+   | End of Time                    |
+15,01*|11 |DR-TIC1  ANS |  20114 |04.01.94 |%+   | The Icy Connection             |
+15,01*|12 |DV-DREAM EXE |  36839 |03.30.94 |%M   | Elusive Dream                  |
+15,01*|N/C|FILE_ID  DIZ |    496 |03.28.94 |%    | Acquisition FILE ID by {BE}    |
+15,01*|13 |IM-PG1   ANS |  44902 |03.31.94 |%+   | Power Grid                     |
+15,01*|14 |KP-CH01  ANS |  18115 |03.11.94 |%+   | Channel Zer0                   |
+15,01*|15 |KP-EA    ANS |  23778 |03.13.94 |%+   | Electric Acid                  |
+15,01*|16 |KP-ROC1  EXE | 272301 |03.29.94 |%M   | Realm of Chaos                 |
+15,01*|17 |LD-CH01  ANS |  28141 |03.26.94 |%+   | Channel Zer0                   |
+15,01*|18 |LD-COD   ANS | 154871 |03.26.94 |%+   | Castle of Darkness             |
+15,01*|19 |LD-FR2   ANS |  24423 |03.26.94 |%+   | Future Realm II                |
+15,01*|20 |LOGO0494 ZIP |  11796 |03.31.94 |%    | Logo Assortment for April      |
+15,01*|21 |MX-DSD   EXE |  79008 |03.28.94 |%A   | Distorted Magazine             |
+15,01*|22 |NEWZ0494 ANS |   8181 |04.01.94 |%+   | ACiD Newsletter Issue #3X      |
+15,01*|23 |RN-AE1   RIP |  10909 |03.27.94 |%    | Awakened Earth                 |
+15,01*|24 |RN-DSUN1 RIP |  21692 |03.27.94 |%    | Dark Sun World                 |
+15,01*|25 |RN-DU1   RIP |  14539 |03.11.94 |%    | Danger Unlimited               |
+15,01*|26 |RN-EPIC1 RIP |  11293 |03.11.94 |%    | Epic                           |
+15,01*|27 |RN-IRID1 RIP |  10089 |03.19.94 |%    | Iridium                        |
+15,01*|28 |RN-SKY2  RIP |  16041 |03.25.94 |%    | SkyNet                      (2)|
+15,01*|29 |RN-TTG1  ANS |  29875 |03.22.94 |%+   | The Thieves' Guild             |
+15,01*|30 |RN-WEB1  RIP |  18824 |03.12.94 |%    | The Web                        |
+15,01*|31 |SM-EOT1  RIP |  49312 |03.30.94 |%    | End of Time                    |
+15,01*|32 |SM-GODHD RIP |  20259 |03.28.94 |%    | Godhead Silo                   |
+15,01*|33 |SN-CH01  ANS |  46261 |04.01.94 |%+   | Channel Zer0                   |
+15,01*|34 |SO-SA1   ANS |  19295 |03.30.94 |%+   | Soul Asylum                    |
+15,01*|35 |SP-TEH1  RIP |  51554 |03.19.94 |%    | The Eleventh Hour              |
+15,01*|36 |SPOON    EXE |  32384 |03.31.94 |%    | Spoon 1.0                      |
+15,01*|N/C|SPOON    INI |     82 |03.31.94 |%    | Spoon 1.0 INItialization File  |
+15,01*|37 |SW-INSOM EXE |  73272 |03.30.94 |%    | Insomnia Magazine              |
+15,01*|38 |SW-PSY   EXE | 123126 |03.28.94 |%AM  | Psychosis Magazine             |
+15,01*|39 |T2-DI1   ANS |   5100 |03.23.94 |%    | Digital Illusions              |
+15,01*|40 |T2-DR1   ANS |  30881 |03.16.94 |%+   | Death Row                      |
+15,01*|41 |T2-EI1   ANS |  25103 |03.28.94 |%+   | Evil Intention                 |
+15,01*|42 |T2-TEH2  ANS |  26416 |03.26.94 |%+   | The Eleventh Hour              |
+15,01*|43 |TC-TEH1  ANS |  32593 |03.31.94 |%+   | The Eleventh Hour              |
+15,01*|44 |US-BV1   RIP |  15210 |03.24.94 |%    | Beyond Vision                  |

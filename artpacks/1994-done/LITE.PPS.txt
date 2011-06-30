@@ -1,0 +1,80 @@
+15,01; LightBKbdStuffe PPE  vChr(Asc(Mid(Stuff(CurItem), 2, 1))-64)
+15,01If (Left(Stuff(CurItem), 1) = "~") Then                 ; Ascii Code
+15,01;       KbdStuff        Chr(Mid(Stuff(CurItem), 2, Len(Stuff(CurItem))))
+15,01ElseIf (Left(Stuff(CurItem), 1) = "%") Then             ; File
+15,01; v1.0  KbdFile4 -------Mid(Stuff(CurItem), 2, Len(Stuff(CurItem))-1)-----------
+15,01Else
+15,01; --- FiKbdStuffase, no Stuff(CurItem)
+15,01EndIf
+15,01; v1.1  06/07/94 ---------------------------------------------------------------
+15,01End
+15,01;===============================================================================
+15,01; - Allow stuff keyboard with file
+15,01:Updateow stuff character/hotkey character to be any ascii value using '~'
+15,01SX = XPos(LastItem)
+15,01SY = YPos(LastItem)tion file selection by data file for cases where parameters
+15,01GosubimpAnsPos't be passed (in a PPE with CALL command).  Put parameter
+15,01Printn LUnHiX, Title(LastItem) DATA exactly as you would put the parameter in
+15,01SX = XPos(CurItem)line.
+15,01SY = YPos(CurItem) T and I relative positioning... not updating correctly
+15,01GosubptiAnsPosenable/disable use of numbers as directional controls
+15,01PrintptiHiX, StripAtX(Title(CurItem))f items
+15,01Returntion to execute an item directly upon hotkey keypress
+15,01;===============================================================================
+
+15,01:GetCh14,15##########################################################################
+15,01If (Len(OtherIn) = 0) Then
+15,01; DECLARIn = ""
+15,01;14,15#######15,01While (In = "") Do14,15######################################################
+15,01                In = Inkey()
+15,01String  EndWhilele, LiteExt
+15,01Elseng  In, OtherIn, Out, YoX, YoY, OptFlags
+15,01String  In = OtherIntuff(50), Disp(50), UnHiX, HiX, HotKey(50)
+15,01        OtherIn = ""
+15,01EndIf   XPos(50), YPos(50), TXPos, TYPos, SavPos(5,1)
+15,01Return  NumItems, Flag, Yo, CurItem, LastItem, PageDivisor
+15,01;===============================================================================
+15,01SByte   SX, SY
+15,01:MakeCoords
+15,01If (YoX = "C") Then14,15#############################15,01;X Coord14,15########################
+15,01        TXPos = GetX()
+15,01ElseIf (Left(YoX, 1) = "R") Then
+15,01;14,15#######15,01YoX = Mid(YoX, 2, Len(YoX))14,15#############################################
+15,01        TXPos = SavPos(Start, 0) + YoX
+15,01ElseIf (Left(YoX, 1) = "T") Thenn
+15,01        YoX = Mid(YoX, 2, Len(YoX))
+15,01        TXPos = SavPos(RelTitE, 0) + YoXD, S_DN
+15,01ElseIf (Left(YoX, 1) = "t") Then
+15,01        YoX = Mid(YoX, 2, Len(YoX))
+15,01        TXPos = SavPos(RelTitS, 0) + YoX
+15,01ElseIf (Left(YoX, 1) = "I") TheniteModule)-4,1) = ".") Then
+15,01        YoX = Mid(YoX, 2, Len(YoX))iteModule,Len(LiteModule)-4)
+15,01        TXPos = SavPos(RelIteE, 0) + YoX
+15,01ElseIf (Left(YoX, 1) = "i") Then
+15,01        YoX = Mid(YoX, 2, Len(YoX)))
+15,01EndIf   TXPos = SavPos(RelIteS, 0) + YoX
+15,01ElseExt         = ".LIT"
+15,01LiteModuIf (Left(YoX, 1) = "A") Thenle+LiteExt
+15,01Start           YoX = Mid(YoX, 2, Len(YoX))
+15,01RelTitE EndIf   = 2
+15,01RelTitS TXPos = YoX
+15,01EndIfeE         = 4
+15,01RelIteS         = 5
+15,01If (YoY = "C") Then     = GetX()                ;Y Coord
+15,01SavPos(STYPos = GetY()  = GetY()
+15,01ElseIf (Left(YoY, 1) = "R") Then
+15,01SavPos(RYoY = Mid(YoY, 2, Len(YoY))
+15,01SavPos(RTYPos = SavPos(Start, 1) + YoY
+15,01ElseIf (Left(YoY, 1) = "T") Then
+15,01SavPos(RYoY = Mid(YoY, 2, Len(YoY))
+15,01SavPos(RTYPos = SavPos(RelTitE, 1) + YoY
+15,01ElseIf (Left(YoY, 1) = "t") Then
+15,01SavPos(RYoY = Mid(YoY, 2, Len(YoY))
+15,01CurItem TYPos = SavPos(RelTitS, 1) + YoY
+15,01ElseIf (Left(YoY, 1) = "I") Then
+15,01PageDiviYoY = Mid(YoY, 2, Len(YoY))
+15,01        TYPos = SavPos(RelIteE, 1) + YoY
+15,01ElseIf (Left(YoY, 1) = "i") Then14,15################################################
+15,01        YoY = Mid(YoY, 2, Len(YoY))
+15,01; CODE  TYPos = SavPos(RelIteS, 1) + YoY
+15,01Else14,15############################################################################

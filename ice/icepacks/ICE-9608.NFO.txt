@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    A  U  G  U  S  T     1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+15,011.  The group enjoyed sun in the fun again this month, and dealt with the usual
+15,01    dreaded return to  college/school as  the month drew to a  close.   But not
+15,01    before  the team got  together at a small resort  and dressed up as aliens.
+15,01    Rumor has it that the local police station was inundated with UFO sightings
+15,01    the entire week!
+
+15,012.  The Advisory Council has had its first change of personnel! Due to personal
+15,01    reasons, Magnetic M has stepped down from the advisory council to return to
+15,01    being a full-time artist within the group.  Replacing him is Cold and Ugly,
+15,01    hailing from the  ANSI division.   Congratulations to CU,  and good luck to
+15,01    Maggie, who always did a great job with the packs!
+
+15,013.  In the ice.org department, iCE is currently working on removing some of the
+15,01    superfluous services off the network to increase bandwidth. Also, we're now
+15,01    working on mirroring the ftp site  to increase  your ability to receive the
+15,01    packs quickly and efficiently.  More on this soon!
+
+15,014.  iCE welcomes the following new members to the group this month: Wix/Penta2,
+15,01    Overbored,  and Soul Assassin.   Wix is a new addition to the VGA team, and
+15,01    has worked with last month's rookie artist Nixus.   Overbored is the latest
+15,01    addition the somewhat  understaffed Coding department,  while Soul Assassin
+15,01    joins up as an ANSI artist.  Welcome to all three!
+
+15,015.  And we bid farewell to Dieznyik,  who leaves us  this month for ACiD.  Good
+15,01    luck to him in the future.
+
+15,016.  Someone told us that we have a lot of fluff content in the NFO files, and I
+15,01    would like to take issue with that.   There is never anything  in this file
+15,01    that  isn't 100%  true and realistic.   We would  never, for example,  joke
+15,01    around.  We also include many interesting topics of world concern.
+
+15,017.  Syntax Error,  Lord Soth,  and Friar Tuck have been splitting time  between
+15,01    their usual  posts as Senior Staff,  and a covert  assignment in Antarctica
+15,01    dressing up as penguins in order  to spy upon aliens landing on that frozen
+15,01    continent.   Word from  the stalwart investigative team is that  the aliens
+15,01    are 'interesting'.
+
+15,018.  iCE has  announced a  candidate for  President of the USA.   Stating strong
+15,01    dissatisfaction with the  other choices,  iCE has nominated one of Egoteq's
+15,01    ANSI girls as the presidential  candidate from the iCE party.   No word yet
+15,01    on a running mate.
+
+15,019.  Please note that iCE is not taking applications for distribution sites now.
+15,01    Nor do we plan  on adding more  distribution sites.   As stated in the pack
+15,01    distribution site file,  if we don't specifically ask for  applications for
+15,01    a certain site, do not bother applying.   We've had a number of people send
+15,01    site applications despite the prior policy statement.
+
+15,0110. Speaking of sites,  the current iCE BBS Headquarters,  Sanctuary(tm), has a
+15,01    new number!  (954) 7922-iCE!  It  will be effective Thursday,  September 5.
+
+15,0111. A note to those interested,  this month marks  the one year  anniversary of
+15,01    the current senior staff!  One year of Force Ten, Friar Tuck, Lord Soth and
+15,01    Syntax Error.   Quite  an accomplishment  in a scene  normally riddled with
+15,01    instability.
+
+15,0112. Another stable, productive,  rad month both internally and externally.  iCE

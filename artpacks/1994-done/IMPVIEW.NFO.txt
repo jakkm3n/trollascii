@@ -1,0 +1,80 @@
+
+
+
+15,01           |14,15 15,01||14,15 15,01|   14,15  15,01 14,15  15,01""mm 14,15  15,01""mm 14,15  15,01""mm 14,15  15,01 m14,15 15,01""mm 14,15  
+15,01            14,15  15,01 14,15  15,01"m|14,15  15,01||14,15 15,01| |14,15 15,01||14,15 15,01|    |14,15 15,01| |14,15 15,01||14,15 15,01||14,15 15,01| |14,15 15,01||14,15 15,01|
+15,01            |14,15 15,01||14,15 15,01||||14,15  15,01 14,15  15,01  14,15  15,01 14,15  15,01mm   14,15  15,01  14,15  15,01 14,15  15,01 14,15  15,01  14,15  15,01 14,15  
+15,01+++---- -- - 14,15  15,01 14,15  15,01 | |14,15 15,01||14,15 15,01| |14,15 15,01||14,15 15,01|    |14,15 15,01|mm" |14,15 15,01||14,15 15,01|"|14,15 15,01||14,15 15,01| - -- ------+
+15,01++|          |14,15 15,01||14,15 15,01|   14,15  15,01 14,15  15,01""   14,15  15,01   m 14,15  15,01 "14,15 15,01m 14,15  15,01 14,15  15,01  14,15  15,01 14,15  15,01   m        |.
+15,01++|           14,15  15,01 14,15  15,01   |14,15 15,01||14,15 15,01|  Co|14,15  15,01m"" |14,15 15,01| |14,15 15,01||14,15 15,01||14,15 15,01| |14,15 15,01||14,15  15,01m""        |
+15,01|||                                                                  .|.
+15,01||.  """""""""""""""""""""""""""                                      |.
+15,01||         IMPERIAL Viewer            Coding & Design - COLUCHE      .||
+15,01.|.    Version 1.20 (June '94)    Top-Menu Logo - The Night Prowler  .||
+15,01 |   mmmmmmmmmmmmmmmmmmmmmmmmmmm   Documentation - Coluche & Zorlak  |++
+15,01.|                                                                   |++
+15,01 +-------------------------------------------------------------------+++
+
+
+15,01+-.. I n t r o d u c t i o n  !                                      +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01     Welcome in Imperial Viewer. This program can display any ANSi,
+15,01ANSiMation or ASCii file in 80x25 or 80x50 mode. And NEW: **RIP**
+15,01SUPPORT! Descriptions of every files is done with the SAUCE standard...
+15,01Hope you like this viewer!
+
+
+15,01+-.. F e a t u r e s  !                                              +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01   # Easy to use and read menu in VGA-text-mode;
+15,01   # Description of every file in the pack with sufficient
+15,01     informations: filename, title and author;
+15,01   # Adjustable speed rate to display ANSIs;
+15,01   # 2 selectable screen formats for ANSIs: text 80x25 and 80x50;
+15,01   # RIP graphics support;
+15,01   # Fully controlable menu bar;
+15,01   # Always present roll back ANSi/ASCii feature;
+15,01   # SAUCE system support (version 00);
+15,01   # Built-in SAUCE editor;
+15,01   # Simple but cool screen saver! (enabled after 3 minutes)
+
+
+15,01+-.. S u p p o r t   T y p e s                                       +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01     ANSI, ANSiMation and ASCii files can be displayed, in the 80x25
+15,01and 80x50 modes. For the graphic modes, only RIP is supported.
+
+
+15,01+-.. K e y s  !                                                      +-+
+15,01+------------------------------------------------------------------..+-+
+
+15,01    When you are in the menu, you can press:
+15,01    -------------------------------- --------------- -------- ---- -- -
+15,01             F1: This help window... (ESC to return).
+15,01             F3: Decreases the speed of the ANSIs being diplayed.
+15,01                 When the slowest speed is reached, the meter returns
+15,01                 to the fastest speed.
+15,01              +: Increase the speed of ANSi display, stop at 0.
+15,01              -: Decrease the speed of ANSi display, stop at 28.
+15,01             F4: Switch between the following screen formats:
+15,01                     # [Text 80x25 ] Forced display of 80x25 (16c);
+15,01                     # [Text 80x50 ] Forced display of 80x50 (16c);
+15,01                 [ In effect only with ANSi/ANSiMation and ASCii! ]
+15,01        Up/Down: Move the menu bar UP or DOWN one line.
+15,01      PgUp/PgDn: Move the menu bar DOWN or UP one page.
+15,01       Home/End: Move the menu bar to the top/bottom of it's limits.
+15,01    Enter/Space: Show an ANSi/ASCii file.
+15,01ESCape/ALT-Q/^X: Quit to DOS.
+
+15,01    When an ANSI or ASCii is displayed:
+15,01    -------------------------------- --------------- -------- ---- -- -
+15,01Up/Down / PgUp/PgDn / Home/End / Right/Left: Scroll the ANSI...
+15,01  Any other key: Return to the viewer menu.
+
+15,01    When an ANSiMation or RIP is displayed:
+15,01    -------------------------------- --------------- -------- ---- -- -
+15,01        Any key: Return to the viewer menu.
+

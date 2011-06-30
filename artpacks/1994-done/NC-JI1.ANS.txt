@@ -1,0 +1,80 @@
+00,01  "14,00 00#      # 00,01"    "14,00 00#      # 00,01"    "14,00 00#      # 00,01"    "14,00 00#      # 00,01"    "14,00 00#      # 00,01"
+15,01    00"14,00      00,01"15        00"14,00      00,01"15        00"14,00      00,01"06#15       00"14,00      00,01"15        00"14,00      00,01"
+15,01     06m13,06mmm06,01m15m     m     mmm      mmm    06mm15m06""15   m          mmmmmm    mm       mm
+15,01   "00,15#.15,01   |00,15|m15,01m  |00,15|15,01|  m00,15m00,00   00,15m15,01m  m00,15m00,00   00,15m15,01m   |00,15|m15,01m  |00,15|15,01|  "00,15#.15,01  m00,15m00,00      00,15m15,01m |00,15|00,00 00,15m15,01m   m00,15m00,00 00,15|15,01|
+15,01    14,06 14,13    13#15,15 00,00  00,15m15,01m00,15m|15,01  |00,15|00,00   00,15"00,00 00,15|15,01||00,15|00,00 00,15"15,01"00,15"00,00 00,15|15,01|   15,15 00,00  00,15m15,01m00,15m|15,01        00,15|00,00 00,15"15,01"00,15||15,01"00,15"00,00 00,15|15,01| "00,15"00,00  00,15m15,01m00,15m00,00  00,15"15,01"
+15,01  "14,15 00mm15,01m   15,15 00,00 00,15"00,00   14,15 15,01   14,15 14,00 00,15"15,01" "" |00,15||15,01| |00,15||15,01|   15,15 00,00 00,15"00,00   14,15 15,01  "14,15 00mm15,01m ""  00,15|14 15,01  ""    "00,15"00,00   00,15"15,01"
+15,01   |00,15|00,00 14,15 15,01   15,15 00|15,01 "00,15"00,00 14,15 15,01    "00,15#14 15,01m   |15,15 00,00 00,15m15,01m00,15m00,00 14,15 15,01|   15,15 00|15,01 "00,15"00,00 14,15 15,01   |00,15|00,00 14,15 15,01     14,15  01,06#15,01        |14,15 00"14 15,01|
+15,01    "00,15"15,01|   14,15 15,01"   "14,15 11,01   m15  "14,15  15,01m  14,15 15,01"00,15"15,01"00,15"15,01"14,15 15,01    14,15 15,01"   "14,15 15,01    "00,15"15,01|06"#   15"11m15          "11m15"
+15,01    14,11 11,01m    m11,11 11,01   14,11 11,01m  |10,11m14 11,01m10,11m11,01m15"11m| m10,11m11,01m m10,11m11,01m    m14,11 11,01   14,11 11,01m    14,11 11,01m15     06,06 14,11 10|15,01          14,11 14,10 14,11 
+11,01   |10,11||11,01|  |10,11||11,01| |10,11||11,01| |10,11|10,10    10,11m|11,01||10,11||11,01| |10,11||11,01|  |10,11||11,01| |10,11||11,01|  |10,11||11,01|    |10,11||11,01|15        11|10,11|10,10 10,11|11,01|
+11,01  m14,11 10""14 11,01m 14,11 10""14 11,01 14,11 10""14 11,01m "10,11"""""11,01" 14,11 10""14 11,01 14,11 10""14 11,01m 14,11 10""14 11,01 14,11 10""14 11,01m 14,11 10""14 11,01m  m14,11 10""14 11,01m15      11m11,11 10"""14 11,01m
+15,01         14,06 06   06,01||06,06     06,01  |06,06     06,01|15       06|13,06|13,13##06,06@@13## 06,01m    mm06,06    06,01"
+15,01       14-15.14-00 SysOp15:00 #2814 -15.14-00 Numb15 HQ14 -15.14-00 Union15 Member Board14 -15.14-00 70815-0042015-000587
+14,01  -15.14-00 Most reconfigured Renegade setup known to man14 -15.14-15 "00Truly remarkable15" -00pv
+00,01mmm15mm00mm15mm00m15m00m15m00m15mm00m15mmmm14m15mm14m15m14m15m14m15m14mm15m14mmm15m14mmmmmm15m14mmm15m14mm15m14m15m14m15m14m15mm14m15mmmm00m15mm00m15m00m15m00m15mm00mm15mm00mmm
+14,00 14,01 AAAAAAAAA00 ANSI ENDS UP THERE!15 -------00 USELESS GREETS BEGIN HERE!14 vvvvvvvvvvv00 14,00 
+14,00 00,01""15""00""15""00"15"00"15"00"15""00"15""""14"15""14"15"14"15"14"15"14""15"14"""15"14""""""15"14"""15"14""15"14"15"14"15"14"15""14"15""""00"15""00"15"00"15"00"15""00""15""00""14,00 
+00,15"15,01 Oh well, I managed to refrain from cluttering up most of my ansis this month00 00,15"
+00,15m15,01 with the usual useless greets and bullshit (no hidden text even!), so I dec-00 00,15m
+00,15m15,01 ided to go all out here. For all reviewing purposes, or using this ansi as a00 00,15m
+00,15 15,01 bbs ad, please remove or ignore all this greet shit. Sorry #28 (use pvs acc) 15,15 
+14,00 15,01      04""15     06|06,06 06,01|15       14,06 06  06,01|15                               04""15                  14,00 
+14,00 00,01""15""00""15""00"15"00"15"00"15""00"15""""14"15""14"15"14"15"14"15"14""15"14"""15"14""""""15"14"""15"14""15"14"15"14"15"14"15""14"15""""00"15""00"15"00"15"00"15""00""15""00""14,00 
+00,15"14,01 Greets to the locals:00 Hound14-15You ever gonna go to a rave?14 /00 Future Assassin14-15M00 00,15"
+00,15m00,01 Nailz14-15Can I be Mr. Sinister's best friend too?14 /00  Stone Angel14-15koffBlur#3koff00 00,15m
+00,15"00,01 Immortal Shadow14-15Time to code fool14 /00 Polarized Infusion14-15Vacation is no excuse00 00,15"
+00,15"00,01 Terminal Entry14-15Didn't see you there14 /00 Armored Saint14-1524 hours, as if00 BioCide14-00 00,15"
+00,15"15,01 Hi James14 /00 Splint14-15Keep working, you're getting there14 /00 Henchman14-15UHN!14 /00 Blood 00,15"
+00,15m00,01 Lust  & Evil One14-15I love you(s)14 /00 The Judge14-15It just won't shut up14  /00  Satanic 00,15m
+00,15 00,01 Goldfish14-15Haven't talked to  you since that gig14  /00  Night  Hawk14-15People  don't 15,15 
+15,15 15,01 believe you when you use me as a ref?14 /00 PennyWise14-15You ever home14 /00 AcidFlash14- 14,15 
+14,15 15,01    Thanks for the nick AFro14 /15 Why is my entire area code on irc! WHAAAAH!    15,15 
+15,15 14,01 Greets to the other fools:00 Jello14-15Thanks for the compliments14 /00  Syntax Error14- 14,15 
+14,15"15,01 Thanks for the compliments14 /00 Pnakotik14-15I like  that skull too14  /00  Flood14-15Great14 14,15"
+14,15m15,01 names think alike14 /00  Lord Pegasus14-15We almost had him14 /00 Mr. Sinister14-15Argh! Not14 14,15m
+14,15m15,01 another Union article!14 /00 Phazer-X14-15Argh! Not another Union article14 /00 Shinobi14- 14,15m
+14,15m15,01 I  like your  stuff14  /00 Sludge14-15Um,  don't make a voc out  of those  answering14 14,15m
+14,15m15,01 machine tapes14 /00  Desolate Death14-15BotBotBotBotBot14 /00  Abomination14-15*I* thought I14 14,15m
+14,15"15,01 was being fair14 /00 Mass Delusions14-15Mistah Dawson is in tha houz14 /00 StarDust14-15Will14 14,15"
+14,14 15,01 you be my 1-800-ICE-SUCK14 /00 TafkaSK14-15Hound is mine14 /00 Basshead14-15Greet me in that14 14,14 
+14,15"15,01 game14 /00 Lord Scarlet14-15Take my advice14 /00 Wintah Rose14-15Hmmm.. interesting tattoos,14 14,15"
+14,14 15,01 big family14 /00 Corwin14-15Ten Four14 /00 Lord Sloth14-15wEED aT fLOYD14 /00 Marshmellow Moron14- 14,14 
+14,14 15,01 bYE bYE  dUMB aSS14  /00  Shaggy14-15Those weren't Froggy's hands!14  /00 RaD Man14-15It's a14 14,14 
+14,14 15,01 virus  to take down all the  computers in the world, I just know it14 /00  Kool14- 14,14 
+14,14 15,01 Please don't  shoot me14  /00 Sole Assassin14-15Blanks  don't hurt.. really14  /00  Lord14 14,14 
+14,14 00,01 Jazz14-15Cool, someone else in  the world plays Stronghold14  /00  Napalm14-15Get on irc14 14,14 
+14,14 15,01 fool14 /00 K-Spiff14-15Don't ask me why, we  just don't do ascii14 /00 Maestro14-15ProcLame?14 14,14 
+14,14 00,01 Aphex Twin14-15I agree14 /00 Deeply Disturbed14-15Need any more Fibre slogans?14  /00 Shadow14 14,14 
+14,14 00,01 Hawk14-15Black looks good on you14 /00 Night Crawler14-15You too,  Danger Base ]i[, it's14 14,14 
+14,14 15,01 3l33t314 /00 Leviathan14-15Renaissance?,  but we're much better14 /00 Peak Velocity14-15wERD14 14,14 
+14,15m15,01 dAVE14  /00  Morbid Angel14-15Keep drawing14  /00  Psycho Fiend14-15Get a modem!14  /00  Tinyz14-15I14 14,15m
+14,14 15,01 agree,  racism sucks14 /00 Prime Evil14-15Those moronic  at&t operators,  can't even14 14,14 
+14,15m15,01 give me control of the conference14 /00 Taz14-15Wanna be a senior? Send me your wife14 14,15m
+14,15"00,01 Satan's Jester14-15I  think you  were the  only  one  who  liked  NC-TE1.ANS  :)14 14,15"
+14,15"00,01 Fizban14-15Joe is beside you in the hotel room? HmmmmmMMMMMMM...14 /00 Pinion14-15Siphon14 14,15"
+14,15"15,01 made me orgasm, love that new techno14 /00 Somms14-15Ummm, hi14 /00 Eclipse14-15Whatsup with14 14,15"
+14,15"15,01 Cancer14 /00 Reefer14-15RM?14  /00 Bishop14-15Remember to put N. A. M.  in the site listings14 14,15"
+14,15m00,01 Einstien14-15Having fun being in three groups14  /00  Village Idiot14-15I really have to14 14,15m
+14,15 15,01 call you14 /00 Flourescent  Darkness14-15I really have to call you14  /00 Hros14 -15 Um, you 15,15 
+15,15 15,01 too14 /00  Guy rapping on my answering machine14-15Was that you Marq14 /00  Guy with the 00,15 
+00,15 00,01 wierd  accent  on my  answering  machine14-15I'm  not quite  as pathetic  as you 15,15 
+15,15 00,01 Dark  Deception14-15Cool way of  submitting  work14  /00 Quran14-15Sure  you have a girl 15,15 
+00,15"15,01 friend, darling :)14  /00 Valgamon14-15What's  this about  a vmb and me?14 /00 You14-15Still00 00,15"
+00,15m15,01 reading,  what?  You thought  I'd mention  _YOUR_ name?  As if!14  /00 SubZeroX14-00 00,15m
+00,15m15,01 I  stopped playing  when it  went  down14  /00 Trouble-N-Lace14-15Long time  no talk00 00,15m
+00,15m00,01 God Speed14-15They can't  correctly  transfer control to you either14 /00 Me14-15I can't00 00,15m
+00,15m15,01 believe I'm working  for  the cops now...  if only they knew who they put in00 00,15m
+00,15"15,01 control of keeping "hackers" out14  /00  The  Guardian14 -15 ME!? Rag on YOU! NEVER!00 00,15"
+00,15m14,01 #15-00. Khyron14-15You ducked on PURPOSE, MAUVE-BOY!  Now I'm gonna do you SLOW!00 .15-14#00 00,15m
+14,00 00,01mm15mm00mm15mm00m15m00m15m00m15mm00m15mmmm14m15mm14m15m14m15m14m15m14mm15m14mmm15m14mmmmmm15m14mmm15m14mm15m14m15m14m15m14m15mm14m15mmmm00m15mm00m15m00m15m00m15mm00mm15mm00mm14,00 
+15,01     02mm14,02             02,01"03 m03,03 09#03,01||03,03   09,01 14,09    09,03"# 03,01""""08 14,08 08,01"  01,15""          14mm00,14                   
+15,01>SAUCE00Jello Insanity                     Neurotic            Union            
+15,01   19940801Ee  @@P v                             01,15  14mm00,14                           
+14,02  02,01  01,02m          02,01"09  14,09    09,03m09,09 03,01 "   03,03       03,01" 01,15""       14mm00,14                               
+14,02   02,01m  01,02m     02,01""09   14,09      09,01|15     09,03     03,01" 01,15"       14m00,14                        14,01""14,14         
+14,02    02,01m   ""  mm14,02 09,01 |14,09      09,01|03    |03,03  03,01"  01,15"      14mm00,14                         14,01mm14,14          
+14,02      02,01m mm14,02    02,01|09 14,09       15,01     03|" 01,15"       14m00,14                                        
+14,02      01.       09,01  14,09      09,03|15,01      01,15"       14m00,14                                          
+14,02  02,01"" m14,02        09,01  |14,09     09,03 03,01|   01,15"      14m00,14                                             
+02,01"  m14,02          02,01|09  14,09    09,03 03,01" 01,15"       14m00,14                                               

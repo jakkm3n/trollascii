@@ -1,0 +1,74 @@
+14,01The ---------------------------------------------------------------------------
+14,01 00A  00,00#00,01m    00,00###00,01" 00,00######15,01 00,00###00,01" "00,00###00,01|00,00#######00,01|00,00##00,01"  |00,00#####00,01|00,00#####00,01|00,00#####00,01|00,00#####00,01|00,00#####00,01m
+00,01 C  15,15@@@00,01m  15,15@@@15,01  15,15@@@15,01    15,15@@@15,01   15,15@@@15,01 00"15,15@@00,01m   |15,15@@15,01   00|15,15@@15,01     15,15@@15,01    00|15,15@15,01| 00|15,15@@15,01    mm  00"15,15@@15,01m
+15,01 00i  00,15###15,01"00,15#15,01m00,15###15,01  00,15###15,01"   00,15###15,01 00,15#15,01 00,15###15,01   "00,15##15,01m |00,15##15,01   |00,15##15,01"    00,15##15,01    |00,15#15,01| |00,15##15,01"   00,15##15,01 m14,15  15,01"
+15,01 00D 15m14,15   15,01  "14,15   15,01 m14,15      15,01|14,15   15,01m"m14,15   15,01|14,15       15,01|14,15     15,01|14,15     15,01| 14,15  15,01    |14,15 15,01| |14,15     15,01|14,15  15,01  "14,15  15,01m
+14,01-------------------------------------------------------------------------------
+15,01Issue #3X     An Official ACiD Productions14(tm) 15Public Update         April 1994
+14,01-------------------------------------------------------------------------------
+14,01 14,15 15,01m |14,15 15,01" 14,15 15,01  |   |14,15 15,01" ""14,15 15,01"|"14,15 15,01|14,15 15,01"|14,15 15,01" 14,15 15,01" |"m |14,15 15,01"
+15,01 14,15 15,01 14,15 15,01|14,15  15,01m|"m|   m14,15  15,01   14,15 15,01 |"||| 14,15 15,01   14,15  15,01m|"m m14,15  15,01       14+----- mm14,14 14,01mm -m14,14 14,01mm -------+
+14,01 " " """  "    """   " " """ "  """ """ """15       14|14,00   00,01"14m14,14  14,01"00mm14"14,14  14,01""00m14"14,14 14,01m00"14,00     14,01|
+15,01     ACiD Productions is proud to welcome two    m 14,00  00,01m14"14,14  14,01 14,00  00,01"|14,14 14,01 14,00 00,01"14,00  00,01 14,14 14,01 14,00     14,01|
+15,01old members back into the scene and into ACiD   14,15 14,01|15|14,00   00,01"14m14,14  14,01m00""14m14,14  14,01m00""14m14,14  14,01 15m00"14,00   14,01|
+15,01Productions... Black Spyrit and Slum Dweller     14,15 15,01 14,00   00,01 14,14  14,01"15m14"14,14       14,01""15m"|14,00    14,01|
+15,01(known to most of his friends as Slum-Dweee-  m14m"14,15 15,01 00"" 14,14 14,01"15m14,15   15,01mmmmmmm14,15  15,01"14,15 15,01 00""14,00  14,01|
+15,01ller).  Black Spyrit,  as most of you know,   14,15 14,01m"14,15 15,01""" m14,15  15,01mm""""""""14,15 15,01m14,15 15,01|14|15""m00|14|
+15,01used to be a loyal ACiD Senior Staffer back    "" 14|14,00  14,01|m15"""14,15         15,01""14mm14,14 00,01| 14|00|14|
+15,01in November of '93.  He will now join with RaD    14|14,00  00,01 14,14    14,01mmmmmmmmm14,14    14,01 14,00 00,01 14|00|14|
+15,01Man in making ACiD one of the greatest groups in  14|14,00   00,01m14"""14,14           14,01"00m14,00  00,01 14|15|
+15,011994 - together, they will coexist in a product-  14|14,00    00,01""   15m   14""""00m14,00   00,01m15"14,15   15,01"
+15,01ive symbiotic relationship (much like the rhino-  14|00""14m15mm14,15  15,01mm| 00|15"|14,00        00,01m15"00m
+15,01cerous and the bird; the bird eating the harmful   14""14,14 14,01""""""""00m 14,15 15,01 00""14,00        14,01|
+15,01parasites off of the rhino's nostrils while he    14|14,00  00,01m14,00          14,01|14,15   15,01m00"14,00      14,01|
+15,01provides a comfortable habitat for the tiny bird. 14+------------- "m14,15  15,01|14------+
+15,01Slum Dweller, also an ACiD artist from the days   14Slum Dweller, in " his usual
+15,01of Yore, returns to us with some great ANSi work. 14potato form, gives the Scene
+15,01He will also be teaching the ACiD Canadian Coord- 14a royal thumbs-up!
+15,01inator how to speak basic French, the official language of the ACiD Canadian
+15,01Division.  In the words of SD, "Bon Appetit, ma petite pomme de terre." 14-PJVSEX
+15,01        m
+15,01+---- m" "m  mm"m -------+
+15,01|14,15    15,01m 00mm  15|| 00mm 15" 14,15      15,01|  14mmmm15        14mm  15|"14,15 15,01 14,15 15,01" " 14,15 15,01"14,15 15,01   14,15 15,01    " |"14,15 15,01"| ""m |14,15 15,01|
+15,01|14,15   15,01"00m14,00  00,15"14,00 00,01m m14,00  00,15"00,00 00,01m15"14,15      15,01| 14,14   14,01""""mmm"""  " 15|"||14,15 15,01m|14,15 15,01 14,15 15,01m|   14,15 15,01mm||14,15 15,01   14,15 15,01    "   "
+15,01|14,15   15,01 14,00    00,15m14,00 00,01 14,00    00,15 14,00 00,01 14,15      15,01|  14"15               14" """" " """    "" " "" ""   15"   "
+15,01|14,15   15,01 14,00   00,01"14,00  00,01 14,00 00,01"14,00    00,01 14,15      15,01|       As part of our OFFICIAL announcements in this
+15,01 14mmmm 00"14,00  00,01"15m14m15m00"14,00   00,01" 14mmmm15"14,15 15,01|  newsletter, we'd like to introduce a new division:
+14,14       14,01m 15"14,15  14,01"15"14mmm14,14    14,01"14,14  14,01 15|  ACiD literature.  Because  of  the  growing demand
+14,01"14,14     14,01""""mmm"""14,14    14,01 14,14  14,01 14,15 15,01|  for an alternate medium  of art,  ACiD Productions
+15,01|14,14    14,01m15        14,14     14,01"m14,14 14,01 14,15  15,01|  has decided to widen its  horizons to the field of
+15,01|m 14,14     14,01mm mm14,14    14,01"14,14  14,01"15m14,15   15,01|  the written word.  Cetis,  a known poet to many of
+15,01|14,15  15,01mm14""14,14          14,01"15mm14,15     15,01|  you for quite a while now, has agreed to head this
+15,01+------------------------+  new division and aid in  the recruitment of liter-
+14,01Cetis, having trouble smi-  15ature talent.  If any of  you  would like to apply
+14,01ling because  of his extra  15for ACiD Literature  Div.,  please  call  The Dark
+14,01large retainer, is enthus-  15Society, and leave  mail  to  Cetis.  To  kick off
+14,01iastic    about    writing  15this month in lit,  we  leave  you with this Haiku
+14,01poetry.15                     (out of correct form):
+
+15,01     "Sheeettasss, you shweeet ass, you're assh shweet assh shashafrassh."
+
+15,01             14,15 
+14,01+-----------15|00,00 00,15m15,01m 14--+
+14,01|15           14,15 00,00   14,15 15,01  14|   15|14,15 15,01"|"14,15 15,01 14,15 15,01"14,15 15,01    14,15 15,01"  |"14,15 15,01|"14,15 15,01 14,15 15,01"14,15 15,01 |01,15#14 15,01 14,15 15,01 14,15 15,01 14,15 15,01"  |14,15 15,01"
+14,01|15          |00,15|00,00    14,15 15,01 14|   15m14,15  15,01|"| 14,15 15,01m|    14,15 15,01m" 14,15 15,01m|14,15 15,01m| 14,15 15,01m| |15,15 01#15,01| "| 14,15  15,01m m14,15  15,01 m m m
+14,01|15          14,15 15 14 00,00   14,15 15,01 14|   """" " """   """ """ ""  """ """  "" """ """ " " ""
+14,01|15         |14,15 00,00 00,15m14 00,00 14,15 15,01  14|15       Due to  some  "senior incompetance,"  a  few of our
+14,01|15         14,15   00"14 15,01"   14|  15most loyal  members have  left  ACiD.  Sharp, Alter Ego,
+14,01|15        |14,15   15,01"     14|  15Corwin of Amber,  and,  yes,  Egghead,  have  left their
+14,01|   15mm14,15 15,01"" 14,15 15,01"       14|  15ranks in ACiD.  Dark Society  will  still  be  up  for a
+14,01|  14,15  15,01"00m14,00  15,01| 14,00 00,01m15"m    14|  15period of up to  1  month  until  ACiD  can find another
+14,01| 14,15   15,01 14,00  00,01"|"14,00  00,01|14,15  15,01   14|  15suitable Western Agora.  Alter Ego,  one  of ACiD's best
+14,01|  15""14,15 15,01m00""15m00""15mm"    14|  15artists, is  thinking  about  joining  Empire along with
+14,01|    m 15""14,15  15,01" 14m|    |  15Corwin, who  seeks  to  be  Empire American Coordinator.
+14,01|   """"14,14 14,01 m"""""   |  15Egghead leaves to co-support FederationNet and to wallow
+14,01|   m14,14    14,01|14,14     14,01m   |  15in his puddle of laziness.
+14,01+------------------+
+14,01Sharp throws a piercing glance at the camera while trying to evade RaD Man and
+14,01certain death.
+14,01-------------------------------------------------------------------------------
+15,01Newsletter Credits: 14Thanks to BS, SD, AE, and VS.  Oh, and BTW, April fools...
+14,01-------------------------------------------------------------------------------
+15,01                         14... don't forget, ACiD RULES.
+15,01>SAUCE00ACiD Newsletter Issue #3X (04/94)                      ACiD Productions 
+15,01   19940331tv  @@P H >                           

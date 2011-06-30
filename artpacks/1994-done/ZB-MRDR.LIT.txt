@@ -1,0 +1,23 @@
+15,01                                00Murder?
+
+15,01      00Murder
+15,01      00Cold Blooded murder
+15,01      00Killing spree at the mall
+15,01      007 dead, 4 wounded
+15,01      00The murderer
+15,01      00I say give him death
+15,01      00Eye for an eye
+15,01      00Tooth for a tooth15                          00Murder
+15,01                                                 00Cold blooded murder
+15,01                                     14,04 04,01m15          00Mom, whats for dinner?
+15,01                                   04m14,04   04,01m15         00Steak, hamburger, chicken
+15,01                                  14,04  13,01##15 04"15         00Want to go hunting?
+15,01                                   04@@14,13#14,04 04,01m15         00Is this not murder?
+15,01                                    04"14,13# 14,04 15,01         00Gluttinous pig
+15,01                                      14,04   15,01        00Ignorant redneck
+15,01                                       14,04 04,01 m15       00I despise you
+15,01                                      04m
+15,01                                         04"15       00Eye for an eye
+15,01                                                 00Tooth for a tooth
+
+15,01                          04Zen13ith 00Bli13tzkr04ieg

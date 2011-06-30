@@ -1,0 +1,75 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     March Update *      April 1st, 1997 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file(s) ACID-56?.ZIP are only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-56   NFO|   5304 |04.01.97 |%+   |Acquisition Information File    |
+15,01*|2  |ACID-56   XB |  14515 |04.01.97 |%+   |April Member/Site Listing       |
+15,01*|3  |ACIDAPP   EXE|  45307 |04.01.97 |%    |ACiD Application Generator V2.1 |
+15,01*|4  |ACIDVIEW  DAT| 125438 |04.01.97 |%    |ACiD View BGI/RIP font data     |
+15,01*|5  |ACIDVIEW  EXE| 122111 |04.01.97 |%    |ACiD View V4.32                 |
+15,01*|6  |ACIDVIEW  NFO|  52511 |04.01.97 |%+   |ACiD View Documentation         |
+15,01*|7  |FILE_ID   DIZ|    601 |04.05.97 |%    |Acquisition FILE ID by {33}     |
+15,01*|8  |NEWS-56   ANS|  52315 |04.01.97 |%+   |ACiD Newsletter Issue #15       |
+15,01*|9  |GS-ACID   ANS|  25539 |04.01.97 |%+   |Ghengis' Final ANSI             |
+15,01*|10 |KT-ABRAX  ANS|  28376 |04.01.97 |%+   |Abraxas                         |
+15,01*|11 |MD-SKULL  ANS|  42241 |04.01.97 |%+   |Mixing Atoms With Angles        |
+15,01*|12 |US-R666   ANS|  51823 |04.01.97 |%+   |Route 666                       |
+15,01*|13 |W7-R666   ANS|  43380 |04.01.97 |%+   |Route 666                       |
+15,01*|14 |MW-TEMPT  EXE|   8534 |04.01.97 |%    |Temptation Intro                |
+15,01*|15 |MI-ARTPX  GIF|  55793 |04.01.97 |%    |The ACiD Artpacks Archive       |
+15,01*|16 |B1-EVOL   JPG|  55082 |04.01.97 |%    |Evol                            |
+15,01*|17 |CS-ACID6  JPG|  53731 |04.01.97 |%    |ACiD Advo                       |
+15,01*|18 |CS-SHATR  JPG|  82508 |04.01.97 |%    |Shatter Zone                    |
+15,01*|19 |EG-LAKE   JPG|  69101 |04.01.97 |%    |The Lake                        |
+15,01*|20 |ML-DFRNT  JPG|  84381 |04.01.97 |%    |Digitalfront Design             |
+15,01*|21 |TH-ACID3  JPG|  99932 |04.01.97 |%    |ACiD Advo                       |
+15,01*|22 |TH-BOOK   JPG|  98321 |04.01.97 |%    |Colouring Book #1               |
+15,01*|23 |TH-FISH2  JPG|  62207 |04.01.97 |%    |Fish                            |
+15,01*|24 |TH-LOVE   JPG|  54581 |04.01.97 |%    |True Love                       |
+15,01*|25 |WC-HOR    JPG| 159658 |04.01.97 |%    |Into The Vortex                 |
+15,01*|26 |WE-WILL   SUE|   1531 |04.01.97 |%+   |ACiD Legal Disclaimer           |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net): 26       Total Bytes: 1,494,820                 |
+15,01|                                      Average Of Bytes/File: 55,364          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

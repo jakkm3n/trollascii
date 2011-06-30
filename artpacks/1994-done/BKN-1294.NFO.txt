@@ -1,0 +1,80 @@
+15,01        14mmmm15                                                                 # 
+15,01     03m"14|14,14 #14,01""14,14 14,01# #   03m09,14# 14 #14,01m15     03m09,14# 14#01,01@14m15      03m09,14# 14 #14,01m15      03m09,14#  01,01@14m15      03m09,14# 14 #14,01m # 08#m14,03#08,01"
+08,01    03||  14"    14,14#14,01|  03m03,03 14#01@09,14# 14,01" "m 03m03,03 14#01@09,14# 14,01" "03m  m03,03 14#01@09,14# 14,01" m   03m03,03 14#01@09,14# 14,01"#"03m  m03,03 14#01@09,14# 14,01"08m14"m08"14,08#08,01"09@15 
+03,01    14,03#15,01  14#   m14,14 14,01"   03|09,03# 14#01@14,01|#   15#03|09,03# 14#01@03,01| 14# 03|| |09,03# 14#01@14,01|m"01@14   03|09,03# 14#01@03,01|   ||01@03|09,03# 14#01@08,01@|14,08 08,01|14||  03#15 
+03,01   |03,03 03,01| 01@14  # "14,14 14,01m # 03,03@09# 14#01@01,01@14 14,08# 08,01m 03,03@09# 14#01@15,01 08m03# 14,03 03,01  03,03@09# 14#01@14,01"09,14#14,01#    03,03@09# 14#01@03,01mmm" 14,08 08,01 03,03@09# 14#01@15,01 14#  09,14#
+14,01   03,03@09# 14#03,01mm    14|14,14 14,01|01@09|09,09#03,03@09# 14#03,01|08""#"09|09,09#03,03@09# 14#03,01|08|14,03#03,01||09@|09,09#03,03@09# 14#03,01| "m  09|09,09#03,03@09# 14#03,01|08mm03|| 09|09,09#03,03@09# 14#03,01|01@14  01,03@
+14,01  09|09,09#03,03@09# 14#01@09,14# 14,01m|14,14#14,01" 09m14,09 09 #03,03@09# 14#15,01   09m14,09 09 #03,03@09# 14#03,01mm" 09m14,09 09 #03,03@09# 14#14,01#08|14,03 03,01 09m09,09  #03,03@09# 14#03,01mm" 09m14,09 09 #03,03@09# 14#15,01  03||
+14,08 08,01 09,09  #03,01"""15         08mmm15              03mmmmmm15        08#m14,08 08,01m 15# 08mm 15gh!
+15,01 09|"08mmm#mm15#03#   08mm14,08#08,01" 03mmmmm15         03|14,03  03,01|14,03  #03,01|15         08""14,08#14,03#09,01@08"03#
+03,01  08""14,03#14,08 #14,15#08,01"14,03#09,01@08mm14,08  09,01@03"14,03   03,01m"14,03 #  03,01m15      14,03  09#14 03,01|14,03   15,01            03"14,03  09,01@03m
+15,01       03mm14,03 03,01mm08" #03# |14,03    03,01|14,03  09#03@09,01|15     03|09,03#03@03,01|14,03  #09,01@15             03m14,03 03,01m"14,03 03,01m
+15,01     03m14,03  03,01|14,03   09,01@15     03"14,03 #  03,01|09,03#03@09,09#09,01"15      09"09,09#03,03@03,01|14,03 03,01"#15            03|14,03   03,01|14,03 #03,01|
+03,01    #14,03 # 03,01|14,03    15,01      03#09@03""""15           03"03,03 03,01"15              03#14,03#   03,01|03,03 14 
+03,01    14,03#03  03,01|14,03   #09,01@15         09broken productions15              09@03"14,03  03,01|09,03#03,01|
+03,01    |14,03  03,01|09,03#14 03,01" #15           03december 1994 (pack 3)15        03#  ""03,03@09,09#09,01m
+15,01     03"14,03 03,01|03,03@03,01|15                100% recycled informational thinge
+15,01       03"09,09#09,01m
+
+09,01  15Welcome to broken's third pack!  <"yay, there was much rejoicing...">
+15,01  Lotsa group news this month.. here's a breakdown:
+
+15,01    09103] 15Merged with a local group called Chalk.  We welcome Fenric, Blazing
+15,01       Shadow, Cypher Creed, Splat, Cable, and Insanity Man from the Chalk
+15,01       crew.  They're all very talented artists, and certainly have helped
+15,01       fill the VGA department, strengthen the newly formed ascii dept.,
+15,01       and help create a RIP department.  Former Chalk headquarters and
+15,01       distribution sites have been made distribution sites for broken, as
+15,01       to not abandon them.
+
+15,01    09203] 15Fenric has a new position to keep him busy with: Senior Staff. :)
+15,01       As former president of Chalk, and great ansi artist, we thought it
+15,01       was appropriate... maybe he can release a pack on time for us. <g>
+
+15,01    09303] 15Mr. Data (a coder for Eden) has joined us, and we look forward to
+15,01       some fine coding from him.  Another talented new member of the
+15,01       broken team is a fontist from Shiver, Mephitopeles.  Finally,
+15,01       Doctor Chug completes our new ascii department with his smoothe
+15,01       askey stile.
+
+15,01    09403] 15I'd like to welcome 3 new couriers: Wolf Lord (from Canada),
+15,01       Aggressor (from New Jersey), and Slayer (from Austrailia).
+15,01       Obviously our couriering this month will be much swifter. :)
+
+15,01    09503] 15With the addition of 13 new sites this month (8 or so resulting
+15,01       from the Chalk merger), Broken will -NOT- be accepting any more
+15,01       United States sites, unless of course you were one of the ones
+15,01       that has slipped my mind :)..
+
+15,01    09603] 15Well, obviously we have lost alot of internet/ftp ansi support.
+15,01       Since deadbaby went down, hornet dosn't seem to want to support
+15,01       ansi groups anymore, and ftp.luth.se is just a mirror of hornet,
+15,01       there are no real official ftp sites left that you can find the
+15,01       broken packs on.  However, the pack may be acquired via DCC on
+15,01       IRC from various broken members, which can sometimes be found in
+15,01       the channel #broken.  The packs can also be [unofficially] found
+15,01       on Starport (FC WHQ) at "mpoli.fi" via Telnet, and multiple dial
+15,01       in lines.
+
+15,01    09703] 15Finally, i'd like to apologize for releasing the pack 2 days late,
+15,01       but i choose to wait for nebula to finish the broken application
+15,01       generator v1.0 (not associated with dreldragon's appgen1).. i must
+15,01       thank him for putting up with me <again>, but it came out kickass. :)
+
+15,01    09803] 15Oh yeah, just one more thing, the greets can be found in the file
+15,01       BKN-1294.GRT... since otherwise it would just clutter up this info
+15,01       even more.  I hate to rip other group's original ideas, but it really
+15,01       was nessicary. :)
+15,01      14#15                                                                14#
+15,01      01@15                 14m15          00grey hawk 15(broken senior)           01@
+14,01 mmmmm14,14#14,01mmmmmmmmmmmmmmmmm14,14#14,01mmmmmmmmm 15torphy1098@call.tesc.edu 14mmmmmmmmmmm14,14#14,01mmmmm
+14,01 "01@14"""""""""""""""""""""01@14""""""""""""""""""""""""""""""""""""""01@14"""""""""""""
+14,01  #15                     14#15                                      14#
+
+
+14,01  15What up niggaz, this is Fenric.  I just thought I'd throw in a little note
+15,01  for the infofile this in this month's Broken Pack.  I can't tell you how
+15,01  relieved I am that I had Chalk (my former group) merge with Broken.  We
+15,01  were getting nowhere in Chalk, but we had some talent, and it was just
+15,01  going to waste.  All the artists from Chalk were brought into Broken with
+15,01  the exception of New School, and thats it.  All of our coders and couriers

@@ -1,0 +1,57 @@
+15,01                    "#                                                         
+15,01                      mmm               mmm"#        mmm                       
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "                      
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 15,01                         
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 15,01                         
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m                       
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" -------------------------- 
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO 
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m --------------------- 
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||                      
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"                   
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt                  
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "                         
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@15                            
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "                         
+15,01                           00@15  # "|  #     00@15    "     #                         
+15,01                           14,15#15,01   |m         14,15#15,01       #                            
+15,01                                 00@15         |         .                         
+15,01                                  .       #    .                               
+15,01-------------------------------------------------------------------------------
+15,01               D  E  C  E  M  B  E  R         2   0   0   0                    
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,011. We cut out the middleman to pass the  savings on to you!   We hope you enjoy
+15,01   the pack this month.   This pack is  Cardware!   Please  send a postcard to:
+15,01                                                                               
+15,01   Sinned's Mom                                                                
+15,01   Oval Office (under the desk)                                                
+15,01   Washington, DC                                                              
+15,01                                                                               
+15,012. If religion offends you, please skip to #4.                                 
+15,01                                                                               
+15,013. Did you ever wonder if you can  sell your soul to the devil just by jokingly
+15,01   thinking  to yourself,  "I'd  sell my  soul for  some beer"?   What  kind of
+15,01   confirmation letter do you get from satan?  Are you going to do eternity for
+15,01   a 6-pack of Pabst?                                                          
+15,01                                                                               
+15,014. tiles.ice.org  seems to be  a big hit, after only one month of life.  Expect
+15,01   some  major upgrades to  the site in the  next few weeks!   Then Moses won't
+15,01   just  upload pre-drawn tiles anymore,  even though we  already took  off the
+15,01   "5 Fastest Contributors" chart!   If you haven't been  to tiles.ice.org yet,
+15,01   drop on  by to  the place  where everybody  knows your name.   Well,  that's
+15,01   mostly because we post your name right on the side, but even still, it's the
+15,01   thought that counts.                                                        
+15,01                                                                               
+15,015. We hope you had fun holidays, and that your family didn't beat each other up
+15,01   over a trivial argument.   But even if that did  happen,  don't worry.  It's
+15,01   January and you have a brand new year to screw up.  Cheers!                 
+15,01                                                                               
+15,01                                                                               
+15,01                                                - Slothy and Mass Delusion     
+15,01                                                                               
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion                   
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,01>

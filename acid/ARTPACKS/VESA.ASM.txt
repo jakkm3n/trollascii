@@ -1,0 +1,80 @@
+15,01.model large
+15,01.stack 256            ; allocate 256 bytes for the stack
+15,01.286                  ; must use cuz insb and outsb is 286 or higher code
+15,01dosseg
+
+15,01picture segment byte public 'FARDATA'
+15,01include vesa.inc
+15,01picture ends
+
+15,01.data                 ; start of the data segment
+15,01.code                 ; start of code segment
+15,01sorry  DB 'Sorry, but this demo requires a VESA Super VGA Card!',13,'$' ;message
+15,01 for non VGA lamers
+15,01vesabuf DB 262 dup (0)    ; must have 262 byte buffer for vesa info
+15,01fadepalette DB 768 dup (0)
+15,01text DB  ' This SVGA is released with 100% ASM source code April 1994 ACiD Acqui
+15,01sition',13,10
+15,01     DB  ' Code by: Rocket Scientist <ACiD> SVGA Graphics by: Renderman <ACiD wa
+15,01nnabe>',13,'$'
+15,01start   proc  far            ; far for large model
+15,01        mov     ax,cs        ; move cs to ax
+15,01        mov     ds,ax        ; move cs to ds
+15,01        mov     es,ax        ; move cs to es
+15,01        mov     di,OFFSET vesabuf
+15,01        mov     ax,4F00h     ; set up for vesa check
+15,01        int     10h          ; do it
+15,01        cmp     ax,004Fh     ; gottem vesa card?
+15,01        je      vgaok        ; if so, run demo
+15,01        xor     ax,ax        ; clear ax
+15,01        mov     dx,offset sorry   ; if not, set up for message
+15,01        mov     ah,9         ; set up to print string
+15,01        int     21h          ; do it
+15,01        mov     ah,4ch       ; set up for exit
+15,01        int     21h          ; back to dos you lamer
+15,01vgaok:  mov     ax,4f02h     ; set vesa to mode 640X480X256
+15,01        mov     bx,101h
+15,01        int     10h          ; do it
+15,01        mov     ax,cs        ; move cs to ax
+15,01        mov     ds,ax        ; move cs to ds
+15,01        mov     si, offset fadepalette
+15,01        mov     dx,03c8h     ; go to PEL address register
+15,01        xor     al,al        ; set al to zero
+15,01        out     dx,al        ; output byte so we are at first byte
+15,01        inc     dx           ; go up to PEL data register
+15,01        mov     cx,3         ; loop three times
+15,01fupr4:  push    cx           ; save for later
+15,01        mov     cx,256       ; move 256 bytes (one third of palette)
+15,01        push    dx           ; save dx
+15,01        mov     dx,03dah     ; check for retrace
+15,01fupr5:  in      al,dx        ; input byte
+15,01        test    al,08h       ; test Vsync bit
+15,01        jz      fupr5
+15,01fupr6:  in      al,dx        ; point to status indicator
+15,01        test    al,08h       ; input byte, test Vsync bit
+15,01        jnz     fupr6        ; wait until not writing to screen
+15,01        pop     dx           ; restore dx to PEL data register
+15,01        rep     outsb        ; output to port 256 bytes of data
+15,01        pop     cx
+15,01        loop    fupr4        ; go do it three times for entire palette
+
+15,01        mov     ax,seg picture    ; move ax to data segment
+15,01        mov     ds,ax        ; move data segment to ds
+15,01        mov     ax,0a000h
+15,01        mov     es,ax        ; point ex to start of video memory
+15,01        mov     di,0         ; be sure di is at the start
+15,01        mov     si,OFFSET image ; move si to the offset of the image
+15,01        mov     cx,32000
+15,01        rep     movsw        ; moves 64000 bytes of picture to the screen
+15,01        call    fadeup
+15,01        mov     ah,0
+15,01        int     16h
+15,01        mov     ah,1         ; somebody hit a key?
+15,01        int     16h
+15,01        mov     ax,3         ; must go to text mode twice for some cards
+15,01        int     10h
+15,01        mov     ax,3
+15,01        int     10h
+15,01        mov     ah,9         ;put end-text
+15,01        mov     dx,offset text
+15,01        int     21h

@@ -1,0 +1,53 @@
+
+15,01                            Krystal-View Documentation
+
+15,01        Krystal View, otherwise known as K-View, is the newest addition to the
+15,01 ANSI viewers that have been released by iCE.  It is a versitile, but easy to
+15,01 use viewer.  The options and features are:
+
+15,01 1) ANSI Scrolling (Up & Down Arrows)
+15,01         A simple but not always included feature, you can scroll back in an
+15,01         ANSI.
+
+15,01 2) Mouse support
+15,01         Self explanitory.
+
+15,01 3) ANSI display speed changing ("+" & "-" keys)
+15,01         The display speed can be changed from 0 to 10.
+
+15,01 4) Text or VGA mode viewing ("V" toggles)
+15,01         ANSI's can be viewed in both regular text mode or in, 320x200, VGA
+15,01         mode.
+
+15,01 5) 50 line mode ANSI viewing in both text and VGA mode ("F" toggles)
+15,01         ANSI's can be viewed in text 50 line mode and "to-scale" VGA,
+15,01         320x200, VGA mode.
+
+15,01 6) Animated ANSI viewing in both text and VGA mode ("A" toggles)
+15,01         Animated ANSI's can be viewed in reglar text and in, 320x200,  VGA
+15,01         mode. (VGA mode does go just as fast as text mode).
+
+15,01 7) File directory & file extension changing ability ("P")
+15,01         Files with any extension can be viewed by K-View, and directorys
+15,01         can be changed within K-View.
+
+15,01 8) Wrap Around Mode
+15,01         ANSi's viewed in VGA mode can also be viewed with the ansi wraping
+15,01         around on the screen instead of scrolling in a column.  This is
+15,01         MUCH faster. It can be toggled with the letter 'W'.
+
+15,01 9) Extension Switch
+15,01         K-View loads up as a deafault finding files with the extension *.ICE
+15,01         but can now also be loaded with a switch from dos.  IE: 'KV *.ANS'.
+
+15,01 Note:  The reason that 320x200 VGA mode is used rather than 640x480 VGA mode
+15,01        is that 320x200 VGA mode is an EXACT scale down from regular text
+15,01        mode, unlike 640x480.
+
+
+15,01 Credits for K-View:
+
+15,01 Programming.............Watchman [iCE]
+15,01 Text Font...............Watchman [iCE]
+15,01 Opening screen........Metal Head [iCE]
+15,01 Interface.............Metal Head [iCE]

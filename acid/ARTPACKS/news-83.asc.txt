@@ -1,0 +1,80 @@
+15,01  $$     $$ $$     $$     $$ $$     $$ $$    $$     $$  ANOTHER
+15,01  $$     $$ $$     $$XXX  $$ $$        $$    $$XXXXXNN  ACiD
+15,01  7$b,.,d$$ $$     7$b,.. $$ 7$b,.     7$b,. 7$b,.      ARTICLE
+15,01   "+v^v+^^ $$      "+v^^ NN  "+v^      "+v^  "+v^      by mHz----------------.
+15,01                   ` `^'+*$$$$$$$$+7^*=*^4Q|$$^*=+n$-----+==**^4Q+$$$$$TUM
+15,01      +++++++++-+-,.       `+Q$|+`          `4     $              `+S$$$$$
+15,01        Having perused this deep into the plethora of information carried$
+15,01  in this issue of the ACiD News, the quality and alliteration of ACiD's$$
+15,01  articles is abundantly apparent.  However no matter how mighty the pen$$
+15,01  is, man does not live by words alone, and ACiD has taken it upon ourselves
+15,01  to venture forward in production of articles of another kind -- clothing
+15,01  to be more specific.$$$$                ..,+     .    .---+2'^`     ,$$$
+15,01      $$$.    `'2+--------                     .                   +x$$$$$
+15,01        No longer do you have to walk the streets, wearing a cap that    #
+15,01  prominently displays some type of ridiculous looking orange bird, or logo
+15,01  for Fuzzy's Fresh French Fried'n'Flamed Fish Shack.  Available now are$$
+15,01  our latest garments - ACiD Caps.  When you don an ACiD cap, you become$$
+15,01  more than a person with an obviously ravishing sense of style, youQ|$$$$
+15,01  become somewhat of a human canvas, a living breathing ACiD Production, and
+15,01  what, we ask of you, could be better than that?  For those of us who live
+15,01  in somewhat colder climates, in the type of edifice where a simple circular--
+15,01  hole cut in the floor can yield a top-notch fishing spot, expect brand new,9
+15,01  warm, ACiD beanies to be available by this winter.------------- +\  ---------
+15,01                                                               '^`
+15,01        Regardless of where in the world you call your pied-a-terre, ACiD Gear
+15,01  can be yours through our newly remodel, wider-aisled, friendlier staffed,
+15,01  double-coupon accepting ACiDgear Website, which has been completely
+15,01  redesigned by the immensely talented Ragnarok, in a landmark
+15,01  collaboration between ACiD and Kagi, the firm responsible for processing
+15,01  your on-line credit-card orders, and expeditiously expediting your order.
+15,01  Clothing, like ACiD, is a basic requirement of life.  Bring the two
+15,01  together, and the possibilities are, in a word, endless.
+15,01  NN        $$  "+v^^ $$      "+v^v+"   by mHz
+15,01        ACiDgear can be ordered on-line at http://www.acid.org/acidgear/
+
+15,01        A wise man once noted that all good things must come to an end.
+15,01  This man, however knowledgeable, was obviously not versed in the eminence of
+15,01  yy+yyy  _+yyy+_   _+yyy+_   _+yyy+_  yy+yyy  _+yyy+$$st, and watch other
+15,01  $$P'`` j$P'`'4$L j$P'`'4$L j$P'`'4$L $$P'`` j$P'`'4$$enge crumble, ACiD
+15,01  $$     $$     $$ $$     $$ $$     $$ $$     $$     $$unscathed, still at
+15,01  $$     $$XXXXXNN $$        $$     $$ $$     $$     $$
+15,01  $$     7$b,.     7$b,.     7$b,.,d$r $$     7$b,.,d$r
+15,01  $$      "+v^      "+v^      "+v^v+"  $$      "+v^v+" 
+
+15,01   _+yyy+_   _+yyy+_  $$    $$     _+yyy+_   _+yyy+_  $$      _+yyy+_  yy+yyy
+15,01  j$P'`'4$L j$P'`'4$L $$    $$    j$P'`'4$L j$P'`'4$L $$     j$P'`'4$L $$P'``
+15,01  $$     $$ $$     $$ $$    $$    $$     $$ $$     $$ $$     $$     $$ $$    
+15,01  $$        $$     $$ $$    $$    $$XXXXXNN $$        $$XXX  $$     $$ $$    
+15,01  7$b,.     7$b,.,d$r 7$b,. 7$b,. 7$b,.     7$b,.     7$b,.. 7$b,.,d$r $$    
+15,01   "+v^      "+v^v+"   "+v^  "+v^  "+v^      "+v^      "+v^^  "+v^v+"  $$    
+
+15,01  RECORD COLLECTOR by Hack   $$    
+15,01  $$    j$P'`'4$$ j$P'``     $$    
+15,01  $$    $$     $$ $$         $$    
+15,01        Once again the server that provides that beef for artpacks.acid.org
+15,01  has set another record.  Walnut Creek's ftp.cdrom.com broke the terabyte
+15,01  barrier serving up 1.39TB in a single day on May 26, 1999.  Walnut Creek
+15,01  was testing a Gigabit Ethernet link with their co-location provider, CRL
+15,01  Network Services.  The site runs FreeBSD and details of the achievement
+15,01  can be found at:our reputation as not only role models, but benefactors of
+15,01  the entire art community, ACiDDraw, the premier ANSI/ASCII editor for DOS
+15,01        http://www.cdrom.com/press/wcarchive_milestone.phtmlno restrictions
+15,01  to the general public, allowing even those who's companies show a negative
+15,01        Skaboy, known for coding the Empathy XBIN editor, has taken overted,
+15,01  administrative duties for the artpacks archive.  The torch was recently
+15,01  passed from Shivan Bastard, known for eating toxic chicken wings, to or
+15,01  Skaboy.  Skaboy plans on adding "spidering" technology to the site.
+15,01  The new technology will index through all of the files embedded with
+15,01  SAUCE records and picking out keywords from ANSI and RIP based files.loaded 
+15,01  This will lay down a foundation for enhanced searching abilities on the
+15,01  archive, proving once again that artpacks.acid.org is your one-stop-shop
+15,01  for locating digital art.  That is, until Amazon sues us for some sort ofp
+15,01  patent violation.  Shivan Bastard was quoted as saying, "Damn.  I thought
+15,01  my utilities were neat."
+
+15,01   _+yyy+_  $$+yyy+_           _+yyy+_  $$+yyy+_  
+15,01  j$P'`'4$L $$P'`'4$L         j$P'`'4$L $$P'`'4$L 
+15,01   _+yyy+_  $$     yy $$     yy+yyy  _+yyy+_   $$   $$$ 
+15,01  j$P'`'4$L $$     $$ $$     $$P'`` j$P'`'4$L  $$ 
+15,01  $$     $$ $$     $$ $$     $$     $$     $$  $$ 

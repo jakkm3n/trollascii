@@ -1,0 +1,80 @@
+
+15,01   #-----------------------------------------------------------+
+15,01   |  "The Aquisition" - Contains S-Z of the ANSi Collection.  |
+15,01   |  Background History:    The Aquisition was originated in  |
+15,01   |  San Jose, California.   After it had been organized and  |
+15,01   |  its contents  sorted,  it first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To this day the original zips are still  |
+15,01   |  floating around,  but as  more  and  more high  quality  |
+15,01   |  computer graphics are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                   |
+15,01   +===========================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |     The Aquisition : Volume S-Z *      May  1st, 1992     |
+15,01   +-----------------------------------------------------------+
+
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01 |1  |SANTASUX ANS |   3193 |12.10.90 |%   | Santa-Claus                     |
+15,01 |2  |SAVAGE   ANS |  23495 | 1.30.91 |%A  | Savage Land                  (1)|
+15,01 |3  |SAVAGE2  ANS |   4913 | 2.17.91 |%   | Savage Land                  (2)|
+15,01 |4  |SC-ACID1 ANS |   4236 | 1.02.92 |%   | Spyrit's Crypt               (1)|
+15,01 |5  |SC-ACID2 ANS |  43752 | 1.26.92 |%Ax+| Spyrit's Crypt               (2)|
+15,01 |6  |SCD-ACID ANS |   2279 | 3.07.91 |%   | SCD Logo                        |
+15,01 |7  |SHQACID  ANS |  11577 |12.23.90 |%   | Support H.Q.                    |
+15,01 |8  |SIERRA1  ANS |  19456 |11.25.90 |%   | High Sierra                  (1)|
+15,01 |9  |SIERRA2  ANS |  10447 | 5.29.91 |%   | High Sierra                  (2)|
+15,01 |10 |SIERRA3  ANS |   6974 | 1.06.91 |%A  | High Sierra                  (3)|
+15,01 |11 |SIERRA4  ANS |   9656 | 1.04.91 |%   | High Sierra                  (4)|
+15,01 |12 |SIERRA5  ANS |   2995 | 1.04.91 |%   | High Sierra                  (5)|
+15,01 |13 |SILICON  ANS |   4874 | 1.29.91 |%   | Silicon Wastelands           (1)|
+15,01 |14 |SILICON2 ANS |   6249 |11.02.91 |%   | Silicon Wastelands           (2)|
+15,01 |15 |SILICON3 ANS |   4962 | 4.29.80 |%   | Silicon Wastelands           (3)|
+15,01 |16 |SIXTH    ANS |   5877 |12.31.90 |%+  | Sixth Sense                     |
+15,01 |17 |SITKPACD ANS |   5151 | 2.11.92 |%   | Crime Ring ][                   |
+15,01 |18 |SK8ACID  ANS | 224315 | 3.18.92 |%Ax | Harmony Skates                  |
+15,01 |19 |SNOTACID ANS |  10104 |11.14.90 |%   | Snot Land                       |
+15,01 |20 |SONICACD ANS |   3731 | 6.04.91 |%   | Sonic the HedgeHog              |
+15,01 |21 |SOULACD1 ANS |   6317 | 8.16.91 |%+  | Soul Asylum                  (1)|
+15,01 |22 |SOULACD2 ANS |  36384 |11.10.91 |%A+ | Soul Asylum                  (2)|
+15,01 |23 |SOULACD3 ANS |   5063 | 2.20.92 |%+  | Soul Asylum                  (3)|
+15,01 |24 |SOULACD4 ANS |   9309 | 3.12.92 |%+  | Soul Asylum                  (4)|
+15,01 |25 |SPIFF    ANS |   3953 | 1.20.91 |%   | Spaceman Spiff for TFP          |
+15,01 |26 |SSACID1  ANS |   6828 | 3.26.92 |%+  | Street Spydrs                (1)|
+15,01 |27 |SSACID2  ANS |   5227 | 3.26.92 |%+  | Street Spydrs                (2)|
+15,01 |28 |STARACID ANS |  19553 | 3.27.91 |%A  | StarWars                        |
+15,01 |29 |STARACID MUS |  19841 | 3.24.91 |%AM | StarWars                        |
+15,01 |30 |SUNACID2 ANS |   5172 | 6.03.91 |%   | House of the Rising Sun      (2)|
+15,01 |31 |SWASHII  ANS |  14097 | 1.27.91 |A   | Swashbuckler's II               |
+15,01*|32 |SWBACID1 ANS |   9216 | 4.14.92 |%+  | Space Wars BBS                  |
+15,01 |33 |TERMINAL ANS |   6502 | 3.23.91 |%   | Terminal Hallucinations         |
+15,01 |34 |TFP      ANS |   3361 | 3.25.91 |%   | The Festering Pit               |
+15,01 |35 |TFP-F40  ANS |   3746 | 4.07.91 |%+  | The Festering Pit w/F40         |
+15,01 |36 |TGACID1  ANS |   4568 |11.09.91 |%   | Time Gate                       |
+15,01 |37 |THEWALL  ANS |   7593 | 1.12.91 |%   | The Wall                        |
+15,01*|38 |TLOCACID ANS |  12137 | 1.29.92 |%A  | Tone Loc Logo                   |
+15,01 |39 |TMWACID  ANS |  15563 |10.26.91 |%x  | Two Minute Warning              |
+15,01*|40 |TNBACID1 ANS |   8567 | 4.14.92 |%+  | The Nectar Base                 |
+15,01 |41 |TOHSACID ANS |   5211 | 1.01.91 |%A  | Tower of High Sorcery           |
+15,01*|42 |TOSACID  ANS |   4022 | 4.19.92 |%+  | The Other Side                  |
+15,01 |43 |TRANSACD ANS | 139405 |11.02.91 |%Ax | Continental Transit          (1)|
+15,01 |44 |TRNSACD2 ANS |   5261 |11.09.91 |%   | Continental Transit          (2)|
+15,01 |45 |TSCACID1 ANS |   5635 | 1.30.91 |%   | The Software Conspiracy         |
+15,01 |46 |TURTLE   ANS |   2633 | 1.01.91 |%   | Teenage Mutant Ninja Turtle     |
+15,01 |47 |ULTIMATE ANS |   5010 |12.21.90 |%A  | Ultimate Insanity            (1)|
+15,01 |48 |ULTIMAT2 ANS |   6194 |12.22.90 |%   | Ultimate Insanity            (2)|
+15,01*|49 |VEL1ACID ANS |   4039 | 4.06.92 |%+  | Velocity BBS Software Logo   (1)|
+15,01*|50 |VEL2ACID ANS |   3973 | 4.26.92 |%   | Velocity BBS Software Logo   (2)|
+15,01 |51 |VOIDACD2 ANS |   4992 |11.29.91 |%   | The VOID                     (2)|
+15,01 |52 |VOIDACD3 ANS |  68246 |10.17.91 |%Ax | The VOID                     (3)|
+15,01 |53 |VOIDACD4 ANS | 315960 | 1.05.92 |%Ax+| The VOID                     (4)|
+15,01 |54 |VOIDJED2 ANS |   6442 |10.22.91 |%+  | The VOID                        |
+15,01 |55 |WESTERN1 ANS |  12811 |12.25.90 |%   | Western Alliance             (1)|
+15,01 |56 |WESTERN2 ANS |   8687 |12.07.90 |%+  | Western Alliance             (2)|
+15,01 |57 |XMAS2    ANS |   2744 |12.13.90 |%   | Christmas Card                  |
+15,01 |58 |XRATED   ANS |   3330 | 1.09.91 |%   | X-Rated For Hamburger Heaven    |
+15,01 |59 |XTC      ANS |   4688 | 6.19.91 |%   | XTC Systems                  (1)|
+15,01 |60 |XTC2     ANS |  12079 |11.03.90 |%A  | XTC Systems                  (2)|
+15,01 |61 |XTC3     ANS |   3676 | 1.12.91 |%   | XTC Systems                  (3)|
+15,01 |62 |XTC4     ANS |  30899 | 6.06.91 |%A  | XTC Systems                  (4)|

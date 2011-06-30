@@ -1,0 +1,30 @@
+04,01TsC NoTeS
+04,01-------------
+
+00,01OK. This is TsC's second Pack ever! Whohoo! Well as it turns out Style is away
+00,01in England and has left me, Sliver, to put together a decent pack. As for the
+00,01promissed viewer, Freejack never bothered to help us. So anyone out there that
+00,01can code please help us. If u don't like the pack then too bloody bad :)
+
+04,01Membership Stuff
+04,01------------------
+
+00,01Some people were kicked out of TSC they are:
+00,01White death: For infecting our first pack with the screaming fist virus
+00,01Silver Talon: He just plain Sucks
+
+00,01New additions:
+00,01Pure Voltage - Abrev: PV ( a bright prospect for the future of TSC ) -Ansi/LiT
+00,01John Kwan - Abrev: JK - Ansi
+00,01Gumbi - Courier (Hear is some werk for u)
+00,01HolyWater - Courier - S: (Upcoming BBS - SOon)
+00,01Pantera - S: Rise of The Midnight Sons - Distribution Site
+
+00,01This brings are total membership to:
+00,011+1+1+1+1+1+1+1+1+1+1 - That makes 11 i think
+
+00,01If u are interested in becomin A TsC member please download the Application
+00,01form (TSC-APP.zip). We are looking especially for a couple more coders and some
+00,01Vga artists.
+
+00,01-SLIVER [TsC] Acting PreZ

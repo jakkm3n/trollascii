@@ -1,0 +1,56 @@
+15,01:        ;  ;          ;    aaa   ;                  ;   .,aa2$$ba     : :::
+15,01: ;      ;  aaa$$$+22$aa.'$$$$'    ,a2$%a.  aaaaaaaa   ,$$$'# 4$$$b :  ::;:X :
+15,01:;;      ;  `$$$$'#  ,$$$ $14,15#15,01$$ ;  .,a%2$$$a `$$$'#4$$a d$$$.   $$14,15#15,01$ ; :;;X;$:;
+15,01;;;; :  ;;;  $$$$  ,a222' $$$$   $$$'# `$$$$ $$$   $$$a`22$$a ,$$$$ X;::X$X$;X:
+15,01X,;;:;:::;:  $$$$ aaad$$P $$$$. ,$$$.   $$$$ $14,15#15,01$ ; $$$$      a$$$$',$:;:$$$$X$;
+15,01$X,;;;;;;X;  $$$$.`24$$P ,$$$222 22$$a ,$14,15#15,01$',$$$.  $$$' aa ; ,$$$',$$:X#00@14,15#15,01$$$$X
+15,01$$$$$XXXX$X ,$14,15#15,01$$22 d$$b_22',d$$$$ba. a2222 22$$2 ,$$2 d$'  ,$14,15#15,01$2,$$$;$:$$X$$$$
+15,01"24$#14,15#15,01$$$$b_2222_d$$$$$$P2"^^"24$$$$$$a$$$$$$ba. a22,$b`2$aa$22_d$$$$X$;$$$$$$$
+15,01  `$P2"^^^^"24,   .,ad4$        $$$$$$$',`$$$$$$bad$$$$$baaaad$$$$$$$$bobafett!
+15,01  ,$;        ,2ba,..,ad4ba,..,ad$$$$$$$ ; ``````^^^^^^^^"""224#$$$$ad$$P2"^,  $
+15,01,ad$:       ,,ad$$$P2"^^"2$$$$$$$$P2"^^ : ______________..,,ad$$$P2^^"2.,ad$$$$
+15,01                       .                                .
+15,01                 - ...' `.. General Mod Information  ..' `... -
+15,01                            ~~~~~~~~~~~~~~~~~~~~~~~
+
+15,01         Mod Name : OneLiners          Software: Nexus/2  [X]
+15,01         Modder   : eletrik                      Impulse  [X]
+15,01         Artist   : b0b4fett                     Iniquity [ ]
+15,01                                                 wwiv     [ ]
+15,01                                                 Obv/2    [ ]
+15,01                                                 Renegade [ ]
+15,01                                                 PCBoard  [ ]
+15,01                                                 Telegard [ ]
+15,01                                                 Other    [ ] (         )
+
+15,01                        .                             .
+15,01                  - ...' `.. Short Mod Description ..' `... -
+15,01                             ~~~~~~~~~~~~~~~~~~~~~
+
+15,01              Ok.. this is just a quick little oneliners mod i did
+
+
+
+
+
+15,01                         .                          .
+15,01                   - ...' `.. Installation Notes ..' `... -
+15,01                              ~~~~~~~~~~~~~~~~~~
+15,01             To install this mod.. just unzip ansi.zip into your ansi dir
+15,01             And ya should be set.. I suggest that you make a start menu..
+15,01             that has the oneliners command in it.. as FIRSTCMD.. so that
+15,01             when the user logs in to your board, the oneliners will come up.
+
+
+
+
+15,01                       .                            .
+15,01                 - ...' `.. Final Notes & Greetz ..' `... -
+15,01                            ~~~~~~~~~~~~~~~~~~~~
+15,01             If you found this mod hard to install.. shoot yourself!
+15,01             Do it NOW! make sure you die a slow horible death.. cause
+15,01             you must be a fool if you don't know how to do this.
+
+15,01             Greets goto b0b4fett.. and nivenh.. and all the nexus2 beta
+15,01             testers.. the rest of you can bite me... heh
+15,01>

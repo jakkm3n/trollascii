@@ -1,0 +1,42 @@
+
+15,01        Hi there, this is Nemesis at the keys, and I wrote this 
+15,01little text file to explain some of the new things in this month's 
+15,01pack.  In case you don't know, I'm the new musician here with REM, 
+15,01and two of my songs (MTM's) are included in this month's pack.  I 
+15,01finished these quite close to the deadline, and didn't give the  
+15,01file with the MTM file format to Disciple (coder) in time, so we 
+15,01don't have a player for them as of yet.  These files will play with 
+15,01either DMP 2.75 and up, Inertia Player (I think), and of course, 
+15,01Multitracker Module Editor 1.01B.  Next month, we're most likely 
+15,01going to do a musicdisk that is separate from the ansi pack.  This 
+15,01will be an original interface, and most likely, it will support 
+15,01SB, and maybe SB/PRO (look for tunes by me, and Corpse <new guy>. 
+15,01I hope we can support GUS, but that's a big question mark right 
+15,01now.  I don't know if our coders have the know-how to program the 
+15,01GUS, cuz I'm new here. 
+
+15,01        This month we have a shortage of ANSI's.  This is because:
+
+15,01                - REM and CoR (Cyberhold on Reality) merged, leaving
+15,01                  us with alot of activity to organize.  The members
+15,01                  REM got from CoR are, Magellan, Fade, The Edge, 
+15,01                  Raven, and Corpse.  There are most likely more, but
+15,01                  I can't seem to remember them as of now...
+15,01                - We are trying to plan a demo, or intro of some sort,
+15,01                  and that cuts into our time.
+15,01                - We also have several projects that we're working on,
+15,01                  (no details can be released yet, but we'll let you   
+15,01                   know about them once they're almost finished)
+15,01                - Alot of us have to attend...<gasp>...school, which
+15,01                  we all know takes a major chunk out of our time.
+15,01                
+15,01        So, if you've read this, don't come crying to Night Breed saying
+15,01"There wasn't enough ANSI this time...*whimper* *whimper*.  Why?"  Oh, 
+15,01one last thing...  If you want to contact any of us, just send mail to 
+15,01my <Nemesis> Internet address...  nemesis@crl.com  ... and I'll forward
+15,01your mail to anyone in REM you want to talk to, or comment on their work. 
+15,01Thank you that will be all....
+
+15,01        - -=Nemesis=- -
+
+15,01                

@@ -1,0 +1,21 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 11/01/1999
+15,01###############################################
+15,01ice-9911.nfo,ANSI,iCE 99/11 Info File,iCE Senior Staff
+15,01ice-9911.dsc,ANSI,iCE 99/11 iCEView description file,iCE Senior Staff
+15,01ice-9911.mem,ANSI,iCE 99/11 Member List,iCE Senior Staff
+15,01ice-9911.sit,ANSI,iCE 99/11 Site listing,iCE Senior Staff
+15,01iceview.cnf,ANSI,iCEview configuration file,Friar Tuck
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01iceview.exe,ANSI,iCEview,Friar Tuck
+15,0109-ansis.bin,BINARY,Ansi interface,Fluor
+15,01file_id.diz,ANSI,file_id.diz,Prism
+15,01ag-love.jpg,EXTERNAL,Love,Adam Gross
+15,01dv-elite.jpg,EXTERNAL,Elite swap,DaVinci
+15,01fb-knf.jpg,EXTERNAL,Knife,Funbaby
+15,01id-artst.jpg,EXTERNAL,The Artist,Roadkyll
+15,01pn-mary1.jpg,EXTERNAL,Mary,Pnakotic
+15,01rl-fathd.jpg,EXTERNAL,Fathead,Adam Baroody
+15,01rl-tblmp.jpg,EXTERNAL,T-Blimp,Adam Baroody
+15,01>SAUCE00iCEView Description file           iCE Senior Staff    iCE Advertisement
+15,01s  19991011|x  @ P A                             

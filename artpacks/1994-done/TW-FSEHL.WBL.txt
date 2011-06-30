@@ -1,0 +1,23 @@
+
+15,01                               00Message Commands
+
+15,01           02# 00/A 12Abort 02# 00/S 12Save 02# 00/C 12Continue 02# 00/? 12Help 02# 00/Q 12Quote 02#
+15,01                           02# 00^KA 12Abort 02# 00^12KS Save 02#
+
+15,01                                00Getting Around
+
+15,01      12Home 02: 00B12e02ginning of line15                   12End 02: 00E12n02d of line
+02,01   12^S/Left 02: 00M12o02ve Left15                      12^D/Right 02: 00M12o02ve Right
+15,01        12^A 02: 00W12o02rd Left15                            12^F 02: 00W12o02rd Right
+02,01 12Delete/^G 02: 00D12e02lete15                        12BackSpace 02: 00B12a02ckSpace
+15,01        12^Y 02: 00D12e02lete line15                         12^QY 02: 00T12r02uncate line
+15,01        12^N 02: 00I12n02sert line15                          12^B 02: 00R12e02format Paragraph
+15,01        12^V 02: 00T12o02ggle Insert
+
+15,01        12^O 02: 00T12o02ggle Anonymous15                     12^U 02: 00T12o02ggle AutoSig
+15,01                                                  12^T 02: 00C12h02ange Title
+
+00,01this is one of those screens that obv/2 sysops refuse to change, and
+00,01cooincidentally one of the uglier default ones.  No big whoop.  Just a slightly
+00,01better fade.
+15,01                                       00-tw<chs/wbl>

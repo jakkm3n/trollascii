@@ -1,0 +1,79 @@
+15,01@
+15,01SysOp Menu                                                                      
+15,01                                                                                
+15,01                                                                                
+15,01               Asysop                                                       ASYS
+15,01OP   
+15,01%%MENUPMT1                                                                      
+15,01                                                                                
+15,01                                                                                
+15,01               xs250                                     xMAIN    @*@@ @@ @     
+15,01                                                                                
+15,01               PFile conference edit               &[sysop] Create/modify file c
+15,01onferences                                @!             xs250                14,15@15,01*
+15,01!                                                                         Menu e
+15,01ditoritor - Modify BBS Menu F$[sysop] Modify/create BBS menu files              
+15,01                    @#             xs255                14,15@15,01*#                     
+15,01                                                    Local uploadle Upload       
+15,01       4[sysop] Upload file(s) locally to current file areass                 @%
+15,01             xs255                14,15@15,01*%                                           
+15,01                             <Download any fileFile              ;[sysop] Downlo
+15,01ad any file on computer by entering full path           @>             xs255    
+15,01            14,15@15,01*>                                                                 
+15,01       !Msg conference editnces            )[sysop] Create/modify message confer
+15,01ences                             @@             xs250                14,15@15,01*@       
+15,01                                                                 *Msg area edito
+15,01ra Editor            #[sysop] Create/modify message areas                       
+15,01            @A             xs250                14,15@15,01*A                             
+15,01                                           *BBS list editoritor                _
+15,01[sysop] Edit the BBS listing                                          @B        
+15,01     xs250                14,15@15,01*B                                                   
+15,01System configtion - Setup iNiQUiTY %[sysop] Edit BBS system configuration       
+15,01                          @C             xs255                14,15@15,01*C               
+15,01                                                         <Iniquity MicroDOSline 
+15,01DOS Command P-[sysop] Load Iniquity's internal DOS emulator                     
+15,01    @D             xs255                14,15@15,01*D                                     
+15,01String editoritor - Edit Prompts/St9[sysop] Load Iniquity's configurable string/
+15,01prompt editor             @E             xs250                14,15@15,01*E               
+15,01                                                         MFile area editEditor  
+15,01              [sysop] Create/modify file areas                                  
+15,01    @F             xs250                14,15@15,01*F                                     
+15,01                                    Stat editorics editor              <[sysop] 
+15,01Edit the system statistics (total calls, posts, etc)          @H             xs2
+15,0150                14,15@15,01*H                                                           
+15,01             *Infoform editord                   _[sysop] Edit infoforms        
+15,01                                        @I             xs250                14,15@15,01*I 
+15,01                                                                       <Access l
+15,01evel editEditor            5[sysop] Modify access level limits, ratios, and name
+15,01s                 @L             xs250                14,15@15,01*L                       
+15,01                                                  Modem setupetup - Comm Configu
+15,01ratio)[sysop] Edit BBS modem/node configuration                             @M  
+15,01           xs255                14,15@15,01*M                                             
+15,01                           MPack msg areasurrent Message Area(s4[sysop] Remove e
+15,01xcessive/deleted messages from areas                  @P             xs250      
+15,01          14,15@15,01*P                                                                   
+15,01     *Quit sysop menurn to Previous Menu +Exit the sysop menu, and return to pre
+15,01vious                           @Q                                  14,15@15,01-\         
+15,01                                                               
+15,01Read emaillectroic Mail            9[sysop] Read/edit/reply all/any email (+rece
+15,01ntly deleted)             @R             xs250                14,15@15,01*R               
+15,01                                                         MFile area sortsreas   
+15,01             A[sysop] Sort some/all file areas using area's defualt sort method 
+15,01    @S             xs250                14,15@15,01*S                                     
+15,01                                   $Textfile libraries                 2[sysop] 
+15,01Edit sysop configurable textfile libraries                    @T             xs2
+15,0150                14,15@15,01*T                                                           
+15,01              User editoritor                    7[sysop] Iniquity's user editor
+15,01; modify user information               @U             xs255                14,15@15,01*U 
+15,01                                                                        Event ed
+15,01itoritor                   "[sysop] Modify/setup system events (incomplete)     
+15,01                  @V             xs250                14,15@15,01*V                       
+15,01                                                 *Protocol editoritor           
+15,01     ,[sysop] Edit transfer protocol configuration                          @X  
+15,01           xs250                14,15@15,01*X                                             
+15,01                            File editoritor                    )[sysop] Edit fil
+15,01es (in current file area)                             @Y             xs250      
+15,01          14,15@15,01*Y                                                                   
+15,01     *Archiver configitor                2[sysop] Modify configuration of extern
+15,01al archivers                    @Z             xs250                14,15@15,01*Z         
+15,01                                                               

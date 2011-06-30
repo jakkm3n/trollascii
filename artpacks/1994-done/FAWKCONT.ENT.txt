@@ -1,0 +1,45 @@
+15,01                                  ...F.A.W.K 02-09-94 Contents...
+
+15,01buttbeav.ans     2374   2-09-94  - Lame-O Beavis & Butthead Ascii
+15,01canary.ans       7865   2-09-94  - Who Batmans Sidekick Was Supposed to be
+15,01crack.ans        3839   2-09-94  - Unfinished OverDose Logon Screen 
+15,01deathrow.ans     5868   2-09-94  - ANSI/POEM About Death Row 
+15,01eternity.ans     3855   2-09-94  - Eternity Logo For The Dead 
+15,01fawk-app.exe    25024   2-09-94  - FAWK Application Gen.
+15,01fawk2994.nfo     8553   2-10-94  - FAWK NFO File 
+15,01fawklogo.ans     2726   2-09-94  - FAWK Logo (Someone's bound to be pissed :))
+15,01filestat.ans     1828   2-09-94  - File Stat Screen Design          
+15,01file_id.diz       236   2-09-94  - What Do You Think? The Fawking File Id Shit. 
+
+15,01guitar.ans       2196   2-09-94  - Cheap ass Guitar by Mar.. I mean TT :) 
+15,01hick.ans        12411   2-09-94  - Some Dope Smoking Hick Boy, Puffing Weed. 
+15,01hosofpan.ans    16782   2-09-94  - House of Pain Logon Screen 
+15,01housmain.ans     1842   2-09-94  - Unfinished House of Pain Main Menu 
+15,01housstat.ans     2524   2-09-94  - Just the stats from the HoP LOS. (Makes this
+15,01                                                        list longer) 
+15,01jiminy.ans      11335   2-09-94  - Jiminy Cricket ANSI For Paradise Lost. 
+15,01lagu.ans         6008   2-09-94  - That Fawking Bird From Alladin 
+15,01mickey.ans        406   2-09-94  - Cheap Little Mickey Mouse (sort of) 
+15,01mm-800#s.lst     3127   2-02-94  - List of 800#s (Makes me look like I know 
+15,01                                                        something.. okay, so it 
+15,01doesn't) 
+15,01msgstat.ans      1935   2-09-94  - Message Stat Screen Design 
+15,01readfawk.1st      292   2-10-94  - Read This Before You Take Another Breath 
+15,01reality3.ans     3554   2-03-94  - Reality Logo (Be sure and Check their soon
+15,01                                                        to be released pack for 
+15,01a special appearance
+15,01                                                        by the Fawk Man Himself)
+
+15,01worm.ans        11948   2-09-94  - A Worms Head I ripped from a little ad for
+15,01                                                        `The Fox & The Hound' mo
+15,01vie from Disney.
+15,01                                                     (Death Row Font Thrown in m
+15,01ore so just for
+15,01                                                         the hell of it, but mak
+15,01es a nice happy log-
+15,01                                                         on screen I guess! heh)
+
+
+15,01     136,528 bytes in 26 file(s)           159,744 bytes allocated
+
+15,01  -Yeah, I know February 10th is a day later than February 9th, but Fawk It!-

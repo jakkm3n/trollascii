@@ -1,0 +1,76 @@
+15,01                                                                               
+15,01                    "#                                                         
+15,01                      mmm               mmm"#        mmm                       
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "                      
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 15,01                         
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 15,01                         
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m                       
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" -------------------------- 
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO 
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m --------------------- 
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||                      
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"                   
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt                  
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "                         
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@15                            
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "                         
+15,01                           00@15  # "|  #     00@15    "     #                         
+15,01                           14,15#15,01   |m         14,15#15,01       #                            
+15,01                                 00@15         |         .                         
+15,01                                  .       #    .                               
+15,01-------------------------------------------------------------------------------
+15,01               S  E  P  T  E  M  B  E  R         2   0   0   0                 
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,011. Here we are, another month down, and only 67 packs left until Slothy rules  
+15,01the world.  Kind of a cheery thought, really.                                  
+15,01                                                                               
+15,012. This being our October release, the pack has a decidedly  spooky feel to it.
+15,01Without  any intentional  scheming, some  of the most  disturbing  images  ever
+15,01released in an  iCE Pack have been collected into one single  release.  We cite
+15,01Vesalius and Ian Dale as  prime examples with  Tetanus and Kabal 13 bringing up
+15,01the rear.  When a piece such as Sprite's makes you feel warm and fuzzy, you get
+15,01an idea what the rest of the pack is like!                                     
+15,01                                                                               
+15,013. The Knave  is making steady progress  from flash artist to  author.  He is a
+15,01contributing author  for the book  "New Masters  of Flash", available for  pre-
+15,01order from Amazon.com and others.                                              
+15,01                                                                               
+15,014. The Knave also has tutorials or articles appearing in which of the following
+15,01publications?                                                                  
+15,01                                                                               
+15,01 A. The Flash 5 Bible                                                          
+15,01 B. Deciphering Flash 5                                                        
+15,01 C. Flash 5, Creative Web Animation                                            
+15,01 D. All of the above                                                           
+15,01                                                                               
+15,01If you answered D, you are correct!                                            
+15,01                                                                               
+15,015. WineCon 2000  took place this  month as Friar Tuck  of iCE Lore  visited the
+15,01San Francisco Bay Area, laying waste to those less seasoned drinkers about him.
+15,01What they say about the clergy is true - they can drink, and they can drink!   
+15,01                                                                               
+15,016. Reported by someone, and we're not naming names, Syntax Error is still gay. 
+15,01                                                                               
+15,017. A blow was dealt to the world of  Internet audio this  month as Etantrum has
+15,01closed  their doors.  When asked  what led to the downfall of  the songprinting
+15,01technology  firm, Farmy  replied, "It's  the damn Amish, they  were awarded the
+15,01patent just before us!"                                                        
+15,01                                                                               
+15,018. Since this  month houses a Friday the  13th, this NFO file is  out of order.
+15,01That's  why in paragraph number 8, we'll tell you that Heat has caught back  up
+15,01with the iCE  bandwagon  and will  be riding his  pony with  us for  quite some
+15,01time.  Check out his first return piece in the pack this month.                
+15,01                                                                               
+15,019. And without  further ado, senior staffer  and birthday boy Sinned Soul would
+15,01like to  congratulate Fluor  for releasing an ANSI  this month.  The  continued
+15,01dedication to the medium and the group is well received and always appreciated!
+15,01                                                                               
+15,01                                                                               
+15,01  - Mass "Where all the white women at?" Delusion and Lord "phbbbbbt!" Soth    
+15,01                                                                               
+15,01-------------------------------------------------------------------------------
+15,01                   Lord Soth                   Mass Delusion                   
+15,01-------------------------------------------------------------------------------
+15,01                                                                               
+15,01>

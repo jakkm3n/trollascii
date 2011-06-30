@@ -1,0 +1,16 @@
+
+15,01        TiTVIEW is a simple ANSi viewer.  As of yet it is still in
+15,01        its infant stages, for there  is  no scrollback or VGA/RiP 
+15,01        ability.  Those capabilities will  be  implemented  in the 
+15,01        future.   But hey!  You can't have the world right off the 
+15,01        bat, eh?
+
+15,01        Function keys:
+
+15,01        ESC: Quits TiTVIEW and/or ansi being viewed.
+
+15,01        <M>: File mask.  Wildcard support is available.
+
+15,01        <P>: Toggles PAUSE on/off
+
+15,01        Numbers 1-10 will adjust your viewing speed.

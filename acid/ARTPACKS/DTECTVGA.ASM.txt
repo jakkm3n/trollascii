@@ -1,0 +1,20 @@
+15,01.model small
+15,01.data
+15,01novga DB 'Buy a VGA monitor you cheap LAMER!!!!!',10,13,'$'
+15,01.code
+15,01       public _detect_vga
+15,01_detect_vga proc near
+15,01        mov     ax,1a00h          ;Load Video Info
+15,01        int     10h               ;Video Services
+15,01        cmp     bl,7              ;Mono VGA Detected
+15,01        je      LO1
+15,01        cmp     bl,8              ;Color VGA Detected
+15,01        je      LO1
+15,01        mov     dx,offset novga   ;points to error string
+15,01        mov     ah,9              ;print string out
+15,01        int     21h               ;DOS Dervices
+15,01        mov     ah,4ch            ;terminate dos program
+15,01        int     21h               ;DOS Services
+15,01LO1:    ret
+15,01_detect_vga endp
+15,01        end

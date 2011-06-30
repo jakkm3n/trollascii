@@ -1,0 +1,13 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 8/1/2000
+15,01###############################################
+15,01ice-0007.nfo,ANSI,iCE 07/2000 Nfo File,iCE Senior Staff
+15,01ice-0007.sit,ANSI,iCE 07/2000 Site Listing,iCE Senior Staff
+15,01ice-0007.mem,ANSI,iCE 07/2000 Member List,iCE Senior Staff
+15,01kt-voodo.rip,RIP,Voodoo,Kitiara
+15,01te-idl1.ice,ANSI,Idle Dreams,Tetanus
+15,01dh-precsus.jpg,EXTERNAL,Precious Suspension,Darkhalo
+15,01hf-sol65a.jpg,EXTERNAL,Solstice 6.5a,hFaze
+15,01tr-riply.jpg,EXTERNAL,Ripley (Aliens),Tear
+15,01ve-mphst.jpg,EXTERNAL,Mickey Mephisto,Vesalius
+15,01file_id.diz,ANSI,iCE 07/2000 file_id.diz,Kamikazee

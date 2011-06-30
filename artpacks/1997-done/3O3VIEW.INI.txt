@@ -1,0 +1,39 @@
+15,01;==============================================================================
+15,01;.     .. . .    .  .  6$$$n$Ss.  .. .   . .  6$$$n$Ss.   . ..    .   . .    .
+15,01;----------------------n"^'- $$$b--sS$n"n$Ss.-n"^'- `$$b-----------------------
+15,01;###################### .. %$$$$$#$$$' # `$$$ ### $#$$$$ ######################
+15,01;----------------------.sSp -$$$'-$$$b---d$$$-.sSp- a$$P--[PRODUCTiONS]----[97]
+15,01;   . . . .        .   n$$6.d$n' . n$$SsS$$n..n$$6.S$n'  ..       .  . .      .
+15,01;==============================================================================
+15,01;                           3o3 ANSI VIEWER v1.1 B
+15,01;==============================================================================
+15,01[SOUND]
+15,01SoundCard      = 1                  ;SoundCard used to play music2
+15,01BaseAddress    = 220                ;The base address of your soundcard 
+15,01IRQ            = 5                  ;The IRQ that your soundcard uses2
+15,01DMA            = 1                  ;The DMA of your soundcard2
+15,01Surround       = ON                 ;Enable Sourround Sound (ON/OFF)
+15,01VideoMode      = NTSC               ;Video-Mode (NTSC/PAL)
+15,01Gain           = 150                ;Gain Music-Volume2
+15,01Rate           = 48000              ;Mix-Rate to display music2
+15,01UseDAT         = YES                ;Use internal modules (YES/NO) 2
+15,01ModuleSelect   = RANDOM             ;Module selected by (RANDOM/1/2/3/4)2
+15,01ModuleUse      =                    ;External module-file
+15,01PollMixView    = YES                ;Use Poll-Mix mode when viewing ANSI2 (YES/N
+15,01O)
+15,01;
+15,01; 2 = Also have a look into the 3o3VIEW.DOC file for detailed informations.
+15,01;                               ^^^^^^^^^^^
+15,01;
+15,01;
+15,01[STARTUP]
+15,01PathDefault    = SELECT             ;Default Path to use (SELECT/CURRENT/UPLOAD)
+15,01 
+15,01UploadPath     = F:\                ;Path where you incoming files are
+15,01;
+15,01;
+15,01[SCROLLVIEW]
+15,01TopSound       = ON                 ;Make Sound when reached top of ANSI (ON/OFF
+15,01)
+15,01BottomSound    = ON                 ;Make Sound when reached bottom of ANSI (ON/
+15,01OFF)

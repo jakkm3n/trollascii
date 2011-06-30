@@ -1,0 +1,51 @@
+
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01ice ice ice ice ice ice 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m nfo nfo nfo nfo nfo nfo
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. ONCE AGAIN apologies   m    00@15         |          . for making all you ice
+15,01    fanatics wait for your                #     .    monthly fix of pure art-
+15,01    istic perfection.               #
+
+15,01 2. Deeply Disturbed is no longer a member of the jolly iCE family, and his
+15,01    board, Suicidal Shrimp, is no longer a Distrobution Site.
+
+15,01 3. We've had a couple of name changes.  Gwar is now Gwah (I'm just as clueless
+15,01    as you), and Lithium is now Isosceles (uhhhhhh...).
+
+15,01 4. We'd like to welcome Formic Acid to iCE.  He's a very talented VGA artist,
+15,01    and will be a great asset to us.
+
+15,01 5. Big big apology to Fred Byrd, who was not only left out of the last pack,
+15,01    his name was spelled wrong (Firebyrd).
+
+15,01 6. There is a picture that cannot be viewed with Multi-View this month, and
+15,01    that is Lord Soth's rip.
+
+15,01 7. FTP.ENG.UFL.EDU, our internet FTP site for our packs, has discontinued
+15,01    its support of ansi packs.  We're working on a new, permanent site
+15,01    currently.  We'll keep you updated... same bat channel... same bat time...
+
+15,01 8. We would like to point out once again, that all ICE members need to
+15,01    upload there monthly pieces of art to the WHQ, Sanctuary(tm).  If you do
+15,01    not do so, your art will be left out of the pack.
+
+15,01                                                            - Lord Soth
+
+15,01+----------------------------------------------------------------------------+
+15,01|               ... Tempus Thales ... Shaggy .. Syntax Error ..              |
+15,01+----------------------------------------------------------------------------+
+15,01                             Syntax@pentagon.io.com

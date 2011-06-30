@@ -1,0 +1,27 @@
+15,01 +--------------------------------------------------+
+15,01 |    -==[MidNite XPRESS Echo Listing #001]==-      |    Compiled 01/18/94
+15,01 +----+---------------------------+----------+------+-------------------------+
+15,01 | ## |      Base Name            |   Tag    |Status|         #Legend#        |
+15,01 +====+===========================+==========+======+=====+===================+
+15,01 | 01 | General Discussion        | MX-GENER |  j#  | Key |   Description     |
+15,01 +----+---------------------------+----------+------+-----+-------------------+
+15,01 | 02 | General Group Chat        | MX-GCHAT |  j   |  j  | Available To All  |
+15,01 | 03 | General HP Chat           | MX-HPCHT |  j   |  #  | Required By Boards|
+15,01 | 04 | SoftWare Discussion       | MX-SOFTW |  j   |  *  | New To The Net    |
+15,01 | 05 | HardWare Discussion       | MX-HARDW |  j   |  *  | Sysops/Staff Only |
+15,01 | 06 | ANSi Discussion           | MX-ANSID |  j   |     |                   |
+15,01 | 07 | World of Sports           | MX-SPORT |  j   |     |                   |
+15,01 | 08 | Sounds of Music           | MX-MUSIC |  j   |     |                   |
+15,01 | 09 | Theater/Movies            | MX-MOVIE |  j   +=====+===================+
+15,01 | 10 | BBS/ANSi Ads              | MX-BBSAD |  j   |
+15,01 | 11 | ForSale/To Buy            | MX-4SALE |  j   |
+15,01 | 12 | ConSole Warez             | MX-CNSOL |  j   |
+15,01 | 13 | BBS/Mailer Support        | MX-BBSSU |  j   |
+15,01 | 14 | ViSiON-X Support          | MX-VISXS |  j   |
+15,01 | 15 | OBV/2 Support             | MX-OBV2S |  j   |
+15,01 | 16 | APEX Mag                  | MX-APEXM |  j   |
+15,01 | 17 | MNX Net Suggestions       | MX-MXSUG |  j#  |
+15,01 | 18 | MNX Net Test Base         | MX-TESTB |  j#  |
+15,01 | 19 | MNX Net Couriers          | MX-MNXCO |  *   |
+15,01 | 20 | MNX Net Sysops            | MX-SYSOP |  *#  |
+15,01 +----+---------------------------+----------+------+

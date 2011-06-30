@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                          M  A  Y        1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  April showers  brought May flowers,  that is,  until Joker  came around and
+15,01accidentally stepped on all of them.  Oh well.   But we have a great variety of
+15,01work  this month  to make up  for it!   We  wanted to call  it the "iCE Flowers
+15,01Month" but BoA  said it sounded too gay,  and Dev mentioned something about his
+15,01possibly getting deflowered so it became a moot point.
+
+15,012.  In the "who's new" department, sometimes referred to as the "suckers of the
+15,01month club",  we are happy to report  that three new members were welcomed into
+15,01the group.   Sucked in by the Frozen Eureka were Farmicus in the UNIX team, and
+15,01Wired in the ANSI/members team.  Also dragged in half-dead by the cat (Scooter)
+15,01was Beastie, to the ANSI team.  Nobody managed to escape this month, either.
+
+15,013.  Information Systems director Lickbert never bothered learning to use a real
+15,01writing  implement,  so he's been  moved to  'progressive discipline.'   He was
+15,01taken there by Jae,  who will be administering the torture.   However, Farmicus
+15,01and Force Ten report that many new UNIX tricks will be put in place this month.
+15,01They're all a secret, and neither are willing to tell.
+
+15,014.  Tempus resurfaced to  socialize with the  wing-nuts this month,  but he was
+15,01promptly beaten and mugged by Kabal 13.  When told that Tempus was one of iCE's
+15,01"oldschool" legends,  Kabal merely shrugged and  said that the bastard was part
+15,01of the SSH conspiracy.
+
+15,015.  In the "iCE criminal  of the month"  department,  Friar Tuck's ugly mug has
+15,01been pinned up to the ice.org post office wall.  Tuck, whose car was demolished
+15,01recently by a slightly  crazed woman  (Syntax would like  to add that this is a
+15,01redundant  definition),  purchased a brand new  '97 black-on-black-on-black  VW
+15,01Jetta,  and promptly received two tickets in his first day of driving it.   The
+15,01first was a routine speeding ticket,  worth 4 points and quite a few bucks, and
+15,01the second  was for  attempting  to bribe the  summons-issuing  officer  with a
+15,01donut.   "It was my last Cruller,"  said Friar Tuck,  "you'd <expletive>  think
+15,01that'd be worth something!"  The officer declined comment.
+
+15,016.  iCE would like  to congratulate all of  the members who  graduated  college
+15,01this past May.   We would also like to congratulate Syntax Error  and  Vesalius
+15,01for  hitting their  'final  stretch' in their  medical  schooling,  and want to
+15,01wish them luck on their way to writing the  rest of us prescriptions for Prozac
+15,01and Lithium.
+
+15,017.  Rumours were circulating the Cannes film festival in France saying that the
+15,01new sexy actor of the year would be -- iCE's very own Magnetic M!   Starring in
+15,01such new movies as "The Teddy Bear Murders" and "Revenge of the Slurp",  Maggie
+15,01was the hit of the festival.   Several well-endowed (Syntax would  like to once
+15,01again  point out that he's  available for plastic surgery  consultation)  women
+15,01were seen hanging all over M.  Magnetic M refuses to confirm or deny the rumors
+15,01but instead offers the following statement ":)~~~" whatever that means.
+
+15,018.  THIS JUST IN: A protest  was staged by Kitiara, Anarchy,  and Sprite due to
+15,01the misogynistic  and degrading  representations of women  attributed to Syntax
+15,01in this NFO file.  New iCE guy Wired  also tried to join in,  but we just think
+15,01he was trying to get some action.
+
+15,019.  Another month of penguin  beating and  tribal chants  mixed into  a graphic
+15,01display of 90's mentality.  Another wonderful pack.   You just can't understand
+15,01what it's like to be iCE, unless you are.  See you next month!
+
+15,01-------------------------------------------------------------------------------

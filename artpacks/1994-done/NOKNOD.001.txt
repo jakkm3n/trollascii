@@ -1,0 +1,56 @@
+15,01;
+15,01;                  -nokNet  -Official net of nokturnal Mag-
+15,01;
+15,01;
+15,01Zone,77,NokNet_WHQ,Cheshire_MA,Phaser-X,413-743-9183,9600,CM,V32B,V42,XX,XA,V2
+15,01;
+15,01; [413]
+15,01;
+15,01Host,413,413_Hub,Cheshire_MA,Phaser-X,413-743-9183,9600,CM,V32B,V42,XX,XA,V2
+15,01,1,Seeds_of_Destruction,Cheshire_MA,Phaser-X,413-743-9183,9600,CM,V32B,V42,XX,XA
+15,01,V2
+15,01,2,Temporary_Insanity,Dalton_MA,Kolgoria,684-0245,9600,CM,V32B,V42,XX,XA,V2
+15,01,3,Chemical_Wasteland,Palmer_MA,Hammer,413-283-8438,9600,CM,V32B,V42,XX,XA,RG
+15,01,4,Death_Row,Springfield_MA,Flatline,413-782-1851,9600,CM,V32B,V42,XX,XA,V2
+15,01,5,Reapers_Blade,Palmer_MA,Reaper,413-283-4747,9600,CM,V32B,V42,XX,XA,V2
+15,01;
+15,01; [613]
+15,01;
+15,01Host,613,613_Hub,Ottawa_CA,Practical_Joker,613-737-9459,9600,CM,V32B,V42,XX,XA,R
+15,01G
+15,01,1,April_Fool's,Ottawa_CA,Practical_Joker,613-737-9459,9600,CM,V32B,V42,XX,XA,RG
+
+15,01,2,Flatlined_Reality,Ottawa_CA,Nailz,613-224-8279,9600,CM,V32B,V42,XX,XA,V2
+15,01;
+15,01; [819]
+15,01;
+15,01Host,819,CAN_HUB,Gatineau_QU,Acidflash,819-669-1685,9600,CM,V32B,V42,XX,XA,V2
+15,01,1,Line_Of_Fire,Gatineau_QU,Acidflash,819-669-1685,9600,CM,V32B,V42,XX,XA,V2
+15,01;
+15,01; [801]
+15,01;
+15,01Host,801,801_Hub,Midvale_UT,TAE,801-255-5251,9600,CM,V32B,V42,XX,XA,V2
+15,01,1,The_Lost_Temple,Midvale_UT,TAE,801-255-5251,9600,CM,V32B,V42,XX,XA,V2
+15,01,2,Twisted_Reality,Sandy_UT,Bass_Man,801-568-1506,9600,CM,V32B,V42,XX,XA,V2
+15,01;
+15,01; [805]
+15,01;
+15,01Host,805,805_Hub,Moorpak_CA,Sundowner,805-529-5469,9600,CM,V32B,V42,XX,XA,RG
+15,01,1,Lost_Horizons,Moorpak_CA,Sundowner,805-529-5469,9600,CM,V32B,V42,XX,XA,RG
+15,01;
+15,01; [407]
+15,01;
+15,01Host,407,407_Hub,Palm_Beach_Gardens_FL,Shorty,407-625-9854,9600,CM,V32B,V42,XX,X
+15,01A,VX
+15,01,1,The_Den_of_Eniquity,Palm_Beach_Gardens_FL,Shorty,407-625-9854,9600,CM,V32B,V4
+15,012,XX,XA,VX
+15,01;
+15,01; [914]
+15,01;
+15,01Host,914,914_Hub,Upstate_NY,Winter_Rose,914-234-9674,9600,CM,V32B,V42,XX,XA,OB
+15,01,1,The_Country_Store,Winter_Rose,914-234-9674,9600,CM,V32B,V42,XX,XA,OB
+15,01;
+15,01; [216]
+15,01;
+15,01Host,216,216_Hub,Clevland_OH,Quran,216-951-7059,9600,CM,V32B,V42,XX,XA,OB
+15,01,1,Harvest_Moon,Clevland_OH,Quran,216-951-7059,9600,CM,V32B,V42,XX,XA,OB

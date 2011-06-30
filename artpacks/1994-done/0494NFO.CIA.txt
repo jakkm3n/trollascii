@@ -1,0 +1,78 @@
+
+
+00,01   04mm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mm
+04,01   14,04   ##13,01@@@04##   00mmmmmmmm    mmmmmmm15          00mmmmmmm15       00mm15     04##13@@14,04##  
+04,01   14,04  ##13,01@@04###00m14,00            00,01  14,00         00,01 14#01@14,14#  14,01" 14,00         00,01 14#01@14,14# 14,01"00m14,00  14,01#01@14,14# 14,01|04##13@@14,04## 
+04,01   14,04 ##13,01@@04##00m14,00   00,01"15      00"14,00   00,01|  14,00       00,01 14#01@14,14# 14,01"    14,00       00,01 14#01@14,14#14,01"00m14,00    00,01|14#01@14,14# 04,01##13@@14,04## 
+04,01   14,04 ##13,01@@04#00|14,00   00,01| 14#01@14,14#   14,01m 00""   |14,00     00,01|14#01@14,14# 14,01|15     00|14,00     00,01|14#01@14,14#14,01|  00|14,00    14,01#01@14,14# 14,01|04##13@@14,04# 
+04,01   14,04 #13,01@@04##14,00    00,01 14#01@14,14# 14,01" "14,14  15,01      14,00     00,01 14#01@14,14# 15,01       14,00     00,01 14#01@14,14#14,01" 00mm14,00    00,01|14#01@14,14# 04,01##13@@14,04# 
+04,01   14,04 13,01@@04##00|14,00    00,01 14#01@14|15            00|14,00   00,01|14#01@14,14# 14,01|15       00|14,00   00,01|14#01@14,14#14,01|00|14,00       00,01|14#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 13,01@@04##00|14,00 00##14 00,01 14#01@14,14#15,01       14m14,15"14,01|  14,00 00 # 14 00,01 14#01@14,14# 14,01|15      14,00 00 # 14 00,01 14#01@14,14#14,01|00"""00,00####14,01|#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 13,01@@04##15|00,00####00,01|14#01@14,14#15,01      14,15 00,00##14,01| 14,15|14,00 00###14 14,15|15,01 14#01@14,14# 15,01     14,15|14,00 00###14 14,15|14,01##01@14,14#14,01    14,15 00,00##14,01|#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 #13,01@@04##14,15|15@@@@15,01 14#01@14,14#14,01mm  15m15,15@@@14|14,01|14,15 15@@@@@14 14,01|#01@14,14# 14,01|   |14,15 15@@@@@14 14,01|#01@14,14#14,01|  15m15,15@@@14|14,01#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 ##13,01@@04##14,15| 00####15,01mmmmm00,15#####14,01|14,15|00#######14|15,01 14#01@14,14# 14,01   14,15|00#######14|15,01 14#01@14,14#14,01  00,15####14,01|#01@14,14# 04,01##13@@14,04# 
+04,01   14,04 ###13,01@@04##14"14,15m #########m14,01""|14,15m#######m14,01|#01@14,14# 14,01| |14,15m#######m14,01|#01@14,14#14,01|14,15##m14,01""#01@14,14# 14,01"04##13@@14,04# 
+04,01   14,04 # ##13,01@@04## 14""""""""""15     14"""""""15          14"""""""15     14"""15       04##13@@14,04## 
+04,01   "" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ""
+04,01   14,04 ##13,01@@04#""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""#13@14,04## 
+04,01   14,04 ##13,01@@04#15        04C 14R 13E A T O R S  04O 14F  04I 14N 13T E N S E  04A 14R 13T15          04#13@14,04## 
+04,01   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" SD
+
+15,01      14In last month's .NFO, I mentioned our courier situation was lacking,
+14,01 to say the least.  So this month, we had ELEVEN people apply to our
+14,01 courier division!  Thanks to everyone that joined this month.  With
+14,01 your help, our sites should finally get the packs.  We've also gained a
+14,01 few new artists.  We've gained so many new faces this month, I won't bore
+14,01 you by listing them all!  I will mention one guy, Sole Assassin, was entering
+14,01 iCE Trial and was an established IDP artist at the time we recruited him.
+14,01 Thus, you'll notice their logos on his ansis. Glad to have ya, SA!
+15,01      14If you're calling our World HQ, it's temporarily down pending an
+14,01 upgrade to 4 nodes.  It should be back up this within a day or two of you
+14,01 reading this.
+15,01      14We've also added an Internet address, so you guys can all come running
+14,01 to apply :) and to request our packs (how ever the hell Internet works -
+14,01 I'm an Internet lamer). And a VMB. Again, if you'd like to apply call our
+14,01 VMB at:
+15,01                              800-968-1616  pin: 382# <--pound
+
+14,01contact us on Internet at:
+15,01                              CiA@bobsbox.rent.com
+
+14,01or, call our Application HQ, 04Muerte at 908-647-1194 14if you like PC Board
+14,01or, our World HQ is you like Oblivion/2  11513-923-4954, Illegal Embassy14..
+15,01                                             06^^^^^^^^+--- yes, it changed!
+15,01                                             06+++++++++
+15,01      14Also, our Net is doing well.  Should any CiA affiliated board wish to
+14,01poll our net, look for instructions on the net in the net app.  Your board
+14,01has already been added - just set it up and poll!  Anyone else, please fill
+14,01out the app. and send it to Muerte.
+15,01      14One of our Senior Staff members, Ground Zero, decided to head off to
+14,01Gothic.  Unfortunately for the art world, Gothic had an early demise.  Thus,
+14,01we begged and pleaded :) and GZ decided to return! Welcome back, Ground Zero!
+14,01Welp, (to coin a word from Sudden Death), that's about it. Oh, lemme try
+14,01that again.  Last month we asked for couriers.  This month, we could use
+14,01some Lit guys badly, and any ansi and vga guys that wish to join.  Of all the
+14,01groups you could choose from, please consider that this is pack 11, which
+14,01should tell you a little something about our stability! CyA!
+
+15,01                   14Tron 13(09C10i08A13)
+
+15,01Greets:
+
+14,01Rad Man- no hard feelings on that phone number, I hope. ACiD jams!
+14,01T2 - We feel honored to be greeted on ansis that good..
+14,01Icy- Hey! (Prozac and Trident said to :)
+14,01Maestro- Good luck with Nation. Your input should make it work!
+14,01Sneaky Car Thief- CiP net is pretty cool..thanks for the help
+14,01The Stalker- that Venom! Oh, yeah. That was awesome! =)
+14,01IMP- the awesome product of a successful merge..
+14,01Havok guys- hey!
+14,01Manifest-keep jamming!
+14,01Ground Zero- always missed, always welcome!
+14,01Soul Seeker- we're much better now. Blade is doing well. Congrats.
+
+14,01And just so it's in print SOMEWHERE..  (sorry, to take the group to this level)
+
+14,01A ONE-time personal FUCK YOU to 513's biggest lamer-no life-momma's boy-
+14,01K-Rad elite wanna be-bbs name stealing (and, stealing Unlimited Power, no less)
+14,01-crying baby-PE Doom star- ... Public Enemy.

@@ -1,0 +1,21 @@
+04,01pedStrippedStrippedStr06m04ppedStrippedStrippedStripp06m04dStrippedStrippedStrippedStr
+04,01rippedStrippedStrippe13###04rippedStrippedStrippedSt13###04pedStrippedStrippedStripped
+04,01dStrippedStrippedStr06|13#04@13#06|04StrippedStrippedStripp06|13#06@13#06|04ipped06m04trippedStrippedStrip
+04,01ppedStrippedStripped13#04@14,13 04,01@13#04pedStrippedStrippedStr13#06@14,13 06,01@13#04Str10 13###04dStrippedStrippedSt
+04,01trippedStrippedStrip06|13#04@13#06|04ripped13Stripped04Stripped06|13#14,13#13,01#06|04ped06|13#06@13#06|04pedStrippedStrippe
+04,01edStrippedStrippedStr13###04edStrippedStrippedStripp13#06@13#04trip13#06@14,13 06,01@13#04rippedStrippedStri
+04,01ippedStrippedStrippedS06"04rippedStrippedStrippedStr13###04edSt06|13#14,13#13,01#06|04dStrippedStrippedS
+04,01StrippedStrippedStripp06m04dStripp06m04dSt10 06mmmm04dStripped13###04ipped13#06@13#04ippedStrippedStripp
+04,01pedStrippedStrippedSt13###04pedSt13###04p06m13######06m04edStrip13#04@13#04Stri06|13##06|04StrippedStrippedStr
+04,01rippedStrippedStripp06|13#06@13#06|04ipp06|13#04@13####06"04e06"13###06|04ppedS06|13#14,13#13,01#06|04edS13###04ppedStrippedStripped
+04,01dStrippedStrippedStr13#06@14,13 06,01@13#04Str13#04@14,13 04,01@13#06"04trip06|13###04tripp13#04@14,13 04,01@13#04i06m13###06|04trippedStrippedStrip
+04,01ppedStrippedStripped06|13#14,13#13,01#06|04ped06|13#14,13#13,01#06|04pedStr13###04edStr06|13#14,13#13,01######06|04pedStrippedStrippedSt
+04,01trippedStrippedStripp13#06@13#04tripp13#06@13#04tripped06|13##06|04pped06|13#04@13##04p06"13###06|04ippedStrippedStrippe
+04,01edStrippedStrippedStr13###04edStr13###04edStripp13###04tripp13###06|04rip13###04StrippedStrippedStri
+04,01ippedStrippedStripped13###04ipped13###04ippedStr13###04edStr13###04edSt06|13##06|04edStrippedStrippedS
+04,01StrippedStrippedStrip13#06@13#04Strip13#06@13#04Stripped13#06@13#04ipped13#04@13#04ipped13#04@13#04ippedStrippedStripp
+04,01pedStrippedStrippedS06|13#14,13#13,01#06|04edS06|13#14,13#13,01#06|04edStri06|13#14,13#13,01#06|04tri06|13#14,13#13,01#06|04tri06|13#14,13#13,01#06|04t   pedStrippedStr
+04,01rippedStrippedStripp13#06@14,13 06,01@13#04ipp13#06@14,13 06,01@13#04ippedS13#06@14,13 06,01@13#04edS13#04@14,13 04,01@13#04edS13#04@14,13 04,01@13#15 14A.r 04ippedStripped
+04,01dStrippedStrippedStr06|13#06@13#06|04Str06|13#06@13#06|04Stripp06|13#06@13#06|04ipp06|13#04@13#06|04ipp06|13#04@13#06| 14iNT 04StrippedStrip
+04,01ppedStrippedStrippedS13###04ppedS13###04ppedStri13###04dStri13###04dStri13###04dS   ppedStrippedSt
+04,01trippedStrippedStrippe06"04Strippe06"04StrippedSt06"04ippedSt06"04ippedSt06"04ippedStrippedStrippe

@@ -1,0 +1,52 @@
+
+
+
+00,01- --- 15- -14---------------------------- -
+
+14,01 This poem is one I call "home". I dedicate it
+14,01 to a friend named Brynn, with whom I spent my
+14,01 childhood with and have not seen in 3 years.
+
+00,01- --- 15- -14---------------------------- -
+
+
+
+00,01W10h11en
+11,01one light shows itself in a dream.
+
+00,01W10h11en
+11,01one person walks down the street,
+
+00,01a10n11d
+11,01he is known to you but unknown.
+
+00,01A10s
+11,01the great tides receed,
+
+00,01t10h11e
+11,01moon bekoning them back to their land.
+
+00,01A10s
+11,01that one shooting star makes its path across the sky.
+
+00,01W10h11en
+11,01the fireflies begin to lose their their flare.
+
+00,01W10h11en
+11,01that one party is over and you feel deprived.
+
+00,01W10e
+11,01will all return to our safe havens.
+
+00,01W10e
+11,01will all return home.
+
+
+15,01                    00-15-14- Strict9 [Shv/Alv] -15-00-
+
+
+
+
+
+15,01>SAUCE00Return Home                        Strict9             Shiver           
+15,01   19940924**  @@P 2                             

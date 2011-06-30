@@ -1,0 +1,79 @@
+15,01      _.,_                                                           _,._
+15,01     g'  .'          _.,_                                           '.  'g
+15,01     t$,            d'   ;               _.,_         .``,             ,$t
+15,01      `Qp,_         t$,`~              d$' . ;          j$b         _,p7`_
+15,01     _,t72;2Qp,      `Qp,   ```"b      2$b_ `          j$$$Q,_  ,pSP2"`_d$,
+15,01  ,fP2"*$ar!dP"jn,_.,q$b$b,___,j$$p,____`2Q$b,_______,d$$$$$$$$c$'_,@S'` `db,_
+15,01  $$b,_ `'2'`   `2jP2"````"2c$"``"t$$$$SSS$$$$P2""`````""2Y$5' 00flip15 cb   d$2"__
+15,01 _`"2c$b arsenik,d$b, stiles jb_.,dP"`00 04info 15`"2cb,        j$Q, 00199715 j$   `$btc'
+15,01 "Qc,_  _.-.._  __d$2cb,_ _,dP2"``Q,  00 04 file15     `$b,___,Q` `$fassqt2'    `j'
+15,01   J$7"`!en~ `"$"`2sgm!`2$P2"`"Qb,_`Qp,._00 13#3015 _.,tP2""```"bsd$72"`"Jb,_ _,d$b,_
+15,01   `$'^tropic_,$b,_   _.jb,_ _,d$$$$$S$$SSSSS$P_,s,_ _.,sP` `Yb,__,d2"````"2c$'
+15,01`_,j$b,_doom`"2c2~`````""2S$c'``$c2"`````2c$$c2"`````"2c$b,_,d$'_  ,P"`"Y,  .'
+15,01  `2c2'`                   `$,.'   15,02F00,01LiP15     `2.         ,`"2"`,dP' `b,_,d'
+15,01                            ;`.  00Productions 15 ,`,      d$$SgQ$2'   ,P"`"Y,_
+15,01                          ,"   `,00 Release #3015 `.'    ,dc2"`        `b,_,d'`$b
+15,01 00,11The haps:00,01 15               ", .`' ; 00(March 1997)15    ,J2' _.,,,,,._  ,P"`"Y,dP'
+00,01You squeeze our eggs and15   _;`...'                ,P' j00@15P2"d00@15b"2Yb,`b,_,d``
+00,01we'll squeeze yours!15    ,2'"                      $' j$7   ' `   Q$  `+-+2"2b 
+15,01                        `q.'                      Q, `Qb,_  b _,dP'     __,.'
+15,01                                                        "2cS$P2"`   ,dP"``
+14,01Hey all, hope your spring is starting to look as sunny as15          j$'
+14,01can be.  This is my third Spring over at FLiP Productions, and15     `Qb_ ,'`b
+14,01I'm pleased with how everything has changed in the past few years.   15`"2+-+'
+14,01And I'm especially surprised at how much has changed in the last month15. `+,  
+14,01First of all, I'd like to welcome a new coder, 13Moose14[904].15  14Hopefully15      `+,
+14,01we will see some of his future15 14projects very soon.15 14Also,15                 _,-+'
+14,01I'd like to welcome back the15 14talented artists15             ;"2b,  _    ,P2"
+13,01Arsenik14[604]15 14and 13C214[503]15 14(formerly Terrakomm, Solar15       `"+-++'"`q, Qp, 
+14,01Seven, and Touchtone).15  14Arsenik has taken the much needed15      `Qb  Qb `"2+,
+14,01position15 14of art coordinator. Speaking of coordinators, we are15    "'  `"+,_,+'
+14,01still in a transitionary period between their involvement of putting
+14,01together.  (...still looking for a coodinator for the courier department)
+14,01So coordinators, be patient, and we will15 14soon get into gear on15 14how things
+14,01will be done in the departments.  Of course if you have any15 14suggestions 
+14,01on what should be done, feel free to e-mail me.
+14,01  15                          14  
+13,01Redcoat14[+65] (coder/reversified) is now working on the new FLiP publication  
+14,01which is the15 14'04Reversified14' e-mag.15 14Currently, if you wish to help15 14out with
+14,01the emag, be sure to e-mail him.
+
+13,01Surge!14[313] is the FLiP Clan Team Captain and has officially registered
+14,01the 04FLiP Clan14 with Clan Ring.  The FLiP Clan Webpage is also up but under
+14,01construction.  It is in need of more grafx.  If you are interested in 
+14,01trying out for the team or wish additional info for a scrimmage, please
+14,01be sure to e-mail him.
+
+14,01Special thanks to 13Faust14[904] (artist/communications coordinator)  for 
+14,01implementing the FLiP members mailing list and the #flip channel on efnet. 
+14,01Communication between the members has increased tremendously because of his 
+14,01help and they've also added a greater sense of unity within the dedicated
+14,01group members.  
+
+14,01Of course, this added benefit didn't come without its consequences. This
+14,01past month a couple of former (first time FLiP ever KICKED anyone out)15 14FLiP
+14,01members (who shall remain nameless at this point) tried to draw FLiP into a
+14,01little scuffle with another art group... testing the limits of FLiP's
+14,01intolerance of becoming involved with the immature group politics that FLiP
+14,01was created to avoid.  Needless to say, it is necessary to revisit the roots
+14,01of FLiP Productions... In June 1994, FLiP was founded by Kid Terrific on the
+14,01premise that... the main reason we created our multimedia artwork was for fun
+14,01as well as spread our creativity to a larger audience.  At the time, many
+14,01art groups were being burdened with "elite" and "I'm-better-than-you
+14,01attitudes".  FLiP choose to avoid all of that and returned to the true roots
+14,01of multimedia art.  Years later, the scene has changed tremendously, and
+14,01though the remnants of older attitudes lingers on, the FLiP ethic remains
+14,01the core of our group.
+
+14,01Anyhow... a slow but action packed month.<g>   So we encourage all flip
+14,01members to get hooked up with the flipmailing list and drop by the flip
+14,01channel when you get a chance.15  14As always, flip is looking for new talent
+14,01and ideas...  join the team today!
+
+14,01That'll be it for this month.  Enjoy the pack.;}
+
+
+15,01               13Dinugz14 (FLiP Senior)15    13Catastrophe14 (FLiP Senior)
+15,01               14criscokid@hotmail.com15 14  catastrophe@hotmail.com
+15,01>SAUCE00FLiP#30 Information                Multiple            FLiP PRoDuCTioNS 
+15,01   19970331q_  @@P M                             

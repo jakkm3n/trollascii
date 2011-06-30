@@ -1,0 +1,54 @@
+15,01Hello Dudes.
+
+15,01This is the 3d viewer version 1.0alpha - it was completed about 12 hours 
+15,01before the pack was been released, so no extensive beta testing could have 
+15,01properly been completed.
+
+15,01Briefly, the idea behind this routine is to invent a new art-form - three 
+15,01dimensional art. For quite some time now, iCE has ruled ANSi and VGAs... Now 
+15,01we have created our very own art form.  I hope it will be spread to other 
+15,01groups, and provide our artists with another creative form of expression.
+
+15,01This early 1.0 release of the program merely serves as a viewer for files that
+15,01are created within 3-D Studio (files which are saved as *.3D files).  It only
+15,01currently has support for one object, but will probably handle multiple 
+15,01objects in the next release.
+
+15,01Run it using (on the command line):
+
+15,013DVIEW.EXE <*.3D>
+
+15,01Keyboard controls are as follows:
+
+15,01 * 1/2: increase or decrease the size of the object being
+15,01        displayed.
+
+15,01 * Q/W: increase or decrease the delta angle #1.        
+
+15,01 * A/S: increase or decrease the delta angle #2.
+
+15,01 * Z/X: increase or decrease the delta angle #3.
+
+15,01 * T  : Reset all angles/delta angles.
+
+15,01 * Esc: break out of this thing.
+
+15,01The newer version (next iCEPACK...) will support light source shading and 
+15,01maybe bitmapped images - but that would require heavy CPU usage - unlike this 
+15,01that will run perfectly on a 286 level machine.
+
+15,01Ford Prefect - iCE - UNT - TPC - HaSP
+
+15,01Special thanks go to:
+
+15,01* Spockous (or is it Calius?) - thanks for standing by for the beta testing.. 
+15,01  hopefully my poly fill routines won't fuckup the sinus table next time :)
+
+15,01* Syntax Error - thanks for pushing the deadline.. hehe. 
+
+15,01greets go to... err, all IRC cool guys, Dark Knight, Fenris Wolf, Bandieto, 
+15,01Tempus (now got my drift?), DDon.. BoniJoni, AMachine, Tarl Cabot, Zax, Zig, 
+15,01Iridium, Renegade Bithead, Warchild, and I am sure I left out too many of you 
+15,01pals... next time :)
+
+15,01( Isrealian spell checking handled by Syntax Error.. :) )

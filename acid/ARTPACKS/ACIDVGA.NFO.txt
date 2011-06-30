@@ -1,0 +1,50 @@
+
+15,01   #------------------------------------------------------------+ 
+15,01   | "The Aquisition" - Contains the complete VGA Collection.   |
+15,01   | Background History:    The VGA Collection was started in   |
+15,01   | Olympia,  Washington.  When  all the fields were defined   |
+15,01   | it first appeared on Spyrit's Crypt BBS.  Honus Wagner     |
+15,01   | took over responsibility for the VGA acquisition in April  |
+15,01   | of 1992.  The VGA Acquisition now comes from Final Fantasy |
+15,01   | once a month.                                              |
+15,01   +============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |     The Aquisition : Complete     *    May  1st, 1992     |
+15,01   +-----------------------------------------------------------+
+
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01 |1  |ACIDMEMS EXE |  24262 | 2.25.92 |%>  | ACiD Members                    |
+15,01*|2  |ACIDT    EXE |  20298 | 4.19.92 |%   | ACiD VGA                        |
+15,01*|3  |ACIDVGA  EXE |  21538 | 4.30.92 |%   | ACiD Acquisition VGA Logo       |
+15,01 |4  |CREWELYE EXE |  37318 |11.23.91 |%   | Crewel Lye                   (1)|
+15,01 |5  |CRWLACD2 EXE |  34575 | 1.16.92 |%AM | Crewel Lye                   (2)|
+15,01*|6  |FUCKFED  EXE |  27223 | 2.13.92 |%   | Fuck Feds!                      |
+15,01 |7  |JED      EXE |  13748 | 2.24.92 |%   | JED - "The JED Experience"      |
+15,01 |8  |MWI      COM |  25197 | 1.08.92 |%   | Modeming While Intoxicated      |
+15,01 |9  |POOL     EXE |  26742 |12.04.91 |%A  | Pool of Radiance                |
+15,01 |10 |REBEL    EXE |  21271 |11.28.91 |%   | Rebel Faction                   |
+15,01 |11 |SC1ACID  EXE |  18197 | 2.29.92 |%   | Spyrit's Crypt                  |
+15,01 |12 |SCD#12   GIF |  28880 |11.20.91 |%   | SCD Issue 12 Logo               |
+15,01 |13 |SCD#13   EXE |  80896 |12.18.91 |%x  | SCD Issue 13 Logo               |
+15,01 |14 |SCD#14   EXE |  77439 | 2.20.92 |%Ax | SCD Issue 14 Logo               |
+15,01 |15 |SH-ACID1 EXE |  25898 | 3.09.92 |%>  | Splatter House                  |
+15,01*|16 |TSRACID  EXE |  30249 | 4.21.92 |%   | Terminate & Stay Resident       |
+15,01 |17 |USA      EXE |  18353 | 2.15.92 |%   | USA Logo                        |
+15,01 |18 |ACIDVGA  NFO |   2775 | 4.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = Animation             |
+15,01  | M = Sound (Adlib/SB)     > = Color Cycling         |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 18         Average Compression Rate: %01  |
+15,01  |   Total Bytes: 535,179    Total Bytes Zipped:   534,593  |
+15,01  |                                                          |
+15,01  +----------------------------------------------------------+

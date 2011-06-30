@@ -1,0 +1,53 @@
+
+00,01                    "#                                                        
+00,01                      mmm               mmm"#        mmm                      
+00,01                     |14,00 15,01@14,00#00,01|         mm14,00  #  00,01|     mm14,00    00,01| "                     
+00,01                      "14,00#00,01" m14,00 00,01"# mm14,00  00,01"" 14,00 15,01@14,00  00,01   m14,00  00,01"  14,00 15,01@14,00 00,01                        
+00,01                        m14,00  00,01| m14,00  00,01m14,00  00,01   14,00 00,01#14,00# 00,01 m14,00    00,01  "14,00 00,01m14,00 00,01                        
+00,01                      m"14,00 00,01m14,00 00,01||" 14,00 00,01 14,00# 00,01  m14,00 00,01m14,00  00,01|"14,00# 00,01m14,00 00,01     ""m                      
+00,01----------------------- 14,00 00,01 14,00# 00,01   14,00 00,01#14,00  00,01     """m14,00# 00,01 14,00#  00,01" -------------------------- 15 
+00,01ice ice ice ice ice ice 14,00 00,01#14,00  00,01   14,00 15,01@14,00  00,01 m"m     14,00# 00,01#14,00 00,01   14,00  00,01m nfo nfo nfo nfo nfo nfo
+00,01-------------------- #m 14,00 15,01@14,00  00,01 m 14,00 15,01@14,00  00,01   14,00   00,01m  15@14,00 15,01@14,00 00,01   14,00 15,01@14,00 00,01"m --------------------- 15 
+00,01                       "14,00 #  00,01m||14,00 #  00,01   14,00 15,01@14,00  00,01"m#14,00 # 00,01m14,00 00,01"14,00 00,01m14,00 00,01 ||                     
+00,01                      #m "14,00 15,01@14,00# 00,01 14,00 #  00,01m14,00 00,01"14,00 00,01m14,00  00,01   14,00 # 00,01"m|"14,00  00,01 "  #"                  
+00,01                       |14,00#00,01m 14,00#00,01"  14,00 #  00,01" m m14,00  00,01| |14,00  00,01|  14,00 00,01m || at/tt                 
+00,01                        15@00    m14,00  # 00,01 m14,00#00,01| |14,00 00,01"  14,00   00,01   14,00#00,01| "                        
+00,01                        #     |14,00   00,01  15@00  "    |14,00 00,01|   15@00                           
+00,01                           #   14,00  00,01   #     #  "14,00 00,01   #  "                        
+00,01                           15@00  # "|  #     15@00    "     #                        
+00,01                           14,00#00,01   |m         14,00#00,01       #                           
+00,01 1. Once again apologies   m    15@00         |          . for making all you ice 
+00,01    fanatics wait for your                #     .    monthly fix of pure art- 
+00,01    istic perfection.               #                                         
+00,01                                                                              
+00,01 2. The ICE/REN music disk "Epidemic" is out!, go grab a copy its the best    
+00,01    music disk ever to hit the scene.                                         
+00,01                                                                              
+00,01 3. Alterations to our Member listing this month include: The removal of      
+00,01    Animal, Spirit of Illusion & Vanquish, and also proud to welcome          
+00,01    Firebyrd & Smooz into our little love nest (note: due to a mishap we 
+00,01    werent able to include firebyrd's art into this months pack) we apologize 
+00,01    to fb for the inconvenience.
+00,01    15         00                                                                 
+00,01 3. Lord Soth (slothy) has stepped down from his "Not so senior Senior staff" 
+00,01    position, a lack of time has made him come to this decision.              
+00,01                                                                              
+00,01 4. There are a few  pictures that can't be viewed with Multi-View this       
+00,01    month, they are Mascot's JPG and slothy's rip.                            
+00,01                                                                              
+00,01 5. The iCN hub is Sanctuary(tm), 3o5.PRO.SANC, 21:1305/1.  If you are in     
+00,01    iCE, and a sysop of your own board, call there and apply to get the       
+00,01    network.  The net has been condensed, and it is all private now.          
+00,01                                                                              
+00,01 6. We would like to point out once again, that all ICE member's need to      
+00,01    upload there monthly pieces of art to the WHQ, Sanctuary(tm), if you do   
+00,01    not do so, your art will be left out of the pack.                         
+00,01                                                                              
+00,01                                                            - Deepstah        
+00,01                                                                              
+00,01+----------------------------------------------------------------------------+ 15 
+00,01|      ... Tempus Thales ... Aphex Twin .. Shaggy .. Syntax Error ..         | 15 
+00,01+----------------------------------------------------------------------------+ 15 
+00,01                     shaggy@io.org  Syntax@pentagon.io.com                     15 
+
+15,01>

@@ -1,0 +1,80 @@
+
+15,01                               SPOON ][
+
+15,01              The ut(ens)il designed to handle the SAUCE
+
+15,01                   By Tasmaniac of ACiD Productions
+
+
+15,01+--------------------------+
+15,01| What is SPOON?           |
+15,01+==========================+
+
+15,01        SPOON is a utility to add SAUCE to your files.  If you don't know
+15,01   what SAUCE is, you may want to check out SAUCE.TXT.  In short, SAUCE
+15,01   stands for "Standard Architecture for Universal Comment Extensions".
+15,01   SAUCE adds a full description to ANSi, Graphics, sound and several
+15,01   more types of files.
+
+15,01        In case you don't like SAUCE.  SPOON ][ will just as easily help
+15,01   you to remove SAUCE.
+
+
+15,01+--------------------------+
+15,01| What is SPOON ][ ?       |
+15,01+==========================+
+
+15,01        After a long time of 'managing' with SPOON, SPOON ][ was
+15,01   developed.  It provides an improved user interface over the original
+15,01   SPOON, and has several handy features that simply HAD to be there...
+15,01   Things like detecting the size of several of the most common image
+15,01   types.
+
+
+15,01+--------------------------+
+15,01|  How does it work ?      |
+15,01+==========================+
+
+15,01   SPOON is a very straightforward utility.
+
+15,01        After typing SPOON at the DOS prompt, SPOON will load the list
+15,01   of files in the path and present them to you.  You can use the
+15,01   Up/Down cursor keys to select the file you want.  You will notice
+15,01   the right window stating either "NO SAUCE" indicating the selected
+15,01   file has no SAUCE, or it will contain the full SAUCE details.
+
+15,01   Pressing [Enter] will select the file, and will put SPOON in SAUCE
+15,01   edit mode, where you can modify what you want.  SPOON will do it's
+15,01   best in autodetecting as much as possible.  If a file already has
+15,01   SAUCE, no autodetection occurs.
+
+15,01   Pressing [Enter] on a directory will make that directory active.
+
+15,01   Pressing [Del] on a SAUCEd file will delete the SAUCE information.
+
+
+15,01+--------------------------+
+15,01|  SAUCE Edit mode         |
+15,01+==========================+
+
+15,01   The edit mode works like most input screens.  You can type the text
+15,01   you want in the appropriate fields.  Pressing [F2] will allow you to
+15,01   Select the Datatype and Filetype.
+
+15,01   [Esc] brings you back to the file selection without saving any
+15,01   modifications.  [F10] will save the SAUCE information and bring you back
+15,01   to the file selection.
+
+
+15,01+--------------------------+
+15,01|  Customizing SPOON       |
+15,01+==========================+
+
+15,01   SPOON has very little SAUCE-related specifics hard-coded.  Most of
+15,01   the SAUCE specs are defined in SPOON.INI, which you can modify to
+15,01   your liking.  In addition to adding new filetypes and new
+15,01   datatypes, you can modify the list of autodetected authors, and
+15,01   the types of files you'll be using.  Check out SPOON.INI for
+15,01   further details.  Everything for customizing SPOON is explained in
+15,01   there.
+

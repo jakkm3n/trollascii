@@ -1,0 +1,80 @@
+
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01ice ice ice ice ice ice 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m nfo nfo nfo nfo nfo nfo
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. Hi guys.. Syntax here   m    00@15         |          .  proudly typing up the
+15,01    .NFO to start off the                 #     .   new year right!  A hell of 
+15,01    a lot has been going on in       #              the past month, so without 
+15,01    further ado, I'll try to recap               what's been going on with all
+15,01    of us.. If everything went as planned, this pack should have been released
+15,01    one day early.. Yes, that's right.. trying to turn a new leaf with dates..
+
+15,01 2. New Members:   we are proud to welcome a whole hodge podge of both old and 
+15,01    new people to the group.   In no particular order:  Squidgalator and Porus
+15,01    have joined the VGA ranks.. Biscuit, Quasar, King Midas, Deeply Disturbed,
+15,01    Golgotha (yap, it's hard for me to beleive too), gman, Lord Drakul, Handy-
+15,01    man, and Leonard0 are new ansi artists.. and Killean the Red's a new coder
+
+15,01 3. Internet Access to the iCE Packs: I've recently accepted a position on the
+15,01    HORNET demo site, and we will once again make our latest art  packs avail-
+15,01    able through this site.. it should be up and functioning as of February 1.
+15,01    In case you've forgotten, the site is ftp.eng.ufl.edu and the packs should
+15,01    be located in the pub/msdos/demos/ansi directory..
+
+15,01     For those who are interested in picking up archives of any past pack,  we
+15,01    enourage you to check out our new home at freedom.wit.com... it's FTP'able
+15,01    (freedom.wit.com) with an anonymous login.. and if you're looking for some
+15,01    application info or you desire to get an ansi for your board, you can also
+15,01    use "finger ice@freedom.wit.com" for all the latest iCE Related News/Info.
+
+15,01 4. Things not viewable within XV:  the .JPGs by ImageSex (g), & Mascot, which 
+15,01    are highly recommended viewing, the loaders by Saint Blazer, and the  .RIP  
+15,01                                                                  
+15,01    from Mastah "Juvie" Ken.
+
+15,014b. A long friend of iCE and mine for quite some time, Pixel/FC, reqested that
+15,01    we release one of his VGA's that wasn't released at the Party competitions
+15,01    as was originally planned, and wanted to see what you all thought.. if you
+15,01    get the chance, mail him at pixel@mpoli.fi and tell him how awesome it was
+
+15,01 5. Paid Requests: we have been receving unusally high amounts of requests for
+15,01    these.. Almost to the point in which we can't keep up with them all, so if
+15,01    you are one of these  people who want your own iCE ansi or VGA, leave inet
+15,01    email to ice94@netcom.com... it can then be spread out among all the other
+15,01    people within the group.. Also, on that note, Tempus has an ansi that he's
+15,01    been working on for quite some time and he is interested in selling it for 
+15,01    the right price.. if you're interested in this, contact John at his board,
+15,01    our WHQ, the Sanctuary, and leave mail to "Gay iCE Guy".   If that doesn't
+15,01    work, try "Tempus".. seeing as how they really mean the same thing. If the
+15,01    ice94 account gets you no immediate response,then try mailing ice@wit.com.
+
+15,01 6. I'd like to send out a quick scene welcome to Alter Ego and his  Unchained
+15,01    group...  we in iCE wish your group all the best, and hope that it exceeds
+15,01    all your expectations.                                                 
+
+15,01 7. A special thanks goes out to all the iCE members that really went all out
+15,01    this month.  Being in the group for around 2 years now, it's great to see 
+15,01    the longevity and energy you guys still have had all this time.. from all
+15,01    the ansi greats who did up an ansi for us to start off the year right, to
+15,01    all of the very, very talented VGA guys who continue to amaze me with in-
+15,01    crasingly good pictures.  I've had a lot of fun helping with the pack this
+15,01    month, and hope everyone enjoys the art as much as I have...
+
+15,01                                    - Syntax Error [iCE] syntax@io.com
+
+15,01+----------------------------------------------------------------------------+
+15,01|                  ... Lord Soth ... Pnakotic ... Shaggy ...                 |

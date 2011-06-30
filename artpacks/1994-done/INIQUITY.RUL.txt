@@ -1,0 +1,55 @@
+15,01 Iniquity Net Requirements
+15,01--------------------------
+
+15,01_ You are required to have Fido compatible mailer (i.e. FrontDoor)
+
+15,01_ Iniquity Net HUBS use PKZip 2.04g to transfer mail - Make sure you have
+15,01  this version of PKZip setup in your mail tosser.
+
+15,01  Iniquity Net Rules
+15,01-------------------------
+
+15,01_ Keep one line messages to a minimum! (These are called for at points, but
+15,01  if 2/3 of your messages are onelined, you will be warned).
+
+15,01_ Try to keep the messages on topic in each forum.
+
+15,01_ User's macros should be no more than 3-4 lines (meaning I don't want to
+15,01  see macros bigger than the post itself).
+
+15,01_ Make sure that your users save their ansi screens for fido format,
+15,01  (ie: save length should about 78).
+
+15,01_ Please make light of others options, the focus of the net is to gain
+15,01  knowledge and information and benifit from others experiences.
+
+15,01_ Flames will come and go but if they get out of hand, the user will
+15,01  be teletrialed.
+
+15,01_ If your system will be down for some time, it is your responsiblity to
+15,01  tell your Hub that your board will be down, or else you will be removed
+15,01  from the nodelist.
+
+15,01_ New Iniquity Net Nodelist are sent to all nodes in the Nashville area
+15,01  when updated.  The nodelist is also put on hold for all Long-Distance
+15,01  Network Coordinators in other areas than Nashville, and the nodelist
+15,01  will be sent to them when they poll The Dark Side for their (your) mail.
+
+15,01_ On the first Friday of every month, at 5pm in Bellevue Mall, in Nashville,
+15,01  in front of Dillards, in the sitting area we have monthly 2600 meetings.
+15,01  At this meeting, Iniquity Net echos will be reviewed to see if any addition
+15,01  and/or deletions.  These meetings are not requirements only for personal
+15,01  pleasure and meeting.
+
+15,01_ Iniquity Net is an OPEN NET!  This means that some messages WILL BE
+15,01  offensive to some people because of the language and terminology used.
+
+15,01_ The Zone Cordinator, Net Cordinator, and any moderators WILL NOT be held
+15,01  responsible for ANY messages except for the ones written by himself.
+
+15,01_ You will be REQUIRED to have the message areas open to the ZC/NC when he/
+15,01  she calls for inspection.
+
+15,01  
+15,01  <*** End-of-File ***>
+15,01>

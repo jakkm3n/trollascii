@@ -1,0 +1,80 @@
+15,01iCEView Programming History
+15,01------------------------------------------------------------------------------
+15,010.20 was the first iCE pre-beta release. It had the purple iNKY interface.
+
+15,01Changes to 0.21:
+15,01- Grey + and - while viewing swap modes.
+15,01- 50 line mode.
+15,01- A for ASCII changed to B for Black on Black, and doesnt make everything
+15,01  gray.
+15,01- Arrow keys and Space from previous interface removed.
+15,01- Memory allocation method updated to the way I should have done it the
+15,01  first time.
+
+15,01Changes to 0.22:
+15,01- Grey + and - also work in the menu.
+15,01- Small VGA draws at the top of the screen now.
+15,01- Space toggles status bar throughout.
+15,01- Wide VGA mode implemented. [VGAW]
+15,01- A couple buttons were put in on the file screen to make the mouse move
+15,01  better. (lower left)
+15,01- Mouse hide on keypress fixed.
+
+15,01Fixes to 0.23:
+15,01- Added "-d" option for Debugmode without having to change the .CNF every time.
+15,01- Fixed mouse init problem (thanks, sloth!)
+15,01- Added .EXE support.
+
+15,01Changes to 0.24:
+15,01- Wide VGA mode vertical half-blocks (Alt-221 and Alt-222) fixed.
+15,01- Menu now jumps to first-letter keypress.
+15,01- Smoothed out the 50-line mode.. still not smoothscrolling, but smoother.
+15,01- added single file command line. Wildcard mode en route.
+15,01- Added .COM and .BIN to the file list.
+15,01- Added .BIN to VGA, VGAW, and 50Ln.
+
+15,01Changes to 0.25:
+15,01- Added wildcard command line mode.
+15,01- Added file exclusions to the config file. These are UNIX wildcard capable.
+15,01  for example, to keep ACIDVIEW.EXE out of the window:
+15,01  Exclude=ACIDVIEW.EXE
+15,01  Exclude=*EXE
+15,01  Exclude=*VIEW*EXE*
+15,01  Exclude=????VIEW*
+15,01  Exclude=AC*D*
+15,01- Reordered the file window. Now it's Files, Dirs, Drives.
+15,01- FINALLY fixed the vertical half-block bug in VGA mode.
+
+15,01Changes in 0.26:  ** ICEDRAW **
+15,01- iCEDraw Interface!
+15,01- iCEDraw Reading!
+
+15,01Changes to 0.30:
+15,01- I fixed the stupid bug in the ANSI code I created to offset a TheGrab
+15,01  bug. DUH! (I didnt know TheGrab HAD a bug.. silly me.)
+15,01- Alt-D creates a .DSC file in the subdirectory, with the directory name,
+15,01  ie. C:\ANSI\ICE\9502 would give you 9502.DSC.
+15,01- Alt-S Starts the Screensaver mode. Screensaver mode also kicks in if
+15,01  the viewer is left idle in menu mode for 5 minutes. Eventually this will
+15,01  be selectable in the ICEVIEW.CNF file.
+15,01- New Version Method:
+15,01  0.NumX  where
+15,01    0.  means BETA PRERELEASE ICE-ONLY SOFTWARE.
+15,01    Num means version number. New versions are created when SIGNIFICANT new
+15,01        features are added.
+15,01    X   means bugfix version. Examples: v0.30,0.30a,0.30b,0.31
+
+15,01Changes to 0.31:
+15,01- Fixed a Desqview problem. iCEView now comes with a Desqview PIF to ensure
+15,01  that it works correctly with DV. *NOTE* if you change windows, the colors
+15,01  get funky until you somehow trigger a redraw of the screen.
+15,01- SVGA Rudimentaries in place. Kinda slow, kinda messy.. but working.
+15,01  (0.31)
+
+15,01Changes to 0.31a:
+15,01- GIF 87a decoding and viewing. I'm trying to up this to GIF89. But, the
+15,01  routines for this came with this SVGA library, so I figured might as well
+15,01  code 'em in. ;)
+15,01- Tried to remove 386 specific instructions but it ended up shitting
+15,01  all over itself. <shrug> it happens.
+

@@ -1,0 +1,29 @@
+15,01TPU9    + P + + + + + + + E E         2G?                                       
+15,01~           "*  @*1                             =       K@      q       EA      
+15,01                  
+15,01@j*5@@@M   +x      +*            Y APPRECS  Paq q   Y*SYSTEM  so      P*VERNUMa 
+15,01n xv2.0  P14,15@15,01A1a n  11  P14,11@11,01A2a n M08  P14,08@08,01A3a n    P14,08@08,01A4a n    Q15  08BASICTYPE\@| 14,08@08,01  _  f@p@*
+08,01 +14,08@08,01U14,08@08,01>14,08@08,01g14,08@08,01  RAALIAS   e@a n   RxREAL  @o@a n p@RAPHONE  14,08@08,01N@a n   R15       08DATAPHON
+08,01E  *+@a n o@R15   08CITYSTATE  x+@a n +@R
+08,01MODEMSPEED  AI@a n +@R TYPECOMPUTER  *@14,08@08,01a n N@R GRAPHICSCARD   >14,08@08,01a n   R15       08S
+08,01OUNDCARD   014,08@08,01a n e@R
+08,01REFERENCES  15    08g14,08@08,01Y14,08@08,01|   @   @   *   P@n @  *  a n G14,08@08,01| @14,08@08,01R*AFFILS   U14,08@08,01i14,08@08,01|   @   @
+08,01   *   P@n @  *  a n z14,08@08,01| I@R BOARDREF  *+14,08@08,01+14,08@08,01|   @   @   *   P@n @  *  a n >14,08@08,01| 014,08@
+08,01RANOTES  $  <14,08@08,01|   @   @   x   P@n @  x  a n B14,08@08,01| + Q EXTENDEDTYPES*| 14,08@08,01 M15 08  v*)** 
+08,01>xrxBxa*  RACODER   {*m*|   @       @   P@n   @       14,08@08,01   P@n @ *   0@n M*| @ * 
+08,01  _*| ;*|   R COURIER * >*i*|   @       14,08@08,01   P@n @  *  a n A*|   RxANSI **a*+*|  
+08,01 @       14,08@08,01   P@n @ *   0@n +*| >*R*VGA 15 08*>x14,08@08,01x|   @       @   P@n @ 14,08@08,01   0@n =*| )
+08,01*RAMUSIC  *Bx4x|   @       14,08@08,01   P@n @ *   0@n "x| {*R*LIT M*rxdx|   @       14,08@08,01   P
+08,01@n @  *  a n Rx|   R DISTSITE M*  cx| 14,08@08,01  *  %xcx* -x>x      R BBSNAME   >xa n cx
+08,01R BBSPHONE  @-xa n   R*BBSNUP  14,08@08,01  a n   Q LISTTYPErx| 14,08@08,01 _P  +xjx* iAxA@AZA  R CH
+08,01OICES   /A!A|   @       !   P@n @  P  a n *A| jxR@X  P=A| n   R@Y @PKA| n   R14,08@08,01C1
+08,01 14,08@08,01PZA| n /AR14,08@08,01C2 *PiA| n =AR14,08@08,01C3 xPxA| n   R14,08@08,01C4 APcA| n KAR MARKED_CHAR *PfAL@n cA
+08,01RALIMIT  P@A| n fAR*CHOSEN  P  +A|   @       !   P@n @ P   0@n -A|   Q
+08,01CHOICETYPE%A| 14,08@08,01 *P   *
+08,01** j*  x*e*  R CHOICES   >*0*|   @       !   P@n @  P  a n A*|   R14,08@08,01C1  PM*| n 
+08,01*R14,08@08,01C2 @P\*| n M*R@X 14,08@08,01Pj*| n   R@Y *Px*| n >*RALIMIT xPe*| n \*R*MAX AP  | n   Q
+08,01SCREENTYPE+*|  x14,08@08,01       a*  P@n @ i*  | n K*|   R*SCREEN*   ++*|   R15    08BASICINF
+08,01O     \@| _@R EXTENDEDINFO  _  S*|   RATEMPC Mv  %A| U*RxLIST P3  rx|   R@I 0G  
+14,08@08,01@n ~           "*  @*1                             =       K@      q       EA  
+08,01                      
+08,01@j*5@@@M   +x      +*                    2G    x  cz<- APPRECS.PAS            

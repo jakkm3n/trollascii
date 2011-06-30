@@ -1,0 +1,80 @@
+15,01                     Lapse August 1994 Information
+15,01                     -----------------------------
+
+15,01Another month has passed, and Lapse is chugging along at a respectable pace.
+15,01As always, a few members have been gained and lost.  We were sorry to see
+15,01Hellspawn and his expert ansi-drawing skills leave us; he is now a member of
+15,01Tribe.  Good Luck, Hellspawn!
+
+15,01One of the members we acquired this month is T/+E, and he'll be helping us out
+15,01in the ansi department.  As you will notice, he is very productive, and has
+15,01improved drastically just in the past month.  You should expect great things
+15,01from him in the future.
+
+15,01The viewer is faster and smoother than ever this month.  The Red Flame
+15,01implemented hardware scrolling into it, and also added virus protection.
+15,01As before, LapseView views ANSI in all screen modes up to 1024x768 with VESA,
+15,01and also views AGSE, The Red Flame's own graphic standard.  AGSE emulates
+15,01real graphics with binary codes, much like ANSI, providing for extremely fast,
+15,01hi-resolution terminal emulation.  Unfortunately, our VGA department was weak
+15,01this month, and you won't get to see much AGSE.  Look out for it in the
+15,01future.
+
+15,01Any way, there is some quality artwork in the pack from our artists, and
+15,01Insanitor continues to pump out nice tunes in .S3M format.  Word has it that
+15,01The Red Flame's next big addition to LapseView will be music-playing
+15,01capabilities, but until then, I recommend PSI's Scream Tracker 3.01B to
+15,01listen to Insanitor's and Game's music.
+
+15,01One thing that needs to be clarified: Lapse is NOT accepting any more sites
+15,01inside the continental-USA.  Until further notice, we'll be sticking with
+15,01the sites and HQ's we have now.  We ARE, however, looking for talented,
+15,01productive artists and musicians, so feel free to apply via our application
+15,01generator.
+
+15,01Things to look for in the near future of Lapse: First, a literature
+15,01department.  We will probably be releasing separate bi-monthly lit packs
+15,01hopefully starting with September.  Also, we have considered creating a
+15,01small group of coders who will be coding PPE's for PCBoard BBS Software.
+15,01Expect the final word on that next month. Ansi's using ExtendedColor a.k.a
+15,01iCEColor will most likely be in the next pack..
+
+15,01Until next month...
+
+15,01Delirium Tremens
+15,01Lapse Founder/Ansi Art Coordinator
+
+15,01----------------------------------------------------------------------------
+
+15,01  Well, as Delirium Tremens said.. we're sorry to see HellSpawn leave.. even
+15,01for Tribe.. heh.. Anyway, we picked up T/+E and DeathWish.. both very 
+15,01talented artists.. this month Phaser-X actually did something.. heh.. two
+15,01logo's is all.. but still..
+15,01  Also, since I'm mostly in charge of sites.. I'd like to re-emphasize that
+15,01we are *not* taking anymore sites in the Continental US.. Meaning, if you're
+15,01not in another country.. or in Hawaii or Alaska.. don't fucking bother.. heh.
+15,01Not to mention, we hardly have any couriers.. (one.. and that's all) so, most
+15,01of the distribution will be done through internet.. which is ten thousands
+15,01times more effective in my opinion.. =)
+15,01  Anyway, it's just been another one of those hectic months.. I did weed out
+15,01the site list to all of my ability.. if you were taken from the site list the
+15,01reasons are either..
+15,01  a) You're position/hq was not needed.. and only cluttered up the site lists
+15,01  b) I have not heard from you for quite some time
+15,01If you've got a problem, or need to contact me.. I'm usually on irc in #ansi
+15,01or #lapse.. or you can mail me at tkiller@xmission.com or even call my board
+15,01Deadly Intoxication (801)553-8644..
+15,01  This pack, I included the slime-net pack (Lapse's official net) so that 
+15,01anyone who wishes to apply can fill out the application generator.. any 
+15,01questions, comments, or requests can be sent to the address above.. 
+
+15,01Time Killer 
+15,01Lapse Relations/Organization Coordinator
+
+15,01----------------------------------------------------------------------------
+
+15,01  Well, we continue to go at it.. This month, we've improved the viewer,
+15,01or more precisely, The Red Flame has improved the viewer.. We have a lot of
+15,01new ANSI's, and a few new tunes.. Unfortunatly, our VGA department was weak
+15,01this month, but you've already heard all that.. <g>
+15,01  Since I'm mainly involved with the music, I'll concentrate on that. 

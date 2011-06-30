@@ -1,0 +1,12 @@
+15,01MODINFO1
+
+15,01MODULE $H-STING.XM
+15,01SIZE 684901
+15,01  TYPE XM
+15,01  TITLE Infernal Sting
+15,01  CHANNELS 22
+15,01  PLAYTIME 4:15
+15,01  CDATE 11.06.1997
+15,01  COMPOSER shinigami
+15,01  STYLE quake(ish) psycho-hardcore
+15,01  COMMENT juzzed another strange tune...

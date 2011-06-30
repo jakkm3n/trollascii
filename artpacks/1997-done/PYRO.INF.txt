@@ -1,0 +1,80 @@
+15,01 Pyronet information t-phile, version 4.
+
+15,01 Things have been pretty slow since I took over pyronet...  Only got some new 
+15,01 nodes in, but hey, it's only been 3 weeks.  For those who didn't get the 
+15,01 pyronet pack number three, let's just say the the net is back on-line and 
+15,01 that I, The ExtremisT, am the current coordinator.  
+15,01 
+15,01 If you don't have or don't want to spend the money to poll LD, there is 
+15,01 something me and Silverthorn are working on: automated e-mail transfers.  
+15,01 Once the setup is made, you don't have to touch anything..  TransX takes your 
+15,01 mail directly from your outbound dirs, mails it to the right address, gets 
+15,01 the packets that are waiting in your mailbox (but leaves the rest of your 
+15,01 e-mail untouched) and puts them back in your inbound dirs.  All you have to 
+15,01 do is rescan your dirs and voila!  Pyronet for free.  If you are interested, 
+15,01 put your pointer on http://www.multiboard.com/transx.html and download TransX 
+15,01 and one of the two versions of TxMAILER that suits you well (DOS or Win95). 
+15,01 If you have problems installing the programs, e-mail me, I should write up a 
+15,01 quick installation doc with Silverthorn shortly or whatever.  Be sure to 
+15,01 apply to pyronet to see if you are accepted BEFORE installing TransX, tho.
+15,01 (or just don't apply to pyronet, install TransX and use it for your other 
+15,01 nets! :])
+15,01 
+15,01 +--+
+15,01 
+15,01 So, you want to get Pyronet.  It is pretty simple, just follow the guidelines 
+15,01 and your board will be hooked up in no time!@
+
+15,01 We'll keep the same system than before for disciplinary problems: three 
+15,01 strikes and you're out.  It is your responsability as a SysOp to maintain a 
+15,01 mail flow of somewhat interesting (ie mainly non-lame) content.  But anyway, 
+15,01 unless you are really annoying or uncaring, you should keep your node as long 
+15,01 as this net lives.
+
+15,01 I deleted the old nodelist, so if you were polling pyronet, you must 
+15,01 re-apply.
+15,01 
+15,01 Okay, now on with instructions to get your node.
+15,01 
+15,01 1.  You fill out that application form included in this zip.
+15,01 
+15,01 2.  You create a Pyronet conference on your board and include all of the 
+15,01     pyronet message areas in it, which are:
+15,01     
+15,01     P-GEN       General discussions
+15,01     P-FIRE      Fire News and Fire related discussion
+15,01     P-ART       The Art Scene
+15,01     P-MEMBRS    Fire members only!
+15,01     
+15,01     All areas are mandatory.  If there isn't a Fire member calling on your 
+15,01     board and reading P-MEMBRS, we won't send it to you, though.  If 
+15,01     you get it, you must be sure that Fire members only have access to its 
+15,01     messages.  
+15,01     
+15,01 3   Use AKA 42:999/0 in your message and tosser areas.
+15,01     
+15,01 4.  Send your application...
+15,01           through e-mail at text@geocities.com 
+15,01        or through netmail at 42:418/0
+15,01        or through netmail at 15:170/4 if you are a kitschnet node
+15,01        or to text on #fire.
+15,01        
+15,01 5.  If there is a local pyronet host in your AC, you will most likely get 
+15,01     contacted by its sysop and you will set arrangements with that person 
+15,01     to poll his/her board for your feed.  If you want to poll City iz Burning 
+15,01     (the World HQ) directly, mention it in your application form.  If you 
+15,01     want to poll through e-mail with TransX, you must mention it too.
+15,01     
+15,01     If there is no other board polling pyronet in your AC, you will most 
+15,01     likely get instructions (or your rejection message ;]) through e-mail.  
+15,01     If you don't have an e-mail address, I'll netmail you.  Since I already 
+15,01     spend enough money on LD's, get an e-mail address at www.geocities.com 
+15,01     or www.hotmail.com, okay? :)
+15,01     
+15,01     If your board becomes a pyronet region, you must poll City iz Burning.
+15,01     This is to ensure a fast mail flow.
+
+15,01 This is The Procedure.  This is How It Works.  (Fade rip!@)  Thanks for 
+15,01 reading the whole thing.  If you have any problems, contact me through one of 
+15,01 the above-mentionned addresses and I'll help you get your Pyronet node.
+15,01 

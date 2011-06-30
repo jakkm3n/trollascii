@@ -1,0 +1,42 @@
+
+15,01                                 00+03e09p03e00r o03o09cie03t00u
+15,01                              02p12a14ck i - march 19129024
+15,01                                 02l12i14st of fil12e02s
+
+00,01a10n11s12i
+
+02,01l12v14-aml4.ans   -   lord vader for american multiline
+02,01l12v14-gu1.ans    -15         14"15     14"  golden unicorn
+02,01l12v14-roe1.ans   -15         14"15     14"  realm of evil
+02,01l12v14-exec1.ans  -15         14"15     14"  executive enterprizes
+02,01l12v14-txf3.ans   -15         14"15     14"  the x-factor
+02,01l12v14-graf.ans   -15         14"    graffiti wall logo
+02,01l12v14-sr1.ans    -15         14"    for shattered reality
+02,01p12k14-insig.ans  -   psykosonik for insight (now nautilus)
+02,01p12k14-naut.ans   -15         14"15     14"  nautilus
+02,01p12k14-soul.ans   -15         14"    a "soul" logo
+02,01p12k14-insi2.ans  -15         14"    another version of insight
+02,01p12k14-venom.ans  -15         14"    a logon screen with venom
+02,01p12p14-enigm.ans  -   phorce phed for enigma
+02,01p12p14-max.ans    -15         14"15     14a picture of max the rabbit
+02,01p12p14-ls.ans15     14-15         14"15     14a leper society logo
+02,01p12p14-psd3.ans   -15         14"15     14for public service distribution
+02,01p12p14-naut.ans   -15         14"15     14for nautilus
+02,01p12p14-alien.ans  -15         14"15     14a pictiure of a zygorthian
+02,01p12p14-re.ans15     14-15         14"15     14for razer'z edge
+
+00,01v10g11a
+02,01p12p14-ls.exe15     14-   phorce phed an intro for leper society
+02,01p12p14-ls2.exe    -15         14"15     14the latest intro for ls
+02,01p12p14-prple.gif  -15         14"15     14blue and purple slanted ls logo
+02,01p12p14-red.gif    -15         14"15     14red leper society logo
+02,01p12p14-spher.gif  -15         14"15     14spherized logo for ls
+02,01p12p14-round.gif  -15         14"15     14round ls initials
+
+00,01mi10sc11. f12il02es
+02,01f12i14le_id.diz   -   description in zip
+02,01l12s14-0394.mem   -   member list
+02,01l12s14-notes.exe  -   notes on the pack
+02,01l12s14-notes.add  -   notes addendum
+02,01f12i14les.lst15     14-   this file (duh!)
+02,01a12p14ply.frm15     14-   application (fill it out today!)

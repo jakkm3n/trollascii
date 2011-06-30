@@ -1,0 +1,38 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 9/1/1998
+15,01###############################################
+15,01ice-9807.sit,ANSI,iCE 98/08 Sites,iCE Senior Staff
+15,01ice-9807.nfo,ANSI,iCE 98/08 Info File,iCE Senior Staff
+15,01ice-9807.mem,ANSI,iCE 98/08 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01c0-degen.ice,ANSI,Degen,Count Zero
+15,01c0-lg898.ice,ANSI,Logos (08/98),Count Zero
+15,01iv-def.ice,ANSI,Def Squad,Inner Vision
+15,01mm-final.ice,ANSI,Closing the Final Chapter,Magnetic M
+15,01sq2-lg22.ice,ANSI,Logos #22,Sq2
+15,01ti-brt4.ice,ANSI,Black Rose Tavern #4,Trip
+15,01ti-fic1.ice,ANSI,Fiction,Trip
+15,01us-phear.ice,ANSI,Fear Phactor,Multiple Orgasms
+15,01us-sftn1.ice,ANSI,Superfiend,Multiple Orgasms
+15,01us-w98.ice,ANSI,Wordup98,Multiple Orgasms
+15,01us-cloud.bin,BIN,Clouds - Avenge/iCE Joint,Multiple Orgasms
+15,01di-123.jpg,Anthem,Digital Interface
+15,01dm-bsod.jpg,BSOD,Darkmage
+15,01dm-death.jpg,Death,Darkmage
+15,01dm-garg.jpg,Gargoyle,Darkmage
+15,01dm-ice.jpg,iCE lady,Darkmage
+15,01dm-logo1.jpg,Class,Darkmage
+15,01dm-logo2.jpg,iCE v2,Darkmage
+15,01dm-logo3.jpg,Necro Net,Darkmage
+15,01dm-mars.jpg,Mars,Darkmage
+15,01dm-tvd.jpg,The Vampire's Domain,Darkmage
+15,01dv-ice.jpg,iCE Promo,DaVinci
+15,01ht-gatta.jpg,Gattaca,Heat
+15,01ro-fruit.jpg,Fruit,Roadkyll
+15,01jm-sword.jpg,Sword,Jamie McCarter
+15,01mi-aih.jpg,Angels in Hell,Mongi
+15,01sq2-suic.jpg,Suicide,Sq2
+15,01tk-raise.jpg,Raise,The Knave
+15,01tk-tsocd.jpg,The Shores of Cerebral Disfunction,The Knave
+15,01us-cnct.jpg,Fiction,Multiple Orgasms
+15,01ve-sloth.jpg,Sloth - The Movie,Vesalius

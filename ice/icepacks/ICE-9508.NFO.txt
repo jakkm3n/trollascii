@@ -1,0 +1,72 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,011. Good morning, good      14,15#15,01   |m         14,15#15,01       #      afternoon, good night.
+15,01   <choose applicable salutation>00@15         |          .Slothy's here again,
+15,01   like a disgrunted postal worker.       #     .Well the scene hasn't stopped
+15,01   getting wierder and wierder... We're still choosing to ignore it and
+15,01   continue drawing, coding, composing, playing with our dolls, and dressing up
+15,01   like the opposite sex and beating each other with warm squash... ermmm...
+15,01   let's just move on to group news before I say any more.
+
+15,012. First off we bid a sad farewell to Argon, who left for Dark, only because
+15,01   they wear prettier leotards.  Also, Fatal Error is leaving to take some time
+15,01   off for real life...  we thank him for all his hard work and we hope he is
+15,01   released from the Asylum very soon.
+
+15,013. 3 Artists were removed due to inactivity.  They are Falic, Image, and Sliver
+15,01   Cut.  Come back, guys! :(
+
+15,014. In recent national news, Egghead is to be addressed as "Eggy", or "Cupcake"
+15,01   if you're lonely.
+
+15,015. We had a slew of new guys join this month.  We will list them according to
+15,01   sexual preference.  Unsane, a talented t00n artist, has joined our ranks,
+15,01   as well as Surreal Logic from Integrity.  Making his glorious return is
+15,01   Hannibal Lector, who will be drawing and working on HTML along with newcomer
+15,01   Viper.  Also, according to Newsweek, the iCE Music Section has gained a new
+15,01   member, which is an extremely rare occurrance.  We welcome Stalker to the
+15,01   only group that still employs the abacus on a regular basis.  Finally,
+15,01   hailing from Union are Splint, Prism, and Lemonade (aka Abomination).
+15,01   They are definately going to be real powerhouses in the near future, so stay
+15,01   tuned.  Everyone, welcome to iCE!  We hope your stay is the longest and most
+15,01   enjoyable experince you have.
+
+15,016. Hi John.
+
+15,017. iCE now has a permanent VMB and PO Box.  To hear my cheesey voice, just call
+15,01   1-800-221-5089, box number 8iCE.  Here is our PO Box:
+
+15,01                                 iCE Advertisements
+15,01                                 P.O. Box 11233
+15,01                                 Fairfield, NJ 07004 USA
+
+15,018. Our Web Page and FTP Site will probably be changed very soon.  We apologize
+15,01   for the inconvienence.  The FTP Site has been read-only for months, so we
+15,01   apologize for the lack of recent packs.
+
+15,01                                                     Tootles,
+15,01                                                          Lord Soth
+15,01                                                          1-800-340-MAIL
+15,01                                                          Box: 4,000,001    .
+15,01                                                          slothy@netcom.com :
+15,01                                                                            |
+15,01---+--------========================================================-----------
+15,01   |          Force Ten            Friar Tuck            Lord Soth          |
+15,01------------========================================================--------+--
+15,01   |
+15,01   :
+15,01   .

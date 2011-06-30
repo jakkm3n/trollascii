@@ -1,0 +1,80 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 7/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+
+15,01ice-9607.nfo,ANSI,iCE July 1996 info,iCE staff
+15,01ice-9607.mem,IDF,iCE memberlist,iCE staff
+15,01ice-9607.sit,ANSI,iCE sites,iCE staff
+15,01ice-9607.sts,ANSI,iCE July stats,iCE staff
+15,01-ansi---.---,ANSI,,
+15,01cc-rust1.ice,ANSI,Rust,Corpcow
+15,01cu-hav.ice,ANSI,The Haven,Cold and Ugly
+15,01cu-hav2.ice,ANSI,The Haven,Cold and Ugly
+15,01cu-lv2.ice,ANSI,Lethal Vengeance,Cold and Ugly
+15,01cu-os.ice,ANSI,tha old school,Cold and Ugly
+15,01dd-sback.ice,ANSI,,Deeply Disturbed
+15,01eq-ffg02.ice,ANSI,Fall From Grace,Egoteq
+15,01gm-phu.ice,ANSI,phu krew,gman
+15,01iv-apt5.ice,ANSI,Apartment 213,Inner Vision
+15,01ju-tws1.ice,ANSI,the way station,Juice
+15,01ka-why.ice,ANSI,why!,Kadaver
+15,01lm-lv1.ice,ANSI,Lethal Vengeance,Lemonade
+15,01lm-lv2.ice,ANSI,Lethal Vengeance,Lemonade
+15,01lm-sd1.ice,ANSI,Snake Domain,Lemonade
+15,01pa-evil1.ice,ANSI,Evil Intentions,Parasite
+15,01pa-prop1.ice,ANSI,Propane,Parasite
+15,01pa-rust2.ice,ANSI,Rust,Parasite
+15,01sg-lv1.ice,ANSI,Lethal Vengeance,Snake Grunger
+15,01sg-mb1.ice,ANSI,Magic Banana!,Snake Grunger
+15,01te-chao1.ice,ANSI,Chaos,Tetanus
+15,01tg-dg1.ice,ANSI,dA'Goop,Toon Goon
+15,01tg-sanc2.ice,ANSI,The Sanctuary,Toon Goon
+15,01th-codex.ice,ANSI,codex,Thrasher
+15,01th-rust.ice,ANSI,Rust,Thrasher
+15,01us-hellt.ice,ANSI,helltechent,arsen & lemon
+15,01us-ll1.ice,ANSI,lan's laughter,illx & tetanus
+15,01us-rsoma.ice,ANSI,Rare Soma,o-tron & kadaver
+15,01us-rust.ice,ANSI,Rust,kad & hal
+15,01-logo---.---,ANSI,,
+15,01ax-ilc03.ice,ANSI,Logo colly,Apox
+15,01cu-ankh.ice,ANSI,Ankh,Cold and Ugly
+15,01cu-doodle.ice,ANSI,Doodle,Cold and Ugly
+15,01cu-magba.ice,ANSI,Magic Banana!,Cold and Ugly
+15,01gn-tf.ice,ANSI,tf,Grindstone
+15,01ka-col2.ice,ANSI,,Kadaver
+15,01kz-sd2.ice,ANSI,Snake's Domain,Kamikazee
+15,01pa-logo2.ice,ANSI,Logo colly,Parasite
+15,01sg-dv2.ice,ANSI,Disembodied Voices,Snake Grunger
+15,01te-rosw.ice,ANSI,Acid Roswell,Tetanus
+15,01us-hack3.ice,ANSI,hack shake,tna & apox
+15,01us-pb1.ice,ANSI,paul's boutique,fluor & apox
+15,01-vga----.---,ANSI,,
+15,01cd-t201.jpg,EXTERNAL,,Ceedee
+15,01cu-ice2.jpg,EXTERNAL,www.ice.org,Cold and Ugly
+15,01di-se.jpg,EXTERNAL,,Digital Interface
+15,01die-cake.gif,EXTERNAL,,Dieznyik
+15,01die-page.gif,EXTERNAL,,Dieznyik
+15,01ea-ghcat.jpg,EXTERNAL,Ghost Cat,Easel
+15,01ep-ald.jpg,EXTERNAL,Alderaan,Eporue
+15,01ep-ice1.jpg,EXTERNAL,,Eporue
+15,01ep-jerky.jpg,EXTERNAL,Jerky/Teklordz,Eporue
+15,01is-esc.jpg,EXTERNAL,escape,Isosceles
+15,01is-ocean.jpg,EXTERNAL,oceanus,Isosceles
+15,01ja-cu1.jpg,EXTERNAL,Cold&Ugly,Jae
+15,01ja-fire1.jpg,EXTERNAL,Fire,Jae
+15,01ja-garg1.jpg,EXTERNAL,,Jae
+15,01ja-ice2.jpg,EXTERNAL,iCE,Jae
+15,01kb-grave.jpg,EXTERNAL,,Kabal 13
+15,01kb-tuwoc.jpg,EXTERNAL,tuwoc online,Kabal 13
+15,01mt-arch.jpg,EXTERNAL,,Mantis
+15,01nx-luvit.jpg,EXTERNAL,,Nixus
+15,01nx-pure.jpg,EXTERNAL,pure love,Nixus
+15,01rb-how2.jpg,EXTERNAL,How2,Renderbrandt
+15,01rb-wed.jpg,EXTERNAL,The Wedding,Renderbrandt
+15,01rb-wild.jpg,EXTERNAL,,Renderbrandt
+15,01rb-zero1.jpg,EXTERNAL,zero design,Renderbrandt
+15,01sa-guita.jpg,EXTERNAL,,Salmon
+15,01sq2-frc.gif,EXTERNAL,Force,Squidgalator2
+15,01us-kick.jpg,EXTERNAL,bad boys of the "scene",k-13 & vis
+15,01ve-ride.jpg,EXTERNAL,enjoy the ride,Vesalius

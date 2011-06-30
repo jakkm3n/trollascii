@@ -1,0 +1,15 @@
+15,01@
+15,01^4--:-^3MiniDos Functions^4-:--@
+
+15,01^5DISKFREE^3- Find out free space
+15,01^5DIRSIZE^3- Filespec size   ^5CONVERT ^3- Convert archive formats
+15,01 ^5UNZIP^3- from archive         ^4RECEIVE^3- Upload file(s)
+15,01 ^5x:   ^3- Change drive         ^5ZIP    ^3- Add files to archive
+15,01 ^5CLS  ^3- Clear screen         ^5CD     ^3- Change directory
+15,01 ^5DEL  ^3- Delete file(s)       ^5COPY   ^3- Copy file(s)
+15,01 ^5EDIT ^3- Edit file            ^5DIR    ^3- Directory
+15,01 ^5IFL  ^3- Interior File List   ^5EXIT   ^3- Exit MiniDos
+15,01 ^5MOVE ^3- Move file(s)         ^5MD     ^3- Create directory
+15,01 ^5REN  ^3- Rename file          ^5RD     ^3- Remove directory
+15,01 ^5TYPE ^3- Type file            ^5SEND   ^3- Download file(s)
+15,01 ^5?    ^3- This help screen     ^5VER    ^3- Version info

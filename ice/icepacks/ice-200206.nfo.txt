@@ -1,0 +1,80 @@
+15,01                    "#
+
+15,01                      mmm               mmm"#        mmm
+
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+
+15,01                           00@15  # "|  #     00@15    "     #
+
+15,01                           14,15#15,01   |m         14,15#15,01       #
+
+15,01                                 00@15         |         .
+
+15,01                                  .       #    .
+
+15,01-------------------------------------------------------------------------------
+
+15,01                    J   U   N   E           2   0   0   2
+
+15,01-------------------------------------------------------------------------------
+
+
+
+15,011.  We'd like to welcome Dich to iCE!  Dich hails from Khabarovsk, Russia, and
+
+15,01    he lists his interests as drawing, watching movies, and long romantic walks
+
+15,01        on the beach.  He claims to know no Russian mail order brides though, 
+
+15,01        sadly.
+
+
+
+15,012.  This month we have two special releases.  Both Martin Heigan and DJ 
+
+15,01    Monkeyboy gave us demo reels they just finished up, so you get to help
+
+15,01        cripple our webserver by downloading over 30 megs of animations.  Be sur
+15,01e
+
+15,01        to check them out, they're both fantastic.
+
+
+
+15,013.  One quilt in the pack this month, Dragons Everywhere (A Fantasy Themed 
+
+15,01    Quilt).  As usual, the folks over on tiles.ice.org did a fantastic job on
+
+15,01        this one.  They were magnificent tilers.  I take my hand off to them.
+
+
+
+15,014.  <apology>Last month we shamelessly promoted Savage, the game that Slothy
+
+15,01    and Rogue Leader (and others) are working on and we mentioned the E3 
+
+15,01        Trailer.  Well it's available publicly now (with sound effects by 

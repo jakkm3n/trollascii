@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                       A  U  G  U  S  T     1   9   9   7
+15,01-------------------------------------------------------------------------------
+15,01 I  C  E  P  A  C  K      F  I  F  T  H      A  N  N  I  V  E  R  S  A  R  Y  !
+15,01-------------------------------------------------------------------------------
+
+15,011.  Greetings  and welcome  to the  results of the  month-long  iCE spectacular
+15,01celebration of the iCEPACK's fifth anniversary.  August's pack brought everyone
+15,01out in  droves to design eye-candy  fitting of a world-class  art organization.
+15,01Everyone  thought  last month  was an  overachieving month,  but this pack  has
+15,01broken all the records!  Keep reading for more information.
+
+15,012.  As you probably have noticed by now, this pack is an EXTRA SPECIAL iCEPACK!
+15,01This pack,  August 1997,  marks the  60th edition of the iCEPACK.   The iCEPACK
+15,01has been released consistantly  every month around  the first of the  month for
+15,0160 months straight,  dating all the way  back to five years ago with the August
+15,011992 pack.   iCE has existed  for longer  than five  years,  of course,  but we
+15,01did not  start releasing  packs until 08/92,  following the lead of  the  first
+15,01group to release packs, MiRAGE, with the MiRAGE compendium (MiRAGE later merged
+15,01into iCE, in December 1992).
+
+15,012a. This pack is  a record breaking pack in a  couple of respects.   First off,
+15,01and most  importantly,  iCE is the  first group  to celebrate the  release of a
+15,0160th pack.   While MiRAGE,  and then  ACiD,  released  packs before us,  MiRAGE
+15,01merged into  iCE in 12/92 and  ACiD has missed  several packs  over  the years.
+15,01Secondly, there never has been a pack of this sheer volume.   We have well over
+15,01six  megabytes of artwork, with an almost unheard of range of styles (ANSI/VGA,
+15,01plus animations too!).
+
+15,013.  This pack features  a couple  of special sections that  are part of our 5th
+15,01Anniversary Pack celebration.   First,  the group has rallied to bridge old and
+15,01new by taking a  few selected ANSIs from the August  1992 iCEPACK and re-mixing
+15,01them.   Re-mixing  creates a joint-release  that spans  time itself.   Look for
+15,01some of your favorite iCE ANSIs from the past re-mixed by some of your favorite
+15,01iCE artists of today!
+
+15,013b. Secondly, we have invited  several of our inactive iCE members to take part
+15,01in the celebrations by dusting off their  copies of TheDraw or VGA programs and
+15,01create a brand new release for this pack!  The "oldskool" section includes work
+15,01this month from Liquid Image,  P-Chan,  Tempus Thales,  Sober,  and Iodine (aka
+15,01Posyden).  But we plan to feature more "oldskool" artwork in the remaining 1997
+15,01packs as we continue to  celebrate the 1992-7 5th Anniversary.  Expect works in
+15,01the future from the  above artists  and others like..  well..  it'll just  have
+15,01to be a surprise!  Enjoy the works.
+
+15,014.  The propoganda department conned several wayward artists into thinking that
+15,01iCE is a free-love nudist colony and signed them up this month.   The ANSI team
+15,01welcomes back  The Green Hornet to the group,  and the VGA department opens its
+15,01doors to Night Daemon.  The Members department yanked in Roland before he could
+15,01escape, as well.  Welcome to all!
+
+15,015.  Promotion!  VGA artist  and turd connoisseur  extraordinaire  Vesalius  has
+15,01been promoted to the vacant VGA Coordinator position!  He's already getting his
+15,01feet wet by rallying the troops with his self portrait this month,ve-turds.jpg!
+15,01Congrats, Ves!
+
+15,016.  Nobody  played pocket  pool in  study hall,  vanished  into  thin air,  got
+15,01'plungered',  went  postal,  spontaneously  combusted,  conversed  with  a tuna
+15,01sandwich, checked out,  skipped town, hit ESC, traded naked pictures of Barbara
+15,01Bush, seceded from Canada,  started a militia group,  noticed a chancre, kicked
+15,01the bucket, bought land on Mars, ate tainted beef or left the group this month.

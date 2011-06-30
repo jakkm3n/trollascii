@@ -1,0 +1,80 @@
+
+00,01What's new in 15m00,15m14,00    00,01m15         m00mm00,15m14,00    00,01mm15      m00,15m14,00 00,01"00,15"00,00  00,01"""""""""00,15"00,01mm
+15,01              "00,15"14,00    00,01"15      m00,15m14,00      00,01""""""00,15"00,01mm  15"00,15"00,01m00,15 00,00    15,01         |00,15|14,00 
+15,01                   m00mm    14,15 14,00     00,01"15        |00,15|14,00  00,01    14,15 14,00    15,01      m00m15m00,15m14,00  00,01|
+15,01               m00m00,15m14,00   00,01    15|00,15|00,00 14   00,01|15        m00,15m14,00   00,01|   14,15 14,00    15,01       "00,15"14,00  00,01"
+15,01              "00,15"14,00     00,01    14,15 14,00     15,01      "00"00,15m14,00    00,01"    14,15 14,00    00,01    15m00m
+15,01               14,15 14,00     00,01    14,15 14,00     15,01              m00,15m14,00 00,01"14,15 14,00    00,01 """00,15"14,00 00,01  15"00,15"00,01m
+15,01               14,15 14,00     00,01    15|00,15|14,00    00,01|15      14,15 14,00 00,01m   15|00,15|14,00 00,01| 14,15 14,00    15,01        |00,15|14,00 00,01|
+15,01               14,15 14,00     15,01     14,15 14,00     00,01mm  15m00,15m14,00    00,01m  15"00"" 14,15 14,00    15,01       m00,15m14,00   
+15,01               14,15 14,00     15,01      "00,15"14,00              00,15"00,01m    14,15 14,00    00,01   15m00mm00,15m14,00    00,01|
+15,01              m00,15m14,00     00,01m15        "00""00,15"14,00     00,01""15       m00,15m14,00             00,01"" 14(tm) 00recently.
+
+00,01  1. 15Here we are, 00i15CE.  Starting off the new year with a fuckin' bang!
+
+15,01  002. 15The most exciting news is the new members of course.  Well let's see what
+15,01     we've got this month.  In alphabetical order: 00Hell Raiser15, 00iNCUBUS15,
+15,01     00Salmon Moose15, 00Soul Rebel15, and 00White Knight15.  All of these members are
+15,01     ANSi Artists... Lot's of new talent, and lots of new art.  Despite this
+15,01     being what is usually one of the worst months for ansi (Exam Time), 00i15CE
+15,01     has managed to produce around 30 ansi's!  The other new members are VGA
+15,01     artists 00Snoop Dog15, 00StormTrooper15, & 00Master Koresh 15a new VGA artist.
+
+15,01  003. 15There are 2 members who have altered thier handle's.  The first is 00Danzig
+15,01     who has changed his handle to 00White Devil15.  The other is the ever popular
+15,01     00R0NiN15, who is no longer using the "0" in his name :)  So now it's just
+15,01     00Ronin15.
+
+15,01  004. 15Something that you should REALLY check out in the pack is the intro that
+15,01     was made for this month.  No, not just one little effect with ripped
+15,01     music.  A whole keen intro, programmed by 00Leviathan 15with music by
+15,01     00C.C.Catch 15little graphics stuff here in there in both ANSi & VGA by me,
+15,01     and a little 00i15CE logo at the end by 00Mascot15.  This is the kind of "real"
+15,01     coding that I was bitching about a few months back :).
+
+15,01  005. i15CE now has.... Guess what?!?!!  A RIP section!  hah.  Yep it's about the
+15,01     size of ACiD's at the moment.  Only me. :)  I tried it out earlier this
+15,01     month and decided that it was pretty fun.  So i've got my first 3 attempts
+15,01     at RIP in the pack.  I definatly would encourage any ANSi artists who are
+15,01     getting a little tired of ansi to give RIP's a try.  ANSi & RIP sorta go
+15,01     hand-in-hand and are real easy to pick up on if you just sit down and try.
+
+15,01 005X. 15Last minute insert, there is a 00Lord Soth 15RIP in here, yes!  I have
+15,01     convinced someone to do RIP's. :)
+
+15,01  006. 15Well the Canadian HQ spot is now filled.  Sonic Boom in the 613 area code
+15,01     is the new 00i15CE Canadian HQ, Sonic Boom is also the UNiTY WHQ.  Also, a
+15,01     Western US HQ has been added, it is Roadrunner in 916, it is also the
+15,01     Nexus WHQ.  And no, 00i15CE is not looking for directional HQ's now, a western
+15,01     HQ was added just to give a bit more represention to 00i15CE on the west coast.
+
+15,01  007. 15In this iCEPACK is included the #2 iCN (iNSANiTY Corperate Network)
+15,01     packet.  The reason for this is for iCN Site to be able to update thier
+15,01     packets a bit easier, and to spread the packet to iCE Sites & Member
+15,01     boards that may not have it yet.  iCN is not fully up yet but should be
+15,01     very soon.  Every other iCN packet that is released (the even numbered
+15,01     ones) will be included in the iCEPACK for now on.  Thanks to 00Xerobe 15for
+15,01     setting up the net.
+
+15,01  008. 15No one semed to like the SKiLL/00i15CE Trial idea. :)  Everyone felt that
+15,01     it was too much of a separate group, so now the SKiLL name is gone, the
+15,01     artists will be listed in the 00i15CEPACK, no 00i15CE Trial Dist. sites will be
+15,01     used anymore, etc.  But the main part of the whole idea, the 00i15CE Trial art
+15,01     pack, will still be released.  And last but not least, there will be one
+15,01     person running 00i15CE Trial and keeping it in order... 00Devil's Spawn15.
+15,01     Note: all SKiLL sites, member boards, and HQ boards with the exception of
+15,01     the iCE Trial WHQ are no longer.
+
+15,01  009. 15There is now an IRC Bot set up in channel #iCE for anyone interested,
+15,01     iCEPACK's, information on the group, and ways to contact iCE members over
+15,01     the internet will be availiable through it.  Thank's to 00Nemo 15for writing
+15,01     the bot.
+
+15,01 0010. 15Look pretty colors in the .NFO file now! Oooooooooooo...
+
+15,01 0011. 15Very last thing is about the Special Ed ansi in this iCEPACK, it has an
+15,01     animated begining that will not show up if you look at it in KV Non-
+15,01     Animated mode.  Take a look at it, pretty cool.
+
+15,01                                                       00- Metal Head 15[00i15CE] 00Staff
+15,01                                                           00metalhed@phantom.com

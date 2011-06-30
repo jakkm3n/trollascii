@@ -1,0 +1,80 @@
+15,01                                             14,15#15,01mmmmmmmmmmmmmmmm
+15,01                                      mm14,15 15,01"""""""          """""14,15 #15,01mm
+15,01              mmmmmmm                14,15 15,01"        14m14,14             14,01m15   ""14,15 15,01m
+15,01         mm14,15 15,01""""  """"14,15 15,01m             "14,15 15,01mm     14m14,14     #            14,01m 15 14,15 15,01|
+15,01      m14,15#15,01"    14m14,14     14,01m15 14#15 "14,15#15,01               "" # 14m14,14        #            15,01 14,15 15,01|
+15,01   m14,15 15,01"     14m14,14 #       14,01m15  "|                  14|14,14          #           15,01 14,15#15,01|
+15,01  #       14#14,14     #    14,01"15 m14,15 15,01"                  14|14,14                      15,01 14,15 #
+15,01            14"14,14   14,01"15   mm14,15 15,01"                     14 ""14,14                  15,01  |14,15 
+15,01           14#15   mmm14,15 15,01""                  mmmmmmm    14"14,14              15,01   14,15  
+15,01             ""14,15#15,01mmm        #        m""      """14,15 15,01m    14"14,14        14,01"15    14,15 15,01|
+15,01                  """"14,15#15,01m    "m    m"" 14m14,14       14,01m15   "m|    14"14,14    15,01     m14,15 15,01|
+15,01                        "m   ||  |"  14,14    #       14,01m15  14,15 15,01|     14"14,14 15,01     14,15#  
+15,01             m         mm"   14,15 15,01|  |m  14"14,14     #     14,01"15  14,15#15,01|      14"15      14,15 15,01|
+15,01              ""14,15 15,01mmm14,15 15,01""    m01,15@15,01"    "14,15#15,01   14"14,14       14,01"15   m|       14#15     14,15 15,01"
+15,01                         #""        "14,15 15,01mmm       m14,15 15,01""            m14,15 15,01"
+15,01                                       """"""14,15#15,01""               m"
+15,01                                                             #"
+
+
+14,01RioT is an Art/Modding group devoted to turning out top of the line material.
+14,01Some of the art we're involved in is ansi, ascii, vga and lits.00 14Alot of people
+14,01are still unclear as to what 'modding' is. Modding in short is the creation of
+14,01modifications for BBS softwares. Currently we create mods for oblivion/2,
+14,01iniquity, ra and renegade. If you have any questions feel free to15 14contact15 14the
+14,01president for more info at: turbine@geocities.com :) Be sure to also15 14check15 14out
+14,01our web page at: http://www.geocities.com/SoHo/8962
+
+00,01                            .15..00 14membah list00 15..00.
+14,01name15               14email15                         14abbreviation
+
+00,01turbine            turbine@geocities.com     15    00tb
+15,01ansi[08j15]  ascii[.]  vga[08j15]  lit[.]  mod[08j15]  html[08j15]  code[08j15]  courier[08j15]
+14,01................................................................................
+00,01destroyer          -destroyer-@geocities.com 15    00de
+15,01ansi[08j15]  ascii[.]  vga[.]  lit[.]  mod[08j15]  html[08j15]  code[08j15]  courier[.]
+14,01................................................................................
+00,01themonk                                      15    00ni
+15,01ansi[08j15]  ascii[08j15]  vga[.]  lit[08j15]  mod[08j15]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01megaman                                 15         00mm
+15,01ansi[.]  ascii[.]  vga[08j15]  lit[.]  mod[.]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01cyberbob                                15         00cb
+15,01ansi[08j15]  ascii[.]  vga[.]  lit[08j15]  mod[.]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01jester of fate                          15         00jf
+15,01ansi[.]  ascii[.]  vga[.]  lit[.]  mod[.]  html[.]  code[.]  courier[08j15]
+14,01................................................................................
+00,01L-Man                                   15         00lm
+15,01ansi[.]  ascii[.]  vga[.]  lit[.]  mod[08j15]  html[.]  code[08j15]  courier[.]
+14,01................................................................................
+00,01blaze                                   15         00bz
+15,01ansi[08j15]  ascii[08j15]  vga[.]  lit[.]  mod[.]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01shadcat                                 15         00sc
+15,01ansi[08j15]  ascii[.]  vga[.]  lit[.]  mod[.]  html[08j15]  code[.]  courier[.]
+14,01................................................................................
+00,01Precious Metal15                                   00pm
+15,01ansi[08j15]  ascii[08j15]  vga[.]  lit[.]  mod[.]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01exocet15                                           00xt
+15,01ansi[08j15]  ascii[08j15]  vga[.]  lit[.]  mod[.]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01metal defender15                                   00md
+15,01ansi[08j15]  ascii[08j15]  vga[08j15]  lit[.]  mod[.]  html[.]  code[.]  courier[.]
+14,01................................................................................
+00,01                            .15..00 14distros00 15..00.
+14,01name15                    14status15                          14number
+
+00,01riot hq                 whq riot productions            (xxx)xxx-xxxx
+00,01asylum                  member board                    (xxx)xxx-xxxx
+00,01wu-mansion              member board                    (xxx)xxx-xxxx
+00,01the rocket              member board                    (xxx)xxx-xxxx
+00,01metals edge15             00member board15                    00(xxx)xxx-xxxx
+
+00,01                            .15..00 14groop greetz00 15..00.
+
+00,01. acid . aegis corp . aif . awe .
+00,01. bamboosh . black maiden . blade . blend .
+00,01. cia .

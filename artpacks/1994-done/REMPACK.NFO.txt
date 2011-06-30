@@ -1,0 +1,41 @@
+15,01                    The February 1994 Mission Pack
+15,01                  """"14,15       15,01""14,15  15,01"14,15      15,01""14,15  15,01"14,15     15,01"""  
+15,01                    14,15 15,01m  m14,15  15,01" m14,15 15,01" m  "14,15 15,01" m14,15   15,01"mm"14,15   15,01m
+15,01                    14,15  15,01 14,15  15,01"m |14,15 15,01| m|14,15  15,01m   |14,15  15,01 "14,15 15,01|  14,15  15,01|     
+15,01                    14,15  15,01 " "14,15  15,01m " m    m   14,15  15,01 m14,15  15,01" 14,15  15,01          
+15,01                   "14,15 15,01" tm. "14,15  15,01" m14,15      15,01"  "m    m" "          
+15,01                  <Incorporated>-P-R-E-S-E-N-T-S--*-. 
+15,01                   REM  Radical Elite Movement  REM
+
+15,01-----------------------------------------------------------------------------
+15,01         Name        Size       Info                
+15,01-----------------------------------------------------------------------------
+15,01cp-atlan .ans        5215       Cesspool    - Dark Atlantis
+15,01cp-fract .ans       10613       Cesspool    -     
+15,01cp-max   .ans        4137       Cesspool    - Masters of the Art Experience   
+15,01nb-qc    .ans        2348       Night Breed - Quality Control (DiskMag)   
+15,01nb-suci  .ans       11439       Night Breed - Suicidal Shrimp    
+15,01nb-top   .ans        9536       Night Breed - Theater of Pain   
+15,01rem-0294 .ans        9410       REM inc. Member/Board Listings
+15,01st-da1   .ans        7686       Stony       - Dark Atlantis "oops two of em"    
+15,01        
+15,01st-ins1  .ans        8061       Stony       - Insomnia (DiskMag)   
+15,01st-rem01 .ans        2010       Stony       - REM Logo
+15,01st-rft01 .ans        8399       Stony       - Digital Rift   
+15,01file_id  .diz         281       Night Breed - File Description
+15,01bz-lor   .exe      162040       Brainz      - Lapse of Reason ][ (intro) 
+15,01bz-lor   .fli       79630       Brainz      - Lapse of Reason ][ (fli)
+15,01bz-rem   .fli      437793       Brainz      - REM Logo (fli) 
+15,01bz-top3  .gif       54986       Brainz      - Theater of Pain 
+15,01rem-inc  .nfo        1698       REM inc. Monthly   
+15,01rempack  .nfo        2309       REM inc. Pack Listings
+15,01hk-girl  .pcx       65382       Hektik      - Girlfriend (:) 
+15,01hk-spin  .pcx       49851       Hektik      - Backspin
+15,01hk-zero  .pcx       34378       Hektik      - Ground Zero
+15,01bz-again .zip       11691       Brainz      - Sheetz (music)
+15,01mh-mv11  .zip       37239       Man Handle  - Multi-Viewer v1.1
+15,01-----------------------------------------------------------------------------
+
+15,01# Files          : 23  
+15,01Uncompressed     : 1,016,132
+15,01   

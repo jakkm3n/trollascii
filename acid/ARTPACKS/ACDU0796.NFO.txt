@@ -1,0 +1,73 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :      June Update *       July 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0796.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0796 ANS |  45245 |07.01.96 |%+   | July Member/Site Listing       |
+15,01*|2  |ACIDAPP  EXE |  45178 |02.27.96 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW DAT | 125438 |07.01.96 |%    | ACiD View BGI/RIP font data    |
+15,01*|4  |ACIDVIEW EXE |  72248 |07.01.96 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  51478 |07.01.96 |%+   | ACiD View Documentation        |
+15,01*|5  |CS-BMANG JPG | 203052 |07.01.96 |%    | Da na na na na na BatMang!     |
+15,01*|6  |CS-SPOCK JPG | 296703 |07.01.96 |%    | SpoXer                         |
+15,01*|7  |CT-IMDES ANS |  44998 |07.01.96 |%+   | Immortal Descendants           |
+15,01*|8  |FD-ACID1 JPG |  55921 |07.01.96 |%    | A Pocket Full of Skulls        |
+15,01*|N/C|FILE_ID  DIZ |    350 |07.01.96 |%    | Acquisition FILE ID by {ST}    |
+15,01*|9  |KO-BABY5 JPG | 120479 |07.01.96 |%    | Babylon 5                      |
+15,01*|10 |MB-POINT ANS |  28824 |07.01.96 |%+   | Point of No Return             |
+15,01*|11 |ON-DISCO ANS |  46054 |07.01.96 |%+   | Discordia                      |
+15,01*|12 |PR-MUTAT GIF |  73290 |07.01.96 |%    | Myootayshun                    |
+15,01*|13 |RA-DISCO ANS |  54820 |07.01.96 |%+   | Discordia                      |
+15,01*|14 |SB-SUCCO ANS |  38852 |07.01.96 |%+   | Succotash                      |
+15,01*|15 |SI-SG1   ANS |   8024 |07.01.96 |%+   | Spinal Gamma                   |
+15,01*|16 |TH-ABSTR JPG | 188412 |07.01.96 |%    | AbstrACiD                      |
+15,01*|17 |VG-BNA   JPG | 164275 |07.01.96 |%    | The Burial Grounds             |
+15,01*|18 |VG-DEMON JPG |  63229 |07.01.96 |%    | Dream Demons                   |
+15,01*|19 |VG-SKY   JPG |  65612 |07.01.96 |%    | Alien World                    |
+15,01*|20 |WE-WILL  SUE |   1531 |07.01.96 |%+   | ACiD Legal Disclaimer          |
+15,01*|21 |ACDU0796 NFO |   5141 |07.01.96 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   23     Average Compression Rate: %18          |
+15,01|          Total Bytes:  1,799,154     Average Of Bytes/File: 78,224          |
+15,01|                                      Total Bytes Zipped: 1,476,138          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

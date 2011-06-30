@@ -1,0 +1,80 @@
+15,01v.90b
+15,01Released in TRiBE-11.  First public release.
+
+15,01v.91b
+15,01Bug fix release, distributed via IRC
+15,01Squashed Bugz
+15,01 TV.EXE can be called from another directory without being in the path
+15,01 Files are now opened for read access only
+15,01 ESC in the help screen no longer exists the program
+15,01 VGA no longer allows access to SVGA1 if SVGA is not avaible or a bad mode
+
+15,01v.99
+15,01Released in TRiBE-12.ZIP 
+15,01Squashed Bugz
+15,01 Several K was trimmed from the overlays via removal of redundant code
+15,01 Progress bar marker no longer disappears after about 200 files
+
+15,01Additions:
+15,01 New interface (thanx Shihear)
+15,01 Alt-D deletes files
+15,01 A couple missing commands were added to RiP
+15,01 RiP fonts made external to allow more memory in shell and dual viewing
+15,01     enviroments
+15,01 160 wide only BiN support added, only text & XGA modes currently avaible
+15,01 Command line options added type TV -H or -? or /H or \H or ... for options
+15,01 A couple ways to turn the i's and lit phun off...
+15,01 Tasmaniac's SAUCE ASM code implimented
+15,01 A slight increase in shading accuracy
+15,01 Command line viewer can successfuly read files /w path and/or drive
+
+
+15,01v1.00
+15,01Bug fix release, distributed via IRC
+15,01Squashed Bugz
+15,01 Mouse no longer disappears after viewing a file
+15,01 RiP is no longer unstable
+15,01 GiF mode detect routine majorly revised and much more accurate
+15,01 Removed a major anchor from the ANSi parser, noticable in ViEW mode, like
+15,01     night and day with READ mode
+15,01 Removed redundant mode changes after file display and before RiP display
+
+15,01Additions
+15,01 Cappitals in key indexing now indexes directories
+15,01 Mouse interface expanded, including file tagging via mouse (right click)
+15,01 The < and > keys can adjust the BPS rate by 100
+15,01 Increased the text buffer size in the RiP parser to about 10K
+
+
+15,01v1.10
+15,01Never publicly released
+15,01Squashed Bugz
+15,01 Mouse no longer does a complete reinitialization after file display
+
+15,01Additions
+15,01 Mouse is not initialized if any command line parameters are used (faster 
+15,01     command line viewing) suggested by Sexual Chocolate
+15,01 Modes are now SAUCE aware, SAUCE is used to set iCE color and will
+15,01     temporarily change the model to view for ANSimation
+15,01 SAUCE aware, variable width BiN supported as well as BiN support for ALL
+15,01     graphics modes.
+
+
+15,01v1.11
+15,01Never publicly released
+15,01Squashed Bugz 
+15,01 Better input handling for manual BiN width entry.  Temporaily turns on
+15,01     Num Lock and doesn't allow invalid input.
+15,01 Problem with the line memory clearing routine still set to 160 wide,
+15,01     caused garbage in short, wide BiNs and crashing in narrow BiNs
+15,01 Small fixes in the CFG parsing.  Mainly the default mode (problems with SVGA
+15,01     modes.)  Thanx goes out to Quran for pointing this one out.
+
+
+15,01v1.12
+15,01Released in TRiBE-13.ZIP
+15,01Squashed Bugz 
+15,01 Put in error checking for the Benizer Curve algorithm to prevent a division
+15,01     by zero error.
+15,01 Set the Benzier Curve smoothness in the included CFG file to 100, default
+15,01     without the CFG is still 25.  Found out that a value of 25 can be too

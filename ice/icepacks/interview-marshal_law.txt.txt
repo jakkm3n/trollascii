@@ -1,0 +1,80 @@
+15,01Interview with Marshal Law by iCE Staff for iCE PACK 8/2002
+15,01Converted to ASCII text by RaD Man of ACiD Productions (www.acid.org)
+15,01HTML version available at http://www.ice.org/interviews.php?interview=9
+
+15,01                                          m##m
+15,01                        m14,15 15,01"      #mm#"  m"#14,15 
+15,01                     ##"    " mm14,15 00,01@14,15 15,01  m"  14,15 00,01@14,15 15,01  #
+15,01                     m  m   m14,15 15,01" 14,15 #15,01| |14,15 00,01@15m 14,15 # 15,01m"
+15,01                       m00@14,15 15,01m14,15 #15,01|  14,15  15,01"#|14,15 #15,01| |14,15 15,01"  #
+15,01                       |14,15# 15,01 14,15 00,01@15|  #" m 14,15  15,01 #"    00@
+15,01                     #  14,15  15,01m "|  mm14,15#15,01| |14,15 15,01|#m14,15#00,01@15m "
+15,01                     00@15  14,15 # 15,01"#m  |14,15 00,01@14,15#15,01  14,15 15,01|  14,15 15,01m14,15 # 15,01m
+15,01                     " m14,15 15,01# #m#"m14,15  #15,01m#" "# |14,15  00,01@14,15 15,01 "#
+15,01                      "14,15 15,01|     " ""   kz"#m14,15  #15,01#|
+15,01                        "# m               14,15#15,01"#
+15,01                              "    "#  m #"
+
+15,01iCE: for starters, please tell us about yourself.  first name, age,
+15,01     occupation, hobbies
+
+15,01Marshal Law: Darron, 31, Code jockey (massive oversimplification) for a
+15,01             Financial Services Firm.  If I had some time, I might get some
+15,01             hobbies.  I make it to the gym regularly but I don't know if
+15,01             that qualifies.  I just finished a season of summer league
+15,01             lacrosse.  I do some recreational coding in my spare time and
+15,01             I enjoy the occasional romp on the PS2.  I recently finished
+15,01             the new Tom Clancey novel on the daily commute and I can still
+15,01             be found sketching on those days when I am more right-brain
+15,01             dominant.
+15,01 
+15,01iCE: cool. where were you born?  still live there?
+
+15,01Marshal Law: New Jersey.  Still a resident of the Garden State.
+15,01 
+15,01iCE: How and when did you join iCE?
+
+15,01Marshal Law: The iCE archives may have a better idea of exactly when, it
+15,01             was a while ago.  If I remember correctly, the first time I
+15,01             became a member of iCE was because the group I was in merged
+15,01             with iCE.  It was a pretty competitive time with respect to 
+15,01             ansi groups and they provided greater exposure than an
+15,01             individual could attain by themselves. Of course in the
+15,01             beginning, and in the end, I was never really in it for the
+15,01             notoriety but rather because it was something that I enjoyed
+15,01             doing.  The scene provided me with access to a great group of
+15,01             individuals from all around the country.
+15,01 
+15,01iCE: What other ANSi groups have you participated in?  Which one was your
+15,01     first?
+
+15,01Marshal Law: If I remember correctly, they were iCE, ACiD and RPM.  If I
+15,01             can find my archive of work, I could probably answer that
+15,01             question more accurately.
+15,01 
+15,01iCE: Force Ten will be mad if you forget about GRiM.
+
+15,01Marshal Law: Oops. and GRiM. I was a part of a number of groups, some more
+15,01             than once.  There was really no rhyme or reason to it.  A lot
+15,01             of the time it really just had to do with who I had more
+15,01             contact with at the time.
+15,01 
+15,01iCE: hehe. Which one was first?  RPM?  I don't think i've seen any RPM
+15,01     packs, if you can dig them up that would be awesome.  Were you in ACiD
+15,01     before or after iCE?  Did you release with them?
+
+15,01Marshal Law: The chronology is really hazy but I think it went iCE ACiD iCE
+15,01             again.  If I find the files on the old PC then I could answer
+15,01             these questions better.  I think I killed off some of the brain
+15,01             cells that I needed for this conversation in college a few years
+15,01             ago.
+15,01 
+15,01iCE: hehe.  Any files you can dig up would be awesome additions for the iCE
+15,01     archives.
+
+15,01[note: ML's old PC, and all the ansi goodness contained within, is gone
+15,01       forever.]
+15,01 
+15,01iCE: So, what first got you interested in ANSi art?
+
+15,01Marshal Law: I think it was all the chicks that the guys got.  Just kidding.

@@ -1,0 +1,80 @@
+
+
+15,01          BLOODVIEW SPECIAL BLACK MAIDEN EDITION (bugfixed)
+
+15,01            CODE BY JEY^BLOOD - ANSI GFX BY TRICYCLE^BLOOD
+
+
+15,01+--------------------------------------------.- .. .
+15,01| What's BloodView?
+15,01+--------------------------------------------.- .. .
+
+15,01With bloodview you can softscroll thru "ANSI" textfiles. However, you 
+15,01can  use it to view  any  kind  of  textfile  but  don't forget  that 
+15,01BloodView was made for viewing ANSI-files with more than 25 lines. so 
+15,01don't get jerky if bv doesn't load your non-ANSI-textfiles correctly! 
+15,01BloodView should display the files exactly as  the "TYPE" DOS command 
+15,01does (with ANSI.SYS installed)  except that BloodView  has  some more 
+15,01features.
+
+15,01+--------------------------------------------.- .. .
+15,01| Black Maiden edition?
+15,01+--------------------------------------------.- .. .
+
+15,01This is a special version for  Black Maiden  which includes some new
+15,01features. It is a part of the Black Maiden Art Pack.  Of course, you 
+15,01may use it for every  ANSI  you  want  but please  don't spread this  
+15,01edition seperately...
+
+15,01+--------------------------------------------.- .. .
+15,01| Bugfixed?  
+15,01+--------------------------------------------.- .. .
+
+15,01The last Bloodview BM edition was  full of bugs.  This is because it
+15,01was done in a  "quick'n'dirty" way.  I had not much time  to include 
+15,01all functions and I had virtually no time to test them.
+15,01This bugfixed version has been running o.k. for some time  and there 
+15,01shouldn't be too many bugs left in it. However, I had to remove some
+15,01functions, which were not working yet.  And I am currently bothering
+15,01with the 3.0  Version  which is completely different from the former
+15,01versions and which will be released ..well .. as soon as it's ready,
+15,01sooner or later. Hope it works o.k. this time!
+
+15,01+--------------------------------------------.- .. .
+15,01| how to run Bloodview
+15,01+--------------------------------------------.- .. .
+
+15,01There's not much to say about that! You can either run  "BV"  without
+15,01any parameters  or you can specify the filename of the file you wanna 
+15,01view as a commandline parameter.
+
+15,01+--------------------------------------------.- .. .
+15,01| features n' extras
+15,01+--------------------------------------------.- .. .
+
+15,01Here's a short overview of all the "switches" you can turn on or off:
+
+15,01EGA MODE       - EGA MODE is a video  mode where every text character
+15,01                 is 8 pixels wide.  Most ANSIs look much  cooler with
+15,01                 EGA MODE turned on.
+
+15,01ICECOLOR MODE  - if enabled the blinking is disabled and you have  16
+15,01                 background colors instead (used in some ANSIs).
+
+15,01SAUCE          - SAUCE   stands   for:   "Standard  Architecture  For
+15,01                 Universal  Comment  Extensions"  It's  an  extension 
+15,01                 to every file  which  contains  the  title,  author, 
+15,01                 group,  and  some  extra information about the file. 
+15,01                 SAUCE  was  developed  by ACID and is e.g. supported 
+15,01                 by AcidDraw.
+15,01                 If turned on  BloodView reads the SAUCE  information
+15,01                 and  displays  the name,  author,  and group of each
+15,01                 file while displaying the file.
+15,01                 Also, if ANSI or PCBOARD  mode is turned off but the
+15,01                 SAUCE-info  indicates  that  a  file does use PCB or 
+15,01                 ANSI  codes  or  that it  contains  binary  data  it 
+15,01                 automatically switches to the correct mode.
+
+15,01ANSI CODES     - toggles ANSI code support on/off
+
+15,01PCBOARD MACROS - toggles  PCBOARD  macro  support  on/off.  I did not

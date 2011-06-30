@@ -1,0 +1,18 @@
+15,01; bloodview configuration
+
+15,01swapdirinfo = yes
+15,01egamode = no
+15,01icecolor = yes
+15,01ansi = yes
+15,01pcb = yes
+15,01sauce = yes
+15,01speed = high
+15,01checkeof = yes
+15,01openarchives = yes
+15,01binfiles = yes
+15,01statusbar = no
+15,01askwidth = bin
+15,01sortfiles = no
+15,01greyscales = no
+15,01elitefont = no
+15,01user = BM

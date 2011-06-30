@@ -1,0 +1,69 @@
+15,01    Today v2.00 for Renegade
+15,01By Mystic Plague of BROkEN Coding
+
+15,01        All this little non crippled completely freeware program does
+15,01        is checks for a file named whatever the date is and copies it
+15,01        to TODAY.ANS and TODAY.ASC, which can be displayed within RG,
+15,01        or even in your autoexec file if you don't have a Renegade
+15,01        board.  The name of the files are as follows
+
+15,01                        JAN-XX.ANS      JAN-XX.ASC
+15,01                        FEB-XX.ANS      FEB-XX.ASC
+15,01                        MAR-XX.ANS      MAR-XX.ASC
+15,01                        APR-XX.ANS      APR-XX.ASC
+15,01                        MAY-XX.ANS      MAY-XX.ASC
+15,01                        JUN-XX.ANS      JUN-XX.ASC
+15,01                        JUL-XX.ANS      JUL-XX.ASC
+15,01                        AUG-XX.ANS      AUG-XX.ASC
+15,01                        SEP-XX.ANS      SEP-XX.ASC
+15,01                        OCT-XX.ANS      OCT-XX.ASC
+15,01                        NOV-XX.ANS      NOV-XX.ASC
+15,01                        DEC-XX.ANS      DEC-XX.ASC
+
+15,01        Where XX is the day of the month.  If the day is before the
+15,01        10th, put a zero before the number.  It will not look for
+15,01        SEP-1, it will be looking for SEP-01.  Understood? 
+
+15,01        The TODAY.CFG file should only have two lines.  The first
+15,01        line is the directory to search for the files.  For instance,
+15,01        it would contain OCT-31, DEC-25, etc.  If you are using this
+15,01        for Renegade, I do not suggest you using the miscellaneous
+15,01        directory, as it may get very confusing for you, but it's
+15,01        your choice.
+
+15,01        The second line is the line that says what directory to write
+15,01        the files to.  This is where TODAY.ANS and TODAY.ASC go.  It's
+15,01        just that simple.  Not much more.  It's really simple if used
+15,01        correctly.  TODAY.EXE should either be called from a menu like
+15,01        this
+
+15,01          Menu filename: TOP
+15,01          Command #1 of 2
+
+15,01          1. Long descript :
+15,01          2. Short descript:
+15,01          3. Menu keys     : FIRSTCMD
+15,01          4. ACS required  : ""
+15,01          5. Cmdkeys       : D-
+15,01          6. Options       : TODAY
+15,01             Flags         : None
+15,01          Q. Quit
+
+15,01        and displayed like this:
+
+15,01          Menu filename: TOP
+15,01          Command #2 of 2
+
+15,01          1. Long descript :
+15,01          2. Short descript:
+15,01          3. Menu keys     : FIRSTCMD
+15,01          4. ACS required  :""
+15,01          5. Cmdkeys       :-F
+15,01          6. Options       : TODAY
+15,01             Flags         : None
+15,01          Q. Quit
+
+15,01        or you can run it as an event and display it the same way.  
+15,01        That is completely up to you, though.  Ok.. Have fun now.
+15,01        If you see any bugs, call The Shadows Beyond and leave 
+15,01        Matrix Feedback.  The number is 908 583 4368.  Have fun.

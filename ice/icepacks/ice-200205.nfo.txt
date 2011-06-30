@@ -1,0 +1,60 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                      M    A   Y            2   0   0   2
+15,01-------------------------------------------------------------------------------
+15,011. We'd like to welcome two new ansi guys to iCE!  Enzo, a Brazilian law 
+15,01   student, and The Creep Fever, a road construction worker who does art as a
+15,01   hobby.  Enzo really rocks, and he's a good sport.  He didn't mind it at
+15,01   all when we stripped him naked and repeatedly beat him with reeds.  The 
+15,01   Creep Fever was excused from the beating, because he was willing to eat the
+15,01   warm jello from "The Dirty Bowl".  Both got a full round of applause after
+15,01   they got back from the medical folks.  Thanks to Trip for using the paddles
+15,01   to bring the Ansi division back.
+
+15,012. Slothy was out in California this month for E3, seeing the many games on
+15,01   display, hanging with Dave Perry (from Shiny) at The Comedy Store, and 
+15,01   generally having a good time in LA.  Slothy's game, Savage, was a big
+15,01   success at E3.  Rogue Leader is one of the artists working on the game, and
+15,01   the sound effects for the E3 trailer were done by Basehead.  Go Savage!
+
+15,013. Mongi left for Thailand this week, then Hong Kong.  Since he'll be gone for
+15,01   the month and he was kind enough to finish up a pic for this pack, we'll go
+15,01   ahead and wish him a safe trip.  Have fun, Patrick!  Don't pick up too many
+15,01   of those Thailand boys!
+
+15,014. Be sure to check out our interview with DJ Monkeyboy this month.  We dive
+15,01   into the many aspects of his life, from his art to his DJ'ing and even his
+15,01   clothing design.
+
+15,015. We also have another fantastic tutorial from Leonardo about how to draw a
+15,01   happy little tree.  Go look, it's enlightening.
+
+15,016. Finally, as usual, we have a couple of quilts from tiles.ice.org.  First up
+15,01   is the Bizarro quilt, which turned out quite interestingly.  Next we have
+15,01   the Grayscale quilt, where no colors were allowed.  Go check them out and
+15,01   then go grab a tile at tiles.ice.org :)
+
+15,01Forever yours,
+15,01     Slothy and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01                      Lord Soth                    Root88
+15,01-------------------------------------------------------------------------------

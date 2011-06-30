@@ -1,0 +1,46 @@
+15,01R  I  O  T  :  R  e  v  o  l  u  t  i  o  n     I  n     O  u  r     T  i  m  e
+15,01=---=--------------=-------=--------------------------------=-----------------=
+15,01| # | Filename.Ext | Size  | File Description               | Artist/Coder    |
+15,01=---=--------------=-------=--------------------------------=-----------------=
+15,01  1   FILELIST.NFO     3082  Uprising File Listing            Megatron    
+15,01  2   SITELIST.NFO     2309  RIOT Boards/Sites Listing        Megatron
+15,01  3   UPRISING.NFO     5177  Senior Member Comments/Updates   Megatron
+15,01    
+15,01  4   FILE_ID .DIZ      289  File Id [RIOT Uprising]          Freeze
+15,01  5   FZ-RIOT3.DIZ      687  File Id [RIOT Uprising] (2)      Freeze
+15,01  6   FZ-RIOT5.ZIP    63715  VANSi [SR/GA/TS/SN/BOA]          Freeze
+15,01  7   FZ-RIOT6.ZIP    64080  VANSi [IN/QR/BOA/SN]             Freeze
+15,01  8   RIOTAPP .ZIP    12505  RIOT Application Generator       Abdominator/Gamma
+15,01  9   BM-H2HEL.GIF    51479  Highway To Hell                  Boomer
+15,01 10   BM-SHELL.GIF    40617  Mega-Man X Character             Boomer
+15,01 11   RIOTVIEW.EXE    22052  RIOT Viewer v1.0                 Tomahawk
+
+15,01 12   BOA-RIOT.ANS     4470  RIOT Uprising Logo               Boa
+15,01 13   CL-TGOT .ANS    20013  The Guild of Thieves             Crime Lord
+15,01 14   CL-TRQL .ANS     5131  Terminal Rejection Qwik Logo     Crime Lord
+15,01 15   CL-TU2  .ANS    22056  The Unknown II                   Crime Lord
+15,01 16   DL-SLV  .ANS     3098  SLiVER                           Dreadlord
+15,01 17   FZ-CORR .ANS     2577  Corruption Magazine              Freeze
+15,01 18   FZ-ILINK.ANS     4146  Inter-Link                       Freeze
+15,01 19   GA-HR   .ANS    13938  Hyper Reality                    Gamma
+15,01 20   IN-DAWN .ANS    21349  Red Dawn 2                       iNCUBUS
+15,01 21   MA-EOFB .ANS    35398  Eye of the Blizzard              Maelstrom
+15,01 22   MA-HOI  .ANS    20679  House Of Insanity                Maelstrom
+15,01 23   MA-TDEPT.ANS    24548  The Depths                       Maelstrom
+15,01 24   QR-PRIVS.ANS    22162  Private Sector                   Quasar
+15,01 25   RIOT1293.ANS     6058  RIOT Member/Board List  12.93    Megatron
+15,01 26   SH-PRIVS.ANS    29339  Private Sector                   SilverHawk
+15,01 27   SN-ITP  .ANS    28258  Infinite Time Post               Spawn
+15,01 28   SN-MI   .ANS    15087  Malicious Intent                 Spawn
+15,01 29   SN-MSTAT.ANS     5914  Master Darque Main Menu Stats    Spawn
+15,01 30   SN-RIOT .ANS     1584  RIOT ANSi Logo                   Spawn
+15,01 31   SR-DZ   .ANS    13128  Dark Zone                        StreakeR
+15,01 32   SR-DZL  .ANS     3802  Dark Zone Login Menu             StreakeR
+15,01 33   SR-RIOT1.ANS    12935  RIOT Advertisement <Chapel>      StreakeR
+15,01 34   TG-RIOT2.ANS     5739  RIOT ANSi Logo (2)               The Guardian
+15,01 35   TG-RIOT3.ANS     3446  RIOT ANSi Logo (3)               The Guardian
+15,01 36   TS-STFNT.ANS     4655  Sadistic Torment Font            Too Short
+15,01=-----------------=----------------------=-----------------------------------=
+15,01| Total Files: 36 | Total Bytes: 595,493 | Released: 01/01/94 | Compiler: MT |
+15,01=-----------------=----------------------=-----------------------------------=
+15,01>

@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                      M    A    Y      1    9    9    9
+15,01-------------------------------------------------------------------------------
+
+15,011.  Welcome to iCE  June 1999!  We have some  great news, some  great  art, and
+15,01some  great  exploitation of  iCE children, slaving  away to  produce wonderful
+15,01little iCE sculptures that we export to runaway Eastern Bloc countries.
+
+15,012.  We have two new homies who decided to hang in our crib this month.  They go
+15,01by the phunky  names of Tweed and Adam Grossi.  You don't  think Grossi is fly?
+15,01Well maybe after  Grossi needs a quarter platter spin from deadstop on a quartz
+15,01driven  table, others  need a spinback to  hit the cue point in  time.  After a
+15,01cut back before the intial attack, Tweed drops the lows out for a bar and kicks
+15,01them back.  See?  We're dope.
+
+15,013.  This  is a great month for  iCE, because  phase one of our  new website has
+15,01finally hit  the web!  If  you load http://www.ice.org,  you'll see an  all-new
+15,01site  with some  incredible features!  Now  available  online  in a  completely
+15,01searchable  database-backed engine  are almost 10,000 piece  of art done by iCE
+15,01members since 1992.  As  one of the oldest existing digital art groups, we have
+15,01now made a part of computer art history available online for the world to learn
+15,01about.  Watch us closely as we expand on our beefy backend with new interfaces,
+15,01new  features, value-added content  and all sorts of  stuff that  only iCE  can
+15,01bring you.
+
+15,014.  Hailed by analysts, heralded by the conservatives, praised by the moderates
+15,01and absolutely loved by the extremist left, iCE won the national bobsled award.
+
+15,015.  Jamie McCarter could  easily be called "iCEMAN OF THE YEAR(tm)" so  far for
+15,011999, as  iCE has succeeded in  placing two of Jamie's  images in a catalog for
+15,01APS Technology's Summer Issue.  This catalog is sent out to over 150,000 people
+15,01and will  feature two Jamie renders (JM-DRAGN.JPG  and JM-DARE.JPG, search  for
+15,01those two filenames  on the new iCE.org!).  Kudos to Jamie, and  keep your eyes
+15,01on future APS Technology Catalogs for more iCE artwork!
+
+15,016.  The iCE dating system was recently upgraded this month, enabling Inazone to
+15,01search the incoming crop of females more accurately than ever before.  Included
+15,01in our  new search engine is the  ability to check  the intelligent of  the new
+15,01freshmen, including  Inazone's default preference: Needs cue cards to converse.
+
+15,017.  In  a bold  move to reaffirm our  status as the  premiere art group  of the
+15,01decade, iCE  decided to compete  in the Blender 2000 competition on each Sunday
+15,01this month.  Needless to say, iCE Walked  away with three  first-place finishes
+15,01and after competing in just 3 of 7 Blender events, we are tied  for first place
+15,01out  of every  group.  Any questions  about our  supremacy  may be directed  to
+15,01Nosegos, Funbaby and The Knave.
+
+15,018.  Oddly enough, we have so much to say but so little time to write.  Instead,
+15,01visit  our all new website and  witness what is great about iCE.  We've got the
+15,01goods no one else does!
+
+15,019.  Packet loss, The Phantom  Menace telesync, Darkmage  and Farmy  joints, the
+15,01voiceover  guy from breakout4u.com and  anyone who owns a Palm VII.  Yes, we're
+15,01all geeks!
+
+
+15,01-Mass "Willis Talking Boutchoo!" Delusion // iCE Senior Staff
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------

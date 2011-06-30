@@ -1,0 +1,19 @@
+15,01IntentNet Echolist -- Updated 06/25/94
+
+15,01=======================================================
+
+15,01Tags    EchoTag             Description
+15,01----    --------            -----------------------
+15,01!  +    I_GEN               IntentNet General
+15,01!  +    I_MFTREQ            Manifest Requests
+15,01!M +    I_MFTWRK            Manifest Work
+15,01!M +    I_MFTMEM            Manifest Members
+15,01!M +    I_MFTASS            Manifest Assignments
+15,01! S+    I_SYSOP             IntentNet Sysops
+
+
+15,01TagKey:
+15,01   ! - Required
+15,01   M - Manifest Members ONLY
+15,01   S - IntentNet Sysops ONLY
+15,01   + - New Echo

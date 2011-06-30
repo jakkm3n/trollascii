@@ -1,0 +1,80 @@
+
+15,01                            00,+dP"^^"7b+, `"?S@%+  +%@SP"`
+15,01                          00 d$$P      ?$$b  $$$l$  $l$15$00$
+15,01                  02_,+s%@$15 :00$$15$00l 02l$$l00 15l00$15$00$: `n15+00?l.15,00jP15+n00`02,$@%s+,_
+15,01                 02l$$$$$$l15 l$00$15$: 02$$$$15 :$$$l ,+sd2'`2bs+,02`$$$$$$$l
+15,01                  02`"2++?$15 :14$15$$14l 02l$$l14 15l14$15$$14: 15$$14$15l14 02$$14 15l14$15$$ 02$7++2"`
+15,01                          14 ?$$Q      Q$15$147  $15$14$Q,  ,Q$$15$
+15,01                            14`n?b,__,dPn` _,T+n"`  `"n+T,_
+15,01        06._s%*`
+15,01    06,+@8$7'15              14 15oxidizer14 of 15blade productions14,
+15,01   06j$8L8$,15             14presents his second pic ever, 00oldskool
+15,01  06 `$8Ll8$b,
+15,01 06 15  06`$8LlL8$:
+06,01 15   06:$8LllL8$ 15                                              06+,_
+06,01 15  06,$8LlilL8715                                                06`?b,
+15,01  06,$8LilL887 15      06_,+s@S$$8s,15                                 06?$b,
+06,01,d$8LiiL88l15      06+2*n?$88LlL8$b,15                               06`$88$s+._
+06,0188LLiiLL8$:15           06`$8LiiL88$b15                               06`?$8LLL88S@%s+_,
+06,01LLLi;ilL8$15             06:$Li;ilL8$b,15                              06 `?$8LLliiiLLLl
+06,01lli;13;06;l8$l15             06 $8LLi;ilL8$b+,15                              06`"+?88Llliii
+06,01li;13;06;lL8$$:15             06$P++?$$8LiiL8$$Ss,15                              06`?$8Lli;
+06,01i;13;06;ilL88$l:15           06,_+gg+_,`"+?$8LiiL8$b,15           06_.,_+gggg++,_15    06`$8LLli
+06,01;13;;06;ilLL88$l15       06,+S$$$8LL888$b+,`?$8LiiL8$b15       06,%2*""2+?$8LLL88$S#+,`+?88L
+13,01;i;06;iilL88$$:15    06j$$8LllL888$$$$888b,`?$8LiL88b15       06     15  06 `?$8LLiiLL8$$b,`?$
+13,01lli;06;iilL88$l15   06j$8LiL88$$n"`````"n?$b ?Li;04;06iL8 15                06`$88Ll04;06llL88$b,`
+13,01Lli;06;iilL88$$:15 06j$8LiiL8$' ,sS8l$$b, `?: $8i;l8$  15                06`$8LLl;illLL8$b
+13,018Lli;06;iilL88$l $8LiiiL8: d$8LL;iL88$b,`,$8Ll$7'   15               06 l$8Lli04;06illLL88
+00,018138li;;06;ilL88$$ $8LiiL8$ :$8Li;04;;06;;iL8$$L8$$7'  ,+s%@s,_15    06_,+s@S :$8LLli;illLL8
+00,018138Lli;06;ilL88$l $8LiiL8$: ?$8Li;04;;;;06;llL887'  ,d$88LLL8$b, S8LllL8: l$8Lli04;06;illlL
+00,018138li;06;iilL88$: $8LiiL88l: $$8li;04;06;;lLL8$715   06;7+n*n+?$8L8$b`?8Lll8l :$8Lli;04i;06;ill
+13,018Lii;06;ilL88$$ :$8Ll;iL8$$,`+?$$P+n"""n+715   06`15        06`$8L8$b ?8LlL8: $8LLli;04i;06;ii
+13,01Lli;06;ilL88$$l l8Li13;06;iL88$$+% ,+s@S$$$S@s,_ 15          06$8LL8$b 8LlL8l $8LLll;04;i;06;;
+13,01li;06;;ilL88$$: $8L;iiL872`,gS$88LliilLLL8$$Q, ._15     06j8LliL8$ 8LlL8l $8LLlii;04;i;;
+13,01i;06;;illLL8$$ :$8LiL87',d$88LlilL8$$7+n""n+?$b ?S@%@$$8L;lL8$ 8LlL8: $8LLlii;04;ili
+13,01;06;;iiilL8$$$ l8Li8$',d$8Lli;lL8$7',+s%SLs+,`?: $8888Ll;ilL8l 8LlL8 :$8LLlii;04;iLl
+06,01;;iiilL88$$l $8L8$'j$8Lli;13;06iL8$7 $88LLLiL8$$.',$8LLl14;i06ilL8$: $Ll$l l$8LLlii;04;i8L
+06,01iilllLL88$$: $8$7'j$8Lli;13;06iL88$: $8Llli;ilLL888LLi;14;06;ilL8$',d8lL8: $88LLli;04;il8138
+06,01lllLLLL88$$ $7',sS88Lli;13;06;ilL8$ :$8Lli;14;06;iilLlli;14;i06;ilL8$'j8LllL8 :$8LLlii;04;il8138
+06,01LLL8888$$7',+@$888Lli;13;;;06;ilL88L ?$8Lli;14;i;06;ii;14;i;06;ilL8$' `n?8L88 l$8LLllii;04;il8
+06,01888$$7n',+d$$8LliillLliili13;06ilL8$b,`?$Lli;14;ili;;06;;illL87'15    06  `"2j$8LLllii;04;;il8
+06,01+++n' +++++++++++++4$$$88LLliilL8$L ?8Li;14;li;06;iilLL8$'   15       06j$8LLllii;;04;il8138
+03,01@@@%%%%%%sssss+++__,._06``"n+?$8LlL8$ :8Lli;14;06;ilL$7+n` 15          06j$8LLllii;;04;iil8L
+03,018888888888888888$$$$$$$$S@s,_06`"?$7',$8Ll14;06ilLL$7'   15          06,d$8LLlliiii;;;04;ili
+03,01LLLLLLLLLLLLLLLLLLLL8888888$$$S+, 06%?8LlliL8$$' 15           06 ,d$8LLLLLLLllliii;;04;;
+03,01;;;;;iiiillllllLLLLLliiilLLLL8$$$$s,06`?8LllL8:15           06,+S$888888888LLLLllii;;;
+09,01;;;03;;;;;;;;;iiiiiii;;09;;;03;;;ilLLL88$$L 06`$8L8$15     06._+s@S$$$$$$$$$$$$$8888LLlliiii
+09,01ii;;;;;;;;03;;;;;;iii;09;;iii;;03;illLLL8$$l 06`$7+',+s@$$$$$$$7+n"^^^^^"n+?$$888LLLLlll
+09,01LLliii;;03;;;illLLLLLii;;;09;;ii;03;ill888$$l 06',d$$$$$$$$$$$l oxidizer of l$$$88888LLL
+09,01Llii;;;03;;iiLLL88888888lllii09;ii;03;iLL88$$: 06l$$$$$$$$$$$$$bs+_,,,,,_+sd$$$$$$$$$888
+09,01ii:;;03;;iilLL888$$7 ?$$88llii09;;i;03;lL88$$l 06:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8
+09,01i;;;03;;iiLL88$$$P`,l,`?$$88llii09;i;03;lL88$$:15 06$$$$g  g `$  $$$$' s `$  g `$  g ,$$$$
+09,01;;03iiillLL88$$P',d$8$b,`n?$$lll09;;i;03;L88$$l15 06l$$$$  $ ,$  $$$$  $  $  $  $  S$$$$$$
+03,01iilLLLL88$$P',d$8LlL88$b,`n+?$Li09;i;03lL88$$15 06:$$$$  g `$  $'`$  $  $  $  $  gg$$$$$
+03,01ilLL88$$7n`,d$88LlilLL88$$@s_$$i;09;;03;L88$$:15 06$$$n  + j$, + ,$  g  $  + j$  + `$$$$
+03,01illLL88$_s$$8LLLL8888LLLiL88888i09;i;;03iL88$l15 06l$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+09,01;03illLL8888LL88$n``"n+?$$8LLlliil;09;i;03ilL8$$15 06:$$$$$$ p r o d u c t i o n s $$$$$$7
+09,01;03iillLLLLLLL8$l        `"4$8LLlii09;i;03;ilL8$:15 0688$$$$01,06  1     9     9     7  06,01$$$$7'
+09,01i;;03iilllLLL88$:           `$$8Llli;09;03ilLL8$l15 06LLl8$$$$$$$$$$$$$$$$$$$$$$$$$$7+'  
+09,01li;;03iillLL88$l15       03      `$88LLli;09;03ilL8$$15 06li;illLLL8888$$$$$$$7++nnn""`
+09,01lli;;03llLL88$$:15            03  `$$8Llli09;03ilL8$$15 06i;04;06;ilLL88$$$7+n"`
+09,01i;;;03iilLL88$:15               03 l$8LLLl09;03ilL8$$15 04;;06;ilL8$$7n`
+09,01;03iillLLL88$715                 03:$88LLliilL8$l15 04;06iiL8$7n`
+03,01illLLL888$715       03 04+15         03 $$8LLiilL88$:15 06il8$7'
+03,01LLL8888$$'15                    03$$8Li09;03ilL8$$15 06j8L87
+03,0188$$7+n'             15        03j$8LLliiLL8$l15 068L$7
+03,01"`_,_++ss%%@@SSSSS@@%s+,_15   03j$8LLlilLL88$:15 068Ll
+03,01S$$$$$$$$$$8888LLLL8$$$$$b,d$88LlllLL88$715 06jl8:
+03,01$::$$8888888LLLLlllLLLl88$$88LLllL888$7'06,dlLl
+03,01$l l$$888LLLLLlliiiiiiillLLLLLllL888$b,06`?8L8:
+03,018$::$$8LLLLllii09;;;::;;;;03iiillllLLLL88$$b 06?8l 15   14remember the good old times,
+03,01L$l l$88LLLllliii09;;;iii:;;03iiiilllLLL888$l15 068:
+03,01l8$::$$88LLLLLLlllii09;:illi:;;03iiilllLL88$$ 06815   14when what's 15old14 now, was 15new14 then
+03,01iL$l l$8888LLLLLLllli09;;:illi:;;03iiilLLL8$l15 06l
+09,01;;03l$::$$888$88LLLLllliii09;ili;;03iillLLL88$:15 06:15   14and everything was much simpler,
+09,01i;;03lb,`'._,`+?$8LLLLllii09;:i;03iiillLL888$l
+09,01li;;03ll$$$88$b,`l$8LLLllii09;i;03iiilllLL8$$:15        14and everybody seemed happy,
+09,01llli;;03ilLLLL$$ :$8Llliii09;;03iiiiiilLLL$$l
+09,01llli;03il8$$88$7 l$8llii09;i;03iillLLL888$$715           14with the way it all was?..
+09,01ii;;03il8',+,`',d$8Lli09;;i;03llLLL8888$$7' 
+03,01liLL8$: $$88888Llli09;i;03ilLLL88$$$7n'

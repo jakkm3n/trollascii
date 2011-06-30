@@ -1,0 +1,80 @@
+15,01                                                        00m                       
+00,01                     m                                m14,00  15,15@01,01e00                     
+00,01                    15|00,15#00,00#00,01m01y00          14mm14,14##14,01mm00           m14,00   00 00,15|15,01|01o00                   15 
+00,01                    14,15 00,00#14   00,01m      14m""00  14##00  14""m00      m14,00       14,15 01,01o00                   15 
+00,01                   15|00,15|14,00      00,01m                    m14,00     00  ##00,15#15,01|00                   15 
+14,01m02mmmmmmmmmmm12mmm02  15  14,15 14,00   00##14    00,01m  12m|00   ""   12|m00  m14,00           00,15|00,01    12mmm02mmmmmmmmmmmm14m
+14,14 14,02mm  15##14   12##02@12,12##  15,01 00#01,15#14,00        00,15|00,01 "m01u12"00##15@14,00##15,01@00##01on00m14,00             00,15|01,01o12|14,12  12##02,02@12##14  15##14    ||14,14 
+14,14#14,01"""""02""""""""12""00 15 00 15|00,15#15@00,00##14   00 15,01|00 12"01f00"m01ki00|14,00  00,01|  m" 14,00           00#15,15@00#00,01   12""02"""""""""""14""14,14#14,01"
+00,01                    15"00"00,15""14,00   00#00,15|00,01  15m15,15@00,00#14 00,01m14,00 00,01""14,00 00,01m"01one00|14,00        00##15,15@00#00,01                      
+00,01                         15""15,15@15,01"14,15#15,01""00   "    00,15|m01,01on00 00,00##14      00##15,15@00##00,01                      
+00,01                                        15|00,15|m15,01m00,15m14,00         00#00,15#15,01""00                      
+15,01                                          "00"00,15"14@00"00,00#00,15"""00,01""15" 00 15                        
+13,01""08"13""14,13#08,01""00 15" 13"15 13"06""13,06 13,13  14,00  00,01""15 03m09m14,09 09,01"00""09"14,09 09,01m00m 08""13"""08"13""15          08"13"14,13#13,01""""""""08"""""15 10mmm00mm15 13"08"13"
+14,01m13"15 13"13,06"13,13##    13,01m00m15 14"06|13,06|13,13   00,01|14|00 14,03 14,09    15,01 14|03|09,03|14,09  14,00 00,01|08|14,08|14,01"15 09"09,03"14,09  14,00  00,01"" 15 03m15 03mm09mm00m15 08"14"14,08m15,01 11m14,10  14,00 10,01"""11"10,11#10,10## 14,00 15,01 14,08 ##
+14,08 #08,14#15,01 13,06 13,13    06,01"13,06"13,13   13,01m13,06m13,13 ## 00,01|08|14|03|09,03|00,09##14 09,01|14"15 14,03 14,09   14,00 15,01 14"00m14,00 15,01 14,03 14,09   14,00 09,01 01,08@14,01"15  08m14m15 03"09,03"14,09  14,00 00,01m08  11"10"00"""10,11"14,10 10,01mmmm00m15  14"08,14#01,08@
+14,08  |15,01 13,06 13,13 ## 15,01  06"13,06"13,13       13,01|08|14,08|14,01 03"14,09    09,01m00m15 14mm00  m14,09 00##15,01 03|09,03|14,09   00,01 15 03m14,00 00,01m15 14"08,14#14,01|03|09,03|14,09  14,00 00,01|10,11 10,10  14,00  15,01 14m08mm15 11"10,11 10,10   00,01m15 08,14#
+14,08 #08,14#14,01|06|13,06|13,13   13,01|08|14m 06"13,06"13,13  00##13 15,01 14"00 03m14,09    09,01"03"15 14m"15 00m14,09     15,01 03|09,03#09,09##14 09,01m09,03m14,09   14,00 00,01m15  09,03 14,09 00##14 00,01|10,11 10,10   14,00 15,01 14,08|   08,01|11|10,11|10,10   00,01|14|
+14,08##08,14#14,01|06|13,06|13,13   13,01|08|01,08@08,14#14,01m15 13,06 13,13    15,01 09#01,03#14,09    00,01|08 14,08#08,14#14,01|03m14,09   03,03@09,09#14  15,01 03|09,03|14,09      09,01"09,03"14,09   03,01m03,03@14,09    15,01 11|10,11|10,10   00,01|14|08,14#01,08@14#08,01|11|10,11|00,10##14 00,01|14|
+14,08#01@03,01 06mm13,06#06@13,13# 13,01mm15 13m14"|13,06 06@@13,13  15,01  14,03 03@@14,09  15,01 08""14,08#14,01m15 03"09,03"14,09 03,03@09,09#14  15,01 14m03"09,03"00,09##14 09,01"15 14m15 03"09,03"14,09  09#14   09,01|14m11|10,11#10,10## 00,01|15 14"08""15 10,11 10,10    10,01|14|
+13,01mm08mmm13mmmmmm08mm13mm08m13mmmmm14,13#09,01 03"09"09,03"14,09   09,01mmmm09,03m14,09 09,03mm14,09 09,03"09,01"15 13mm08mm13mm14,13#13,01mmmm15 03"09,03"14,09   09,01"00 13m11|10,11|10,10    10,01"""""""""09 08m13m
+15,01                            03"09"""""""15                         00 11"10""""15         
+
+15,01    14,00 00,01""10""  """"15   10""15  10"
+13,13   15,01 10"15 00s15ynthetic00 p15ack00 f15ourteen 11"15 13,13   ##06,06@13##14  13###14    13##14      13#14                     
+15,01    10"15 11        15      11m15 11mm  mm14mm14,14 
+
+15,01 00audiences15, welcome to the strongest 00living15 australian artgroup, artpack, synth
+15,01 pack 14! including some awsome digital art from the 00usual15, syd, ataxia, warp,
+15,01 and ol' dirty bastard, to the 00not so usual15, ripped and mez52.
+15,01 we've finally made the music department happen this month, with mr.d. and dev
+15,01 currently tracking some fantastic modules for our 00ears15, while the 00eyes15 are on
+15,01 the art, now all you need is a 00mind15 alternation. thats what i call multitaskin
+15,01 00thanks15 to all, who's send in response to the synth packs, you just encourage 
+15,01 us to do more wiked art!
+
+
+15,01    14,00 00,01""10""  """"15   10""15  10"
+13,13   15,01 10"15 00b15ulletin 00b15oards/00d15istros 11"15 13,13  ##06,06@@@13###14      13##14      13#14                      
+15,01    10"15 11        15      11m15 11mm  mm14mm14,14 
+
+
+15,01 you must admit, having your board displayed as a distrobution site for a group
+15,01 and not have any/only a few releases of theirs 00online15 is pretty damn useless.
+15,01 what im getting at here is, ive noticed alot of our vic distro sites, if any,
+15,01 have only a few synth packs online. i will be 00deleting15 the boards off the memb
+15,01 list who's board does 00not15 have any/only some packs online. so, sysops! if your
+15,01 interested in still being a distro. site, please download all the synth packs
+15,01 from decay or mur systems asap! 00i will try15 to upload, and encourage others, 
+15,01 00but only my job is useless15.
+
+
+15,01    14,00 00,01""10""  """"15   10""15  10"
+13,13   15,01 10"15 00i15nternet 00p15roblems 11"15 13,13  ##06,06@@@13###14      13##14      13#14                            
+15,01    10"15 11       15 11m15 11mm  mm14mm14,14 
+
+
+15,01 After all the bullshite with changing the web page and deciding on one, my 
+15,01 account has 00died on aXs connection15 and 00now we have jack shit15.
+15,01 All i have is my email account from midian, where i cant send large amounts of
+15,01 files. I will try my best to upload the synthetic packs to 00cdrom.com15 however,
+15,01 it may take some time after the release for all you fast art crazed citizens.
+15,01                                                          
+15,01 i, 00trippah15 need a 00good fast inet account15 to distrobute synthetic packs as much 
+15,01 as possible. if anyone can offer me a 00free, decent account15, i will do any
+15,01 amount of art for you! if you can help me out here, please mail me 00asap
+
+
+15,01    14,00 00,01""10""  """"15   10""15  10"
+13,13   15,01 10"15 00s15ynth 00m15ember 00c15hanges 11"15 13,13  ##06,06@@@13###14      13##14      13#14                         
+15,01    10"15 11       15    11m15 11mm  mm14mm14,14 
+
+
+15,01 We have gained a reasonable amount of 00active artists15 this month, this only
+15,01 shows 00the prospect of synthetic art15!
+
+15,01 assigned in our boards site comes 00ride the lightning15, 2 nodes, situated in vic
+15,01 files to leech.
+
+15,01 we also cant forget to mention our 00new department15 in synthetic, 00music15. i have
+15,01 been meaning to add one on for a few months now, and here it is melbourne!

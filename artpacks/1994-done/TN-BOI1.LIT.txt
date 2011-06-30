@@ -1,0 +1,22 @@
+
+15,01    00Brink of Insanity
+
+00,01    14I'm alone in my apartment, on christmas eve,
+14,01    To be with your family is what I believe.
+14,01    I have no family.
+
+14,01    Must pay the rent, though I've lost my job,
+14,01    Must find a store or bank to rob.
+14,01    I have no money.
+15,01                                                   14I have no family.
+14,01    There are no presents or a tree,15               14I have no money.
+14,01    This is as bad as it could be.15                 14I've lost my hope.
+14,01    I've lost my hope.15                             14I'm going crazy.
+15,01                                                   14I cannot go on like this.
+14,01    Angered blood runs through my veins,
+14,01    How much longer can I stay sane.15               00Bang.
+00,01    14I'm going crazy.
+
+14,01    I have nobody to confide,
+14,01    My only option's suicide.
+14,01    I cannot go on like this.15                   00The Narccissist [Imperial]

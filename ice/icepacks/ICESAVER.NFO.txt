@@ -1,0 +1,11 @@
+15,01icesaver v1.0
+15,01by tetanus/ice
+
+15,01about:
+15,01        icesaver is a windows screensaver that works for both windows95
+15,01        and windows 3.1 
+
+15,01installation:
+15,01        put the icesaver.scr file into your windows dir. then, go to
+15,01        control panel and open display properties. under the screensaver
+15,01        pulldown, put in icesaver. very easy :)

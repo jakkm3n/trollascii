@@ -1,0 +1,56 @@
+
+15,01   #------------------------------------------------------------+
+15,01   |  "The Acquisition" - Contains A-Z of the ANSi Collection.  |
+15,01   |  Background History:    The Acquisition was originated in  |
+15,01   |  San Jose, California.   After  it had been organized and  |
+15,01   |  its contents  sorted,  it  first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To  this day the original zips are still  |
+15,01   |  floating around,  but  as  more  and  more high  quality  |
+15,01   |  computer graphics  are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                    |
+15,01   +============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |    The Acquisition : May/June Update *  July 1st, 1992    |
+15,01   +-----------------------------------------------------------+
+15,01   || Note:   The file ACDU0792.ZIP is only an update of the  ||
+15,01   || latest ANSis not included in the preceding Acquisition. ||
+15,01   ++-- --  -  -                                   -  -  -- --++
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01*|1  |AOFACID1 ANS |   6356 | 6.02.92 |%+  | Agents of Fortune               |
+15,01*|2  |BCACID3  ANS |  20255 | 6.05.92 |%A+ | Body Count                   (3)|
+15,01*|3  |BCACID4  ANS |   5930 | 5.27.92 |%+  | Body Count                   (4)|
+15,01*|4  |CLTYACD1 ANS |  20568 | 6.02.92 |%A+ | Celerity "Don't Ever Doubt It!" |
+15,01*|5  |CRNGACD1 ANS |   1594 | 6.19.92 |%+  | Crime Ring                   (1)|
+15,01*|6  |CRNGACD2 ANS |   5154 | 6.23.92 |%   | Crime Ring                   (2)|
+15,01*|7  |FIGACID  ANS |  47391 | 6.02.92 |%A+ | Figments Place                  |
+15,01*|8  |FLT-ACID ANS |   5959 | 6.23.92 |%   | Fairlight Logo                  |
+15,01*|9  |IIRG1ACD ANS |   1852 | 6.07.92 |%   | Internatl. Info Retrieval Guild |
+15,01*|10 |NWLACID1 ANS |   8459 | 6.09.92 |%+  | Nuclear Wastelandz              |
+15,01*|11 |OORACID1 ANS |   9439 | 6.25.92 |%+  | Out of Reach                 (1)|
+15,01*|12 |PMS1ACID ANS |   5778 | 6.27.92 |%+  | Pirate Mind Station             |
+15,01*|13 |PRODUCT  ANS |   5023 | 6.27.92 |%   | The Product Magazine Logo       |
+15,01*|14 |QSTCFIST ANS |   5158 | 6.07.92 |%   | File Stats screen for Crusades  |
+15,01*|15 |RAZOR2   ANS |   7090 | 6.03.92 |%+  | Razor 1911 - Guile razor kick   |
+15,01*|16 |RRACID2  ANS |   8948 | 6.25.92 |%+  | Rescue Raider                   |
+15,01*|17 |SUBACID  ANS |  46198 | 6.13.92 |%A+ | Suburbia                        |
+15,01*|18 |TJFC     ANS |   9159 | 6.23.92 |%+  | The JED Fan Club                |
+15,01*|19 |TR-SDASX ANS |  81341 | 6.24.92 |%A  | SDA Logo - "SAD"                |
+15,01*|20 |USSR1ACD ANS |   3803 | 6.06.92 |%+  | USSR Systems                    |
+15,01*|21 |ACDU0792 NFO |   3798 | 7.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = ANSiMated             |
+15,01  | M = ANSi Music           + = Scrolling             |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 21         Average Compression Rate: %81  |
+15,01  |   Total Bytes: 309,253    Total Bytes Zipped:    63,902  |
+15,01  |                                                          |
+15,01  +----------------------------------------------------------+

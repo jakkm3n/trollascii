@@ -1,0 +1,13 @@
+10,01(150897 ascii files...10)
+15,01DKL-KAF.ASC
+15,01DKL-OLD.ASC
+15,01P4-AHIDE.ASC
+15,01P4-FILE.ASC
+15,01P4-OI.ASC
+15,01P4-SUPER.ASC
+15,01US-KAFKA.ASC
+15,01VRM!BMB!.ASC
+15,01VRM!IE2.ASC
+15,01>SAUCE00---------- ASCII ----------                            bamboosh         
+15,01   19970824!   @@P 
+15,01                             

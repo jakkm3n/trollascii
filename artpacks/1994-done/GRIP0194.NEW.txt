@@ -1,0 +1,80 @@
+15,01                  mm14,15   15,01|14,15   15,01m14,15 15,01mm 14,15   15,01|14,15   15,01m14,15 15,01mm    |14,15  15,01||14,15  15,01||14,15   15,01mm
+15,01                m14,15######15,01|14,15####15,01"14,15###15,01m"" 14,15####15,01"14,15###15,01m  14,15###15,01 14,15####15,01 14,15######15,01m
+15,01               14m01,15@@@@@15,01"" "01,15@@15,01   01,15@@@15,01 01,15@14,01|01,15@@@15,01   01,15@@@15,01 14|01,15@@14,01||01,15@@@@14,01||01,15@@14,01|15"01,15@@15,01m
+15,01              14m00,14###14,01" mm00,14###14,01|00,14##14,01m00,14###14,01"m00,14#14,01|00,14####14,01m00,14###14,01" 00,14###15,01 00,14######15,01 00,14###15,01 14"00,14##14,01m
+14,01    12mmmmmmmmmm 14,14   14,01m "" 14,14  14,01|14,14     14,01m"14,14  14,01|14,14   14,01"14,14  14,01"12m 14|14,14  14,01||14,14  14,01||14,14  14,01||14,14  14,01| "00,14  14,01m12mmmmmmmm02m
+02,01    14,12 12,01 15mmmmmmmmm 13,14####14,01mm13,14##14,01|13,14##15,01 m14"13,14###15,01 13,14#14,01|13,14###15,01 mmmm 13,14###15,01 13,14###14,01""13,14###15,01 13,14###15,01 14m13,14##14,01"15mmmmmmm 14,02 
+02,01    14,12 12,01 12,15          15,01m06"01,06@@@@@06,01"m01,06@@15,01 14,15 15,01 01,06@@@15,01 01,06@06,01|01,06@@@15,01 14,15   15,01|06|01,06@@06,01||01,06@@06,01|15||06|01,06@@06,01||01,06@@@@@06,01"15m15,15       15,01 14,02 
+02,01    14,12 12,01 12,15            15,01mm06""15m06""""15m15,15 15,01m06"""15m06"15m06"""15m15,15   15,01m06"""15m06"""15m15,15  15,01m06"""15m06""""15m15,15         15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15                14#01@00,14#01,15@14#  00GRiP/AD Newsletter #5 14#01@00,14#01,15@14#                 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 01Welcome to the  January '94 release from 00GRiP/AD01. This past month 15,01 14,02 
+02,01    14,12 12,01 12,15 01must have  been one of the hardest  months for the  entire group. 15,01 14,02 
+02,01    14,12 12,01 12,15 01We have  gone through  tremendous changes, good and bad.  We have 15,01 14,02 
+02,01    14,12 12,01 12,15 01lost precious members to greater groups such as Magnetic M < Ansi 15,01 14,02 
+02,01    14,12 12,01 12,15 01Co-Ordinator > and  The Duellist <Musician> to 00ACiD 01and one other 15,01 14,02 
+02,01    14,12 12,01 12,15 01member,  The Masked Pirate,  to 00ESTRANGED01.  Let me just say, that 15,01 14,02 
+02,01    14,12 12,01 12,15 01the  group has drastically  decreased in members.  We lost one of 15,01 14,02 
+02,01    14,12 12,01 12,15 01our most important network node and site, Mandatory Suicide. This 15,01 14,02 
+02,01    14,12 12,01 12,15 01board used  to be some kind of HQ for us. Nobody in 514 was LD to 15,01 14,02 
+02,01    14,12 12,01 12,15 01there,  we had no  problems in  contacting each  other.  Well now 15,01 14,02 
+02,01    14,12 12,01 12,15 01everything is fixed  and it took a  week  of work inorder  to get 15,01 14,02 
+02,01    14,12 12,01 12,15 01everything back to it's original state.  Well..  close enough. :) 15,01 14,02 
+02,01    14,12 12,01 12,15 01Enough with the bad news. Lets get on with the good news!         15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15                      14#01@00,14#01,15@14# 00New Members! 14#01@00,14#01,15@14#                     15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00GRiP/AD 01has recruited new members, finally. We got SandStorm from 15,01 14,02 
+02,01    14,12 12,01 12,15 01[718] who is now an official recruiter for 00GRiP/AD01. He got us two 15,01 14,02 
+02,01    14,12 12,01 12,15 01new members:  Circuit Breaker  and Maniac, ansi artists from 718. 15,01 14,02 
+02,01    14,12 12,01 12,15 01We lost 3 members, we gained 3. It's a start.                     15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15                       14#01@00,14#01,15@14# 00New Sites! 14#01@00,14#01,15@14#                      15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 01We also got a few new sites.  Most of all,  our new  USHQ  is now 15,01 14,02 
+02,01    14,12 12,01 12,15 01White Sands , the SysOp is SandStorm. We also got: The Fatal Edge 15,01 14,02 
+02,01    14,12 12,01 12,15 01and The Realm of Insanity.  Also 3 new Net Nodes to 00GRiPNet01,  The 15,01 14,02 
+02,01    14,12 12,01 12,15 014th Reich, Splendor Solis and The Paranormal Shop.                15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15                     14#01@00,14#01,15@14# 00Nothing Special 14#01@00,14#01,15@14#                   15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 01I am now going on  vacation until January 13.  Mr. Mister [former 15,01 14,02 
+02,01    14,12 12,01 12,15 01editor of 00GRiP/AD01] will be taking care of the group.  I'll try to 15,01 14,02 
+02,01    14,12 12,01 12,15 01stay in  touch with him and  maybe take the  important decisions. 15,01 14,02 
+02,01    14,12 12,01 12,15 01See ya in 02/94! Happy new year y'all!                            15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15                        14#01@00,14#01,15@14# 00Greetings! 14#01@00,14#01,15@14#                     15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Margin Walker 01- Cartoon's are definatly  what you're the best at! 15,01 14,02 
+02,01    14,12 12,01 12,15                 01You're really amazing man!                        15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Zorlak 01- School's taking alot  of time eh? Keep up The good Work! 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Black One 01- It's been a  While I haven't seen ya.. What's up man? 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Edge Of Panik 01-  Hope  to see  more of  your work  in the future! 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Krypton 01- Nice to see you're back. Right in time.                 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Annihilatus 01- I couldn't take only your  POV since there was much 15,01 14,02 
+02,01    14,12 12,01 12,15               01more than that to say!                              15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Mr. Mister 01- Hope you decide to re-open your board! :)            15,01 14,02 
+02,01    14,12 12,01 12,15              01Thanks for the help.                                 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00SandStorm 01- Nice to have you in the group. It really helps.       15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Circuit Breaker & Maniac 01- I hope I'll know you  guys more in the 15,01 14,02 
+02,01    14,12 12,01 12,15                            01next pack.                             15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00The Duellist & Magnetic M 01- All the  luck in ACID. Maybe you guys 15,01 14,02 
+02,01    14,12 12,01 12,15                             01will change  your mind again?  <grin> 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00The Masked Pirate 01- Hope you'll like Estranged. I liked your work 15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Ice Cube 01- Thanks for the help that you did for GRIP/AD anyways.. 15,01 14,02 
+02,01    14,12 12,01 12,15            01hope you like Estranged..                              15,01 14,02 
+02,01    14,12 12,01 12,15                                                                   15,01 14,02 
+02,01    14,12 12,01 12,15 00Everyone 01- Thanks for the support,we still need it. Hope I didn't 15,01 14,02 
+02,01    14,12 12,01 12,15            01forget anyone! If so, sorry!                           15,01 14,02 

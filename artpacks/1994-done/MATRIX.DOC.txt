@@ -1,0 +1,80 @@
+15,01         PCBoard Login Shell
+15,01         Coded by Wildfire
+15,01         A BL/+DE Production
+
+15,01         -------------------------------------------------------------
+
+15,01         Installation of the Login Shell is quite simple. Although
+15,01         there are many advanced options, it is not particularly hard
+15,01         to get the Shell running. Decompress the following files into
+15,01         the same directory (If you wish to put them in their own
+15,01         directory, that is fine, but it does not matter.)
+
+15,01         o MATRIX.PPE  Actual Executable
+15,01         o MATRIX.CFG  Configuration File
+15,01         o MATRIX.DOC  Documentation (This)
+15,01         o MATRIX.     Matrix Menu Screen
+
+15,01         We will use the directory C:\PCB\PPE\MATRIX\ for our
+15,01         examples. Now, you need to replace PCBTEXT record #259 with
+15,01         the name of the PPE. If you are using the above directory, it
+15,01         would be:
+
+15,01         !C:\PCB\PPE\MATRIX\MATRIX.PPE
+
+15,01         You should make PCBTEXT record #260 the default. You should
+15,01         NOT put a PPE in it's place. PCBTEXT record #260 should be as
+15,01         follows:
+
+15,01         What is your last name
+
+15,01         If it's not like that, press F3, and go to record #260, and
+15,01         press F4.  That should restore the default.
+
+15,01         There are two welcome files that are important in the shell,
+15,01         instead of just one, as in the standard PCBoard. The first
+15,01         one is displayed before the shell is loaded. The second one
+15,01         is displayed after the user has successfully entered the
+15,01         system password, but has not yet typed in their handle.
+
+15,01         The first one, displayed before the shell is loaded, is the
+15,01         standard WELCOME file. This file is specified on line 36 of
+15,01         the PCBOARD.DAT file. It can also be specified in PCBSetup,
+15,01         under [B] File Locations | [C] Dispay Files. The default
+15,01         value is shown below:
+
+15,01         C:\PCB\GEN\WELCOME
+
+15,01         The second one, displayed after the user has typed in the
+15,01         system password, but before they have typed in their handle.
+15,01         This file is kept in the same directory as MATRIX.PPE. The
+15,01         filename is "MATRIXW" (for Matrix Welcome.) The following
+15,01         conventions are used for the filenames:
+
+15,01         MATRIXW  Ascii welcome file, or color welcome file containing
+15,01                  @X codes.
+
+15,01         MATRIXWG Ansi welcome file, can contain standard ANSI codes,
+15,01                  @X codes, or both.
+
+15,01         MATRIXWA Ansi welcome file, can contain standard ANSI
+15,01                  *ANIMATION* codes, but not color codes.
+
+15,01         MATRIXWR RIP Welcome file, can contain ANSI codes or RIP
+15,01                  codes, but not both.
+
+15,01         Next, you need to edit the MATRIX.CFG file. This, as of
+15,01         v1.00, has 36 lines. Most of them are only necessary if you
+15,01         are changing the prompts and/or ansi. Here, I will discuss
+15,01         the important ones:
+
+15,01         Line 16: This is the system password. Validated users can
+15,01                  find this out by using the CHECK command. If a user
+15,01                  knows this password, he can log on. This password is
+15,01                  also sometimes known as the matrix password. If you
+15,01                  wish to disable this feature, leave this line blank.
+15,01                  If you do not wish to have the Shell ask for a
+15,01                  password, then you can leave this line blank.
+
+
+15,01         Line 17: This is the newuser password, or NUP. New users are

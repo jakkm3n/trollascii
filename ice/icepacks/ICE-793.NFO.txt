@@ -1,0 +1,80 @@
+
+15,01                        00"What's New" in iCE Recently.
+
+
+00,011.   This iCEPACK for July of 1993 has been brought to you by the more
+15,01     00recently known "silent" Senior Staff of iCE...  Metal Head. :)
+15,01     00Suprise, Suprise!
+
+00,012.   The iCEPACK is a BIT small this month, but since it's quality that
+15,01     00counts, who cares! :)
+
+00,012.   Well due to the outpouring of VGA art last month, and the fact that
+15,01     00CyberChrist has departed iCE for the time being, and Quazer & Vapor
+15,01     00are on vacation, the VGA has been a bit slow this month.  Well actually
+15,01     00it was at a halt this month.  Next month though will be different
+15,01     00and the quality will improve from the June pack.  Look for it.
+
+00,013.   After the rise to iCE SS of Shihear Kallizad for a month then his
+15,01     00fall a few months ago, Midnight sorrow came into the iCE SS position.
+15,01     00Then, once more, after a month he took a step back and decided he
+15,01     00needed to leave the scene.  Now in our third attempt, The Untimed
+15,01     00has risen to the challenge of breaking the streak.  I think it'll
+15,01     00happen.
+
+00,013K.  These little divisions sure seem to be getting popular, next is
+15,01     00another one.
+
+00,013X.  I would just like to personnaly congradulate The Untimed on the
+15,01     00position.  From what I can tell he should be a good, active, and
+15,01     00reliable Staff Member.  I'm looking forward to working with him
+15,01     00on some of his new ideas.
+
+00,014.   Damn! there's no little "3/4" sign, oh well.  Anyways..  with the
+15,01     00new Staff in Tempus can step down once more.  I'm sure he's jumping
+15,01     00with joy. :)  This now brings the Staff to 3 members:
+
+15,01                  00- Force Ten, Metal Head, & The Untimed -
+
+00,015.   Now here are some comments from STiLE....
+
+00,015a.15       00iCE would like to officially welcome a few new members to the team!
+15,01     00Tatsu, formerly of Digitally Oriented artists; a great new talent in the
+15,01     00scene.  Forgemaster and Violator are the newest additions to iCE's sound
+15,01     00department, and we look forward to seeing some great music comming from
+15,01     00them shortly.  Dark Knight, a former Legacy VGA artist has recently joined
+15,01     00the ranks of iCE, and we're very happy to have him!  On the topic of new
+15,01     00VGA members, Exquisite Corpse (yet another former Legacy member) has also
+15,01     00joined iCE. We also welcome Golgotha, Rawhead Rex, Spot and Jester,
+15,01     00formerly of ACiD productions, who recently came over to iCE. Banana
+15,01     00Basher and Cid Vicious have also been accepted into the iCE team.
+15,01     00We are expecting big things from these people, and they show awesome
+15,01     00potential.
+
+00,015b.15       00Lord Carnuss, Elminster, Faded Whisper, and LiQUiD iMAGE.. you know
+15,01     00how I feel about you guys comming to iCE, so I won't have to ramble on
+15,01     00about it. :)  Now that Random Violence and The Retarded Warrior are now in
+15,01     00iCE together, there are 3 sets of brothers!  What a record! :)
+
+00,015c.15       00I'd like to extend thanks to all the other iCE Canadian guys that's
+15,01     00have helped out iCE this month, and everyone else for making us #1 again!
+15,01     00To anyone else that I have forgot to mention, sorry! (gulp)
+
+00,015d.15       00He's back. (TMT)
+
+00,016.   iCE would like to say keep it up, to HellRazor, a new VGA artist
+15,01     00in [301].  Look for work from him in later packs.
+
+00,017.   If you have access to the Internet and would like to contact iCE
+15,01     00you can e-mail me (Metal Head) at: "metalhed@phantom.com" or try
+15,01     00to catch me on IRC as just plain "MetalHead" on the usual two
+15,01     00channels.
+
+00,018.   Also dealing with the Internet topic.  The newer iCEPACK(s) can be
+15,01     00on the demo FTP site, "ftp.uwp.edu". In the directory "/pub/msdos
+15,01     00/demos/incoming"
+
+00,019.   Here's the shortest comment on the iCE Mag ever in a pack..
+15,01     00If you have any questions, or want to write an article, contact
+15,01     00Metal Head or The Untimed.
+

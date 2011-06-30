@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  February Update *      March 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0394.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0294 ANS |   8939 |02.28.94 |%+   | February Member/Board Listing  |
+15,01*|2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 115575 |03.01.94 |%    | ACiD Acquisition Viewer + 1.50 |
+15,01*|N/C|ACIDVIEW NFO |  30328 |03.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AN-AE1   ANS |  38617 |02.26.94 |%+   | Awakened Earth                 |
+15,01*|5  |AN-CAES3 ANS |  31398 |02.26.94 |%+   | Caesar's Palace             (3)|
+15,01*|6  |BE-DSUN1 ANS |  16945 |03.01.94 |%+   | The Dark Sun World             |
+15,01*|7  |BK-NC1   ANS |  17299 |02.28.94 |%+   | No Carrier                     |
+15,01*|8  |BK-TS1   ANS |  46819 |02.28.94 |%+   | Terminal Sabotage              |
+15,01*|9  |DD-NVL1  ANS |  11573 |02.28.94 |%+   | The Never Land                 |
+15,01*|10 |EX-AMBER ANS |  13429 |03.01.94 |%+   | Amber                          |
+15,01*|N/C|FILE_ID  DIZ |    400 |03.01.94 |%    | Acquisition FILE ID by {HL}    |
+15,01*|11 |IZ-KZONE RIP |  31060 |03.01.94 |%    | The Killing Zone               |
+15,01*|12 |JD-HEAVN ANS |   6660 |02.22.94 |%+   | The Heavens                    |
+15,01*|13 |JK-DU1   ANS |  15998 |02.28.94 |%+   | Danger Unlimited               |
+15,01*|14 |KP-HR    RIP |  48547 |02.25.94 |%    | Harsh Realities                |
+15,01*|15 |KP-TCC   RIP |  17207 |02.20.94 |%    | The Crime Cartel               |
+15,01*|16 |MA-DR4   ANS |  13935 |02.09.94 |%+   | Death Row                      |
+15,01*|17 |MA-SKY2  ANS |  12677 |02.26.94 |%+   | Skynet                         |
+15,01*|18 |MX-RL1   ZIP | 241050 |02.27.94 |%AM  | Renegade Legion                |
+15,01*|19 |NEWS0394 ANS |  13467 |03.01.94 |%+   | ACiD Newsletter Issue #3       |
+15,01*|20 |RN-AMBER RIP |  14003 |02.27.94 |%    | Amber                          |
+15,01*|21 |RN-SKY1  RIP |  22507 |02.27.94 |%    | Skynet                         |
+15,01*|22 |RS-DREA2 COM |    740 |02.11.94 |%    | The Elusive Dream              |
+15,01*|23 |SM-ACID2 RIP |  22379 |02.28.94 |%    | ACiD Piece                     |
+15,01*|24 |SM-DSOC1 RIP |  17311 |02.28.94 |%    | Dark Society                   |
+15,01*|25 |SO-BC1   ANS |  35573 |02.19.94 |%+   | Black Chamber                  |
+15,01*|26 |SO-CZ2   RIP |  53344 |03.01.94 |%    | Channel Zer0                   |
+15,01*|27 |SO-FS1   COM |   4918 |02.27.94 |%+   | Forbidden Site  (Wide-Scroller)|
+15,01*|28 |SP-LD1   RIP |  28215 |02.26.94 |%    | Lost Destiny                   |
+15,01*|29 |SW-FCITY EXE |  48545 |02.26.94 |%    | Forbidden City           (SVGA)|
+15,01*|30 |T2-AMBER ANS |  32081 |02.16.94 |%+   | Amber                          |
+15,01*|31 |T2-DU    ANS |  26083 |03.01.94 |%+   | Danger Unlimited               |
+15,01*|32 |T2-LI    ANS |  28228 |03.01.94 |%+   | Lost Innocence                 |
+15,01*|33 |T2-TPP   ANS |  19165 |03.01.94 |%+   | The Phunk Palace               |
+15,01*|34 |T2-VUDU  ANS |  52149 |03.01.94 |%+   | ACiD Promotion w/VooDoo        |
+15,01*|35 |US-SS1   ANS |  18825 |03.01.94 |%+   | Suicidal Shrimp                |
+15,01*|36 |ACDU0394 NFO |   6341 |03.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

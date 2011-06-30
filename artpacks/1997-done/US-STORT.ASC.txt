@@ -1,0 +1,72 @@
+15,01   .s8NNNN8s.
+15,01 ,dNN NN7"~NNb.
+15,01:NNNN NN.  NNNN: b,. .s b,.
+15,01:N#14,15## 15,01NNNNNNNNN: ~''nn47'`  ~
+15,01 `*8NNNNNNNN8*'        `              .s8N8s.
+15,01 .    ~''' ..         .     .s88s.  .dNNNNNNNN.
+15,01 N7"~   `4NN(              :NNNNNN.dNNNNNNNNNNN.
+15,01 '        `4N.       `    .dN7"~__~*n*8NNNNNNNNN:
+15,01 .          `Nb,.          f`.s8NNN8s. `*8NNNNNNNb,.
+15,01           .7'              :NN14,15# #00,01@15NNNb,. ._~.``
+15,01        .d7'                NNNNNNNNNNNNNNNNNNNl
+15,01        .(                  *~   ~"4NNNNNNNNNNN:
+15,01       ~"4.                 :.  `  .NNN.  .  .:
+15,01          `                  7b,.,dNNNNNb,.,d'
+15,01                           _. `*8NNNNNNNNN*'   '
+15,01                        .,+s8.    ~*nnn*~    .(,.
+15,01                 .,+s5NNNNNNNNN8n,.__ __.,n8NNNNNNN8*s,.
+15,01                .NNNNNNNNNNNNNNNNNNNN888NNNNNNNNNNNNNNNNb.
+15,01               ,NNNNNNNNNNNNNNNNNNNN' NNNNNNNNNNNNNNNNNNNNN.
+15,01              ,NNNNNNNNNNNNNNNNNNNN'  NNNNNNNNNNNNNNNNNNNNNNb.
+15,01             ,NNNNNNNNN'.NNNNNNNNNNNN N`4NNNNNNNNNNNNNNNNNNNNNb.
+15,01           `4NNNNNNNNN*` .s8NNNNNNNNN NN.`4N7',Nb,. `4NNNNNNNNNNb.
+15,01            .`4NNNNNN' ~"4NNNNNNNNNNN NNN. ` ,Nkxxx x `4NNNNNNNNNN.
+15,01           .Nb.`4NNN' `  NNNNNNNNNNNN NNNN. ,NNNNNN     `4NNNNN7'NNN.
+15,01          .NNNNNNNN'     lNNNNNNNNNNN NNNNN,NNNNNNl       `4N7'.dNNNNb.
+15,01         .NNNNNNNN'      :NNNNNNNNNNN NNNNNNNNNNNN:         `.dNNNNNNNNb.
+15,01       .dNNNNNNNN(        `4NNNNNNN00@@15 NNNNNNNNNN7'            `+4NNNN#00@14,15 00,01@15b.
+15,01         `4NNNNNNN.       .,dNNNNNNNN NNNNNNNNNb,.               `+NNNNNNNNb.
+15,01           `4NNNNNN.       :7"~  N ~* NNNNNNNNNN:                   `+NNNNNNNb
+15,01             `4NNNNN.      .s8NNNN8s. N7*~  ~*4N                       `+NNNNN
+15,01               `4NNNN.    :NNN7"~'4NN:'  .++.  `                          `+NN
+15,01                 `1NNN.   NNN:     )N00@15  :NNNN:   ad ifinitum.                `
+15,01                   ii100@15   :NNNb,.,dNNN.  `**'  .
+15,01                  `::ii.   `*8NNNN8*' ..,.___.dN
+15,01                     ;;        `4N .,dNNNNNNNNN8s.
+15,01                       ;         `4NNNN7'  `4NNNNN.
+15,01                   .               `NN'      `NNNNN.
+15,01                                    `(        `NNNNN:
+15,01                                               `NNNN7'`
+15,01                  `                  `          lN7'
+15,01                                               .N'
+15,01                                               )'
+15,01                                              '
+15,01                                           .'
+15,01          '                       ,                      NN                .
+15,01          .                 ,. .s8N)                   NNNNNN  N        .,dNb.
+15,01o          b,.             ~"4iNNN(                      NN      NNNNN   `4(
+15,01           NNN                NNNNN       `      ' ~*24NNNNNNNNNNNNNNN     `
+15,01!        NNNNNb,. .n8NNNNNNNNNNNNNknn n    n           `NNNNN    NNNNNNNNN  .
+15,01l NN00@@15NNNNNNNN   :NNNN  .,dNNNNNNN   ______ .s8NNNNNNNNNNNNNN  `4NNNNN     .N.
+15,01: NNNNNNNNNNNNNNNlNNNN     n*~NNNN: (  ____:NNNN'   NNNNNNNNN    `NNNN   .dNNNb.
+15,01  NNl    NNNNNNNNNNNNNNNNNNNNNNNNNl  `\`NNNNNNNN    NNNNNNNN00@15     lNNN    NNNNN
+15,01: NN:    NNNNNNNNb,.  .   NNNNNNNNN    ) )NNNNNN    NNNNNN14,15#00,01@15#    .NNNN    NN00@14,15# 
+15,01l `*8    NNNNNNNNNNNN(    NNNNNNNNN .,' .NNNNNNN   .NNNN:       .NNNNN    NNNN00@
+15,01Nb,. NNNNNNNNNNNNNNNNNNNNNN:NNNNN:NNNNNNNNNNNNNNNNNNN8*'         `*8NNNNNNNNNN#
+15,01                 `4N7'      `*N*'
+15,01                 . ` .        `
+15,01                 Nb.dN         )
+15,01                 `4N7'       ,
+15,01                   `       .d(.
+15,01                 .   .    (NNb.
+15,01                 Nb.dN     `
+15,01                 NNNNN
+15,01---              `4N7'
+15,01---                `
+15,01for biOgenesis' DISTORT(ION).
+
+15,01thanks for the head seraphim(konami), which i then proceeded to mangle.
+
+15,01for the record, this was the first ascii i've even had any part of that my dad
+15,01has liked. =)
+15,01>

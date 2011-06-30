@@ -1,0 +1,62 @@
+15,01mmmmmmmmmm   mmmmmmmmm   mmmmmmmmmmm  mm      14,15  15,01 mmmmmmm mmmmmmmmm 14,15  15,01 mm 14,15  15,01     
+
+14,15         #15,01   14,15       # 15,01   14,15 15,01mmmmmmmmmm  14,15  15,01      14,15 #15,01 14,15     # 15,01 14,15         15,01 14,15  15,01 14,15  15,01 14,15  15,01     
+
+14,15     15,01 14,15    15,01   14,15         15,01   14,15  15,01       14,15 15,01   14,15  15,01      14,15 15,01  14,15      15,01  14,15  15,01     14,15 15,01  14,15  15,01 14,15  15,01 14,15 15,01      
+
+14,15          15,01      14,15  15,01       14,15  15,01       14,15  15,01  14,15  15,01      14,15  15,01 14,15       15,01 14,15  15,01     14,15  15,01 14,15  15,01 14,15  15,01 14,15  15,01     
+
+14,15    15,01 14,15     15,01      14,15  15,01       14,15  15,01       14,15  15,01  14,15  15,01      14,15  15,01 14,15       15,01 14,15  15,01     14,15  15,01 14,15  15,01 14,15  15,01 14,15  15,01     
+
+14,15####15,01 14,15#####15,01      14,15##15,01       14,15##15,01       14,15##15,01  14,15##15,01      14,15##15,01 14,15#######15,01 14,15##15,01     14,15##15,01 14,15##15,01 14,15##15,01 14,15##15,01     
+
+00,01@@@@15 00@@@@@15      00@@15       00@@@@@@@@@@@15   00@@15    00@@15  00@@@@@@@15 00@@@@@@@@@15 00@@15 00@@15 00@@15     
+
+15,01#### #####      ##       ###########    ######   ####### 00@15mmmmmmmm ########     
+15,01                                                                                
+15,01                                              
+15,01                                                                                
+15,01   
+15,01                            atbview version 15.14a     
+
+
+15,01this is the documentation for the atb-view program.
+
+
+15,01- features :
+
+15,01        - view ansi, ascii, lit
+15,01        - smooth scrolling
+15,01        - sauce support
+15,01        - ability to change to directories from within the program
+15,01        - SHOWS AN UNLIMITED NUMBER OF ANSI-LINES !!!!! 
+15,01        - FAST !!
+15,01        - cool, nifty layout !!
+15,01        - SMALL !!!
+
+15,01- how to use it ...
+
+15,01        are you stupid or what ?
+
+
+15,01- legal disclaimer
+
+15,01        this is freeware and can be exchanged with your friends without any
+15,01        charge, but please don't modify it !!
+15,01        if this fucks up your computer or destroys your life/social life,
+15,01        I AM IN NO FU*KING WAY RESPONSABLE !!
+
+
+15,01- credits :
+15,01        - code : nightstalker [atb]
+15,01        - layout : nightstalker [atb]
+15,01        - documentation written by : nightstalker [atb]
+
+
+15,01        DO NOT VIEW THIS DOCUMENT IN ICEVIEW OR ACIDVIEW OR 
+15,01                  YOU WILL NOT BE ABLE TO SEE MY
+15,01                           COOL LOGO !!!!
+
+
+15,01PS : ANSI.SYS MUST BE LOADED DURING BOOTING SEQUENCE IN ORDER TO MAKE  
+15,01     ATB-VIEW DISPLAY COLORS CORRECTLY !!

@@ -1,0 +1,7 @@
+00,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+02,15                                                                               
+02,15 . Base Name: 04|B                  02     Msg #/Date : 04|#/|N |D/|W              02. 
+02,15 . Title    : 04|T    02                   Sent By    : 04|F                02       . 
+02,15 . Sent To  : 04|S       02                Sender Note: 04|U              02         . 
+02,15                                                                               
+14,01"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

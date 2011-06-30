@@ -1,0 +1,52 @@
+
+15,01 ---(color ver.)---------------------------------------------------------------
+
+15,01 14.15                     08<<15 08<14-----,15    t h  e      d   e m  o  n  w o   m b14!
+15,01 14:15 bytesleft14:11 15     11             14;15             14pppp15p$
+15,01 14;15  realtime14:11 15     11             #15    b14ppppppsq$$$$$15$ -of!
+15,01 14|15  timeleft14:15   11     15$q14qqqq.,15   14+---15 $14$$$$$15   14$$$$$$15 14bppppp15ps     sq14qqqqqd
+15,01 11#15                   $14$$$$$15 14sqqqqqq15d $b14$$$$,.,$$$$$$15 14$$$$$15$         $14$$$$$
+15,01 14+--08#14------+--------15 14$$$$$$15   14$$$$$15$ 00`15$T+142"^~^"2222'15 $14$$$$$,.,d$b,.,$$$$$15$ 14---+
+15,01 11##15  11###15 11##15 11##15 11#15  11##15 14$$$$$$,.,$$$$15d$  00'15 11##15  11#15 11###15 11#15  00`15$T+142"^~"2$2"~^"2+15T$00'15 11#15 11##
+15,01 14+----+----08#14--15 14----+15 14`2222"^~^"215+T$00'15 14+---15 14----+-----15  00`14----+----15 14----08#14-15 00'15 14+---+
+15,01                                  00'15                                           11#
+15,01    14(11j14)15 join conference       14(11r14)15 read your mail       14(11g14)15 goodbye/logoff     14|
+15,01    14(11f14)15 file list             14(11e14)15 enter a message      14(11v14)15 view statistics    14;
+15,01 14.15  14(11u14)15 upload files          14(11q14)15 quick mail scan      14(11w14)15 write user info    14:
+15,01 14:15  14(11d14)15 download files        14(11k14)15 kill message       14(11bbs14)15 bbs list           14'
+15,01 14;15  14(11n14)15 new file scan         14(11c14)15 comment to sysop   14(11one14)15 oneliner
+15,01 14|15  14(11l14)15 search filenames      14(11o14)15 page the sysop     14(11who14)15 who's online
+15,01 11#15  14(11z14)15 zippy dir scan        14(11b14)15 list bulletins    14(11user14)15 user list
+15,01 14++----,
+
+15,01 ---(color ver.)---------------------------------------------------------------
+
+
+15,01 ---(ascii ver.)---------------------------------------------------------------
+
+15,01 .                     << <-----,    t h  e      d   e m  o  n  w o   m b!
+15,01 : bytesleft14:11 15     11             15;             ppppp$
+15,01 ;  realtime14:11 15     11             15#    bppppppsq$$$$$$ -of!
+15,01 |  timeleft14:15   11     15$qqqqq.,   +--- $$$$$$   $$$$$$ bpppppps     sqqqqqqd
+15,01 #                   $$$$$$ sqqqqqqd $b$$$$,.,$$$$$$ $$$$$$         $$$$$$
+15,01 +--#------+-------- $$$$$$   $$$$$$ `$T+2"^~^"2222' $$$$$$,.,d$b,.,$$$$$$ ---+
+15,01 ##  ### ## ## #  ## $$$$$$,.,$$$$d$  ' ##  # ### #  `$T+2"^~"2$2"~^"2+T$' # ##
+15,01 +----+----#-- ----+ `2222"^~^"2+T$' +--- ----+-----  `----+---- ----#- ' +---+
+15,01                                  '                                           #
+15,01    (j) join conference       (r) read your mail       (g) goodbye/logoff     |
+15,01    (f) file list             (e) enter a message      (v) view statistics    ;
+15,01 .  (u) upload files          (q) quick mail scan      (w) write user info    :
+15,01 :  (d) download files        (k) kill message       (bbs) bbs list           '
+15,01 ;  (n) new file scan         (c) comment to sysop   (one) oneliner
+15,01 |  (l) search filenames      (o) page the sysop     (who) who's online
+15,01 #  (z) zippy dir scan        (b) list bulletins    (user) user list
+15,01 ++----,
+
+15,01 ---(ascii ver.)---------------------------------------------------------------
+
+15,01 hoho,. so ... i'm was a little bit lazy this month ... but i have my reasons 
+15,01 i've had much to do with my bbs so .. have patience .. well that's all folks
+
+15,01 request's at ---> overfiend@mindless.com
+15,01>SAUCE00thedemonwombmainmenu               overfiend           aXialfOrce       
+15,01   19970225A<  @@P 2                             

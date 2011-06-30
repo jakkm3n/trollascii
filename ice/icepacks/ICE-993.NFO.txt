@@ -1,0 +1,80 @@
+15,01iCE -                                                                      - iCE
+
+15,01iCE -                   "What's New" in iCE Recently.                      - iCE
+
+15,01iCE -                                                                      - iCE
+
+
+
+15,01  1.   Well here I am again, Metal Head, making the iCEPACK. What fun.. heh
+
+15,01  2.   The iCEPACK is a BIT small this month, but since it's quality that
+15,01       counts, who cares! :)              (Hope this doesn't Become regular)
+
+15,01  3.   First here lets talk about our VGA department.  Well let's see, iCE
+15,01       has been taking alot of shit from some people about the change in
+15,01       the VGA policy.  Well thats life, you take the good with the bad but
+15,01       despite what it looks like not everyone thinks the idea is a total
+15,01       joke.  Just ACiD, and Mr. Kalimazoo.  Oh well, as far as I see the
+15,01       policy is working out pretty well.. Just take a look at the two VGA's
+15,01       done by Lord Mischief this month.  As well we have gained a new coder 
+15,01       from Pennsylvania named Watchman he'll have a nice little project out 
+15,01       next month in the pack.  And a little intro within the next two months.
+
+15,01  4.   We have one little exception to our VGA policy this month.  And that
+15,01       is due to who else but Eight Ball the great :).  He sorta skipped out
+15,01       of the scene a little while back but made us up 3 VGA's for this month,
+15,01       but becuase he had been out of the scene he didn't haer about the
+15,01       change so they were delivered to us already coded.  They're great
+15,01       though.  So take a look
+
+15,01  5.   Well I just had a nice little suprise.  Redskin/TDT just called me
+15,01       up to show me a whole bunch of Logo's that he had made.  And for
+15,01       some first time VGA work, they're great!  So well iCE now has
+15,01       itself a VGA Logo Artist.  Take a look.  They aren't sign but the
+15,01       initials are "RS". Have fun.
+
+15,01  6.   Also in relation to our art you'll find that our ANSi department is 
+15,01       a bit small this month.  But most of that is due to the beggining of
+15,01       school.  And since most ANSi Artists are still in school.  It lessens 
+15,01       they're amount of time to work on ANSi's.  There should be a good   
+15,01       comeback next month though..
+15,01  
+15,01  7.   And in not so great news.. Cavalier, as i'm sure most of you know due
+15,01       to his "Shihear Sized" text file.  Has left the group as well as the 
+15,01       scene.  Bye, Cav..
+15,01       
+15,01  8.   I'd like to congradulate the *Former* iCE trial artist, Sand, on
+15,01       his step up into full member.  He's got a different style.  But
+15,01       it's great.
+
+15,01  9.   Great news here for all the ansi artists around.  And possibly a 
+15,01       revolution for ANSi in general!  Included in this iCEPACK is a
+15,01       file called "ICECOLOR.ZIP".  This file includes a TSR which when
+15,01       loaded will let you use the high intensity colors (8-15) as 
+15,01       background colors.  This CAN be used with TheDraw to draw ansi's
+15,01       like this.  Thanks go to Leviatian for programing this TSR..
+15,01       Check it out.  It is an early copy so if you find any problems 
+15,01       with it you can contact me and I can relay the message to Leviatian.
+15,01       For more info about it read the doc file that is included.
+15,01                                                                 
+15,01  10.  As an update on the FTP site topic.  The anonymous FTP site:
+15,01       "ftp.uwp.edu" has switched they're directorys all around.  So
+15,01       the iCEPACK's can now be located on the FTP site in the directory:
+15,01       "/pub/msdos/demos/ansi".  Note: If you are not farmiliar with the
+15,01       InterNet then you probably have no idea the all that means. :)
+15,01     
+15,01  11.  There is now an iCE Network.  It's name is iCN, standing for iNSANiTY
+15,01       Corporate Network.  The net has both a Public and Private side.  Only
+15,01       iCE Headquarter Board, Distribution Sites, and Member Boards can
+15,01       recieve the net.  And only iCE boards that are soley run by iCE 
+15,01       members recive the private side of the Net.  Call The Untimed 
+15,01       or his board "The Omerta" at 305-444-2928 to get more information.
+
+15,01  12.  Last but not least we would like to announce the arrival of Mr. Man
+15,01       into the group.
+
+15,01  13.  That's all folks!
+
+15,01                                                     - Metal Head [iCE] Staff
+15,01                                                         metalhed@phantom.com

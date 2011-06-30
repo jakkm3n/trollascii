@@ -1,0 +1,21 @@
+15,01                       iNiQUiTY File Listing Command Help
+15,01                              14(Temporary Version)
+
+00,01File Listing Commands:
+
+15,01     00n15ext      move to the next page
+15,01     00p15revious  move to the previous page
+15,01   14* 00f15lag      add a file to your download batch
+15,01   14* 00d15ownload  download a file
+15,01   14* 00v15iew      view an archive
+15,01   14* 00i15nfo      display information on a file
+15,01   14* 00e15dit      edit a file 14(sysops only)
+15,01     00h15elp      this help screen
+15,01     00s15kip      skip to the next file area 14(newscan)
+14,01   * 00q15uit      quit file listings
+
+15,01     up14/15down   move file selection bar to hilight a file
+15,01     escape    quit file listings
+
+15,01   14* 15these commands may be used on specific files via the file selection bar
+14,01--

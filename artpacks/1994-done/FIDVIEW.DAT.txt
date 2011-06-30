@@ -1,0 +1,47 @@
+15,01             0 --------------              0   a
+15,01             0 Info Files                  0   a
+15,01             0 --------------              0   a
+15,01FI-FILES.NFO 0 Flie Listing 11/94          0 SCa
+15,01FI-NEWS.NFO  0 FiDELiS News 11/94          0 SCa
+15,01FI-STAFF.NFO 0 FiDELiS Staff 11/94         0 SCa
+15,01FI-SITES.NFO 0 FiDELiS Sites 11/94         0 SCa
+15,01             0 --------------              0   a
+15,01             0 ANSi Files                  0   a
+15,01             0 --------------              0   a
+15,01NV-ASYLM.ANS 0 Asylum Systems Inc [813] Ad 0 NVa
+15,01NV-CIRCL.ANS 0 The Arctic Circle [813] Ad  0 NVa
+15,01NV-HELL.ANS  0 Virtual Hell [916] Ad       0 NVa
+15,01NV-RGNCY.ANS 0 The Regency [404]  Ad       0 NVa
+15,01NV-SUKEN.ANS 0 Sunken Galleon [813] Ad     0 NVa
+15,01NV-UNBRD.ANS 0 Unbridled Audacity [813] Ad 0 NVa
+15,01NV-URBAN.ANS 0 Urban Disipline [516] Ad    0 NVa
+15,01SC-LOGO.ANS  0 FiDELiS Logo Ad             0 SCa
+15,01YA-CB4.ANS   0 Cell Block 4 Ad             0 YAa
+15,01YA-FILGO.ANS 0 FiDELiS Logo Ad             0 YAa
+15,01YA-FILO2.ANS 0 FiDELiS Logo Ad             0 YAa
+15,01YA-RUFF.ANS  0 RUFF Logo Ad                0 YAa
+15,01             0 --------------              0   a
+15,01             0 Lit Files                   0   a
+15,01             0 --------------              0   a
+15,01CN-ASK.LIT   0 Ask Lit                     0 CNa
+15,01CN-BONES.LIT 0 Broken Bones Lit            0 CNa
+15,01CN-CELIB.LIT 0 Celibration Lit             0 CNa
+15,01CN-CRIES.LIT 0 Their Cries Lit             0 CNa
+15,01CN-DOWN.LIT  0 Burn It Down Lit            0 CNa
+15,01CN-GANG.LIT  0 Banished Lit                0 CNa
+15,01CN-GOD.LIT   0 God Fucked Up Lit           0 CNa
+15,01CN-HANDS.LIT 0 Hands In Blood Lit          0 CNa
+15,01CN-LIFE.LIT  0 Blood Of Life Lit           0 CNa
+15,01CN-LIPS.LIT  0 Blood Over Lips Lit         0 CNa
+15,01CN-LOVE.LIT  0 True Love Lit               0 CNa
+15,01CN-PAIN.LIT  0 Lost In Sorrow Lit          0 CNa
+15,01CN-PREEN.LIT 0 Let Them Preen Lit          0 CNa
+15,01CN-TELL.LIT  0 God Will Save You Lit       0 CNa
+15,01CN-WALL.LIT  0 Back Against A Wall Lit     0 CNa
+15,01LC-LESS.LIT  0 Lessons Learned Lit         0 LCa
+15,01LC-NT1.LIT   0 There Was A Time Lit        0 LCa
+15,01LC-NT2.LIT   0 Things All Seem So Simple   0 LCa
+15,01             0 --------------              0   a
+15,01             0 Song Lyrics                 0   a
+15,01             0 --------------              0   a
+15,01NO_WRONG.LYC 0 'I can do no wrong' Lyrics  0 CNa

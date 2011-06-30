@@ -1,0 +1,80 @@
+15,01PROCEDURE VGA_Set8PixelFont; ASSEMBLER;-,S-,T-,V-,X+,Y+}
+15,01ASMT VGA;
+15,01              MOV    DX,003CCh         { Misc output register READ port    }==
+15,01              IN     AL,DX             { Read value.                       }
+15,01              AND    AL,0F3h           { Bits 2 & 3 off (Clock select 0).  }
+15,01              MOV    DX,003C2h         { Misc Output Write port            }
+15,01              OUT    DX,AL             { Writeback modified value          }
+15,01     - VGA detection
+15,01              CLI                      { NO interrupts for a while         }
+15,01              MOV    DX,03C4h          { Sequencer register                }
+15,01              MOV    AX,100h           { \ Generate and hold Synchronous   }
+15,01              OUT    DX,AX             { / reset                           }
+15,01=============================================================================}
+15,01              MOV    AL,001h           { Clocking mode register            }
+15,01              OUT    DX,AL             { Activate Clocking mode register   }"}
+15,01              INC    DX                { Data register                     }
+15,01              IN     AL,DX             { Read value                        }m}
+15,01              OR     AL,1              { Set Bit 0 (8/9)                   }
+15,01              OUT    DX,AL             { Writeback.                        } }
+15,01              DEC    DX                { Back to Address register          } }
+15,01       VGA_AC           = $03C0;       { Port address Attribute controller   }
+15,01              MOV    AX,300h           { \ Release Reset state. (normal)   } }
+15,01              OUT    DX,AX             { /                                 } }
+15,01       VGA_GC           = $03CE;       { Port address Graphics controller    }
+15,01              MOV    DX,VGA_STATUS     { CRTC Status register              } }
+15,01              IN     AL,DX             { Read CRTC Status. (This'll reset  } }
+15,01                                       { Attribute controller flip-flop)   } }
+15,01              MOV    DX,VGA_AC         { Attribute controller              }
+15,01              MOV    AL,13h            { Horizontal Pixel Pan              }
+15,01              OUT    DX,AL             { Activate HPP                      }
+15,01              MOV    AL,0              { \ Set HPP to 0                    }
+15,01              OUT    DX,AL             { /                                 }
+15,01              MOV    AL,20h (BlinkMode : BOOLEAN);
+15,01              OUT    DX,AL             { Set PAS field (Video has access   }
+15,01                                       { to palette)                       }
+15,01PROCEDURE VGA_SetFont       (StartChar,NumChars, FontSize, VideoOffset : Word; V
+15,01              STI                      { Interrupts allowed again          }
+15,01END;EDURE VGA_Set8PixelFont;
+
+15,01{""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""}
+15,01END.                          IMPLEMENTATION
+15,01{mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm}
+
+15,01{ RETURN TRUE if VGA card is present }
+15,01FUNCTION  VGA_IsPresent : BOOLEAN; ASSEMBLER;
+15,01ASM
+15,01>             MOV    AX,01A00h         { +> Display Combination Code         }
+15,01              INT    10h               { +                                   }
+15,01              CMP    AL,01Ah           { Is AL=01Ah then it's a VGA          }
+15,01              MOV    AL,TRUE           { Assume it'll be true                }
+15,01              JE     @Return           { We were right, quit now             }
+15,01              MOV    AL,FALSE          { We were wrong, return false         }
+15,01@Return:
+15,01END;
+
+
+15,01PROCEDURE VGA_Mode       (Mode : Byte); ASSEMBLER;
+15,01ASM
+15,01              MOV    AH,0
+15,01              MOV    AL,Mode
+15,01              INT    10h
+15,01END;
+
+
+15,01PROCEDURE VGA_SetPalette (StartColor, NumColors:Byte; VAR Palette); ASSEMBLER;
+15,01ASM
+15,01              PUSH   DS                { Save DS                          }
+
+15,01              MOV    DX,VGA_PEL_WRITE  { DX = Palette address register    }
+15,01              MOV    AL,[StartColor]   { AL = First Color to set          }
+15,01              OUT    DX,AL             { Activate StartColor              }
+15,01              MOV    AH,[NumColors]    { Get number of colors to modify   }
+15,01              CMP    AH,0              { Is it Zero ?                     }
+15,01              JE     @SetDone          { Yes, we don't need to do anything}
+15,01              LDS    SI,Palette        { DS:SI points to palette data     }
+15,01              CLD                      { Increment SI on LODSB            }
+15,01              MOV    DX,VGA_PEL_DATA   { DX = Pallette data register      }
+15,01@SetColor:    LODSB                    { Load RED                         }
+15,01              OUT    DX,AL             { Set RED                          }
+15,01              LODSB                    { Load GREEN                       }

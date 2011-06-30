@@ -1,0 +1,80 @@
+15,01      "Vortex" is the working title of DARK's music disk.  Organized by Moby,
+15,01      it will feature music from various DARK musicians, past and present.
+15,01      The release date of Vortex is yet unknown.haracter set, it is
+15,01      compatible with virtually all DOS-based computers, provided an ANSI
+15,0110.  Where's the pack?!SI.SYS is loaded  beforehand.  It is most commonly
+15,01      used on BBS's to embellish its appearance.-----------------------------
+15,01      Thanks to a new development in software technology, our packs can now
+15,01      avoid you at will.ire a software specific client as with RIP (See II,
+15,01      4) but is available as an emulation option with most communications
+15,01-----------------------------------------------------------------------------
+15,01 ,@$$@2"``"2+$$$NN,@NN=2"``"2@NN@.nnnn,+%@NN@%+,_NNNN$@2"
+15,01== V.  COLLECTIONS, ARCHIVES, AND WHERE YOU CAN GET THEM.LY199ViiFAQSfiction!
+15,01@$$: .. NNNNNN       NNNNN ... :NNNNNN'...... 222NNN!      ,
+15,01      VGA stands for Video Graphics Array, a video mode and capability
+15,011.  Listing of all DARK Collections released, and other archives:
+15,01  ."2++@   ++2" ,i, "2+   $N@+2NNNNNNN iiiiiiii  NNNN`'    .!+@N@,
+15,01      Filename:      Description:VGA is generally referred to as any picture
+15,01      or image drawn with a computer painting and/or rendering program, in any
+15,01      DARK0294.ZIP - The February 1994 DARK Collection (Premiere)higher (SVGA)
+15,01      DARK0494.ZIP - The April 1994 DARK Collection programs are Adobe~~~
+15,01      DARK0694.ZIP - The June 1994 DARK Collectionk 3D Studio(tm), and
+15,01      DARK0894.ZIP - The August 1994 DARK Collection
+15,01      DARK0994.ZIP - The September 1994 DARK CollectionLUSTRATED --
+15,01      DARK1294.ZIP - The December 1994 DARK Collectionvery diverse - but they
+15,01      DARK1994.ZIP - The Best of DARK 1994 Collectionred and non-rendered
+15,01      DARK0295.ZIP - The February 1995 DARK Collectionrt drawn with the aid
+15,01      DARK0495.ZIP - The April 1995 DARK Collectiontudio(tm) or POV
+15,01      DARK0595.ZIP - The May 1995 DARK Collection-drawn, "freestyle" form of
+15,01      DARK0695.ZIP - The June 1995 DARK Collectionirbrushing tot provides
+15,01      DARK0795.ZIP - The July 1995 DARK Collectiond the various computer-
+15,01      DARK0895.ZIP - The August 1995 DARK Collectionpecializes.
+15,01      DARK0995.ZIP - The September 1995 DARK Collection
+15,01      DARK1095.ZIP - The October 1995 DARK Collectiontained by a team of
+15,01      DARK1295.ZIP - The December 1995 DARK Collectiong Protocol. The Remote
+15,01      DARK1995.ZIP - The Best of DARK 1995 Collection method devised by/k/a
+15,01      DARK0196.ZIP - The January 1996 DARK Collection EGA quality graphics
+15,01      DRK0296A.ZIP - The February 1996 DARK Collection (Disk 1/2)ed as a way
+15,01      DRK0296B.ZIP - The February 1996 DARK Collection (Disk 2/2)o send full
+15,01      DARK0396.ZIP - The March 1996 DARK CollectionP, as mentioned above, isQ
+15,01      DARK0496.ZIP - The April 1996 DARK Collectiono EGA quality.  However,
+15,01      DARK0596.ZIP - The May 1996 DARK Collection is to be released, which
+15,01      DARK0696.ZIP - The June 1996 DARK Collection0x16M, through JPEG(tm)
+15,01      DARK0796.ZIP - The July 1996 DARK Collectiont was a major overhaul of
+15,01      DARK0896.ZIP - The August 1996 DARK Collectionupdated information, the
+15,01      DARK0996.ZIP - The September 1996 DARK Collection in using the Remotey,
+15,01      DARK1096.ZIP - The October 1996 DARK CollectionA in the fact that only
+15,01      DARK1196.ZIP - The November 1996 DARK Collection structure of various
+15,01      DARK1296.ZIP - The December 1996 DARK Collectionwith shading (specific
+15,01      DARK1996.ZIP - The Best of DARK 1996 Collectionwing.  Due to these
+15,01      DARK0197.ZIP - The January 1997 DARK Collectionires previous planning,
+15,01      DARK0297.ZIP - The February 1997 DARK Collectionyed across phone lines,
+15,01      DARK0297.ZIP -- The February 1997 DARK Collectionividual shapes are
+15,01      DARK0397.ZIP -- The March 1997 DARK Collectioned to comprise a picture.
+15,01      DARK0497.ZIP -- The April 1997 DARK Collection
+15,01      DARK0597.ZIP -- The May 1997 DARK Collection (Mistigris World Tour)
+15,01      DARK0797.ZIP -- The July 1997 DARK Collection
+15,01      DARK0897.ZIP -- The August 1997 DARK Collectionos once put forth their
+15,01      own "Apathy List of Frequently Asked Questions".  We are pleased to see
+15,01      DRK-FAQx.xx  - Frequently Asked Questions About DARK Illustratedonvey
+15,01                     (The filename used up to v1.706)er art groups to follow
+15,01      DARK-FAQ.xxx - Frequently Asked Questions About DARK Illustrated
+15,01                     (The filename used as of v1.80)
+15,016.  Why are aliases/handles/pseudonyms used in this document?
+15,012. Where can I get these files?e?"
+15,01      Aliases are used throughout this document, referring to people who are
+15,01      The latest hypertext version of the DARK FAQ can be found on The is
+15,01      Lethal Aspect Online (www.interlog.com/~xmtrx/dfaq.html), and onernet
+15,01      Substance 1997 (www.interlog.com/~fex/dfaq.html).ntact.  Aliases and
+15,01      other such monikers have been traditionally used as another fun way
+15,01      In addition to getting the Collections from DARK-affiliated BBS's
+15,01      (See V, 3), DARK Collections can be obtained from The Regency, DARK's
+15,01      Internet Headquarters.  Run by Halaster, this telnet-BBS can be reached
+15,01      through telnet or FTP, at "tregency.res.cmu.edu".
+15,01== III.  BACKGROUND INFORMATION ON DARK ILLUSTRATED.
+15,01      The latest DARK Collections are also supported on the ACiD Artpack
+15,01      Archives: "ftp.cdrom.com/pub/artpacks/incoming/artpacks/dark*.zip".
+15,011.  So what is "DARK" anyway?  What is group's background?
+15,01      These files can also be obtained through an EFNet server on the
+15,01      IRC, in channel #dark; just ask somebody on the channel. which supports
+15,01      various computer-specific graphic mediums such as ANSI and VGA artwork,

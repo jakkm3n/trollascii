@@ -1,0 +1,53 @@
+
+15,01          14,15     15,01           14,15     15,01                     14,15     15,01           14,15     
+15,01    14,15    15,01  14,15    15,01   14,15       15,01   14,15    15,01   14,15    15,01     14,15       15,01   14,15    15,01            14,15    
+15,01    14,15    15,01  14,15    15,01  14,15    15,01 14,15    15,01  14,15    15,01   14,15    15,01    14,15    15,01 14,15    15,01  14,15    15,01            14,15    
+15,01    14,15    15,01  14,15    15,01  14,15    15,01 14,15    15,01  14,15    15,01   14,15    15,01    14,15    15,01 14,15    15,01  14,15    15,01      14,15          
+15,01    14,15    15,01  14,15    15,01  14,15    15,01 14,15    15,01  14,15    15,01 14,15 15,01 14,15    15,01    14,15    15,01 14,15    15,01  14,15    15,01 14,15    15,01 14,15     15,01 14,15    
+15,01    14,15          15,01  14,15    15,01 14,15    15,01  14,15           15,01    14,15    15,01 14,15    15,01  14,15    15,01 14,15    15,01 14,15     15,01 14,15    
+15,01    14,15    15,01  14,15    15,01   14,15       15,01    14,15    15,01 14,15    15,01      14,15       15,01   14,15         15,01 14,15          
+
+15,01                                . HowOld V1.0 .
+15,01                              JiMMY STAR . ESCAPE
+
+
+15,01= OverView
+
+15,01        This program is designed to work just before you test a zip or
+15,01arc file that has been uploaded to your bbs.  It will look for the
+15,01oldest and the newest file, as well as the File_id.diz file date and the
+15,01.NFO file date.  It then adds this information to a text file for you to
+15,01use in any way that you wish.
+
+15,01= Usage
+
+15,01        To use the program simply add it to your batch file that you use
+15,01to test the files that are uploaded.  The following syntax must be used:
+
+15,01 HowOld <Comment File With MCIs> <Comment File To Be Made> <TestArchive>
+
+15,01For Example if you wanted to test a file called test.zip.  And you had
+15,01made a file with the MCis in it called 'COMMENT.MSK' and wanted it to
+15,01make a file called 'COMMENT.USE' then your command line would look like
+15,01this:
+
+15,01                HowOld COMMENT.MSK COMMENT.USE TEST.ZIP
+
+15,01That is all there is too it.  When its done Comment.Use will have the
+15,01mcis filled with the actual dates.
+
+15,01= MCis
+
+15,01The follwing MCis are valid :
+
+15,01   NAME OF FILE BEING TESTED : %FN
+15,01   TODAYS DATE               : %DA
+15,01   THE CURRENT TIME          : %TI
+15,01   NFO FILE DATE             : %FO
+15,01   FILE_ID.DIZ DATE          : %DZ
+15,01   NEWEST FILE IN ARCHIVE    : %NF
+15,01   OLDEST FILE IN ARCHIVE    : %OF
+
+15,01= Thanks!
+
+15,01= (C)1994! . ESCAPE PRODUCTiONS

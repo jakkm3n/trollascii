@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. Howdy everyone, this    m    00@15         |          .    is  Lord Soth here,
+15,01    delivering your monthly               #     .       iCE Pack. We've worked
+15,01    hard all month for this one...  I'll  let the art speak for itself though.
+15,01    As a  quick note,  I would  like to  thank  all  the iCE Artists,  Coders,
+15,01    Musicians, and Members for weathering  all the scene bullshit that erupted
+15,01    this month, for they're the ones that make iCE what it is.
+
+15,01 2. This month marked the loss of 5 great artists.  First was Deeply Disturbed,
+15,01    who left after we made  our pack in time to release an ansi in last month's
+15,01    ACiD Pack, which was released shortly after ours.  Second to split was #28,
+15,01    who went  back  to  Union,  which has  recently  dissolved. . .   Third was
+15,01    Terminator 2, who left with  Neurotic  for Somms and Deeply Disturbed's new
+15,01    group called  Legend.  Lastly,  Hannibal Lecter  quit the join  some of his
+15,01    closest friends over at Old Dirty Bastard's group, Disco.  Hannibal was our
+15,01    residant jive-expert, as well as being the  ONLY iCE Member to be a  cousin
+15,01    of the lead singer of  Blues Traveller.  Killean the Red  also retired from
+15,01    the scene this month, babbeling about a lack of time as he rode away on his
+15,01    flying red sleigh.   We'll miss all these  guys, and we wish then  luck and
+15,01    happiness wherever they may go!
+
+15,01    We also did some late  late Spring  housecleaning.   Removed this month for
+15,01    inactivity  were Dr. Tongue,  Poskgubbe,  The Wizard, and  SleepWalker.  We
+15,01    honestly hope they will be back in the near future...
+
+15,01 3. Joining us this month is Kamikazee, who has been in Tribe, ACiD, Unchained,
+15,01    Vintage,  and has  finally  stopped  rolling here :).   He's been worth his
+15,01    weight in gold this month, helping with some last minute fonts and such :).
+15,01    Welcome to iCE,  Kamikazee.   Also joining us is Maestro.   He ran the iCE-
+15,01    hating Nation,  and now we all are welling up with tears to see him joining
+15,01    us.   He too has  helped us  immeasurably  already.   Finally,  we offer an
+15,01    energetic  Secret iCE Handshake(tm) to Icepick, a VERY talented coder whose
+15,01    loader  this month proves he's right up there  with the rest of our coders.
+
+15,01 3a.After getting a  job at the local  MARS candy factory  next to Friar  Tuck,
+15,01    Aphex Twin has changed his handle to Aphid Twix.  Mr. Tuck was reported  as
+15,01    saying "The service at Waffle House can't be beat!"  The iCE psychoanalysis
+15,01    division couldn't detect any correlation between the two events. =)
+
+15,01 4. Big news in promotions this month.  First off, we have to start this off on
+15,01    a sad note.  Cheese Grater has stepped down from Senior Staff to go back to
+15,01    his origional  position as VGA Artist.   In an completely  unrelated event,
+15,01    Friar Tuck joins us as Senior Staffer.  His coding and ansi skills, coupled
+15,01    with his knack  for coordination  and his  award-winning smile  add up to a
+15,01    great  Senior  Staffer.   Also  this  month  Borian  was  promoted  to  VGA
+15,01    Coordinator.  Bottoms up, guys.  Here's to an even brighter future.
+
+15,01 5. The Pantheon, iCE US Headquarters, is now available on the net. We have not
+15,01    as of yet secured a domain name, although the IP address is 129.174.28.181.
+15,01    Just use that number string where you would normally put a domain name. The
+15,01    Board is accessable via the Telnet, and depending on your Telnet client you
+15,01    may or may not be able to send and recieve files as you normally would on a
+15,01    BBS, or else you can FTP anonymously to that address.  We're currently only
+15,01    on a 14.4k  connection, so we only allow 1  person on the board  at a time,
+15,01    although hopefully  we will be  able  to improve this  is the near  future.
+15,01    Please be  patient while we remodel :)   Since The Pantheon no longer has a
+15,01    dial-up line, we have switched our US Headquarters to The PowerGrid, run by
+15,01    our longest-ever active member, Syntax Error.
+
+15,01 6. Falic asked me  to mention this in the NFO Files.  The Stockton, California
+15,01    Police have  made their fellow  Officers  proud this  month.   After one of
+15,01    Falic's (ex:)friends was caught  stealing a computer,  they asked him for a
+15,01    list of name of his friends  who use computers.  Yup, you guessed it, Falic
+15,01    got pulled into all of this.  A detective came and took Falic's computer to

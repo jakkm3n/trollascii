@@ -1,0 +1,52 @@
+
+
+
+
+15,01 i've decided to set up a telnet board using trusty old PCB. i don't know when
+15,01i  will be   getting my cable line installed, however i will be setting up the
+15,01system at home over the  next  month or  so. it will be 100% ascii based, both
+15,01oldschool and new, dedicated to the ascii scene and to remorse also. the board
+15,01is going to be called "namistai".
+
+15,01PLEASE, draw for the board, matrix's(25 liners), intro screens, menu sets, any
+15,01thing you can think of. it would be greatly appreciated.
+
+15,01if you do get any art done for namistai, please forward it to;
+
+15,01DAVEB@PHATCHICKS.COM
+
+
+
+
+
+
+
+15,01 ps. go down on me baby :P v
+15,01                           v
+15,01-------------------------------------------------------------------------------
+
+
+
+
+
+
+15,01....  ______/_        ........            _ __       ____             43(rMrs)
+15,01  ____\    //------\______   :  _____   _____/_____\\\  /__________\____
+15,01 /     \   \    _   \     \/----\__//__/  __//_____       __/   _   \__//__\_
+15,01 \   \  \   \      _ \           \     \____       \      \\       _ \      \
+15,01//____\______\_____/_/    \/_____/_____/  /________/_______\\______/-/______//
+15,01                    /------\ .
+15,01                             :  >>   login ::
+15,01                             :      affils ::
+15,01                             :    password ::
+15,01                             :..
+15,01                             . :..............................................
+
+
+
+
+
+
+
+15,01>SAUCE00namistai (my board)                aesthetic           remorse          
+15,01   20010110<A  @ P 2                             

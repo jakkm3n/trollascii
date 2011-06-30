@@ -1,0 +1,80 @@
+15,01{ For use with APP.pas }
+15,01{ Written by: Zealot }
+
+15,01Unit APPMenus;
+
+
+15,01Interface
+
+15,01Function RunBarMenus(Var Choice:Integer;Which:Integer;xx,yy:Integer;bfore,bback,
+15,01sfore,sback:integer):Integer;
+
+15,01Implementation
+
+15,01uses crt,dos;
+
+15,01Type
+15,01    Arraytype = array [1..9] of String;
+
+15,01Var
+15,01   Holder:Arraytype;
+15,01   Max:integer;
+
+15,01procedure setup(which:integer);
+15,01begin
+15,01   if which = 1
+15,01      then
+15,01        begin
+15,01           holder[1]:='    ANSi Artist      ';
+15,01           holder[2]:='   VGA/RIP Artist    ';
+15,01           holder[3]:='     Programmer      ';
+15,01           holder[4]:='      Musician       ';
+15,01           holder[5]:='       Writer        ';
+15,01           holder[6]:='       Courier       ';
+15,01           holder[7]:='  Distribution Site  ';
+15,01           holder[8]:='   Exit Generator    ';
+15,01           max:=8;
+15,01        End
+15,01      Else if which = 2
+15,01             then
+15,01              begin
+15,01                 holder[1]:='       2400        ';
+15,01                 holder[2]:='       4800        ';
+15,01                 holder[3]:='       9600        ';
+15,01                 holder[4]:='       14.4k       ';
+15,01                 holder[5]:='       19.2k       ';
+15,01                 holder[6]:='       28.8k       ';
+15,01                 max:=6;
+15,01              End
+15,01             Else if which = 3
+15,01             then
+15,01              begin
+15,01                 holder[1]:='     8088          ';
+15,01                 holder[2]:='     80286         ';
+15,01                 holder[3]:='     80386sx       ';
+15,01                 holder[4]:='     80386dx       ';
+15,01                 holder[5]:='     80486sx       ';
+15,01                 holder[6]:='     80486dx       ';
+15,01                 max:=6;
+15,01              End
+15,01             Else if which = 4
+15,01             then
+15,01              begin
+15,01                 holder[1]:='    Monochrome     ';
+15,01                 holder[2]:='       CGA         ';
+15,01                 holder[3]:='       EGA         ';
+15,01                 holder[4]:='       VGA         ';
+15,01                 holder[5]:='      SVGA         ';
+15,01                 holder[6]:='       XGA         ';
+15,01                 max:=6;
+15,01              End
+15,01             Else if which = 5
+15,01             then
+15,01              begin
+15,01                 holder[1]:='    PC Speaker     ';
+15,01                 holder[2]:=' Disney Sound Card ';
+15,01                 holder[3]:='      Adlib        ';
+15,01                 holder[4]:='   Sound Blaster   ';
+15,01                 holder[5]:=' Sound Blaster PRO ';
+15,01                 holder[6]:='       GUS         ';
+15,01                 max:=6;

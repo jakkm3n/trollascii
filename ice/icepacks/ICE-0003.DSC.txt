@@ -1,0 +1,21 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 3/31/2000
+15,01###############################################
+15,01ice-0002.nfo,ANSI,iCE 00/03 Info File,iCE Senior Staff
+15,01ice-0002.dsc,ANSI,iCE 00/03 iCEView description file,iCE Senior Staff
+15,01ice-0002.mem,ANSI,iCE 00/03 Member List,iCE Senior Staff
+15,01ice-0002.sit,ANSI,iCE 00/03 Site listing,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01us-swim.bin,BIN,Swim,Multiple Artists
+15,01ti-pom.ice,ANSI,The Persistance of Memory,Trip
+15,01dm-bg.jpg,EXTERNAL,Black and Gold,Darkmage
+15,01id-alice.jpg,EXTERNAL,Alice,Ian Dale
+15,01ja-bridg.jpg,EXTERNAL,Bridge,Jae
+15,01lo-drac.jpg,EXTERNAL,Stranded on Draconis c's green moon,Leonardo
+15,01po-unicn.jpg,EXTERNAL,Unicorn,Poweronx
+15,01rl-heros.jpg,EXTERNAL,Heros,Rogue Leader
+15,01sq2-icz1.jpg,EXTERNAL,Iczer,Squidgalator2
+15,01ss-band1.jpg,EXTERNAL,Band Member,Steven Stahlberg
+15,01ss-gmary.jpg,EXTERNAL,Grandmary,Steven Stahlberg
+15,01ss-smnth.jpg,EXTERNAL,Samantha,Steven Stahlberg
+15,01te-omen.jpg,EXTERNAL,Omen,Tetanus

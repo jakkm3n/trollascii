@@ -1,0 +1,80 @@
+15,01ON ERROR GOTO fuckup
+
+15,01PRINT
+15,01COLOR 9
+15,01PRINT "PCB/SAUCE v1.00"
+15,01COLOR 5
+15,01PRINT "wildfire..blade"
+
+15,01IF INSTR(COMMAND$, " ") = 0 THEN
+15,01  SOUND 1000, 9
+15,01  COLOR 7
+15,01  PRINT
+15,01  PRINT "usage:  IF %2 == UPLOAD PCBSAUCE %1 %3"
+15,01  PRINT
+15,01  PRINT "Place the above line into the PCBTEST.BAT file.  PCBoard will"
+15,01  PRINT "fill in the %1 and %3 values when PCBTEST.BAT is called."
+15,01  FOR i = 1 TO 2000: NEXT i
+15,01  END
+15,01END IF
+
+
+15,01cmd$(1) = MID$(COMMAND$, 1, INSTR(COMMAND$, " ") - 1)
+15,01cmd$(2) = MID$(COMMAND$, INSTR(COMMAND$, " ") + 1)
+
+15,01PRINT
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Dimensioning Arrays ..."
+
+15,01DIM title AS STRING * 35
+15,01DIM artist AS STRING * 20
+15,01DIM group(1 TO 2) AS STRING * 20
+15,01DIM sauceid AS STRING * 5
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Opening "; UCASE$(cmd$(1)); " ..."
+
+15,01OPEN cmd$(1) FOR BINARY AS #1
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Checking for SAUCE header ...";
+
+15,01IF LOF(1) > 128 THEN GET #1, LOF(1) - 127, sauceid$
+
+15,01IF sauceid$ <> "SAUCE" THEN
+15,01  PRINT " not found!"
+15,01  END
+15,01END IF
+
+15,01PRINT
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Extracting information ..."
+
+15,01GET #1, LOF(1) - 120, title$
+15,01GET #1, LOF(1) - 85, artist$
+15,01GET #1, LOF(1) - 65, group$(1)
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Closing "; UCASE$(cmd$(1)); " ..."
+
+15,01CLOSE #1
+
+15,01group$(2) = MID$(group$(1), INSTR(group$(1), " ") + 1)
+15,01group$(1) = MID$(group$(1), 1, INSTR(group$(1), " ") - 1)
+
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Title : "; title$
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Artist: "; artist$
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Group : "; RTRIM$(group$(1));
+15,01 COLOR 8: PRINT " "; RTRIM$(group$(2))
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Opening "; UCASE$(cmd$(2)); " ..."
+
+15,01OPEN cmd$(2) FOR INPUT AS #1
+
+
+15,01COLOR 11: PRINT "# "; : COLOR 3: PRINT "Getting file information ..."
+
+15,01LINE INPUT #1, info$
+
+15,01shit$ = RTRIM$(title$) + " by " + RTRIM$(artist$) + " [" + RTRIM$(group$(1)) + "
+15,01]"
+15,01shit2$ = RTRIM$(title$) + " by " + RTRIM$(artist$) + " [" + RTRIM$(group$(1)) + 
+15,01" " + RTRIM$(group$(2)) + "]"
+15,01crap = LEN(shit$)

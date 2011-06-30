@@ -1,0 +1,74 @@
+
+
+
+
+
+15,01                               Celerity Menu Set 
+15,01             
+15,01             created by Mandor of CiA Productions on June 20, 1994
+
+
+15,01                      
+15,01I HAVE CREATED THESE MENUS FROM THE INFORMATION LISTED IN MENUINI.DOC AS REL-
+15,01EASED WITH THE CELERITY LANGUAGE DEVELOPMENT KIT.  ALL INACCURIES ARE 
+15,01UNINTENDED, AS I PAINSTAKINGLY TRIPLE-CHECKED EVERYTHING.  I DO NOT TAKE ANY
+15,01RESPONSIBILITY FOR ANY ERRORS IN THESE MENUS.  I ALSO AM NOT RESPONSIBLE FOR
+15,01ANY DAMAGE CAUSED TO YOUR SYSTEM BY INCORRECT INSTALLATION AND USE OF THESE 
+15,01MENUS.  I HAVE SUCCESSFULLY USED THESE MENUS ON MY OWN SYSTEM WITHOUT ERROR.
+
+
+
+
+15,01:Phew: now that the customary cover your ass stuff is out of the way, here 
+15,01goes:
+
+15,01INTRODUCTION:
+
+15,01    Celerity is a great software.  It's features are numerous and it's flex-
+15,01ibility is limitless.  It's only drawback is it's complexity.  There are many
+15,01aspects of Celerity that take a lot of time to understand and impliment.  
+15,01Language files and menu files provide a great wealth of options in configuring
+15,01your system, and are capable of making your system look like almost anything.
+
+15,01    These menus are fairly simple, yet great looking.  They will give you one
+15,01less thing to worry about when setting up your system. 
+
+15,01Mandor - June 29, 1994
+
+
+15,01INSTRUCTIONS FOR INSTALLING:
+
+15,011.  Look at the menus (all entries in this zip as xxxx.) and see if you
+15,01    like them.
+
+15,012.  Copy the menus that you wish to use (and i suggest you use all of them)
+15,01    to the directory listed in line 2 of EDITLANG.DAT
+
+15,013.  Run EDITLANG.EXE.
+
+15,014.  Select what menufile you would like to put these menus in from the 
+15,01    options listed, or press CTRL-ENTER and create a new one.
+
+15,01    *WARNING*  If you deccide to import these menus into an EXISTING menufile
+15,01               they will overwrite your existing menus.  I recommend making 
+15,01               backups of your menu files before starting.
+
+15,015.  Press F5 to enter the menu portion of the language editor.
+
+15,016.  Press CTRL-F7.  This will import all of the menu files in the format
+15,01    xxxx. from the export/import directory (line 2 of EDITLANG.DAT) into the
+15,01    current menu file.
+
+15,017.  Exit EDITLANG.EXE
+
+15,018.  Send e-mail, and lots and lots of money to Mandor, c/o any of the 
+15,01    following :
+15,01                   Technical Ecstasy : 813.379.39o5
+15,01                   InfiNet : 69:100/502
+15,01                   FinalNet : 85:813/2
+15,01                   Internet : toddhol@delphi.com
+
+15,019.  Note that this last step is completely optional, but if you do have
+15,01    questions or comments, i'd like to hear them :)
+15,01                   
+15,01               

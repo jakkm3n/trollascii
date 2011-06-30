@@ -1,0 +1,80 @@
+15,01       ##
+15,01      #00@14,15#00,01@
+15,01     #00@14,15# #
+15,01    #00@14,15#   
+15,01    00@14,15#00,01@14,15   
+15,01    14,15# #   15,01 "  "" """"""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01    14,15      15,01     14,15     15,01  #00@14,15#      15,01  #00@14,15# 15,01     14,15    #15,01  #00@14,15#      15,01  #00@14,15# 15,01  14,15     
+15,01    14,15      15,01     14,15     15,01 #00@14,15#  15,01|14,15    15,01||00@14,15#  15,01|   |14,15   #15,01||#00@14,15# 15,01|14,15     15,01 #00@14,15#  15,01 |14,15    15,01|
+15,01    14,15      15,01 14,15         15,01 00@14,15#   15,01 14,15     15,01 14,15#    15,01   14,15   #00,01@15 #00@14,15#  15,01 14,15     15,01 00@14,15#   15,01 14,15     
+15,01    14,15      15,01 14,15        #15,01 00@14,15    15,01 |14,15    15,01||14,15    15,01| |14,15  #00,01@15||00@14,15#  15,01| 14,15    #15,01 14,15#         15,01|
+15,01    14,15      15,01     14,15   #00,01@15 14,15     15,01mm14,15    #15,01 14,15     15,01 14,15  #00,01@15# 00@14,15#   15,01  14,15   #00,01@15 14,15     15,01 14,15    #
+15,01    14,15      15,01     14,15  #00,01@15# 14,15     15,01  |14,15  #00,01@15||14,15      #00,01@15#||14,15#   15,01|nb14,15  #00,01@15# 14,15     15,01 |14,15  #00,01@15|
+15,01    14,15      15,01     14,15 #00,01@15#  14,15     15,01   14,15 #00,01@15#  14,15     #00,01@15#  14,15#        #00,01@15#  14,15     15,01  14,15 #00,01@15#   
+15,01 mmm14,15      15,01 m  mm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+15,01  "14,15       15,01                  NewsLetter Issue #1
+15,01    "14,15     
+15,01      "14,15   
+15,01        "14,15 
+15,01  
+15,01Introduction
+
+15,01        Havok has been formed from two other groups, MiC and Prophecy,
+15,01        the first coming out of the Chicago burbs, and the other from
+15,01        Ontario Canada.  The first Havok Pack is looking pretty good,
+15,01        it isn't huge, but we have learned to leave out the lower 
+15,01        quality ansi's from past experience :)
+
+15,01New Members:
+
+15,01        Well since it's the first pack we are all new members, and the 
+15,01        only member who joined and wasn't previously in either group is
+15,01        the Replicant, and he's doing a great job.  
+
+15,01Members resigning:
+
+15,01        Polaris has resigned from our artwork division, something about
+15,01        group wars :-) but he was too busy to produce much anyways.  
+15,01        Tron also resigned from our artwork division, and he joined 
+15,01        another group based in 7O8 called Visual Insanity, so good luck
+15,01        to him there.  Spock also resigned from our Lit department 
+15,01        towards the end of March, so he still has quite a bit of work
+15,01        in the pack. 
+
+15,01News
+
+15,01        Well since we are a new group we obviously need some more 
+15,01        artists/coders/members in general.  I am not sure at this
+15,01        point whether there will be an application generator in 
+15,01        the pack or not.  Personally i don't see the need for one
+15,01        since all they do is take up space and you need to upload
+15,01        samples of your work anyway, so if you want to apply then
+15,01        upload  some of your work  (coding or art or whatever) to 
+15,01        the Thieves' Guild 7O8-261-1849 or The Acropolis 7O8-557-
+15,01        2826.
+
+15,01Coding
+
+15,01        Well in coding news we have had an interesting time, Bleys
+15,01        who was supposed to write the viewer came down with a 1O2 
+15,01        fever right before he left on vacation, so he couldn't 
+15,01        finish it, but Lightning (independent) coder jumped in and
+15,01        helped us out by coding a viewer in Q-Basic, and it was 
+15,01        pretty good considering time constraints, but fortunately
+15,01        Techie happened to be at my house, and i said "Think ya 
+15,01        could code us a decent viewer in 2 days?", and he came up
+15,01        with the best viewer i have ever seen.  It's a DOS command
+15,01        line viewer with 25 line mode with scrollback up to 3800
+15,01        lines or so, 640x480 mode, and 320x200 mode with scroll
+15,01        back.  The viewer is also a HUGE 3k or was it 2k big.  In
+15,01        other words, this thing kicks ass, it's WAY faster then 
+15,01        ACiDView and it's also 1/60 the size, and has scroll back 
+15,01        on 320x200 mode.  So unless you're a windows-need-a-menu
+15,01        type guy, this will be the viewer of choice for you. 
+15,01        
+15,01Artwork: 
+
+15,01        Well in the RiP department the Hitman is still our sole 
+15,01        rip artist.  He's changed his style to make his work a 
+15,01        little more shaded, but he's still one of the best in 
+15,01        the biz in my opinion.

@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :      July Update *     August 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0895.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-TEE GIF | 164921 |07.01.95 |%    | ACiD T-Shirt Promo             |
+15,01*|2  |ACID-TEE NFO |   4268 |08.01.95 |%+   | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID0795 ANS |   5316 |08.01.95 |%+   | July 1995 Member/Board Listing |
+15,01*|4  |ACIDAPP  EXE |  35277 |07.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW CFG |   3973 |03.01.95 |%+   | ACiD View configuration        |
+15,01*|6  |ACIDVIEW EXE | 168756 |03.01.95 |%    | ACiD View version 3            |
+15,01*|N/C|ACIDVIEW NFO |  42282 |07.01.95 |%+   | ACiD View Documentation        |
+15,01*|7  |ADRAW120 ZIP |  74333 |08.01.95 |%    | ACiDDraw 1.20 Unregistered     |
+15,01*|8  |AL-ALIEN RIP |  51498 |07.21.95 |%    | Alien's Self Portrait          |
+15,01*|9  |ALC0895  ANS |  27829 |08.01.95 |%+   | ACiD logocluster #9 (08/95)    |
+15,01*|10 |AR-FED1  ANS |  31166 |08.01.95 |%+   | The Federation                 |
+15,01*|11 |AZ-GLUE  ANS |  17537 |08.01.95 |%+   | Glue                           |
+15,01*|12 |BM-ALD   GIF |  34152 |08.01.95 |%    | Alderaan                       |
+15,01*|13 |CL-HUMA  ANS |  36684 |08.01.95 |%+   | Huma                           |
+15,01*|14 |CS-ANTC1 GIF | 135802 |08.01.95 |%    | Anton's Corner                 |
+15,01*|N/C|FILE_ID  DIZ |    522 |08.01.95 |%    | Acquisition FILE ID by {BE}    |
+15,01*|15 |KO-CC1   GIF | 108033 |08.01.95 |%    | Cat's Cradle                   |
+15,01*|16 |LD-FS1   ANS |  57243 |08.01.95 |%+   | Freak Scene                    |
+15,01*|17 |MB-VOICE RIP |  44617 |07.29.95 |%    | Disembodied Voices             |
+15,01*|18 |MK-GAS   EXE |   6643 |07.27.95 |%A   | Gas Chamber                    |
+15,01*|19 |NEWS0895 ANS |  43418 |08.01.95 |%+   | ACiD Newsletter Issue #9 (09/9 |
+15,01*|20 |P1-ACID3 RIP |  58091 |07.11.95 |%    | "The Romance Never Dies"       |
+15,01*|21 |P1-BADL1 ANS |  63377 |08.01.95 |%+   | The BadLands                   |
+15,01*|22 |P1-VCITY RIP |  69161 |07.19.95 |%    | Velocity Couriers              |
+15,01*|23 |P1-WNC   ANS |  39470 |08.01.95 |%+   | Wind Ninja Chronicles          |
+15,01*|24 |P1-WNC2  RIP |  35843 |08.01.95 |%    | Wind Ninja Chronicles          |
+15,01*|25 |RK-SUCCO RIP |  56569 |08.01.95 |%    | Succotash                      |
+15,01*|26 |SK-SUCCO GIF |  79616 |08.01.95 |%    | Succotash                      |
+15,01*|27 |SS-EG    GIF | 106278 |08.01.95 |%    | Arcane                         |
+15,01*|28 |SS-INT13 RIP |  10849 |08.01.95 |%    | Interrupt 13                   |
+15,01*|29 |SS-RD    GIF | 185049 |08.01.95 |%    | Purgatory                      |
+15,01*|30 |STC-DOM  ANS |  27389 |08.01.95 |%+   | The Dominion                   |
+15,01*|31 |STC-ELUS ANS |  17738 |07.18.95 |%+   | Elusive Dreams                 |
+15,01*|32 |STC-RP   ANS |1101659 |07.24.95 |%A   | Reflex Point                   |
+15,01*|33 |TR-RUST  ANS |  40875 |07.30.95 |%+   | Rust                           |
+15,01*|34 |US-EN    ANS |  39866 |08.01.95 |%+   | Eutopic Nightmare              |
+15,01*|35 |US-GLUE2 ANS |  38055 |07.30.95 |%+   | Glue                           |
+15,01*|36 |US-RUST1 GIF | 176896 |08.01.95 |%    | Rust                           |
+15,01*|37 |US-SUNS1 GIF | 121226 |08.01.95 |%    | Black Sunshine                 |
+15,01*|38 |WE-WILL  SUE |   1662 |08.01.95 |%+   | ACiD Legal Disclaimer          |
+15,01*|39 |ACDU0895 NFO |   6581 |08.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |

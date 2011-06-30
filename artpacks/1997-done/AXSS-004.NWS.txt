@@ -1,0 +1,80 @@
+01,02                                                   ##                           
+01,02                        ##                        m15,01       01,02m                     
+01,02                                   mmm           |15,01 00#""#""#15 01,02|    ##m15,01       01,02m     
+01,02        00this is...01                |15,01 03_15  01,02mm15,01   01,02m    #"""""""""      |15,01 00#""#""#15 01,02|    
+01,02                    14@@01          mmm15,01  03"m|m#"15 14,02@@@@@01####             """""""12,01##01,02     
+01,02                           mm15,01   04mmmmmmmmmmmm15    01,02mm     mmm15,01    01,02mmm               
+01,02       02,01"#"01,02         mmmm  m15,01   04"""14,04#04,01"15 mm00mm15 04""14,04     04,01mm15  01,02mm15,01   04mm14,04  04,01""mmm15  01,02mm           
+01,02        02,01m01,02        |15,01  04mm15  01,02|15,01 m00,15#15@00,00#00,15m00,01m15 m15,15@00,01""""14,00  00,01m15 04"14,04  00##14  04,01m15 04mm14,04## 01_04,01mm14,04   04,01"""14,04 04,01m15  14,02@@@@01####  
+01,02   ##            15,01  14,04 # 04,01m15  |00,15#15@00,01"15  00"00,15#00,00#15,01      14,00 00##15,01 04|14,04  00##14  04,01||14,04##    01_#04,01mm14,04   04,01mm|15 01,02|         
+01,02                 |15,01  14,02 02,01|15   00,15#15@15,01     00,00#00,01|15      00|14,00  00,01|15 14,04      04,01"m14,04  ##            15,01  01,02    02,01"#"01,02  
+01,02                  15,01  02|14,02 15,01   00,15#00,00#15,01  14,08#15,01  15,15@00,01|15 14,08 #15,01   00|14,00  00,01|15 14,04  04,01"mmm14,04      04,01"""15  04"""14,04   04,01|15 01,02|     02,01m01,02   
+01,02                   15,01  02"14,02 02,01m15 "00,15#"00,01mmm14,00 15,01"00,00#00,01mmmmmm00,00#14  15,01 04|14,04 04,01"02mmmmm04""15    01,02""""""15,01   04"15  01,02          
+01,02                    "15,01  02"|mmmmmmmm15 ""00""""""15 02m02,04m12,02#14 02,01mmm04 02"15   01,02mmmm       """           
+01,02   everybody has      "15,01  14,02##   01#02,01"""""01,02 14       12##02,01mm04 02""""14,02 02,01mm04mm15  14,02@@@@01######          
+01,02   heard about the     |15,01  14,02   02,01|04m01,04 08_mm01 08,01m02|14,02    12 ##14     02,01"15     14,04# 04,01"15  01,02    thazza bird--+ 
+01,02   screaming tomatoe.   "15,01  02""14,02#15,01 08,04#mm01 08"15,01 14,02   12 ##14  02,01"""15 02mm14,02 02,01mm15     01,02"                  | 
+01,02   but has anyone seen    ""15,01    04"""15 02"""""""15   02"14,02 02,01mm15  02""04""14,04 04,01|15 01,02|                  | 
+01,02   the super tomatoe ?!?       """"""""""""""15,01    02"04""14,04 04,01|15   04"15  01,02       m15,01       01,02m# | 
+01,02   (idea for the ansi |           A             """15,01  04"15  14,02@@@@01##### |15,01 00#""#""#15 01,02|<+ 
+01,02    from mav's head.) +-----------+                 """          ##"""""""""    
+01,02                                       12,01##01,02                                       
+01,02                                                                                
+01,02          ##                                                                    
+01,02                      02,01   m#m""01,02 02,01"  mmmmm01,02 02,01  12#01,02    02,01  12#01,02 02,01"  mmmmm01,02         ##          
+01,02                      02,01  12#01,02   02,01  01,02#02,01  15 02m#m01,02   02,01   01,02  # 02,01   01,02 02,01mmm#mm "14,02 01     12,01##01,02             
+01,02             02,01"#"01,02      02,01   01,02  02,01m  01,02 02,01  12#01,02     #02,01   01,02  14@01 02,01   01,02 02,01  12#01,02  #02,01  01,02    #                
+01,02 12ansi:01        02,01m01,02      #02,01   01,02   02,01 12#01,02 02,01   01,02       02,01  01,02  12,01#14,02 02,01  14,02 01 02,01   01,02   02,01 12#01,02                     
+01,02  12$h01                  02,01#mm01,02   02,01mm01,02 02,01mmmmmmmm01,02   02,01m#mmmm14,02 01   02,01mmmmmm01,02      "  _      ##    
+01,02                                               00AXss01                             
+01,02            mmmmmm02,01"15 03m09m03m09mm03m09mmmmmmmmmm15 02"""""""14,02          02,01""""""""15 03mmmmmmmm09m03m09mm03m09mmmm
+09,01mmmm03m09m03mmmmmmm01,03                09#03@09#01   09"""""""09,09#09,01mmmmmm03m09mm03m09m03m01,03                      09#01  
+01,03 09#01    14              03,01""""""""""""""14,03            09#14                                 
+01,03      03,01""""""14,03#15,01        03-AXss  news-15          03"""""""15        14,03#15,01        03""""""14,03       
+14,03    15,01        09@15                                             09@15                03"14,03    
+14,03   15,01         03#15   03Hi ho, here we go, to read another news15   03#15                  14,03   
+14,03  03,01|15             03column in this 09AXss03 art pack !15                               03|14,03  
+14,03  09,01|15                                                                          03|14,03  
+14,03 09#09,01|15    09Thank you03 my friend for having downloaded this art pack. The final15    09|14,03  
+14,03  09,09#15,01     03enjoyment in life is art,  and I wish you a 09fabulous03  moment with15    09,09 09,03#14 
+14,03  09#09,09 15,01     03this fourth  installment in the 09AXss03 saga !?!  Please enjoy the15    09,09#03,03@14  
+14,03   09#09,01|15    03little things in life :)15                                          09|03,03@14   
+14,03    09,01|15                                                                      09|09,03#14   
+14,03    15,01                                                                        14,03    
+14,03   15,01                  03-news of the month (and nuffin else metters)-15           14,03   
+14,03  15,01                                                                            14,03  
+14,03  15,01    03This friday is a bit special,  it is the first time that an 09AXss03 art15    09,03#14 
+14,03  15,01    03pack has a 09VGA03 picture in it... actually, it is the first time that15    09|03,03@14 
+14,03 09#15,01    03this art pack has every kind of "art" in it from one person... with15    09,09 09,03#14 
+14,03 03@09,01|15    03this I mean that I have made not only Ansi's AND a tune (this time15   09|09,09#14,03  
+14,03 09#09,09 15,01     03it was back to me from 09Maverick's03 fine establishment last week),15    09|09,03#14  
+14,03  09,09#09,01|15    03but I have ALSO made a VGA picture AND an ascii picture !?!15          14,03   
+14,03  09#09,01|15    03But although there is the usual  +150k of art from me in this art15    03|14,03  
+14,03   15,01     03pack (it seems that every 09Axss03 art pack has  actually been bigger15     14,03  
+14,03  15,01     03then the one before concerning Ansi art), but 09Type Zero03 and15 09Maverick15   03|14,03 
+14,03 03,01|15    03have also taken sum time off from "other things" to present more Ansi15   03|14,03 
+14,03 03,01|15    03art once more :) thank you both of you, you make life special ;)15        03|09,03#
+09,03#03,01|15     03Remember, never be afraid to tell these people what you think of15       03,03@14 
+14,03 09#15,01      03their Ansi's (especially if the feelings are positive)...15            09,09#09,03#14 
+14,03 03@09,09#15,01                                                                         09|03,03@14  
+14,03  03@09,01|15                 03-just a little note-15                                   09,09 09,03#14  
+14,03  09#09,09 15,01                                                                        09,09#14,03   
+14,03  09#09,09#15,01     03As you will have realised, this art pack began with art coming15     09|14,03   
+14,03   09#15,01     03ONLY from me, but it has quickly began to include art from a few15    14,03   
+14,03   03,01|15    03other people (09Type Zero03, 09Maverick03 and even 09Chemosh03)... and as you15     14,03  
+14,03   15,01     03will have also realised,  not all of the people who have presented15    03|14,03 
+14,03  15,01     03me with Ansis in  this art pack are "professionals"  (well, they ARE15    14,03 
+14,03 03,01|15    03good, but 09Type Zero03 has only been making ansi for one month, so he is15    14,03 
+14,03 15,01     03only at the start of a glorious career in Ansi art).  This there fore15    14,03 
+09,03#15,01     03does not mean that this art pack is for "professionals"... heck, I am15    09,03#
+03,03@09,09 15,01      03not a "professional" either !?! I still have a lot to learn !?!15       09|03,03@
+14,03 09#09,09#15,01     03There fore,  I just want to say that  if ANYONE wants to see their15    09,09#14,03 
+14,03 09 09,09#09,01|15     03art released in a weekly art pack, please sent them over to me at15   09|09,03#14 
+14,03  09#09,01|15     09RaveBase03. Any art that is uploaded into that board with a message15 03 15 09|14,03  
+14,03   15,01     03to me instructing me to include it in an 09AXss03 art pack WILL see it15    14,03  
+14,03  15,01      03appear in the next 09Axss03 art pack.  This offer is only valid for the15   03|14,03 
+14,03 15,01     03next three weeks, but if you ever make any art and you wish to see it15    14,03 
+14,03 15,01     03appear in an art pack (but never got accepted into a group) then send15    14,03 
+09,03#15,01     03it to me  (an offer like this is great if you're only a beginner like15    09,09#
+03,03@09,01|15    09Type Zero03 and have no idea how to get your art going around the world15   09|03,03@
+09,03#09,09 15,01     03in the early stages of your development...15                             09,09#09,03 

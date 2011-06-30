@@ -1,0 +1,57 @@
+15,01                       m14,15         15,01" m14,15       15,01m  m14,15       15,01m
+15,01                      |14,15     15,01      |14,15   15,01    "14,15 15,01 |14,15    15,01   "14,15 
+15,01                      14,15      15,01      14,15    15,01       14,15     15,01     
+15,01                      14,15      15,01      |14,15   15,01       14,15     
+15,01                      14,15      15,01       "14,15      15,01m  14,15        15,01|
+15,01                      14,15      15,01 [eLEC]     """" """""
+15,01                      14,15      15,01 #00@14,15#                   #00,01@15#
+15,01                      14,15      15,01    mmmm    mmmmmmmmmm
+15,01                      |14,15     15,01    14,15    15,01    14,15    15,01|14,15     
+15,01                       "14,15         15,01"14,15         15,01" 14,15     
+
+15,01        -    -  --  --------------[PACK]-------------- -- -  -    -
+15,01        This  is CSF's  first Art pack,  it contains 20  ansis and 2
+15,01        jpegs made and selected by the group. For more info on Csf's
+15,01        releases  read  the  CSF.NFO file  that comes in the pack or
+15,01        execute the CSF.EXE file included in the pack too...
+
+15,01        -    -  --  -------------[APPLY]-------------- -- -  -    -
+15,01        If you want to apply  on CSF as a coder,  musician,  Ansi or
+15,01        Ascii artists, GFX maker (aka Vga Artist) or whatever you do
+15,01        good  just  execute CSF.EXE file and choose APPLY CSF on the
+15,01        lightbar, a *.APP file is created with your handle, send  it
+15,01        to one of the csf members on the #csf channel on irc.bt.net.
+15,01                        
+15,01        -    -  --  ------------[Ri0^2004]------------ -- -  -    -
+15,01        Hey dude, support the Rio 2004 campaign,  spread AD-2004.CSF
+15,01        and if you have on put it in your board somewhere,  Rio is a
+15,01        cool  place  and it  would be  real nice to have the olympic
+15,01        games here...
+
+15,01        -    -  --  -------------[ARTiSTS]------------ -- -  -    -
+15,01        Well, who worked on this ansis? T he ansi prefix is the name
+15,01        of the creator, for example,  ad-2004.csf was  created by AD
+15,01        AD: Arcanjo Daemon
+15,01        BU: Buttman
+15,01        YK: Yakuza
+15,01        MR: Minotaur
+15,01        This file's text and ascii was created by Electric-Bern.
+15,01        The file_id was created by Wintamute and Buttman.
+
+15,01        -    -  --  ------------[NEXT^PACK]----------- -- -  -    -
+15,01        CSF will  release other  packs regularly on every 1st day of
+15,01        each month and the packs  will be called  CSF-MONTHYEAR, for
+15,01        example this first one CSF-0197...
+15,01        All the packs will be avaiable for download at the  CSF Home
+15,01        page as soon as they are released.
+
+15,01        -    -  --  ---------[0THER RELEASES]--------- -- -  -    -
+15,01        You can get every CSF release on the CSF home page.
+15,01        CSF makes Doors for Remote Access and Pcboard, Ansis, Asciis
+15,01        Mods/S3ms, Dos utils, Game cheats and saves, and etc...
+
+15,01        -    -  --  ---------[CSF H0ME PAGE]---------- -- -  -    -
+15,01        At this moment you might be asking,"What the fuck is the CSF
+15,01        home page's address?".
+15,01        WWW.GEOCITIES.COM/TIMESSQUARE/5704
+15,01        Go there and leech everything, it's all freeware!

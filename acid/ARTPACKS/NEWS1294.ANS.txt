@@ -1,0 +1,80 @@
+15,01                        14All the news thats fit to print
+14,01. .----------------------------------------------------------------------------
+14,01 11The ACiD15                11mmm
+11,01 14,11 00m14 11,01"14,11  11,01m 14,11 00m14 11,01"14,11 11 11,01m 14,11 00m14 11,01 14,11   11,01 14,11 10,00#14,11 11,01 14,11 00m14 11,01"14,11  11,01m 14,11 00m14 15,01     14,11   11,01"14,11  11,01m""14,11 00m11,01m ""14,11  11,01m 14,11 00m14 11,01"14,11  11,01m 14,11 00m14 11,01"14,11 11 11,01m
+11,01 14,11 10,00#14,11 11,01 14,11 10,00#14,11 11,01 11,11 10,00#14,11 11,01m""" 14,11 10,00#14,11 11,01 14,11 10,00#00,11 15,01 14,11 15@14 11,01 14,11 10,00#14,11 11,01mmmm 14,11 10,00#14,11 11,01 mmm 14,11 10,00#00,11 11,01m"""  14,11 10,00#14,11 11,01"" 14,11 10,00#14,11 11,01"14,11 10,00#14,11 11,01m""" 11,11 10,00#14,11 11,01 14,11 00#14 
+11,01 14,11 15@14 11,01 14,11 15@14 11,01 11,11 15@00 15,01 11mmm 14,11 15@14 11,01 14,11 15@14 11,01 14,11 00#14 11,01 mmm 14,11 00# 15,01 14,11 15@14 11,01 11,11 00#14 11,01 14,11 15@14 11,01 mmm  14,11 15@14 11,01   14,11 15@14 11,01 14,11 15@14 11,01 mmm 14,11 15@14 
+11,01 14,11 00#14 11,01 14,11 00#14 11,01 "00,11#14 11,01m14,11 00#14 11,01 "00,11#14 11,01m14,11  11,01"m14,11  11,01" "00,11# 11,01m14,11 11  15,01 11"14,11  11,01m14,11  11,01" "14,11  11,01m14,11   11,01  14,11 00#14 11,01   14,11   11,01 "14,11  11,01m14,11 00#14 11,01 14,11 00#14 
+14,01.11"""14.--------------------------------------------------------------------------
+14,01 Issue No.6    15An Official ACiD Productions14(tm) 15Public Update     December 1994
+14,01. .----------------------------------------------------------------------------
+
+15,01  m14,15mm15,01m 14m14,15 15,01   m14,15mm15,01m m14,15mm15,01m14m14,15 15,01 14m14,15 15,01 14m14,15 mm15,01m m14,15mm15,01m m14,15mm15,01m14m14,15 15,01 14m14,15 
+15,01 14,14 14,15 mm 15,01 14,14 14,15 15,01  00,14 14,15 15,01 00,14 14,15 14,14 14,15 15,01 00,14 14,15 00,14 14,15 mm15,01m 00,14 14,15 mm15,01m00,14 14,15 mm 14,14 14,15 15,01 14"15m00,14 14,15 mm15,01m         By Neurotic and
+15,01 14,14 14,15m15,01 14,14 14,15m15,01 00,14 14,15mm15,01"14"14,14 14,15m15,01" 14"00,14 14,15m15,01" 00,14 14,15m15,01 00,14 14,15m15,01 00,14 14,15mm15,01" 00,14 14,15m15,01 00,14 14,15m14,01"14,14 14,15mm15,01 00,14 14,15m15,01 00,14 14,15m14,01m14,15m14,01m14,15m14,01m14,15m15,01   Schizosynth
+
+
+15,01     As 1994 draws to a  close,  once  again  comes  another installment of the
+15,01quarterly ACiD Newsletter.
+
+
+15,01     In looking  back  at  '94,  the  most  prominent  development  in  what is
+15,01affectionately referred  to  as  'The Scene'  would  have to be the development
+15,01of the  'RIP'  standard.  RIP,  or  Remote  Imaging Protocol,  is  a text based
+15,01graphical language,  which  seems  to  fit  somewhere in between  ANSi and VGA.
+15,01Primarily, throughout most of  the  bbs'ing  world, RIP graphics have been used
+15,01for  more  advanced  interfaces  on  larger,  more  publicly  oriented bulletin
+15,01board  systems.  The  mouse  support,   coupled  with  the  ability  to  create
+15,01buttons and icons makes it ideal for this.  In the art world however,  pioneers
+15,01such as ReDMaN,  Smooth,  Lord Jazz  and  others  have  developed radically new
+15,01techniques of drawing in this  format.  Discarding  the simple one color filled
+15,01images  used  commercially  for  complex,  dithered, layered, and shaded images
+15,01that at  their  best,  rival  VGA  art.  Now  RIP  pieces  have  become some of
+15,01the most prominant, memorable pictures featured in major pacqs.
+
+15,01     In further  news,  major  developments  have  taken  place  in  the viewer
+15,01genre.  The development of more innovative,  complex viewing programs have come
+15,01about in an explosion  of  activity  by  the  major  groups.  ACiD was quick to
+15,01develop high  resolution  viewing  modes,  which  created  a  whole  new way in
+15,01which to appreciate ANSI.  Also,  ACiD  was  first to adapt their viewer to the
+15,01newly developed RIP standard,  upping  the  stakes  in  inter-group competition
+15,01by adopting the  newly  born  format.  Many  groups  have  tried to imitate and
+15,01compete with  these  new  developments.  The  latest  breaking  news is the new
+15,01ACiDView's ability to display  VGAs.  The  new  ACiD View  has been revamped in
+15,01several areas, and is once again  at  the  head  of the fray in this area.
+
+15,01                                                          +-------------------+
+15,01     Yet   another   new    development,    which   the   |08#"  ""mm "#m14,08#08,01  # m#15|
+15,01indulgent reader  is  experiencing  right  now,  is the   |08"mm"""m"00,08#08,01m"""m14,08#08,01m"  15|
+15,01innovative,  quarterly,  'newsletter'  format.   Rather   |  08#"m00,08#08,01m#"  #""m00,08#08,01""m15|
+15,01than relying on  the  conventional  '.nfo'  file buried   |08m#"  mmm13"00,13#13,01m #m  08"m 15|
+15,01someplace  within  the   pack,   ACiD   has  bared  its   |  08m14,08#08,01"00m 08"14,08#08,01mmm14,08#08,01m 13#08# #15|
+15,01creative teeth  by  coming  up  with  a  new, quarterly   | 08m15 00m14,00 00#00,01"m 14,08#08,01m"00m08"14,08#08,01m " 15|
+15,01format.  With   a   humorous   parody  of  traditional,   | 14,08#08,01m 00,00#15,15@00,01"" 14,08#08,01|00|m14,00 00,01 08||13m"15|
+15,01newspaper  style,   the  ACiD  newsletter  attempts  to   |  08"14,08#08,01mmm14,08#08,01" "14,08#08,01mm14,08#08,01" 13m14,13 15,01|
+15,01update and not to bore.                                   |14ld! 13#m m00,13#14 13,01m  m  "" 15|
+15,01                                                          |  12# 15m 13" ""m00,13#13,01" 00#12m14,12#12,01m 15|
+15,01     There were many  new  developments  in  the course   |12m14,12 12,01 15""15,15@14,00 00,01 00,15#00,01mm #12#"14,12  00#14 15,01|
+15,01of  the  years  releases.   The   outbreak   of  'April   | 12""14,12#12,01mm m 15"00"" 14,12#12,01m# ""15|
+15,01fools'  antics  confused   and  sometimes  upset  those   |13"12m14,12 00#12,01""14,12  00#14 12,01m "14,12 12,01" 13|00,13#15,01 |
+15,01who lacked levity,  but provided an  interesting change   |14,12 12,01"14,12 12,01m14,12   ##12,01"14,12  12,01"m  14,13 13,01  15|
+15,01from the norm  for  most  of  us.  The most  notable of   +-------------------+
+15,01which   might  be   considered   to   be   Alter  Ego's    14Entirely15     14bereft
+15,01'humdinger bbs'  incident.  This  twenty five  line gem    14of   levity,   Mass
+15,01is a picture to be remembered for some time to come.       14Delusion  scowls at
+15,01                                                           14the camera.
+
+15,01+--------------------+
+15,01|10,10 10,11"14   #11,01""14#mmm 11"""08,11#14 10"10,10 15,01|       On the heels of  ReDMaN  and  Smooth, a mew artist
+15,01|10,10#14,11 08#14 11,01"14#m14,14   #    14,01mm 11"10,10#15,01|  exploded onto  The Scene.  Lord Jazz  set many new pre-
+15,01|11,11@14 #11,01| 14,14    ### 00#14    14,01 10"15|  cedents,  with  top   quality,   original  images,  and
+15,01|10,11#14 11 14 11,01 14|15#14,14   # 00#01,15@00,14#14   14,01 10,11#15,01|  innovative,  new  RIP  shading  techniques.  Lord  Jazz
+15,01|10,11#14 # 11,01| 14,14 00#14 #   00#14 # 14,01|11|14,11#15,01|  has quickly become  one  of the  most respected artists
+15,01|14,11  10,01@11" 14|" m14,14#14,01mm""14,14###14,01 11#"15|  in  the  scene,  in  ANSi and  RIP  areas.  His  highly
+15,01|11" 14mm14,14 15,01#14,14 14,01mm14,14 00#14,01m14,14#14,01"m "#"15 |  detailed   backgrounds   were   a  new,   and  dramatic
+15,01|14#"  13mm m 14""14,14  00#14 #14,01 13mm11"15|  development.
+15,01|11m14#13"# 14,13#13,01m00,13#13,01m14,13 #13,01m 14"" 13"m00,13#13,01"15|
+15,01|10,11#14#11,01m14#13"m""m14,13 13,01" 14,13 13,01m#14#13"  11m15|
+15,01|14,11 11,01"08,11#11,01"14# 00,13#14  13,01m14,13#13,01"" 02m 11m14,11# 08#15,01|       More news in the viewing front came in the form of
+15,01|14,11#11,01" 02m#  13"" m# 14,02 #02,01m 11"m14,11#15,01|  the  'SAUCE'  standard,  and  its  offshoots.  This new
+15,01|11 02m#mm12,02#02,01m 13"15# 02#""mm14,02#02,01m 11"15|  concept allowed  for  artists  handles and descriptions

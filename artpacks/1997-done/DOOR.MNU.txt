@@ -1,0 +1,56 @@
+15,01@<Online Games menu                                                             
+15,01                                                                                
+15,01                                                                                
+15,01                  online games                                                xD
+15,01OOR    
+15,01%%MENUPMT1                                                                      
+15,01                                                                                
+15,01                                                                                
+15,01               *s50                                      xMAIN    @*@@@@@@@     
+15,01                                                                                
+15,01               xLORDLegend of the Red Dragon       ^Legend of the Red Dragon    
+15,01                                          @1             *s50                 14,15@15,01D
+15,01Z LORD.BAT                                                               *BRE Ba
+15,01rren Realms Elite            !Barren Realms Elite                               
+15,01                    @2             *s50                 14,15@15,01D1 BRE.BAT             
+15,01                                                    Usurperrper                 
+15,01        Usurperrper                                                           @3
+15,01             *s50                 14,15@15,01D1 USURPER.BAT                               
+15,01                             MTradeWars 2002 2002                MTradeWars 2002
+15,01 2002                                                   @4             *s50     
+15,01            14,15@15,01D1
+15,01TW2002.BAT                                                             $Yankees 
+15,01& Rednecksdnecks           PYankees and Rednecksecks                            
+15,01                  @5             *s50                 14,15@15,01D1 YANK.BAT              
+15,01                                                 
+15,01BBS Hackercker                     
+15,01BBS Hackercker                                                        @6        
+15,01     *s50                 14,15@15,01D1 HACK.BAT                                          
+15,01                     xLORELORE                           xLORELORE              
+15,01                                                @7             *s50             
+15,01    14,15@15,01D1 LORE.BAT                                                                
+15,01Steel & Ice Ice                     Steel & Ice Ice                             
+15,01                          @8             *s50                 14,15@15,01D1 ICE.BAT       
+15,01                                                          MechWarsWars          
+15,01              MechWarsWars                                                      
+15,01    @9             *s50                 14,15@15,01D1 MECH.BAT                            
+15,01                                   MOutpost Traderader                 MOutpost 
+15,01Traderader                                                    @A             xs2
+15,0150                14,15@15,01D1 OUTPOST.BAT                                               
+15,01              ArrowBridgeidge                     ArrowBridgeidge               
+15,01                                        @B             *s50                 14,15@15,01D1A
+15,01RROW.BAT                                                              *iMMortal 
+15,01Combatmbat                *iMMortal Combatmbat                                  
+15,01                 @C             *s50                 14,15@15,01D1
+15,01KOMBAT.BAT                                                              Global W
+15,01arsWars                     Global WarsWars                                     
+15,01                  @D             *s50                 14,15@15,01D1
+15,01GLOBAL.BAT                                                              Bordelod
+15,01elo                         Bordelodelo                                         
+15,01                  @E              s50&a16             14,15@15,01D1 BORD.BAT              
+15,01Planets: TEOS                                                         @F        
+15,01     *s50&a16             14,15@15,01D1 TEOS.BAT                                          
+15,01                        Quit menu                          'Exit the doors menu,
+15,01 return to previous                               @Q                            
+15,01      14,15@15,01-\xmain                                                                  
+15,01 

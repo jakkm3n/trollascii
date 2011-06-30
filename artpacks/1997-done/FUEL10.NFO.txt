@@ -1,0 +1,80 @@
+15,01           03m15   03## 15                                         03mm
+15,01 06  15   03mmm09,03mm14 03,01 mm09@@03 15  00fuel15 numero 001015..yeah!            03  15  13@03 |09,03|mmm03,01mmm
+06,01# 03"09,03mmm09,09   14,00  09,03m14   ## 03,01mmm   15      03m14,03 03,01m15   09@@15    03mmm09,03mm14 03,01 mmm15 03 ## 15 13@03 09,03 09,09# # # 09,03mm14 03,01"
+15,01 06#13@09 14,09 09# # # 03,01" "14,03  08  #@09,08#08,03mm14 03,01"m15   03#09,03#14,00  08,03mm03,01m14,03##03,01 "14,03 09m09,09     09,03m14 03,01m14,03 08  14 03,01mmm 06 13@03|03,03@09,09#03,03@09,09#03,03@09,09#03,03@09"03,01" 
+15,01  06#14,06#09,01 03,03@09,09#03,03@09,09#03,03@09,09#03,01|   "m08,03#@09,08#  14,03 03,01 09,09# 09,03m03,01m15   14,03 09,08  00 #14  09#08,03m03,01m"09,09# # #03,01" "01,03##14  08#@09,08##08,03@14 03,01"m03,03@09#03@09#03@14#09,01@03#   
+15,01   06||03|03,03@09#03@09#03@09#03,01   mm08,03m09,08#  08,03 06,01 09,09#03,03@09,09#03,03@@03,01"  |08,03|00,08####09##14,03 03,01 14,03 03@09,09#03,03@09,09#03,03@03,01|   "14,03 08#@09,08#  08,03"03,01  |09,03####14 03,01|   
+15,01    13,06#03,01 09,03######03,01   15  03""08,03""03,01||03,03@09#03@09#15,01 03#15 03#09@14,03#09,08##00#08,03@@14 13,01@03 |09,03#03@09#03@09#14 03,01   mm08,03m09,08#14,00  08,03|06,01@14,13#06,01|14,03 09#14 09#14  03,01 
+15,01  03  06||03|14,03 09#14 09# 03,01|mm     "m09,03####03,01|   06 03 |08,03@@@##03,01|06# 03 14,03 09####14 03,01     ""08,03"09,08 03,01|15 13,06#06,01|03|14,03     03,01|06#15tk   03 m
+15,01  13#06@14,13#13,06#03,01 14,03    09 03,01 "  13#06@14,13#06,01|14,03 09#14 09# 01 03,01  15  06 03#14,03 08###14  15,01 13@06# 03|09,03#14 09#14  03,01|mm     " m04,06@06,01|14,03  01##14# 03,01 14,13#06,01@13#15 03 m14,03#01#03,01|
+15,01    13#13,06#06,01|14,03  #01##03,01 06#15    13,06#06,01|14,03# 01#14 01#14 03,01  06 03 #09@14,03   #01#14 06,01|14,06#13,01@@03 14,03  01#14# 03,01 ""    mm01,03#14#06,01|14,13#06,01@13#09@14,03@09,01@14,03 03,01 06 03  09@14,03#@@09,01@@06|
+15,01  03   04,06@06,01|01,03#14##09,01@14,03@06,01|13@15 03   04,06@06,01|09@01,03#14@01#14@03,01|   13@03 14,03##01#14#09,01@@03|06|| 14,06#13,01|14,03##@@#06,01| 03   ""14,03 #@09,01@06||09@@##03#|06  09@14,03@@09,01@#03#09#03#06||
+15,01     13,13#06,01|14,03@09,01@14,03@09,01##06|14,06#15,01 03  13|13,13#06,01|09#@#@03 "# 06|09 #@@14,03@09,01@03##15 14,06#15,01 06 04,06@13,01|14,03@09,01@#03#09@06||03   #09@14,03@09,01@03#13,13#14,06# 03,01##   13 14,06#03,01  #09#03#  13mm13,06"14 
+15,01     04,06@03,01 09#03#06m13m13,06m13,13#04,06@13#06,01m13 14,13 13#06,01m13mmmm13,13#04,06@13#06,01m14,06#13m13,13#13,01m03##09#13 15 06||15 06 13,13#13,01|09#03#  #06|04,06@03,01 13m06m13 m06m13m13,06m14 06,01"14,06#06,01mm13   06m13,06#04@13,13#13,01mm06m13""06"
+15,01    13|13,13#13,06m13,13 14 13,01"""15   03 13 """ 15          06"13""06""14,06#13# 15,01  13,13#06,01mm13mm13,13#04,06@13##"13,01""06"""15     06"13""13,13#04,06@13#03,01 06"""15     14 
+15,01                                       06m13,06m06,01""13"06"""15                   06"
+15,01    .%.00put it on fire with gasoline15.%.
+
+
+
+13,01 1.08 Introduction.
+
+15,01    Yo! and welcome to 00fuel15's 10th artpack!
+
+15,01    what happened since you last saw us ?  well, we lost some members and
+15,01    gained some others, ditched some hq's and sites, lost our whq, got
+15,01    a new one, set up a bot in #fuel, recieved christmass presents and
+15,01    puked our guts out during newyear, smoked hash, got into fights,
+15,01    had car accidents and in our spare time we made some new art to 
+15,01    please you, dear audience. apart from that nothing much else went on.
+
+15,01    
+15,01 132.08 Memberflow. 
+
+15,01    who's out ? 11mendator15 left for twilight , and 11kargus15 is concentrating
+15,01    on coding now. please ppl, if you sign up with us, don't just leave after
+15,01    one pack. I think it's a stupid attitude and it won't do you much good     
+15,01    jumping from one group to the other all the time. also 11super8815 left
+15,01    just before the pack was released coz he will prolly release his ascii
+15,01    work with 00remorse15 ascii.
+
+15,01    the following ppl are getting an inactivity warning. I hate kicking you
+15,01    guys out, so I'm leaving you on the memberlist for *this* pack. contact
+15,01    one of the organizers asap, or thou shallt be kicked. 11harass15, where the
+15,01    fuck are your st00pid monsters ? 11omega-x15, you were on the right track
+15,01    but where the fuck are you now ? 11elastic15, never seen any of your shit.
+15,01    11whitesnake15, ik dacht dat ge der terug zin in had gekregen ;) 11pfez15, dead
+15,01    or what ?
+15,01    guys guys guys, and girl, listen to me here.. i don't care what reasons
+15,01    you have for being inactive, just drop me or thrasher a line to tell us
+15,01    that you are still alive, okay!?|@#|
+
+15,01    whoa! this seems like an inactivity galore... lucky we gained lots of fresh
+15,01    blood to make up for that. 11count drakula15 and 11speed freak15 from ovation
+15,01    joined our ranks. glad to see you active again cd! also 11spinn15 joins us as 
+15,01    as an ascii artist. 11scoundrel15 left opium and teams up with us, watch his
+15,01    cool fonting work. 11burps15, known and feared by some, known and adored by
+15,01    others, is gonna help out with the organizing and do an occasional ansi 
+15,01    once in a while. also 11angel of hell15 aka 11aOh15 joined us this month, who
+15,01    will be maintaining the fuel mailing list (00fuel10@00ansi-art.org15), do some
+15,01    ansi work and be a cool guy. also this month 11twoxfh15 or 11fire from heaven
+15,01    joined our doodling ranks. he's a particularly good artist with quite
+15,01    some experience in the field11 15as you will surely notice in this month's
+15,01    pack. and surprise surprise, 114th discyple 15joined us too this month. 
+15,01    there's no need for me to explain who he is, coz his fame precedes him
+15,01    wherever he goes. the last one to close the newcomers list for this month
+15,01    is 11spastic15, a cool fonting dude that (as he says it) wants to become famous.
+15,01    well... you might have knocked on the right door...
+
+15,01    to all of you guys, i hand you my sincere welcoming words, and i'm sure
+15,01    we can make quite an impression on the artscene.
+15,01    
+
+15,01 133.08 Headquarters and site policy.
+
+15,01    since I'm such a lazy fuck and hate editing our headquarter and sites
+15,01    list all the time, I have decided to kick some boards (whoah, aren't we
+15,01    in a kicking mood today). If your board was once a 00fuel15 hq/site and is
+15,01    no longer in our list it either means that a.) you are offline ;)
+15,01    b.) your board sucks or  c.) it was left out by mistake. 
+15,01    

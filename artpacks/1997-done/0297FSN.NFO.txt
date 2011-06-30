@@ -1,0 +1,80 @@
+
+15,01           02 15          08#15                08m
+15,01  01fusion -->15         08#08,08|14,00 15,01            04mmm08|14,08 15,01 14,04  #
+15,01               04 15    08#08,08|14 14,00   08,01""15  04mmm14,04    01 14#15,01 08,08|15,01 14,04  #15,01 08 
+15,01           04#mmm14,04  #15,01 08#08,08|14 14,00 04,01 mmm14,04   04,01"""15   04|14,04  04,01|08,08|04,01|14,04  04,01|08 m08,08m
+15,01      04mmm14,04   04,01"""15  08mm08,08m14  00,01|04#13,04###15,01   08m08,08m14 14,00 00,01"08 04|14,04  04,01|08|04|13,04##04,01|08 """15  03                 08  
+15,01     04#13,04###15,01 08m15 04mm13 08"""""08,08"14 15,01 13|13,13##04,01|15 08"""08,08"14  14,00 08,01|04#13,04###04,01 13mmm01 14,04   04,01mmm15    04  15 03 08+ iz00e15      04#14,04 01 14#
+15,01     13|13,13##04,01|15 08"15 04mmm14,04 13  15,01 08|14,08  15,01 13|08,13##13,01|13,13#04,04@13#04,01mmm15 08""04#13,13###08,01#13,13##08#04,01 08#04  """13,04#04@13,13#13,01mmm15      08 mm08,08m14,00 08,01 15 04#13,04###
+15,01     13|08,13##13,01|13,13#04,04@13#04,01"""15  08mm08,08m14  08,01 08,13#13,08##13,01 08 13  04"""13,04#04@13,13#13,01mmm |08,13##13,01|08#08,08|14 14,00  00,01mm15  08#13,13##14 08,01 #15   08""08,08"14  14,00  08,01|13|13,13##13,01|
+15,01    08#13,08###08,01   mm13,08#08,01|#08,08|14    14,00 08,01#13,08###15,01 08|14,08   08,01m00mm15 08#08,13###08,01 |13,08##08,01|#08,08|14   14,00 14,08 14,00 15,01 08#08,13###08,01#13,08##14 08,01mmm15 08"""14,08 15,01 13|08,13##13,01|
+15,01    08#13,08###15,01 08,08|08,01#13,08###13,01 08#08,08|14   14,00 00,01|08#13,08#08,13#08,01|  08,08|14  14,00   08,01|#13,08###08,01#13,08###08,01   08,08|14     08,01 |13,08##08,01|#08,13##13,08#08,01"""14,08   08,01mm#13,08###08,01 
+15,01    08|08,13##08,01| 08,08|08,01#08,13###15,01 08|14,08  14,00 00,01""15 08|08,13#00#08,01| ""08,08"14  14,00 14,08 08,01 |13,08##08,01|#08,13###13,01|mm08m15 08""""15 08|13,08##08,01||13|00,13#08#08,01|15 08mm00m 08""14,08 13###08,01 
+15,01    08|08,13 00#08,01||||08,13 00#08,01| " m13mm13,08mm00,13#13,01""14,13 13,01mm08m15 08"""08,08"15,01 08|08,13##08,01||08,13 00#08,01| ""13"13,08"14,13 13,08m13,01mm08m08,13##13,08|08,01 08,08|08,01|14,13 00#08,01|#08,08|14 14,00  15,01  08|08,13##08,01|
+15,01   08     |||08,13   13,08mm"13,01""08"15      08"13""13,08"mm13,01m08mm13,08m00,13#13,08|13,01 08|08,13  08,01|15 08,08|14 08,01m00m 15 08"13""13,08"00,13#13,08|15,01 08,08|08,01#13,08|14,13 13,08|15,01 08#08,08|14 14,00  15,01 08|08,13 00#08,01|
+15,01 08          """15                  13"""14,13 08 13,08|15,01     08,08|08,01"08,08"14  14,00  15,01       08,08|08,01#13,08|14,13 13,08|15,01  08#08,08|14 
+15,01      08      15   09               15               08,08|14 00,01"15          08 15      08#
+
+
+15,01      14 15         00Fusion productions 15info file - february 1997                  
+
+
+
+15,01        Welcome to the february pack!
+15,01         think thats its already february, it feels like it was just  
+15,01         yesterday i wrote this info file for january.            
+15,01         well as always we had an exciting month here in sweden where
+15,01         its freezing cold, is wish it would be summer.
+15,01         i changed my email adress this month to00 beck@mailbox.hogia.net
+15,01         and ize's did also change due to his other email was fucking,
+15,01         so here is the new one 00ize@geocities.com
+15,01         So if you sent an email and we have not answerd it, please send 
+15,01         it again.
+
+15,01         another ex member of the swedish artgroup opium comes to us this 
+15,01         month, so we welcome 00zendel 15and hope he will stay with us, 
+15,01         we also gained members such as 00gloone15 who totaly amazed me with
+15,01         his pictures that he showed me and then we got another logo
+15,01         freak this month by the name of 00carnival15. welcome guys!
+15,01         00undertaker 15got kicked due to inactivity this month as he has not 
+15,01         been in touch with me the last months, you get back to me and 
+15,01         maybe we can work something out.
+
+15,01         we also got ourself a new memberboard as ezy hooks up with the
+15,01         team on 00Shamera key15, so be sure to call this board as its now a
+15,01         fusion memberboard.
+15,01         i know im lazy with the board applications but i get loads of 
+15,01         them and i cant deal with them all at the same time, so i hope
+15,01         you will understand that and be patient because i will answer 
+15,01         your email and tell you how it all went.
+
+15,01         well i got to hand it to 00Oolite15 who totally redesigned our 
+15,01         memberlist and it now looks great! thanks 00Oolite15!
+15,01         and of course i would like to thank 00Ize15 who did that neato  
+15,01         logo to our nfo (yes, the logo at the top).
+
+15,01         phew, another nfo ready now i just have to give it to 00Ize15 so
+15,01         he can do his part and i will do some touchups in the end.
+15,01         so i hope you all will have a great month and se i will se 
+15,01         you in 00March15.
+
+15,01         and i dont know why i greet so much people as i get no greets
+15,01         back. go figure!
+
+15,01         now over to the 6"3 tall blond basketball playing logo 
+15,01         monster 00Ize15!
+
+
+15,01                                                               - rex 
+
+15,01        Monster?! moi?! :)
+
+15,01         Yes, 00Fusion15 is back with our fourteenth pack! yay!
+
+15,01         A litle note about 00Zendel15, he just changed his handle from 00Psyxium
+15,01         into 00Zendel15, just in case you didn't know his abrevation is 'z3d'
+
+15,01         Oh yeah, 00Ezy15 told me to mention that he wont doodle ansi anymore
+15,01         and just draw 00ascii15 (I hope he will come to his right mind =)
+15,01         he shows great promise in the ascii world aswell and stuff.
+15,01         so you wont find him in the ansi section anymore, just in the ascii

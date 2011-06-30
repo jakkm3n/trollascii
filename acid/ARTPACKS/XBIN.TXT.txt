@@ -1,0 +1,80 @@
+
+15,01    Image data
+15,01    -----------        eXtended BIN Format specification
+15,01    The image data is a raw image of video memory.  Each character consists
+15,01    of 2 bytes, the first being the character, the second being the attribute
+15,01    (color).       Written by Tasmanic Tasmaniac / ACiD 1996
+15,01    The Image data would thus be equal to Width*Height*2.  The biggest XBIN
+15,01    would be a whopping 8Gb (65535*65535*2) in size and the smallest would be
+15,01    0 bytes (0*0*2).ttp://uc2.unicall.be/tasmaniac/xbin.htm
+
+15,01    Unless the 'Compress' bit is set in the Flags field, Image data is stored
+15,01    in the exact way you would need it in video memory.
+15,01  ------------
+15,01    When the 'Compress' bit is set, Image data is compressed with
+15,01    XBIN-Compression.  This is a fairly simple compression system, which
+15,01    should pose no real difficulty to decompress.  As compression goes
+15,01    however an XBIN compressor is a little harder to write <g>.
+15,01  This new format is known as eXtended BIN or XBIN for short.
+
+15,01    XBIN Compressionname dictates, it's an extention to the normal raw-image
+15,01    ----------------ve become very popular among the art-scene lately.
+15,01    The XBIN compression uses a slightly improved Run-Length Encoding scheme
+15,01    which will do very well on this type of data.same as for the BIN format.
+15,01  However, XBIN offers a far better way to handle the the raw images.
+15,01    In stead of describing how a compressor would work, I'll explain how the
+15,01    compression works by giving some examples.  In these examples, you'll see
+15,01    strings of characters more or less like this one :
+15,01  ------------
+15,01         Aa,Ab,Ac,Ba,Bb,Bc,De,Zx,Yu
+15,01  The BIN format was introduced into the art-scene out of a need to overcome
+15,01    This string represents a part of the uncompressed data. The capital too
+15,01    lettres are character bytes, the lower case letters are attribute bytes.
+15,01  problem.
+15,01    OK, pay close attention, as things may get hairy now ;-)
+15,01  Being very simple in nature, BIN was quickly supported by several art
+15,01    When you examine an ANSi or a BIN file, you may or may not have noticed
+15,01    several characteristics which are typical for ANSi/BIN files. dealt with
+15,01    You see sequences of identical characters one after another, and you see
+15,01    sequences of identical colors one after another.  You may even see the
+15,01    combination of both; identical characters in identical colors one afterN
+15,01    another.insight to the size/width of the image.  Having nothing more than
+15,01  a BIN file, there is no way to determine whether it's a 80 column wide or
+15,01    XBIN-compression makes use of these characteristics by replacingN format
+15,01    sequences of identical characters/color with a counter and the actuals
+15,01    data. determine the correct dimensions of the BIN.
+15,01    A sequence like :
+15,01  XBIN solves this little matter all by itself, and takes matters even
+15,01        Aa,Aa,Aa,Aa,Aa,Aa,Aa,Aa,Aa,Bb,Bb,Bb,Bbter.
+
+15,01    could easily be replaced with
+15,01  Features
+15,01        [Repeat 9 times]Aa,[Repeat 4 times]Bb
+
+15,01    The '[Repeat x times]' tag is the repeat counter.ide, and 65536 lines
+15,01  high.
+15,01    If you're a smart observer, you've probably already figured where I'm
+15,01    driving at.  It shouldn't be too hard to figure out that there's a need
+15,01    for four different types of compression :
+15,01      1) No compression  (when two subsequent character/attribute pairs have
+15,01                          no relation)onts from 1 to 32 scanlines high,
+15,01      2) character compression  (for a sequence of identical characters in
+15,01                                 different colors)
+15,01      3) attribute compression  (for a sequence of different characters with
+15,01                                 identical attributes)
+15,01      4) character/attribute compression (for a sequence of identical
+15,01                                          character/attributes).
+15,01  Goal
+15,01    Hmm.. 4 types of compression.. That would nicely fit in 2 bits, leaving
+15,01    6 bits in a byte unused.  Now.. what if we were to use those 6 bits for
+15,01    the repeat counter...certain rules in mind.  These were:
+15,01    This is exactly what XBIN compression does...
+15,01  - The format may not have a group-specific name.  It should be as
+15,01    The XBIN compression consists out of a sequence of repeat counters
+15,01    followed by the appropriate number of data bytes.
+15,01  - The format must be simple to implement, yet offer as much functionality
+15,01    Ok, before we go any further now, allow me to make an important note.
+15,01    XBIN compression works on a ROW by ROW basis.  The compression does NOT
+15,01    carry through to the next line.  so if you would have for example twothe
+15,01    lines like this :lity of the formats specifications.
+15,01                   Ab,Aa,Aa,Aa

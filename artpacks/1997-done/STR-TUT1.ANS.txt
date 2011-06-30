@@ -1,0 +1,80 @@
+
+15,01  00                ...ascii tutorial by stalker(cmc)...
+
+00,01yellow there, wahwah .. stalker talking here, well so like here is my tutorial
+00,01i didn't had any work for the comic pack so i decided to make a quick tutorial
+00,01which came out pretty cool in the end i must say :)
+00,01well i don't have anything to say expect.. gee gee gee enjoy the tut ..
+
+
+00,01>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw ??
+
+15,01 00ssstep I: outlines (?!)
+15,01 00ok first step in ascii drawing will be outlines.. this might turn out to be
+15,01 00ugly as mess's asciis :)) (bwahwah) but don't worry it will get better soon 
+15,01                                                                            
+15,01                                                                        $$$$
+15,01   $$$$$$$$$$$$$$$     $$$$$                                            $$$$
+15,01  $$$$$'      $$$$$$   $$$$$                                            $$$$
+15,01  $$$$$         $$$$$  $$$''..,,,,,,..             $$$$$$$              $$$$
+15,01  $$$$$$       $$$$$$ ,,,,$$$$$$$$$$$$$$      `$$$$$$$$$$$$$$           $$$$
+15,01   $$$$$$$   $$$$$$$$ $$''``        $$$$ $$$$$ ``''$     $$$$    $$$$$$$$$$$
+15,01     $$$$$$, $$$$$$$   ` $$$$       $$$$$$$$$$$$$  ,,    $$$$  $$$$$$$  $$$$
+15,01       `$$$$$,,```       $$$$$$$$$$$$$$     $$$$$ :$$$$$$$$$   $$$      $$$$ 
+15,01 $$$$$$   ```$$$$$$      $$$$$$$$$$$,,,     $$$$  $$$$''`  ,,$$ $$      $$$$
+15,01$$$$$$$ $$$$$  $$$$$$$   $$$$     $$$$$$$$$$$$$   $$$      $$$$ $$$$$   $$$$
+15,01$$$$$            $$$$$   $$$$$     $$$$$$$$$  $$$$$$$     $$$$$  $$$$$$,````
+15,01$$$$$$$$$$$$$$$$$$$$$$   $$$$$     $$$$       $$$$ $$$$$$$$$$$       $$$$$$$$$
+15,01 $$$$$$$$$$$$$$$$$$$$     ''``      $$$      $$$$$                      s,..
+15,01    $$$$$$$$$$$$$$$                  $$$$$$$$$$$$                       $$$$
+15,01                                                               
+15,01                                                             
+00,01>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw ??
+15,01 
+15,01 00ssstep II: shaping
+15,01 00now when we have shaped the outlines a bit it ain't looks like mess's ascii
+15,01 00no more :)) (and again bwhwahhawha), now when we can say it's a normal ascii
+15,01 00i'm glad :)15                                                               
+15,01                                                                        $$$$
+15,01   ,+g#S$+22+S#g+,     ?#g+,                                            $$$$
+15,01  j$$$$'      `7$$L,   l$$$:                                            $$$$
+15,01  $$$$l         l$$$:  :7+2^_.,_++_,._             _.,,,._              $$$$
+15,01  7$$$$L       j$$$$l ,+g#?$$7+2"^"2+7b,      ,+g#?$$72"2+7b,           $$$$
+15,01   `7$$$L,   .d$$$$$7 $7+2"`        l$$$_+_,._`7+2"`     l$$$    ,+g#?$$$$$$
+15,01     `7$$$L+,`+7$$$7   `,+g#?       j$$7+2"2+7b,,  #?    j$$7  ,d$$7"`  $$$$
+15,01       `+7$$?+,`2+      :$$$lL+,..+d72`     l$$$: :$lL__J$7`   $$7      $$$$ 
+15,01 ,+g#?$  ,,`2+7$$b+,     $$$$$$7+2*`g#?     j$$7  l$$7+2`  .,+g $L      $$$$
+15,01j$$$$7' `7S?#  `7$$$b,   $$$$     :$$$lL+_+d72`   $$$      l$$$ 7$L+,   $$$$
+15,01$$$$l            $$$$$   l$$$:     l$$$$7+2`  .,+g7$$     j$$$7  `+7$?+,`*2+
+15,017$$$$L+_,,,.,_+g?$$$$7   :$$$l     :$$$       l$$$ `+Ly++J$7+`       `*2+?#g+,
+15,01 `7$$$$$$$$$$$$$$$$7'     2*^`      7$$      j$$$7                      $?#g
+15,01    `^*2+**SS**+2^`                  `+Ly+_+JS7+`                       $$$$
+
+
+00,01>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw ??
+
+00,01 ssstep III: addons ?!
+15,01 00after we shaped the ascii abit, we must give it 'the look' :)
+15,01 00as you can see i changed the '$' to 'S' so the ascii will look
+15,01 00much much much better if you ask me and i added the fire effect15       .  .
+15,01 00(or whatever...)15                                                         .  
+15,01                                                                        : .
+15,01   ,+g#SS+22+S#g+,     ?#g+,                                            i: :
+15,01  jSSSS'      `7SSL,   lSSS:                                            li::
+15,01  SSSSl         lSSS:  :7+2^_.,_++_,._             _.,,,._              Slii
+15,01  7SSSSL       jSSSSl ,+g#?SS7+2"^"2+7b,      ,+g#?SS72"2+7b,           SSll
+15,01   `7SSSL,   .dSSSSS7 $7+2"`        lSSS_+_,._`7+2"`     lSSS    ,+g#?SSSSSS
+15,01     `7SSSL+,`+7SSS7   `,+g#?       jSS7+2"2+7b,,  #?    jSS7  ,dSS7"`  SSSS
+15,01       `+7SS?+,`2+      :SSSlL+,..+d72`     lSSS: :SlL__JS7`   SS7      SSSS
+15,01 ,+g#?$  ,,`2+7SSb+,     SSSSSS7+2*`g#?     jSS7  lSS7+2`  .,+g SL      SSSS
+15,01jSSSS7' `7S?#  `7SSSb,   SSSS     :SSSlL+_+d72`   SSS      lSSS 7SL+,   SSSS
+15,01SSSSl            SSSSS   lSSS:     lSSSS7+2`  .,+g7SS     jSSS7  `+7S?+,`*2+
+15,017SSSSL+_,,,.,_+g?SSSS7   :SSSl     :SSS       lSSS `+Ly++JS7+`       `*2+?#g+,
+15,01 `7SSSSSSSSSSSSSSSS7'     2*^`      7SS      jSSS7                      S?#g
+15,01    `^*2+**SS**+2^`                  `+Ly+_+JS7+`                       SSSS
+15,01                                                               
+
+
+00,01>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw>jimbaw ??
+
+15,01 00ssstep VI: background

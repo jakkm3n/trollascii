@@ -1,0 +1,8 @@
+15,01609
+15,013
+15,01100
+
+15,01;--------------------------------------
+15,01Line 1:         Your Area Code
+15,01Line 2:         Maximum number of lines to use in Notes entry when adding
+15,01Line 3:         Security Level to access Delete bbs feature.

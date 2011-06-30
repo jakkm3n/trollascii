@@ -1,0 +1,80 @@
+15,01                                    _.                                _____
+15,01      ______________________________.~______________ ________________/___ /
+15,01     /                    /         |/             //          _       / /
+15,01  ._|        __          /                        /          _//      /_/
+15,01  | |        //         /                         \         __        \\
+15,01  | |:cG:              /                           \_        \\        \
+15,01  | |_________________/_ ___        \_______________\\__________________\
+15,01 ||_____|                  \\_______|           \\____\\
+15,01 |--                       -\-----
+15,01______________________________________________________________________________
+15,01 + DIE KRANKEN BOMBER + DIE KRANKEN BOMBER + DIE KRANKEN BOMBER + DIE KRANKEN 
+15,01------------------------------------------------------------------------------
+
+15,01______________________________________________________________________________
+15,01rELEASE iNFORMATiONS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15,01------------------------------------------------------------------------------
+15,01Supplier : Sane2                    Name   : Was/Misk
+15,01Packager : Dkb crew                 Date   : 27th November, 1997
+15,01Style    : Graffiti                 Number : 00000014
+15,01Filename : dkb_was.zip              Size   : (-) 450Kb
+15,01Writer   : Was/Misk                 Piece  : 2 Wallpieces & 1 SteelTrain
+
+15,01Extra Info:
+15,01>>>>>>>>>>>
+15,01Nice to see ya suckers BACK! Sane2 and the whole dkb rockAs strike back!
+15,01We now got many new members, SOING, SPERM WHALE, WEAPON-X and two new
+15,01boards to support the dkb, rockas, but first check these 3pieces from WAS!
+
+15,01______________________________________________________________________________
+15,01oFFiCiAL mEMBERS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15,01------------------------------------------------------------------------------
+
+15,01MEMBER         POSiTiON                       E-MAIL
+15,01>>>>>>         >>>>>>>>                       >>>>>>
+15,01SANE2          FOUNDER/SUPPLIER/ASCII/SYSOP   sane2@rocketmail.com
+15,01REZINE         FOUNDER/SUPPLIER/PPE/SYSOP     no@idea.com
+15,01HASH           SUPPLIER/SYSOP/SENIOR          hash@sci.fi
+15,01SLAPSHOT       SUPPLIER/SYSOP                 slap.slt@usa.net
+15,01TRIVIAL        SUPPLIER/SYSOP                 trivial@pi.net
+15,01MONE           SUPPLIER                       mone@rocketmail.com
+15,01MASO           SUPPLIER                       maso@rocketmail.com    
+15,01KUB            GRAFICAN                       kub@mg.ndh.com
+15,01DJ_PTM         HIPHOP/DJ-TAPES                dj_ptm@rocketmail.com
+15,01VOUCK          ASCII                          vouck@lover-boy.com
+15,01SOING          SYSOP                          no@idea.com
+15,01SPERM WHALE    ASCII/SYSOP                    no@idea.com
+15,01WEAPON-X       ASCII                          no@idea.com
+15,01______________________________________________________________________________
+15,01sUPPORT bOARDS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15,01------------------------------------------------------------------------------
+
+15,01#  NAME                SYSOP      POSITION       NUMBER             SPEED
+15,01>  >>>>                >>>>>      >>>>>>>>       >>>>>>             >>>>>
+15,01------------------------------------------------------------------------------
+15,014  THE YARD            SANE2      UNIVERSE HQ    +49-221-9348812    v34
+15,01                                                 +49-221-9348812    iSDN 
+15,01                                                 +49-221-9348812    iSDN
+15,01                                                 STATIC TELNET      TELNET
+15,01------------------------------------------------------------------------------
+15,016  THE JUNCTION        SLAPSHOT   WORLD HQ       PRIVATE            v34
+15,01                                                 PRIVATE            v34
+15,01                                                 PRIVATE            iSDN
+15,01                                                 PRIVATE            iSDN
+15,01                                                 TJBBS.DYN.ML.ORG   TELNET
+15,01                                                 TJBBS.DYN.ML.ORG   TELNET
+15,01------------------------------------------------------------------------------
+15,011  BROOKLYN EXPRESS    REZINE     GERMAN HQ      PRIVATE            v34
+15,01------------------------------------------------------------------------------
+15,011  AEROSOULS           HASH       FINISH HQ      +358-9-8552774     v34
+15,01------------------------------------------------------------------------------
+15,014  BUSTIN LOOSE        TRIVIAL    SWEDISH HQ     PRIVATE            v34
+15,01                                                 PRIVATE            v34 
+15,01                                                 LSD.DYNDNS.COM     TELNET
+15,01                                                 LSD.DYNDNS.COM     TELNET
+15,01------------------------------------------------------------------------------
+15,012  MORALES             SOING      DIST SITE      +49-2233-935000    iSDN
+15,01                                                 +49-2233-935001    v34
+15,01------------------------------------------------------------------------------
+15,011  ARTIFICIAL I.       SW         MEMBER BOARD   +358-9-2418602     33600
+

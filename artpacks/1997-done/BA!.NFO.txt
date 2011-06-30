@@ -1,0 +1,56 @@
+14,01+----------+00BaCkstreet Artists & Musicians NFO14+------+
+14,01+----------------------------------------------------+
+15,01 00-14 News
+
+15,01    00-14 Boring Planet Closed
+15,01   14 00-14 Immortal Came Back As Midi Musician 
+15,01    00-14 Dead end against open
+15,01    00-14 Whatevr joined, from belgium
+
+14,01 00-14 Members
+
+15,01   13+--04--------15-------14---------15------04---------13--+
+15,01   13|S14taff_15                                     13|
+15,01   13|15  14No Mercy . Leader15                        13|
+15,01  04 |13M14embers_15                                   04|
+15,01   04|15 14Tuomio, Wolverine, fOS, ChroNiC, Jaffa,15   04|
+15,01   04|15 14Opel, Grazer, Andrei villonen15             04|
+15,01   13|S14eniors_               15                    13|
+15,01   13|15  14B=), Immortal, whatevr15                   13|
+15,01   13+--04------15-------14------------15--------04------13--+
+00,01-14 Who Does what?
+
+15,01   14No Mercy         . Asc,ans, Leader & Founder,Vga
+15,01  14 Tuomio           . Code
+15,01   14Wolverine15  14      . Music
+15,01   14Opel             . Vga
+15,01   14fOS15      14      15  14. 3d 
+15,01   14Andrei Villonen15  14. Vga
+15,01  00*14Grazer           . Vga
+15,01   14ChroNiC          . Vga
+15,01   14Jaffa            . Code
+15,01  00*14B=)              . Dont remember, PLEASE CONTACT: nm@2ndgen.com
+15,01   14Immortal         . Midi Music
+15,01   14Whatevr15          14. Coding
+
+15,01 00* 14means that he should contact so soon as possible
+15,01 00 
+00,01-14 How to join?
+15,01   14Send e-mail to: nm@2ndgen.com and tell u'r age, what you do, and send as file
+15,01   14attachment something u have done, and of course tell u'r alias and howto
+15,01   14Contact =D
+
+
+00,01- 14Dists:
+
+14,01Name_15          14Numbah_15             14Open/comments_15    14Position_
+14,01Playground 15   14+358-0-871121715       1421.oo-o7.oo15       14dist
+14,01Dead End15      14+358-0-221410715       1424h15               14fhq
+
+00,01- 14What u should know
+
+15,01   14okay, we have had communcation problems, but we r working for better 
+15,01   14communication system..... because of communication problems, this pack is
+15,01   14this small, i didnt get any 3d r anythin for this, and because of that 
+14,01   this is late... sorry guy's
+15,01>

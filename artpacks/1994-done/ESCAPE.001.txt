@@ -1,0 +1,17 @@
+15,01; ESCAPE NET
+15,01;
+15,01; NODELIST 1
+15,01;
+15,01Zone,250,Escape_Net_WHQ,Long_Island_NY,Jimmy_Star,1-516-586-3741,9600,CM,V32b,V4
+15,012B
+15,01;
+15,01Region,516,Escape_Net_516,Long_Island_NY,Jimmy_Star,1-516-586-3741,9600,CM,V32b,
+15,01V42B
+15,01;
+15,01Hub,0,Jugglers_Paradise,Jimmy_Star,1-516-586-3741,9600,CM,V32B,V42B
+15,01,1,DoTS,Long_Island_NY,Tooncinator,1-516-331-1851,9600,CM,V32B,V42B
+15,01,2,Digital_Empire,Long_Island_NY,RADiX,1-516-785-3348,9600,CM,V32B,V42B
+15,01,3,The_Cartel,Long_Island_NY,Omega_Redd,1-516-763-1054,9600,CM,V32B,V42B
+15,01,4,The_Dark_Moon,Long_Island_NY,Dr._Nack,1-516-283-6375,9600,CM,V32B,C42B
+15,01;
+15,01Region,718,Digital_Illusionz,NY_City,Tycoon,1-718-939-3849,CM,V32B,V42B

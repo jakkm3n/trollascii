@@ -1,0 +1,80 @@
+15,01                       00mmmmmm
+15,01              14MM  00mm14,00 10###00,01"""""
+15,01              00mm|14,00 00,11"00,01""  
+15,01            00m12,00###00,01" 15   13 
+15,01         01,03m15,01 12,00#15,02@@00#00,01 
+15,01          00|15,02@00##01|
+15,01         01,03|15,01 00,02#   15,01  01,04m|15,01              15,02@00##01||14@12,01@#00,02###
+15,01         00,03 01"15,01 01,02m| 12"01"12,01m15               00,02#  01|15,01    01,02   
+15,01         01,03|08"m01""15,01 01,02mm15,01 01,03|00,01 12m|00  12m01,02"15,01      01,02|   |01,03|08mm15,01 08,02   
+15,01           01,03mm09" mmmm09,01mm01,03"00,01 01,02mm 12###"01""  |m15,01 01,03|09,09 09,08 15,01 01,02mmm15,01              01,04"13,01m
+15,01               01,03mm09""09,09   14 09,03m09,01mm01,03""15,01 01,02mmmm00,01 01,03"09m09,09    15,01 12,02## 14@@02,01# 00#14,00     00,01|mmm 01,04m
+15,01         01,03"|15,01        01,03m09"09,09                   09,01mmmmmmmmmm08mm01,03"15,01 "00""00,11"14,00 00,01  15m
+15,01                    01,03|09|09,09     09,08    09,09                        09,03m09,01mm01,03"15,01 "14,00   00,01m
+15,01                  01,03""09m09,09##                                    09,03m01"15,01 00"12,00###00,01m
+15,01                01,03m09,01 01,03m00,01""""08""09,03"09,09               14 09                  #03,03@01|15,01 00,02#15@@12,00#
+15,01                            00   01,03m08,01""09"09,03"09,09    ##00,01""""08"""09""""""""09,09  09,01""08"" 01,02|00##15@00,01|
+15,01                                     01,03m09,01"09,03"03@@00,01 |15,02@00##01mmmm14,01"  01,02mm15,01 09,09  15,01 01,02mm15,01  01,02   00#
+15,01                           01,03"03@@15,01          01,03|09#01|01,02|00#  15,01 08|14,08  09,09     09,03"09,01""01,03m15,01 12m01,02"12"  01m
+15,01                             01,03m15,01           01,03#|01,02|   |12,01 09,09  09,03"09,01"01,03m15,01 12m01,02""12"12,12#12,02##01mm15,01 01,04"13,01m13,04m14@
+15,01                                         09 01,03|15,01 01,02m#02,01"" 12m02m  02,02  01mmmm15,01       01,04m13,01"
+15,01                                          00 01,03"|15,01    02" 01,03"
+
+
+15,01               00cia conspiracy number fourty six 15- 00may 15/ 00june 1997
+
+
+15,01                                   08code 01
+
+15,01        hey everyone, its time for 00cia conspiracy # 4615!  cia gets closer
+15,01        and closer to that big 5O! thanks for checking out the packs, we
+15,01        hope you enjoy em. another fun month of finals, job hunting  and
+15,01        general stressing out, but with vacations approacing everyone
+15,01        seems to be mellowing out & ready to draw! look for some killer
+15,01        stuff these next months !  14(any lack of work in this pack is due
+15,01        14to a severe group-wide addiction to xode's virtual chicken game)
+
+
+15,01                                   08enter __2
+
+15,01        00new members 15this month include 14(in random order) 00error15, 00prolific
+15,01        00ohseven15, and 00sagramore 15in ascii, 00pixel dreamer  15& 00patch 15join the
+15,01        code team to which 00Wizy 15also returns..  00genX 15returns and sets up
+15,01        yet another bot for us!  00Defcon IV15,  while not new to cia, joins
+15,01        up with the web team!
+
+15,01        we say goodbye to some friends including the misguided and very
+15,01        confused 14filth 15who leaves for twilight :) 14spear 15fades away and
+15,01        14estatic 15gets a life this month.
+
+
+15,01                                 08input> _III_
+
+15,01        00cia stickers still available 15be sure to check out 00cia15-00stik15.00txt 15&
+15,01        00cia15-00stik15.00jpg 15in the pack for information on ordering some of the
+15,01        neat little adhesive squares! help spread the love, cia stickers
+15,01        not only look cool, the ladies love em. there are two designs to
+15,01        chose from, each is printed in full color on quality white vinyl
+15,01        check 00www15.00creators15.00org15/00stik 15for updates on sticker availability.
+15,01        thanks to satanic sly for the new cia-stik.jpg image!
+
+
+15,01                                  08if 4;then go
+
+15,01         00internet news15: this month our official 00ftp 15site at cyberwar.com
+15,01         was nuked! all of the past & present art packs can now be found
+15,01         on the web via http at 00www15.00creators15.00org15/00archive15/00packs15/ .. music
+15,01         releases will be uploaded shortly. Soon we will have a new  ftp
+15,01         site with all of our files! thanks to ascii member 00prolific 15for
+15,01         hooking us up with 00cia15-00art15.00org 15for our email accounts & members
+15,01         only web pages. finally, be sure to check in @ 00www15.00creators15.00org
+15,01         as we continue to redesign and finish up our pages, we also add
+15,01         new features pretty often so stay tuned! this month's creator's
+15,01         00cafe gallery 15is online. it features 3d artist and modeler, 00Dave
+15,01         00Dwire 15of Rainbow Studios, check out his work!  00www15.00creators15.00org
+15,01         was the recipient of the GAR award  for excellence  on the web,
+15,01         for more information see 00www15.00creators15.00org15/00new15/
+
+
+15,01                                 08returntrue;5
+

@@ -1,0 +1,80 @@
+
+15,01If you have any questions, Comments or Suggestions you can reach me on
+15,01Salt Air or on the Studio PC BBS.
+
+15,01Ralph LoBianco
+15,01Studio PC BBS
+15,01Suite 231
+15,017143 State Road 54
+15,01New Port Richey, FL 34653
+
+15,01Studio PC BBS BBS   (813)862-8850  For The US Robotics Dual Standard Lines
+15,01                    (813)869-7929  For the Hayes Ultra and Optima Lines
+15,01                    Fidonet Node # 1:3619/1
+
+
+15,01                               SETED Version 3 Beta
+15,01                                               ^^^^
+15,01                                (Settings Editor)
+
+15,01                         Copyright 1994 By Ralph LoBianco
+
+15,01                       For PCBOARD versions 15.1 and above
+
+
+
+
+
+
+
+
+
+
+
+
+
+15,01 
+
+
+
+
+
+15,01INTRODUCTION
+15,01------------
+15,01The Docs for version 3.0 Beta where kinda thrown together cause I wanted
+15,01to get it out to the public by January 1st. If you have ever installed
+15,01a PPE before you shouldn't have a problem..
+
+15,01DESCRIPTION
+15,01-----------
+15,01SETED.PPE was developed in order to make it a little less confusing when a
+15,01user wants to change any of his settings with the W command. SETED displays
+15,01a Menu of the options to the user instead of prompting him through a dozen
+15,01or so questions.
+
+15,01FEATURES
+15,01--------
+15,01SETED can now be fully customized by the Sysop. All Colors, Prompts,
+15,01Questions and Screens can be edited by the sysop via configuration files.
+
+15,01Auto Detection of ALIAS and ADDRESS Psa's.
+
+15,01Support for Multi Language versions of the Prompt and Question Data files.
+
+15,01FILES YOU SHOULD HAVE
+15,01---------------------
+15,01SETED.PPE         The Main Executable.
+15,01SETED.DOC         What your reading now.
+15,01SETED.CFG         The Default Configuration file. (Same As Purple.CFG).
+15,01PURSLIME.CFG      Purple prompts and Green Slime configuration file.
+15,01BLUSLIME.CFG      Blue prompts and Green Slime configuration file.
+15,01GRAY.CFG          Gray look configuration/
+15,01PLAIN.CFG         Yellow,White,Green Color configuration file(Original Colors)
+15,01PROMPTS           Sample Prompts Data File
+15,01QUEST             Sample Questions Data File
+15,01PLAINGN           Plain Green Board Screen
+15,01SLIME             Purple Board screen with Green Slime (YEAH My Favorite)
+15,01---------------------------------------
+15,01SAMPLE.BAT        Batch file that lets you view the Sample Screens
+15,01WELCOME.COM       Sample Introduction
+15,01GRAY.COM          Sample of the GRAY look.

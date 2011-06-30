@@ -1,0 +1,80 @@
+15,01;File_Mask *.BIN
+15,01;File_Mask *.ASCiGRiS
+15,01 
+15,01 uggestions
+15,01; Whether or not to ask to overwrite a file during a save.
+15,01;    Default: Yes there are a lot of bugs within Pablo so I'm going to make
+15,01Ask_Overwrite Yes on how to use it to avoid some major catastrophies.
+15,01;Ask_Overwrite No
+15,01        1. Save your files frequently
+15,01        2. When saving your files use the BIN format as there is less room
+15,01; Make a .BAK backup of a file when it is being overwritten.elf.
+15,01;   Default: Yesilenames that increment such as FILE1.BIN, FILE2.BIN, etc...
+15,01Make_Backup Yesonly will these cause you less grief but you also save your
+15,01;Make_Backup No in stages in case you want to go back at some point.
+15,01        4. Don't save in ANSI until you've saved your final BIN.  If you
+15,01           find any faults in the ANSI save you might consider booting up
+15,01; Adjust the mouse speed, 1 is fastest.saving with that and see if there
+15,01;   Default: 2a difference.
+15,01Mouse_Speed 5t the .CFG file for 2 pages and use ALT-P everyonce in a while.
+15,01           Since pages are swapped to disk the current page gets saved
+15,01           before it is swapped to memory.  The files are saved as PABLO.VPx
+15,01           where x is the page #.  If Pablo crashes chances are the .VPx
+15,01           files are intact, just rename the files so they don't get over-
+15,01           written and the reload them with Pablo.  Pablo will recognize the
+15,01           .VPx format.  Make sure you set the column size first.
+
+
+15,01History
+15,01~~~~~~~
+15,01v0.86, 10/13/94
+15,01        - Fixed save with overwrite
+15,01        - Fixed ANSI save not to go up a line on the first line
+15,01        - Fixed ANSI save not to use ANSI cursor right code when only
+15,01             one space is moved
+15,01        - Added ALT--, toggle text and attribute drawing mode
+15,01        - Added CTRL-HOME, move cursor to first non-space in line
+15,01        - Added CTRL-END, move cursor to last non-space in line
+15,01        - Added ALT-X, sub-function [S]hell to DOS
+
+15,01v0.85, 10/09/94
+15,01        - Still trying to fix that damn bug in the save over old file
+
+15,01v0.84, 09/07/94
+15,01        - Requires a 286+ to run Pablo
+15,01        - Added ability to load in virtual pages
+15,01        - Added SHIFT-TAB to move back 8 spaces
+15,01        - Rewrote ALT-S, save picture, to save more compact size
+15,01        - Changed save line default to maximum size of picture
+15,01        - Fixed problem with saving some low colours as high
+15,01             intensity colours
+15,01        - Fixed directory listing pattern matching and paths
+15,01        - Fixed problem with running Pablo from root directory
+15,01        - Removed the use of MAIN_DIRECTORY in CFG file
+15,01        - Changed mouse movement so it's not so choppy
+
+15,01v0.81, 08/27/94
+15,01        - Fixed block fill background colour
+15,01        - Fixed file save with backup enabled, should no longer run
+15,01             into runtime error 5
+15,01        - Changed ALT-V, VGA view, to display as much of the ANSI
+15,01             as possible before it begins scrolling
+
+15,01v0.80, 08/26/94
+15,01        - First public release
+
+
+15,01Keyboard
+15,01~~~~~~~~
+15,01CTRL-PrtSc      Toggles status bar on/off
+15,01F1-F10          Writes corresponding function key character
+15,01Alt-F1 to F10   Switch to function key character set A-J
+15,01CTRL-F1 to F5   Switch to function key character set K-O
+15,01Arrow keys      Move cursor in corresponding direction
+15,01Home            Move cursor to first column
+15,01End             Move cursor to last column
+15,01PageUp          Move cursor up a screen
+15,01PageDown        Move cursor down a screen
+15,01Ctrl-Home       Move cursor to first non-space in line
+15,01Ctrl-End        Move cursor to last non-space in line
+15,01Ctrl-PageUp     Move cursor to top of page

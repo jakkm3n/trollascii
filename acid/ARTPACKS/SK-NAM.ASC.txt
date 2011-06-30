@@ -1,0 +1,80 @@
+15,01I'm A 21st Century Digital Boy.I don't know how to live but I got a lot of toys!
+
+15,01                                                                              
+15,01                                                   .                          
+15,01                                                   Xi                         
+15,01                                                  d?l                         
+15,01                                                .d'lb.                        
+15,01                                               d'  :Xi                        
+15,01                                            .x'    `Xl                        
+15,01                                          .dX'      Yb                        
+15,01                                         `  `?x.    ?X.                       
+15,01                                               `Xb. `Xi                       
+15,01                                                 `?X.Yl                       
+15,01                                                    `;Xb.                     
+15,01                                                     `x`?x.                   
+15,01                                                      `X;`?Xx.                
+15,01                       ..ooxXYXxoo..                   Yb, `?XX.              
+15,01                   .ooxXYP''   ``?YXxoo.               `?X,  `?Xb.            
+15,01               .o7 P''               ``? Zo.            `Xb.   `XX.           
+15,01           .,pxd'                         `bxq..         ?Xb     `Xb.         
+15,01        .xd''oP'                           `?o''bx.      `?X.      `Xb.       
+15,01      xXP'.pP'                               `?q.`?Xx     `Xb       `?Xb.     
+15,01    .XP'  d'                                   `b  `?X.    `X.       `?XXx.   
+15,01   xY    P'                                     `?    Yx    :X       .dXX'    
+15,01  .X7    X.                                     .X    ZX.   `Xi      .X'      
+15,01  lX'    `Y.               xY'  `x             .Y'    `Xl    dX     .X        
+15,01 .X'      `Q         `Xx   `X.   ?' xX'        Q'      `X.  .ib    .X         
+15,01 lO        `b         `Yx   `x  d' xY'        d'        Ol  :ll   .X          
+15,01 li         `Yx.      .XP'   Y    `?X.     .xY'         il  idi  .X'          
+15,01 Oi    Xx.    `TYx...xXO'     `x   `OXx...xYT'    .xX'  iO  lX:  XP           
+15,01 ?O    `YXObo,.  `7xTdY'       `Y   `YbxZ'  .,odOXY'    OP  dX  dX            
+15,01 `X.     `?OP~    dPXY'   .    .x    `Y?b    ~?OP'     .X'  XP .X'            
+15,01 `Xb            oY'     .X'    '        `Yo            dX' .X' XP             
+15,01 `Xx.         dP'       Y(                `?b         xX'  Y' dX              
+15,01   Ly.       !xX        `X.                Xx!       dJ'  .X  X'              
+15,01.  `Qo       OY'         `x                `YO       qJ' .x'.X'      .xXYxq   
+15,01Y.  `Xx.    lXx           `.                xXl    .xX' .Y'xX'     dXP'   `   
+15,01Xb.  ?Yx.   iXY.                           .YXi   .xyP .dXdX'     xX'  X      
+15,01bxX   `Xo.   YXo              .            oXY   .oX'  XxdX'      Xx   `Y     
+15,01`?Xb    ?Xb.  XLo              X.         oTX' .dXP   dXP'       dXb      .   
+15,01 `YXb    `Ybx. Yo.             `d        .oY .xdY'   dXY'       dXP'`?bxX'    
+15,01   `?X.     YXoxXx             b'        xXxoXY    .XP'       dXP' .  ?Xb     
+15,01     `X.      `XYxb            `L.      dxYX'     .X'       .XP( .' .' `)Xbd  
+15,01       `        `YXb            `x     dXY'       '         :`?Xb .' .dXP';   
+15,01dXOXYXb      .     `Z          .'     7'                    `. `?Xb.dXP'  .`  
+15,01XP' `?X.oxo.dXb.     `?YXXxx..;'xXXYP'               .xYXb.   `. `?XP' . '    
+15,01`Xb, .dX`;dXP`?Xb.       ``?XYXP''   .x'         .od''   ;Yx    `. ;. '       
+15,01 ?XYXYXQoXO     OXo                 .U'        od'      .dP'   .xX`b          
+15,01         `?Xb.dXP' .XYXOXYX        .OXo.    .O`         b    .d'  xx'         
+15,01           `?X'`Yo.XP' `?X;      .oO' `Oo.xd'            `XxY'  xX'           
+15,01                 `Xb, .dX'X`bX  dP'                            X'             
+15,01                 XOXYXOX' .XP .dP'           .odb.            `X .xXx.        
+15,01       :".                X' .d'          .dP'   `Yx.          `YP'   `b      
+15,01       `: `;               .,P'         .d'     .    `Yx.            .o'      
+15,01        `..'   o`o      .,dP'           `Po. .dXP;      `Yx.      .xX'        
+15,01             .'  `b.   .dP'                .XP' ?Yx.;o'  ;?X,   xX'           
+15,01             `x.  `Xx. `X.             .io.Y'    `?Yx`` .'x?    `Y.           
+15,01              `X.   `?Yxo'           .XP'  YX.     `Yx. xY'       `Xx         
+15,01                `Y.              .io.Y;     `b       `Yx.          `O'        
+15,01                   `X.        . ,P'  `x.      `     . o;Yx.        .o'        
+15,01                     `d    .dXP'Yx.     `        . o;'-  `Yx.    .oP'         
+15,01                 ...o'    .X'    `Xx.         . o;'l .d` .XY'   .X'           
+15,01            .odXYXP'      ?b.      `x      . o;'-   ` .dXP'   .xX'            
+15,01          .iOXP'     .d.   `Yx.         . o;'l xY'`.dX`      .C               
+15,01         OI'      .xXP  d.   `Yx.    . `;'-   ` .dXP' .o..   `Xx              
+15,01          bo.   .xX'    ?X     `Yx. .`'l dP'`.dX`    d;  `?Xx  `Xx            
+15,01   .'`.     `?XYP'    .xY'       `Yx.'  `..dXP'      ?Yx     `?Xx'            
+15,01   `.  `.            .Xb     .'Xx. `Yx..dX`    .xXb   `X'                     
+15,01    ;  .'            `YX.   dX. `Yx  `TY'    .XYP' `x  `x.                    
+15,01   .'  `.              `?X. `Xx   `X.      .xXP    .XY  `Y                    
+15,01    '.,.'                X' xd'     `Xx. .XP'     .X'    x'                   
+15,01                         `xXY'         `Xb        Y.      `x.                 
+15,01                         .'                        `bx.     ?X'               
+15,01                                                     `Xx    xX'               
+15,01                       o                               `Y.  d'                
+15,01                                                          `P'                 
+15,01Every Body Does Ansi Pics of Spawn But As Far As I Know This Is The First Ascii 
+
+15,01      _ __ ____________    ________________ ______  ___________ __ _          
+15,01               ______  \  /   _______  .o0/  /    \/   .o0/                   

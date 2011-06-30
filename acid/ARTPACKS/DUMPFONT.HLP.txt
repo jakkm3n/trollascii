@@ -1,0 +1,24 @@
+15,01DUMPFONT: Dump current EGA/VGA text mode font to file. Ver 1.5 Apr 16 1993
+15,01Copyright (c) 1990-1993 by Yossi Gil, P.O.Box 3148, Jerusalem, ISRAEL.
+15,01Email: yogi@cs.technion.ac.il
+
+15,01   Usage: DUMPFONT [ flags ] > filename
+
+15,01Will strore the currently loaded EGA/VGA text mode font to 'filename'.
+15,01The font is dumped out only if standard output is redirected to a file
+15,01or to a pipe. Otherwise this help screen is displayed.
+
+15,01FLAGS  -h  Display this message.
+15,01       -k  Dump the full 64K font segment.
+15,01       -bN Dump font bank N (default 0). N is 0..3 for EGA, 0..7 for VGA
+
+15,01SEE ALSO
+15,01   withfont, loadfont, charset, breakcpi
+
+15,01EXAMPLES  dumpfont >  curfnt.f16    Store current font to file 'curfnt.f16'.
+15,01          dumpfont >> fontcol.dmp   Append current font to file 'fontcol.dmp'.
+15,01          dumpfont |  wc -c         Count bytes in current font.
+
+15,01COPYING POLICY Copy freely for private use. Usage as part of any commerical
+15,01  package is under the same restrictions as of Rhaul Dehsi ZOO program. If
+15,01  you cannot obtain ZOO, you cannot use 'dumpfont' commercially.

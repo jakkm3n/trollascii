@@ -1,0 +1,28 @@
+15,01 mm
+15,01 "14,15   15,01m14,15 15,01mm" m # "
+15,01m14,15  15,01"m|"
+15,01 "14,15  15,01"  well, some overgrown viewer for these two pics i paintet for this book.
+15,01  |  btw, the formulas for the background are: per pixel (x,y) you put texture 
+15,01    (u,v), calculating for variables i1,i2,xcenter,ycenter and ampl:
+15,01   v=(sqrt((x-xcenter)2+(y-ycenter)2)+i1)modulo255
+15,01   u=(arctan(x-xcenter)/(y-ycenter)*(256/pi)+sin(v*(pi/32)*ampl+i2)modulo255
+15,01  and guess what, it is one of the oldest tricks to do it in realtime. go
+15,01   ahead, even pure turbopascal can do it. Of course, you should optimize
+15,01    a bit :)
+15,01                okay, this one was written in 100% 32bit assembler (tasm) and
+15,01   uses the great, yet obsolete dos32 extender.
+15,01                                                  greets fly in no particular
+15,01  order to siriuz climax blackaxe tobiasf carebear bombe submissive #coders
+15,01   ethos9 and of course to all the other black maiden guys
+15,01                                                              well i know by
+15,01  myself that the code is obsolete, but maybe some beginner might find the
+15,01    above formulas usefull. it took me some time to figure them out when i
+15,01        startet doing movelists.
+15,01                                   hm. last words. don't call it lame as it
+15,01   was made in only 4h. from scratch. also don't mind the nonexisting
+15,01      design, i know, that the colors don't fit together. i know also, that
+15,01        music is easy and would have been nice, but time. some more yes i
+15,01      know things: plasma calculation, all in exe, don't rip windows fonts,
+15,01        do syncing...
+
+15,01                                       cya, shiva

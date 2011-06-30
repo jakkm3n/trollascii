@@ -1,0 +1,80 @@
+
+10,01"10,10                   10,01"m10,10 15,01 10,10      10,01m"10,10    10,01m"10,10  10,01m
+10,01  "10,10#10,01|  10,10##15,01      10m10,10##10,01"  mm15     10m10,10##10,01" 10,10##10,01"10,10##10,01m"10,10##10,01m
+10,01    "  11,11@@15,01    11m11,11@@10,01"    11,11@@15,01   11m11,11@@10,01"11m  11,11@@11,01mm10"11,11@@11,01m10"11,11@@11,01m
+15,01       10,11##15,01  11m10,11##11,01"m10,11#11,01m   10,11##15,01 11m10,11##11,01" "10,11##11,01m"10,11#11,01""" "10,11##11,01m"10,11##11,01m15                           10,11#11,01m
+15,01       11,11  15,01 11,11  11,01"   "11,11  11,01m "m11,11  11,01"m11,11    11,01"m11,11   11,01m    "11,11  11,01m"11,11  11,01m"11,11                      10##11@@10,10#10,01m
+14,11#####10##########11@@@@@@@@@@@@@@@10,10####################14                           10#10,01"
+11,01"11,11        15,01             11m11,11 11,01m"14,11 11        11,01"m11,11 15,01 11,11            11,01m"11,11        11,01"m11,11        10##11@10,10##10,01"
+10,01  11"10,11#11,01|  10,11##15,01   11m15       11m10,11##11,01"15      11m10,11##11,01"  mm15     11m10,11##11,01"15       10,11##15,01  10,11#11,01"   "10,11##11,01m15     11|10,11#11,01"
+11,01    "  11,11@@15,01 10m"11,11@@10,01m   m11,11@@11,01"15      10m11,11@@11,01"    11,11@@15,01   10m11,11@@11,01"15         11,11@@11,01m15        11"11,11@@10,01m   11"
+15,01       10"m10,10##10,01" "10,10#10,01"m10,10##10,01"15      10m10,10##10,01"m10,10#10,01m   10,10##15,01 10m10,10##10,01"15           10,10##15,01    10m15      10"10,10##10,01m
+15,01       10"10,10 10,01"15     10"10,10 10,01"15      10m10,10  10,01"   "10,10  10,01m "m10,10  10,01"15           10m10,10        14 10,01m"10,10     10,01"
+
+10,01 14------------------------------------------------------------------------------
+14,01    11TRiBAL WRiTES - The TRiBE Newsletter - Volumn #1 / Issue #9 - March 1994
+11,01 14------------------------------------------------------------------------------
+
+14,01 00#  15March turned out to be "TRiBE: National DooM Month", because most of the
+15,01    4o4 guys spent most of the month watching me shove missles down thier
+15,01    throat.  (grin)  Big GROUP Hug to the new guys for savin' our ADDiCTed
+15,01    butts.  Now we only DooM on the weekends. . .
+
+15,01 00#  15The super secret guy who joined TRiBE last month was, (drum roll provided
+15,01    by Dark Deception) Panama Jack, "Formerly of ACiD Productions.", he typed
+15,01    in his best RaD MaN impersonation.  PJ simply wanted to hold off on the
+15,01    announcement until he had a release.  (Here's hoping there's a release in
+15,01    this ZIP, 'cuz I'm not editing this at the last moment.)  He's here now,
+15,01    and us TRiBE guys are all simlpy a giddy with excitement that another
+15,01    'ANSi Veterian' decided to "go to TRiBE to retire", he typed in his best
+15,01    Beastie impersonation.  (And they talk to me about Propoganda?!)
+15,01    [Ok: so I had to edit it at the last moment to say that PJ had to go out
+15,01    of town at the last second, so look for his ANSi early on in April.]
+
+15,01 00#  15SPEAKING of artists leaving ACiD, Maestro, Jocko and Deeply Disturbed all
+15,01    joined TRiBE this month.  Within a few days, Deeply Disturbed and Jocko
+15,01    were talked back into re-joining ACiD.  A few days from that, Jocko calls
+15,01    us up and says, "Hey, really, I'm still in TRiBE, but this guy wants some
+15,01    ANSi from me that he paid for with ACiD on them."  Then at some point in
+15,01    time, Jocko joined iCE.  NOW he's reportedly out of the scene.  Days ago
+15,01    Deeply Distrubed decided dropping ACiD for TRiBE was definately the
+15,01    direction he wanted to go, so the dudes back drawing for TRiBE and working
+15,01    on Distorted.  FINALLY- Red Leader came aboard at the last moment ...
+
+
+15,01 00#  15Maestro's showing everyone out there that a FART (Freehand ART) doesn't
+15,01    have to be a TOON (JeD Wanna-Be) to be GOOD, that FART's can be as good
+15,01    as any BELCH (Big, Elite, Lovely, Comic Hack).  Too bad ACiD's "Quality
+15,01    Control" excluded some of his material, because this is the guy thier
+15,01    WDCWC ("We don't copy, we create!") Division has been waiting for!  (You
+15,01    know, that ACiD Division that releases Stun Island, Screen Captures from
+15,01    other games, iCE ANSi rips (TT/ED/Sand), etc.)
+
+15,01 00#  15Dark Deception had tried to join iCE, but apparenly got the run around.
+15,01    Apon finding out that he "could defininately be trial", he came to talk
+15,01    with me about it, and decided to stick with TRiBE, the problems resolved.
+
+15,01 00#  15Spirit of Illusion, an Eternity guy that didn't live up to ACiD's "Quality
+15,01    Control" joins us his month.  While he's been groupless between then and
+15,01    now, he didn't "Pull a Ren Noble" (Aka Being Sunny De-active).
+
+15,01 00#  15A big hidieho goes out to Thanatos who also joins us this month from Nitro
+15,01    (which is Maestro's neck of the woods).
+
+15,01 00#  15Another Happy Happy Joy Joy nod goes out to SIDS who comes aboard.  He's
+15,01    a guy from a group called MAGiC which merged with another group, Gothic.
+
+15,01 00#  15Gee'z, another one?  Yup.  Zeppelin zips over from iCE, tired of all the
+15,01    TRiAL SHiT.  He just got off grounding, so look for his stuff next month.
+
+15,01 00#  15Minor Threat:  Hey, bud, if you've decided to stay with us, could you get
+15,01    us a number that works?  The ones we have are all dis-co-nected.
+
+15,01 00#  15Would one of you kind people out there in TRiBE Land, please, please, do
+15,01    a new TRiBAL WRiTES logo.  Mr. Man did this before he "got'z" his "skill'z"
+15,01    and I've long since ran out of color combinations.  (Hey Joe, kill your bro
+15,01    yet?)
+
+15,01 00#  15We're making great StrIDeS on the TV project.  Keep your fingers and toes
+15,01    crossed for it's debut next month.  (Pray the libraries come in. . .)
+

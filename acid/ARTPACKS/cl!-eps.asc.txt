@@ -1,0 +1,80 @@
+15,01                          m
+15,01    """                 m"14,15 15,01                                            """
+15,01                      m"  14,15 
+15,01    14,15 # 15,01           mm"" m14,15 15,01 14,15 15,01                                    mmm  m  """
+15,01 "" """  "   " """ mm14,15    15,01 "" """"" """mmm              mmm""""" mmmmmm14,15##    15,01"
+14,15       ##15,01""" mmm14,15    ## #   ##    ##  15,01mmm ""m        m"" mmm14,15##     # ##00,01@@14,15## 
+14,15   ## 15,01|14,15  15,01 """14,15  ##  15,01"14,15   ##      ##00,01@@14,15##     15,01mm "m  m" mm14,15  ##    15,01m14,15 ##    ##  15,01|
+14,15 ##00,01@@14,15##     15,01mmm """14,15 ###00,01@@14,15##  ##  ##    15,01|14,15##   15,01m "  m14,15   ##00,01@@14,15##  ##00,01@@14,15## #  15,01|14,15 
+14,15   ##15,01 mmm m          ""14,15##15,01  mm mmm ""14,15  ##   ##  15,01  14,15##     ##  15,01""" mm |14,15#00,01@14,15## 15,01|
+14,15 15,01|14,15   15,01 14,15#15,01                 "        ""m "14,15   ##00,01@@14,15## 15,01 |00@14,15## 15,01|14,15   15,01"  "     14,15  ##  
+14,15##   15,01 "       m                     14,15 15,01 |14,15    ##  15,01|| 14,15##    #15,01| 14,15#15,01     m14,15#15,01"""  mm
+14,15    #15,01 "   mm14,15##15,01|                  mm" m14,15    15,01"14,15     15,01 |14,15   ##   15,01m "mm        14,15 # 
+14,15 15,01m14,15   ##       15,01        mmm   " """ mm14,15  ##    ## 15,01  14,15  ##00,01@@14,15##   15,01mmm """ m  14,15 # 
+14,15  ##       ## 15,01         "14,15##    15,01"14,15     ##00,01@@14,15##   15,01" m  "14,15  ##      ##    15,01mmm ""14,15 
+14,15##00,01@@14,15##  ##15,01|00@@14,15 15,01          |14,15  ##   ## #  ##  15,01"" m"   m ""14,15   ##    15,01"14,15   ##   15,01mm
+14,15  ## 15,01 m   ""14,15##15,01|      " m 14,15##00,01@@14,15##   #00,01@14,15#15,01""" mm""        m  """14,15 ##   ##00,01@@14,15##  ##15,01m
+14,15     15,01 m  "    "          14,15  ##  15,01     m  m         m     " m mm """14,15  ##15,01|14,15 #   ##
+14,15 15,01|14,15  #15,01 14,15#15,01       14,15 15,01" " mm14,15  15,01| 14,15   15,01""" mm14,15   15,01 ||         |14,15  15,01mm       """mm "14,15     ##00,01@@14,15#
+14,15   #00,01@15 14,15#15,01       " 14,15   ##  15,01| 14,15 15,01|14,15 15,01 14,15#00,01@@14,15##  15,01| 14,15#15,01        " |14,15 ##    15,01         14,15 15,01 |14,15 15,01"14,15    ## 15,01|
+14,15#   #15,01 14,15 15,01 m Cl! " 14,15 ##00,01@@14,15##15,01| 14,15  #15,01 14,15 ##  # 15,01| 14,15#15,01        14,15#15,01 |14,15#   ## 15,01      mm" m14,15   ##     
+00,01@14,15#   15,01 "   mmmmmmmm14,15 ##   15,01 |14,15##15,01mmm14,15    ##15,01 ||      || 14,15   ##  15,01mmm  "" mm14,15   ##00,01@@14,15##  
+14,15#   ##       ##  15,01m14,15   #15,01|14,15 15,01| 14,15 #00,01@@14,15##     15,01| 14,15 15,01      m |14,15 ##00,01@@14,15##  ##    ##  #  ##  15,01"
+14,15  ##00,01@@14,15##   ##00,01@@14,15##  ##00,01@14,15#  15,01 "14,15 ## 15,01m14,15  ##  15,01  m    m" 14,15  15,01"14,15 ##  #15,01|14,15    ##00,01@@14,15##    15,01""  "
+14,15    ##   ##15,01"""""""""""14,15  ##15,01m  """"""14,15 ## 15,01m    " m14,15 ## 15,01""""""14,15  ##   ## 15,01"""   "
+14,15   15,01"""  mm    14,15#15,01  """ mmm  ""m  ""      ""m  m""      ""  mm       mm"  """
+15,01    14,15   15,01       "                                                        14,15   
+14,15 15,01"" 14,15 # 15,01 """"" 14,15 15,01 """""""""""""""""""""""""""   """""""""""""""""""""""" 14,15 # 15,01 ""14,15 
+14,15#15,01   14,15 00,01@14,15 15,01     m14,15  #15,01m                                                      14,15 00,01@14,15 15,01   14,15 
+14,15#15,01   14,15 # 15,01    |14,15## 15,01"14,15 15,01|     e -- P -- S -- i -- L -- O -- n                 14,15 # 15,01   14,15#
+14,15 15,01   14,15   15,01     "14,15## 15,01"                                                      14,15   15,01   14,15 
+14,15 15,01   mmm                                                                mmm   14,15 
+14,15 15,01                Put Here The Release Name - (c) Company Name                14,15 
+15,01m   mmm                                                                mmm   14,15 
+14,15#15,01                                                                            14,15#
+14,15 15,01         rELEASe dATe [..xx/xx/2ooo] - pROGRAm tYPe [.............]         14,15#
+14,15 15,01   """   cRACKEr [.................] - pROTECTIOn [...............]   """   14,15 
+14,15#15,01         sUPPLiEr [................] - aRCHiVe pACk [.............]         14,15 
+14,15#15,01   """   pACKAGEr [................] - diSKSEt iNFOs [EPSXXX01.ZIP]   """   "
+14,15 15,01   14,15   15,01   tESTEr [..................] - diSKSEt iNFOs [EPSXXXXX.ZIP]   14,15   15,01   14,15 
+14,15 15,01   14,15 # 15,01                                                                14,15 # 15,01   14,15#
+14,15 15,01mm 14,15 00,01@14,15 15,01 mmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 14,15 00,01@14,15 15,01 mm14,15 
+15,01    14,15 15,01#14,15 15,01                                                                14,15 15,01#14,15 
+14,15 15,01"" 14,15 00,01@14,15 15,01 """"""""""""""""""""""""""""""""""""""""""""""""" """""""""""" 14,15 00,01@14,15 15,01 ""14,15 
+14,15 15,01   14,15 # 15,01                                                                14,15 # 15,01   14,15#
+14,15#15,01   14,15   15,01   r -- E -- L -- E -- A -- S -- E      i -- N -- F -- O -- s   14,15   15,01   14,15 
+14,15 15,01   mmm                                                                mmm   "
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01   mmm   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   mmm   14,15 
+14,15#15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15#
+14,15#15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15#
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+15,01m   """   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   """   14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01   """   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   """   14,15#
+14,15#15,01   14,15   15,01   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   14,15   15,01   14,15#
+14,15#15,01   14,15 # 15,01                                                                14,15 # 15,01   14,15 
+14,15 15,01mm 14,15 00,01@14,15 15,01 mmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 14,15 00,01@14,15 15,01 mm14,15 
+15,01    14,15 15,01#14,15 15,01                                                                14,15 15,01#14,15 
+14,15 15,01"" 14,15 00,01@14,15 15,01 """"""""""""""""""""""""""""""""""""""""""""""""" """""""""""" 14,15 00,01@14,15 15,01 ""14,15 
+14,15 15,01   14,15 # 15,01                                                                14,15 # 15,01   14,15#
+14,15#15,01   14,15   15,01   i -- N -- S -- T -- A -- L -- L      i -- N -- F -- O -- s   14,15   15,01   14,15 
+14,15 15,01   mmm                                                                mmm   "
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01   mmm   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   mmm   14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15#
+14,15#15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15#
+14,15#15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15#15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+14,15 15,01         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         14,15 
+15,01m   """   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   """   14,15 

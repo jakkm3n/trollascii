@@ -1,0 +1,44 @@
+
+14,01      01warning do not operate heavy machinery while looking at this ascii
+
+
+
+
+15,01                        11_____15 11____________________ ________ 
+15,01                     11__/15    11 \15    11  \___ 15 11\15     11  \15   11_____|
+15,01                    11/15  11\15  11\__/_15 11  __/ ( )  \_15 11  __/15   11__|  
+15,01                    11\_____/   /   \(________)   \15 11\______|
+15,01                    14         11 \___/14         11\___/15 14              
+15,01                           11 15   11          _______
+15,01                               11    _____/ 15 11____/
+15,01                                  11/  _  \15 11  __/
+15,01                                 11(  (_)  )  \15 11 
+15,01                                  11\_____/___/
+15,01                      11       15  11    15     11    .  15             11___
+15,01               11__________ __ ___     ___:   :  _____ ______/15   11\
+15,01               11 \15   11_____|  |15  11 |___|  15 11|  15 11| /  _  \15      11\ __/
+15,01                11/15   11__|     :15  11/ 15  11 15 11\15  11  15  11||  (_)  )15  11 __/ 15 11 \
+15,01                11\______| \_____\15   11__/__|___|15 11\_____/____|15 11\___/
+15,01                    00s t a t e15  11/15   11\15  00o f  e u p h o r i a
+15,01                               11\___/
+15,01                             11          
+
+15,01    11void distribution site . doa distribution site . mad distribution site
+14,01      01warning do not operate heavy machinery while looking at this ascii
+15,01    11  image world HeadQuarters15 11.15 11vor member board15 11.15 11isd distribution site
+14,01      01warning do not operate heavy machinery while looking at this ascii
+15,01    11evolution member board . tempest distribution site . union member board
+14,01      01warning do not operate heavy machinery while looking at this ascii
+15,01    11remorse15 11southern HeadQuarters15 11.15 11union member board . shiver member board
+14,01      01warning do not operate heavy machinery while looking at this ascii
+15,01    11   iCE member board . tso/watchdog member bosrd15 11.15 11broken member board
+14,01      01warning do not operate heavy machinery while looking at this ascii
+15,01    11       15   11sight seven one three network15 11. twinglenet(c) network
+
+
+
+
+
+
+10,01                    15  10this is a nightrain production 
+15,01>

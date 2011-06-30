@@ -1,0 +1,23 @@
+15,01                02/25/94
+15,01------====Iniquity Net Echo Listing====------
+15,01    +---------------------------+                +---------------+
+15,01    |   General Bases & Topics  |                | Group Support |
+15,01+---+---------------------------+-----+ +--------+---------------+---------+
+15,01| BAD_BLUE  --$ Blue Tent/General Chat| | BAD_2600  --* 2600 Affiliation   |
+15,01| BAD_PSRL  --- Religion              | | BAD_ASKi  --- ASKi Support Echo  |
+15,01| BAD_SALE  --- Trade & Barter        | | BAD_SKYZ  --% SKyZ Ansi Group    |
+15,01| BAD_OTHR  --- Teletrial/Other Disc. | +-------+------------------+-------+
+15,01| BAD_BBS   --- Modeming & BBS ads    |     +---+------------------+----+
+15,01| BAD_MUSK  --- Music & Movies        |     | BAD_SYSP #$ INI.Net SysOps|
+15,01| BAD_WARE  --- Software & Hardware   |     | BAD_TEST -$ Test/Mail Help|
+15,01| BAD_INET  --- Internet              |     | BAD_SUGT -$ Net Suggestion|
+15,01| BAD_DRUG  --- About Drugs           |     +---------------------------+
+15,01| BAD_NEWS  --- Local/National News   | -Bases marked with '%' are NEW!!!
+15,01| BAD_JOKE  --- Jokes & Oneliners     | -Bases marked with a '$' are required.
+15,01| BAD_PHIL  --- Philosophy            | -Bases marked with a '#' are for the
+15,01| BAD_PCOS  --- Comp. Operating System|  Iniquity Net SysOps & CoSysOps only.
+15,01| BAD_WX    --X Weather Pics/Info     |  No Visiting SysOps or CoSysOps.
+15,01| BAD_CELL  --- Scanner/Cellular Desc.| -Bases marked with a '*' are for those
+15,01| BAD_VIRU  --* Virus Discussion      |  users who deserve the access to them
+15,01| BAD_SECU  --- Computer Security     | -HUB's are required to carry all echos.
+15,01+-------------------------------------+ -Bases marked with "X" are READ-ONLY!

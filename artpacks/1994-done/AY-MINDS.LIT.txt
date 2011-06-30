@@ -1,0 +1,17 @@
+15,01                           00Wounded Minds
+
+14,01A per13son waits 14outs13ide a room, from 14whenc13e a doctor wi14ll come.
+14,01A fr13i04end or rel13a14ti13v04e matters not, a 13l14oss 04is what will 13h14appen.
+14,01This 04one 14cri04es 13o14ut 04in silence, seeki13n14g a13n 04escape.
+14,01A me13n04tal escape 14f13o04r 13his t04ortu13r14ed m13i04n13d 14an13d 04ove14rwork04ed e13m14otions.
+14,01A do13c04tor come13s 14from the 13o04pera13t14ing room t13a04kes off his 13b14loodied gloves,
+14,01and 13a 04fro13w04n is 13h14idden be13h04ind 13t14he mask, w13h04ich 13watched a 14person die.
+14,01Comm13o04n is 13t04his 13i14n the ho13s04pita13l 14ward, mor13e 04tha13n 14the cries of mourners.
+14,01Dead 04and 13d14y13i04ng b13r14eed onl13y 04orp13h14ans and co13r04pses 14but do lie.
+14,01Each 04bloo13d14ie13d 04glo13v04e means one less pa13r14en13t04, a 13g14rave in a child's life.
+14,01For o13nce 14wher13e proud and radiantly st14ood, 13now 14lives a wounded mind.
+
+15,01                                     06[13Apothecary06]
+
+15,01>SAUCE00Wounded Minds                      Apothecary          READ THE INI FILE
+15,01   19940727tA  @@P v                             

@@ -1,0 +1,80 @@
+15,01                                             .
+
+15,01                           .
+15,01                           .                 .
+15,01                $""""" ,  " ;,. """""""""""  .  """""""""""""$
+15,01                $  _.,s8    SS8,g@82"~"28@g,_,g@82"~"28@g, . $
+15,01      .    ..  .,a@S8MSS_.,sX2SSMSl     82""'SM$S     lXXSP. S
+15,01             yyyyy yyyyygygyyyggg$ggggggggggg$gggggyyy yyyyy yyyy
+15,01                l   l&&i   &&S&;SSMWgggSSM8SSM&&S       _,gX ;
+15,01                ;   ;lSM   +2"~~"2+'"28S@s, `7S8S@ggp@SMMWSl .
+15,01             :: : ;,lSMS   ,g@XX@g,   lSS8MS@g`7SSM8XXMWSS2' .
+15,01                 _.7S8$S  ;SS8M$WSSg,_`2SXXMWSP2"' ""  "   xxxxxx xx.  ".   .
+15,01      .  .. .,g@S88MSS2'   `2SXXM&XMSSS2""                   ;
+15,01            `""2SXS2'  mmmmmm mmmmmmmmmm mmmmm  mm m  mmmm  m$
+15,01                 '        ``    ''''`
+15,01                        kresile iesone of basic ascii
+15,01                 .
+15,01                 .                   8
+15,01                                     8   gmmmmmmg
+15,01                                     8mmm8mmmmmm8
+15,01                               gmmmmmmmmm8
+15,01                 .             8mmmmmmmmg
+15,01                                        8
+15,01                                        8
+15,01                                      mm8
+15,01                                      `
+15,01          this small collection was created for basic pack numero seis
+
+
+
+
+15,01  logo >> ba!                                  for >> muh boys at basic!
+15,01                                                                      .
+15,01                                                ,
+15,01       ,_                   >>   >     basic!   8,       >>          >
+15,01       ;8@+g,._                                 MXS@+mggggm@S8g,.
+15,01       lilS8M8SS,                   *           SSSMM88&$$$&&SS8S     .
+15,01       lS888$M8Sl2"~   ~"2+g,_ '       ,        illMMSS88SSWMlli;
+15,01       M&&MM8M$$W       .7SS98M,,.     l,_      ;illSS88XM88SSli;
+15,01       SSSS&$8&SS     ,7 88M8SMP,;P, ,iS8Sl;,   :lSSS&&$$XSSSlii:
+15,01       ;illlSSlli   ,7&& MM$SPSSl;',lS88MW8SSP,  ;S888MW&&MMSSl;
+15,01    y yyyyy yy yyyyyyyy yy yyyyyy yy yyyyy y yyyyyyyyy yXX$yyyy yyyyy .yy y
+15,01       lSS8$$$8Sl, SSM&& 8SSPMWSli `SSS8M$XXSSS$l lS$$XXXX$$$$l       .
+15,01       `7S8MWMM8&S,`7lSS M8SS8Sli;;;`7SS88MXXSSP',;ilSS8MXSSli;
+15,01         `7SS88M8lP, `7& XX&&&SPli::l,`2+S$S+2',l$`illS8M88MWl'       ,
+15,01          :SSM8MSS&&l  ` SS88MSSSlll;S8S@mmm@S$8$; lS+"~`"2+M8      _,l
+15,01            `"2+S&&SS    ;lS8MSli;SS&&&SSMMXXMW8Sl ',g@S$8@g,` _,+@S8$'
+15,01    .      ..   -*yyypp8&&M8SSXXXgggpp,`7SS88M8Sli,7S88MXX88lP,`7XKSlP,
+15,01                   `7SS88MMXX888$SSP'  g,`7SSWM8li;iSS&&&SSSSli ;S&8&SS:
+15,01                     `7SSXXMM88SSP'  ,788Sggggggg,`7S8MM&XWSSP',488SlP'
+15,01                       `7SS88SSP'  ,7SS$$$$$$$$$$$P,`2+S$S+2',4SS88P'
+15,01                         `78MP'  ,7SSMMWWMW88$$88S777S@gg @S&&&SlP'
+15,01   kresile iesone          `n  ,7SSMMM888888&MMWW88S&&&&&88SSlli;
+
+
+
+
+15,01 logo >> shat                             for >> asypre's shatter compo
+
+15,01             ~      *      `    ,
+15,01         ' ,g@&88MWWS8l"~'nSg,      ,                  _.,
+15,01      ,l, ;S8MW88SSl'     ,7$$P, ,;l,_  .   .gzzgg,,gSMM8  .gSM88' ,
+15,01    ,4S$;  `lSS88$$S,._.,g4S8MM; ll;' ,  ,g$2'  SS8;SS8lS ;$&&&W8',$Sg,
+15,01  ,4$8S8$P,._`+S8$$S~2SMMSWSl+2'$S' _ gg$' _mm ,l8$$$SS$l $$$$S8',lS88$8,
+15,01,4$$$$$MSSSSP,  `2S$@mmmmmmg$g,.S'yyggggyyl ' `8SSl$&&&$; n'_.,g4$SSS8S2'
+15,01yyyyygy#SSM8Syyy yyyy y  _,$lMlin , `7SS$8P,   lll;SSM8$'  2"""'_,g@,.    '
+15,01`7$SW8$SSS$$SS, 88' _.,g#SS$48P' ,8,_ `S&&8SP,,4$m8SSll;  `   ,&WW$3M8P,
+15,01 `7$8MSSSS$9Sl; l ,;S#SSS6$$2'_,4S8WSl:;lSSS&$;ll&&&8Sli;   ,4SS88$88S$&P,    *
+15,01  `7$M8Sll$$M8l, km  `7SSS8M@g, `nl2' ,S$&&SP' lS8S$$MS8l     `7SS&&&8SS88,
+15,01    `;l8l$$$$$SS, 8kk  8MmM$$$MS, ' ,4S88$P'gg S8&&S$888S,    , `7lS8MM8SSM',
+15,01      $&iilSM&&S; ' gggmmmm&&SSS8mmg88S$8Sl,._ $$$$lS$$SSli,  gg  . `lS8n'
+15,01      l&&SS$$M$8S $_`7S&&&&lliSSS8M$S$P2""""~ $S+2'`7MMS88S$P, `$gg   l'
+15,01      ;SSWMSS$8SS 8$8,`7SS$$$8MSSP' `l'      '       `7$$S2" ~   .    '
+15,01      `SS88MSSli; llS8P,`7&&S&MP'    '      ,g,       `l'
+15,01       WM&&&SM8S$ ;llS$8, `7SP'             `2'        '          *
+15,01       SS8MQ88Sli SSM88S$P, '                   ,gS$Sg,                 .
+15,01               `2 `7&$$$$P' .                  :$$$$$$$;    o
+15,01                  . `S8M'              '        `2+S+2'
+15,01                '                                              ,
+15,01  ki_basic             * ,

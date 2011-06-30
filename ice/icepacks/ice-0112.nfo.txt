@@ -1,0 +1,76 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                  D  E  C  E  M  B  E  R        2   0   0   1
+15,01-------------------------------------------------------------------------------
+
+15,011.  We get to start the new year off with a joyful announcement.   We'd love to
+15,01    welcome DJ MonkeyBoy to iCE!  Despite the name,  he's really a cool guy and
+15,01    we're going to enjoy bringing his art to you.  We had to tell him no on the
+15,01    photo-mosiacs from his recent trip to Dover, Delaware, but his other stuff,
+15,01    well, aside from his award-winning "Most Filtered 2001"  pic and his  "Lens
+15,01    Flare Olympics" pics, are all really impressive.  (See, it pays to join iCE
+15,01    on months where we accept more than one person.   That way you only get 1/N
+15,01    of the made-up abuse, rather than all of it)
+
+15,012.  Three new quilts  coming  your way  this month!  Yeah, those crazy  awesome 
+
+15,01    members  of  tiles.ice.org  are  cranking  them  out.    This  month  is  a 
+
+15,01    spree-quilt (a quilt that is done in a few days, ideally) called  "Animalia 
+
+15,01    Artifegibus Multis Creatur", and  our large "M. C. Escher"  tribute  quilt.
+15,01    Finally,  we have our  fantastic "Train Ride"  quilt in a cool  flash form.
+15,01    Once again we prove that collaborative artwork kicks more ass than empyrean
+15,01    kicks mad phat beats.
+
+15,013.  Bit of an  announcement  this  month...  it  seems as  though  Gecko  wants 
+
+15,01    everyone  to know that  she thinks cabbage  is sexy.   And she  shares some
+15,01    warm fuzzies with you.
+
+15,014.  Be sure to  check out our  tutorial by Mongi  this month.  It's a fantastic 
+
+15,01    step-by-step on how  to draw a portrait  (much like last month's, but until
+15,01    you guys do it right we'll just have to keep trying to teach it :).  Thanks
+15,01    Mongi, you get a gold star sticker on your report.
+
+15,015.  Also  this  month, see  our  interview  with  Tetanus.   Tim  is  a  really 
+
+15,01    interesting artist, and he has some things to say.  So go check it out.
+
+15,016.  Be sure to check out our flash animations this month, from DJ MonkeyBoy and
+15,01    our Train Ride quilt.  DJ MonkeyBoy has given us a great vector pack for
+15,01    everyone to share and enjoy - you're free to take his vector art and do
+15,01    whatever you want with it.
+
+15,017.  Apologies for the few  extra days to get the pack out.   We Staffers were a 
+
+15,01    enjoying our New Years a  bit too much, and then it took an extra couple of
+15,01    days to get the flash stuff all finished up.  You have our apologies!
+
+15,018.  That's all - enjoy the pack!  Seeya next month!
+
+15,01Wishing you a disease-free new year,
+15,01     Slothy and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01                      Lord Soth                    Root88
+15,01-------------------------------------------------------------------------------

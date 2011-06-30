@@ -1,0 +1,49 @@
+15,01+---------- --- -- -  .                                                       +
+15,01|      +----++----++----++---+-++--++--+ ++---+--+     +----++----++----+      
+15,01|      |  +-+|  + ||  + ||  ++ ||  ||  | ||  +++ |     |  + ||  + ||  + |      
+15,01|      |  +-+|  +-+|  + ||  || ||  ||  + ||  | | |     |  + ||  +-+|  +-+      
+15,01|      +----++--+ ++--+-++--++-++--++----++--+ +-+     +--+-++--+  +--+        
+15,01+ .                                                                         . +
+15,01                        Application o9/12/94 .NFo FiLE                        |
+15,01+                                                       .  - -- --- ----------+
+
+
+15,01 well this is our application generator. fill it out, send it in, and we 
+15,01 will decide if your cut out to be a member of CRANiUM PRODUCTiONS.
+15,01 we will decide on your application, probably over a couple of hamburgers 
+15,01 from Checkers(tm), so hope that the serve us good food.
+
+15,01 id like to thank AKiRA for takin the time to code this app gen. 
+15,01 
+15,01 id like to also thank all those lamer groups out there, whos shitty work
+15,01 has inspired me to start CRANiUM.
+
+15,01 zaijian..........................clorox cowboy (founder and artist/CRANiUM)
+15,01 
+15,01--------<CUT HERE>---------------<CUT HERE>------------------<CUT HERE>-------
+15,01 well this is going to be quick. . .
+
+15,01 i coded this thing in about an hour and a half so don't expect much from it!
+15,01 ( well, it's not certainly not bad . . . in fact, i like it <grin> )
+
+15,01 since asphyxia developments coded this sucker i think it deserves some
+15,01 credit and here is the place to do it . . .
+
+15,01 since clorox cowboy wanted me to do this for his group, i shall grant the
+15,01 copyright between us . . . afterall, he did do the grafix
+
+15,01 of course you lamers out there can go ahead and copy my work but remember
+15,01 me everytime you run your app generator!!  it'll be on your conscience
+15,01 forever!! :>
+
+15,01 anyway not much to say tis too late . . .
+
+15,01 sayonara.........................akira (primary coder/cranium and asphyxia)
+
+15,01--------<CUT HERE>---------------<CUT HERE>------------------<CUT HERE>--------
+15,01Technical Info:
+
+15,01This entire program was coded in Pascal, aside from Chicken's HSC routines.
+15,01Thanx to him for those wonderful routines, since it's extremely difficult to
+15,01find HSC files much less a PLAYER!  If anyone can get ahold of these, GET
+15,01AHOLD OF ME!  You can contact me on my BBS at 4o77738485

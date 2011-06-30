@@ -1,0 +1,72 @@
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - The OFFICIAL UNiON Only Network - Compiled 05/31/94 - v007
+15,01;----------------------------------------------------------------------------
+15,01;
+15,01; Current Nodelist Coordinator: Neurotic [UNiON Senior] (It's my bday, yay)
+15,01;
+15,01; What's New - Um. Almost everything.
+15,01;
+15,01Zone,193,Programmed_Illusion,UniNet,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v
+15,0142b
+15,01;
+15,01Region,214,Programmed_Illusion,Main_Hub,Neurotic,1-613-824-7375,9600,CM,XA,v32,v
+15,0142,v42b
+15,01,1,Programmed_Illusion,Canadian_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v4
+15,012b
+15,01,2,Flatlined_Reality,World_HQ,Nailz,1-613-224-8279,9600,CM,XA,v32,v42,v42b
+15,01,3,Metal_Edge,Member_Board,Stone_Angel,1-613-521-7366,9600,CM,XA,v32,v42,v42b
+15,01,4,Eternal_Nightfall,US_HQ,Shadow_Hawk,1-412-439-2831,9600,CM,XA,v32,v42,v42b
+15,01,5,Compton,Canadian_Dist,Evil_Misfit,1-905-825-2623,9600,CM,XA,v32,v42,v42b
+15,01,6,Rash_Reflections,Canadian_Dist,Coluche,1-514-635-4043,9600,CM,XA,v32,v42,v42b
+
+15,01;
+15,01Region,215,Exiled_Race,WesternUS_Hub,KooL,1-714-527-0327,9600,CM,XA,v32,v42,v42b
+
+15,01,1,Exiled_Race,Western_HQ,KooL,1-714-527-0327,9600,CM,XA,v32,v42,v42b
+15,01,3,Evil_Intentions,US_Dist,Gambit,1-408-298-1920,9600,CM,XA,v32,v42,v42b
+15,01,4,Terra_Firma,Member_Board,Somms,1-714-963-4851,9600,CM,XA,v32,v42,v42b
+15,01;
+15,01Region,216,Harvest_Moon,EasternUS_Hub,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v
+15,0142b
+15,01,1,Harvest_Moon,Eastern_HQ,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42b
+15,01; Pack for 193:216/1, not 193:216/0.. Qur'An's just weird or something :)
+15,01,2,The_Keg,Northern_HQ,Six_Pack,1-914-234-9674,9600,CM,XA,V32B,V42B
+15,01,3,The_Cult,US_Dist,Psyco_Child,1-800-314-1982,9600,CM,XA,v32,v42,v42b
+15,01,4,Primordial_Soup,Member_Board,Psycho_Fiend,1-616-657-5421,9600,CM,XA,v32,v42,v
+15,0142b
+15,01,5,Warner_Studios,Canadian_Dist,White_Noise,1-604-521-6097,9600,CM,XA,V32B,V42B
+15,01,7,Realm_of_Insanity,US_Dist,Tranquility,1-203-627-9429,9600,CM,XA,v32B,v42B
+15,01;
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - Echo_Tags
+15,01;-----------+-------------------------+--------------------------------------
+15,01; Echo_Name | Echo_Description        | Access Given To:
+15,01;-----------+-------------------------+--------------------------------------
+15,01; UNi_GEN   | General Discussion      | All Sites / All Users
+15,01; UNi_DISC  | UNiON Discussion        | All Sites / All Users
+15,01; UNi_REQ   | UNiON Requests          | All Sites / All Users
+15,01; UNi_AD    | BBS Advertisements      | All Sites / All Users
+15,01; UNi_ANS1  | UNiON Ansi Displays     | All Sites / All Users
+15,01; UNi_MEM   | UNiON Members Only      | UNiON Member Boards / Members Only
+15,01; UNi_ANS2  | UNiON Ansi Private      | UNiON Member Boards / Members Only
+15,01; UNi_SIT   | UNiON Sites Only        | All Sites / SysOp + 1 Drop to Dos Co
+15,01; UNi_TEST  | Test Messages           | All Sites / Site SysOps Only
+15,01;-----------+-------------------------+--------------------------------------
+15,01;
+15,01; o UNiON Sites may only carry the bases they are qualified for. If you are 
+15,01;   not a member board, yet you are the only site a UNiON member can be 
+15,01;   reached through, you may carry the UNiON Member Boards Only subs. It is 
+15,01;   still expected for you to restrict the base to the UNiON members only, 
+15,01;   not allowing yourself or any cosysops access to it unless they are UNiON 
+15,01;   members.
+15,01; o All UNiON sites are expected to have a seperate file base set up for the 
+15,01;   pack, (unless your board does not have separate bases for its dist sites),
+15,01;   and a separate conference for UnionNet (unless your board does not have
+15,01;   seperate conferences for each network)
+15,01; o You are expected to give access to all UNiON members who apply.
+15,01; o All sites are asked to please contact me with the correct information for
+15,01;   their nodelist number, ie: maxbaud, v32, etc.
+15,01; o If you need to contact UNiON or me, call my board, Programmed Illusion,
+15,01;   613-824-7375, the main UnionNet hub, the UNiON World Headquarters,
+15,01;   Flatlined Reality, 613-224-8279.
+15,01;                                                - Neurotic [UNiON Senior]

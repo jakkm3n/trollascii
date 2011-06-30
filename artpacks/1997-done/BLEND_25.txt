@@ -1,0 +1,80 @@
+15,01A HANDY CONVERSION TABLE FOR COMPUTER CATCH PHRASES
+15,01By Michael Finley, American Reporter Technology Writer
+
+15,01ST. PAUL -- I was touring a development site for a major technology firm
+15,01last week.  Suddenly, as if to mock the power of all the machines stacked
+15,01everywhere, nature called.  I ducked into an employee-only area, looking for
+15,01a rest room.  Instead I found a bulletin board, with a memo on it that was
+15,01so intriguing that I had to pocket it and retype it here for you:
+
+15,01TO:  ALL ASSOCIATES
+
+15,01RE:  1996 INDUSTRY PHRASE CONVERSION TABLE
+
+15,01As you know, we upgrade our product offerings very frequently.  It is
+15,01important that we remember to upgrade the meaning of industry phrases.
+15,01Attached are phrases which we will continue to use this selling season,
+15,01along with their new meanings.  This bulletin includes nuances as recent as
+15,01March, 1996.
+
+
+15,01* Data backup recommended.
+
+15,01   Used to mean:  "Our technical people are good enough to detect bugs but
+15,01                   not fix them."
+
+15,01   Now means   :  "Our legal people had a good long look at our technical
+15,01                   people."
+
+
+
+15,01* Debugged in beta tests by over 100,000 power users.
+
+15,01   Used to mean: "Before we gave strangers a first glimpse of our product,
+15,01                  we showed it to people who already knew us and valued our
+15,01                  products."
+
+15,01   Now means   :  "Now that we've alienated people we know, it's your turn."
+
+
+
+15,01* DOS-free.
+
+15,01   Used to mean:  "You won't need DOS to launch this operating system."
+
+15,01   Now means   :  "You can't get to DOS now if your life depends on it."
+
+
+
+15,01* Double your disk space -- or better.
+
+15,01   Used to mean:  "You can improve your hard disk capacity up to 300%."
+
+15,01   Now means   :  "Once your data is permanently scrozzled, your new
+15,01                   capacity is virtually unlimited."
+
+
+
+15,01* Easy installation.
+
+15,01   Used to mean:  "Your repairman can stick this in your system for
+15,01                   about $30."
+
+15,01   Now means   :  "Your repairman can stick this in your system for about
+15,01                   $30, plus another $50 to fix the mess you made trying
+15,01                   to do it yourself."
+
+
+
+15,01* Help is just a phone call away.
+
+15,01   Used to mean:  "Our tech support is available 24 hours, offering fresh
+15,01                   advice from flesh-and-blood experts."
+
+15,01   Now means   :  "They were still alive when you dialed."
+
+
+
+15,01* Incredible productivity tool.
+
+15,01   Used to mean:  "One person will be doing the work of 20 with this

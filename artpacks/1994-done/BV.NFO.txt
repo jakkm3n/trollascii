@@ -1,0 +1,19 @@
+
+15,01Hey, i just have a few things to say about the bladevu.. first of all,
+15,01i added in a 640x480x256 pcx viewer.  Uhh, just a few more things about the
+15,01viewer that were never really told.  It has 25/50 line modes, ascii+grey
+15,01scales.  It has full sauce support, and can load over 200 files.  Im working
+15,01on a gif viewer, a rip viewer, scrollback [almost completed], and extended
+15,01vga modes, i.e. 320x200, etc. If you have any comments or suggestions on the
+15,01viewer, or think you can help on what im working on, email on the internet
+15,01at "rzack@wariat.org".  Or call my board, Cybernetic Holocaust,
+15,01216/543/2338.
+15,01Greets:  Qu'ran, Pliny, Sids, ArchMage, everyone else on #ansi [always wanted
+15,01to say that ;)] and everyone that knows me ;).........
+
+15,01                                              .. morpheus (blade)
+
+15,01Note from MC - The viewer now contains RiP support. Its still in testing
+15,01               stages, but generally works fine. If you notice any extra
+15,01               lines or anything that makes it look screwed, please use
+15,01               acidview or the likes to view the rip's in this pak.

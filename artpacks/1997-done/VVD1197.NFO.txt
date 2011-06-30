@@ -1,0 +1,80 @@
+
+15,01                  00#"m#"#|"m#m#m14,00 00,01|m14,00#00,01m m14,00 00,01m15@00mm#m"|15@00"m#m
+15,01             14.p1 00|"11mm 00"|"10mm 00"10mm  11mm 00"  10mm 00"10mm  11mm10mm 00"||
+15,01                00#14,00#11,01|10,11#11@10,10#15,01  14,10   10,01|11|10,10#14 10,01|11|10,11#11@10,10#15,01  14,10   10,01|11|10,10#14 10,01|11,11@@10,10##14  10,01m 00|14,00#
+15,01                 00#|10,11##11@11,01|10|14,10   10,01 11|11,11@10,10#11,01| 10,11##11@11,01|10|14,10   10,01 11|11,11@10,10#11,01||11,11@@11,01"10"14,10  10,01|14,00#00,01|
+15,01                00m|14,00 11,01|10,11##11@10,10#14  10,01| 11|10,11#11@11,01| |10,11##11@10,10#14  10,01| 11|10,11#11@11,01||10,11#11@15,01 11m10,10#14 10,01| 00|
+15,01                 00"#|14,11 10##11@10,10##15,01  11|10,11##11,01|  14,11 10#11@10,10###15,01   10,11##11,01|10,11###11@@10,10#11,01" 00||
+15,01                   00"m11"""" 15@00m 11"" 00m14,00#00,01m11""""  00# 11""  """"  00|"
+15,01                     00"""""  """"   """14,00#00,01"" """14,00#00,01"""#"""
+
+02,01"02,02 01New to the 613 area code02@12,12# 12,01#m#,.
+
+12,01   00What's up all?  ViViD is in the house!  Look at our first pack of art!
+00,01 I'm sure you'll enjoy this fresh stuff, from a new group of guys in a
+00,01 brand new group. With a whole new load of people to the art scene.
+00,01 Anyways ViViD is a rebirth of an art group formally known as MoRBiD.
+00,01 The group sucked so we quit. Lord Sith and I decided to create our own
+00,01 group which just recently started to15 00grow.  Already we are setting up
+00,01 a web page for our group which should be up and running next month...
+
+02,01"14,02 01New members to the scene  12#02@12,12# 12,01#m#,.
+
+12,01   00I'd like to welcome some new people to the art scene.  White Knight,
+00,01 talented Ascii artist, who's practicing everyday to increase his skills.
+00,01 King Nothing, awesome coder and sysop of Digital Empire.  Maniac joins
+00,01 the Ascii and Modding departments.  Lord Sith an awesome ansi artist.
+00,01 Johhny Blaze joins the coding dept.  Dolphin heads up the graphics dept.
+00,01 ShowDown joins the Coding and graphics dept, and last but not least,
+00,01 Codemaster, who joins the ascii dept.  Nacolepsy, ansi.  And Sniper.
+
+01,02m Words of inspiration14      12#02@12,12# 12,01#m#,.
+
+12,01   00Alright, Paranormal Intensity here, anyways I hope you enjoy our 1st pack
+00,01 of art.  I have improved alot since my former MoRBiD group.  I finally
+00,01 got my bbs up and running, well not me becuase I'm too cheap to afford my
+00,01 own line :P. ShowDown is running my bbs and is also the sysop so it's all
+00,01 good.  Alright datz da shit l8r.15          00- Paranormal Intensity
+
+00,01   Hi, since I run the mango platoon wich is FiRE's Distro, Paranormal
+00,01 thought it would be good if I said something.  Anything.  So here I am!
+00,01 Ok FiRE is a modding group started by ViViD, and we are looking for any
+00,01 one interested in joinging this modding crew.  Experience not necessary,
+00,01 although it does help.  We are currently modding Iniquity and Renegade,
+00,01 but if you know any other program you're good at modding, come join us!
+00,01 I guess this is all I had to say...15       00- Maniac
+
+01,02m Words from the members14    12#02@12,12# 12,01#m#,.
+
+12,01   00Dolphin - "Hello everyone what's up?  It's good to be back in
+00,01 15  00the art scene again I'm glad we quit MoRBiD, they sucked."
+
+00,01   Paranormal Intensity - "Alright, well anyways, of course we rule, and
+00,01 15  00if not, you get to look at a pack of crap every month.  Morbid Sanctions
+00,01 15  00is up, call it now!"
+
+00,01   Codemaster - "Hey everyone what's up?  I'm glad to be joining the group,
+00,01 15  00anyways I'm gonna go find the meaning of life, l8ah!"
+
+00,01   ShowDown - "I like eating ... nothing else."
+
+00,01   King Nothing - "Metallica Forever!!"
+
+00,01   Lord Sith - "Maybe... Just MAYBE I could... maybe, you know?  I might.
+00,01 15  00No, I probably will.  Seriously.  Maybe."
+
+02,01"02,02 01Our members (alphabetical)12#02@12,12# 12,01#m#,.
+
+12,01 00Codemaster15                    00- Ascii, Hpavc
+00,01 Dolphin15                       00- BMP Artist
+00,01 Johnny Blaze15                  00- Coding
+00,01 King Nothing15                  00- Coding, Modding
+00,01 Lord Sith15                     00- Coding, Ansi
+00,01 Maladjusted15                   00- Literacy
+00,01 Maniac15                        00- Ascii, Modding, Literacy
+00,01 Nacolepsy15                     00- Ansi
+00,01 Paranormal Intensity15          00- Ansi, Ascii, Hpavc, Modding
+00,01 Rhythm Rebel15                  00- Tracking
+00,01 Savath15                        00- Hpavc
+00,01 ShowDown15                      00- Coding, GIF, JPG artist.
+00,01 Sniper15                        00- Modding

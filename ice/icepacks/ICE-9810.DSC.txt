@@ -1,0 +1,53 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 10/31/1998
+15,01###############################################
+15,01ice-9810.sit,ANSI,iCE 98/10 Sites,iCE Senior Staff
+15,01ice-9810.nfo,ANSI,iCE 98/10 Info File,iCE Senior Staff
+15,01ice-9810.mem,ANSI,iCE 98/10 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01c0-l1098.ice,ANSI,Logos,Count Zero
+15,01c0-salt.ice,ANSI,Salt,Count Zero
+15,01g1-bird.ice,ANSI,Psychadelic Bird,Gloss
+15,01in-sreal.ice,ANSI,Surreal,Inazone
+15,01pa-logo1.ice,ANSI,Logos,Parasite
+15,01tg-1c398.ice,ANSI,iCE,Toon Goon
+15,01ti-1472.ice,ANSI,Life in 1472,Trip
+15,01us-axlm.ice,ANSI,iCE,Multiple Artists
+15,01us-cia.ice,ANSI,CiA,Multiple Artists
+15,01v9-dia.ice,ANSI,Diagram,Vade 79
+15,01v9-ice.ice,ANSI,iCE,Vade 79
+15,01bh-ice1.rip,RIP,iCE,Blenderhead
+15,01bh-ice2.rip,RIP,iCE2,Blenderhead
+15,01sq2-lg23.ice,ANSI,Logos,sq2
+15,01tnt-psy.ice,ANSI,The Fall,Tainted X
+15,01tnt-isem.ice,ANSI,iCE Seminars,Tainted X
+15,01tnt-05.ice,ANSI,Logos,Tainted X
+15,01us-woe.ice,ANSI,Woe,Multiple
+15,01us-vill.ice,ANSI,Village,Multiple Hmm's
+15,013d-dfght.jpg,Dogfight,Tiny3d
+15,01cg-prsnt.jpg,Present,Cheese Grater
+15,01dm-evasn.jpg,Evasion,Darkmage
+15,01dm-templ.jpg,Temple,Darkmage
+15,01dm-ultm8.jpg,Ultim8,Darkmage
+15,01dm-uwcst.jpg,Underworld Castle,Darkmage
+15,01dv-diana.jpg,Huntress Diana,DaVinci
+15,01mi-h98.jpg,Halloween 98,Mongi
+15,01pn-dnce1.jpg,Dance 1,Pnakotic
+15,01pn-dnce2.jpg,Dance 2,Pnakotic
+15,01pn-intr.jpg,pn-intr.jpg,Pnakotic
+15,01rk-snriz.jpg,Sunrise,Roadkyll
+15,01rl-alien.jpg,Fidget,Rogue Leader
+15,01rl-lazy.jpg,Unfinished Projects,Rogue Leader
+15,01sq2-eyce.gif,iCE,sq2
+15,01sq2-ins.jpg,Insane Creators...,sq2
+15,01sq2-reg.jpg,Reg,sq2
+15,01ss-chase.jpg,Chase,Steven Stahlberg
+15,01st-me.jpg,What do you see?,Shoten
+15,01tk-todem.jpg,Things Far Hidden,The Knave
+15,01tw-drals.jpg,Drale's Home,Tim Wallace
+15,01tw-net.jpg,Welcome to Netburgh,Tim Wallace
+15,01tw-seris.jpg,Serious 3d,Tim Wallace
+15,01us-chmbr.jpg,The Chamber,Multiple Artists
+15,01us-sos.jpg,Sunset over Saturn,Multiplicity
+15,01ve-jstce.jpg,iCE,Vesalius
+15,01xt-oh.jpg,Our House,Xten

@@ -1,0 +1,80 @@
+15,01-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+15,01       Project Underground Alliance - A Proposal for Change
+
+15,01-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+15,01This letter originated from U.A. WHQ, Tactical Command ][
+15,01                                     Operation Underworld 215.493.6282
+
+15,01     Hated by those they wished to rescue, despised by those they were
+15,01dying to save, these grand soldiers, these immortal deliverers, have fought
+15,01without thanks, labored without applause, suffered without pity, and they
+15,01have died execrated and abhorred. For the good of all they accepted isolation
+15,01and criticism. They gave up all, sacrificed all, lost all, but truth self-
+15,01respect and honor. These are the hackers, pirates, couriers, artists,
+15,01writers, phreakers, coders, anarchists, and sysops that have made the
+15,01Underground Alliance a reality. Through this document, they shall never be
+15,01forgotten.
+15,01     Greetings, this text has been assembled and distributed throughout BBS's 
+15,01enclosed in archived files and throughout internet in order to explain what 
+15,01the Underground Alliance is, why it was created, and how it works. Before an 
+15,01explanation of the U.A. is given, let us summarize the current BBS "scene".
+15,01Throughout todays Cyberspace, one can find a large variety of BBS's that
+15,01carry support for hacking, phreaking, carding, virii, warez, artwork and text
+15,01files in some degree and form. These BBS's like it or not collectively makeup 
+15,01the computer underground. The sysop's and users all share the same general 
+15,01belief that the world of computers and telecommunications should be accessible 
+15,01regardless of cost and that they have the right to access information. 
+15,01Unfortunately, the similarities between these BBS's, sysops and users cease 
+15,01here, for most boards are independent, isolated and therefor severely limited 
+15,01in their abilities to provide security for their users and provide the 
+15,01facilities by which to share the collective knowledge of the underground. Some 
+15,01boards seek to solve these faults through sister boards, nets and affiliations 
+15,01with groups specialized in talents such as cracking, hacking, artwork and file 
+15,01distribution. These measures however well meant and noble in purpose are 
+15,01ineffective at best and in most cases lead to further isolation or worse, to 
+15,01the terminal disease called eliteness. Eliteness is very prevalent in 
+15,01Cyberspace today and has created a landscape on which the telecommunications 
+15,01highway of the future can not be built. This disease has created an 
+15,01intolerable situation by which knowledge is kept from the masses by the few 
+15,01in a futile effort to become famous and powerful. One must be careful, 
+15,01however, not to confuse eliteness with good security practices insuring that 
+15,01those who wish to obliterate the BBS scene are shut out from it or the attempt 
+15,01by a sysop to set a standard for his user base. Aside from the disease of 
+15,01eliteness, the ego of todays sysop has been almost as destructive. Almost 
+15,01every BBS is very customized and run by the sysop who in many cases acts like 
+15,01god almighty himself. Although various BBS themes and layouts help make 
+15,01Cyberspace as diverse as it is, a sysop who acts on his own a and not in the 
+15,01best interests of his users is usually a doomed sysop. BBS's that are not 
+15,01created for the users live short lives. Sysop's also have the tendency to 
+15,01strive for the best board in the world, which is admirable in itself but 
+15,01usually leads into a cycle of exclusion and isolation. By having examined but 
+15,01a few of the current problems of the current BBS "scene", one can see the 
+15,01intolerable situation at hand, but now that we have identified some of the 
+15,01problems that plague the BBS world a cure can begin to take shape.
+15,01    The Underground Alliance is just what it seems, an alliance of BBS's who 
+15,01share the beliefs and knowledge of the underground. The Underground Alliance 
+15,01consists of BBS's who adhere and follow the directive and regulations listed 
+15,01below in an effort to provide an unprecedented level of security and 
+15,01communication among BBS's; this is no lose alliance. At the core of the 
+15,01Underground Alliance lies the U.A. Net and Congress, the primary means of 
+15,01communication and government for the Underground Alliance. The U.A. is 
+15,01controlled by those who make up it's ranks, the sysop and users in a congress 
+15,01styled atmosphere where speed and efficiency are maximized at all times. The 
+15,01mandates of the congress are carried out by the sysop's of the boards in U.A.
+15,01The congress oversees all U.A. operations and attempts at all times to carry 
+15,01out the operational directive of the underground. Basically, the Alliance has 
+15,01set forth and enforces regulations in an attempt to standardize security 
+15,01procedures and to ensure that the exchange of underground information can take 
+15,01place efficiently and effectively. Often times a sysop will ask, since I am 
+15,01agreeing to follow your regulations, what's in it for me? To answer that 
+15,01question in full, this text would be long winded to say the least, but some 
+15,01examples can be given. The Underground Alliance provides full protection to 
+15,01all member board through the blacklist and teletrial system, as well as the 
+15,01mandates of the congress which can if need be, declare war and shut down an 
+15,01external threat. The Underground Alliance requires all member boards to have 
+15,01a standardized new user process, usually a specific infoform or other 
+15,01information that must be answered correctly before a user is allowed into the 
+15,01U.A. and a requirement that all new users are checked against the current U.A. 
+15,01blacklist; this not only provides the same level of security throughout the 
+15,01net, it creates an environment conducive to the spread of underground 
+15,01knowledge. The Underground Alliance through the U.A. net provides a huge 

@@ -1,0 +1,62 @@
+15,01@       File Menu                                                               
+15,01                                                                                
+15,01                                                                                
+15,01                       xfile                                                    
+15,01    xFILE    
+15,01%%MENUPMT3                                                                      
+15,01                                                                                
+15,01                                                                                
+15,01               *s50                                      xMAIN    @*@@@@@@      
+15,01                                                                                
+15,01                Flag filefile                      ^Add a file to your batch    
+15,01                                          @+             *s50                 14,15@15,01F
+15,01+                                                                        
+15,01Edit filesfiles in current area    '[sysop] Edit files in current file area     
+15,01                          14,15@15,01/E            xs250                14,15@15,01*Y               
+15,01                                                         *Sort file areasAreas  
+15,01             :[sysop] Sort current/all file areas (by default sort spec)        
+15,01    14,15@15,01/S            xs250                14,15@15,01*S                                     
+15,01                                   <Local file uploadpload             1[sysop] 
+15,01Upload files locally in current file area                     14,15@15,01/U            xs2
+15,0150                14,15@15,01*%                                                           
+15,01             >Change file areaArea                Select a new file area from li
+15,01st                                      @A             *s25                 14,15@15,01FC 
+15,01                                                                       
+15,01Batch editommandArea               (Add or remove files flagged for download    
+15,01                          @B             *s25                 14,15@15,01FB               
+15,01                                                          Download filea file   
+15,01             %Download a file (or file(s) in batch)                             
+15,01    @D             *s50                 14,15@15,01FD                                     
+15,01                                   *Filespec searchname)               :Scan cur
+15,01rent/all areas for a specified filespec (and list)            @F             *s5
+15,010                 14,15@15,01FF                                                           
+15,01             >File informationtion               &Display information on a speci
+15,01fic file                                @I             *s50                 14,15@15,01FI 
+15,01                                                                       MJoin fil
+15,01e confConference           vChange to a new file conference                     
+15,01                  @J             *s25                 14,15@15,01FJxList                  
+15,01                                                 
+15,01List filesiles in Current Area     2List files in current file area (if there ar
+15,01e any)                    @L             *s25                 14,15@15,01FL*Ask           
+15,01Newscan areasile areas             :Scan for new fiiles since your last call (or
+15,01 pointer date)            @N             *s50                 14,15@15,01FN               
+15,01                                                                Quit menuCurrent
+15,01 Menu              "Exit the file menu, return to main                          
+15,01          @Q                                  14,15@15,01-^xMAIN                          
+15,01                                         >Set newscan dateDate               3Up
+15,01date your newscan date pointer to a specific date                   @S          
+15,01   *s25                 14,15@15,01FS                                                     
+15,01                    Text searchmmandDate               2Search current/all file 
+15,01areas for description texte                   @T             *s50               
+15,01  14,15@15,01FT                                                                        *Up
+15,01loadload file(s)                 1Upload file(s) to current file area (if possib
+15,01le)                     @U             *s50                 14,15@15,01FU                 
+15,01                                                        View archivehive file   
+15,01           (Examine the contents of an archived file                            
+15,01  @V             *s50                 14,15@15,01FV                                       
+15,01Previous areaFile Area             .Change to the previous file area (if possibl
+15,01e)                        @[             *s25                 14,15@15,01F[               
+15,01                                                                Next areaFile Ar
+15,01ea                 *Change to the next file area (if possible)                  
+15,01          @]             *s25                 14,15@15,01F]                               
+15,01                                         

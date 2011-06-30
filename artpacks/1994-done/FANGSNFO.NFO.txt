@@ -1,0 +1,30 @@
+15,01                           User's Guide to FANGS
+
+15,01     Since not everyone has writen any code and couldn't give a rat's ass
+15,01as to what a word is in computer architecture as long as they can escape
+15,01from reality with the latest warez or leach and get some work done at the same
+15,01tyme, or whatever I wrote this.  This is a quick explaination of why I
+15,01deviated from SAUCE and why ANSi fans should manage their stuff with FANGS.
+
+15,01     The one thing that really annoyed me about SAUCE is that it scans to the
+15,01end of every file in a directory to look for SAUCE descriptions.  Especialy
+15,01since I have directories with 100's of ANSis, and sometimes I've had to 
+15,01travel through directories with a lot of files.  ACiDViEW ends up wasting a
+15,01ton of time chipping away at the hard drive on fools errands.  There had to
+15,01be a better way, so I invented FANGS and added some other stuff while I was 
+15,01at it.
+
+15,01     FANGS' most atractive feature is its ability to tag files as having a 
+15,01FANGS extension in the directory to elimiate just about all wastefull drive 
+15,01grinding.  FANGS' other major atribute is it's flexable and efficent 
+15,01comment system.  It allows lines of up to 8O charactors long and has an 
+15,01efficent system for adding color codes.  FANGS' comments are more colorful,
+15,01and SAUCE records converted to FANGS will have less bytes taken up by the
+15,01comment area.  There are several other minor differaces, including better use
+15,01of the 128K record and support for extended background colors (aka iCE COLOR),
+15,01however the difference is clear.  I hope that delevelopers will chose the
+15,01better format.  PRiNCE of THiEVES and myself will do our best to provde you
+15,01with conversion & management utilities.
+
+15,01        C-ya Laid Her,
+15,01        SiDS

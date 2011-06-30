@@ -1,0 +1,80 @@
+
+
+15,01                           G O T H I C   S T U D I O S
+15,01                                 Proudly Presents
+
+
+15,01                                 GOTHIC VIEW  v1.1
+
+
+15,01  +============+
+15,01==+ What's New +=============================================================
+15,01  +============+
+
+
+15,01--+ Version 1.1 --- Released on : April 1st, 1994 +--------------------------
+
+15,01 (Viewer) - Reduced memory requirement by 50k
+15,01 (RIP)    - Added bezier support.
+15,01 (DOC)    - Added a NFO file with viewer.
+15,01 (Viewer) - Fixed error with long artist names.
+15,01 (Viewer) - Fixed spelling error in CC's name.
+15,01 (RIP)    - Fixed bug which improperly viewed some RIP files.
+15,01 (RIP)    - Removed sound when finished viewing RIPs.
+
+15,01--+ Version 1.0 --- Released on : March 1st, 1994 +--------------------------
+
+
+15,01 (VIEWER) - First official release of Gothic View to the public.
+
+
+15,01  +==============+
+15,01==+ Requirements +===========================================================
+15,01  +==============+
+
+15,01   - 80286 processor or better.
+15,01   - 300k of free memory.
+15,01   - Either a CGA,EGA,VGA or better graphics card.
+15,01   - Dos v3.1 or better.
+
+
+15,01                 Graphics Requirement for Different View Modes
+
+15,01                                       +-ANSI-+
+15,01                                    |  25 |  50 | VGA | RIP |
+15,01               ---------------------+-----+-----+-----+-----+
+15,01                CGA Graphics        |  X  |     |     |     |
+15,01               ---------------------+-----+-----+-----+-----+
+15,01                EGA Graphics        |  X  |     |     |  X  |
+15,01               ---------------------+-----+-----+-----+-----+
+15,01                VGA Graphics        |  X  |  X  |  X  |  X  |
+15,01               ---------------------+-----+-----+-----+-----+
+15,01                        X - Indicates Mode Is Available
+
+15,01               Note - GV does NOT check for a proper video card
+15,01                      for specific modes.
+
+15,01  +==============+
+15,01==+ Credits      +===========================================================
+15,01  +==============+
+
+15,01     Concept, menu structure, display modes, documentation, and ANSI engine
+15,01                                    by
+15,01                           Skull Leader of Gothic
+
+
+15,01      RIP display and RIP engine          Main Menu ANSI complements
+15,01                 by                                   of
+15,01       Cap'n Crunch of Gothic                Aphex Twin of Gothic
+
+
+15,01                          Ending Logo complements
+15,01                                    of
+15,01                           Soul BlaZer of Gothic
+
+
+
+15,01  +==============+
+15,01==+ Introduction +===========================================================
+15,01  +==============+
+

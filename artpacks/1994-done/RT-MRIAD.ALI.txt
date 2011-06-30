@@ -1,0 +1,80 @@
+
+
+15,01                       10m10,10##10,01m   m10,10##10,01m15       10mmmm
+15,01                      10,10 #11,11@@10,10#11,01| |10,10#11,11@@10,10#14 10,01   m10,10#######10,01m
+15,01                     10,10 #11,11@10##11@10,10#15,01 10,10#11,11@10##11@10,10#14 10,01 14,10 10#11,11@@@@@@@10,10#10,01|
+15,01                    10|10,10#11,11@10#   #11,01m10,11#   #11@10,10#10,01| 11,11@10#10,01""14,11  10###10,01| 11m10m
+15,01                    10,11    14#    11   14#    11,01  10mm10,11     10,01" 10,10#10,01""
+15,01                   11|11,11   14#01@14##   ##01@14#   11,01|10"10,11    10,01""    m
+15,01                   10,11   14#01@10,14#15,01 11"01,11@10,14#01,11@11,01" 10,14#01,11@14#   14,01RT11"14,11###11,01m   10|10,10#10,01m
+15,01                  11|11,11   14#01@10,14#14,01|  "  |10,14#01,11@14#   11,01|149411"14,11####11,01m 11,11@@10#10,01|
+15,01                  14,11   #01@10,14###15,01     10,14###01,11@14#   11,01  |01,11@@@@@@11,01m11,11 14#01@
+15,01                   11""01,11@10,14#####15,01   10,14#####01,11@11,01""   10,14#####11,01""10,14###14,01|
+15,01                       14"10,14  14,01"   "10,14  14,01"15      14|14,14  14,01"15     14"14,14 14,01"
+15,01                         14,14 15,01     10,14 15,01         14"
+15,01                         14|15     14|
+
+15,01       08M 15a 14l i c i o u s  R e v a l a t i o n  i n t e r n a t i o n 15a 08l
+
+15,01                        08N 15e 14t w o r k  S y s t 15e 08m
+08,01 -15-14-------------------------------------------------------------------------15-08-
+08,01    Board Name:15           08Position:15     08Number:15          08Sysop:
+08,01 -15-14-------------------------------------------------------------------------15-08-
+08,01    P15a14ckaged Rebellion    08W15o14rld   HQ    1-916-246-71156085   14Mass Delusi15o08n
+08,01    C15a14rdura15               08C15e14ntral HQ    1-316-683-1815908915          14Ragt15o08p
+08,01    C15h14ains of Destruction 08E15a14stern HQ    1-404-928-2015708215      14Illusion15/082
+08,01 -15-14-------------------------------------------------------------------------15-08-
+
+
+
+08,01    F15irst off, MRi is a general net with no theme whatsoever, and we
+15,01    gladly give smaller ansi, programming, cracking, and warez groups
+15,01    the chance to use MRi as the communications hub of their group.
+15,01    Because of the loose structure, we aren't looking for any particular
+15,01    type of board: may it be art, warez, music, programming, or any
+15,01    other type of board, as long as you have good posters, and free
+15,01    space on your HD, we welcome you.  All it takes is the completion
+15,01    of the application.
+
+15,01    08S15econd, acceptance into MRi does not mean you are a member for
+15,01    eternity. If at any point the other sysops feel that your board is
+15,01    no longer adequate, or has done too many stupid things, then you
+15,01    will be nuked, and must re-apply later. This is only to keep the
+15,01    net in a shapely order, and is NOT meant as a tool of revenge. The
+15,01    only way you can be kicked off is by a unanimous agreement among
+15,01    the other sysops.
+
+15,01    08T15hird, MRi is a Fido-compatible network. This means that we
+15,01    comply with all standards set forth by the developers of the Fido
+15,01    standard. On a Fido-compatible network, you must make sure that
+15,01    your posters are aware of the ansi standards. We do allow the use
+15,01    of system specific color codes (i.e. |xx, ^x, @xx, etc.) but it
+15,01    MUST be known to all that ansis posted MUST be saved in the
+15,01    following format:
+15,01       1) Line length of 69-71 characters
+15,01       2) No 80th column characters
+15,01       3) No animation
+15,01    08I15f you stay within these guidelines, the pictures will be clear on
+15,01    all nodes, and will avoid garbagy messages from your system. If
+15,01    there is a continuous flow of ansis saved incorrectly from your
+15,01    board, then it may be grounds for expulsion from the net.
+
+15,01    08F15ourth, if your group would like a base to be sanctioned by you,
+15,01    just ask. You must have at least three (3) boards from your group
+15,01    already on the net, and a belief that good discussion will come
+15,01    from the base. If you find this the case, then just let us know as
+15,01    soon as you are accepted, and the next echolist will include your
+15,01    base. We are currently sanctioned by the following groups (some
+15,01    with bases, some without)
+
+15,01         Alive - Apex - Radian - Relic - Rem - TSC - Union - UPA
+
+15,01    08F15inally, the application process is easy.  Download the latest
+15,01    nodelist from one of the above hubs or FREQ it from the WHQ
+15,01    (Packaged Rebellion).  Fill out the enclosed application and
+15,01    send it to one of the hubs. The sysop will then post your
+15,01    application in a voting base, where you will be voted on.
+15,01    If you are accepted, you will be contacted via voice
+15,01    (or by other means) within a week. However, if you are rejected,
+15,01    you will not be contacted at all. Take note that sometimes it
+15,01    may take longer than a week, but usually not. There is no limit

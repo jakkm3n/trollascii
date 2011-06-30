@@ -1,0 +1,73 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                  O   C   T   O   B   E   R    1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Yes, it is  Halloween.  Yes, the pack is a  day early.  Are  you surprised?
+15,01You should be - this is our 10th pack this year alone!  That means that we only
+15,01had 30 days to prepare for it!  Isn't that just...standard operating procedure?
+
+15,012.  We are pleased  to welcome to  the iCE sorority:  Vade79 and Kitiara!  Also
+15,01returning to our clan this  month was Pnakotic, Lemonade, Parasite, and Blender
+15,01Head!  We give a "shout-out" to them all and  thank them for their hard work in
+15,01the land of the dead.  Typically, we would include  Apox in this list, but ever
+15,01since the llama stampede, he just hasn't been the same.
+
+15,013.  In  other news that  makes you  feel like a  little fluffy  cloud, iCE  has
+15,01pledged support  to help out acheron.org  however we can.  Starting  things off
+15,01are a little ANSI by Tainted X in the upper corner of every page.  If you don't
+15,01feel like a cloud yet or have a difficult time feeling the sensation, read that
+15,01ten times fast.
+
+15,014.  Oddly enough, Sinned Soul of ACiD seems to make repeated appearances in the
+15,01iCE info files.  We are blaming the Russians at this vector in time.
+
+15,015.  Three, sir, three!
+
+15,016.  Perhaps  the only REAL news we have to bring you  this month is that we are
+15,01proud to announce Mass Delusion's iCE ANSI Seminar Series(tm).  While the trend
+15,01has  been to shun aspiring  artists until they  magically become better, iCE is
+15,01going to extend a  helping hand and offer blocks of time where  artists new and
+15,01old can come  and get tips and technique from  famous iCE artists.  Kicking off
+15,01the series will be Kadaver and Tetanus on Sunday, November 8th, at 11:00am PST,
+15,012:00pm EST,  on #iceansi / #ice.  We encourage everyone to come and contribute.
+15,01Coming in the second seminar will be Parasite and Cold and Ugly.
+
+15,017.  We are proud to name Roland as Member Of The Month(tm)  for his outstanding
+15,01support  to Count Zero.  Simultaneously  (or perhaps one nanosecond  later), we
+15,01are pleased to announce Tainted X and DaVinci as co-AOTM(tm).  Why two of them?
+15,01Well we could tell you how we don't believe in comparing the intricacies of VGA
+15,01alongside  ANSI, but the truth is they both did  Slothy "favors" this month and
+15,01you KNOW how seriously Lord Soth takes his sex.
+
+15,018. This  month's  iCEPack  contains  the  ACiD-defeating  submission iCE had in
+15,01Blender  Kombat last month.  Unzip bkview.zip and type bkview,  and see why iCE
+15,01really is colder than the average bear.
+
+15,019.  Enjoy our latest  offering and be sure to trick-or-treat at Syntax's place
+15,01in Florida.  We hear he gives away king-size milky ways!
+
+
+15,01-Mass "Monkey Molester" Delusion
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------

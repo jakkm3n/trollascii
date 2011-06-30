@@ -1,0 +1,25 @@
+15,01-------------------------------------------------------------------------------
+15,01                               SUiCiDE-ViEW Info...
+15,01-------------------------------------------------------------------------------
+15,01                                 Version 11/94
+15,01 
+15,01SU-ViEW was programmed in Turbo Assembler by Shadowlord [SUiCiDE]
+15,01 
+15,01Supports - Sauce
+15,01           Ansimation (ScrollBack OFF)
+15,01           SVGA Viewing Modes (Requires VESA Driver)
+15,01           A Total of 8 viewing modes
+15,01 
+15,01Requirments - 286 or better
+15,01              CGA or better
+15,01              200k free memory
+15,01 
+15,01Keys to use while viewing - Up/Down Arrow Keys
+15,01                            PageUp/PageDown (Scroll 25 lines)
+15,01                            Home/End
+15,01 
+15,01Future Versions will support - Better SVGA support
+15,01                               MOD Support (SB/SBPRO/GUS)
+15,01                               SmoothScrolling in Text Modes
+15,01                               RIP/GIF Viewing
+15,01 

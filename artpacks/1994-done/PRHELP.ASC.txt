@@ -1,0 +1,16 @@
+15,01  ----------------- Renegade - Message Editor Help ----------------
+15,01 |                             |                                   |
+15,01 |                             |     /S    Save message            |
+15,01 |   ^I   Tab 5 spaces         |     /A    Abort message           |
+15,01 |   ^N   Imbed backspace      |     /C    Clear message           |
+15,01 |   ^W   Erase last word      |     /L    List message            |
+15,01 |   ^X   Erase entire line    |     /O    List colors             |
+15,01 |                             |     /P    Replace string          |
+15,01 |-----------------------------|     /Q    Quote message           |
+15,01 |                             |     /R    Replace last line       |
+15,01 |    ^ = Ctrl.                |     /T    Replace title           |
+15,01 |                             |     /?    Display this screen     |
+15,01 |    Enter '/' character      |                                   |
+15,01 |    on a blank Line.         |      Ctrl-P + Digit = Color       |
+15,01 |                             |                                   |
+15,01  -----------------------------------------------------------------

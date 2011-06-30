@@ -1,0 +1,80 @@
+15,01-----------------------------------------------------------------------------
+15,01  ___              __
+15,01 /__  /  . __     /__)    __  __/     __ _/_ . __       _
+15,01/    /  / /__)   /    /~ /_/ /_/ /_/ /_  /  / /_/ /\/ _)
+15,01_________/_______________________________  _ _ _ __ _ __
+15,01                                        |\/| |_| _) | |_ 
+15,01 
+
+15,011.  All material must be turned in by the second to last
+15,01        week of the month. You can turn things in early,
+15,01        (the earlier the better) but we will not accept
+15,01        anything past the second to last week of the
+15,01        month. All late material will simply be added
+15,01        to the following month's pack.
+
+15,012.  During the time between deadline and release, a 
+15,01        process called "quality check" will occur, in 
+15,01        which your material will be reviewed for release.  
+15,01        In the past, FLiP has been very lienient on it's
+15,01        music department, and FLiP has earned a 
+15,01        reputation for poorly written music. FLiP is
+15,01        still a layed back and uncompetitive group, yet
+15,01        it would help to raise our standards so that 
+15,01        more people will want to download.
+
+15,013.  Please try to sign any songs in the sample text area
+15,01        with your handle and 'FLiP'. 
+15,01  
+15,014.  Any sign of 'ripped' songs (unless a specified remake)
+15,01        will result in termination from the group.
+15,01        
+15,015.  Make sure to keep in contact with a the music 
+15,01        coordinator, CTS (chrisw@freenet.scri.fsu.edu), at 
+15,01        least once a month.  You are expected to at least 
+15,01        submit something to the group every month, even 
+15,01        though it may be incomplete and/or won't make it 
+15,01        into the pack. If you are unable to submit anything
+15,01        please Email CTS. Failure to do so will be cause 
+15,01        for removing you off the memberlist due to 'lack 
+15,01        of communication.'
+
+15,016.  Try to keep things as innovative as you can.  This 
+15,01        includes making your own samples when possible,
+15,01        deviating from your usual style, and useing
+15,01        a veriaty of instruments. 
+
+15,017.  If you are asked by a FLiP member to help them on a
+15,01        project, (Demo, Intro, Loader, Musical Duet, etc)
+15,01        please cooperate and help in any way that you
+15,01        can.
+
+15,018.  Please include an ID file such as a file_id.diz to 
+15,01        identify your song with. However, I recoment 
+15,01        useing a file name such as '(filename).nfo'
+15,01        (example: 'cs-song.nfo') This prevent's
+15,01        your ID file from being overwritten by other
+15,01        people's. The ID file should include:
+15,01         A. Your Handle
+15,01         B. FLiP Productions
+15,01         C. Title Of Song
+15,01         D. Style Of Music
+15,01         E. Any Other Information You Wish To Include
+
+15,019.  You are free to name your uncompressed file anything 
+15,01        you wish but your compressed zipfile must be named
+15,01        as follows, since it allows for easier organization:
+15,01        (we're using the dos limitations of 8 characters 
+15,01        dot 3 character extension)
+15,01        1) all filenames start with 'flp-'
+15,01        2) the next 2 characters is an abbreviation of your 
+15,01           handle, for example, Gizmo is GZ
+15,01        3) the last two characters is the number of your 
+15,01           release that year. For example,if it's your first 
+15,01           song it'll be '01' so the song above will be 
+15,01           named: FLP-GZ01.ZIP
+
+15,0110.  Most of all have fun!!!
+
+15,01>SAUCE00FLiP Tracker Policy                Cheech The Sneech   FLiP PRoDuCTioNS 
+15,01                                    

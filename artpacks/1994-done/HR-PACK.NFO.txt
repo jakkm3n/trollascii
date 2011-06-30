@@ -1,0 +1,49 @@
+15,01              (*) File listing's for HR pack release 09-94 (*)
+
+
+15,01      HR-PACK.NFO         This File your reading
+15,01      09-94.NFO           HR News, New members/info
+15,01      HR-MEM.NFO          Member List for 09-94
+15,01      HR-DIST.NFO         Distro's/HQ's/Memberboard's
+15,01      __ANSIS__           Ansi's for 09-94
+15,01      SPAWN.ANS           Armageddeon's Ansi
+15,01      THEPITT2.ANS        BBS ad From Armageddeon
+15,01      THEMAXX.ANS         Armageddeon's Ansi
+15,01      SD-HFLOG.ANS        HiGH FiDELiTY's Log in screen
+15,01      THEMAXX2.ANS        Armageddeon's Ansi
+15,01      SD-LIGHT.ANS        Lighting BBS ad
+15,01      TOXIC.AD            Toxic Wastelands BBS ad
+15,01      BANE.ANS            Armageddeon's Ansi
+15,01      PASTYME.ZIP         Menu set by Mr. Self Destruct
+15,01      SD-HFPRE.ANS        Banner.BBS for IM & V/2
+15,01      SD-PIN.ANS          Pinion BBS ad
+15,01      SD-GOSUN.ANS        Ansi by Mr. Self Destruct
+15,01      SD-NIN.ANS          Nine Inch Nails Ansi
+15,01      HF-MNUMS.ZIP        HiGH FiDELiTY's menu set
+15,01      XU-DWZ1.ANS         Xandu's Ansi ad 
+15,01      XU-DWZ2.ANS         Main Menu Ansi
+15,01      HF.ANS              HiGH FiDELiTY's Affils.
+15,01      __RiP'S__
+15,01      MAXX.RIP            Armageddeon's RiP
+15,01      LD-NEOT.RIP         Neo-Tokyo ad
+15,01      SS-EVIL.RIP         Schizosynth's RiP
+15,01      LD-CYBR.RIP         Cyberphuck's BBS ad
+15,01      LDSS-HAR.RIP        Harvest Moon Rip
+15,01      LD-CORR.RIP         Corrosive Poison Rip
+15,01      SSLD-LIM.RIP        LimeLight BBS RiP
+15,01      LDSS-HOS.RIP        HOS Rip
+15,01      SS-KANE.RIP         Schizosynth's RiP
+15,01      CB4.RIP             Cell Block 4 RiP
+15,01      LD-SHAD.RIP         Shadows Den Rip
+15,01      LD-TC.RIP           High Fidelity Rip
+15,01      SS-KGUY.RIP         Schizosynth's RiP
+15,01      SS-SKULL.RIP        Schizosynhh's RiP
+15,01      __Text__
+15,01      PCP00001.TXT        Logic Bomb's text for HR
+15,01      MP-VIOL.TXT         MOP's Lit
+15,01      __Misc__
+15,01      HR-VIEW.ZiP         HR ansi viewer
+15,01      HR-APP.ZiP          HR Application Generator
+15,01      HRSELECT.ZiP        PPE by Altered Destiny
+15,01      HRFILHDR.ZiP        PPE by Altered Destiny
+15,01      LORDREG.ZiP         Legend of the Red Dragon Registration Key Generator

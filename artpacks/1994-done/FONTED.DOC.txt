@@ -1,0 +1,13 @@
+15,01        Use FontEd to manually edit the default DOS font.
+15,01Use the arrows to select the character to edit.  Hitting SPACE or
+15,01ENTER selects the letter for editing.  In the edit window, use
+15,01the arrows to move the cursor, SPACE or ENTER toggle the pixel
+15,01under the cursor on or off.  After the letter is edited, hit
+15,01TAB to save the letter.  You will see the change immediately.
+15,01        When you are finished editing your font, hit F1 to
+15,01save the font.  Hit F2 to load a font off the disk. 
+15,01        Hit ESC when finished to drop back to DOS.
+
+15,01        On some of the LINE/BOX characters there is a ninth column to
+15,01make solid horizontal lines.  This ninth column is always identical to
+15,01the eigth column.

@@ -1,0 +1,49 @@
+15,01waterworms
+15,01mud sloshes on a warm rainy January night
+15,01feet trample the soil generations have tilled (but no longer)
+15,01stepping away from the house (now a mausoleum)
+15,01ecstatic from the acts committed
+
+15,01a man, farmer man
+15,01he lies propped against the wall
+15,01shotgun in hand
+15,01eyes open (perhaps he's afraid to shut them)
+15,01he knows what will be coming soon
+
+15,01a woman, house woman
+15,01she sits with her legs sprawled out in the hall
+15,01knitwork in hand
+15,01eyes open (she has no reason to shut them)
+15,01her man's silly games mean nothing
+
+15,01a child, lonely child
+15,01hides under the sheets, under the covers
+15,01cradling kitten
+15,01eyes closed (for the child no longer moves)
+15,01it's life flame has already been extinguished
+
+15,01'old man, husband
+15,01you're guarding the wrong entrance
+15,01you should not have left the window open'
+
+15,01there: woman, house woman
+15,01still sits with her legs sprawled
+15,01knitwork since dropped
+15,01eyes open (she's now unable to shut them)
+15,01a gash in her throat to match her child's second mouth
+
+15,01there: man, farmer man
+15,01has now fallen to the floor
+15,01shotgun at side
+15,01eyes closed (but he's unaware)
+15,01choked in a pool of his own drunken vomit
+
+15,01mud sloshes on a warm rainy January night
+15,01feet trample the soil the generations have tilled (but no longer)
+15,01stepping away from the house (now a mausoleum)
+15,01ecstatic from the acts committed
+
+15,01                    -m
+
+15,01>SAUCE00Waterworms                         Maldoror            FLiP PRoDuCTioNS 
+15,01   19970223-A                                    

@@ -1,0 +1,80 @@
+15,01Grabs arm, & then jumps into them               Back,For+Punch
+15,01Grabs head, then jumps back onto them           For,Down,Back+Punch
+15,01Trip them, & then punch them on ground          For,For+Punch&Kick
+15,01Grab your opponent's punch or kick              Back+Punch-------------------
+15,01Name:           Akira Yuki
+15,01Behindy:        Japan
+15,01++++++          25
+15,01Sex:            Male
+15,01-?-:            Kung-Fu Teacher
+15,01Blood Type:     O
+15,01Combos          Kung-Fu
+15,01++++++
+
+15,01*Single Punch & Spinning Roundhouse             Punch,Kick
+15,01*Double Punch & Side Kick                       Punch,Punch,Kick
+15,01*Triple Punch & Crescent                        Punch,Punch,Punch,Kick
+15,01Elbow                                           For+Punch
+15,01Dashing Elbow                                   For,For+Punch             
+15,01SARAHng Hook Punch                              -?-
+15,01-----------------------------------------------------------------------------
+15,01Name:           Sarah Bryant                    -?-
+15,01Country:        America                         For,For+Kick,[Kick]
+15,01Age:            20                              Down,For+Punch
+15,01Sex:            Female
+15,01Job:            College Student
+15,01Blood Type:     AB
+15,01Hobby:          Skydiving
+
+15,01Push over while tripping                        Back+Punch
+15,01Standingm, pull into your knee, & shove away    Down/Back,For+Punch
+15,01++++++++, run under it, & uppercut on them 
+15,01 on the way through                             Back,Down,Back+Punch&Kick 
+15,01Lunging Knee                                    For+Kick  (tricky timing)
+15,01Mid Kick                                        Tap Down+Kick
+15,01Triple Kick [1,2,or 3 kicks]                    Hold Down/For+Kick [1,2,3X]
+15,01Backflip                                        Tap Back/Up
+15,01Kickflip                                        Tap Back/Up+Kick
+15,01Double footed kick while getting up             Tap Kick only (if close)
+15,01Sweep                                           -?-
+15,01Crouching Side Kick                             Down,Def+Kick
+15,01++++++
+15,01Throws
+15,01++++++ and Roundhouse                           Punch,Kick
+
+15,01Belly to Belly Suplex                           Def+Punch
+15,01Jumping Clothesline                             For,For+Punch
+15,01-----------------------------------------------------------------------------
+15,01Behind          Jacky Bryant
+15,01++++++y:        America
+15,01Age:            22
+15,01Grab their torso, and take down                 Def+Punch
+15,01Job:            Indy car racer
+15,01CombosType:     A
+15,01++++++          Training
+
+15,01Mid Kick & Standing Kick                        Tap Down+Kick,Kick
+15,01*Single Punch & Roundhouse                      Punch,Kick                   
+15,01*Double Punch & Sidekick                        Punch,Punch,Kick
+15,01*Triple Punch & Knee                            Punch,Punch,Punch,Kick
+15,01Elbow                                           For+Punch
+15,01Crescent Kick                                   Def+Kick
+15,01WOLFfist [Double Backfist]                      Back,Punch,[Back+Punch]
+15,01-----------------------------------------------------------------------------
+15,01Name:           Wolf Hawkfield                  Back,Punch,[Down,Kick]
+15,01Country:        Canada                          Tap Down/Back+Punch,[Kick]
+15,01Age:            27                              Kick,Kick
+15,01Sex:            Male                            For,For+Kick
+15,01Job:            Wrestler                        Tap Down+Kick
+15,01Blood Type:     O                               Tap Back/Up
+15,01Hobby:          Karoke                          Tap Back/Up+Kick
+15,01Crouching Side Kick                             Down,Def+Kick
+
+15,01Standing
+15,01++++++++
+
+15,01Dashing Clothesline                             For,For+Punch
+15,01Dashing Shoulder                                Back,For+Punch
+15,01Lunging Knee                                    For+KickPunch
+15,01Sweep                                           -?-
+15,01Rising Roundhouse                               -?-

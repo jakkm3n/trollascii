@@ -1,0 +1,80 @@
+14,01The ---------------------------------------------------------------------------
+14,01 00A  00,00#00,01m    00,00###00,01" 00,00######15,01 00,00###00,01" "00,00###00,01|00,00#######00,01|00,00##00,01"  |00,00#####00,01|00,00#####00,01|00,00#####00,01|00,00#####00,01|00,00#####00,01m
+00,01 C  15,15@@@00,01m  15,15@@@15,01  15,15@@@15,01    15,15@@@15,01   15,15@@@15,01 00"15,15@@00,01m   |15,15@@15,01   00|15,15@@15,01     15,15@@15,01    00|15,15@15,01| 00|15,15@@15,01    mm  00"15,15@@15,01m
+15,01 00i  00,15###15,01"00,15#15,01m00,15###15,01  00,15###15,01"   00,15###15,01 00,15#15,01 00,15###15,01   "00,15##15,01m |00,15##15,01   |00,15##15,01"    00,15##15,01    |00,15#15,01| |00,15##15,01"   00,15##15,01 m14,15  15,01"
+15,01 00D 15m14,15   15,01  "14,15   15,01 m14,15      15,01|14,15   15,01m"m14,15   15,01|14,15       15,01|14,15     15,01|14,15     15,01| 14,15  15,01    |14,15 15,01| |14,15     15,01|14,15  15,01  "14,15  15,01m
+14,01-------------------------------------------------------------------------------
+15,01Issue #3      An Official ACiD Productions14(tm) 15Public Update         March 1994
+14,01-------------------------------------------------------------------------------
+14,01 14,15 15,01m |14,15 15,01" 14,15 15,01  |  14,15 15,01m m|14,15 15,01" |m m14,15 15,01|01,15#14 15,01 14,15 15,01" |"14,15  15,01 |14,15 15,01"
+15,01 14,15 15,01 14,15 15,01|14,15  15,01m|"m|  14,15 15,01 " |14,15  15,01m| " 14,15 15,01|15,15 01#15,01|14,15  15,01m|"mm m14,15  15,01     m      ||||||||||||14,15 15,01|||||
+15,01 14" " """  "   "   " """   " """ """ "" """+---   ----15| """""14,15 15,01"""""" "14,15 15,01"|14-----+
+15,01      ACiD bears  it's  inner  self this  14|  15" 00m14,00    00,01"14m14,14   14,01"14,14  14,01m"m14,14   14,01"14,14  14,01m"m 00"14,00   14,01|
+14,01 15month to all of the  new, die-hard ACiD  m" mm 00"14,00    00,01 14,14 14,01"m14,14 14,01m14,14 14,01 15m 14,14 14,01"m"m14,14 14,01 |m" 14,00   14,01|
+14,01 15artists  who  have  come  aboard.  ACiD   "" m14,15 15,01 14,00    00,01"15m14""""15m14,15 15 14 15,01m14""""15m14,14   14,01" 14,00   14,01|
+14,01 15welcomes  the   founder   of  Eternity,  14|14,00 00,01m15"| 14,00     00,01 14,15      14,01|mm14,15   14,01m14,15 14,14   14,01  14,00    14,01|
+14,01 15Maestro to it's  highly  talented  ANSi  14|14,00  00,01"14m14,14 14,01m00"14,00   00,01 14,15  14,01"m14,15 15,01 """14,15 14,01m"14,15 14,14   14,01| 14,00     14,01|
+14,01 15division.  ACiD rolls  out the red car-  14|14,00 00,01m14"14,14   14,01"m00"14,00  00,01 14,15  14,01|14,15        14,14    14,01| 14,00     14,01|
+14,01 15pet for five  new  members  in the Mon-  14|14,00   00,01m14"14,14  14,01m14,14 14,01m00"14,00 00,01m15""""15,15 14,01mmm"""" 00mm14,00      14,01|
+14,01 15treal area, these members include:       14|14,00     00,01m14"14,14  14,01m14,14 14,01m00"""14mm"14,15  15,01m  00"14,00          14,01|
+14,01 15Deeply Disturbed, The Duellist, Magnet-  14|14,00    00,01"15m15,15 14,01m"14,14 14,01"m"""00,15mmm mm14,01"14,14 14,01mm 00"14,00       14,01|
+14,01 15ic M, Nosferatu,  and Red Leader.  ACiD  14|14,00   00,01m15"15,15 14,01"m"15m14,15 14,01m14,15  15  00,00 14,15 15 00mm"14,01|14,14   14,01m00""14,00     14,01|
+14,01 15acquired one of few five star ANSi art-  14|14,00   00,01 14"14,14 14,01" 15""  14,14 14,15  15 00"14 15 00"""14,01|15 14""15m14,15  15,01m 14,00   14,01|
+14,01 15ists from  outside  the  Top Three this  14|14,00     00,01m14,00      00,01 14,14 14,01mmm   m14,14 14,01"  15" "00,15"m14 15,01 14,00  14,01|
+14,01 15month, welcome  Somms from Empire.  The  14+---------------------------- 15" 14---+
+14,01 15RIOT  breakup   augmented   ACiD's  big  14Terminator2 was so  happy about get-
+14,01 15league ANSi team  as well.  New members  14ting a few more members that he went
+14,01 15from  RIOT  include  Spawn,  Dreadlord,  14on a  rampage  and  shot  Egghead to
+14,01 15Megatron, and Crime Lord.  But ACiD has  14pieces. . .
+14,01 15tripped into  the  Euro  Zone  as well,
+15,01 picking up one monster ANSi artist,  Duster, and one incredible VGA font mach-
+15,01 ine, Breez in a massive  global  snowball  effect.  Other  internal promotions
+15,01 within ACiD this month  include  Corwin of Amber's  promotion  to ACiD Courier
+15,01 Coordinator,  an esteemed position  that only a few dare attempt.  You've  un-
+15,01 doubtedly noticed the  incredible  ANSi  productions  from two quiet ex-Mirage
+15,01 prototypes, Terminator2 and  Bad Karma,  their work is crisp and their shading
+15,01 is extraordinary.  But perhaps the  most  noteworthy ACiD additions this month
+15,01 are Splitmetal and The Clone,  two  ACiD  original  artists who are keeping in
+15,01 the  old  ACiD  tradition  and  starting  in  the  group  where they  plan  to
+15,01 finish.
+15,01          14"m    m"15           14,15 15,01   |"14,15 15,01|"14,15 15,01|14,15 15,01" " 14,15 15,01m |14,15 15,01"     14,15 15,01  ||14,15 15,01"  " 14,15 15,01"  | 14,15 15,01|"14,15 15,01"|
+14,01+--------- 15m14"m "15m 14----------+14,15 15,01mm|14,15 15,01m|14,15 15,01m|m14,15  15,01|14,15 15,01 14,15 15,01 14,15 15,01|14,15 15,01m14,15 15,01"   "m"m|14,15  15,01m|14,15 15,01 14,15 15,01m14,15 15,01"|"14,15 15,01  14,15 
+14,01|14,00        15,01|15,15 00"14 15,01 |14,15 00|15,01|00""14,00        14,01| ""  "" """"" " " " """15     14" "" """ """" "" " ""
+14,01|14,00       00,01" 14,15 15,01m" "m14,15 15,01"m14,15 15,01m00""14,00     14,01|15       ACiD began it's summer diet ahead of sched-
+14,01|14,00     00,01"15m""14mmm14,14 14,01mmm15"14,15     15,01m00"14,00   14,01|  15ule when  Sushi X,  Aphex Twin,  Kronos, Fusion,
+14,01|14,00   00,01"15m"14m14,14 14,15"15,01"14,00 00,01| 14,00 00,01 14,00 14,01"m15"14,15     15,01 14,00  14,01|  15and  Glenn Danzig  all decided to dust off their
+14,01|14,00   15,01|14,15  15,01m14"m00" " | | m14"m15"14,15   15,01|14,00  14,01|  15ego's and retry  their  respective  ANSi careers
+14,01|14,00   00,01 14,15  15,01""14m"15       |  14" 14,15  15,01|14,00  14,01|  15by joining other  art  groups.  The loss of art-
+14,01|14,00   00,01"14mm"" 00m | m  "14mm"15m14,15   15,01 14,00  14,01|  15ists has recently  become  a commonplace in ACiD
+14,01|14,00  00,01m14"m  00m14,00 00,01||||14,00 00,01m 14,15m14,01"15m14,15    15,01 14,00   14,01|  15as we strive to become  the single most focused,
+14,01|14,00    00,01m14""""m14,15mm14,01m14,14 14,01""15m14,15    15,01"00m14,00    14,01|  15most loyalty bound art  group that has ever, is,
+14,01|14,00     00,01"""14,00 00,01 14m  m15"""""  14,00      14,01|  15or will ever exist.  ACiD  does not support cen-
+14,01|14,00   00,01"14m14,14   14,01m14,14 14,01|14,00 00,01m14"14,14 14,01m14,14     14,01m00"14,00    14,01|  15sorship on  grounds  that  censorship is morally
+14,01+---- " --------------------+  15incorrect, however,  we have  noticed that other
+15,01 14Extremely  angry  about los-  15groups advertise  haphazard  ANSi releasing as a
+15,01 14ing members, Beastie devours  15reason for joining.  In  terms of those who have
+15,01 14many Canadian ANSi artists.   15left ACiD to join  other  groups in the last few
+15,01                               months,  we  just  hope that they made  the  de-
+15,01 cision that will be the best for them, and you can rest assured that ACiD will
+15,01 endeavor to release the finest acquisitions in the art scene.
+
+15,01                  |14,15 15,01"|"14,15 15,01| 14,15 15,01 14,15 15,01" 14,15 15,01" 14,15 15,01 14,15 15,01  |01,15#14 15,01 | 14,15 15,01|"14,15 15,01"|  14,15 15,01m |m"m|"14,15 15,01"|  14,15 15,01"14,15 15,01|"14,15 15,01|"m|m"
+15,01         m  m  m  m14,15  15,01|"||m14,15 15,01|14,15 15,01m|14,15  15,01m "|  |15,15 01#15,01||m14,15 15,01  14,15 15,01    14,15 15,01 14,15 15,01|"m"  14,15 15,01    14,15 15,01m||"||"m| 14,15 
+15,01         14"  "" "  """" """ """ """  "   """ """ ""   " "" ""  ""   """" "" "" "
+14,01   +-----------------------+
+14,01   |14,00  00 00,15"00,00 14 00,01"15m00"14,00    00,01"15m"|14,00      14,01|15        ACiD is proud to present the SAUCE descrip-
+15,01   14|14,00 00 14,15 00,00 14 00,01|14,15 15,01| 14mmmmmmm 14,00      14,01|   15tion  process.  SAUCE  is  a most  revolutionary
+15,01   14|14,00  00 00,15m00,00 15,01 14m"" 14,15mm    "15,01 14,00 00,15"14,00   14,01|   15method to  add  a  multitude  of  information to
+15,01 m14,15 15,01m00""15mmmm 14""mmmm"""""m00|14,15 00,01"15m    every file it is  applied  to.  SAUCE stands for
+15,01"m"14,15 15,01"""""00m15m 14m mmmm""""00m00,15m00,01m15"""|  "Standard  Architecture  for  Universal  Comment
+15,01  " 00|14,00    00 00,15m"00,01m14"mmmmmm"00m14,00   00,01"15m14,15  15,01  Extensions."  We  are  in  high  hopes that this
+15,01   14|14,00       00 14  00,01 14m mmm"15m00,00 14   00,01m15"|  will be of use to  all  PC  users, those who are
+15,01   14|14,00 00,01"mmm"14,00     00,01m14"mm""15m00,15m00,00 14   14,01|   15in the scene,  and those who  are not.  Arrange-
+15,01   14|14,00 00,01m""" 14,00   00 00,15"m14,00 00,01 14m"00m14,00 00,15m"00,00 14  14,01|   15ments are being  made  to incorporate SAUCE into
+15,01   14|14,00 00,01 """" "14,00  00 00,15m00,00 14 00,01m14,00  00,15mm00,00 14   14,01|   15shareware  products,   BBS  software,  and  even
+15,01   14|14,00 00,01||14,00  00,01|14,00 00,01|14,00               14,01|   15commercial software.  No longer will you be left
+15,01   14+-----------------------+   15in the dark as to who  created the artwork, when
+15,01   14Tasmaniac, shown here in    15the artwork  was  completed,  or  for what group
+15,01   14his usual whirling torn-    15they created the  work  for.  For information on
+15,01   14ado form,  whips up some    15the technical aspects of SAUCE,  please refer to
+15,01   14ACiD secret SAUCE.15          ACIDVIEW.NFO.

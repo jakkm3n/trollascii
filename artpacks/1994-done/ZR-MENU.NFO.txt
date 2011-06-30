@@ -1,0 +1,12 @@
+
+15,01Note from the Artist:
+15,01--------------------------------------------------------------
+15,01This is my very first menu_set and I hope you could understand
+15,01my untalented style in this barfing package 'cause I made this 
+15,01in only 45 minutes.. (Well, quick for me) Anyway, you must use
+15,01this menus with Renegade (why mom!?) and you can use it freely
+15,01BUT keep the credits and don't modify the fonts/frame (Options 
+15,01can be changed). Cya. <10/06/94>                   
+15,01                                 - Zoltar [Mistigris/Slime]
+15,01--------------------------------------------------------------
+15,01* File_id.diz by eerie :D

@@ -1,0 +1,57 @@
+15,01; **Config file for Relicvu.exe**
+15,01; This file contains all the params Relicvu starts up with.  If this
+15,01;file is not in the path or startup directory, Relicvu uses its own 
+15,01;defaults.  
+15,01;
+15,01;
+15,01; - FILE MASK - 
+15,01;Relicvu allows up to 4 filespecs, each 12 chars or less.
+15,01MASK1=*.REL
+15,01MASK2=*.RIP
+15,01MASK3=*.BIN
+15,01MASK4=*.DOC
+15,01;
+15,01; - RESOLUTION -
+15,01;Initial resolution Relicvu uses.
+15,01;1 - 80x25
+15,01;2 - 80x50
+15,01;3 - 320x200
+15,01;4 - 320 Wide
+15,01;5 - 640x480
+15,01;6 - 640 Wide
+15,01RES=1
+15,01;
+15,01; - ANSIMATION/SCROLLBACK -
+15,01;Whether Relicvu is in ansimation or scrollback mode.
+15,01;(Ansimation is checked via SAUCE before ansis are loaded into
+15,01;scrollback if ansimation is off.)
+15,01ANSM=OFF
+15,01;
+15,01; - AUTOSCROLL -
+15,01;Whether to start at the top or autoscroll ansis (affects scrollback
+15,01;mode only.)
+15,01ASCR=ON
+15,01;
+15,01; - SPEED -
+15,01;Speed of ansi display
+15,01; 1 = fastest; 5=slowest.
+15,01;Speeds >1 use timer.
+15,01SPEED=1
+15,01;
+15,01; - COLOR - 
+15,01;Color options are as follows:
+15,01;1 - Normal
+15,01;2 - Force iCEColor
+15,01;3 - Ascii 
+15,01;4 - GrayScale
+15,01COLOR=2
+15,01; - CHECK WIDTHS -
+15,01;Whether or not to use SAUCE to automatically switch to 50 line modes
+15,01CHECKW=ON
+15,01; - MONKEYS -
+15,01;Turn monkey support on or off.
+15,01MONKEY=ON
+15,01; - MONKEY SPEED -
+15,01;Speed of monkey support. 
+15,01MSPEED=200
+15,01;The end.

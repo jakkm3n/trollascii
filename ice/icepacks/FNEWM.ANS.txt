@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+15,01                           04SYSOP NEW FILES MENU
+
+
+15,01               (04C14)00hange Description 15(04M14)00ove file  15(04014)00Free
+15,01               (04D14)00elete File15        (04T14)00ype File  15(04#14)00Set
+15,01               (04R14)00ename File15        (04V14)00iew File15      00Points

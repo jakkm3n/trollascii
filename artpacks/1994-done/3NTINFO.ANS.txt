@@ -1,0 +1,80 @@
+
+15,01                       03m#m14,03  03,01m#mmm14,03 03,01m14,03 03,01#06m14,03 03,01mmm15 03m#14,03  03,01m15  14,03 03,01m
+15,01                      14,14 14,06m 14,03 03,02"14,03    03,02"""14,06 03,02"12m14,06 03,02""14,03  03,01#14,03 06mmm14  06m14  06m03,01#
+15,01                      14,14#14,06 13m14 12,12 12,02m14,06   14,13 12,12  14,06 12,12  14,06 13mm06,02m12m12,12 03,01m13,06mmm12,02mm14,06   14,01m01@
+15,01                      14,14 14,06m14,14 14,06 13mm14,13    10,12#00 14,06 10,12# 14,06 14,13  13 10,12 #14,06 14,13   14,12  14,06 14,13   14,14 
+15,01                      01@14m14,14 14,06 14,13      02,11@10,12#14,06 10,12 #14,06 14,13   10,12##14,06 14,13   10,12# 14,06 14,13 14,14 14,06"14,14#
+15,01                      14,14 14,06" 13m14,13   14,11  12##02@14,06 10,12#02,11@14,06 14,13   02,11@10,12#14,06 14,13   02,11@10,12#14,06 14,13  14,06"14,01#
+15,01                      14#14,06" 14,13       14,11 12#14,06 02,11@12#14,06 |14,13  12,11#02@14,06 14,13 13,06"14,13 14,11 02@14,06 13"14,13  01,01@
+15,01                      14"14,14#14,06m13"14  14,13    14,11  14,06 12,11#14 14,14 14,01#14,06m13"14,11 12#14,06 m14,14 14,06|12,11##14,06 |13,13 14,06m14,14 
+15,01                      14|14,14   14,11  14,06mm  14,11 12#14,14#14,11 12#14,14 14,01#14,14  12,11#14 14,14  01,01@14,14 12,11#14 14,14  14,06m14,01|"
+15,01                       14"01@14,14 14,11        01,01@14,11  14,14  14,01##14,11  14,01###14,14 14,11  14,14 14,01#14,14  
+15,01                       14m14,14# 14,01mmmmmmmm#mm14,14 #14,01m14,14 14,01mm14,14 14,01#14,14  14,01mm14,14 #02,01B14.02C
+00,01--------10-15-10-00---------------------------------------------------------------------
+00,01Welcome, welcome, welcome ...
+
+00,01This is, you guessed it, our first ANSiBasket ... Filled with half-hearted ANSi,
+00,01great mistakes and an occasional masterpiece ...
+
+00,01As this is our first pack, maybe we could do some explaining about how we 
+00,01started, where it started and why ...
+
+00,01Err ... Maybe we should explain quantumphysics ... It would be a lot easier,
+00,01really !
+
+00,01Ok, so here goes nothing ...
+
+00,01Location : Keerbergen - Belgium
+
+00,01Due to some misevent in the time-space continuum, Beyond met the wrong girl
+00,01and followed her to Brussels ... The start of an adventure ...
+
+00,01Location : Brussel - Belgium
+
+00,01Beyond got hold of his first modem ... Starting fighting with his girlfriend
+00,01over about everything, including phone-bills which had risen to the deadly
+00,01amount of 1700,- BEF ... Arf arf arf ... :(
+00,01Beyond got lost and found a job and went to ...
+
+00,01Location : Verviers - Belgium
+
+00,01Being bored to imaginary death, Beyond C00l (thence called Savage) was still
+00,01affiliated with TUS, a long since deceased (and diseased) Syndicate which wanted
+00,01to spread some ANSi around Belgium ... In this concept, Savage changed his name15 
+00,01to ZozO le Zebre because it was 'lighter footed' than Savage and started a BBS.15 
+00,01'The ZozO StudiO' never went anywhere except for some two loyal users and Zippy15 
+00,01which had officially stopped calling anywhere ... The Studio was the very first 
+00,01board in Belgium to be able to display LiVE ANSi ... Being far out, most people15 
+00,01didn't understand the board and called once but never again ... (Maybe this was15 
+00,01due to the fact that Beyond never got the file section right and therefore said15 
+00,01that he didn't carry any files :) ... 
+00,01Beyond, being fed up with his present job quit it and finally went back to ...
+
+00,01Location : Keerbergen - Belgium
+
+00,01Having changed places again, Beyond decided that Zoz0 le Zebre was too French to
+00,01be carried in a Dutch and more English-minded environment and decided to change15 
+00,01his name to 'MasterminD, Master of the Mind, Mind of the Master'. By then, the
+00,01Zoz0 Studio had gone down and was never resurrected although plans existed for
+00,01this for some three months ... Finally the project was abandoned, mainly due to 
+00,01the lack of a phone line ...
+
+00,01Mastermind turned into 'Prince Mao, Austerity is Wealth' due to some complete,
+00,01utter psychological lapse of reason. Prince Mao started doing some small-scale
+00,01trading which never got him any money only a lot of trouble and after three
+00,01days, he abandoned ... Never to come back because by then an idea had come up...
+
+00,01Mastermind was ressurected and starting roaming some boards around Belgium
+00,01looking for a stable home base ... Finally, he found only one which was rather
+00,01short-distance (He had been off the scene for a few months and *YoU* know how
+00,01quickly things change around here ...) and which had a look and feel he could
+00,01live with ... Meanwhile, he was still doing some ANSi-tryouts while trying to   
+00,01put together some decent coding group which had to be called TRiNiTY ... It
+00,01never really worked out and he abandoned the project, but never the name ...
+
+00,01After a while, Mastermind Shape-Shifted the last time to become ... 'BeyonD
+00,01C00l, I ain't C00l, I'm way beyond that ...'. BeyonD C00l started roaming around
+00,01looking for people who were interested in ANSi and looking for one or two stable
+00,01coders but was unable to find one as the only one who was to his likings was his
+00,01local friendly neighbourhood sysop and he was with another group already ...
+

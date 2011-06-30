@@ -1,0 +1,80 @@
+15,01;Bull Control file
+15,01;-----------------
+15,01;
+15,01;Sysopfirst: Specifies the first name of the sysop as it will be shown to
+15,01;            the users.
+15,01;
+15,01;SysopLast:  Specifies the last name of the sysop as it will be shown to
+15,01;            the users.
+15,01;
+15,01;BBSName:    Specifies the name of the bbs as it will be shown to users.
+15,01;
+15,01;Mono:       Will disable color on the local side. (Necessary if you are
+15,01;            running a monochrome system)
+15,01;
+15,01;BBSType:    Specifies the type of bbs software under which this door program
+15,01;            will be run. Valid bbs types include:
+15,01;
+15,01;                     RBBS - Rbbs-Pc version 16.1+ (uses DORINFOx.DEF)
+15,01;                    QUICK - Quickbbs; Uses DORINFOx.DEF (same as above)
+15,01;                    PCB12 - Pcboard version 12 (note: see COMPORT note below)
+15,01;                     WWIV - WWIV bbs (uses chain.txt)
+15,01;                  PHOENIX - Phoenix bbs
+15,01;                  WILDCAT - Wildcat bbs
+15,01;                    PCB14 - Pcboard version 14 (not fully tested)
+15,01;                  DOORSYS - The DOOR.SYS format (wildcat 3.0, TAG, etc)
+15,01;                 SPITFIRE - Spitfires drop file (SFDOORS.DAT)
+15,01;
+15,01;ComPort:    For bbs types that do not have the com-port contained in their
+15,01;            door information files (such as PCBOARD-12), you will have to
+15,01;            specify the com-port. Simply put the port number (i.e. 1,2,etc)
+15,01;            not the whole word COM1.
+15,01;
+15,01;Internal:   Selecting this option will cause bull to use it's internal
+15,01;            buffered comm routines. If you do not have a fossil, it is a good
+15,01;            idea to use this option.
+15,01;
+15,01;Maxtime:    The maxtime parameter will allow you to specify a maximum time
+15,01;            per session that a user may be in the door. (i.e. if you
+15,01;            specified 30 minutes, then if the user had 60 mins left, he could
+15,01;            only play for 30 mins)
+15,01;
+15,01;Quiet:      If specified, the door will strip out all ^G characters from
+15,01;            the local side.
+15,01;
+15,01;Status:     Specify "ON" if you wish the status line to appear at the bottom
+15,01;            of "OFF" if you wish it to be disabled.
+15,01;
+15,01;Statfore:   The foreground color of the status line (default 0)
+15,01;
+15,01;Statback:   The background color of the status line (default 7)
+15,01;
+15,01;Color1:     Tells doordriver to select ANSI graphics when a "1" is passed
+15,01;            in the graphics parameter of the DORINFOx.DEF. From what I
+15,01;            understand, FORCE and QUICKBBS require this option set although
+15,01;            RBBS should not.
+15,01;
+15,01;43Line:     The 43LINE option will instruct doordriver to load in the EGA
+15,01;            43-line mode. (You MUST have an EGA adapted for this option). The
+15,01;            enhanced screen allows the local sysop to see much more infor-
+15,01;            mation on the screen.
+15,01;
+15,01SYSOPFIRST Dark
+15,01SYSOPLAST Knight
+15,01BBSNAME Death Star BBS
+15,01;
+15,01;       ::::------- Put your bbs type here! Select from those listed above
+15,01;       ::::
+15,01;       \/\/
+15,01BBSTYPE RBBS
+15,01;
+15,01;                   If you are using a bbs type that doesn't provide the com
+15,01;        ::-------- port num in it's door information file (such as pcb-12),
+15,01;        \/         then uncomment this line and put your com port here.
+15,01COMPORT 2
+15,01;
+15,01;INTERNAL
+15,01;
+15,01;                   Uncomment this line if you are running a monochrome
+15,01;  ::-------------- system on the local side.
+15,01;  \/

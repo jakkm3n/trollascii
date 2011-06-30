@@ -1,0 +1,30 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 2/1/2001
+15,01###############################################
+15,01ice-0101.sit,ANSI,iCE Site Listing,iCE Staff
+15,01ice-0101.nfo,ANSI,iCE NFO File 1/2001,iCE Staff
+15,01ice-0101.mem,ANSI,iCE Member List 1/2001,iCE Staff
+15,0188-fmfrm.jpg,EXTERNAL,Female Form,Root 88
+15,0188-nvent.jpg,EXTERNAL,My Invention,Root 88
+15,0188-picwb.jpg,EXTERNAL,Picasso Wannabe,Root 88
+15,0188-poor.jpg,EXTERNAL,Poor Guy,Root 88
+15,0188-uglyh.jpg,EXTERNAL,Ugly Head,Root 88
+15,01ag-print.jpg,EXTERNAL,Printed,Adam Grossi
+15,01at-eva01.jpg,EXTERNAL,Evacuate 1,Aphex Twin
+15,01at-eva04.jpg,EXTERNAL,Evacuate 2,Aphex Twin
+15,01jm-cncpt.jpg,EXTERNAL,Character Concept,Jamie McCarter
+15,01jm-stybd.jpg,EXTERNAL,Storyboard Shot,Jamie McCarter
+15,01mi-skin.jpg,EXTERNAL,Skin,Mongi
+15,01ss-hnrik.jpg,EXTERNAL,Joint Lip Work,Steven Stahlberg
+15,01te-enthr.jpg,EXTERNAL,Enthrall,Tetanus
+15,01te-indus.jpg,EXTERNAL,Industrial Malevolence,Tetanus
+15,01te-kindr.jpg,EXTERNAL,The Kindred,Tetanus
+15,01te-skufi.jpg,EXTERNAL,Skullfish,Tetanus
+15,01te-tmbs.jpg,EXTERNAL,Tombs I,Tetanus
+15,01te-tmbs2.jpg,EXTERNAL,Tombs II,Tetanus
+15,01us-oldbs.jpg,EXTERNAL,Old Bastard,Eto/Root 88
+15,01us-spark.jpg,EXTERNAL,Sparkly Abominations,Mongi/Root 88/Tetanus
+15,01vc-trsor.jpg,EXTERNAL,Treasure,Vincent Claus
+15,01ve-wagon.jpg,EXTERNAL,Cum Wagon,Vesalius
+15,01xe-cbomb.jpg,EXTERNAL,City Bomb,Xebra
+15,01file_id.diz,ANSI,Zipfile Description,iCE Staff

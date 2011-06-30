@@ -1,0 +1,70 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" ---------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ----------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    J  A  N  U  A  R  Y      1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Welcome to the greatest show on  earth, folks!  It's  Slothy here,  manning
+15,01the boom  mike as your  DJ for the affair.   Watch out for Boa,  he's recording
+15,01every  word spoken  with  his concealed  hat-mic  and  pocket  recorder.   This
+15,01paragraph causes the  reader to glean no  information -  it's good practice for
+15,01the standardized tests reading portion.   The test questions below do not apply
+15,01this portion.
+
+15,012.  To kick off the  new year (quoted  incorrectly by some  as the  year of the
+15,01tiger, but we all know that it's really the year of the iCE), we're ecstatic to
+15,01welcome eight new artists this month.   That's right!   In the ANSI Department,
+15,01I'd like  to personally  welcome  Count Zer0  to our  team!   Now, for  the new
+15,01additions to  the VGA Department  (here goes in  alphabetical order): Fire From
+15,01Heaven, Ian Dale, Mli,  Psyanide, Steven  Stahlberg,  Trauma, and  last but not
+15,01least, Tim Wallace.  All of these guys & gals are absolutely fantastic (like we
+15,01would  have anything else... )  and I think they'll  turn some heads for a long
+15,01time to come.
+
+15,013.  We have to  sadly wave  goodbye  to mr4tune, who  was accidentally  dropped
+15,01while attempting a death-defying show of being hung by his toes from the top of
+15,01our radio station, K RAD.  We even played a  Live & Accoustic  version of "Mmmm
+15,01Bop" in mourning for his loss.
+
+15,014.  We're kicking  off a brand new funk  in the group this month!  Every month,
+15,01one artist  will be awarded the title of  "Artist of the Month(tm)".  Thank God
+15,01for  well-paid   marketing  teams to come  up with our  Catchy Names(tm).   All
+15,01artists  who are  awarded the  "Artist of the Month(tm)"  go through a rigorous
+15,01ceremony.   First they put on  their  Burger King  crown, then  they stand in a
+15,01chair while everyone  sings the  "Artist of the Month(tm)"  song.   It's a very
+15,01cheery tune that is about noodles and cupcakes and other happy things!
+15,01Anyway,  the  first  artist to  receive  this  terribly  exciting  title is the
+15,01brand-new,     all-natural,     cuts-through-a-lead-pipe,     no-preservatives,
+15,01Count Zer0!   Everyone cheer for his majesty  (I left that out... the Artist of
+15,01the Month(tm)  must be  referred to as  "his/her majesty"  for the  duration of
+15,01the month).
+
+15,015.  We are officially  announcing that we  have been working for some time on a
+15,01brand new web site,  with MUCH more content  and eyecandy galore.  We will leak
+15,01some more information in the coming months.
+
+15,016.  That's all  for this month,  folks!  Remember  that this is  only the first
+15,01pack of 1998 - just wait to see what we have in store for you!
+
+15,01                                                            -Lord Soth
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

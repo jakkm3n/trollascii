@@ -1,0 +1,44 @@
+
+15,01                             Model # 73621846
+
+15,01                                   00Stop
+15,01                                    00Go
+15,01                         00Everyone moving together
+15,01                                 00Lockstep
+15,01                                 00Lockstep
+15,01                          00Get in a line, kiddies
+15,01                                  00Right
+15,01                                  00Wrong
+15,01                            00Eyes on the ground
+15,01                                  00Apathy
+15,01                                  00Apathy
+15,01                     00Think what we tell you, kiddies
+15,01                                   00Thin
+15,01                                   00Fat
+15,01                        00Look like a model in Vogue
+15,01                                 00Anorexic
+15,01                                 00Anorexic
+15,01                      00Be like everyone else, kiddies
+15,01                               00Mass culture
+15,01                               00Pop culture
+15,01                       00Go to the lowest denominator
+15,01                                 00Conform
+15,01                                 00Conform
+15,01                     00You can't touch the sky, kiddies
+15,01                                 00Straight
+15,01                                   00Gay
+15,01                        00Evil, they're not like you
+15,01                                   00Lust
+15,01                                   00Lust
+15,01                          00Sex is cheap, kiddies
+15,01                                   00Yes
+15,01                                    00No
+15,01                      00Become an assembly-line child
+15,01                                  00Whish
+15,01                                  00Click
+15,01                          00Do as we say, kiddies
+15,01                                  00Never
+15,01                                  00Break
+15,01                                   00Free.
+
+15,01                                      - 00Felyne

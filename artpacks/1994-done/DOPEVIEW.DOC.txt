@@ -1,0 +1,80 @@
+
+
+
+15,01                        +--------------------------+
+15,01                        |                          |
+15,01                        |    DoPEView V0.15Beta    |
+15,01                        |       Documentation      |
+15,01                        |        By: Megaman       |
+15,01                        |                          |
+15,01                        +--------------------------+
+
+
+
+15,01Introduction :
+
+15,01         This is the first public release of this ansi viewer so I know its
+15,01going to be pretty plain and all but everyone has to start somewhere right?
+15,01This isn't going to be much of a documentation here because the program
+15,01is self explanatory and its pretty late <Yawn>.  Basically this ansi viewer
+15,01works just like any other, I recommend you put it in your Dos path so you can
+15,01call it up in any directory, then you goto wherever your ansi's are located
+15,01and run the program.
+
+15,01Commands/How To Use:
+
+15,01F = Changes the file mask.
+
+15,01T = Toggles which screen resolution to use (More will be added later.)
+
+15,01* = Sets the Viewer Speed at the fastest setting, this has no delay and will
+15,01display the ansi/avatar file as fast as your computer will allow.
+
+15,01/ = Sets the Viewer Speed at the lowest setting, this has much delay and will
+15,01display the ansi/avatar file at a very slow rate.
+
+15,01+ = Increments the Viewer Speed by 1.
+
+15,01- = Decreases the Viewer Speed by 1.
+
+15,01Enter = Displays current File.
+
+15,01Space = Switches Directory views (not set up quite right yet).
+
+15,01Escape = Quit the Program.
+
+15,01NOTE: If you hit any key while a file is being displayed it will automaticly
+15,01abort.
+
+15,01Upgrades on Next Versions:
+
+15,01- Rip Graphics Display.
+
+15,01- Gif/PCX Display.
+
+15,01- Support SAUCE (ACiD's Description system)
+
+15,01- File Descriptions on list, & the ability to choose how you want the list
+15,01  to be displayed.
+
+15,01- Choices in how you want the viewer to look (Different interfaces).
+
+15,01- Slide shows, where you tag which files you would like to view and it shows
+15,01  them all one after another.
+
+15,01- Scrollback, so you can look back at an ansi.
+
+15,01- Baud rate simulations (No 0 - 99 speeds like I have now)
+
+15,01- Change the command interface, either with some kind of menu (ie. Pulldowns,
+15,01  or a help screen so i don't have to cram everything on the scren.)
+
+15,01- I'm sure i can think of 100's of other things to add as I go along.
+
+15,01If you have any suggestions/comments/bugs for me leave feedback on either
+
+15,01CELL BLOCK 4      (815)-282-8732 16.8K Zyxel  DoPE WHQ
+15,01Chronic Control   (815)-398-9030 14.4K V32Bis
+15,01Or for the quickest Reply.
+15,01Visual Distortion (815)-229-9873 28.8K Hayes V.FC
+

@@ -1,0 +1,21 @@
+15,01* Goodbye Menu                                                                  
+15,01                                                                                
+15,01                                                                                
+15,01                  goodbye                                                      G
+15,01OODBYE                                                                          
+15,01                                                                                
+15,01                                                                                
+15,01                                                                 xMAIN    @*@@@@
+15,01  @                                                                             
+15,01                       
+15,01  logoff  l to the creator of iNiQU -->                                         
+15,01                          @1                                  14,15@15,01HI*|CSnd;Feedback
+15,01                                                         
+15,01 auto msg nity's AutoMessage?       -->                                         
+15,01                          @2                                  14,15@15,01-^ AUTOMSG       
+15,01                                                         
+15,01   quit   ff process, return to BBS -->                                         
+15,01                          @3                                  14,15@15,01-\xMAIN          
+15,01                                                         
+15,01 feedback to terminate carrier.     -->                                         
+15,011;Feedback;No                                                          

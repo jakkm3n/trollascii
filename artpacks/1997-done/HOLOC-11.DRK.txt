@@ -1,0 +1,80 @@
+
+15,01         00dNNN@'  
+15,01         00@NNN! 15              00     
+15,01         00`@N@,15              00    @Nna na   n
+15,01           00"NNa15        00        !Nnn       15             00 15   00 
+15,01     00       ;NNca 15     00       ;N!2@.      15        00 @Nna      
+15,01    00        NNN2@Nn.15   00      ;N!  @N.        15     00!Nna     `2Nn,      
+15,01    00       !NN    2N2.      .NN15   00 NN    `N@a,.    `N@.      ;NN;     
+15,01     00     .NN15       002N2,    aN'15    00`Nb    ;NNN2`  +, nN.    .JNN'    
+15,01     00     NN'15   00     `NN2. NN215      00!Nb   !N!   15   00 "%!Nn ""222+na,._       
+15,01     00    NN215     00     `NNNjN!        1Nb .NN15         00!Nnn 15      00  `2Nn,       
+15,01   00     nNN15            00!NNN@  15      00 ;NNiaN'15   00 15    00,@N@Nn    15    00   2NN,     
+15,01    00   nNN             ,NNNN@      _.@NNNN215   00 ..,aan+2 NNn           `NNN.   
+00,01     ,nNN! a  a aN@aaa%@NNNNN@a@@++22""NN!2 ``~"2NN.15   00 !NNna.15   00      ;NNN,  
+00,01   $@nNNNn._      ""~~;NNNNNN!2 ++a   nNN      15   002Nn, .nNNNjv2"       !NNN! 
+15,01     00   ``""2 ++aaa%nnNNNNNN215      00 ,jNN!15      00    `NNn.``NN!2        ;NNN@+2"
+15,01         00yyyyyyyyyyyy@@NNNN@@yyyyyy@NNNN@.          jNNNnyyyyyyyyyyyyyNN2`15     00 
+00,01   yyyNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%y,.__.,a@NNNNNNNNNNNNNNNNNNNNyyyy15   00 
+15,01 N00NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%N@%$$NNNNNN@@**@$$NNNNNNNNNNNNNNNNNNNNNNNNN
+15,01    00 15N00NNNNNNNNNNNNNNNNNNNNNNNNNNN@@%2""~14#15200"""``   15   00   1520022 %NNNNNNNNNNNNNNNNNNN
+00,01NNN  15N00NNNNNNNNNNNNNNNNNNNNNNNNN$2` 14 15                       00 15 %00@NNNNNNNNNNNNNNNNN
+00,01NNNNNNNNNNNNNNNNNNNNNN@@NNN$22 15                              00  `"2NNNNNNNNNNNNNN
+00,01NNNNNNNNNNNNNNNNNNNNNN$$2 15                        142Nmy 15           00 15%@00NNNNNNNNNNN
+00,01NNNNNNNNNNNNNNNNNNNN$2 15                             14 "2a 15          : 00`2NNNNNNNNN
+00,01NNNNNNNNNNNNNNNN$N215                               14  15    14 y15            00  2NNNNNNN
+00,01NNNNNNNNNNNNNN$$@14"15                                        14  15            00 `NNNNNN
+00,01NNNNNNNNNNNNNNN!  15                00      15    14%:15     14 15        14#15             14"00@%NNN
+00,01NNNNNNNNNNNNNN# 15       00                  15  14:$%:  15           14`y 15          00  :@NNN
+00,01NNNNNNNNNNNNN$15         00   ,a@&$NN@y %%ya,.15  14.:.. 15           14 @ 15            00 !NNN
+00,01NNNNNNNNNNNN215          00.aNNNNN@NNN$:NNNNNNNya,15              14 !%15             00 NNN
+00,01NNNNNNNNNNN"15          00a%I8NNNNNNNN%!NNNNNNNNNN2a 15            14:$15             14 00@NN
+00,01NNNNNNNNNN@15        00 ,i%88NNNNNNNNNNNNNNNNNNNNNNN@,15            14%15              00!NN
+00,01NNNNNNNNNN!15       00 ,iIi8$$NNNNNNNNNNNNNNNNNNNNNNN$15yy          14#:15             00:NN
+00,01NNNNNNNNNN:15     00   !8%i88NNNNNNNNNNNNNNNNNNNNNNNNNN14!15                         00 $N
+00,01NNNNNNNNNN 15         00""22@8%NNNNNNNNNNNNNNNNNNNNNNNN!  15#00 15@00 15                    00@N
+00,01NNNNNNNNN@ 15       00 15!%,._  00`"2NNNNNNNNNNNNNNNNNNNNNN8y15,#00 15!00%15i                   00%N
+00,01NNNNNNNNN!15    14.15   00  152N00NNN@a15   002NNNNNNNNNNNNNNNNNNNNNNN%  @15%                 14.::00@
+00,01NNNNNNNNN:15   14:i'00    14 15 `0022@NNc  !NNNNNNNN22""``  14#00  `"8%  N%:15                14%::00:
+00,01NNNNNNNNN 15   14.!00   15,_00 14   15    00 152i@008NNNNNNNN@aaa%@nNNNnNNNi :14iy15             14 15 14%::15 00.
+00,01NNNNNNNNN:.15   14:15  00 15@00$Ny15,.14 00 _,y!N@8NNNNNNN8152""00"2+@$$$@%NN@ @$15:                14%:15 00.
+00,01NNNNNNNNNN14@15     00 15:00@$NNNNn@nNNNN8NNNNNNNNNi14##  15  00   15 00,N$8 14|00@15%                14:15  00 
+00,01NNNNNNNNNN.15      i@00NNNNNNNNNNN8NNNNNNNNNNN$a,.15 14 00.,a@NNNN; 15%00:15                14.15  00 
+00,01NNNNNNNNNN:15      !N00@NNNNNNNNN8NNNNNNNNNNNNNNNNNNNNNNNNNN@ 15:14: 
+00,01NNNNNNNNNNi15       %N00N8NNNNNN2;NNNNNNNNNNNNNNNNNNNNNNNNN$! 14:#15  14::
+00,01NNNNNNNNNN@15        00888NNNNN152 008$NNNNNNNNNNNNNNNNNNNNNNN$@. 15'
+00,01NNNNNNNNNNN15        14:152008NNNNNa. 142152002+$NNNNNNNNNNNNNNNNNN$I::
+00,01NNNNNNNNNN!15  00215  14:15    20088NNNNNNNNNNNNNNNNNNNNNNNNN$NN$8I:
+00,01NNNNNNNNNN:  ;15  14%:15   00::14215"00~~~""2$@NNNNNNNNNNNNNNNNN$88I15!00 15                 00 
+00,01NNNNNNNNNN,yNN14,15     00. 14;15y,00 152@,.00    15`"00+NNNNNNNNNNN$N8I2 y15,14!15         00.,mcN 15%00 N$@,.
+00,01NNNNNNNNNNNNNN@ i %yi  @I15@14,00 15`2@00y%@8,.,a8NNNNNN$N8IinnNN@15      00 ,y@NNNNNN15814800NNNNN8
+00,01NNNNNNNNNNNNNNNiN %NNi 15!0088N88@yy@8NNNNNNNNNN$$2`15200yNNNNN! 14yy15y00@8N2""2NNNNN@%8NNNNN
+00,01NNNNNNNNNNNNNNNNN NNNNy 15200@NN8NNNNNNNNNNNNN@2` .aNNNNNNN2"8$%2 yy,15  00 2NN@22"~~"2N
+00,01NNNNNNNNNNNNNNNNN!NNNNN@. 15"002@8NNNNN$$+22" .,a@NNNNNNNNaa@N%aNNNN@2*    .,a%%a,. 
+00,01NNNNNNNNNNNNNNNNNNNNNNNNN8%a,`````  15  :14.00y@%NNNNNNN@@22"~~NNNNNNNaa%@NNNNNNNNNNNN
+00,01NNNNNNNNNNNNNNNNNNNNNNNNNNNN%15 1488I$%15%N00y5NNNNN@22"`15  00  15%800a$N2""2@NN$NNNNNNNNNNN$15n00%
+00,01NNNNNNNNNNNNNNNNNNNNNNNNNNN152:'00 14a15aa%N%00NNN2"` 15..00.,a@$NN$NN2.,..15  00aN14"00%NNNN@2~```15%8N
+00,01NNNNNNNNNNNNNNNNNNNN22"`` 15     00 15 14~15"2N00aa8NNNNNNNNN$$' , 15,00@nNNNN8N:15 14"002` :  ,a%a, :
+00,01NNNNNNNNNNN@222```  15   14,15a@005NNNN$$5NNNNNNNNNNNNNN2,@NN2a@NNNNNNNN%15  00a,$8NNNNNNNN$
+00,01NNNNNNN@2`14`00    14 00  14.,15y%00888$NNNNNNNNNNNNNNNNN@214"`00a@NN$01@00a$NNNNNNN$$@ 15 00@NN:NNNNNNNNN
+00,01NNN@%@`  y%@!  14, ;N$15$%$$%00$NNNNNNN@@222"``15 00 14#%00,NNN$814'15;$00N#2"15"2002@NN`  ;NN NNNNNNNNN
+00,01NNNN15@00  NNN15$00NN 15%814y 158NNN$%008822""`14 15  00...,a88N2aa$$NN$14215  00  14,,00..,a2  14.15, 00!N% %$2"~"8N$
+00,01NNN2  ;NNNN15N$;$88:%N22"14215   00..,a8NNNNNNN@214"00""``  %  .ii8NNNNNN:.N15$i800 14200  :  ::%::14 
+00,01N@"15   00   `"152$8$2"14215  14 15:.,00@8NNNNNNNNNNN88 ..,,aa%NN ;@NNN2""2@NNNN$8$ aN %NN$NNNNN
+00,01N2   NNn@y15,  214 15  ,2.14 15%N008N8NNNNNNN@22",a@NNNNNNN@:;@Naa@@Na,. ~  ;N14200  N14;008NN88NNNN
+00,01N   ;NNNNNNNNaa15%8$N14$a15800i8N22""~``15  00.,4NNNNNNNNNN$8@2``15m00..,,aaa@@NN' 15m00 ;15|00$N8%8NNNN
+00,01@   NNNNNNN$815I8$$N2"~00 15n,00.,aa28$214 0022""````"""2aa@8NNNNNNNNNNNNNNN! 14:00N, 15|002"`    `"
+00,01%   228$NNNN815%2200 15% ,8$NNN00NNNN@%yyyyyyyyyyy@:;NNNNNNNNNNNNNNN$NNNN.,NN  ..,a%@$%,
+00,01.15   00,15a,00.14 15  00..15,00a@15N%;8Nn2"00"2NNNNNNNNNNNNNNNNN@222""""~~~""22@5$88NNNNNN.;NN%N$NN$n
+15,01   00;NNNNNNNNN8$I15@2`14`..00,a15m00222""""~~```1522"~~~00...,aa%%%15aa,..14.00    14~~"002@N@2 NN$NNNN%N
+15,01  00 @NNNNN@2"~,,aa@NNNNNaaaaa%%%%%@@8NNNNNNNNNNNNNNNNNN$$8$NNNNN$$%aaa%!15;2%0022""~~
+15,01   14"200:a%NNNNNNNNN8$NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN$8  ..,aa%@
+00,01  ,,aaNNNN$$%%$22;@NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN$8IN%$NNNNNN
+15,01         00 :::15               00:::::IIIIIIIIIIIIIIIIIIIIIIIIII14##15   Corn00hO15copia'97
+15,01        00     
+00,01--- 
+
+00,01 15 00ansi pic converted to ascii :: hOlocaust 
+00,01  dark ascii logo :: hOlocaust
+00,01  original ansi made by and given permission :: Corinthian
+00,01 

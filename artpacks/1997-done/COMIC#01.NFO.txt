@@ -1,0 +1,54 @@
+
+15,01 comic newspapers & info...                           ...comic!ascii packet #01
+15,01 ~~~~~~~~~~~~~~~~~~~~~~~~~~                           ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+15,01 : :: ::: :::: :::::: ::::::::::::::::::::::::::::::::::: ::::::: :::: ::: :: :
+15,01                   :: ::                               :: ::
+15,01                   :: ::::::::::::::::::::::::::::::::::: ::
+15,01       _____,-----.  _____,-----.  _____,-----.  ___,---.  ____,------.
+15,01     __)   ___     \_)   ___     \_) ___   ___ \_)       \_)   ___     \  <spn>
+15,01     \_     \|_____/_     \|      \     \_/     \         \     \|_____/_
+15,01      |__    |       \_    |       \_    |       \_        \_    |       \_
+15,01       |_____       __/____       __/____|      __/__     __/____       __/
+15,01        <=<=|_______/=====|_______/=====|_______/===|_____/=====|_______/=
+15,01                    ..                                    ..
+15,01                    ::   you grabbed first comic issue.   ::
+15,01                    ::                                    ::
+15,01                    ::::::::::::::::::::::::::::::::::::::::
+
+
+15,01 -|-<words from spinn>>>->>->-->-----,_______,---------,____________,--------|-
+15,01  >                                                                          <
+15,01  |  Well, mess and me started ascii group called comic!ascii. You will say  |
+15,01  <  yet another shitty-lame group in the sea of others. But, we didn't      >
+15,01  |  start comic for becoming number 1 one ascii scene. We started it just   |
+15,01  >  for fun and to give some boost to croatian scene. As you can see, we    <
+15,01  |  are ascii only group and, of course, always looking for talented ascii  |
+15,01  <  artists and good foreign art boards. I hope our apply generator will be >
+15,01  |  ready in next pack, but if you wanna join now, please send us some of   |
+15,01  >  your best asciis and we will reply to you. We are accepting only 1      <
+15,01  |  board per country, so if we don't have hq at your country, please apply |
+15,01  <  At last, you can also reach us on IRC <efnet>, on #comic with our brand >
+15,01  |  new bot MisterNo. Unfortunately, we still don't have our ftp site, but  |
+15,01  >  i hope we will fix this soon. Signed off...                             <
+15,01  |                                                                          |
+15,01  <                                               - spinn <comic/serial>     >
+15,01  |                                                                          |
+15,01 ->-------,__________,----------------,_______________________,--------------<-
+
+
+15,01 -|-<words from mess>>>->>->-->-----,______________,---------,______,--------|-
+15,01  >                                                                          <
+15,01  |  Well, here we are ... After a whole month of preparations for this      |
+15,01  <  first packet, it's finally out. A lot of effort, and phone bills, were  >
+15,01  |  put into this pack. Nights and nights on IRC looking for ascii artist   |
+15,01  >  who want to join this new and unknown group. And what else to say ...   <
+15,01  |  Hope you will like the pack (but, don't we all say that :)).            |
+15,01  <  We are always looking for new members, especially now when we are quite >
+15,01  |  new and with not too many members, so you can contact us on our WHQ,    |
+15,01  >  or on IRC, on channel #comic (as Spinn already said :)).                <
+15,01  |  Well, this is it :) ... now go and watch the pack ! ...                 |
+15,01  <                                                                          >
+15,01  |                                        - mess <comic/phat/exclusive>     |
+15,01  >                                                                          <
+15,01 -|-----,______,------------,___________,---------,___________,--------------|-

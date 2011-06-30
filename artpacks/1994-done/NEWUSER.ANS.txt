@@ -1,0 +1,13 @@
+
+
+
+15,01           14,12 12,01""" 02"""" """ 14"" "
+15,01           14,12 15,01                  12New Users Please Note
+15,01           02m
+15,01           14,02 02,01 06This system is decicated to Art, Mail Nets, and general
+15,01           02" 06shareware files.  There is *NO* warez on here.  If you
+15,01           14,02 02,01 06want warez, call somewhere else.  New User Voting is
+15,01           02" 06active on this system, so we advise you to fill out the
+15,01           14,14 14,01 06New User Infoforms to the best of your ability.
+15,01           14m
+15,01                                        12- Management

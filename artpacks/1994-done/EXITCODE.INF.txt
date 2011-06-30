@@ -1,0 +1,80 @@
+15,01ZyRion ExitCode Information
+15,01---------------------------
+15,01Memavail  = 131488 bytes
+15,01Maxavail  = 131488 bytes
+15,01PrefixSeg = $55BB
+15,01CSeg      = $6616
+15,01DSeg      = $6EB7
+15,01SSeg      = $7BE6
+15,01SPtr      = $22C4
+15,01ExitProc  = NIL
+15,01ErrorAddr = NIL
+15,01ExitCode  = 1
+15,01RandSeed  = 0
+15,01FileMode  = 2
+15,01   
+15,01ZyRion ExitCode Information
+15,01---------------------------
+15,01Memavail  = 131616 bytes
+15,01Maxavail  = 131616 bytes
+15,01PrefixSeg = $55B3
+15,01CSeg      = $660E
+15,01DSeg      = $6EAF
+15,01SSeg      = $7BDE
+15,01SPtr      = $1432
+15,01ExitProc  = NIL
+15,01ErrorAddr = NIL
+15,01ExitCode  = 1
+15,01RandSeed  = 0
+15,01FileMode  = 2
+15,01   
+15,01ZyRion ExitCode Information
+15,01---------------------------
+15,01Memavail  = 69680 bytes
+15,01Maxavail  = 69680 bytes
+15,01PrefixSeg = $64D2
+15,01CSeg      = $752D
+15,01DSeg      = $7DCE
+15,01SSeg      = $8AFD
+15,01SPtr      = $228A
+15,01ExitProc  = NIL
+15,01ErrorAddr = NIL
+15,01ExitCode  = 1
+15,01RandSeed  = 0
+15,01FileMode  = 2
+15,01   
+15,01ZyRion ExitCode Information
+15,01---------------------------
+15,01Memavail  = 69680 bytes
+15,01Maxavail  = 69680 bytes
+15,01PrefixSeg = $64D2
+15,01CSeg      = $752D
+15,01DSeg      = $7DCE
+15,01SSeg      = $8AFD
+15,01SPtr      = $228A
+15,01ExitProc  = NIL
+15,01ErrorAddr = NIL
+15,01ExitCode  = 1
+15,01RandSeed  = 0
+15,01FileMode  = 2
+15,01   
+15,01ZyRion ExitCode Information
+15,01---------------------------
+15,01Memavail  = 69680 bytes
+15,01Maxavail  = 69680 bytes
+15,01PrefixSeg = $64D2
+15,01CSeg      = $752D
+15,01DSeg      = $7DCE
+15,01SSeg      = $8AFD
+15,01SPtr      = $228A
+15,01ExitProc  = NIL
+15,01ErrorAddr = NIL
+15,01ExitCode  = 1
+15,01RandSeed  = 0
+15,01FileMode  = 2
+15,01   
+15,01ZyRion ExitCode Information
+15,01---------------------------
+15,01Memavail  = 84160 bytes
+15,01Maxavail  = 84160 bytes
+15,01PrefixSeg = $6149

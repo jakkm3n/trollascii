@@ -1,0 +1,48 @@
+
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01ice ice ice ice ice ice 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m nfo nfo nfo nfo nfo nfo
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01 1. What's up? It's Shaggy  m    00@15         |          .   here writing up the
+15,01    .NFO file for December.               #     .    It's been an interesting
+15,01    month and a lot of people        #            have gotten off their asses
+15,01    and taken charge.  This has               resulted in a few major changes
+15,01    in the  group.  Either way, enjoy the pack, released a  bit closer to the
+15,01    1st this month. :)
+
+15,01 2. First off, after an  illustrious career as Senior Staff, Syntax Error has
+15,01    stepped down due to the lack of time that school is now creating for him.
+
+15,01 3. To replace Syntax Error, Lord Soth has been promoted to Senior Staff, and
+15,01    Pnakotic has become a 3rd Senior Staff.
+
+15,01 4. Also, Tempus has moved from President to join Syntax as an Advisor to the
+15,01    Senior Staff and the rest of iCE.  Consider them consultants. :)
+
+15,01 5. There are some other changes on the memberlist, most due to inactivity so
+15,01    if you have reason to be  concerned then go ahead and look at the member-
+15,01    list.
+
+15,01 6. Appreciation goes out to all those  who sent their work up to Snatch-uary
+15,01    on  and  around the due date (the 25th) this month.  When the pack is re-
+15,01    leased on time this month, you can take credit for it.  -TT
+
+15,01                                                  - Shaggy [iCE] Staff
+
+15,01+----------------------------------------------------------------------------+
+15,01|                  ... Lord Soth ... Pnakotic ... Shaggy ...                 |
+15,01+----------------------------------------------------------------------------+
+15,01 ice94@netcom.com ... pnakotic@ersys.edmonton.ab.ca ... sanspach@nova.umd.edu

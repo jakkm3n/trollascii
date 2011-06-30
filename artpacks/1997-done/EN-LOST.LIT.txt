@@ -1,0 +1,15 @@
+15,01  Saddness...overwhelming
+15,01Thinking its the end.
+15,01Thinking there is no reason.
+
+15,01  Fear...overpowering
+15,01Knowing you can't escape it.
+15,01Knowing its right behind you.
+
+15,01  Darkness...overtaking
+15,01Seeing theres nothing left.
+15,01Seeing you've lost it all.
+
+15,01        Entrophy
+15,01>SAUCE00You've lost it all                 Entrophy                             
+15,01                             

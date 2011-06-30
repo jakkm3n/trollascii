@@ -1,0 +1,49 @@
+
+15,01         `7NNNNNNNNNNNNNNNNNP+n"^7NPn*"7NN7+"^YNNNNNNNNNNNNNNNNNNNNNNNNNNNNNP'
+15,01  _.,+gdl lNNNNNNNNNNNNNNNNNbgdlNNNl   lNN!   lNNNNNNNNNNNNNNNNNNNNNNNNNNNNNl
+15,01 `+7$$$$b,`+7NNNNNNNNNNNNNNNP+"^7NNl   lNNI   lNNNNNNNNNNNNNNNNNNNNNP+n+7NNP'
+15,01   `Y$$$$$b,`TNNNNNNNNNNNNNNl   !NN1   !NNl   |NNNNNNNNNNNNNNNNNNNNP' b+,._`
+15,01    `7$$$$$l lNNNNNNNNNNNNNNl   lNNl   ;NNb,  lNNNNNNNNNNNNNNNNNNNP',d$$$$P+'
+15,01    ,d$$$$P',dNNNNNNNNNNNNNNb,._dNNbg,.dNNNNbgdNNNNNNNNNNNNNNNNNNNl l$$$$$l
+15,01 ,+d$$$$P',d+n*"^~"+YNNNNNNNNNNP+n"^7NNNNNNlNNNNNNNNNNNNNNNNNNNNNNb,`+T$$$b,
+15,01l$$$$$P',' ,gdl$$$b+ `~"+7NNlP' ,d+,_`~7"^',_`~"^+7NNNNNNNP+n*"^~"+TNb_`7$$$b+_
+15,01`7$$$$b_,dl$$$P++n7$$bg+,`T' ,dl$$$$$$h, `+7$$lb+_`~"+TNP' _,dl$$lb+,`+7 l$$$$$l
+15,01 `7$$$$$$$P+'      `Y$$$$b_ d$$P'  `+7$$$b, `+7$$$$lb_`' ,d$$$P++n7$$$b, d$$$$P'
+15,01  `+Y$$$$$b,        `T$$$$$g$P'  ,b,  `7$$$b,  `7$$$$$bgd$$$P'     `+7l$$$$$$P'
+15,01    l$$$$$$l         l$$$$$$P'  `7$$b, `7$$$$b,  `7$$$$$$$P'         ,d$$$$P'
+15,01  ,d$$$$$$P'        ,d$$$$$$b,   l$$$$b,`P+n"^~'  `7$$$$$$l          l$$$$$l
+15,01  l$$$$$P'        _d$$$$$$$$P'  ,d$$$P+'           l$$$$$$l          `+7$$$$b,
+15,01  `+Y$$$b,_   _.,d$$$$$$$$$l   ,d$$$$l            ,d$$$$$$$b,          l$$$$$l
+15,01    `7$$$$$bgd$$lP+' `7$$$$b,  `+7$$$b_        ,+d$lP+' `+7$$b,   _.,+gd$$$$P'
+15,01     P+n*"^~'         `7$$$$$b,_ `7$$$$$bmw+,dP+n"'        `+T$bgd$$$$$$lP+n'
+15,01                        P+n"^~"'  `+T$$$b_`~^"'    lb+,._     P+n*"^~"'
+15,01                                     `+Y$$b+,._   ,d$$$P'
+15,01                                        `n7$$$$bgd$$$P'        jive(mist)
+15,01                                          `P+n*"^~"^'
+
+
+15,01:;|l&NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNP++7NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN&l|;:
+15,01:;|l&NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNP+' b+,._`~+7NNNNNNNNNNNNNNNNNNNNNNNNNNN&l|;:
+15,01:;|l&NNNNNNNNNNNNNNNNNNNNNNNNNNP+'_.,gd$$$$$$b+,`+TNNP+n+7lNNNNNP+"^7NNNNNN&l|;:
+15,01:;|l&NNNNNNNNNP"+7NNNNNNNNNNlP',+d$$$$$$$$$$$$$$b+,`',d$lb+,.__'_db+,`TNNNN&l|;:
+15,01:;|l&NNNNNNNP+' lb+,._`"^"+',+d$$$$$P+"^~7$$$$$$$$$bgd$$$$$$$$$P+7$$b,`YNNN&l|;:
+15,01:;|l&NNNNlP'_.,d$$$$$$$lbgd$$$$P+"^',dP',d$$$$$$$$$$$$$$$$$P+'" ,d$$$b,`7NN&l|;:
+15,01:;|lP+'_.,gd$$$$$$$P+7$$$$$$$$$l lNNP',d$$$$$$$$$$$$$$$$$$$b,',d$$$$$$b+,`7&l|;:
+15,01:'_,+dl$$$$$$$P+"^~',d$$$$$$$P+',dNNb,`7$$$$$$$$$$$$$$$$$$$$l l$$$$$$$$$$b,`Y|;:
+15,01,d$$$$$$$$P+"',dNP',d$$$$$$$$b,`7NNNP',d$$$$$$$$$$$$$$$$$$$P',`7$$$$$$$$$P',d|;:
+15,01l$$$$$$$$$b,`7NNNb,`7$$$$$$$$$l lNP',d$$$$$$$$$$$$$$$$$$P+',dNb,`7$$$$$$$b,`7|;:
+15,01`T$$$$$$$$$l lNNNNl l$$$$$$$$P',dP' l$$$$$$$$$$$$$$$$$$$l ,dNNNl l$$$$$$$$b,`T;:
+15,01,`T$$$$$$$$b+,`7NP',d$$$$$$$P',dP',d$$$$$$$$$$$$$$$$$$$P',dNNNP',d$$$$$$$$$l l;:
+15,01:,`n+Y$$$$$$$$b,',d$$$$$$$$$b,`7l l$$$$$$$$$$$$$$$$$$$$b+,`~+7b,`Y$$$$$$$$P',d;:
+15,01:;P ,d$$$$$$$$$l `P+n*"^~"T$P',dl `7$$$$$$$$$P'"+7l$$$$$$$$b+,._ `7$$$$$$$b l|;:
+15,01:;l l$$$$$$$$$P' ,gdlNNb+,',gdNNNb,`Y$$$$$$$$b,`b+,_`~"+7$$$$$$$bgd$$$$$P+',d|;:
+15,01:;b,`7$$$$$$$$b,`~7lNNNNNNNNNNNNNP',d$$$$$$$$$l lNNNb+_,_`~+7$$$$$$$lP+',+d&l|;:
+15,01:;$b, `~7$$$$$$$b,._`7NNNNNNNP'_.,gd$$$$$$$$P+',dNNNNNNNNb+, lP+"^~'_.,dNNN&l|;:
+15,01:;|lb, .d$$lP+n"^~"',dNNNNNNNb,`~^"*n+T"^~"',gdNNNNNNNNNNNNNbgggdlNNNNNNNNN&l|;:
+15,01:;|l&bgg+,.gdlNNNNNNNNNNNNNNNNNNNNNlb+,+dlNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN&l|;:
+15,01:;|l&NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN&l|;:
+15,01                                                                      jive(mist)
+15,01                             ... morals obscure
+
+15,01>>SAUCE00August 1997 Logo Colly             Jive                Mistigris       
+15,01  @                                 

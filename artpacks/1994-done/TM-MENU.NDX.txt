@@ -1,0 +1,7 @@
+15,01 BBSLIST.ANSnten  _ >
+15,01 CONFMAN.ANSnten_ _ a
+15,01        SDATA.ANSNSnten, S r
+15,01        EMAIL.ANSNSntenA > +  FILE.ANSSNSnten[ - ^M FSPONSOR.ANStenx v w  MAIN.A
+15,01NS.ANSten% v 7* MESSAGE.ANSSten# - iM MESSPON.ANSSten= ^ +  MULTINOD.ANStenq ^ +
+15,01  QWKMAIL.ANSSten2 $ S  RUMOR.ANSNSStenP@$ S    SYSOP.ANSNSSten+@A eM
+15,01VOTING.ANSSStenI@^ + 

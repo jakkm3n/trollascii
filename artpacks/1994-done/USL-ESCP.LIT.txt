@@ -1,0 +1,39 @@
+15,01                              Running to flee
+15,01                              Running to hide
+15,01                            Escaping  the demon
+15,01                              Persuing behind
+
+15,01                               Cutting  left
+15,01                               Cutting right
+15,01                            The demon continues
+15,01                             Destined to fight
+
+15,01                            Plotting  my escape
+15,01                             Plotting my route
+15,01                            My only  conclusion
+15,01                             Rise to  the bout
+
+15,01                            Preparing to battle
+15,01                             Preparing to duel
+15,01                              Acting in haste
+15,01                         I lunge towards the ghoul
+
+15,01                            The blade is in hand
+15,01                           The blade  is extended
+15,01                             Exerting my  might
+15,01                            Yet still he defended
+
+15,01                            His counter was dodged
+15,01                           His counter  was blocked
+15,01                            We gazed at  eachother
+15,01                          Our eyes they  were locked
+
+15,01                            The staredown continued
+15,01                           The  staredown  consisted
+15,01                            Of two  warring enemies
+15,01                            Yet  still we persisted
+
+15,01                            The fight never ceases
+15,01                             The fight never dies
+15,01                              Continuing forever
+15,01                            With a meriod of cries

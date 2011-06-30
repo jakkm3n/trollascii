@@ -1,0 +1,19 @@
+15,01                                RedTro
+15,01                          "It's just so red!"
+
+15,01This is the first thing I've ever done for Breed.
+15,01It's Red and it plays a MOD that we didn't write.
+
+15,01If it doesn't work on your computer, well, you probably don't have a very good
+15,01computer now do you.... That or I suck.. Either is possible..
+
+15,01The whole thing is really just a horrible palette trick. If you don't have
+15,01a fast VGA card, you're not going to really experience the true redness of it
+15,01all.
+
+
+15,01Want to whine and gripe? Send me E-Mail!
+15,01aa413@freenet.carleton.ca
+
+15,01Hades
+15,01Breed Programmer Type, master of the cheese and keeper of the socks.

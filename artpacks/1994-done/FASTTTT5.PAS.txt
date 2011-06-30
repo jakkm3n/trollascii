@@ -1,0 +1,80 @@
+15,01    begin------------------------------------------------------------------}
+15,01        FastWrite(X1,I,attrib,vertline);urbo Toolkit                       }
+15,01        FastWrite(X2,I,attrib,vertline);                                   }
+15,01    end;                       Version   5.10                              }
+15,01    FastWrite(X1,Y2,attrib,corner3);                                       }
+15,01    FastWrite(X1+1,Y2,attrib,replicate(X2-X1-1,horizline));                }
+15,01    FastWrite(X2,Y2,attrib,corner4);TechnoJock Software, Inc.              }
+15,01  end; {Proc Box}           All Rights Reserved                            }
+15,01{                          Restricted by License                           }
+15,01  Procedure FBox(X1,Y1,X2,Y2,F,B,boxtype:integer);-------------------------}
+15,01  {Draws a box and clears text within Box frame}
+15,01  begin              {--------------------------------}
+15,01      Box(X1,Y1,X2,Y2,F,B,boxtype); FastTTT5          }
+15,01      ClearText(succ(X1),succ(Y1),pred(X2),pred(Y2),F,B);
+15,01  end;
+15,01{ Update History:  4/01/89 5.00a    Changed VertLine and Horizline
+15,01  Procedure GrowFBox(X1,Y1,X2,Y2,F,B,boxtype:integer);er directive
+15,01  {Draws exploding filled box!}a    Changed Vertline again!
+15,01  var I,TX1,TY1,TX2,TY2,Ratio : integer;ompatible version
+15,01  begin
+15,01      If 2*(Y2 -Y1 +1) > X2 - X1 + 1 then
+15,01         Ratio :=   2
+15,01      elseEBUG}
+15,01         Ratio :=  1;
+15,01      TX2 := (X2 - X1) div 2 + X1 + 2;
+15,01      TX1 := TX2 - 3;                 {needs a box 3 by 3 minimum}
+15,01      TY2 := (Y2 - Y1) div 2 + Y1 + 2;
+15,01      TY1 := TY2 - 3;
+15,01      If (X2-X1) < 3 then
+15,01      begin
+15,01         TX2 := X2;
+15,01         TX1 := X1;
+15,01      end;
+15,01      If (Y2-Y1) < 3 then
+15,01      beginte = white;
+15,01         TY2 := Y2;ck;
+15,01         TY1 := Y1;
+15,01      end;
+15,01      repeat= string[MaxScreenStr];
+15,01           FBox(TX1,TY1,TX2,TY2,F,B,BoxType);
+15,01           If TX1 >= X1 + (1*Ratio) then TX1 := TX1 - (1*Ratio) else TX1 := X1;
+15,01           If TY1 > Y1  then TY1 := TY1 - 1;irtual screen}
+15,01           If TX2 + (1*Ratio) <= X2 then TX2 := TX2 + (1*Ratio) else TX2 := X2;
+15,01           If TY2 + 1 <= Y2 then TY2 := TY2 + 1; growbox routine}
+15,01           For I := 1 to Speed*1000 do {nothing};
+15,01      Until (TX1 = X1) and (TY1 = Y1) and (TX2 = X2) and (TY2 = Y2);
+15,01      FBox(TX1,TY1,TX2,TY2,F,B,BoxType);
+15,01  end;ure FastWrite(Col,Row,Attr:byte; St:StrScreen);
+15,01Procedure PlainWrite(Col,Row:byte; St:StrScreen);
+15,01  procedure HorizLine(X1,X2,Y,F,B,lineType : byte);
+15,01  vardure FWrite(St:StrScreen);
+15,01    I : integer;LN(St:StrScreen);
+15,01    Horizline : char;1,X2,Y2,F,B:byte);
+15,01    attrib : byte;te(Col,Row,F,B:byte; St:StrScreen);
+15,01  beginn  Replicate(N:byte; Character:char):StrScreen;
+15,01      case LineType of                     {5.00a}
+15,01      0       : HorizLine := ' ';xtype:integer);
+15,01      2,4,7,9 : Horizline := '=';B,boxtype:integer);
+15,01      1,3,6,8 : HorizLine := '-';ineType:byte);
+15,01      else HorizLine := Chr(LineType);e:byte);
+15,01      end; {case}xt(x1,y1,x2,y2,F,B:integer);
+15,01      Attrib := attr(F,B);integer);
+15,01      If X2 > X1 then,F,B:integer; St:StrScreen);
+15,01         FastWrite(X1,Y,attrib,replicate(X2-X1+1,Horizline))
+15,01      elseWriteCenter(LineNO,F,B:integer; St:StrScreen);
+15,01         FastWrite(X1,Y,attrib,replicate(X1-X2+1,Horizline));
+15,01  end;   {horizline}em: boolean;
+15,01Procedure InitFastTTT;
+15,01  Procedure VertLine(X,Y1,Y2,F,B,lineType : byte);
+15,01  varmentation
+15,01    I : integer;
+15,01    vertline : char;
+15,01    attrib : byte;
+15,01  beginFINE FOFF}
+15,01      case LineType of                {5.00a}
+15,01      0       : VertLine := ' ';
+15,01      2,3,7,9 : Vertline := '|';      {5.02a}Attr:byte; St:String); external;
+15,01      1,4,6,8 : VertLine := '|';      {5.02a}:byte; St:String); external;
+15,01      else VertLine := Chr(LineType);ol,Row,Attr,Len:byte); external;
+15,01      end; {case}

@@ -1,0 +1,22 @@
+15,01                        /-> FOOTER HISTORY FILE <-\
+
+
+15,01Version 1.02
+15,01# Added an option 'Continue' which fixed the 'Next' 'Previos' Bug where it 
+15,01  would just keep going in opposite direction and would not go forward when
+15,01  you hit Next.
+15,01# 'Deleted' is not called 'Kill'
+15,01# 'Capture' is now called 'Download'
+15,01# Removed some useless routinue and compiled with /NOUVAR code for people who
+15,01  know what it does :)
+
+15,01Version 1.01
+15,01# Fixed a bug with the OTHER command.  When a user would not type anything on
+15,01  the prompt it would show a "?" instead of returning a user to the prompt.
+
+15,01Version 1.00
+15,01# First Public Release
+
+
+
+15,01>

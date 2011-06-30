@@ -1,0 +1,18 @@
+15,01FILE NAME        SIZE   DESCRIPTION
+15,01----------------------------------------------------------------
+15,0100-files.lst     1133   List of files in the FNTUTL15 distrib.  
+15,01withfont.com    10288   Run cmd using given E/VGA text mode font
+15,01withfont.hlp     2176   Help screen extracted from WITHFONT.COM 
+15,01loadfont.com    11232   Load text mode font to EGA/VGA adapter  
+15,01loadfont.hlp     2530   Help screen extracted from LOADFONT.COM 
+15,01dumpfont.com     6286   Dump text mode font from EGA/VGA adapter
+15,01dumpfont.hlp     1079   Help screen extracted from DUMPFONT.COM 
+15,01charset.com      3288   Display all chars in current font       
+15,01charset.hlp      1011   Help screen extracted from CHARSET.COM  
+15,01breakcpi.com    10796   Extract fonts from DOS 3.3+ *.cpi files 
+15,01breakcpi.hlp     1148   Help screen extracted from BREAKCPI.COM 
+15,01fontcomp.btm      466   Batch file for viewing two font files   
+15,01yogiprog.inf     7128   List of PD & Other programs by Yossi Gil
+15,01_desc.btm        1022   Create 4DOS desc. for FNTUTL15 distrib.
+15,01================================================================
+15,01Total:          59583 bytes in 14 files

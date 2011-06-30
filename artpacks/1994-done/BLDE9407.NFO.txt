@@ -1,0 +1,80 @@
+15,01     BL/+DE '94 Presents - The Edge: The Official Blade Information File.
+
+15,01                   11mmmm mm   mmmm mmmm mmmm  m mmmm m mm
+15,01                   14,11##15,01 14,11#15,01 14,11##15,01   14,11##15,01 14,11#15,01 14,11##15,01 14,11#15,01 14,11##15,01 11"    14,11#15,01 14,11##15,01 14,11#15,01 14,11##
+15,01                   10,14##11,01"10,14#15,01 10,14##15,01   10,14##11,01"10,14#15,01 10,14##15,01 10,14#15,01 10,14##11,01"15     11""10,14##15,01 11""10,14##
+15,01                   14,14  14,01m14,14 14,01 14,14  14,01m14,14 14,01 14,14  14,01 14,14 14,01 14,14  14,01m14,14 14,01 14,14  14,01m14,14 15,01      14,14  14,01   14,14  
+15,01                   10J15           10U15           10L15           10Y
+15,01                   11mmm  m  m mmmm    mmmm m mm mmmm mmmm
+15,01                    11m " 10,11#15,01 11m10,11#15,01 10,11#15,01 11mm    10,11#15,01 11mm 10,11#15,01  10,11#15,01 10,11#15,01 11mm 10,11#15,01 11mm
+15,01                    10,10#15,01   11,11@15,01  11,11@15,01 11,11@15,01 11mm    11,11@15,01 11mm 11,11@15,01 11m11,11@15,01 11,11@11,01m 11,11@15,01 11,11@15,01 11mm
+
+11,01  00T15his is the Blade Info File. 00A 15monthly publication from Blade Productions.
+15,01  00T15his file outlines the past months happenings of Blade.................
+15,01  00T15his text is written by MindCrime, Blade founder and president. 00I15f there
+15,01  are any spelling or grammatical errors within this text, please remember
+15,01  that MC is only human, as are most other people. 00B15lade is a group much like
+15,01  that of iCE or ACiD [At least, we like to think so] which releases a monthly
+15,01  pak of the prior months work [Or something like that]. 00B15lade paks are released
+15,01  on the first of each month [They can be found at any one of our lovely
+15,01  distribution sites]. If you wish to contact Blade in any way, please
+15,01  call Eternal Insanity @ 908.224.8780; All blade members can be reached
+15,01  on Ei. 00I15f you like the work of Blade, let us know. 00L15eave a message to
+15,01  MindCrime at his lame ass internet address............[MCBLADE@DELPHI.COM]
+15,01  or call up Eternal Insanity . 00E15njoy the pack.
+
+
+15,01  00115] In recent member news, 00Shadow Master 15has decided to take this summer off
+15,01     to work on his programming. He has never released any proggy's for Blade,
+15,01     but we hope he'll get his ass working after his break.
+
+15,01  00215] New members this month : 00Tron Powerhouse 15joins us after bailing from iCE
+15,01     Lit division. He wasn't happy with iCE's outlook on Literature, so we
+15,01     welcome him as a great addition to our lit department. In the art dept.,
+15,01     we pick up two members from the late MAD, 00Lupin 15and 00Cianyde15. The art of
+15,01     these two will bring great additions to the Blade Member list. Also from
+15,01     MAD comes 00Haze 15as our new member recruiter.
+
+15,01  00315] Once again I feel I must tell you that Blade is NOT accepting anymore
+15,01     distribution sites withing the united states. I often wonder how many
+15,01     times I need to say this before you people get it through your thick
+15,01     skulls.
+
+15,01  00415] Handle changes... Only one this month, thank god ;)... 00Grafx 15has changed
+15,01     his handle to 00Zephyrus 15and has changed his board name as well, to
+15,01     Ultraviolet Dreams.
+
+15,01  00515] New sites this month. The Canadian HQ has been changed to Warner Studios,
+15,01     and Wild Child has been added to the site list. Also, new member boards
+15,01     include State of Euphoria, Epic, Equinox, and Phreak of Reality.
+
+15,01  00615] Well..That about wraps up this months happenings.. Some turbulation was
+15,01     met in coordinating some of the members, especially some of the original
+15,01     members, but I would like to ad that with his new position, Physical
+15,01     Solution has done a wonderful job as Courier Coordinator and Head Coor.
+15,01     I just now [June 30th, 10pm, 2 hours before pack time] received all of
+15,01     Zephyrus's work, but it was well worth the wait, good job to ZY...
+15,01     Welll.. Hope you ansi freakz enjoy the pak, alot of hard work went into
+15,01     it to make it the best pak yet.
+
+
+15,01  00715] Continuing in Flux's literature 'Pick of the month', this months pik is
+15,01     #2-PASOL.PIK. Enjoy some modern literature along with all of this months
+15,01     Blade literature, which is made up of some of the finest writers in the
+15,01     scene today.
+
+
+00,01Group Greets --
+
+00,01CiA 15(Gettin better every month, can't wait to see this months..)
+00,01Vi/Numb 15(Hope you guys pull through the mess, I would hate to see ya die)
+00,01Manifest 15(Pak this month? eh? Ehe. Can't wait to check it out)
+00,01Dope 15(Ya begged for a greet, so here it is ;) )
+
+
+00,01Personal Greets --
+
+00,01Napalm 15(Get with it assboy ;).. Gimme some codez damnit)
+00,01Soul Seeker 15(When ya leavin!?! ehe.. Have fun ;) )
+00,01Shadow Master 15(When are YOU leavin?!! ehe.. Have fun ;) )
+00,01Mystic Plague 15(When are YOU leavin!?! ehe.. Have fun ;) ) muhahaha

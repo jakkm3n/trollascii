@@ -1,0 +1,49 @@
+14,15 15,01mm14,15      15,01mm14,15 15,01"14,15#  15,01m14,15 15,01mm 14,15  15,01"" " """"""" "m"14,15    15,01mmm
+14,15  15,01 14,15    15,01"" 14,15  15,01 14,15#   #15,01""""14,15 15,01 14,15 15,01 #"14,15#15,01"14,15    #15,01 14,15  15,01 ""14,15  15,01" #
+14,15  15,01 14,15 15,01"14,15#15,01  m 14,15  15,01m"mmmm14,15  15,01 14,15  15,01 14,15 #15,01m14,15 15,01 m 14,15   #15,01 14,15  15,01 14,15# 15,01mmm14,15# 15,01  sDIR 0.25B
+14,15  15,01  mm14,15## 15,01 14,15  15,01m14,15     # 15,01"14,15  15,01m14,15     15,01mm14,15  15,01"mm "m14,15     15,01"m  (c)1994, Eerie [Relic]
+
+15,01"it's so elite even rad man uses it!"
+
+15,01muhaha why am i writing this anyway, i know nobody will ever read it.
+15,01anyway. err.. this proggie is a simple dir program. but it displays the
+15,01sauce too! yay!
+
+15,01who will use it? hmm i will use it, i dont know for you tho. i'll use it
+15,01for the reviews in undergrown. huh? you ask. hell yea, lookaddat:
+
+15,01c:\zUM\pHUNKY\tEMP\dIR>sdir>dir.lst
+
+15,01then you'll get a file named dir.lst with all filenames, size, author and
+15,01titles of the files in the directoty. nifty eh?
+
+15,01of course you can use it plainly by typing sdir alone. wont serve a big 
+15,01purpose tho. but if you do so just add a /P and there will be a pause every
+15,0125 lines just like the mofo dos.
+
+15,01sdir /? will also give you a cutey help screen, fun for the whole family
+
+15,01whatever. its thee end. aaah yea. it sorts the filenames by extension and 
+15,01then by name. funny no? in future versions i'm gonna add some other sort
+15,01features.
+
+15,01thass all foos                                                      -33
+
+
+
+
+15,01revision history
+15,01----------------
+
+15,010.23B   first release bitch
+
+15,010.24B   fixed a stupid bug
+
+15,01      + release in undergrown #3
+
+15,010.25B   removed the bitchin 286+ instructions..
+15,01        fixed the proggie so you can type sdir c:\mofo\dir\*.* for example
+15,01        added /P
+15,01        added /?
+
+15,01>

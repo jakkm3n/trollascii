@@ -1,0 +1,20 @@
+
+
+
+
+15,01                          12Data Poem
+
+15,01                       12Synchronous bits in ethernet
+15,01                       12UART hot as stars14,
+15,01                       12Root in VMS
+15,01                       12Data in the cards14,
+
+15,01                       12Flash RAM on system boot14,
+15,01                       12Barracuda in the box14,
+15,01                       14.12Vfast on serial port14,
+15,01                       12Data never stops14.
+
+
+
+
+15,01                                             12--Fl15u12x    [BL14/15+12DE]  '94

@@ -1,0 +1,21 @@
+15,01            mmmmmmmm """14,15 15,01m
+15,01      mmmmm14,15   15,01"""  """" "|                 /SE xx . Send Message
+15,01   mm|14,15 15,01"""mmm         mmmm                 /# . Who's Online
+15,01m""   mm""mm"14,15 15,01|     mmm"mm"m               /HELP . Global Help
+15,01  mmmm14,15 15,01"""  m "    mmmm14,15 15,01m"14,15 15,01m"m   AT<ACiD>  /OFF . Logoff
+15,01mm14,15 15,01""   mm14,15 15,01""mmmmm14,15    15,01"""  "14,15 15,01m"m
+15,01"   mm14,15 15,01"" mm14,15   15,01"""""  m14,15  15,01m   """" """"""" mm        mmmm
+15,01mm"""                  "14,15  15,01mm m""""""m""m 14,15  15,01m"m  mmmm14,15 15,01""""     MAIN MENU
+15,01                         "14,15   15,01m""""""""""" "14,15  15,01mmm "" mmm""mm
+15,01  A . About BBS             """           mm"14,15   15,01"  "mm ""mm""mm
+15,01  B . BBS List         J . Credits        "14,15  15,01m   mm14,15   15,01""m  ""mm m
+15,01  C . Chat Sysop       K . Configuration   "14,15  15,01mmm14,15 15,01""  "14,15   15,01mm m14,15   
+15,01  D . Display News     L . List Users         ""         ""14,15   15,01""
+15,01  E . Edit Rumours     M . Message Bases   R . Leeches
+15,01  F . Feedback         N . Newscan         S . Status      W . Last Users
+15,01  G . Goodbye          O . NUV             T . Transfers   X . Xfer User
+15,01  H . Help             P . Doors           U . Time Bank   Y . Your Stats
+15,01  I . Infoforms        Q . QWK Mail        V . Voting      Z . Last Call
+15,01  - . Top Ten Users    * . Ansi Art        = . Set Conf    ! . Level Raise
+15,01  $ . Donations        . . Registration    + . P/W Change  & . LSD Ad
+15,01  / . Multi-Dimensions ^ . Modem Status    LSD BBS (c) 1990-1993!

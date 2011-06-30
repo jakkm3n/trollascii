@@ -1,0 +1,30 @@
+15,01               Pursuit Pack #3 - [June 1, 1994 - June 30, 1994]
+
+15,01 # File Name     Bytes Flg Subject                     Artist          Date
+15,01-------------------------------------------------------------------------------
+15,01 1 AH-DIMX  ASC   2904     Dimension-X                 Ash              4-28-94
+15,01 2 AH-DIST  ASC   1615     Distorted Reality           Ash              6-27-94
+15,01 3 AH-I2I   PUR  19178 +   Insight 2 Insanity          Ash              4-23-94
+15,01 4 AH-PUR   ASC    687     Pursuit Logo                Ash              6-27-94
+15,01 5 AH-PUR   PUR   3197     Pursuit Logo                Ash              6-27-94
+15,01 6 AH-PUR2  PUR   2693     Pursuit Logo                Ash              6-27-94
+15,01 7 AR-DISR1 PUR  23365 +   Distorted Reality           Argon            6-21-94
+15,01 8 AR-PURS2 PUR  33716 +   Pursuit Logo                Argon            6-17-94
+15,01 9 AR-PURS3 PUR   5264 +   Pursuit Logo                Argon            6-10-94
+15,0110 GN-CAOS2 PUR   4632     Chaos Net                   Gnome            6-25-94
+15,0111 GN-COE   PUR  27292 +   Crypts of Eternity          Gnome            6-24-94
+15,0112 GN-DAMAJ PUR   3167     Damaj Logo                  Gnome            6-24-94
+15,0113 GN-DISF  PUR   6828 +   Distorted Reality           Gnome            6-26-94
+15,0114 GN-FUNK  PUR   4436     Pursuit Logo                Gnome            6-24-94
+15,0115 GN-PLOGO PUR   4605     Pursuit Logo                Gnome            6-27-94
+15,0116 PS-DMJIF PUR   3954     Damaj Interface             Psyber           6-08-94
+15,0117 PS-MENU  PUR   5229     Main Menu                   Psyber           6-25-94
+15,0118 PS-PROMO PUR  11283 +   Pursuit Promo               Psyber           6-30-94
+15,01-------------------------------------------------------------------------------
+15,01   18 files      164045 bytes
+
+15,01M = Sound Effects/Music
+15,01A = Animated
+15,01M = Multiple Artists
+15,01X = HiRes
+15,01+ = Scrolling

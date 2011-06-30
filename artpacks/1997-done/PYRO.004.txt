@@ -1,0 +1,33 @@
+15,01; BEGIN pyronet nodelist revision 004
+15,01;
+15,01; new nodes: 
+15,01:    - Savage Exile! in toronto.  Be sure to grab CI's Escapenet too. :]
+15,01;    - The Screaming Tomato and Daemon's Gate in 604 should be hooked by
+15,01;      now, but I don't have their addresses yet.  That should look like
+15,01;      42:604/1 and 42:/604/2 or something. :]
+15,01;
+15,01; pyronet nodelist from this line onward:
+15,01Zone,42,pyronet,fire_support_network,The_ExtremisT,1-418-841-3410,9600,CM,XA,V42
+15,01B,V32B,v34,TG
+15,01;
+15,01Region,418,city_iz_burning,quebec_city,The_ExtremisT,1-418-841-3410,9600,CM,XA,V
+15,0142B,V32B,V34,TG
+15,01,2,asphyxiie,st-augustin,silverthorn,1-418-878-1526,9600,CM,XA,V34,V32B,V42B,TG
+15,01;
+15,01Region,604,neon_jesus,british_columbia,pedantik,1-604-942-3074,9600,cm,xa,v32b,v
+15,0142b
+15,01;
+15,01Region,800,the_regency,tregency.res.cmu.edu,Halaster,tregency.res.cmu.edu,9600,C
+15,01M,XA,RG
+15,01;
+15,01Region,905,savage_exile!,toronto,critical_illusion,1-905-891-2544,9600,cm,xa,v32
+15,01b,v42b
+15,01;
+15,01; applying nodes please use 42:999/0 if you are netmailing your
+15,01; application.
+15,01; 00@15 i must get info on how to do this.
+15,01;
+15,01Region,999,applying_node,earth_dimension,humanoid,1-XXX-XXX-XXXX,1200,CM,XA
+15,01;
+15,01; END of pyronet nodelist revision 004
+15,01;

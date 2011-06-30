@@ -1,0 +1,48 @@
+15,01,, ;    ,;;illSSSlli;;;;;;iiiillllSS$$$$$$$$$$SSllii;; ;;;;;;iiillSSSS$$$$S;;iil
+15,01;;    ;ii;n';; ii;;;,,``;;;;;iiiillllSSSS$$SSllii;;;;;;;iillllln''``` ``; ` ,;ii
+15,01;    ;;'          `'' nn ,,;;;;iillSSSSSS$S;;;;;;;;;;iillPn''          ` ;  ;;ii
+15,01                      ;;;iilllSSS$$SSlSs$$Sli;;;;;;ilSSP',,;,,_  ,,,_     ++,,;;
+15,01;;;,,         ,,__ ,,illSl;ilSS$$$$$SlllSlS$Slii;;ilS$$$$$ii;;ll$SSll;;,  ;;iill
+15,01;;'' , , ,;iillS$$$$$$$$SSS$$$$$$$$SSlllll$$$$$$$$$$$$$$$$$$lSS$P,; +++,,   ;;ii
+15,01     _,;lS$$$$$SSSSS$$$$$$$$$$$$$$$$llllll$$$$$$$$$$$$$$$$$$$$$$SSSSSlllSSSSSS$$
+15,01 ,;iS$$SSSSlllllllSSS$$$$$$$$$$$$$$SSllllll$$$$$SSSSSS$$$$$$$$$$$$$$SSSSSS$$$$$$
+15,01;iS$$SSSSlllllllSSSS$$$$$$$$$$$$$$$$SllllllSSSSSSSSlllSSS$$$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$SSSlllllllllSSS$$$$$$$$$$$$$$$lllllllllSSSlllliiillllSSSS$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$SSSSSlllSSSS$$$$$S$$$$$$$SSSllSSSl$SSlliii;;,`;ii;;iilSS$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$SSSSSSSS$$$$$SlSS$$$SSllii;;;;iilii;;;;;;;;',;,`;;iilSSS$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$$$$$$$$$SllSSSlliii;;nnn;;iiii;;'`    `;;iii;`;;iilSS$$$$$$$$$SSSSS
+15,01$$$$$$$$$$$$$$$$$$SSlillSSli;;''      ..:: :         ;il$li,`;;iiillSS$$SSSSllii
+15,01$$$$$$$$$$$$$$SSlliP,llSSSS'      '  ;::: :          l$$$$li;  `;;iillSlliiii;;;
+15,01SS$$$$$$$$$$SSlli;'ilS$$$$;     ,_   .. '           ,$$$$$$$l;,  `;;iiii;;;;;;';
+15,01$$$$$$$$$$SSli;; ,jlS$$$$$$b,_                    ,ilSS$$$$$lii;   `;;iii;;;,,;;
+15,01SS$$$$$$$SSll;  ,;lS$$$$$$$$SSSl@g,,  ,        ,;iillSS$$$$$$llii;   ;;;;i;;;;;;
+15,01llSS$SSllii;`  ,jlS$$$$$$$SSSllliiii;;*       ````''nnYY$$$$$$SSll;  ' ';i;;;;ii
+15,01llllli;;;;;   ,jllS$$$$PPPnnn''``                        `'llSSli;;;   ;;;;;;ii'
+15,01lll;;;;;;'   ,;illli;'`         ,;;,,,;;,,;;,,;;;;,_ ,,      `$lli;;;   ;;; ` ;
+15,01ii;;;;;;;   ,ilii;'   _,,,ii;;,;illS;$$$l;S$$$;$$$$l;ill;,     `llll;; ;;ii,   ;
+15,01ii;;;;;;.  .iii;'    ;;ii;illilnY$$PnY$$$$$$$$nY$$$PilSlli ;;   ;lli; ;;iill;, ;
+15,01i;;;;;;;;  ;ii;      ';iin`''`            ```    ``  ``nn`,ii;   ;;,,;;iilSSli;;
+15,01;;;iii;;;,;ii;     ;, _  ;;'                            ,g'';;   ;;;;;iillSSSlll
+15,01;;illSSli;;;;'        ,,                                 `,      ;;;;iillS$$SSll
+15,01;;ilSS$SSli;;       ;                                            i;;illlSSSllll;
+15,01;illSS$$$SSli;                                                  ;;illSS$$$$$SSSl
+15,01iil$$$$$$$$$S$,                                                 ililllSSSS$$$SSS
+15,01illSS$$$$$$$$$$,                                               ;ilSS$$$$$$$$$SSS
+15,01;ilSS$$$$$$$$$$$b,                                            ;$S$$$$$$$$$$$$SSS
+15,01;iiilS$$$$$$$$$$$$Sg,_           __ _,,__  ___ ,,,_,gg, ,,_ ,d$S$$$$$$$$$$SSSlll
+15,01;;illSS$$$$$$$$$$$$li;bggd$gS$S%lS$SlSS$$;iS$$;lS$$;$$P;lSli;ilSS$$$$$$SSllliii;
+15,01l;;illSS$$$$$$S$$$$$$li;;ll;S$$;;S$$;$$$$l;SS$l$$SlPSSSSPn;;ilSS$$$$$SSSlllii;ll
+15,01li;;illS$$$$$$SSlSS$$$$SS%%%gggg,,,,,,,,_____,,,,,,gggg%%SSS$$$$$SSS$$SSllli;;;i
+15,01lli;;illS$$$$$$$$$$$$SSSSSSSSSSSSSllllllliillllllSSSSSSS$$$$$$$$$SSSSllli;;  ;il
+15,01;ll;;illlS$$$$$$$$$$$$$$$$$$SSSSSSSSSSllllllSSSSSSS$$$$$$$$$$lllSSSSllliii  ,;iS
+15,01;ili;;lllSS$$$$$$$$$$$$$$PP""`` `` ,,,,,;;;;;;,,,, ``''YS$$$$$SSSS$lllll;  ;ii;'
+15,01"O rose, thou art sick!  The invisible worm, That flies in the night, In the
+15,01 howling storm,  Has found out thy bed, of crimson joy,  And his dark secret
+15,01 love, does thy destroy." - Willam Blake
+
+15,01Silent, by TFreak.  Version (11.11.1) loaded...
+
+15,01--------------------------------------------------------------------------------
+15,01My 99th ascii is complete.  Finally.
+
+15,01                                                                     Black Jack.

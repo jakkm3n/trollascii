@@ -1,0 +1,22 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 2/1/2001
+15,01###############################################
+15,01ice-0102.nfo,ANSI,iCE NFO File 3/2001,iCE Staff
+15,0188-infinite_frustration.jpg,EXTERNAL,Infinite Frustration,Root88
+15,0188-surrextra_terrestrial.jpg,EXTERNAL,Surrextra Terrestrial,Root88
+15,01ag-sean.jpg,EXTERNAL,Sean,Adam Grossi
+15,01em-auburn.jpg,EXTERNAL,Auburn,Empyrean
+15,01em-planet.jpg,EXTERNAL,Planet,Empyrean
+15,01em-sauvignon.jpg,EXTERNAL,Sauvignon,Empyrean
+15,01id-egg_orange.jpg,EXTERNAL,Egg Orange,Ian Dale
+15,01id-metalpipes_2x.jpg,EXTERNAL,Metal Piped 2x,Ian Dale
+15,01jm-imax.mpg,EXTERNAL,imax,Jamie McCarter
+15,01lo-stl.jpg,EXTERNAL,stl,Leonardo
+15,01po-cans.jpg,EXTERNAL,Cans,Poweronx
+15,01sq2-calculated.jpg,EXTERNAL,Calculated,SQ2
+15,01sq2-tentacled.jpg,EXTERNAL,Tentacled,SQ2
+15,01xb-bot_gang_in_the_e-hood.jpg,EXTERNAL,Bot Gang in the E-hood,Xebra
+15,01xb-escape.jpg,EXTERNAL,Escape,Xebra
+15,01xb-street_fight.jpg,EXTERNAL,Street Fight,Xebra
+15,01xb-torpedo.jpg,EXTERNAL,Torpedo,Xebra
+15,01file_id.diz,ANSI,Zipfile Description,iCE Staff

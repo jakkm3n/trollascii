@@ -1,0 +1,80 @@
+
+15,01            +---------------------------------------------------+
+15,01            |Documentation: Mistigris Application Generator v2.0|14,15 
+15,01            +---------------------------------------------------+14,15 
+15,01             """""""""""""""""""""""""""""""""""""""""""""""""""""
+
+15,01                            Programmer: Quip
+15,01                             Artwork: Quip
+
+15,01              Big thanks to Eto for his help with .bin routines
+15,01          and for granting me access to his .bin compiling utility
+
+15,01   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+15,01   +-------------+
+15,01   | What is it? |14,15 15,01--------------------------------------------------------
+15,01   +-------------+14,15 
+15,01    """""""""""""""
+
+15,01        It's what you've all been waiting for! No, it's not salmon flavored
+15,01    milk-shakes! No, it's not the revival of Fish-tank platform shoes!
+15,01    It's the new Mistigris application generator v2.0!!
+
+15,01        From here, I'll assume that this program will be distributed with 
+15,01    Mistigris packs every month (yes, EVERY month).
+
+15,01   +---------------+
+15,01   | What to do... |14,15 15,01------------------------------------------------------
+15,01   +---------------+14,15 
+15,01    """""""""""""""""
+
+15,01        This program is a very easy to use (although I had a hell of a time
+15,01    writing it, knowing that I had Business homework to do). When you load
+15,01    it up, the screen will fade out, then fade into a introductory ansi
+15,01    picture. It will then execute a brief pause, then proceed to fade out and
+15,01    fade into another ansi which is a menu. This menu lets you select which
+15,01    of the seven division you would like to apply for. Just press up and down
+15,01    until you get to the one you want, then press enter.
+
+15,01        You can fill out as many of the division application as you want, and
+15,01    you can even fill out the same one twice! (although the most recent data
+15,01    that you enter will overwrite the old data). If you need help on what to
+15,01    press at the menu, press F1, and you well be taken to a very brief
+15,01    help screen (much more brief than this =).
+
+15,01        When you fill out your first application, it will ask you your 
+15,01    Handle (or alias), your real name, and your voice phone number. After
+15,01    that, it will ask you if you run a bulletin board system. If you select
+15,01    yes, then it will ask you a special set of questions about your BBS. If
+15,01    you select no, it will continue on with the regular application. One good
+15,01    thing about this program is, after you fill in your Handle, Real name,
+15,01    and Voice phone number, you will not have to do so again when you fill
+15,01    out the applications for other divisions.
+
+15,01        After you are done filling out your desired applications, press
+15,01    escape. This will not immediately exit the program, but prompt you to
+15,01    enter 2-3 initials representing yourself (for example, QP, for QUIP).
+15,01    These initials are used later in the naming of the output application
+15,01    file (in my case, QP-MIST.APP). If you enter over 3 initials when
+15,01    prompted, you will DIE. (Actually, it will just use the first three).
+
+15,01        The program will then put everything into your application file,
+15,01    give you a bit of info on who to send it to, then show some credits, and
+15,01    you're outta there!
+
+15,01   +---------------------+
+15,01   | Application Factory |14,15 15,01------------------------------------------------
+15,01   +---------------------+14,15 
+15,01    """""""""""""""""""""""
+
+15,01        The Mistigris Application Generator was 100% coded in
+15,01    Turbo Pascal 7.0 over a period of about a week. The program was written
+15,01    under a crappy 486 something-or-other laptop that I got for free from
+15,01    my Dad's work. Yay. I have no idea what kind of systems this program
+15,01    runs on, but even if you have a 386, it should run perfectly fine.
+
+15,01        In the making of this program, Eto granted me the use of his
+15,01    fantastic program Exe_Make (or something like that) which attaches 
+15,01    (or compiles) binary files into your program. If you don't know who Eto
+15,01    is, you should be shot (or just check out the new version of Pablo - the

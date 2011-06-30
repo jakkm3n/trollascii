@@ -1,0 +1,80 @@
+15,01THE ANSIS IN QUESTION
+
+15,01WZ-SOUL.iCE is dated 07.29.93, and was, I believe, released from the 
+15,01European division of iCE by Wiz.  The ansi is 48,426 bytes in size.
+
+15,01HD-FR2.ANS is dated 06.01.94, (It's spoon date) and was actually completed
+15,01approximately thirty-some hours before 1200 hrs June 1st, by Hound of 
+15,01UNiON.  The ansi is 35,256 bytes in size.
+
+15,01THE ORIGINAL IMAGE
+
+15,01JULIA.GIF is a black and white GIF file, scanned from The MAXX #1 drawn by
+15,01Sam Keith and published by Image Comics.  It was published in March 1993 
+15,01and is, funnily enough, smaller than WZ-SOUL.iCE at 43,453 bytes.  I 
+15,01scanned it 5 minutes ago.
+
+15,01RESOLUTION
+
+15,01First of all, notice the difference in resolutions.  While one is in 80x50,
+15,01the other is in 80x25.  While the person who released the previous package 
+15,01"STOLEN!.ZIP" said that I had converted the picture into 80x25, I have been
+15,01in the ansi drawing field for the better part of 7-8 months, and I have not
+15,01yet seen such a utility, nor would truncating every second line of the 
+15,01image be easy, or produce a decent conversion.
+
+15,01FILE SIZE
+
+15,01Secondly, notice the file sizes.  While one is 48,426 bytes, the other is
+15,0135,256 bytes.  Funnily enough, one would expect the file to be almost 
+15,01exactly half the size of the original, approximately 24k, which it
+15,01surpasses by 11k.
+
+15,01PROPORTION AND SIZING
+
+15,01While Julia's face is a certain length in mine, it is thinned by 1/6th in 
+15,01the other.  Wiz drew her with green eyes, while her eyes are actually 
+15,01brown (Maxx #1 p10), and moreover, are not even illustrated in that 
+15,01particular frame.  (See JULIA.GIF).  Note the differences in the nose, 
+15,01lips, and teeth as well.  The earrings are designed completely 
+15,01differently.  The shoulders in mine go off the page, Wiz' do not fill 3/4
+15,01of it.  Note the detail of the frills on the shirt.  They are styled 
+15,01COMPLETELY differently.  Note the size and position of the waist on both.
+15,01While one is 40 chars wide, the other is not even completely on the screen,
+15,01and would be about 70 if it were.  Mine has fingernails on the hand, belt
+15,01loops, and a large, rounded belt buckle.  Wiz' does not.  Wiz took the time
+15,01to draw the fishnet.  I did not.  
+
+15,01Other areas where discrepencies were noted: The shape of the hairband, the
+15,01spacing of the bangs on her forehead, the position and sag of the breasts,
+15,01the positioning of the navel, the folds in the pants, the shading of the 
+15,01background, and the bleaching on the bells of the pants.
+
+15,01COLOUR
+
+15,01The colour is another thing that seems to have been overlooked in the 
+15,01charge of "ripping" this ansi.  Again, the tweaks in the hair on Wiz' ansi
+15,01are much darker and more widely spaced.  The cheeks on mine are larger and
+15,01puffier.  Wiz' teeth are red, and his earrings are drawn green and white.
+15,01Wiz left the background white while mine is brown/red.  The top is pink on
+15,01wiz', while mine is dark red.  The belt and buckle are noticeable more 
+15,01shaded on mine, while Wiz chose to leave them less rendered.  The garters
+15,01(jeans) are shaded quite differently.  Wiz chose to make them darker, with 
+15,01black shaded folds, while mine remain dark blue at the darkest on the top
+15,01half, moving to a lighter shade of light blue toward the center.  Also,
+15,01the bleaching on the bell bottoms is outlined on Wiz', while mine is shaded
+15,01and has no outline.
+
+15,01Other differences are easily noticeable in the hair and its shading, the 
+15,01hairband's colour, her neck and shoulder are shaded differently, her navel
+15,01and abdomen, hand, and the dark grey in her panties.
+
+15,01TECHNICAL DIFFICULTIES
+
+15,01After closely comparing the two ansis, I can find very little that are 
+15,01simelar between the two, in all honesty.  They were both drawn in two very
+15,01distinctly different styles, and for me to "rip" Wiz work, I would have to 
+15,01have literally cut the ansi into pieces of 100 lines or less (which would 
+15,01be especially difficult considering the ansi's length), edit them all in 
+15,01Thedraw, change their colour and proportion completely, and then make sure 
+15,01that the pieces fit together well, then reassemble them, then remove his

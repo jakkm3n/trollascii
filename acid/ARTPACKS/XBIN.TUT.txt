@@ -1,0 +1,80 @@
+15,01  The decompression process is very simple.  Load a counter/compression type
+15,01  byte and depending on the compression type decode the correct number of
+15,01  bytes.ng and 512 Charactersed BIN programming tutorial
+15,01  -------------------------------------------------------
+15,01  A rough outline (no error checks).  For size reasons, I've deliberately
+15,01  not used REAL usable code, It should be fairly easy to create that
+15,01  yourself.  An actual working routine is available in the SIMPLEXB viewer.
+15,01                     7    6   5   4     3     2   1   0org
+15,01  WHILE Still_bytes_in_XBIN-+---+---+-------+---+---+---+tm
+15,01     Counter := Character_from_XBIN | 512/I | R | G | B |
+15,01     Type    := Counter & 0C0h         ; Mask out bits 6 and 7
+15,01     Counter := Counter & 03Fh         ; Remore 'Type' bits from Counter.
+15,01  Bit 0: Blue foreground
+15,01     IF (Type = 000h) THEN             ; No compression
+15,01        FOR i:=1 TO Counter+1
+15,01           Character := Character_from_XBINe and/orer programmed before.
+15,01           Attribute := Character_from_XBINs of a 512 character setg within
+15,01           Store_In_Array (Character, Attribute)
+15,01        ENDFOR background
+15,01     ELSEIF (TYPE = 040h) THEN         ; Character compressionovided in
+15,01        Character := Character_from_XBINs obvious, most of the code involves
+15,01        FOR i:=1 TO Counter+1and bit twiddling, two things assembly is the
+15,01           Attribute := Character_from_XBIN
+15,01           Store_In_Array (Character, Attribute)ng the DEFAULT palette, when
+15,01        ENDFORm the palette there is really no longer any Red, Green anding
+15,01     ELSEIF (TYPE = 080h) THEN         ; Attribute compressiondes of red for
+15,01        Attribute := Character_from_XBINing.  This text is by no means the
+15,01        FOR i:=1 TO Counter+1sity' not necesarrily means 'Brighter' color.e
+15,01           Character := Character_from_XBINor value 12 ('Intensity' color 4)
+15,01           Store_In_Array (Character, Attribute)and green.ult a decent
+15,01        ENDFORr that.
+15,01     ELSE                              ; Character/Attribute compression two
+15,01        Character := Character_from_XBINnsity bit.  This can lead to confusing
+15,01        Attribute := Character_from_XBINsimple way to work around this is to
+15,01        FOR i:=1 TO Counter+1 the first and last eight palette values arebly
+15,01           Store_In_Array (Character, Attribute) those four registers, you
+15,01        ENDFOR and DI intact).  Check the manual of your compiler for
+15,01     ENDIFs.  Most compilers allow for inline assembly code, this way it
+15,01  ENDWHILEfont size.asy to use the features described here.
+15,01  ------------------
+15,01  The code samples are for VGA ONLY (!) do NOT use them on a EGA, most
+15,01  On-the-fly (realtime) decompression400 pixel mode.  Each character is made
+15,01  ------------------------------------16 pixels high.  Something strangere
+15,01  happens here.  When IBM developped the VGA, one of it's intensions was to
+15,01  In stead of decompressing an entire XBIN, and then use the decompressedhe
+15,01  data to display the XBIN, you could create a system where you onlyhaving a
+15,01  decompress the part of the XBIN you actually need.  While being moreould
+15,01  complex, it DOES allow for a more memory efficient viewer capable ofty
+15,01  viewing XBIN files substantially larger than available memory.er scanline.
+15,01  So they adopted for the system already widely in use on the Hercules card.
+15,01  While not impossible, it'd probably be too difficult to create anont row,
+15,01  ANSi/XBIN editor making full use of this possibility.he only problem is
+15,01  the small space in between to adjacent characters... Why not utilize
+15,01  The provided viewer SIMPLEXB.EXE/SIMPLEXB.PAS uses this method, making itk
+15,01  possible to view XBIN files of any size (even of 65535 by 65535 in size !)
+15,01  Note that this DOES make the viewer slower, since it continuously needs to
+15,01  load portions of the XBIN from disk.  Better ways for having realtimes,
+15,01  compression are possible, it would make the SIMPLE viewer too COMPLEXcolor
+15,01  however ;-).way to select which of the 256/512 characters should have agh
+15,01  blank column or column 8 doubled, the set of characters with this doubling
+15,01  is fixed they are 0C0h to 0DFh (192 to 223).  You CAN however switch the
+15,01  Compressing an XBINde, so it utilises an 8 pixel wide font.  This doesle
+15,01  --------------------f the characters slightly, but this usually not a bad
+15,01  thing, and ANSi's tend to look prettier in 640*400. ;-)
+15,01  This is somewhat harder to explain...  While it looks easy at first, itave
+15,01  takes quite a bit of work to create an XBIN compressor that achieves good
+15,01  to perfect compression.  The Sample BIN2XBIN program, includes a completeg
+15,01  and near-perfect compression algorythm.ely cause the screen to flicker. On
+15,01  a multisyncing or variable scanning rate monitor, it will cause theXBIN
+15,01  As a test case I've also created an optimal XBIN compressor that makes the
+15,01  smallest possible XBIN, it is however considerable more complex, af
+15,01  magnitude slower and consumes a massive amount more memory than thed/or
+15,01  provided BIN2XBIN program.  For those interested in numbers... Thissame,
+15,01  compressor is made in 32-Bit C enabling to use arrays of any size within
+15,01  available memory, The compressor has roughly 7 times as many lines of Iey)
+15,01  code, consumes up to 4Mb of memory on a 160characters wide XBIN, andon 0,s
+15,01  executes about 30 times slower as BIN2XBIN on a 80characters wide XBIN,
+15,01  and 100times slower on a 160characters wide XBIN.  It basically tests all
+15,01  possible compression types at each character, reverting to the smallest
+15,01  size it found in the process. (and a 8 pixel wide characterbox).oding

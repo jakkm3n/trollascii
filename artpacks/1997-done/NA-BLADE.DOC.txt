@@ -1,0 +1,80 @@
+15,01~~~ cut - Full = EXPLODE.ANS ~~~
+15,01-------------------------------------------------------------------------------
+15,01MLATER.ANS - much later that eveningB.L.A.D.E." Behind the Scenes!
+15,01             (Floating By Uranus)----------------------------------------------
+
+15,01URANUS.ANS - floatingR: ALL PERSONS AND PLACES REPRESENTED IN NA-BLADE.CIA
+15,01      ARE COMPLETELY FICTITIOUS, ANY RELATIONS TO PLACES OR PERSONS LIVING
+15,01        Mc: Hey.. there's another planet we can take over!Y BINDING SENSES 
+15,01        Be: Cool!
+15,01-------------------------------------------------------------------------------
+15,01ENDA.ANS  - THE END - or is it?
+15,01                                 Contents
+15,01~~~ cut - Full = END.ANS ~~~    ----------
+
+15,01FULL = NA-BLADE.CIA 1,000,000 bytesview NA-BLADE.CIA
+
+15,01                       a. the easy way
+15,01-------------------------------------------------------------------------------
+15,01                  V. Complete listing of all the files used
+15,01-------------------------------------------------------------------------------
+15,01               II. Fun facts about this ansimation
+15,01        a. ansimation file resources
+15,01                       - Find out how many days it took,
+15,01 Directory of E:\TD\ANIM\RESOURCE files it took,
+15,01                       - How many times I've seen this damn thing
+15,01[.]             [..]          mo1.ANS           2.ANS           3.ANS       
+15,014.ANS           5.ANS           BELIAL.ANS      F.1             M1.ANS      
+15,01M2.ANS          M3.ANS          M4.ANS          M5.ANS          MIND.ANS    
+15,01F.2           IITEST.ANS    e scF.3         animOP.1            OP.ANS      
+15,01OP.2            OP.3            OP.4            COMP1.ANS       COMP2.ANS   
+15,01COMP3.ANS       COMP4.ANS   lstaCOMP5.ANS       MCROOM.ANS      PROD.ANS    
+15,01O.ANS           O3.ANS      ejoyO2.ANS          O1.ANS          O4.ANS      
+15,01O5.ANS          O6.ANS      reanO7.ANS          O8.ANS          O9.ANS      
+15,01O10.ANS         O11.ANS         O12.ANS         O13.ANS         O14.ANS     
+15,01O15.ANS        IO16.ANS     scriO17.ANS     DE.CTYPE.1          TYPE.2      
+15,01TYPE.3          TALK2.ANS       TALK3.ANS       TALK#2.ANS      TALK#1.ANS  
+15,01TALK4.ANS       EARTH.ANS    allSIDE.ANS    g scBT2.ANS     es, BT1.ANS     
+15,01B1.ANS          COMP.ANS    ch aB2.ANS       diaB3.ANS      y   B5.ANS      
+15,01DEL.ANS         TEST2.ANS   e miB4.ANS      hearB6.ANS      ion!B7.ANS      
+15,01BE-SIDE.ANS     B8.ANS      pletROOMFA.ANS   dirSIDE-A2.ANS     BTK1.ANS    
+15,01BTK2.ANS        BTK3.ANS        BTK4.ANS        BD1.ANS         BTK2-C.ANS  
+15,01MD1.ANS         MTK2.ANS    listMTK3.ANS    he fMTK1.ANS        MD2.ANS     
+15,01BD2.ANS         PB.ANS          MC1T.ANS        PB-A.ANS        MCROOM1.ANS 
+15,01BE1T.ANS        MCCOMP.ANS  simaMC2T.ANS    sourROOM.ANS        SIDEW5.ANS  
+15,01SIDEW.ANS       SIDEW2.ANS  mpleSIDEW3.ANS      SIDEW4.ANS      WAIT.ANS    
+15,01PBTHINK.ANS     SIDE2.ANS   nal MD3.ANS         SIDEN1.ANS      BD3.ANS     
+15,01MD4.ANS         SIDEW6.ANS      SIDEW7.ANS      SIDEN2.ANS      SIDEN3.ANS  
+15,01ACRO2.ANS      VLAB-S.ANS   n plLATER.ANS       L1.ANS          L2.ANS      
+15,01L3.ANS          L4.ANS          L5.ANS          LABV.ANS        L6.ANS      
+15,01LTC1.ANS        LT1.ANS     d ouLT2.ANS     Y caLT3.ANS     losiLABV2.ANS   
+15,01BL1.ANS         LABV3.ANS       BUB1.ANS        BUB2.ANS        BUB3.ANS    
+15,01BUB4.ANS        LABV4.ANS       TWINKIE.ANS     TW5.ANS         TW4.ANS     
+15,01TW3.ANS     ----TW2.ANS     ----TW1.ANS     ----TW0.ANS     ----LTT1.ANS    ---
+15,01LTT2.ANS        LTT3.ANS     proBLL1.ANS    A-BLBLL2.ANS        LAB2-EW.ANS 
+15,01LAB2V.ANS   ----LABFIN.ANS  ----LAB2V1.ANS  ----LABFINP.ANS ----LABS2.ANS   ---
+15,01BELT1.ANS       LF2.ANS         LF3.ANS         LF1.ANS         LL3.ANS     
+15,01MCLT1.ANS   he eLL2.ANS         LL.ANS          LB1.ANS         LB2.ANS     
+15,01LB3.ANS         LL4.ANS         BELT2.ANS       BOOM0.ANS       ELATERA.ANS 
+15,01BOOM1.ANS     1 BOOM2.ANS   ur fBOOM3.ANS   er  BOOM4.ANS       EXPLODEA.ANS
+15,01EARTHF.ANS    2 EARTHL.ANS  it hEARTHR.ANS  PS dMLATER1.ANS rt  BOOMC1.ANS  
+15,01BOOMC2.ANS      BOOMC3.ANS   DOCSHAKE1.ANS  p arLT11.ANS        MLATER2.ANS 
+15,01URANUS1.ANS   3 URANUS2.ANS dispURANUS3.ANS  at URANUS4.ANS 00 BU5P.ANS     
+15,01URANUS5.ANS   4 URANUSA2.ANSyou URANUSA.ANS  texPAUSE           RES.TXT     
+15,01       188 file(s)      1,755,035 bytese dialogue, have some fun
+15,01         2 dir(s)      98,148,352 bytes freelutions! Its a blast!)
+15,01              5 - Hit ENTER, sit back, and enjoy the ride.
+
+15,01        b. completed bits
+15,01        b. the hard way
+15,01 Directory of E:\TD\ANIM\DONE
+15,01              1 - Set your terminal to 19200 or 28800 baud, 8, n, 1, ANSI.
+15,01[.]           2 [..]          urLAB-SCN3.ANSleasDONE.TXT    BS. NAPALM.ANS  
+15,01PRESENT.ANS   3 WARNING.ANS ADE.BLADE.ANS   favoACRO.ANS     favSTAR.ANS    
+15,01MC&BE.ANS       CIA.ANS     se. LAB2.ANS    ge aLAB.ANS     Net SIDEF.ANS   
+15,01GRAB.ANS        LAB-SCN2.ANSo ma[SCENES]      anELATER.ANS  !)  BOOM.ANS    
+15,01NUKE.ANS      4 LAB3.ANS    essaSHAKE.ANS       REDO.ANS        ENDA.ANS    
+15,01URANUS.ANS    5 MLATER.ANS  new message and view it, sit back, enjoy.
+15,01        24 file(s)        904,381 bytes
+15,01         3 dir(s)      98,140,160 bytes free
+

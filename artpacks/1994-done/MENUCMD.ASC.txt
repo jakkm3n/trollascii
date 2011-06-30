@@ -1,0 +1,80 @@
+15,01                          ^0Renegade Menu Commands
+
+15,01^5MISC                                    DOORS^1
+15,01^9-C^1  Display Message                     ^9DC^1  Chain.Txt (WWIV) Door
+15,01^9-F^1  Displays a text file                ^9DD^1  Dorinfo1.Def (RBBS) Door
+15,01^9-L^1  Displays line of text               ^9DG^1  Door.Sys (GAP) Door
+15,01^9-Q^1  Read an infoform                    ^9DS^1  Sfdoors.Dat (Spitfire) Door
+15,01^9-R^1  Read infoform answers               ^9DW^1  Callinfo.BBS (Wildcat) Door
+15,01^9-S^1  Add line to SysOp log               ^9DP^1  PCBoard.SYS  (PCBoard) Door
+15,01^9-;^1  Execute Macro                       ^9D-^1  Door w/ no interface file
+15,01^9-$^1  Prompt for Password
+15,01^9-^^1  Goto menu                           ^5HANGUP^1
+15,01^9-/^1  Gosub menu                          ^9HC^1  Careful logoff
+15,01^9-\^1  Return from menu                    ^9HI^1  Immediate logoff
+15,01                                            ^9HM^1  Display string and logoff
+15,01^5ARCHIVE
+15,01^9AA^1  Add files to archive              BATCH^1
+15,01^9AC^1  Convert archive                     ^9BC^1  Clear batch Queue      [U=Up
+15,01loads]
+15,01^9AE^1  Extract files from archive          ^9BD^1  Download batch queue
+15,01^9AG^1  Manipulate extracted files          ^9BL^1  List batch Queue       [U=Up
+15,01loads]
+15,01^9AM^1  Modify comments                     ^9BR^1  Remove file from queue [U=Up
+15,01loads]
+15,01^9AR^1  Rearchive files                     ^9BU^1  Upload queue
+15,01^9AT^1  Run Integrity tests                 ^9B?^1  List files in batch queue
+
+15,01^5FILES                                   MESSAGES^1
+15,01^9FA^1  Change file area [L=Lst,+,-]        ^9MA^1  Change Message Area [L=Lst,+
+15,01,-]
+15,01^9FB^1  Add file to batch                   ^9ME^1  Send Private Email
+15,01^9FD^1  Download a file                     ^9MK^1  Edit/Delete outgoing mail
+15,01^9FF^1  Search for a description            ^9ML^1  Send Mass Mail
+15,01^9FL^1  List files                          ^9MM^1  Read Private Mail
+15,01^9FN^1  Newscan files [C=Crnt,G=Glob]       ^9MN^1  Newscan messages [C=Crnt,G=G
+15,01lob]
+15,01^9FP^1  Change Pointer Date                 ^9MP^1  Post a message
+15,01^9FS^1  Search for a filespec               ^9MR^1  Read messages
+15,01^9FU^1  Upload a file                       ^9MS^1  Scan messages
+15,01^9FV^1  View an archive                     ^9MU^1  List users w/ access to base
+
+15,01^9FY^1  Show user's file info               ^9MZ^1  Set message bases to scan
+15,01^9FZ^1  Set file areas to newscan           ^9M#^1  Change message base
+15,01^9F@^1  Create temporary directory
+15,01^9F#^1  Change file area
+
+15,01^5AUTOMESSAGE                             OFFLINE MAIL^1
+15,01^9UA^1  Reply to automessage                ^9!P^1  Set message pointers
+15,01^9UR^1  Read automessage                    ^9!D^1  Download a .QWK packet
+15,01^9UW^1  Write automessage                   ^9!U^1  Upload a .REP packet
+
+15,01^5SYSOP                                   OTHER^1
+15,01^9*B^1  Message Base Editor                 ^9O1^1  Shuttle: Ask for BBS Passwor
+15,01d
+15,01^9*C^1  Change to another user              ^9O2^1  Shuttle: Apply as new user
+15,01^9*D^1  Enter Pseudo-DOS                    ^9OA^1  Autovalidation [Password]
+15,01^9*E^1  Event Editor                        ^9OB^1  Add Entry to BBS List
+15,01^9*F^1  File Base editor                    ^9OC^1  Page the SysOp
+15,01^9*L^1  Show SysOp Logs                     ^9OD^1  Add or subtract file points 
+15,01[+-Num]
+15,01^9*N^1  Edit a text file                    ^9OF^1  Toggles AR flag [+-! AR Flag
+15,01]
+15,01^9*P^1  System Config Editor                ^9OM^1  Edit Macros
+15,01^9*R^1  Conference Editor                   ^9OO^1  Display SysOp chat Status
+15,01^9*T^1  Textfiles Editor                    ^9OL^1  List Today's Callers
+15,01^9*U^1  User Editor                         ^9OP^1  Modify User Info [Address, A
+15,01ge, etc]
+15,01^9*V^1  Voting Editor                       ^9OR^1  Join a Conference
+15,01^9*X^1  Protocol Editor                     ^9OS^1  System Bulletins
+15,01^9*Z^1  System Activity Log                 ^9OT^1  Text Files Menu
+15,01^9*1^1  Edit files in file area             ^9OU^1  Complete User Listing
+15,01^9*2^1  Sort files                          ^9OY^1  User's Info Display
+15,01^9*3^1  Read all private mail
+15,01^9*4^1  Download ANY file
+15,01^9*6^1  Upload locally
+15,01^9*7^1  Validate files
+15,01^9*8^1  Add GIF specs to files
+15,01^9*9^1  Pack Message Bases                  ^5MULTINODE^1
+15,01^9*#^1  Menu Editor                         ^9NO^1  Online Users Listing
+15,01^9*$^1  Full Directory                      ^9NA^1  Toggle Page Availability

@@ -1,0 +1,40 @@
+00,01  ;;;,,      `` ;;,15   00;;;;,,iii;; iiii ;;;'+ + ,;''' ,,  ;;'' ' ' ,, ;;,,  ,    
+15,01 00   ;;;,,   ;;,,  15  00``''nniiillllPP''lliii;;; ;  ; '''';;;'';;;;'' ''    ;;'    
+15,01   00     ,,,   ;;;,,   ``',_  ``;;iiiillSSS$$$$$$$$$$$$$$$$$$$$$$SSSSllii;;,  ;'
+00,01;;,,    ,i;;,    ;;;,    ,'   ,,;;;;;;iilllSSSSS$$$$$$$$$$$$$$$$$$$$$$$$$b     
+15,01 00 ;;,, li;;; ;,    ''''',   ,;;;;;;iilllSSSS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b,   
+00,01      llli;;;;;;;,   ,  15 00 ,;;;iilSSS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$l 
+00,01;,,);;lllii;;;;;;;;,   '15 00;;iillS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b,;
+00,01));''lllliiii;;;;;;;,   .;;;iiSSSS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$SSlliii;,`Yb,
+00,01;;;;;Sllii;;;;;;;;;;;   ,,;;;iilliiiillS$$$$$$$$$$$$$$$$$$$$$$SSSSllii;;;;;;;`Y
+00,01,,))l$Sllii;;;;;;;;;;'15 00 ;;iilllSSS$$SSlli;,+YY$$$$$$$$b`YllSS$SSSlliiii;;;;;;;l
+00,01***'$$Slllii;;;;;;;;'15  00'''nn++YYllSS$llliilii;;,nY$$$$D;;iilllllliii;;,;;;;;;l ;
+00,01+++~l$$Slliill;;;;;' 15  00gn*+,-=///`';iillS$$lliii;;Y$$$;d$P;,'n',;;iillSS$iii;  ;
+00,01--nn;$$$Sl  llli;;'15 00  ;;iil@SS$$$$$lliig@@@S@gii;;l$$Pd$';;iillllSSSS$$$$$$$  ;;
+00,01@@@n;l$$;' 'li;;; '  ;illll$Pnnn+++YYYY$$$$P'` `,g@@S $;;iillSSSSSS$$$$$$$$l ;;;
+00,01 ggn;`Y$i;  l;;; '  ;llllSSb,_n@@j'    ,g@$b,  ;$$$$;$$b,,P++nn+++YY$$$$$$$i ;;;
+00,01  ;;;;$;;;iPl;;    ,iilllli;;;ilS$SS@@gggP'`   l$$$il$$$$'`n*++`     _,d$$$;  ;;
+00,01;;,,gllllii;;'   15 00 ;ilSSSSlli;iilSS$Pn"`       $SSl;$$l,   ,SS$$$$$$$$$$$$$   ;i
+00,01SSllliii;;;'' '15   00;;iilllS$$$SS$$$$$b,         lS$$$$$$li 'ilS$$$$$$$$$$$$$   il
+00,01SSSSSlllli;;; ;; ;;illSSS$$$$$$$$$$$$$b       ;lSS$$$$$$Si;,l$$$$$$$$$$$$$l iill
+00,01$SSSSlllliiii;;; ;;illlSSSS$$$$$$$$$$$$b      ilSS$$$$$$$S;iiil$$$$$$$$$$$;illii
+00,01$$SSSSSlllliii;;;;;'llSSSSS$$$$$$$$$$P'`      ill$$$$$$$$$SlS$$$$$$$$$$P"`illlli
+00,01$$$$$SSSSlliiiii;;;;`'ilSSSSS$$$$$$$$b,   __  ;;i$$$$$$$$$$$$$$$$$$$Pn'illSSS$SS
+00,01$$$$$$$SSSl'` `Y$iiil;;`ilSSSS$$$$$$$$$b dli;,$;;i$$$$$$$$$$$$$$$Pn';llSSS$$$$$$
+00,01$$$$$$$$` '    liii;;;;;;`illSSSS$$$$$$$$bn``'Y$$Pn,$$$$$$$$$$$$P'illlSSS$$$$$$$
+00,01$$$$$S''      liii;;;;;;;,`ilSS$$$$$$$SSlli@@,$$$$$$$$$$$$$$$$$P';iillSS$$$$$$SS
+00,01nnn''``15       00iliiii;;;;;; ;illSS$$P;;iilSSS$$$$$$$$$$$$$$$$$$P';;iillSS$$$$$$$$
+00,01` ``'+ ,      lii;;;;;; ;; lll$PnilS;illSSSSSSSSS;;ii$$$$$$$$P;;iillSSSS$$$$$$$$
+00,01llii;,,    b,  `ii;;;;;;;; l;$' d$P ;gg@@S$$$SS$$@SS$$$d$i$$P;;;iillSS$$$$$$SSSl
+00,01SSSllll,   g,`  ``n;; ;;;; llSb l$$g@' AAccccLL$$$$$$;$$;lPP';;iillSSS$$$$$$SSll
+00,01SSSllli;   `Y$b,'`  _  `;;;;lll$b$$$$$$$$SSSS@@SSS$$@@S$$$P';;iillSS$$$$$$$$$SSl
+00,01SSllllll    ;;illl;,`    `;;lSSSS$$$$$$$$$$$$$$';, \d$$$$P;;;iillllSS$$$$$$$$$SS
+00,01SSllliii   ;;iillllllb,`, `;illSSb`;;iillS$$$$' ;i;, `Y$$';;;iiillllSS$$$$$$$SSS
+00,01Slllllii; ` ;;iilllllS$b,`  ;;$$$$b,`;;iillSSg;iilS$i, n ;;;;;iiilllSSS$$$SSSlll
+00,01Sllii;;;;   ;;iilllllSS$$$b,` Y$$$$$$$SS@@@SP;ilSS$$;; ;;;;;iillSS$$$$$$$$$$$SSP
+00,01SSll$$ll$     ;;iiillSS$$$$$b,_`nY$$$$$$$$$g,;ill$$$li;';;;iillSS$$$$$$$$$$$$$$$
+00,01SSlllliii;    ;;iillllSSSS$$$$$$+,,_```''''`;;iill;'';;;;;iillSS$$$$P" The ~"Y$$
+00,01SSllii;;;;     ;;iilllllSSSSS$$',d$$$$$$$l  ;;;;;;;;;iiiillllSSSs$$' Dominion `Y
+00,01$$$$$i;;; ;;   ;;illlSSSSS$$$$P d$$$$$$$$;  iillllllllllSSSSSS$$$$P For Eporue :
+15,01>>SAUCE00The Dominion                       Black Jack          Remorse Producti
+15,01ons 19980104!M  @@P &                             

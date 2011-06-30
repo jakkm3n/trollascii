@@ -1,0 +1,21 @@
+
+15,01                           V00i15S00i15ON-X 00F15ull 00S15creen 00E15ditor
+
+11,01^10E C11ursor 10u11p15          11^10R P11age 10u11p15        11^10Y D11elete 10l11ine15     11^10J J11oin 10l11ines
+11,01^10X C11ursor 10d11own15        11^10C P11age 10d11own15      11^10T D11elete 10w11ord15     11^10B B11reak 10l11ine
+11,01^10S C11ursor 10l11eft15        11^10A W11ord 10l11eft15      11^10G D11elete 10c11har15     11^10N I11nsert 10l11ine
+11,01^10D C11ursor 10r11ight15       11^10F W11ord 10r11ight15     11^10P T11o 10e11nd 10o11f 10l11ine  ^10K O11ther 10c11ommands
+11,01^10V T11oggle 10i11nsert 10m11ode ^10Q S11tart 10o11f 10l11ine  ^10W E11nd 10o11f 10l11ine15     11^10Z U11ser 10M11acro
+
+11,01  00T15hese 00n15ormal 00c15ommands 00w15ork,        00O15r, 00w15hen 00y15ou 00p15ress ^00K15, 00t15he 00f15ollowing
+00,01a15s 00w15ith 00m15ost 00a15ll 00B15BS 00S15oftwares00:15      00c15ommands 00a15re 00v15alid 00a15t 00t15he 00C15md00: p15rompt00.15.14.
+
+14,01    11/10A  T11o 10A11bort 10a M11essage15          11^10K A  A11bort 10M11essage    ^10K Q  Q11uote Message
+11,01    /10Q  T11o 10Q11uote 10a M11essage15          11^10K F  F11ormat 10P11aragraph ^10K S  S11ave Message
+11,01    /10S  T11o 10S11ave 10a M11essage15           11^10K P  P11age 10P11review15     11^10K U  U11pload Ascii
+11,01    /10U  T11o 10U11pload 10A11scii 10a11t 10e11nd 10o11f 10M11sg
+
+15,01                  Type 00|15## right before your text for 00C14o12l13o08r09.10.13.
+
+13,01 14|00 15Black 02|01 Blue 03|02 Green 11|03 Cyan 04|04 Red 06|05 Magenta 08|06 Brow 15|07 White12|
+12,01 14|08 GREY  12|09 BLUE 09|10 GREEN 10|11 CYAN 13|12 RED |13 MAGENTA 08|14 YELL 00|15 WHITE12|

@@ -1,0 +1,80 @@
+
+15,01                     11m15                           11m15                    11m
+15,01       11@14,11   11,01"14,11 11,01"14,11 11,01 @14,11   11,01 14,11 11,01 @14,11   11,01 ""14,11    11,01"" "10"15     11@14,11   11,01 14,11 11,01 """10" 11@14,11   11,01"14,11 11,01 @14,11   11,01   14,11 
+15,01       10#14,11   11,01   14,11 11,01 10#14,11   11,01 14,11 11,01 10#14,11   11,01   14,11   10,01#15 14,11   10,01#15     10#14,11   11,01 14,11 11,01 14,11   10,01#15 10#14,11   11,01m  10#14,11   11,01   14,11 
+11,01    14"" 14,11    11,01 14" 14,11 11,01 14,11    11,01m14,11 11,01 14,11    11,01m14,11 11,01 14,11   11,01@15 14,11   11,01@15 14""" 14,11    11,01m" 14,11   11,01@15 14,11    11,01mm 14,11    11,01m14,11 11,01m14,11 11,01 14""
+15,01              14,11 
+15,01                              "00The iCE Graphic Arts Displaying Facility15"
+
+15,01                                   14----------
+15,01                                  Version  00115.001
+
+15,01                 00Copyright 15(00c15) 001994 Insane Creators Enterprise
+15,01                                   14----------
+15,01                              Programmed by 00Prolog
+
+15,01                       Design by 00Metal Head 15a.k.a. 00Shaggy
+
+15,01                 Additional Design 00/ 15Concepts by 00Syntax Error
+15,01                                   14----------
+
+
+14,01  00Introduction
+14,01----------------
+14,01    00After many months of planning, programming, testing, and adding new
+00,01features, our eagerly awaited viewer is ready for release to the public.
+00,01We intend MULTI-VIEW to be a facility in which all of our monthly pack
+00,01releases can simply and efficiently be viewed.
+
+00,01    15MULTI-VIEW was originally intended as an enhanced version of K-View.
+15,01Later, we realized that it had far surpassed it's predecessor, warranting
+15,01a new name.  XV was written in 100% C from scratch, excluding the SVGA
+15,01routines (Jordan Hargraphix) and the GIF routines (Kyle Powell). Some of the
+15,01ANSI conversion code, in addition, was based on Watchman's KV code.
+
+15,01    00Although we have found our program to be bug free among us who have
+00,01been playing with this code, since, let's see.. December.. we are sure that
+00,01you will come across some things that we have missed.. We also regret having
+00,01to leave out some other functions such as full mouse support and animation
+00,01mode due to singificant bugs as of this time.. expect these functions to be
+00,01available in the next update of the viewer as well as full support for .RIP
+00,01and .EXE files
+
+
+00,01    Features
+14,01----------------
+14,01  15[00\15] Self-Modifying Configuration
+15,01  [00\15] Adjustable Display Speed
+15,01  [00\15] Detailed Full Blocks Mode
+15,01  [00\15] Grey Scale Summing
+15,01  [00\15] Strip Ansi Code Functions
+15,01  [00\15] An EXTENSIVE command line set of options.. XV /? for a list
+15,01  [00\15] Scroll-Back and VGA ANSI Viewing Options
+15,01  [00\15] iCECOLOR Emulation
+15,01  [00\15] Various Video Modes
+15,01        14- 15Text Mode
+15,01        14- 1550 Line Mode
+15,01        14- 15VGA 320x200x256
+15,01        14- 15SVGA              (mode numbers)
+15,01            640x400x256     (1)
+15,01            640x480x256     (2)
+15,01            800x600x256     (3)
+15,01            1024x768x256    (4)
+15,01  [\] Slide show with adjustable delay
+15,01  [\] Advanced file searching options
+15,01        14- 15Allows multiple file specs
+15,01        14- 15Recursive sub-directory search
+15,01        14- 15Comment search
+15,01        14- 15List file support
+15,01  [\] Supports many file formats
+15,01        14- 15ANSI
+15,01        14- 15GIF
+15,01        14- 15PCX
+15,01        14- 15FLI
+
+15,01    00Commands
+00,01  14--------------
+
+15,01        14- 15Esc       14- 15Exit
+15,01        14- 15Enter     14- 15View Files
+15,01        14- 15Space     14- 15Toggle Tag

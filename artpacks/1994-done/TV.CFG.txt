@@ -1,0 +1,80 @@
+15,01;---------------------------------------------------------------------------
+15,01;
+15,01;                       TRiBE ViEW v1.12 Release.
+15,01;                           Configuration file.
+15,01;
+15,01;---------------------------------------------------------------------------
+15,01;
+15,01; FADE - Toggle the fade in and out TV uses ON or OFF.  Default = ON.
+15,01;
+15,01FADE=ON
+15,01;
+15,01;---
+15,01;
+15,01; DISPLAY - Toggle Display Mode bettween the full SAUCE DISCRIPTION w/ 10
+15,01;           lines, or the 40 filenames only, FILES mode.
+15,01;           Default = DISCRIPTION.
+15,01;
+15,01DISPLAY=DESCRIPTION
+15,01;
+15,01;---
+15,01;
+15,01; SLIDESHOW - Toggle slideshow viewing/tagging mode.
+15,01;             Default = ON
+15,01;
+15,01SLIDESHOW=ON
+15,01;
+15,01;---
+15,01;
+15,01; EXCLUDE - List of file extentions you want TV to ignore from MASK or
+15,01;           command line opperation.  Default = Unviewable things.
+15,01;
+15,01EXCLUDE:
+15,01EXE
+15,01COM
+15,01ZIP
+15,01ARJ
+15,01LZH
+15,01MOD
+15,01FLI
+15,01JPG
+15,01BMP
+15,01OVR
+15,01OVL
+15,01:END EXCLUDE
+15,01;
+15,01;---
+15,01;
+15,01; MASK - Your default, load up filemask.  Default = *.*
+15,01;
+15,01MASK=*.*
+15,01;
+15,01;---
+15,01;
+15,01; MODEL - Toggle between the scrolling VIEWER model or the start at the top
+15,01;         READER model.  Note: MUST use VIEWER to view Animations.
+15,01;         Default = ViEWER.
+15,01;
+15,01MODEL=READER
+15,01;
+15,01;---
+15,01;
+15,01; RESOLUTION - Startup viewing Resolution, TEXT, VGA, XGA, SVGA1, SVGA2,
+15,01;              SVGA3 or SVGA4.  Default = TEXT.
+15,01;
+15,01RESOLUTION=TEXT
+15,01;
+15,01;---
+15,01;
+15,01; BAD MODES - List the modes you do not support or do not want to use.
+15,01;             Possibles: VGA, XGA, SVGA1, SVGA2, SVGA3.  One per line.
+15,01;             Default = None.
+15,01;
+15,01; (Example: See EXCLUDE.)
+15,01;
+15,01BAD MODES:
+15,01:END BAD MODES
+15,01;
+15,01;---
+15,01;
+15,01; SVGA - SuperVGA.  Set to AUTO to Autodetect, NONE if you don't have it,

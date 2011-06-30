@@ -1,0 +1,23 @@
+15,01                        -= Renegade DOS Shuttle Logon =-
+15,01                                         Mod by: Cygnus [iNF]
+
+15,01        Ok.. This is my first mod for iNF and probly my simplest... Ok..
+15,01it is very easy to work with.. All ya gotta know is a little bit about 
+15,01MCI kodes and Menu editing.. Any fool know's a thing or to about that.. 
+15,01ok.. Its simple.. For you brain dead slackers I will write it step by 
+15,01step for ya.. 
+
+15,011. First unzip the MISC.ZIP into yer Misc dir (duh)
+15,012. Then unzip the MENU.ZIP into yer Menu dir
+15,013. View the ANSi's and Menu files and edit them to your needs..
+15,01        (Make sure to keep my name in the credits.. or I will 
+15,01         hunt you down and kill you... )
+
+15,01        <editors note- We here at infectious love to hunt down and ritually
+15,01        beat people. Just ask diamond.>
+
+15,014. Edit the Helpfile.. And you should be off to go.. Very simple.. If you
+15,01still cant get it, sell your computer. You're probably not bright enough to
+15,01be running one anyways.
+
+15,01                                                             -Cygnus

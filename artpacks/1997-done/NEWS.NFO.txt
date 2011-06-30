@@ -1,0 +1,80 @@
+15,01    14 
+15,01  14.m15.m@$$$$$$$""$$$$00$$$@m.14m15.m@$$$$$$$""$$$$$00$$@m.14m15.m@$$$$$$$""$$$$$$00$@m.
+15,01  14$15 $$$$$$$$$$  $$$00$$$$$$$15 $$$$$$$$$$  $$$$00$$$$$$15 $$$$$$$$$$  $$$$$$$00$$$
+15,01  14$15 $$$$$$$$$$  $$$$00$$$$$$15 $$$$$$$$$$  $$$$00$$$$$$15 $$$$$$$$$$  $$$$$$$$$00$
+15,01  14$15 $$$$$$$$$$  $$$$$$00$$n'15 $$$$$$$$$$  $$$$$00$$$$$15 $$$$$$$$$$
+15,01 12.11..15$$$$$$$$$$11.......10....11..15$$$$$$$$$$11..15$$$$$$$00$$$11.15$$$$$$$$$$$$$$$$$$00$@m10....
+15,01 02:12:15 $$$$$$$$$$$$ 12::::11::::12:15 $$$$$$$$$$12::15$$$$$$$$$$12:15`n$$$$$$$$$$$$$$$00$$$$$15 11:10:
+15,01 02:12:15 $$$$$$$$$$   02::::12::::02:15 $$$$$$$$$$02::15$$$$$$$$$$02::::::::::::15 $$$$$$00$$$$15 11:10:
+15,01 02:12:15 $$$$$$$$$$           14$15 $$$$$$$$$$  $$$$$$$$$$ $$$$$$$$$$  $$$$$$$$00$$15 11:10:
+15,01 02:15  $$$$$$$$$$           14$15 $$$$$$$$$$  $$$$$$$$$$ $$$$$$$$$$  $$[cs!]$$$  11:15 
+15,01 02:15  $$$$$$$$$$           14$15 $$$$$$$$$$  $$$$$$$$$$ $$$$$$$$$$  $$$$$$$$$$  11:
+15,01 02:15  `n$$$$$$$$            14`15`n$$$$$$$$..$$$$$$$$n'14`15`n$$$$$$$$..$$$$$$$$n'  11:
+15,01 02:15                                                                        11:
+15,01 02:15   00f15    i    s    t    f    u    l     00o15    f     00s15   t    e    e    l  11:
+15,01 12:15                                                                        10:
+15,01 12:.15                                                                      10.:
+
+14,01Pondering the real meaning of Rice Krispie Square
+
+14,01        Rice Krispie squares aren't really squares.  They are cubes.  Cubes 
+14,01formed of elliptical grains of puffed rice.  Straight edges fashioned from 
+14,01many curved ones.
+
+14,01        But there is more.  If the simple reaction of Rice Krispie plus 
+14,01marshmallow called Rice Krispie Squares results in a cube, the creation of a 
+14,01Rice Krispie Cube would have as its final result a Rice Krispie Tesseract, a 
+14,01construct capable of holding an entire cowful of milk and still floating on 
+14,01top and retaining its crunchiness.
+
+14,01        What would be the product of the attempted creation of a Rice 
+14,01Krispie Hypercube?  We're not sure, but we think that they resemble 
+14,01inside-out pretzels.
+
+15,01        ...
+
+15,01        What the HELL happened to 00FOS15?!  Believe it or not, there's been a lot
+15,01of people asking me that.  Yes, a lot of people have actually heard of FOS,
+15,01and since we haven't released since last summer, it's understandable to think
+15,01that we died.
+
+15,01        We didn't die, dammit.
+
+15,01        After some discussion among the members after our July `96 pack, we
+15,01agreed to take some time off...there wasn't enough art assembled for a full
+15,01release in September, so we opted for October.  Then the deadline kept changing
+15,01and changing some more.  Then things went down the toilet.  Side projects began
+15,01to take priority.  Hard drives crashed.  People moved, ran away, etc.  All of a
+15,01sudden, most of the members were unaccounted for!  Thankfully, 00Cthulu15 reminded
+15,01me of the planned dual-release (this pack) that we had talked about before.  I
+15,01fired up my trusty Pine e-mail and sent out mail to the FOS mailing list for 
+15,01the first time in ages.  Believe it or not, several faithful members replied!
+15,01So between some old art I had originally collected for last October and a LOT
+15,01of new material from the 00VGA division15, FOS has awakened.  Here's the lowdown
+15,01on members and sites:
+
+15,01        14City of Shadows15 is down, as is every other artboard in 612.  00Royal15 
+00,01Assassin15 is moving, and the board is history.  Myself, Royal and 00RBX15 are the
+15,01only remaining active artists on our native soil (although Royal is basically
+15,01a full-time parent now)...14White Noise15 and 14Brimborion15 have apparently cooked up
+15,01a zesty anti-matter recipe which they mistakenly taste-tested.  14Phyn15 is missing
+15,01in action...I called his house, and his parents thought maybe 00*I*15 knew of his
+15,01whereabouts!  Nope.  14Radjan15 vanished without a trace, although I ran into him
+15,01on a local WWIV board.  He hasn't returned my mail.  Finally, 14Estatic15 leaves us
+15,01after a long time with the group.  He came with me to 14ACiD!ANSi15 and like me left
+15,01with the departure of 00Cool T15.  He will remain in 00CiA15, so best of luck to him.
+15,01Amazingly, we did pick up a new ascii artist, 00Silence15.
+
+15,01        There wasn't any other site news.  We will publish an updated site list
+15,01in the next pack.  The WWW page (00www.warped.com/~kwagner15) will serve as our HQ
+15,01until everything is sorted out.  It's looking VERY nice, thanks to the efforts
+15,01of 00Sector Slayer15.  Watch for art from the whole FOS crew on there.
+
+15,01        Next pack???  Yes.  00March15 will mark the second year of FOS, so there
+15,01WILL be a pack.  Be warned, our ansi team is back to where it started.  Yeah,
+15,01I was the only ansi artist when FOS began in `95, simply because we only needed
+15,01an ansi artist to handle BBS art for member boards.  00Gree15 has primarily switched
+15,01to hirez, and 00Wolverine15 is simply not as involved in the scene as he once was.
+15,01Alas, I draw ansi for 00Acid15 now, so even I will be joining the VGA bandwagon.
+15,01As many people have noted of late, ascii and hirez are the most called-for
+15,01mediums...ansi is for the enjoyment of other artists and the loyal BBSers, but

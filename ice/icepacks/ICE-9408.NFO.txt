@@ -1,0 +1,56 @@
+15,01                                         mm
+15,01                      mmmm     m  mmm     "14,15    15,01mmmmmm
+15,01                     "14,15    15,01""  |14,15     15,01|mm  m||14,15              15,01""
+15,01                     mmmmm14,15   15,01 ""14,15           15,01 14,15  15,01|14,15         15,01"
+15,01                     "|14,15     15,01| m14,15  15,01" ""14,15     15,01||14,15 15,01|14,15        15,01"
+15,01                       14,15      15,01|14,15  15,01       ""14,15 15,01 "14,15 15,01m""""""""
+15,01   --------------------|14,15     15,01|14,15  15,01|mmmmmmmmm|mm14,15    15,01|  mm14,15  15,01 ------------------
+15,01   ice ice ice ice ice  14,15      15,01|14,15  15,01|14,15       15,01" 14,15   15,01m  m14,15      15,01| o nfo nfo nfo nfo
+15,01   ---------------------|14,15        15,01|14,15       15,01|  "14,15    15,01|14,15       15,01 -----------------
+15,01                         14,15      15,01|14,15          15,01   |14,15          15,01|
+15,01                        m14,15      15,01|14,15          15,01|   14,15          15,01|
+15,01                        """""   |14,15    15,01""   "  |14,15          15,01 -MCA/iCE
+15,01                                 ""          """
+
+15,01 1.  Welcome to the iCE "Phunk Pack", the theme for this iCE pack is PHUNK!
+15,01     Yep, I have tried to make the design of the pack as phunky as possible,
+15,01     and I hope that you enjoy it because I had a hell of a time creating it
+15,01     :)  and I'd like to thank MCA for helping to make this the phunky little
+15,01     production that it is.  Now off to the news of the month.
+
+15,01 2.  We seem to have a new position that has been created in iCE, the long
+15,01     dead director position has been revived.  This time with a phunky little
+15,01     name, and many fewer people with the title.  Lord Soth and Deeply
+15,01     Disturbed were placed into this position because of the sudden set of
+15,01     circumstances surrounding the Senior members.  That circumstance being
+15,01     that all of us are moving around the begining of the month, because of
+15,01     that time is being spread thin for all of us and help was needed.  That
+15,01     is where LS & DD come in as the new "Not-So-Senior Senior Staff"
+15,01     members :)
+
+15,01 3.  The newest members of this little fag farm that we call iCE are the ANSI
+15,01     artists Stone the Crow & Thor, the great new VGA artist Borian, and the 
+15,01     amazing coder guy Khyron.  No not the guy from ACiD.
+
+15,01 4.  The iCE Musicdisk "Epidemic" has finnaly been released, go find it.
+
+15,01 4.  Recently exiting iCE:  Tho cares, they suck if they leave iCE :)  thhhhhpt
+
+15,01 5.  CybeR ChrisT has changed his handle to something a little more fitting..
+15,01     "TooN GooN".  Yet another handle changed, will it ever stop?????  Hell no.
+
+15,01 5.  The iCN hub is Sanctuary(tm), 3o5.PRO.SANC, 21:1305/1.  If you are in
+15,01     iCE, and a sysop of your own board, call there and apply to get the
+15,01     network.  The net has been condensed, and it is all private now.
+
+15,01 6.  There are a few  pictures that can't be viewed with Multi-View this
+15,01     month, they are the side-scroller by DD, the 2 RIP's.
+
+15,01 7.  One more thing, a quick shout out to Black Ire. :)
+
+15,01 +----------------------------------------------------------------------------+
+15,01 |      ... Tempus Thales ... Aphex Twin .. Shaggy .. Syntax Error ..         |
+15,01 +----------------------------------------------------------------------------+
+15,01             aphex@io.org  shaggy@io.org  pbiondic@mailer.fsu.edu
+
+15,01          "Stay Phunky all you ANSI Groupies out there! :)"  -Shaggy

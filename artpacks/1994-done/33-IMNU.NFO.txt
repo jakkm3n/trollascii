@@ -1,0 +1,23 @@
+15,01               14,15 15,01mm14,15      15,01mm14,15 15,01"14,15#  15,01m14,15 15,01mm 14,15  15,01"" " """"""" "m"14,15    15,01mmm
+15,01               14,15  15,01 14,15    15,01"" 14,15  15,01 14,15#   #15,01""""14,15 15,01 14,15 15,01 #"14,15#15,01"14,15    #15,01 14,15  15,01 ""14,15  15,01" #
+15,01               14,15  15,01 14,15 15,01"14,15#15,01  m 14,15  15,01m"mmmm14,15  15,01 14,15  15,01 14,15 #15,01m14,15 15,01 m 14,15   #15,01 14,15  15,01 14,15# 15,01mmm14,15# 
+15,01               14,15  15,01  mm14,15## 15,01 14,15  15,01m14,15     # 15,01"14,15  15,01m14,15     15,01mm14,15  15,01"mm "m14,15     15,01"m
+
+15,01                           Impulse 1.x menu set
+15,01                             by Eerie [Relic]
+
+15,01oooowell, AT LEAST here it is, the menu set for Nivenh's proggie Impulse 
+15,01BBS. Impulse is a really rad program, you should take a look at it. 
+15,01Flexibility of Renegade with all the nifty stuff from vision/2 and Obv/2.. 
+15,01A must.
+
+15,01Err.. Included in this archive is a file called TEMPLATE.ANS. Its a 
+15,01template (duh) you can use to create your own k-spiffy menus.
+
+15,01Btw, keep the template intact. You can change what's inside (titles, 
+15,01commands, etc.) tho.
+
+15,01That's it, bye bye, relic rules =) (and impulse too ehe)
+
+15,01                                                                     -33
+15,01>

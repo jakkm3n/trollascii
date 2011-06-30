@@ -1,0 +1,80 @@
+00,01What's new in 15m00,15m14,00    00,01m15         m00mm00,15m14,00    00,01mm15      m00,15m14,00 00,01"00,15"00,00  00,01"""""""""00,15"00,01mm
+15,01              "00,15"14,00    00,01"15      m00,15m14,00      00,01""""""00,15"00,01mm  15"00,15"00,01m00,15 00,00    15,01         |00,15|14,00 
+15,01                   m00mm    14,15 14,00     00,01"15        |00,15|14,00  00,01    14,15 14,00    15,01      m00m15m00,15m14,00  00,01|
+15,01               m00m00,15m14,00   00,01    15|00,15|00,00 14   00,01|15        m00,15m14,00   00,01|   14,15 14,00    15,01       "00,15"14,00  00,01"
+15,01              "00,15"14,00     00,01    14,15 14,00     15,01      "00"00,15m14,00    00,01"    14,15 14,00    00,01    15m00m
+15,01               14,15 14,00     00,01    14,15 14,00     15,01              m00,15m14,00 00,01"14,15 14,00    00,01 """00,15"14,00 00,01  15"00,15"00,01m
+15,01               14,15 14,00     00,01    15|00,15|14,00    00,01|15      14,15 14,00 00,01m   15|00,15|14,00 00,01| 14,15 14,00    15,01        |00,15|14,00 00,01|
+15,01               14,15 14,00     15,01     14,15 14,00     00,01mm  15m00,15m14,00    00,01m  15"00"" 14,15 14,00    15,01       m00,15m14,00   
+15,01               14,15 14,00     15,01      "00,15"14,00              00,15"00,01m    14,15 14,00    00,01   15m00mm00,15m14,00    00,01|
+15,01              m00,15m14,00     00,01m15        "00""00,15"14,00     00,01""15       m00,15m14,00             00,01"" 14(tm) 00recently.
+
+00,01  1. 15Greetings, and salutations, and all that crap.  Here's what's up.
+
+15,01  002. 15First off lemme explain the new naming of the 00i15CEPACK.  While speaking
+15,01     with 00Tempus 15recently (Staff advising by a Staff Advisor! :)) he brought
+15,01     up the idea of naming an 00i15CEPACK with the year first, as doing this
+15,01     would keep the packs in chronological order when sorted on BBS's.
+15,01     Unfortunately he did not reach me with this idea before the first pack of
+15,01     the year came out, so we must start with the second of the year.  As
+15,01     well, to keep these packs in order, the November and December packs would
+15,01     still be out of order if we just switched the year and month.  So the
+15,01     November 00i15CEPACK will be named ICE-941A.ZIP, and the December ICE941B.ZIP.
+15,01     I know this sounds VERY strange but it is logical.
+
+15,01  003. 15I am overjoyed to announce the return of 00Memphis Snails15, oops I mean
+15,01     00Tempus Thales15. :)  He's working his way back into the scene, and i'm happy
+15,01     to have him as an active (well uhh sorta active :)) part of 00i15CE once
+15,01     again.
+
+15,01  004. 15There are 00many 15new members to the group, and two stepped up from 00i15CE
+15,01     Trial.  The first is 00Glenn Danzig15, who left ACiD to become the 00i15CE ANSi
+15,01     Director, and to give to 00i15CE what has been needed & sought after time and
+15,01     time again... Representation on the west coast.  An artist who is being
+15,01     welcomed back into the group is 00Final Descendant15.  A superb artist in ANSI,
+15,01     VGA, & RIP, he is definitely one of the better & more diverse artists in
+15,01     scene.  Next is 00Dark Wolf15, he is a newer artist that will definitely
+15,01     develop with time.  00Bad Karma15, a last minute addition to the roster,
+15,01     is an accomplished and welcome member from ACiD Productions.  The first
+15,01     person stepped up from 00i15CE Trial is 00Magnus15.  Cool style, different from
+15,01     other members in the group presently, which is definitely something sought
+15,01     after in new artists.  Last but not least is 00Hoaks15, he was stepped up from
+15,01     00i15CE Trial with the completion of the ansi that is inside of this 00i15CEPACK.
+
+15,01     I'd also like to take a quick second to welcome a few of the new trial
+15,01     artists to iCE.  00Vizier15, 00Paradigm15, and 00FUGazi15, welcome aboard!  We
+15,01     eagerly await your future contributions to the group..
+
+15,01  005. 15Ahh, people always changing thier handles.  Well this month three 00i15CE
+15,01     members have changed thier handles, first of all 00Leviathan 15has changed
+15,01     his handle to 00Prolog15.  Second is 00Snoop Dog 15who changed his handle to
+15,01     00Mason15, and lastly 00Special Ed 15who is using the pen name 00Nitrous 15for his
+15,01     ANSIs.  Why?  Don't ask me. :)
+
+15,01  006. 15On a sad note, 00Genesis 15has left with the majority of the 00i15CE Euro ANSI
+15,01     section.  They are leave with no hard feelings to restart thier original
+15,01     group, Corp.  The only member staying is 00Sparr15.  Good luck with your
+15,01     group guys.
+
+15,01  007. 15iCN is up & running.  The newest packet is included in the iCEPACK,
+15,01     ICN#004.ZIP.  I encourage any & all 00i15CE boards to pick up this net.  To
+15,01     pick it up get in contact with 00Xerobe 15on his board 00TASB 15at 215-469-9499.
+
+15,01  008. 15I would like to take this opprotunity to extend a huge thanks to all of
+15,01     the members in 00i15CE.  Nobody has left the group recently to hop to another
+15,01     and that is something that almost no other group can claim.  A group
+15,01     is only as good as the loyalty of it's members, (well there is that
+15,01     talent thing too :)) and we have got some of the best.  Thanks guys.
+
+15,01  009. 15Unfortunately, a couple of the projects that some of the coders were
+15,01     working on weren't able to be included in the pack due to time restraints
+15,01     and/or bug fixes.. These projects, a mega-intro by our Isrealian Uzi-
+15,01     Wielder Ford Prefect, and a new iCE graphics viewer, which must be seen
+15,01     to be believed, either will be released as a addendum file to the pack
+15,01     later on next week, or held off until next month.  We really didn't want
+15,01     you folks to wait any longer for all of our wonderful art.. smirk.
+
+15,01                                     00- Wooden Ass 15a.k.a. 00Metal Head 15[00i15CE] 00Staff
+15,01                                       00and Syntax Error, that other 15[00i15CE] 00Lamer
+
+00,01  15Greets to:    00Tempus 15- Oh my golly, your back.  Nice to see it guy.

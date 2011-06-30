@@ -1,0 +1,15 @@
+15,01nm       .%X%.    [Easier to comprehend in 80x25.. looks screwy in 80x50]
+15,01       .%XXXXX%.
+15,01      .% /   \ %.
+15,01      (| # _ # |)  -> mY^nAYME^iZ^xWiNG!! <Xwing in 408, San Jose, California>
+15,01      __\`/.\'/_         eYE^aM^lAYME!!
+15,01     / __\`-'/   \
+15,01    /    \ _  \,  \         heh. if you can't figger out what he's doing,
+15,01 __/  \ - / \_/   /__            ask your mom & dad.
+15,01_\/  //\ %| (____/   \
+15,01\___//   (_)_)__/_  _/_
+15,01    / _  >     /  \  . \
+15,01   / /|\/  |   \__\____/
+15,01   \/_-_\  |      
+15,01    \   <   \-- kNADS
+15,01     \__/

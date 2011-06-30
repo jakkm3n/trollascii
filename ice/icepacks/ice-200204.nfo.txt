@@ -1,0 +1,60 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    A  P  R  I  L           2   0   0   2
+15,01-------------------------------------------------------------------------------
+15,011. No huge news this month.  Nobody joined or quit.  But we do have some 
+15,01   awesome ansi love again this month!  Big thanks to Trip, who will be heading
+15,01   up our Ansi division and breathing some new life into it hopefully!
+
+15,012. Check out our interview with Gecko this month, where we pry into the deep
+15,01   dark secrets of her life, or at least we ask her what laundry detergent
+15,01   tastes like.
+
+15,013. Also be sure to see our tutorial from Leonardo this month!  Leonardo teaches
+15,01   us how to find out for certain if your teddy bear is truly in love with you.
+15,01   We salute him for being proud enough to stand up and admit this in public,
+15,01   and wish him well.
+
+15,014. Couple of quilts from tiles.ice.org this month.  First off, we have what
+15,01   tiles was really born for, the Salvador Dali Tribute quilt.  It turned out
+15,01   really well, so don't miss it!  Next we have part 1 of our Comic quilt,
+15,01   which was worked on for some time and we finally decided to end it there. It
+15,01   might be continued in the future though!
+
+15,015. Root88, bless his soul, laboured for weeks to find as many old iCE ansis as
+15,01   possible.  We can now share them with you in all their glory.  These are
+15,01   ansis that were released prior to the first iCE Pack in August, 1992.  For
+15,01   those who aren't familiar with that long ago, iCE was formed in 1990, but
+15,01   the practice of releasing packs didn't come about until late 1992.  All the
+15,01   art that was done between 1990 and August of 1992 was just put on BBS's for
+15,01   people to see, and most were lost forever.  But we have managed to find a
+15,01   good number of them, and so we can now allow you to peruse them.  As a note,
+15,01   it's interesting to see how far ANSI has come, and that's as political as I
+15,01   get, folks ;)
+
+15,01   You can view them at http://www.ice.org/pack.php?year=1992&month=7
+
+15,01Not bothering to wash our hands when we finish,
+15,01     Slothy and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01                      Lord Soth                    Root88
+15,01-------------------------------------------------------------------------------

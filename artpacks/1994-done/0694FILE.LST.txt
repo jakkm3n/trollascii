@@ -1,0 +1,40 @@
+15,01                    - + - CRiME 06/94 File Listing - + -
+
+15,01    (-----------------+------------+------------------------------------)\
+15,01      \  Filename.!!! | Artist     | Description                       /  )
+15,01       |--------------+------------+----------------------------------|\/
+15,01       | 0694NEWS.LTR | Kurse      | CRiME June 94' Newsletter        | |
+15,01       | 0694MEM .LST | ---------- | CRiME June 94' Members List      | |
+15,01       | 0694FILE.LST | ---------- | This File                        | |
+15,01       | FILE_ID .DIZ | Kurse      | File ID Diz                      | |
+15,01       | CRIMVIEW.ZIP | Aslan      | CRiME Viewer                     | |
+15,01       | CRIMEAPP.ZIP | Aslan      | CRiME Application Generator      | |
+15,01       | GIFVIEW .EXE | ---------- | .GIF Viewer [VPIC]               | |
+15,01       | KS-ED1  .ASC | Kurse      | Exalted Death ASCII [Needs \/ ]  | |
+15,01       | KS-HM   .ANS | Kurse      | Harvest Moon ANSi [Needs Affils  | |
+15,01       | KS-WN1  .ANS | Kurse      | Wastnet Logo                     | |
+15,01       | ME-LAMP .ANS | Menace     | Lamp Logo                        | |
+15,01       | ME-MAG1 .ANS | Menace     | Magenta 6 BBS Software ANSi      | |
+15,01       | ME-VIP  .ANS | Menace     | ViPER Logo                       | |
+15,01       | MM-TWV  .ANS | Memphisto  | The World Violation ANSi         | |
+15,01       | NK-BS1  .ANS | Nuke       | Black Sunday ANSi                | |
+15,01       | NK-UTOP .ANS | Nuke       | UTOPiA ANSi                      | |
+15,01       | OB-CRIM1.ANS | Oblivion   | CRiME Logo                       | |
+15,01       | OB-CRIM2.ANS | Oblivion   | CRiME Logo                       | |
+15,01       | OB-PIPE .ANS | Oblivion   | Pipe Net Logo                    | |
+15,01       | OB-SD   .ANS | Oblivion   | Sinister Domain ANSi             | |
+15,01       | OB-SLIV .ANS | Oblivion   | Sliver Logo                      | |
+15,01       | OB-VOID .ANS | Oblivion   | Spiritual Void ANSi              | |
+15,01       | PT-FINAL.ANS | Pitt       | Final Destiny ANSi               | |
+15,01       | QS-LAST .LIT | Quisling   | Last Half oF Darkness Lit        | |
+15,01       | QS-SPIR .LIT | Quisling   | Spiritual Void Lit               | |
+15,01       | QS-CANNA.GIF | Quisling   | 1024x768x256 - Cannnabis .GiF    | |
+15,01       | QS-MARV .GIF | Quisling   | 1024x768x256 - Marvin The Mart.  | |
+15,01       | QS-SPR  .GIF | Quisling   | 1024x768x256 - Spiritual Void AD | |
+15,01       | ST-DEATH.GIF | Stryfe     | 640x480x256  - Death Row Ad      | |
+15,01       | ST-GZERO.GIF | Stryfe     | 640x480x256  - Ground Zero Ad    | |
+15,01       | MIX     .MOD | Memphisto  | Cool Mix - Listen to it!         | |
+15,01       |______________|____________|__________________________________| |
+15,01      /                                                                \|
+15,01    (-------------------------------------------------------------------)\
+15,01      \__________________________________________________________________\)

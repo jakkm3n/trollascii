@@ -1,0 +1,62 @@
+00,01"  "  " " " " 15" " " " " " " " " 14" """""""""""""""""""""""""""""""""""""""""""""14,00 
+15,01                 09P O 03i 09S O N   N E W Z L E T T E R   03[090703/091503/099403]15                14,00 
+14,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm m 15m m m m m m m m m 00m m m m m  m  14,00 
+14,14 15,01                          12"02"15      02m  m 12m   02"    m15                             14,00 
+14,14 15,01                               02"  12m14,02 02,01m  m14,02 12,01m02"  " "  12m  "15                        14,00 
+14,14 15,01                        02m 12" 02m " """""12m02""""12m02""12"02"12m 02" m15      02"  12m15                14,00 
+14,14 15,01                   12"15            12"15                         12m 02" m15               14,00 
+14,14 15,01                 02"12m  14,15 00#15@00,00## 15,01 14,15 00#15@00,00##14 00,01 00,15#15@15,01 14,15 00#15@00,00#14 00,01 14,15 00#15@00,00##14 00,01 14,15 00#15@00,00##14 00,01   02m15                 14,00 
+14,14 15,01                  02m  14,15# 15,01   00,00 15,01 14,15# 15,01   00,00 15,01 mm 14,15# 15,01m   14,15# 15,01   00,00 15,01 14,15# 15,01   00,00 15,01 12"14,02 15,01                  14,00 
+14,14 15,01                12"    01,15@14#00#15@00,00# 15,01 01,15@14#15,01   00,00#15,01 01,15@14#15,01 "01,15@14##15,01m 01,15@14#15,01   00,00#15,01 01,15@14#15,01   00,00#15,01    02m 12m15              14,00 
+14,14 15,01                02"12m 14,02 02,01 00,14#01,15@15,01     00,14#01,15@15,01   15,15@15,01 00,14#01,15@15,01   "01,15@14#15,01 00,14#01,15@15,01   15,15@15,01 00,14#01,15@15,01   15,15@15,01  02"15                  14,00 
+14,14 15,01                 02mm" 14,14 00#15,01     14,14 00#01,15@14# 00#15,01 00,14 #15,01 00,14 #01,15@14##15,01 14,14 00#01,15@14# 00#15,01 14,14 00#15,01   00,15#15,01   12"15                 14,00 
+14,14 15,01               02m   "15        02mmm  m15       12m 02m   12m15          02m"15                  14,00 
+14,14 15,01                 12" 02m 12m14,02 02,01"m "12" m 02"m 12" 02m "12m02m  m12" 14,02  02,01"mm " m   12"15                   14,00 
+14,14 15,01                           02m15           14,02 15,01             12m15                        14,00 
+14,14 14,01---------------------------------------------------------------15------00---------14,00 
+14,14 14,01  03Welcome to POiSON release 5.  We are delighted that you have downloaded15     14,00 
+14,14 14,01  03this pack and hope that you enjoy it. The release should include a SVGA15     14,00 
+14,14 14,01  03animated slideshow, a MOD, 2 VGA loaders, 14 ANSIs, a FLI, a members15        14,00 
+14,14 14,01  03listing, a primitive ansi viewer, an application generator and this15         14,00 
+14,14 14,01  03newsletter.15                                                                 14,00 
+14,14 15,01                                                                              14,00 
+14,14 14,01  03We are rapidly improving and growing, but we are still looking for more15     14,00 
+14,14 14,01  03artists.  If you are interested in becoming a contributor to POiSON,15        14,00 
+14,14 14,01  03and perhaps a member, then check out the application in this release15        14,00 
+14,14 14,01  03and be sure to download our next pack, scheduled for early September.15       14,00 
+14,14 15,01                                                                              14,00 
+14,14 14,01  03Until then!15                                                                 14,00 
+14,14 14,01-------------- -- -15                                                           14,00 
+14,14 14,01  12New Faces  # 03we would like to publicly welcome our new members.15             14,00 
+14,14 15,01                                                                              14,00 
+14,14 14,01  09New Member Boards15         09Sysop15                  09Status15                     14,00 
+14,14 14,01  03Digital Fluid15             03Bum15            03Us North Hq/Application Center15     14,00 
+14,14 14,01  03DNA15                       03Narcissus15      03Distrobution Site15                  14,00 
+14,14 14,01  03Technological Meltdown    Culture Vain   Distrobution Site15                  14,00 
+14,14 15,01                                                                              14,00 
+14,14 14,01  09New Members15               09Area15                                              14,00 
+14,14 14,01  03Digital Raper15             03Courier15                                           14,00 
+14,14 14,01  03Umbro15                     03ANSI artist15                                       14,00 
+14,14 14,01  03Lord Pridkett15             03Coder15                                             14,00 
+14,14 14,01--------------- -- -15                                                          14,00 
+14,14 14,01  12History and Other Information15                                               14,00 
+14,14 15,01                                                                              14,00 
+14,14 14,01  03POiSON is an art group based in 612. The group took off in October 199315     14,00 
+14,14 14,01  03and has had five art releases since then.  The first release consisted15      14,00 
+14,14 14,01  03primarily of VGA and ANSI pictures. Now, only eight months later, we have   14,00 
+14,14 14,01  03grown to include SVGA graphics and MODS, have our own programming team,15     14,00 
+14,14 14,01  03and have doubled the size of our membership. We are currently working on    14,00 
+14,14 14,01  03adding RIP, PHOTOGRAPHY, and some forms of written art work. Again, if you  14,00 
+14,14 14,01  03are interested in becoming a member, fill out the application enclosed in   14,00 
+14,14 14,01  03this release and upload it to Digital Fluid BBS @ 612.431.2770.15             14,00 
+14,14 15,01                                                                              14,00 
+14,14 14,01---------------------------------------------------------------15------00---------14,00 
+14,14 14,01   09NEWZLETTER CREATED BY BUM & THE BLACK WIDOW (c) 1994 POiSON PRODUCTIONS    14,00 
+14,14 15,01                                                                              14,00 
+15,01                                                                               14,00 
+14,15 
+15,01"                                                                              14,15 
+15,01m                                                                              "
+15,01                                                                               m
+00,01m
+15,01                                                                               14m

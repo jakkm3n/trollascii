@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                     J   U   L   Y          2   0   0   1
+15,01-------------------------------------------------------------------------------
+
+15,011. A tiger who can waltz, a radioactive aardvark, and a bunch of amazing new 
+15,01   artists this month!  That's right, it's another amazing, uplifting, morally 
+15,01   wholesome iCE Pack!  Sure to get those annoying rust stains out of your 
+15,01   aging car, able to clean your fine dinnerware, and guaranteed to trim inches 
+
+15,01   of fat off your pendulous waist in under 15 seconds!
+
+15,012. We'd like to welcome Optical Shock to ice!  You can see his handiwork in the
+15,01   pack this month.  He is fascinated by aluminum shiny things and he prefers
+15,01   to be called Nancy, unless he is dressed as Spot, in which case he prefers
+15,01   to be called Nancy.
+
+15,013. We would also like to welcome Quesim this month!  Quesim is a swinging
+15,01   single artist who enjoys belly dancing and says he hates it when women think
+15,01   they know how many pennies are in the jar.
+
+15,014. Next up, we have Saiyan!  Saiyan joins us from deep within the jungles of 
+15,01   Switzerland, just to the left of the famous Mayan temples of Geneva.  Saiyan
+15,01   is not a banker, and he claims that he can convert "text to speech" more 
+15,01   realistically than any software package!
+
+15,015. Pedro, aka Pete Hernandez joins us as well!  Pedro doesn't train snakes, and
+15,01   his claim to fame is in using tiny little 1's and 0's from his home PC to 
+15,01   make pictures.  He also can cause an instantaneous solar eclipse when he 
+15,01   sneezes or tells people that he is made of plastic.
+
+15,016. We have also gained a rare specimen of the endangered Sleeping Tiger.  
+15,01   Patricia says she is firmy rooted in fact, and claims that she is the 
+15,01   product of evolution.  She enjoys dreaming of throwing bits of cloth into
+15,01   active volcanos.
+15,01   
+15,017. Mist also joins us, but we have no idea who he or she is.
+
+15,018. Earlier this month we held the 2001 iCE Con in Virginia.  While many of the
+15,01   photos were confiscated by the police, the memories will last at least a few
+15,01   weeks.  We had about 10 iCE members show up, and we partied quite heartily
+15,01   and had a great time together.  Those who missed it were heard saying such
+15,01   woeful statements as, "Man!  I didn't know the A-Team was on tv!" and "Holy
+15,01   Circus!  We need more hostages!"
+
+15,019. This month marks our 108th pack, or 9 full years of monthly packs!  Congrats
+15,01   to the over 600 members who have helped this organization release over 4,300
+15,01   pieces of art for the world to enjoy.  We have seen our amateur members turn
+15,01   into full blown Hollywood artists doing film work, work on computer games, 
+15,01   become doctors, and the large majority who have just remained great friends
+15,01   and talented artists.  We salute each and every one of you and hope everyone
+15,01   continues to find success as we begin our 10th year of packs!  Thanks again,
+15,01   everyone.  I hope in another 11 years (iCE was started in 1990) we can look
+15,01   back as the same amount of growth and success we have had in our first 11 
+15,01   years.
+
+15,01Fruits and Vegetables,
+15,01     Slothy, Mass Delusion, Spot, and Root88
+
+15,01-------------------------------------------------------------------------------
+15,01     Lord Soth            Mass Delusion             Spot            Root88
+15,01-------------------------------------------------------------------------------

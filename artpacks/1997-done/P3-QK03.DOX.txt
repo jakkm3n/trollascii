@@ -1,0 +1,30 @@
+
+15,01         """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01            14,15 15,01"" 14,15 15,01   " 14,15 15,01"14,15 15,01   14,15 15,01"14,15 15,01 14,15 15,01"14,15 15,01 m"14,15 15,01 14,15 15,01"m 14,15 15,01 14,15 15,01 14,15 15,01"m "14,15 15,01" " m"14,15 15,01 m14,15 15,01 14,15 15,01 m"14,15 
+15,01            14,15 15,01"  14,15 15,01   14,15 15,01 14,15 15,01"    14,15 15,01"  14,15 15,01"m 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01    14,15 15,01  14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01"m14,15 15,01 14,15 15,01mm
+15,01            14,15 15,01   14,15 15,01m" 14,15 15,01 14,15 15,01     14,15 15,01   14,15 15,01 14,15 15,01 14,15 15,01m14,15 15,01 14,15 15,01m14,15 15,01 "m14,15 15,01 14,15 15,01m14,15 15,01  14,15 15,01  14,15 15,01 14,15 15,01m14,15 15,01 14,15 15,01 14,15 15,01" mm14,15 15,01TPN
+15,01         mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+15,01                         P3-QK03.BSP by P3rmafr0st[FLiP]
+
+15,01               This is my third deathmatch level.  I hope you enjoy
+15,01              playing it.  Used Worldcraft v1.2R to make it.  To use
+15,01              this level, copy the *.bsp file to your quake/id1/maps
+15,01                directory.  I've included that *.map file for your
+15,01                personal customization. There are quite a few bugs
+15,01                   that I just couldn't hammer out...  oh well.
+15,01              Many thanks to  Catastrophe for help with the lighting
+15,01                and weapons placement. So, if there's any problems
+15,01         or anything like that, e-mail me at p3rmafr0st@hotmail.com.  *:)
+
+15,01           If you play Quake on the net.. I'll see you on Gooland, Guns
+15,01         Island, Datawave rules, and some others... here are the ip's.. *:)
+15,01             140.203.8.25                       -Guns Island (GI Clan Server)
+15,01             205.197.242.62                     -Gooland
+15,01             207.0.68.186                       -Datawave Rules
+15,01             kitty1.stanford.edu port 26666     -Clanring
+15,01             128.173.88.76                      -Babylon 5
+15,01             35.8.144.96                        -Realistic Teamplay Server
+15,01             128.61.39.135                      -Clanring
+15,01>SAUCE00p3-qk03 Deathmatch Level Docs      P3rmafr0st          FLiP PRoDuCTioNS 
+15,01   19970504C*                                    

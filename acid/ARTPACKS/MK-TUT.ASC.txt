@@ -1,0 +1,80 @@
+15,01A few years ago I was playing around in a post on Huma and all of a sudden
+15,01drew a shading tutorial online.  That was the only tutorial I ever drew and
+15,01I was happy with it because after 2 weeks it fluttered out of existance.
+
+15,01I love tutorials.  Perhaps more than the resulting pictures themselves.
+15,01They add a third dimension to a piece of artwork: time.  After viewing an
+15,01oldschool tutorial recently, I decided to recreate the newschool tutorial
+15,01I drew so long ago.
+
+15,01888888TTTiiii:::::.......
+15,0188  Step One: Simple outline
+
+15,01                              88888888888
+15,0188888888888888888888       888             88    88888888888888888888888888
+15,01                        8                      8
+15,01                       8                         8
+15,01                     8                            8
+15,01                    8                              8 888888
+15,01                    8                              8     888888
+15,01                    8                              8          888
+15,01                     8                            8            888
+15,01                     8                           8            888
+15,01                       8                       88          88
+15,01                          888             888       888888
+15,01                              88888888888      888
+
+15,018888888888888888888888888888888888888888888888888888888888888888888888888888
+
+15,01In case you can't tell from the outline, this is a sphere sitting on a
+15,01plane.  It's casting a shadow to the right.  I keep the outline simple,
+15,01it isn't important if the lines connect or not, they're only there to
+15,01make sure the basic shape looks good.  I spent about 2 minutes drawing
+15,01this outline.  About 30 seconds of that was adding the plane and the
+15,01shadow as an afterthought.  For complex objects this may take quite some
+15,01time, and when you're done, you'll be disappointed at how much time you
+15,01spent making something that looks so bad.  Don't be frustrated, the
+15,01shading is the most important thing... it's unfortunate so many artists
+15,01overlook it, or toss it in as an afterthought.
+
+
+15,01888888TTTiiii:::::.......
+15,0188 Step Two:  Shade Dark Regions
+
+15,01                              88888888888
+15,01...........................888             88 ...............................
+15,01........................8                      8.............................
+15,01.......................8                         8...........................
+15,01.....................8                            8..........................
+15,01....................8                              8      ...................
+15,01....................8                         ::   8        .................
+15,01....................8                        :::   8          ...............
+15,01.....................8                     ::::   8           ...............
+15,01.....................8               ::::::::    8           ................
+15,01:::::::::::::::::::::::8     :::::::::::::     88...........:::::::::::::::::
+15,01::::::::::::::::::::::::::888             888...........:::::::::::::::::::::
+15,01::::::::::::::::::::::::::::::88888888888::.......:::::::::::::::::::::::::::
+15,01iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+15,01iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+15,01I start from the darkest shade and work up to the brightest shade.  This
+15,01"lightening" approach is very similar to drawing with a pencil.  I also draw
+15,01over the outline as the contrast builds.  This should take a little longer
+15,01than the outline did, depending on what you have to shade.  For complex
+15,01objects, you're busy casting shadows everywhere and making the background
+15,01dark.  If you make the background too bright, the foreground won't stand
+15,01out at all.
+
+
+15,01888888TTTiiii:::::.......
+15,0188 Step Three: Lighter Shades Next
+
+15,01                              iiiiiiiiiii
+15,01..........................iiiiTTTTTTTTTiiiiii ...............................
+15,01.......................iiiiiTTT8888TTTTTTTiiiiii.............................
+15,01......................iiiiTTT888888TTTTTTTTTiiiiii...........................
+15,01.....................iiiTTTTT8888TTTTTTTTTiiiiiiiii..........................
+15,01....................iiiTTTTTTT88TTTTTTTTiiiiiiiiiiii      ...................
+15,01....................iiiTTTTTTTTTTTTTTTTTiiiiii::iiii        .................
+15,01....................iiiiTTTTTTTTTTTTTTiiiiiii:::iiii          ...............
+15,01.....................iiiiiTTTTTTTTTiiiiiiii::::iiii           ...............

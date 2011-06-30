@@ -1,0 +1,71 @@
+01,01@14,14#00  14,01mmm"""14,14  14,15""mm""m"15,01m14""00,14   14,15"m "" m"00,14 15,01 14,15 " ""m15,01 14,15   "m"""m00,14 14 14,01""15mm14,15   "00,14 14,15m00,14 14,15""00,14     14,01"""mmm14,14 
+14,01#00,14       14,15m 15,01mmm"""14,15   "   15,01mm""14,15  "     15,01||14,15    15,01||14,15       15,01""mm14,15        m " 15,01"""mmm00,14 14,15"00,14    14 
+14,01 00,14    14,15m"m        15,01mmm"""14,15     15,01mm""14,15  15,01""" """" ""14,15  15,01""mm14,15          15,01"""mmm14,15    m"m00,14 14,15"00,14   14 
+14,01 00,14 14,15"00,14 14,15m"m               15,01mmm"""  00mmmm14,00         00,01mmmmm 15""14,15  15,01""""mmm14,15          15 14m "mm00,14   14,01#
+14,01 14,15"14,14 14,15m                      15,01 00m14,00                      00,01m 15mm14,15                15 14 m"m00,14   14#01,01@
+
+14,01 "  "15" ""15,15 15,01"""""00"14,15 00,01"14,00 00,01 14,00 00,01"15"00"15""00"14,15 00,01"00,00 15,01 00,00 00,01"15"00"15""00"14,15 00,01"00,00 15,01 00,00 00,01"15"00"15""00"14,15 15,01m00" 00,00 00,01"15"00"15""00"14,15 00,01" 00,00 00,01"15"00"15"""14,15 15,01"14,15 15,01" "14"  "
+15,01         14,15#15,01 04m13"m04" 04,15 15,01 00,15m15,01 00,15m15,01 13#"m04" 14,15 15,01 00,15m15,01 00,15m15,01  13"m04" 14,15 15,01 00,15m15,01 00,15m15,01 13""m04" 14,15 15,01 00,15m15,01 00,15m15,01 13m"#04" 14,15 00,01" 00,15m15,01 04"13m"04m 14,15 15,01 14,15 
+15,01         01,15@15,01 13m04,04@13,13#04,04@15,01 14,15#15,01"m 14,15 15,01 13m04,04@13,13#13,01m 14,15 15,01   14,15 15,01 13,04#04@13,13#14 13,01 14,15 15,01 14,15 15,01 14,15 15,01 04,04@13,13#13,01m13,13#15,01 14,15 15,01 14,15 15,01 14,15 15,01 13m13,13#04,04@13#15,01 14,15 15,01m 14,15 15,01 04,04@13,13#04,04@13,01m 14,15 15,01 14,15 15,01  14-gh-
+14,01mmmmmm14,14#14,01m 00,14#15,01 14mmmm 01,15@15,01 14mmmmmmmm14,14#14,01mmmmmmmmmmmmmmmm14,14#14,01mmmmmmmmmmmmm14,14#14,01mmmmmmmmmmmmmmmm14,14#14,01mmmmm
+14,01mmm14,14#14,01mm01@14mmmmmm14,14#14,01m 00,14#15,01 14mm14,14#14,01mmmmm01@14mmmmmm14,14#14,01mmmm14,14#14,01mmmm01@14mmmmmmmm14,14#14,01mmmm01@14mmmmmm14,14#14,01mmmm14,14#14,01mmmm01@14mmmmm
+14,01   01@14  #15      01@15      01@15     14#15      01@14    01@14    #15        01@14    #15      01@14    01@14    #
+14,01   #15         14#15      14#  00b r o k e 14#00n   14#00p r o d u c t14#00i o n s    14#    #
+15,01                        00n o v e m b e r   1 9 9 4   -   # 2
+
+
+15,01        00W15hen I first began running the group I was told it was gonna fail
+15,01and even if we came out with a first pack we wouldn't come out with another
+15,01pack.  Well here is the second pack and it's almost on time (bah).  Our first
+15,01pack received some major response and I thank all for the feedback which helps
+15,01us improve our work in our future packs.  We have gotten some great response in
+15,01distro sites all over, and if you are interesting in being a site, hurry because
+15,01we will stop accepting them soon.  We are still in need of members, especially
+15,01in Ansi and Vga, so if interested look at the broken application included in
+15,01this pack.  Thanks to our newest coder, 00ffejtable15, we have an ansi viewer for
+15,01this pack.  Well if you need to contact me by mail either call my bbs (whq)
+15,01or contact me at my internet address (master@cybercom.com),
+
+15,01  00The Master 15BROkEN SS
+
+
+15,01         00S15orry this pack was late, but some last minute things arose
+15,01that held everything else up.  However, a 3 day delay ain't so bad.. :)
+15,01We've picked up 9 new members since september, as well as 14 new boards
+15,01to the sites list.  Please note that we are currently looking for ansi
+15,01and vga artists, as well as non-US sites.  This month brings the BROkEN
+15,01viewer, as promised.. except by a different author than planned.  However,
+00,01ffejtable 15has done a fine job with it, as well as 00diehard15's ansi set for it.
+15,01I'd also like to thank 00nebula 15for making the cooly request-generator, and for
+15,01putting up with my demands through the project; it's a great lil proggy :).
+
+15,01  00Grey Hawk 15BROkEN SS 14(15torphy1098@call.tesc.edu14)
+
+
+15,01                       14-+- 15archived releases 14-+-
+
+
+14,01  00bknreq.zip 14- 15broken ansi/vga/lit request generator by 00nebula
+00,01 tday200.zip 14- 15today 2.00 for renegade [this ver works!] by 00mystic plague
+00,01dk-o2mnu.zip 14- 15oblivion/2 menu set by 00dragoon kain
+00,01 bkn-app.zip 14- 15broken application generator by 00dreldragon 15[in every pack]
+
+15,01                             14#
+15,01                14#15            01@15                14#15          01@
+14,01 14,14  #    01,01@14"""""""01@14""""""""""""14,14#14,01""""""""01@14"""""""01@14""""""""""#"""""""""14,14  #     #
+14,01 14,14#14,01"01@14""14,14#14,01"# 14,15  # 00m14  15,01"  14,15 00m14   # 15,01"14,15 15,01 14,15     00m14 15,01"14#14,15  00m14   #15,01" "14,15     # 15,01" 14,15  00m14  00m15,01 14,15 15,01 14,14#14,01"01@14""01@14""01@
+14,01 01@14 #  01@14   14,15 00m14  00,00#14,15  15,01   14,15 00,00#14,15  15@14  15,01 14,15 15,01 14,15 # 00m14 15@14 15,01" 14,15# 00,00#14,15    15,01"  14,15# 15@14    15,01 14#14,15# 00,00#14,15  15@15,01 14,15 15,01 01@14 #  #  #
+14,01 #    #   14,15 15@14  15@14  15,01 14,15 15,01 14,15 15@14  00#14  15,01 14,15 15,01 14,15   00,00#14,15 00#14 15,01  14,15  15@14 15@14  15,01   14,15  00#14   00#15,01  14,15  15@14  00#15,01mm 14#15       14#
+15,01          14,15 00#14  00#14 #15,01m14,15 15,01 14,15 00#14   # 15,01   14,15   15@14  #15,01m 14,15  00#14   #15,01m  14,15    #  15,01  mmmmm 14,15 #
+
+15,01          14group greets: vor / shiver / eden / relic / blade / mist
+15,01                        14cia / ice / acid / union.
+
+14,01   gh's greets: snoop, venom, irq5, mindcrime, betrayer, widow maker,
+15,01                14mystic plague, grifter, ffej, kittycat! ;), rattle,
+15,01                14nebula, diehard, crisis, soul seeker, eerie, + every1 else!
+
+
+15,01       14- information file completed on 11/03/94 by grey hawk of broken -
+15,01>SAUCEe!November 1994 Info                 Grey Hawk                            
+15,01                                                 

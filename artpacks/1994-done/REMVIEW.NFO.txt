@@ -1,0 +1,45 @@
+15,01-------------------------------------------------------------------------------
+15,01                R E M  M U L T I V I E W E R  V 0 . 2  A L P H A
+15,01                      C O D E D  B Y  V I P E R  [ R E M ]
+15,01                  A N S I  B Y  N I G H T  B R E E D  [ R E M ]
+15,01                     R E L E A S E  D A T E  0 2 / 2 8 / 9 2
+15,01-------------------------------------------------------------------------------
+
+15,01        This is the second version of the REM Multiviewer. In this version
+15,01        the following items are supported:
+
+15,01        o ANSI : 80x25 - Scrolling - Non-Scrolling
+15,01                 80x50 - Scrolling - Non-Scrolling
+15,01                 320x200 - Single Column Non-Scrolling
+
+15,01        o GIF  : 320x200x256 Support
+15,01                 640x480x256 Support
+15,01                 800x600x256 Support
+15,01                 1024x768x256 Support
+
+15,01        o FLI : 320x200 Mode FLI Support
+
+15,01        For future versions the following will hopefully be supported:
+
+15,01        o ANSI : 320x200 - Single Column Scrolling
+
+15,01        o RIP : RIP Viewer - Writing these now, look for them in the next
+15,01                version
+
+15,01        o MOD : Mod Player - Got some new routines that have a osciloscope
+15,01                and the routines should be working by the next packet.
+
+15,01        Fixes/Additions to last version released:
+
+15,01        o Cosmetic : options that are in effect now blink, if you
+15,01                     want it a different color, say something to me.
+
+15,01        o Menus : You can now use the left and right arrows to switch
+15,01                  menus instead of having to press a Function key. The
+15,01                  pressing of the funtion keys still work.
+15,01        
+15,01        If you have any suggestions for the viewer direct them to me Viper
+15,01        on The Shaolin Temple or call The Atomic Bomb (510/625-7312) and
+15,01        mail me there.
+
+15,01        Viper [REM/CRiSiS]

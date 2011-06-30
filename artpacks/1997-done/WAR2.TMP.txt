@@ -1,0 +1,53 @@
+15,01             ---- WORLD Pud Template ----
+
+15,01----------------------------------------------------------------
+15,01Title                   - 
+15,01Filename                - 
+15,01Author                  - 
+15,01Email Address           - 
+15,01Short Description       - 
+15,01Additional Credits to   - 
+15,01----------------------------------------------------------------
+
+15,01---- General Info ----
+
+15,01Single Player           - 
+15,01Cooperative             - 
+15,01Warmatch                - 
+15,01Difficulty [1-10]       - 
+15,01New Sounds              - 
+15,01Construction Time       - 
+
+15,01---- Long Description ----
+
+
+
+15,01---- Do's and Don'ts ----
+
+15,01Authors MAY use this level as a base to build additional
+15,01levels, as long as I am mentioned as the original creator.  
+
+15,01Authors may NOT use this level as a base to build additional
+15,01levels! Do it and DIE!  
+
+15,01----------------------------------------------------------------
+
+15,01You MAY distribute this PUD, provided you include this file, with
+15,01no modifications.  You may distribute this file in any electronic
+15,01format (BBS, Diskette, CD, etc) as long as you include this file 
+15,01intact.
+
+15,01You may NOT distribute this PUD. Tell people to get it from the
+15,01same place you got it.
+
+15,01----------------------------------------------------------------
+
+15,01---- Places Where This PUD Is Found ----
+
+15,01BBS Names and Numbers - 
+15,01   
+15,01FTP Sites - 
+
+15,01WEB Sites - 
+
+15,01----------------------------------------------------------------

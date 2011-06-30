@@ -1,0 +1,20 @@
+15,01n
+15,01e               .xXXXXx.         [spare me the criticism, it's a first.]
+15,01c           .xxX^^    ^^Xxx.
+15,01r          X^      ..   %  ^X
+15,01o        X     .xX^  ^        X
+15,01m      X    .x^            %    X
+15,01a     X  %                    %  X
+15,01n    X          .xXXXXx.          X    - look! it's martyr!
+15,01c    X  %   .xX^  %%%%  ^Xx.      X      and it's jesse too!
+15,01e     X    X^  .x. %%  .x. ^X    X       of course.. jesse is martyr.
+15,01r      XXX^   | ,X    | ,X   ^XXX
+15,01/       .H %  `.X^ XX `.X^  % H.
+15,01r       H  %      %XX%      %  H   ____ ____ _____ _____ _____ _ ___ _____
+15,01e        Hb. %b. .%XX%. .d% .dH   |o.  |    | _ .o|o. _ |o.   | | .o|o. _ |
+15,01m             %' ^%XX%^ `%        |         |     |    _|_|   | |   |    _|
+15,01o              %   ^^   %         |___|__|  |_|   |___: | |   |_.   |___: |
+15,01r               % dAAb %                 |__| |___|   |_| |___| |___|   |_|
+15,01s               %      %
+15,01e                %    %
+15,01                  `XX'

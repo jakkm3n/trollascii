@@ -1,0 +1,26 @@
+15,01           ,      ;                       ............................
+15,01     .     I   ;  I .                 ..`                              ` .,
+15,01 ;     ; : $  I; ;$                 ,'       .. HRG-08 .. .. SURVIVE ..    `.
+15,01  , : ;$  ;$  ;  $I  ;             ;                                        :
+15,01  I  ;$$ IZ$ ;  ;$$;               :  ,.,  At last. Summer's over.          :
+15,01  $; $Z; ;$; I;  IZ$              ,'.'   : Some feel good, some bad. I feel :
+15,01  I$ I$ ; $  Y$ ;$$;          __         : fucked up. The last month is the :
+15,01  Z; ;$ I ; ;$; $;  '   ,+y#S$$$$S;      : champion judgin' by the amount   :
+15,01  $ ;  ;$;  $ZI ; ' ;,d$$$$$$SSSS$$;     : of fun, parties and alcohol..    :
+15,01  I I; I$$ :;$$   ,$ ;Z$P2^,+y%%y+,;     : Due to all that our eighth pack  :
+15,01 ; ;$$  ;$ I,`? ,$$Z;I$$,d$$$P+2?$$      : looks as it never did before..   :
+15,01 $ IZ; ; ; $$$,I$$$$$;ZZZ$P"   . ;$,     : Fuck the summer, fuck the autumn.:
+15,01 I ;$I I  ;$ZZ$;SSSZZZZ$$$ZZZ$$S#y$$b,   : The struggle continues.          :
+15,01  ; $;;$; $ZI',y##y,`IZ$$$$$%%#SS$$$$$;  :                                  :
+15,01    ; $$I;ZZ'I',y,`Z;`ZP'$$$$$$$$$$$$$$; : Sirs artists of this month:      :
+15,01     ;$Z;$ZI ?,`2',ZP ,d ZZ$$ZI;P,y#$$$$ :                                  :
+15,01      `+$ZZI ;ZIIIZ,d$ZZ IZZZI;$,?S$P+2' : Droopy            ansi,ascii     :
+15,01   i_L ,##yy IIIZZ$$$$Zyyyy ZP'$$$S      : Infernal Flames   ansi,ascii,vga :
+15,01       $$$ZI IZZZ$$$$$$$$ZZ ,d IZ$P      . Iron_Lung         ascii          :
+15,01       $$$ZZ,`?ZZZZ$$$$$$ZI$$Z P',d `b,  : PhL               ansi           :
+15,01      ;$$$$ZZII,`2?Z$$$$$$$$ZZ,d$$Z ;$$  : Shere Khan        vga,animation  .
+15,01      I$$$$$ZZZII;;,`2$$$$$$$$$$$ZZ,Z$$  . Sprocket          vga            :
+15,01      $$$$$$$ZZZZZII;;,`+$$$$$$$$$$$$$'  :                                  :
+15,01                          `"+?SS$$S+"    . hrg@aha.ru                       .
+15,01                                           #HRG - efnet                     :
+15,01                                                                            .

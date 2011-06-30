@@ -1,0 +1,21 @@
+
+15,01[<--------------------------- TorrentView v1.0a ---------------------------->]
+
+15,01                      You know the whole disclaimer bit. 
+
+15,01      You know i don't want this program distro'd without prior consent.
+
+15,01                          You know all that bullshit
+
+15,01  What i want you to know is that this program is not a very good example of
+15,01  my coding abilities or of the torrent coding division (of which i am the
+15,01  sole proprietor). It's absolutely loaded with flaws and bugs. The only
+15,01  reason i'm releasing it is because you _can_ scroll through your files,
+15,01  you _can_ view jpg's and gif's, and we wanted a viewer for pack#1. The gif
+15,01  viewing is top notch, but the jpg viewing is lacking in speed, resolution
+15,01  optimization, and dithering. Excuse the quality of this program for now.
+15,01  Next month it'll knock your socks off. =)
+15,01                                                        -redcoat/torrent.code
+15,01                                                
+
+15,01[<--------------------------------- <eof> ---------------------------------->]

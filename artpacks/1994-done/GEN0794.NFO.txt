@@ -1,0 +1,80 @@
+15,01              04#15          04#15                                            04"
+15,01                                         04#15                         04"
+04,01  #15         04#15       04#15       04#   #15             04#15                 04#   14,04 15,01        04#
+15,01                14,04#15,01      04#  m 13@15            04#    #15                    04"13,04#14#13,01@04#  #  #
+04,01  #15         13@04mm"|   13@04  13@04   14,04 #04,01m  13@15      04mm13@04    13@15         04"15       13@04  m14,04#15,01        13@
+04,01  # mmm14,04 04,01"14,04 04,01mm14,04##04,01||  m13,04#14#04,01""14,04#13##04,01m|13,04#04,01|"14,04 # 04,01m m""14,04#13#14# 04,01m"14,04 #13#04,01"""14,04 04,01mm  m  mm13,04#04,01""14,04# 13##14 04,01 m14,04#04,01""""13,04#14# 04,01"
+04,01#13@14,04# #13#04,01"   ""13,04#14 #04,01| "15      04"   13,04#15,01 04""  "13,04#15,01     04"14,04# 13#15,01 04"15        14,04 #13#04,01|"  # #13@14,04#13##15,01        04"
+04,01 |14,04# 13#04,01|  # # 13@14,04# 04,01| ""15      04m14,04 04,01 13,04#14#04,01 #  |13,04#15,01  04# #13@14,04#13##04,01||## #    |13@04"15        04m13,04#14 04,01 14,04#04,01"15      04m
+04,01  14,04# 13##04,01m15     04m 13,04#04,01|m| mmmm13,04#14 ##04,01 "|    14,04 #04,01|mm  m14,04 13#04,01"m14,04#04,01m    mm" | "mm  mm13,04#14## 04,01 mm mm14,04#13##14#
+04,01# 13@14,04#04,01""13,04#14 04,01m14,04 04,01"" |14,04#04,01|13,04#14#04,01"""14,04#04,01"14,04#04,01""13@04" "   "14,04#04,01"  """"14,04#04,01 ""13@14,04#04,01""""" # "   """14,04#04,01"""13@04 "14,04#04,01""""13@04""13@04"
+15,01       04#15     04|13,04#04,01| 13@04 #   13@04  #  #    13@15       13@15       04#   HellSpawn13@04   #  13@04    #  #
+04,01  #15          14,04 #13,01@04###  #    #15                   04#15                04#15      04#    #
+15,01            04|13,04#14#04,01  #15     04#   #15      04#15       04#15                        04#  #    #  #
+15,01           04m13,04##14#15,01                                                04#
+04,01m15       04mm""" 13@04  #15                                                    04#
+15,01     04"15        04#
+
+00,01+-------------04#00----------------------------------------------------------------+
+00,01| 04G13ENOC00i13D04E I13NF04O F13IL04E G13ENOC00i13D04E I13NF04O F13IL04E G13ENOC00i13D04E I13NF04O F13IL04E G13ENOC00i13D04E I13NF04O F13IL04E  00|
+00,01|------------------------------------------------------------------------------|
+00,01|15                                                                              00|
+00,01|  04W13el00l, here is GENOCiDE's first Reich.  We are a new group and all, b13ut 04I    00|
+00,01|  04a13m 00very impressed with the quality of most of our members work.  I w13il04l15     00|
+00,01|  04s13ta00rt with a little GENOCiDE history, and then do the regular stuff f13ro04m    00|
+00,01|  04t13he00re.  GENOCiDE grew from the ever-so-small GENiSiS which didn't rea13ll04y    00|
+00,01|  04l13as00t long due to bad orginization.  Anyways, I brought some of the ol13de04r    00|
+00,01|  04m13em00bers of GENiSiS to GENOCiDE (iTZAK, Falcon) and now we were a new gr13ou04p  00|
+00,01|  04b13ut 00we needed members.  The upper 6i6 area code doesn't really have a gr13ea04t 00|
+00,01|  04s13el00ection of artists, so off to the InterNET I went.  ZiGG joined, t13he04n15     00|
+00,01|  04c13am00e H-Faze, then DeATHWiSH and finally TERSiAN. I do not mention Muad'13D00i04B  00|
+00,01|  04b13ec00ause he just dropped one day (no idea).  Then since Muad'DiB (our cod13er04) 00|
+00,01|  04s13pl00it I searched for a worthy replacement, and I found Tap Water.  Tap r13un04s 00|
+00,01|  04a 13B00BS in the upper 6i6 ac. and it is his own code, from scratch.  V13er04y15      00|
+00,01|  04i13mp00ressive.  Of course it is still in those Alpha Stages.  He is mos13tl04y15     00|
+00,01|  04w13or00king on his code and really didn't have time to contribute to this mo13nt04h 00|
+00,01|  04'13s 00pack.  Hopefully he will contribute next month <hin13t>04.15                   00|
+00,01|15                                                                              00|
+00,01|  04E13no00ugh of History, We have 2 count em 2 TRiAL members, YeSMi and SandM13an04.   00|
+00,01|  04I 13h00aven't heard from SandMan, but YeSMi will be a member in the next Rei13ch04. 00|
+00,01|  04O13th00er than this a couple of GreetZ and an info on how to join this i13nf04o15     00|
+00,01|  04f13il00e is over. 13;04)15                                                            00|
+00,01|15                                                                              00|
+00,01|  04T13o 00apply to GENOCiDE send $50.00 and a self addressed envelope 13to04:15          00|
+00,01|15                                                                              00|
+00,01|  04I 13a00m giving my money a13wa04y15                                                   00|
+00,01|  0411360000 Pennsyvania Ave13nu04e15                                                     00|
+00,01|  04W13as00hington D13.C04.15                                                             00|
+00,01|  04D13is00trict Of Colum13bi04a15                                                        00|
+00,01|  0401300000-31133304715                                                                  00|
+00,01|15                                                                              00|
+00,01|  04I13f 00you really wish to apply unzip the gen-app.zip in this archive and f13il04l  00|
+00,01|  04o13ut 00the txt file of your profession.  (This wouln't of been necessary 13i04f    00|
+00,01|  04M13ua00d'DiB just left, he was the one working on the app/viewer).  Then g13iv04e   00|
+00,01|  04i13t 00to a Senior Member.  SPeCTRe, H-Faze, or ZiGG.  You can find us on 13th04e   00|
+00,01|  04I13RC 00as04:15                                                                     00|
+00,01|15             04S13Pe00CTRe = BaYFiELd  H-Faze = hfaze  &  ZiGG = Z13iG04G15               00|
+00,01|15                                                                              00|
+00,01|  04o13r 00E-Mail me 13at04:15                                                            00|
+00,01|15                                                                              00|
+00,01|15             04S13Pe00CTRe = bayfield@pentagon.io.13co04m15                               00|
+00,01|15                                                                              00|
+00,01|  04a13nd 00if you really wanna pay LD charges call the Temp WHQ, 11101100, 13a04t15      00|
+00,01|  04613i600-938-1572 2400-14.4k, 9600 Data Transfers.  And E-Mail Bayfield 13o04r15       00|
+00,01|  04T13ap 00Water and upload it into the Art/Apps file area.  Tha13nx04.15                00|
+00,01|15                                                                              00|
+00,01|  04N13ow 00for those Gree13tZ04:15                                                       00|
+00,01|15                                                                              00|
+00,01|  04D13eA00THWiSH: Lapse?... you da man 13;04)15                                          00|
+00,01|  04H13el00lSpawn: Thanx for letting us use that Phunky Logo 13=04)15                     00|
+00,01|  04H13-F00aze: Ta da... numero 13un04o15                                                 00|
+00,01|  04T13ER00SiAN: it is out!.. finall13y!04!15                                             00|
+00,01|  04P13_E00vil: Board Stats.... Board Stats... 13(04:15                                   00|
+00,01|  04Z13iG00G: You worked your ass off, good j13ob04!15                                    00|
+00,01|  04A13ll 00You Dead-Wood Members: Do something or your ou13t.04.15                       00|
+00,01|15                                                                              00|
+00,01|  04G13ro00up GreetZ to: Lapse, iCE, ACiD, Surge, BAD, WBallz <snicker>, Manife13st04,  00|
+00,01|  04S13Hi00VER, and ummm like those two related name groups, NATiON and UNiON 13;)04.   00|
+00,01|15                                                                              00|
+00,01+-----------------------------------------------------+--------04S13Pe00C13TR04e00---------+
+15,01                                                      00+04b13ay00field@pentagon.io.13co04m00+

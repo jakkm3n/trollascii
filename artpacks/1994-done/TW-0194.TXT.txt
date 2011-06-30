@@ -1,0 +1,80 @@
+
+10,01"10,10                   10,01"m10,10 15,01 10,10      10,01m"10,10    10,01m"10,10  10,01m
+10,01  "10,10#10,01|  10,10##15,01      10m10,10##10,01"  mm15     10m10,10##10,01" 10,10##10,01"10,10##10,01m"10,10##10,01m
+10,01    "  11,11@@15,01    11m11,11@@10,01"    11,11@@15,01   11m11,11@@10,01"11m  11,11@@11,01mm10"11,11@@11,01m10"11,11@@11,01m
+15,01       10,11##15,01  11m10,11##11,01"m10,11#11,01m   10,11##15,01 11m10,11##11,01" "10,11##11,01m"10,11#11,01""" "10,11##11,01m"10,11##11,01m15                           10,11#11,01m
+15,01       11,11  15,01 11,11  11,01"   "11,11  11,01m "m11,11  11,01"m11,11    11,01"m11,11   11,01m    "11,11  11,01m"11,11  11,01m"11,11                      10##11@@10,10#10,01m
+01,11#####10##########11@@@@@@@@@@@@@@@10,10####################14                           10#10,01"
+11,01"11,11        15,01             11m11,11 11,01m"14,11 11        11,01"m11,11 15,01 11,11            11,01m"11,11        11,01"m11,11        10##11@10,10##10,01"
+10,01  11"10,11#11,01|  10,11##15,01   11m15       11m10,11##11,01"15      11m10,11##11,01"  mm15     11m10,11##11,01"15       10,11##15,01  10,11#11,01"   "10,11##11,01m15     11|10,11#11,01"
+11,01    "  11,11@@15,01 10m"11,11@@10,01m   m11,11@@11,01"15      10m11,11@@11,01"    11,11@@15,01   10m11,11@@11,01"15         11,11@@11,01m15        11"11,11@@10,01m   11"
+15,01       10"m10,10##10,01" "10,10#10,01"m10,10##10,01"15      10m10,10##10,01"m10,10#10,01m   10,10##15,01 10m10,10##10,01"15           10,10##15,01    10m15      10"10,10##10,01m
+15,01       10"10,10 10,01"15     10"10,10 10,01"15      10m10,10  10,01"   "10,10  10,01m "m10,10  10,01"15           10m10,10        14 10,01m"10,10     10,01"
+
+10,01 14------------------------------------------------------------------------------
+14,01   10TRiBAL WRiTES - The TRiBE Newsletter - Volumn #1 / Issue #7 - January 1994
+10,01 14------------------------------------------------------------------------------
+
+14,01 00#  15First pack of the new year, and we're still doing the corney newsletter,
+15,01    corney name and extra corney logo included, no extra charge.  (Glare)
+15,01    Can't be that bad, seeing as how you like it enough to rip it off, eh.
+15,01    (You know who you are... But, then again, I sure as hell don't. . .)
+
+15,01 00#  15After much armtwisting, KroniX finally gave up on getting into a REAL group
+15,01    like Mirage or ACiD.  He's another 4'fur who has only been at it for just
+15,01    alittle while.  Both King Midas and Mr. Sinsiter have been working with him
+15,01    this month.  Kid's got reel po-ten-shall indeed.  We just need to get him
+15,01    a real handle.  (WARNING: Nathan is a practical joker.  Listen not to what
+15,01    he says.  Next he'll be saying that Sand is joining TRiBE.)
+
+15,01 00#  15Welcome Aerosol and Kamikazee guys, they want to come over and play.  Don't
+15,01    get any fingerpaint on the walls this time, hu-uh.
+
+15,01 00#  15Village Idiot leaves this month to start his own group, Legion.  Hmm, where
+15,01    have I heard that before.  Oh yeah, the BADPack last month.  (shaking head)
+15,01    Oh, wait, no.  He's in EMPiRE now.  Give it a couple weeks, he'll be iCE
+15,01    TRiAL.
+
+15,01 00#  15Also all you ANSIM Fans, check out STRIP7.EXE, a nifty little utility by
+15,01    Killean that strips out the [[7?h's out of ANSi's that makes ANSIM puke.
+15,01    You can find it in the ANSIM10.ZIP, along with DV.EXE, which you can use
+15,01    to view Final D's RIP file.  (Or other groups RIP files that make thier
+15,01    buggie little viewers puke. . .)  TV'll be along next month, still too
+15,01    many bugs for this pack.
+
+15,01 00#  15This was National PowerGrid Month, and as you can see he did get more than
+15,01    a couple ANSis, eh.  Next month?  It's TRiBE National Warblade Month!  So
+15,01    go out and draw atleast one Warblade, eh.  Let's see if we can outdo TRiBE
+15,01    National Spawn Month!  (Hmm, wonder if there is a "The Warblade Grounds"
+15,01    out there.)
+
+15,01 00#  15The success of "National PowerGrid Month" has moved us to pick a BBS each
+15,01    month as our "BBS of the Month".  We'll tend to pick boards that seem to
+15,01    be neglected by the ANSi doers out there.  Needless to say, you won't see
+15,01    a Paradise Lost, Infinite Darkness, Corrosive Poision, Channel Zer0, et al
+15,01    Month.  THIS time around, the BBS of the Month is: "The Citadel".  You
+15,01    know, Deadman seX's board. . .  The ONLY good board in 305, iCE Central,
+15,01    and he STILL doesn't get dick ANSi wise.  (Only the CO-SysOp's have done
+15,01    him ANSi's.  Wonder if Egghead is doing one. . .)
+
+
+15,01                                                 Shihear Kallizad
+15,01                                         Da' 1 and 0nly TRiBAL Founder Guy
+15,01                                               [|CE keuu1 mOde 00f]
+
+15,01G'eats:
+
+15,01Devil's Sperm     - All ABOARD!  Here comes the def' train!  (Toooooot!)
+15,01Soul Rebel        - De'plane!  De'plane!  Boss, de'plane!
+15,01Kronos            - C'mon!  Release an ANSi so I can do SKVSKS05.ANS already.
+15,01                    Get yer loser ass off the conferences and *DO* something.
+15,01                    OH.  And I'm now asking you nicely to kiss my ass, prick.
+15,01Alter Ego         - I've started yours... you started mine?  (ah-huh, right)
+15,01LogaN & Tommy S.  - BOBiT The Slug: The Crulest Cut!
+15,01EMPiRE            - Um, who the fuck greets groups anyway. . .
+15,01Crewl Blade       - Neat.  Now try drawing like Marshal Law!
+15,01Sand              - If you don't join ACiD now, you'll miss out on conferences
+15,01                    with all the ACiD 12 year olds yelling "penis". . .
+15,01Quasar X          - Use QX as your initials, stupid.   Whaatta mah-roon.
+15,01RaD Man           - I'm giving you 24 hours bud, to recruit Sand into ACiD.
+15,01                    BTW, how's ACiD Codine Division going?

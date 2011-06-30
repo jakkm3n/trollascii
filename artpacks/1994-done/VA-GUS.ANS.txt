@@ -1,0 +1,78 @@
+15,01                      VAGRANT PRESENTS A FiRE PRODUCTION:
+15,01                        Why The Gravis UltraSound Sucks
+
+15,01        Have you ever noticed the extraordinary number of people that are in
+15,01art groups that support the Gravis UltraSound?  Have you noticed that some BBS
+15,01systems mention it in the same breath as the omnipresent Sound Blaster...  If
+15,01so, you've been lied to.  I'm an UNLUCKY soul who  is stuck with one, and I'll
+15,01tell you why I describe this situation in this way.
+15,01        First, I want to give some history.  I'm a part-time computer
+15,01technician at Gim Computers in downtown Atlanta.  I'm a fairly decent techie,
+15,01but due to time constraints and age problems, I don't get paid in cash, but in
+15,01computer hardware.  One of my "gifts" was a Gravis UltraSound, and that was a
+15,01real mistake... 
+15,01        I was handed it as I went out the door, and tried to install it into
+15,01my 386 DX/40.  I was suprised to find that this board had "Wavetabe
+15,01Systhesis."  I thought that this would be a great find,  but I was mistaken.
+15,01I installed it to find that it wouldn't fit inside my fairly new and not
+15,01exactly non-standard Full Tower case!  I managed to insert it after much
+15,01manuvering, pushing, and plain brute force.  It went in the second from last
+15,01slot, several slots away from my video card, which, under normal
+15,01circumstances, shouldn't cause any problems.  To my suprise, the Gravis was
+15,01affected by radiation coming off my video card.  Ever unflappable, I moved the
+15,01card away, and restarted my machine.  I was off.  I installed the software
+15,01that came with the card, and found that it took 7 mb MINIMUM.  This is unheard
+15,01of for what isn't exactly a presentation quality card.  It turns out that it
+15,01copies patches to the drive, instead of the standard On-board ROM.  This hogs
+15,01disk space and is slower than the standard way of compressing them onto the
+15,01card itself.  At this point, I knew that I was in trouble.
+15,01        The next day, I was dead tired.  I had had customers yell at me all
+15,01day yesterday, and came home to a small disappointment.  I was prepared to
+15,01face the worst, and I did.  The Gravis was unsupported by most of the
+15,01softwares I had bought or gotten in less honorable ways. :)   I was stuck with
+15,01Sound Blaster support, commonly known to GUS users as SBOS (Sound Board
+15,01Operating System <I bet you expected something else>) and that made me even
+15,01more displeased.  I had expected PAS, or even SBPro support, but, instead SB,
+15,01Mono, 8 bit support.  I was livid, and called their BBS looking for
+15,01information.  I found a BETA, Roland emulation, but still a beta.  The Roland
+15,01fixed a music problem, but not the digital sounds and voice.  I was stuck with
+15,01SB, no matter what.  
+15,01        I installed a game I had bought for only the purpose of installing
+15,01after I recieved my sound card, Hardball III.  Not exactly top of the line,
+15,01but still a very servicable game.  I installed all of the software correctly,
+15,01set it up for Roland Music, SB sound. It didn't work.  The emulator managed to
+15,01lock the game.  The digital voice managed to make the game lock-up at the
+15,01start of action.  I had to turn off the Sound, and run only Music.  Once
+15,01again, I was upset.  I called Accolade the next day, and told them about my
+15,01problem.  They said they knew nothing about it, and told me to call Gravis.
+15,01Unlikely, considering that they're based in Western Canada.  I had already run
+15,01up enough of an LD phone bill over this, and I decided to give up and live
+15,01with 8-bit Mono.
+15,01        I came up with another idea.  The GUS has 256k of DRAM on it, and I
+15,01figured that was hardly enough.  I went into work, and got another 256k of
+15,01DRAMs...  If you have ever seen a DRAM, you know you're in for a hard day's
+15,01labor installing it.  For those of you that don't, they look like 1 inch by
+15,011/3 inch pieces of black ceramic, with little metal pins coming off the back.
+15,01This is where you connect the DRAM, by bending the pins and inserting them
+15,01CAREFULLY, into the slots.  If not, you can 1. destroy the ram, 2. stick
+15,01yourself badly, or 3. have to re-bend the pins and start over.  I took out the
+15,01card, once again with much difficulty, and began to install the 2 chips of
+15,012x256k DRAMS.  I missed, several times.  The layout of the DRAMS was so
+15,01compact that it was nearly impossible.  Very badly made and planned card. It
+15,01should have COME with 512k, as it's nearly REQUIRED.  I finished, and found
+15,01I had wasted time, energy, and some blood!  All of the apps had run the same
+15,01and I even found that one of my MIDIs even stopped working.
+15,01        I tried a different game, and got the same results.  Once again,
+15,01another game that I had obtained, Ultima Underworld 2.  Different
+15,01manufacturer, same result.  The game started slowly, VERY slowly, and then
+15,01stopped at a point 2 screens through the game.  I had reached my tolerance
+15,01limit.  I began thinking of ways to get it to work.  I tried the 32-bit AIL
+15,01drivers, which change digital drivers into ones that work with the Gravis.
+15,01Those didn't work.  The games which did support Gravis, such as Doom, wouldn't
+15,01run under normal circumstances, or told me that the Gravis couldn't be found.
+15,01        Overall, I'd say that a Gravis UltraSound is a bad purchase.  The
+15,01current lack of software compatability makes it a bad choice for users.  The
+15,01card lacks a SCSI port, unlike most Creative Labs products, and the layout of
+15,01the card makes it almost impossible for the average user to use, service, and
+15,01do necessary upgrades.  To all of the people who say the Gravis is a great
+15,01card, I say, "buy one, and call me in the morning."

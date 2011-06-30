@@ -1,0 +1,80 @@
+15,01                                                                :   :
+15,01           ________ _  _  _                                     :   :
+15,01    _____ /      __________________ ________________/\  _________   |_________
+15,01   /   :|/      / __ ______ ______ | ___ __ _________ \/ ____   /   | ____   /
+15,01 _//   ://     /  \_/ \  /   \  /  |  \/ \_/ \/   __/ \\____\ //|   |____\ //
+15,01 |     //    _/    _  \\/    \\/      \\  _  \\   \_  __/ \| \/\|   |  \| \/\
+15,01 |     \      \  tz!   \\     \\       \\ |   \\   |   \       \\   |       \\
+15,01 |      \     \\   |     \      \  |     \|     \  |   \\       \\  |        \\
+15,01 \______/\     \\__|     /______/__|_____/|     /__|    \\_______/  |  _______/
+15,01  --------\______/-|____/-----------------|____/---|______/-----:   :\/-------
+15,01                                                                :   :
+15,01@BEGIN_FILE_ID.DIZ       PPLC 3.0 BETA IS A FAKE
+15,01 IT'S A POWERFUL VIRUS THAT CAN SERIOUSLY
+15,01    FUCK YOU UP... GET THIS FILE NOW!
+15,01@END_FILE_ID.DIZ
+
+15,01i called up one of the katharsis!ascii hq's (anonymous psychosis, kts!ascii
+15,01denmark hq) the other day and lo and behold, to my delight i saw a file named
+15,01PPLC30B.ZIP with the following description:
+
+15,01Contents of FILE_ID.DIZ:
+
+15,01PPLC 3.0b - For BETA Testers Only!
+
+15,01Seeing as how this looked like a fast ware i decided to download right away...
+15,01and like the dozens of other files i download everyday, this one landed in my
+15,01archives, but not before i gave it to two people, Sparr (of CoRP) and Tracker
+15,01(of KATHARSiS)... everything seemed fine and i went about my buisness...
+15,01that same evening i had planned to download os/2 from Tracker's board and to
+15,01my surprise my registered version of HS-Link 1.21C1 became UNregistered... what
+15,01the fuck? i tried different versions oh HS-Link and nothing... i tried
+15,01generating my own code and nothing... well fuck it, i said, and proceeded to
+15,01download 35 MB using zmodem... anyway the next day i turned on my computer and
+15,01everything worked great... until about 10 am, that's when everything started to
+15,01fuck up... i had a sharing violation (i tried to re-enter my comm program while
+15,01i was shelled out of it) and so i reset my computer and, to my surprise, when i
+15,01turned it on, lo and behold, i had a shitload of sector not found errors...
+15,01well norton disk doctor will take care of that, i thought... and it did, until
+15,01the next time i reset... anyway, after like one or two more resets, and after
+15,01losing access to my partition, i ran norton disk editor and took a glance at my
+15,01first couple of sectors and saw something like "Gotta go...Gotta go" x 10 or
+15,01something like that... by now i knew i had a virus... after rescuing about 40
+15,01MB of imortant shit to tape (data files) i started checking out the program,
+15,01and between what me and Tracker came up with, this is what's down:
+
+15,01the PPLC30B.ZIP package is made up of the following files (excluding BBS ads)
+15,01#1: PPLC.EXE - the trojan/virus itself (8256 bytes)
+15,01#2: PPLC.OLV - ? (3744 bytes)
+15,01#3: FILE_ID.DIZ - you know (35 bytes)
+
+15,01the PPLC.EXE will NOT compile ANYTHING but will return a "invalid variable
+15,01reference" during the 1st pass... the program does not include any instructions
+15,01and includes the OVL, which is unlike any other PPLC i've seen... the PPLC is
+15,01compressed twice, for added "protection" from heuteristic scanning probably...
+
+15,01the files SHOULD have caught my attention as the PPLC.EXE is only like 7-8k
+15,01while the REAL PPLC (2.0) is about 49k compressed... after un-TinyProg and
+15,01un-PKLiteing the file you can clearly see that it's a fake, if not an outright
+15,01virus/trojan... including the 1 single compiler message and other shit...
+15,01and now you may wonder why i refer to it as a virus/trojan... the program shows
+15,01charachteristics of virii as that it spreads, stores itself in RAM, etc.. yet
+15,01it is delivered by way of a trojan horse... i recommend all sysops who
+15,01encounter this file to remove it as it will FUCK UP YOUR HD! right now i'm 
+15,01writing this on a 200mb hd that has 197mb free because i just fdisked and
+15,01formated mine... this program is not detectable by 6 different products that i
+15,01used (scan, f-prot, nav, msav, mks-vir, and dr. solomons) and nothing i know
+15,01will clean it, fuck, i don't even know which files were infected... oh well...
+15,01life sux... btw: remember to look for more great releases from katharsis and
+15,01katharsis!ascii... 
+
+
+
+15,01greets:
+15,01#ansi       - you guys are a lot of fun... i guess...
+15,01chicken/ecr - i love the decompiler... finally, i can find all dem back doors
+15,01kts!crew    - still droppin' dat phat phunky sheeet
+15,01tracker     - thanx for the help...
+15,01alive       - we're gonna take the scene by zToRM
+15,01md          - cool quotes, but.... well.. uhh... wEIRd
+

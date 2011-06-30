@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  February Update *      March 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0396.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0396 ANS |  41992 |03.01.96 |%+   | March Member/Site Listing      |
+15,01*|2  |ACIDAPP  EXE |  45178 |02.27.96 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 121093 |03.01.96 |%    | ACiD View version 4            |
+15,01*|N/C|ACIDVIEW NFO |  50704 |03.01.96 |%+   | ACiD View Documentation        |
+15,01*|4  |AL-SUCCO RIP |  32120 |02.06.96 |%+   | Succotash                      |
+15,01*|5  |ALC0396  ANS | 180167 |03.01.96 |%+   | ACiD logocluster #13 (03/96)   |
+15,01*|6  |AN-GEHEN ANS |  14582 |03.01.96 |%+   | Gehenna                        |
+15,01*|7  |ASC0396A ASC |  49710 |03.01.96 |%+   | ACiD ascii cluster #3 (03/96)  |
+15,01*|8  |ASC0396B ASC |  35750 |03.01.96 |%+   | ACiD ascii cluster #4 (03/96)  |
+15,01*|9  |AZ-FOR1  ANS |  15896 |02.28.96 |%+   | The Forsaken                   |
+15,01*|10 |AZ-PIR1  ANS |  35680 |02.26.96 |%+   | Piranha                        |
+15,01*|11 |AZ-SUCCO RIP | 111876 |01.12.96 |%    | Succotash                      |
+15,01*|12 |BG-CW01  RIP |  60994 |02.18.96 |%    | Crimson Water                  |
+15,01*|13 |BG-FSKN1 RIP |  23608 |01.18.96 |%    | The Foresaken                  |
+15,01*|14 |BS-CRMSN ANS |  27486 |02.28.96 |%+   | Crimson Waters                 |
+15,01*|15 |CB-PIR1  GIF | 138368 |02.29.96 |%    | Piranha                        |
+15,01*|16 |CS-ACID2 GIF | 213685 |02.27.96 |%    | ACiD Advo                      |
+15,01*|17 |CS-FLAMC GIF | 222658 |02.29.96 |%    | Flaming Carrot                 |
+15,01*|18 |CS-FRITZ GIF | 156265 |02.29.96 |%    | Fritz BBS                      |
+15,01*|19 |CS-HEVEN GIF | 213579 |02.29.96 |%    | Heaven Skate Co.               |
+15,01*|20 |CS-OLSKL GIF | 163179 |02.29.96 |%    | Ol' Skool                      |
+15,01*|21 |CS-RAVE1 GIF | 155258 |02.29.96 |%    | Raveland                       |
+15,01*|22 |CS-SUBBS GIF | 166596 |02.29.96 |%    | Superunknown BBS               |
+15,01*|23 |CT-HELLH ANS |  38192 |02.21.96 |%+   | Hell's Hanger                  |
+15,01*|24 |DE-DOH   GIF | 124734 |02.29.96 |%    | Doh                            |
+15,01*|25 |DE-TOKYO GIF | 156624 |02.29.96 |%    | Tokyo Underground              |
+15,01*|26 |DG-LOSTL RIP |  69429 |02.22.96 |%    | Lost Lands                     |
+15,01*|27 |DG-POO   RIP | 172902 |02.17.96 |%    | Poo                            |
+15,01*|28 |DG-SUCCO RIP |  33648 |01.22.96 |%    | Succotash                      |
+15,01*|29 |DG-TDS   RIP | 136726 |01.31.96 |%    | The Dark Society               |
+15,01*|30 |DG-UNITY RIP |  87112 |02.25.96 |%    | Unity/2                        |
+15,01*|N/C|FILE_ID  DIZ |    523 |02.26.96 |%    | Acquisition FILE ID by {UNS}   |
+15,01*|31 |GS-GAL1  ANS |  38624 |02.22.96 |%+   | Galactic Enterprises           |
+15,01*|32 |I1-0HOUR GIF | 133712 |02.28.96 |%    | Zero Hour                      |
+15,01*|33 |I1-ACID1 GIF | 212471 |02.28.96 |%    | "There Can Be Only One"        |
+15,01*|34 |KH-IDES1 ANS |  42350 |03.01.96 |%+   | Ides of March                  |
+15,01*|35 |KM-CIVIL ANS |  20210 |03.01.96 |%+   | El Lost Civilization           |
+15,01*|36 |KM-REGEN ANS |  63370 |02.28.96 |%+   | The Regency                    |
+15,01*|37 |KO-YARD  GIF | 115606 |02.24.96 |%    | Kosh's Yard                    |
+15,01*|38 |KP-RET   GIF | 137988 |02.29.96 |%    | Return of the Master           |
+15,01*|39 |NEWS0396 ANS |  51677 |03.01.96 |%+   | ACiD Newsletter Issue #11      |
+15,01*|40 |NIT-POO  ANS |  17005 |02.28.96 |%+   | Poo                            |
+15,01*|41 |PG-HELLO ANS |   4229 |02.29.96 |%+   | Goodbye Message                |
+15,01*|42 |PH-FFTSL ANS |  28350 |02.28.96 |%+   | The ff & tsl inc.              |
+15,01*|43 |PR-FLESH GIF | 114696 |02.24.96 |%    | Flesh                          |
+15,01*|44 |PR-SUCCO GIF |  47421 |02.24.96 |%    | Craving for Succotash          |
+15,01*|45 |SA-GSCUM ANS |  43037 |02.20.96 |%+   | GrimScum & Snake's Domain      |

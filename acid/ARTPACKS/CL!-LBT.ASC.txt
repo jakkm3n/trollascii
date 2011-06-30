@@ -1,0 +1,68 @@
+15,01                                 . .
+
+15,01                                 . .            .    ... ......
+15,01          . `   ' .              . .                        . :
+15,01         .         .             : :                        : .
+15,01                   .             : :                        . .
+15,01    .  .     `    .         .  . ' :   ` :          .  .    ` :  .
+15,01` _.,_++s% #S$$|/`    . ` _.,_++s% lS$$| :    . ` _.,_++s%#S$ l| :
+15,01 .`\$$$$$$ $$$$' `      ` `\$$$$$$ $$$$$ :      ` `\$$$222222 l$ :
+15,01  ` `$$$$$ $$|: .         `.`$$ sss$$$$$ :.. .    `.`$$ $$$$$$$$ :
+15,01    ':$$22 222  .       .    :$ $$$ ssss ....  .     :$ssss $$$| .   `   .
+15,01    . $$ $$$$$|. `     .    : $ 222 $$$$ .          : $$$22 $/` .+s%#SS#% :
+15,01....: $$ $$$$$$:` .  `  ....: $$$$$$$$$$ :......Cl!.: $$$ $$$\/|$$$$$$$$$ :...
+15,01: ... ,,,,,,, $l .      : ... ,,,,,,,,,, ............ ,,,,,,,,,,,,,,,,,,,... :
+15,01: :   $$$2222 $$ .      : :   $$$$$$$$$$ :          . $$$$$$$|\*+2'''''2+  : :
+15,01: :   $$$ 22222$ :      : :   $$ ssss $$ :          : $$$$$/` .+ :`    ` . : :
+15,01: :   $$$$$$$$ $ :      : :   $$ $$22 $$ '  ' . .   . $$$$$\/|$$ :         : :
+15,01: .   '+\|$$$$ $ :      : ''' 22 $$ $$$$||$$S#%s+. `. $$$$$$$$$$ :         : :
+15,01: :   |$\ \|$$ $ .  . . : :`` +2$$$ $$$$$$$$$$222$|b. :$$$$$|\+` .      . .  :
+15,01: .   $$$; +22 $ .  _.,_: :%#S$ $$$ 222222+\|| $ $$$$: :$$$$`. `   `_.,_++s: $|
+15,01. `   $$$$ :$$$$    `$$$$ $$$$$ $$$$$$$$ ` . ,,$ $$$$$,,, ,,      `.`$$$2222 $$
+15,01 . `. |$/',$$222 . . `222 $$$$$sss $$$$$ :   :$$ 22222$$$ $$.` .    .`$$ $$$$$$
+15,01  ` .  ./|$$$ $$`  `: $$ 2222$$$$$ $$$$$ :  . $$$$$$$ $$$ $$$|s+ .    $$,,,, $$
+15,01        .`$$$ |l .  ` ``'+\$ $$222 $$|*+ '    ``'+\$$ $$$ $$$|*+  ' ` ``'+\$ $$
+15,01    Cl!   l$/  .+s%#SS#%+./$ $l $$$/` .+s%#SSS#%+./$$ $22 $/` .+s%#SSS#%+./$ $$
+15,01 `    . '.$' /|$|\*+2+$$$$$$ 22 $$' /|$$|\*+2+$$22222 $ $$$\/|$$|\*+22+*\|$$ $$
+15,01   ` .+s|$$ :$$$ .. : '```'2+$| $$ :$$$$ . `: '` :'2+$| $$$$$$$$ .  `   . \$ :/
+15,01    : +2'`~ :'2+ :  '      ` .` '` :`'2+ :  . '  : '. ` :`~~`'2+ :       . l :
+15,01    :  `  : : ' .:             . ` :  `  :     . :    : : '  `  .:         : :
+15,01..........: :....:               : :           : :    : :            .... .: :
+15,01: ..... ... .  .       .    . ...: :   .   . ..: :   .: :...   .     : ......:
+15,01: :       : :                                                        : :... ...
+15,01: :       : .                                                        :. ..... :
+15,01: :       : :              YOU'RE NOW ENTERiNG iNTO THE LABYRiNTH           : :
+15,01: .       : ..                                                              : :
+15,01: :     `     `                                                             . :
+15,01: .    .       .                                                            : :
+15,01:       .     .    iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS   . :
+15,01: .       ` `      iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS   . :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS   . :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:                  iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:              .   iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01: .                iNFORMATiONS THERE - iNFORMATiONS THERE - iNFORMATiONS     :
+15,01:              .                                                              :
+15,01: .            .                                                              :
+15,01: :            :                    ......                                    :
+15,01: :    .... ..........              :    :                                    :
+15,01: .    :       .     :          ........ : ..                                 :
+15,01:      :.......:     :          :   :    :  :......Ascii.By.Cleaner(ACiD).....:
+15,01:  .........         :          :   :    :      ............................
+15,01:..;       :.........:          :   :... : .....:          .   . ..........:
+15,01                                :........:
+15,01>>SAUCE00LBT                                Cleaner             Remorse         
+15,01    200104 9+!  @                                 

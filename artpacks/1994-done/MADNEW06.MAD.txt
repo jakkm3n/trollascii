@@ -1,0 +1,80 @@
+14,01--------------------------------------------------------------------------------
+15,01                 00,00 00,04"""""""""""""""00,01m15     00m00,04"""""""00,00 15,01     00m00,04""""""00,01m
+15,01                 14,00 00,04m04@@@@00mm04@@@@00mm04@@@14,00 00,01   "00,04mmmmmm04@@00,00#15,01    00"00,04mmmmm04@@@00,00#
+15,01                   15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01  15,15@13,04##15,15@15,01         15,15@13,04##15,15@15,01     mmmm 15,15@13,04##15,15@
+15,01                   00,15#00,04  00,15#15,01  00,15#00,04  00,15#15,01  00,15#00,04  00,15#15,01    m15,04"""""  00,15#15,01     00,15#00,04  00,15#15,01 00,15#00,04  00,15#
+15,01                   00,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01  14,15 14,04##14,15 15,01   14,15 14,04###04,01"""14,04##14,15 15,01     14,15 14,04##14,15 15,01 14,15 14,04##14,15 
+15,01                01yat14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01  14,15#01,04@@14,15#15,01   14,15#01,04@@04,01mmm01,04@@@15""14,15#15,01   14,15#01,04@@@15""01@@14,15#
+15,01                   01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01  01,15@14,04mm01,15@15,01    14"14,04mmmmmmmmm01,15@15,01    "14,04mmmmmm01,15@
+14,01--------------------------------------------------------------------------------
+15,01              00Malicious Art Denomination  -  Newsletter - June '94
+14,01--------------------------------------------------------------------------------
+15,01                 00--[Ring] [Ring] SZ:"Hello???" ?:"Hey Sub-ZeroX is the pack out
+03,03@09,01m    m03,03@15,01         00yet?" SZ:"Bastard it's 5:00 In the FUCKING MORNING! Who the
+09,03#03@09,09#09,01mm09,09#03,03@09#15,01         00fuck is this!!!!????" ?:"Uh, Later man" [Click] SZ:"Damn Lamer"
+00,03 09#09,01"09,03##09,01"09,03# 
+14,03# 15,01 14,03  15,01 14,03 #
+01,03@14#15,01 14,03##15,01 14,03#01@15,01 00onth number 6...  Anyways, alot can happen in One Month, and well......
+15,01         00alot DID happen this month.  I have alot to say, so I'll get right to
+15,01         00the point.  This Month was the best (In MY book) for MAD.. We gained
+15,01         00alot of very tallented New members (Will be named later) and had alot
+15,01         00of ANSi Pics..  As for ME personaly, I let you down, once again.. since
+15,01         00I was to busy to get any Personal Ansi done, But I did take care of
+15,01         00everyone that needed help, or anyone that was having trouble (NT ahem).
+15,01         00You don't know how much of a PAIN it is to run a group until you have
+15,01         00run one yourself, just ask Nightrain.. (X:SUi) And No all you out there
+15,01         00I AM NOT SAYiNG "Go out and start a New Ansi Group Just for the hell
+15,01         00of it!"  Anyways, I have some explaing to do about Last months pack....
+
+09,01"m
+09,01 03,03@09,09#
+09,01 09,03#03@
+09,01 09,03 #
+09,01 14,03# 
+03,01"01,03@14###01@03,01m  00ast months' pack was extremely disorganized..  Included inside was a
+15,01         00GIF File Called LM-SOUP.GIF Made by Lawnmower Man..  The graphics were
+15,01         00"ripped" from something else, and It was not intended to go in the pack
+15,01         00I am NOT Kicking anyone out of the group, But "ripping" graphics is
+15,01         00wrong.  It will not happen again, and That does NOT represent MAD as
+15,01         00a group that just rips shit.  I know that Lawnmower Man is a good
+15,01         00artist, and He won't rip again.  I've given alot of people second
+15,01         00chances, and they usualy end up doing better when someone TELLS them
+15,01         00what they are doing wrong, instead of dropping them and leaving them
+15,01         00hanging..  Remember what the group was founded on - "Anyone with some
+15,01         00artistic tallent, that wants to Learn and GET BETTER."  Anyways, with
+15,01         00the air cleared,[and I hope this serves as a good enough explanation
+15,01         00for you,] we'll move on to Better news...
+03,03@09,01m
+09,03#03@09,09#09,01m
+09,03 #09,01"09,03# 
+14,03# 15,01 14,03 #
+01,03@14#15,01 14,03#01@15,01  00ew artists, joined this month, Many from another Local group called
+15,01       00SUiCiDE [SUi] (Side Note: SUiCiDE is no longer existing).  Included
+15,01       00from that group is Nightrain (X:SUi Founder), A good ansi artist and a
+15,01       00friend of Lupin (X:SUi) Who has also joined us..  Both of them have done
+15,01       00a great job for MAD and themselves as you can see in the pack!  Lupin
+15,01       00provides pics while Nightrain usualy does the fonts, they usualy work
+15,01       00as a team and I am glad that they have joined up.  Also from the fall
+15,01       00of SUiCiDE rises a great freehand VGA artist - NitescopE (X:SUi).  He
+15,01       00delivered several nice VGA drawings this month that rounded out the pack
+15,01       00perfectly..  And lastly this Month, MAD is Proud to welcome Greeper. He
+15,01       00"Does" just about everything.. Included in this pack from him are .RIPS
+15,01       00and Ansi files..  Great job.  That about sums it up for this months' new
+15,01       00MAD artists...
+
+00,01 09m09,09#09,01m
+09,01|03,03@15,01 03,03@09,01|
+09,03 #15,01 09,03# 
+14,03# 03,01"03,03 14#
+01,03@14#15,01 14,03#01@15,01  00lso,  Included in this Pack is Turmoil.MOD by Doomsday, Last Months' pack
+15,01       00was so disorganized that the UNCOMPLETED MOD was released instead of the
+15,01       00Final release, so here is the Completed Turmoil.MOD File by Doomsday.
+15,01       00ALSO - - - All Sites, if you want ANY Ad's done then call The WHQ and
+15,01       00re-send me your damn stats you lazy ass bastards!!!!!!!!  We don't know
+15,01       00if half of you are DEAD or WHAT!  BTW: If you applied for a site, and
+15,01       00I didn't get back to you, Apply again, stuff gets deleted accidently.....
+15,01             00- BTW: Our couriers are mostly dead.. Sorry for lack of distros..
+09,01m09,09####
+03,03@@
+09,03##15,01 03mm
+03,03  15,01  03,03 

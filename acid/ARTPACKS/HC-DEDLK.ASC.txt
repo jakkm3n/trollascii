@@ -1,0 +1,40 @@
+15,01EE           `7ad$$$F' ,aS$$F"`.,,F"$a. :::`7a.`Sa. `4$SS2$$a.` `7$.  . `"+EEEEE
+15,01E'      +    _.+$$$$  i$$$F',d$$F2.S.+$i SSb "$.d$+   `$$.`7$b   d$$ .+b   dEEEE
+15,01E   i.  .`$a$$d$$$$$. $$$$+ $$$$  SSS )' SSS d$dS+   ,$$$F  $F .+$F`$$F'     `EE
+15,01EE  `+$$$$*+'$$$$$$'  `+S$$$`7$$$ `SS ' :SSS !'.a .,d$$S`4$ '     .d$$   \.  `4E
+15,01E'`E.     _, $$`7$$. +aa$S+'., `$S )S::S:SSSb.` SSa.`7$'. `$ ' .ad$$+'  .i$    E
+15,01E       .d$. `$ .`2^a. ``.a::S d+`.SS::S:SSSSSSSSSSS: + S`/`  $a,d.`+*S$$*`   ,E
+15,01:,  `*^d$+". '` +"`  `" """""" "- """""""""""""""""""   "  ""   `+F    $F   :EEE
+15,01EEE    $   `7,.  ,aSJ++++++++++++++++++++++++++++++++++++++++JSa,     '`   E:EE:
+15,01E'`     `     , i$f`   _..          22MNNNNN.                 `7$i ,     `"::E::
+15,01E   .F2"2+a   $ $$  , N'               2NNNNN                   $$ $ `$$b  E:"`
+15,01:  :$ .a  -aaS$ $|  |-N"``   `"+a.     .`NNNNN .a+"`    ``"     |$ $Sa$J$  E'
+15,01   .`,_      *$ $|  | NaSS$$$$Sa.       .NNNN'   .S$$$$$SSa,    |$ $*=$:$      B
+15,01  F   `""  '"Y$ $|  |`N2++++++++"7.    .2+NNNN,.F"++++++++2"`   |$ $Y"$J$   :
+15,01 :       +==  | $$.                  `_...._`"``               .$$ | .$$F      B
+15,01  `+a++*`     ` `+*SSSSSSSSSSSSSSSU^*2"````"2*^USSSSSSSSSSSSSSS*+' '         B:B
+15,01B      :                    .        ,aS$$Sa,                           :  BB::B
+15,01BB  :    _,+aaS$$$Saa+.  .  d`4. `B:           :.:iB::  B+`_.._  b,. `B::B:B:B::
+15,01B: :B.`$$$S*+22"""""2+S$.` |, .`4.`4BBB:F .`BB:B::B:BBBF adF2`+Sb.`!  ::: :BBB:B
+15,01B:B:B: |$',aBBB+2` _.,+`$. $'.B. +b.`+BBB $.`BB:BB:BBBF dF'.dB. d$ i B  `B:BB:BB
+15,01BBB::B  $ BBBB ad$$S*+2 |$ ` 222 `$$b `BB )$.`BBBBBBBB iF  BBB'.F` "   i  BBBBBB
+15,01BBBBBB  $ BBBB `$$  BBB  :  "  ""2|$$$.`B ``7,`+BBBBBB +' BBBB `bd$F   d. `BBBBB
+15,01BBBBBB  | BBBBB $$ BBBBBB.BBBBBBB :L$$j :BBa.`b `BBBBB : BBBB' .d$F   dF"7 `BBBB
+15,01BBBBBB  : BBBBB $$ 222222',`BBBBB) $$$' BBBBB.`i :BBB    `+BBb.     .F`.B..dBBBB
+15,01BB:B:B  | BB::B $$""""" ` 2 B:BB'.dS+'.dBBBBBB |  BB'.a"  . `+B :| -| (BBBBB:BB:
+15,01B:: :B  | BB:B: $$ BBBB:BB :: BB: `"4a.`7BBBB'.$  B .F     i. ' $'  b  ``: BB:BB
+15,01B: B::  | :B  : $$ B B :B   B : ::   `"Sa `B' d'  : |      :$:  f   `b     : : :
+15,01:    :  $  : B  $$     :      : :       rS '.F` :   :       $|  |     `.d'    B
+15,01  B     $     :`2*S$       i             |i                 $$  :    .,F'    :
+15,01       .d$           .' 2*+$    .+"``    $F  `a    .d       $$  $
+15,01          `"-    -2"`      "    d       ,F'    `+a$"`       $|  $,
+15,01                                $.+---*+`        `         :$: /4$.
+15,01                                '                    :     dF  $'
+15,01                                                      `  -'`   $
+15,01                                                         .    d'
+15,01Yeah.. so it sucks, at least I enjoyed the compo =)       `""`
+15,01Hex Corrupt
+
+15,01>>SAUCE00Deadlock                           Hex Corrupt         REMORSE         
+15,01    19980204u
+15,01  @                                 

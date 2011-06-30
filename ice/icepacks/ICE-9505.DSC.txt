@@ -1,0 +1,72 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 6/4/1995
+15,01###############################################
+15,01ld-malf.ice,ANSI,Malfeas,Lord Drakul
+15,01mm-tterr.ice,ANSI,Termite Terrace,Magnetic M
+15,01ls-sg2.ice,ANSI,Shadowgate,Lord Soth
+15,01hn-vs01.ice,ANSI,Vampyre's Society,Highness
+15,01hn-hrd02.ice,ANSI,Hoard Issue II,Highness
+15,01hn-ice01.ice,ANSI,iCE(tm) Advertisements,Highness
+15,01m!-ice1.ice,ANSI,iCE Promo,Mahbell
+15,01tg-as1.ice,ANSI,Altered Sanity,TooN GooN
+15,01tg-sone1.ice,ANSI,System One,TooN GooN
+15,01mn-mayo.ice,ANSI,Mayonaise,Master Ken
+15,01at-award.ice,ANSI,Awards '95,Aphex Twin
+15,01tr-supes.ice,ANSI,invention!,turtle/#28
+15,01tr-combo.ice,ANSI,logos 6/95,turtle
+15,01im-termt.ice,ANSI,Termite Terrace,image
+15,01bt-cam1.ice,ANSI,The Camarilla,Biscuit
+15,01ar-uwe.ice,ANSI,UnderWorld Element,Argon
+15,01tr-prayr.ice,ANSI,chromatik's prayer!,turtle
+15,01si-ttt1.ice,ANSI,The Twisted Tower,Spirit of Illusion
+15,01hm-hz2.ice,ANSI,Hazard Zone,Handyman
+15,01ju-tt1.ice,ANSI,Termite Terrace,Juice
+15,01sq-lgos1.ice,ANSI,Logo Collection,Squidgalator
+15,01tg-rats2.ice,ANSI,The Rats Nest,TooN GooN
+15,01at-evol.ice,ANSI,Evolution Emag,Aphex Twin
+15,01gr-hub1.ice,ANSI,the hub,grimace
+15,01gr-malf.ice,ANSI,malfeas,grimace
+15,01ice-9505.sit,ANSI,05/95 Sites Listing,iCE Staff
+15,01ice-9505.sts,ANSI,05/95 Pack Statistics,iCE Staff
+15,01ripfonts.zip,EXTERNAL,RIP Fonts for iCEView,iCE Staff
+15,01ice-9505.nfo,ANSI,05/95 iCE Info,iCE Staff
+15,01iceview.doc,ANSI,iCEView Documentation,Friar Tuck
+15,01ice-9505.mem,ANSI,05/95 Active Memberlist,iCE Staff
+15,01lo-panth.jpg,EXTERNAL,The Pantheon!!,Leonardo
+15,01xt-geno.jpg,EXTERNAL,Genocide,Xten
+15,01td-trm1.jpg,EXTERNAL,Trambience,Tonedef
+15,01az-tst1.gif,GIF,The Screaming Tomato,Azagoth
+15,01jm-dare.jpg,EXTERNAL,The Triple Dog Dare,Jamie McCarter
+15,01gw-egg.jpg,EXTERNAL,Eggs and other food!,Gwar
+15,01gj-prgsn.jpg,EXTERNAL,Progression Musicdisk,Gaijin
+15,01sq-mayo.gif,GIF,Mayo,Squidgalator
+15,01bn-dream.gif,GIF,DreamScape,Borian
+15,01sw-cycl2.gif,GIF,Cyclops,Shockwave
+15,01dls-eye.gif,GIF,Eye,Delsion
+15,01az-ex1.gif,GIF,Savage Exile,Azagoth
+15,01mn-pit2.rip,RIP,iCE Promo,Masterken
+15,01mn-girl2.rip,RIP,iCE Promo,Masterken
+15,01ck-elix1.rip,RIP,elixir! ..,chromatik
+15,01ck-eye1.rip,RIP,eye.,chromatik
+15,01ls-child.rip,RIP,iCE Promo,Lord Soth
+15,0128-elix1.ice,ANSI,elixir!,#28
+15,0128-abls1.ice,ANSI,Atari Blues,#28
+15,0128-nega1.ice,ANSI,Negativeland,#28
+15,01at-inf.ice,ANSI,Infinity Emag,Aphex Twin
+15,01boa-ice6.ice,ANSI,iCE 10-Month Tribute,Boa
+15,01ck-illc1.ice,ANSI,illc0mm! ..,chromatik
+15,01ck-pray9.ice,ANSI,"p"rayer ..,chromatik
+15,01ju-nn1.ice,ANSI,Neo Nacho,Juice
+15,01lc-neo.ice,ANSI,Neo Nacho,Lord Carnuss
+15,01lc-hoard.ice,ANSI,Hoard Emag,Lord Carnuss
+15,01lo-nn1.ice,ANSI,Neo Nacho,Leonardo
+15,01vk-pe1.ice,ANSI,Permo,Veks
+15,01vk-soe.ice,ANSI,State of Euphoria,Veks
+15,01vk-ms1.ice,ANSI,Mad Season,Veks
+15,01vk-ma1.ice,ANSI,Mayo,Veks
+15,0128-trn1.ice,ANSI,The Rat's Nest,#28
+15,0128-blk1.ice,ANSI,Black Sunshine,#28
+15,01iceapp.exe,EXE,The 1991 iCE AppGen,BS + LP
+15,01bz-ths.exe,EXE,The Hack Shack,St. Blazer
+15,01nf-land.exe,EXE,iCE Promo,Nightfire
+15,01bz-tdf.exe,EXE,The Digital Fallout,St. Blazer

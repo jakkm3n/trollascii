@@ -1,0 +1,53 @@
+15,01                                      __
+15,01     ___   _____ _____   ___    ___  |  |    ___  ___ ____ _______ __   ____
+15,01   /     \|     \     |/  __) /     \|  |   |   \/   :   .__     _|  |/  ___)
+15,01  |   .   :   .  ) .  :      |   .   :  |___|        .  .   )   ||   :      |
+15,01  |            _.            '              |\_    _/|    _/|   ||          |
+15,01  |   |   .   | |     .      .   |   .      |  |  |  |   |  |   ||   .      |
+15,01  |___|___|___| |_____|\____/|___|___|______|  |__|  |___|  |___||___|\____/:
+15,01  : _____ _____ _____   _______________ _________ ____   ______  _________  :
+15,01  :|     |     |     |/    ________.   |         |     \|      |/    _____)/
+15,01   |     :     :     (_____     \|     :    .    |     \       (_____     \
+15,01   |                 :     |     '          |    |     ||      '     |     |
+15,01   |           .     .     |     .     .         `     ||            |     |
+15,01   :\ _______ /|_____|\_________/|_____|_________._____||______:__________/:
+15,01   : :       : :     : :       : :     :         :     ::      :         : :
+15,01    \:_______:/:_____:\:_______:/:_____:_________:_____::______:_________:/
+
+15,01                                 . Contents .
+
+15,01     +--------------+-------------+--------+-----------------------------+
+15,01     | File         | Creator     | Size   | Description /Type           |
+15,01     +--------------+-------------+--------+-----------------------------+
+15,01     | CONTENTS.AVI | N/A         |        | Contents of 12/94 AV Pack   |
+15,01     | INFO.AVI     | N/A         |        | AV Info File for 12/94      |
+15,01     | MEMBERS.AVI  | N/A         |        | Members of AV (as of 12/94) |
+15,01     | SITES.AVI    | N/A         |        | AV Distro Sites (12/94)     |
+15,01     +--------------+-------------+--------+-----------------------------+
+15,01     | APV-COL.AV   | Mr Krinkle  | 4925   | Colour ASCII Headers /ANSi  |
+15,01     | BA-ANTE.LIT  | Blue Apache | 925    | Enter the Antediluvian /Lit |
+15,01     | BA-CYC.LIT   | Blue Apache | 385    | Cycle of Three /Lit         |
+15,01     | BA-PRIDE.LIT | Blue Apache | 3278   | Pride /Lit                  |
+15,01     | BA-PSY.LIT   | Blue Apache | 7049   | Cyberpsychosis /Lit         |
+15,01     | BA-REAL.LIT  | Blue Apache | 563    | 2nd Reality? /Lit           |
+15,01     | BA-SANE.LIT  | Blue Apache | 324    | Sanity /Lit                 |
+15,01     | BA-TRIAD.LIT | Blue Apache | 2288   | The Beginning /Lit          |
+15,01     | HO-HO.AV     | Mr Krinkle  | 19900  | Christmas /ANSi             |
+15,01     | HQ-AFTER.LIT | Harlequin   | 1015   | Aftermath /Lit              |
+15,01     | HQ-ALIEN.LIT | Harlequin   | 1475   | Alien Syndrome /Lit         |
+15,01     | HQ-LUNA.LIT  | Harlequin   | 1127   | Luna Wolf /Lit              |
+15,01     | HS-AV1.GIF   | HellSpawn   | 3131   | Apocalyptic Visions /VGA    |
+15,01     | HS-AV3.AV    | HellSpawn   | 161825 | Apocalyptic Visions /ANSi   |
+15,01     | HS-GNS.AV    | HellSpawn   | 5856   | Genesis /ANSi               |
+15,01     | SMILEY-1.GIF | H.S & JESTA | 18433  | Execution of a Smiley /VGA  |
+15,01     | HS-JTR.LIT   | HellSpawn   | 3139   | Jack the Ripper /Lit        |
+15,01     | HS-SNP.LIT   | HellSpawn   | 1864   | Sniper /Lit                 |
+15,01     | ICE-K.AV     | Mr Krinkle  | 5189   | Ice Kube /ANSi              |
+15,01     | JE-AV#5.GIF  | JESTA       | 139750 | Apocalyptic Visions /VGA    |
+15,01     | JE-DRM#1.AV  | JESTA       | 4486   | DREaMSTaTE /ANSi            |
+15,01     | JE-IKBMM.AV  | JESTA       | 4149   | iCE KUBE MAiN MENU /ANSi    |
+15,01     +--------------+-------------+--------+-----------------------------+
+15,01     | TOTAL FILES: 22              TOTAL SIZE: 298624                   |
+15,01     +-------------------------------------------------------------------+
+
+15,01                              --> End Here <--

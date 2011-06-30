@@ -1,0 +1,24 @@
+15,01BREAKCPI: break DOS 3.3+ .CPI file into font files. Version 1.5, Apr 16 1993
+15,01Copyright (c) 1991-1993 by Yossi Gil, P.O.Box 3148, Jerusalem, ISRAEL.
+15,01Email: yogi@cs.technion.ac.il
+
+15,01               Usage: breakcpi [-f] [-i] [-d] filename
+
+15,01Will read 'filename' as a DOS 3.3+ cpi file, analyze it, and store each of the
+15,01screen fonts in it to a file. The font files thus generated are named CPxxx.Fyy
+15,01where 'xxx'is the 3 digit DOS code page number and 'yy' is the font height.
+
+15,01EXAMPLE             breakcpi ega.cpi
+
+15,01FLAGS   -h   Display this message
+15,01        -f   Overwrite existing font files
+15,01        -i   Report if extracted font is identical to existing font file
+15,01        -d   Report if extracted font is different than existing font file
+15,01        -s   Silent mode. No overwrite complain messages
+
+15,01BUGS    Does not recognize all CPI files internals. In particular it fails on   
+15,01     printer (4201 etc.) CPI files.
+
+15,01COPYING POLICY Copy freely for private use. Usage as part of any commerical
+15,01  package is under the same restrictions as of Rhaul Dehsi ZOO program. If you
+15,01  cannot obtain ZOO, you cannot use 'breakcpi' commercially.

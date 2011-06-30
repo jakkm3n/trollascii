@@ -1,0 +1,80 @@
+15,01                     (00I15) 14New Member   15(00015) 14Member Inactive
+
+00,01     15          11.02 11--02 11-10-----15]00 PRESIDENT 15[ ] 00E-MAIL 15[10----11- -- .
+00,01  15                 Mel Farr Suppastar 11$15   mfs@match.org
+15,01                                     11j$L
+15,01     00  15     11.02 11--02 11-10-----15] 00SENIOR STAFF 15[ ] 00E-MAIL 15[10----11- -- .
+15,01  00  15                 Rink Rat (ASCII)11' `$L15rink@match.org
+15,01    00  15               Claypool (TRACK)11   `?15claypool@match.org
+15,01                              11,d$7'15       11`15             
+15,01       00  15   11.02 11--02 11-10-----15]00 COORDINATORS 15[00 15] 00E-MAIL 15[10----11- -- .
+00,01  15                        Semso (VGA) 14   15 tds@voy.net         
+15,01  00  15              Lorde Karrion (LIT)g00gg ggggssssggg15g00 g15g00ggssssgggg
+15,01    00  15         00gggg15s00sss$15_open_ (ANSI)$00$15$00 $15$00$$    $15$00$15$00 $15$ 00$    $$15$00$
+15,01               10$00$15$00$15    00$10$15$10$15 $10$15$00$15         $10$00$15$    $10$00$15$ $10$00$15$    00$15$10$15$
+15,01       00         15$10$15$11.02 11--02 11-10-----15] 00ASCII 15[00 15] 00E-MAIL 15[10----11- -- .15  $10$$15$
+00,01         15 10s15s10ss $15$10$$ 15s10ss15s10s15sSpeed Freak 14   15 speedfrk@glo.be10sssss15$10$$$ b3
+15,01         00         10$ss15Dark Cube of 313   14 10$$$$ssssss15s10s $$$$
+00,01         15                11.yp.15    Cake 14   15       11.qy.15        11by oxi & belial
+15,01         00         15        11`?$b_15Aspyre 14   15 aspyre@hotmail.com
+00,01         15               Organ Grinder (00I15)11_+d$$7n`15            
+15,01                                Dopie (00I15) parez@usa.net
+15,01                     00                      
+00,01          15         11.02 11--02 11-10-----15 ] 00ANSI 15[ ] 00E-MAIL 15[10----11- -- .
+15,01         00          15           Bad-Crc 14   15 badcrc@cybermail.net
+00,01          15            UnleasGreen Ice 14   11f 10hel15l upon me
+00,01          15              00    15Aerosmith (00I15) aerosmith@match.org
+15,01                       00                        15our
+15,01        00           15  11.02 11--02 11-10-----15] 00LIT 15[ ] 00E-MAIL 15[10----11- -- .
+15,01          00           15   I wi00   15 Raven (00I15) raven@match.org
+15,01                    You only ha10te 11me 14so 11lon10g a15s I don't
+15,01   00           15 00 15     11.02 11--02 11-10-----15] 00VGA 15[ ] 00E-MAIL 15[10----11- -- .
+00,01           15                    10y15Onkyo 14   11an10ce
+15,01           00           15           Sone 14   
+00,01           15                    El-Eye 14   11fa10ll
+00,01           15            00     15Aerosmith (00I15) aerosmith@match.org
+
+00,01   12         15 11.02 11--02 11-10-----15] 00BBS MODDING 15[ ] 00E-MAIL 15[10----11- -- .
+15,01   11 15       00   15               Acidtone 14   
+15,01         10,11t11,01his month has been kinda 10slow11. 15 11everyone was so over-joyed
+00,01      15  11 with th.02 11--02 11-10-----15] 00TRACKING 15[ ] 00E-MAIL 15[10----11- -- .t the next
+15,01        11 one15    11 goi00      11be ou15Lizard 14   11 weeks.  so we are really 
+15,01        11 gonna00      15   00     15Music Man (00I15) carrion69@aol.com11bat of t15   
+15,01        11 release.  our irc bot kinda got 10f0011-barred by crash.  so i 
+15,01        11 kicked his azz 14-11 - 10- 15- 00n e w b i e s 15- 10- 11- 14-11if anyone else 
+15,01        11 would like to hook us up with a bot we'd appreciate it.  so
+15,01        11 10organ grinder11: 15this fly ass muthafuckah came to us from the10u11,
+15,01        11 10belial11 + 10oxidiz15irc channel of #PIMPS.  excellent ascii artist
+15,01                        and general funny guy =]
+15,01         10,11i11,01nternet news is kind of 10disappointing11.  somebody 10hax0red11 my
+15,01         10raven11: 15this guy came to us from rink rat's school.  he writes
+15,01        11 over fr15mad lit about how he hates everything and everyone.  11d
+15,01        11 you can check it regularly.  in other news, the drop whq has
+15,01         10aerosmith11: 15he came from the local bbs scene in rink's ac (248)
+15,01        11 usually15    is beginning to use his ansi skills to the fullest.
+
+15,01         10music man11: 15new trackster from AOL whom i met in #blade.  he
+15,01        11 temporarily15does mostly MOD's which may come in handy to help
+15,01        11 service15    us assimilate our amiga viewers...11ga members, so 
+15,01        11 beware of me 10yelling11 at you to do so.  
+15,01         10dopie11: 15recently joined drop and has little work to submit.
+15,01        11 10,11w11,01hile i15ascii drawer i met in #ascii i think.  he draws small
+15,01        11 newslet15ascii logo's and is pretty elite.11  a) i was listening
+15,01>       11 to some l33t ass goa techno.  b) i was watching some porn.
+15,01        11 c) i was watching the red wings 10win11 the fucking 10cup11!  <in yo'
+15,01        11 face philadelphia!> and d) i was listening to my girlfriend
+15,01        11 10whine11 in my ear.  i tried to make it entertaining but quite
+15,01        11 frankly i don't have much 10talent11.  
+
+15,01         10,11i11,01n completly other news, i applied to the 10blade11 nation and 
+15,01        11 was rejected.
+
+15,01        11 10,11n11,01ow returning to the newsletter after that breif interuption,
+15,01        11 it seems that mel is going to be 10leaving11 for the summer and 
+15,01        11 leaving the group to 10me11, big mistake.  if we take a look back
+15,01        11 at the groups i have tried to start we will see that i have 
+15,01        11 no management skillz at all.  
+
+15,01                11. 10The Rounds of Fire11 <no packs>
+15,01                11. 10Order of Orion11 <3 shitty packs>
+15,01                11. 10Drop11 <uhmm, no comment>

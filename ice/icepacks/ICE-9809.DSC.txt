@@ -1,0 +1,39 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 10/1/1998
+15,01###############################################
+15,01ice-9809.sit,ANSI,iCE 98/09 Sites,iCE Senior Staff
+15,01ice-9809.nfo,ANSI,iCE 98/09 Info File,iCE Senior Staff
+15,01ice-9809.mem,ANSI,iCE 98/09 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,0109-goop2.ice,ANSI,Goop,Fluor
+15,01c0-bhc.ice,ANSI,Black Hole Cafe, Count Zero
+15,01c0-cia.ice,ANSI,CIA,Count Zero
+15,01c0-lg998.ice,ANSI,Logos (09/98),Count Zero
+15,01ti-ji28.ice,ANSI,Jello Insanity,Trip
+15,01tnt-04.ice,ANSI,Logo Colly #4,Taintedx
+15,01tnt-dgen.ice,ANSI,Degeneration,Taintedx
+15,01tnt-djmx.ice,ANSI,Def Jamz,Taintedx
+15,01us-c1b.ice,ANSI,City Iz Burning,Multiple Artists
+15,01us-def.ice,ANSI,Defsquad,Multiple Artists
+15,01us-dis.ice,ANSI,Distant,Multiple Artists
+15,01us-j98.ice,ANSI,The Joint,Multiple iCE Artists
+15,01us-ot.ice,ANSI,Otaku Underground,Multiple Artists
+15,01us-seire.ice,ANSI,Seire,Multiple Artists
+15,01dm-flet2.jpg,Fleet Revival,Darkmage
+15,01dm-gate.jpg,Underworld Gates,Darkmage
+15,01dm-grdn.jpg,Guardian Angel,Darkmage
+15,01dm-hrbng.jpg,Harbinger,Darkmage
+15,01dm-huntr.jpg,Hunter,Darkmage
+15,01dm-inter.jpg,Internation,Darkmage
+15,01dm-met.jpg,Metallica Shrine,Darkmage
+15,01dm-river.jpg,Underworld River,Darkmage
+15,01dv-grl1.jpg,Girl,DaVinci
+15,01dv-grl2.jpg,iCE Girl,DaVinci
+15,01dv-roset.jpg,Rosette,DaVinci
+15,01ja-merm1.jpg,Mermaid,Jae
+15,01ss-ffght.jpg,Untitled,Steven Stahlberg
+15,01tk-24dp.jpg,24 Deep,The Knave
+15,01tk-druid.jpg,Mercury Druid of the Lost Island,The Knave
+15,01tk-ioi.jpg,Isle Of Illusions,The Knave
+15,01tk-wings.jpg,Wings of Straylight and other Wonders,The Knave
+15,01ve-avrce.jpg,Avarice,Vesalius

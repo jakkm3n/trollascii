@@ -1,0 +1,80 @@
+
+15,01   #-----------------------------------------------------------+
+15,01   |  "The Aquisition" - Contains E-K of the ANSi Collection.  |
+15,01   |  Background History:    The Aquisition was originated in  |
+15,01   |  San Jose, California.   After it had been organized and  |
+15,01   |  its contents  sorted,  it first  appeared  on  Fear and  |
+15,01   |  Loathing BBS.   To this day the original zips are still  |
+15,01   |  floating around,  but as  more  and  more high  quality  |
+15,01   |  computer graphics are  produced,  the more tighter  the  |
+15,01   |  zipped volumes become.                                   |
+15,01   +===========================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |     The Aquisition : Volume E-K *      May  1st, 1992     |
+15,01   +-----------------------------------------------------------+
+
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01 |1  |EDGE23   ANS |   2764 | 6.02.91 |%   | Circuits Edge               (23)|
+15,01 |2  |EDGE24   ANS |   4428 |12.01.91 |%   | Circuits Edge               (24)|
+15,01 |3  |EDGE25   ANS |   4324 | 6.02.91 |%   | Circuits Edge               (25)|
+15,01 |4  |EDGE26   ANS |   5877 | 6.02.91 |%   | Circuits Edge               (26)|
+15,01 |5  |EDGE28   ANS |   3629 | 6.02.91 |%   | Circuits Edge               (28)|
+15,01 |6  |EDGE30   ANS |   3185 | 6.02.91 |%   | Circuits Edge               (30)|
+15,01 |7  |EDGE31   ANS |   5181 | 2.04.91 |%   | Circuits Edge               (31)|
+15,01 |8  |EDGE33   ANS |   3384 | 4.27.91 |%   | Circuits Edge               (33)|
+15,01 |9  |EDGE34   ANS |   6214 | 5.15.91 |%   | Circuits Edge               (34)|
+15,01 |10 |EDRMACD1 ANS |  17845 | 1.04.92 |%+  | Electric Dreams                 |
+15,01 |11 |EFFECTS  ANS |  10581 | 1.15.92 |%+  | Side Effects                    |
+15,01 |12 |ELM      ANS |   8142 |10.27.91 |%A  | Elm Street                      |
+15,01 |13 |ELYSIUM  ANS |   9241 |12.27.91 |%+  | Elysium                         |
+15,01 |14 |EMPIRE1  ANS |  19490 | 3.24.91 |%+  | Underground Empire              |
+15,01 |15 |EODACID1 ANS | 255275 | 6.20.91 |%Ax | Eye of the Dragon               |
+15,01 |16 |EUPHORIA ANS |  73667 | 4.03.91 |A   | Euphoria                        |
+15,01 |17 |FCCACID  ANS |   4000 |12.22.91 |%   | F.C.C. Logo/Sites List          |
+15,01 |18 |FESTER1  ANS |   7359 | 4.03.91 |%   | Festering Pit                   |
+15,01 |19 |FFACID2  ANS | 126039 | 2.17.92 |%Ax | Final Fantasy                (2)|
+15,01 |20 |FIELD    ANS |   3214 | 9.15.90 |    | Field of Dreams                 |
+15,01 |21 |FINAL    ANS |  18086 | 5.24.91 |%Ax | Final Frontiers                 |
+15,01 |22 |FIREACID ANS |   4691 |11.17.90 |%   | FireHouse                       |
+15,01 |23 |FNTSYACD ANS |  26219 |11.24.91 |%+  | Final Fantasy                (1)|
+15,01 |24 |FORGEACD ANS |   9577 | 1.19.92 |%+  | Demon's Forge                   |
+15,01 |25 |FRACTURE ANS |  24046 | 1.06.92 |%A  | Fractured Reality               |
+15,01 |26 |FROG     ANS |   3968 | 1.01.91 |%   | Treefrog                        |
+15,01 |27 |GLSACID1 ANS |  96941 |10.15.91 |%A+x| Grave of the Lost Souls      (1)|
+15,01 |28 |GLSACID2 ANS |   1644 | 1.02.92 |%+  | Grave of the Lost Souls      (2)|
+15,01 |29 |HAMB8    ANS |   9928 | 3.18.90 |A   | Hamburger Heaven                |
+15,01 |30 |HARDKOD  ANS |  10204 | 1.21.91 |A   | HARD Kod                     (1)|
+15,01 |31 |HARDKOD2 ANS |  22207 | 1.21.91 |Ax  | HARD Kod                     (2)|
+15,01 |32 |HATE-ACD ANS |   4871 | 1.21.92 |%   | H.A.T.E. Logo                   |
+15,01 |33 |HELLACD1 ANS |  10825 | 1.24.92 |%+  | The Depths of Hell              |
+15,01 |34 |HOLIC2   ANS |  40470 | 1.05.91 |%Ax | BBS A Holic                  (2)|
+15,01 |35 |HOLIC5   ANS |   3380 |12.29.91 |%   | BBS A Holic                  (5)|
+15,01 |36 |HOLIC10  ANS |   5997 |12.29.91 |%   | BBS A Holic                 (10)|
+15,01 |37 |HOLIC12  ANS |   5209 |10.06.91 |%   | BBS A Holic                 (12)|
+15,01 |38 |HOLIC13  ANS |   9671 |10.07.91 |%+  | BBS A Holic                 (13)|
+15,01 |39 |HOLIC14  ANS |  11995 |12.23.91 |%+  | BBS A Holic                 (14)|
+15,01 |40 |HORACID  ANS |  37742 |10.17.91 |%Ax | House of Rage                   |
+15,01 |41 |HOUSE    ANS |  16673 | 4.06.91 |%Ax | House of the Rising Sun      (1)|
+15,01 |42 |HP-ACID  ANS |  85882 |10.17.91 |%Ax | Hydrogen Palace              (1)|
+15,01 |43 |HRKPACID ANS |   6075 | 1.03.92 |%+  | Hyperions Realm                 |
+15,01 |44 |HRSMACD  ANS |  12667 | 1.03.92 |%A  | House o/The Rising Sun-Main Menu|
+15,01 |45 |HS-CAR2  ANS |   3304 |10.17.91 |%   | High Sierra w/Mazda             |
+15,01 |46 |HYDROGEN ANS |  11720 |12.30.91 |%+  | Hydrogen Palace              (2)|
+15,01 |47 |HYSTERIA ANS |   3986 | 4.15.91 |%   | Hysteria                        |
+15,01*|48 |IG1ACID  ANS |  66740 | 4.07.92 |%Ax | Immortal Grounds                |
+15,01 |49 |ILCACID1 ANS |   6190 | 3.10.91 |%+  | In Livin' Color                 |
+15,01 |50 |INCACID  ANS |   7166 |11.04.91 |%A  | INC Logo                     (1)|
+15,01 |51 |INCTZBS2 ANS |   3902 | 1.27.92 |%   | INC Logo                     (2)|
+15,01*|52 |INFRACID ANS |  16492 | 5.26.91 |%A  | Infinite Revolution             |
+15,01 |53 |INN      ANS |  10981 |11.14.90 |%Ax | Inn of the Last Home            |
+15,01 |54 |INSANACD ANS |   5778 | 3.10.92 |%+  | Temporary Insanity              |
+15,01*|55 |IS2ACID2 ANS |   6801 | 4.18.92 |%   | The Inner Sanctum II         (2)|
+15,01 |56 |IS2KPACD ANS |   3144 | 2.08.92 |%   | The Inner Sanctum II         (1)|
+15,01 |57 |KARRUS   ANS |   2559 | 8.15.90 |    | Land of Karrus                  |
+15,01 |58 |ACIDE-K  NFO |   6552 | 5.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |

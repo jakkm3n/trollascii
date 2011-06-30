@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :    August Update *  September 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file(s) ACID-50?.ZIP are only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-50   EXE| 432515 |09.01.96 |AMx  |ACiD 50th Update Intro          |
+15,01*|2  |ACID-50   NFO|   8824 |09.01.96 |%+   |Acquisition Information File    |
+15,01*|3  |ACID-50   XB |  14629 |09.01.96 |%+   |September Member/Site Listing   |
+15,01*|4  |ACIDAPP   EXE|  45307 |09.01.96 |%    |ACiD Application Generator V2.1 |
+15,01*|5  |ACIDVIEW  DAT| 125438 |09.01.96 |%    |ACiD View BGI/RIP font data     |
+15,01*|6  |ACIDVIEW  EXE| 122037 |09.01.96 |%    |ACiD View V4.30                 |
+15,01*|7  |ACIDVIEW  NFO|  51993 |09.01.96 |%+   |ACiD View Documentation         |
+15,01*|8  |FILE_ID   DIZ|    732 |09.01.96 |%    |Acquisition FILE ID by {UN}     |
+15,01*|9  |NEWS-50   ANS|  43921 |09.01.96 |%+   |ACiD Newsletter Issue #13       |
+15,01*|10 |SPOON     EXE|  41777 |09.01.96 |%    |Spoon II V1.10                  |
+15,01*|11 |SPOON     INI|   8751 |09.01.96 |%+   |Spoon Initialization Info       |
+15,01*|12 |TOMB-200  EXE| 176870 |09.01.96 |%    |Tombstone Artist 2.00           |
+15,01*|13 |TOMB-INS  BAT|   2489 |09.01.96 |%+   |Tombstone Artist 2.00 Installer |
+15,01*|14 |ANS-50A   ANS|  82903 |09.01.96 |%+   |ACiD ANSI logocluster #16       |
+15,01*|15 |ANS-50B   ANS|  89473 |09.01.96 |%+   |ACiD ANSI logocluster #17       |
+15,01*|16 |ANS-50C   ANS|  86560 |09.01.96 |%+   |ACiD ANSI logocluster #18       |
+15,01*|17 |BS-ROCK1  ANS|  31661 |09.01.96 |%+   |The Rock                        |
+15,01*|18 |DF-CRIM1  ANS|  56585 |09.01.96 |%+   |Crimson Corp                    |
+15,01*|19 |DF-SUCCO  ANS|  54866 |09.01.96 |%+   |Succotash                       |
+15,01*|20 |GS-SHAD1  ANS|  47460 |09.01.96 |%+   |Shades of a Shade               |
+15,01*|21 |KM-FIFTY  ANS|  29378 |09.01.96 |%+   |Fifty to Infinity               |
+15,01*|22 |LD-ROCK1  ANS|  43968 |09.01.96 |%+   |The Rock                        |
+15,01*|23 |LD-TNW1   ANS|  24330 |09.01.96 |%+   |The Never World                 |
+15,01*|24 |LN-PRE1   ANS|  15177 |09.01.96 |%+   |Prehistorical Goddess           |
+15,01*|25 |NI-SKULL  ANS|  49969 |09.01.96 |%+   |Skull Duggery                   |
+15,01*|26 |NI-TST    ANS|  16737 |09.01.96 |%+   |The Screaming Tomato            |
+15,01*|27 |ON-AMP1   ANS|  39856 |08.21.96 |%+   |Acidic Matrix Pro               |
+15,01*|28 |ON-SILK1  ANS|  28054 |09.01.96 |%+   |Silk                            |
+15,01*|29 |PH-MOOSE  ANS|  26029 |09.01.96 |%+   |Moose City                      |
+15,01*|30 |RA-FIFTY  ANS|  98034 |09.01.96 |%+   |ACiD 50 Advo                    |
+15,01*|31 |SE-JELLO  ANS|  48524 |09.01.96 |%+   |Jellomite                       |
+15,01*|32 |SE-LIME   ANS|  30626 |09.01.96 |%+   |Lime                            |
+15,01*|33 |SI-SOS1   ANS|  51986 |09.01.96 |%+   |Save Our Sailors!               |
+15,01*|34 |TR-ACID1  ANS|  23863 |09.01.96 |%+   |ACiD 50 Advo                    |
+15,01*|35 |US-GUBM1  ANS|  31887 |09.01.96 |%+   |The Gub Mint                    |
+15,01*|36 |US-SFISH  ANS|  43702 |09.01.96 |%+   |Skullfish                       |
+15,01*|37 |W7-ORACL  ANS|  53465 |09.01.96 |%+   |Oracle Advo                     |
+15,01*|38 |ASC-50A   ASC|  23832 |09.01.96 |%+   |ACiD ASCII logocluster #15      |
+15,01*|39 |ASC-50B   ASC|  22463 |09.01.96 |%+   |ACiD ASCII logocluster #16      |
+15,01*|40 |ASC-50C   ASC|  24081 |09.01.96 |%+   |ACiD ASCII logocluster #17      |
+15,01*|41 |US-IDES   ASC|   8385 |09.01.96 |%+   |Ides of March                   |
+15,01*|42 |AL-FIFTY  GIF| 123489 |09.01.96 |%    |Tha Big Five-Oh!                |
+15,01*|43 |AL-RAZOR  GIF|  81652 |09.01.96 |%    |Razor 1911 Advo                 |
+15,01*|44 |BN-FIFTY  JPG| 113017 |09.01.96 |%    |Sleepy Gremlins                 |
+15,01*|45 |BT-JELLO  JPG|  64737 |09.01.96 |%    |Jellomite                       |
+15,01*|46 |CS-CLASS  JPG| 113116 |09.01.96 |%    |Classic Magazine                |
+15,01*|47 |CS-SPYDR  JPG|  96239 |09.01.96 |%    |Street Spyders                  |

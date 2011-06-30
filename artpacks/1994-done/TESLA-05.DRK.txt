@@ -1,0 +1,80 @@
+15,01                                                   #         #01  000000S1       
+15,01             #                                     00@15         00@
+15,01                                                   #         14,15#15,01            #
+15,01             #                14,15#15,01              14,15#15,01               #            00@
+15,01             00@15     #              #                     #
+15,01      #      14,15#15,01     m14,15   15,01mm     #   m14,15   15,01mm     #      mm14,15    15,01mm              #
+15,01      00@15      00@15     "14,15      15,01m   00@15   "14,15      15,01m   00@15    m14,15    15,01""14,15   15,01"#   #
+15,01      #      #     00@15  "14,15    15,01| |14,15#15,01|  00@15  "14,15    15,01|  14,15#15,01   |14,15  15,01"   14,15#15,01 "      00@
+15,01                   14,15#15,01    |14,15   15,01 14,15   15,01  14,15#15,01    |14,15   15,01  14,15 15,01|  14,15  15,01|    14,15 15,01        14,15#
+15,01      00@15            14,15 15,01     14,15  15,01| |14,15  15,01| 14,15 15,01     14,15  15,01|  14,15  15,01  |14,15 15,01     14,15 15,01        00@
+15,01      #            14,15 15,01    |14,15 15,01"   "14,15 15,01" 14,15 15,01    |14,15 15,01"   14,15  15,01|  "m    m        #
+15,01                       m"         m   m"    |14,15  15,01|     #  14,15#
+15,01                                            14,15  15,01"
+15,01                 00@15            #           m14,15 15,01"           00@
+15,01                 #            00@15         #"              #
+15,01      #                       14,15#15,01                                             #
+15,01      00@15          00@15            #                                   #
+15,01      14,15#15,01          14,15#15,01        #         #          00@15     #            00@15         #
+15,01     mmmmm        m#      m14,15   15,01mm    m14,15   15,01mm            mm14,15    15,01mm     mm14,15     15,01m 00@
+15,01    "   "14,15  15,01m    m14,15 15,01     #  "14,15      15,01m  "14,15      15,01m   #    m14,15    15,01""14,15   15,01"# m""""14,15      
+15,01      14,15#15,01   14,15   15,01  |14,15 15,01|     00@15  00@15  "14,15    15,01| 00@15  "14,15    15,01|  00@15   |14,15  15,01"  mm "   #  mm   """
+15,01      14,15 15,01   |14,15  15,01| 14,15   15,01m    14,15#15,01  14,15#15,01    |14,15   15,01 14,15#15,01    |14,15   15,01 |14,15#15,01|  14,15  15,01|  ""        14,15#15,01  """  #
+15,01    m14,15 15,01m  m14,15   15,01  |14,15    15,01mm 14,15 15,01  14,15 15,01     14,15  15,01| 14,15 15,01     14,15  15,01| 14,15   15,01  |14,15 15,01            mmmm    mm|
+15,01.#m14,15        15,01"    "14,15     15,01|14,15 15,01  14,15 15,01    |14,15 15,01"  14,15 15,01    |14,15 15,01"  |14,15  15,01|  "m          14,15          15,01"
+15,01    """""        # """ m      m"    m   m"     "14,15 15,01"     #         ""14,15    15,01""  #
+15,01      00@15                                              00@15            14,15#15,01        00@
+15,01      #          00@15     #            00@15                #            00@15        #
+15,01                 #                                                #
+15,01                                    #                #
+15,01                                                                  #
+15,01                                 Ninja Bunnies
+15,01                                 ~~~~~~~~~~~~~
+
+15,01                   With a snickety-snap and a clickety-clack,
+15,01                     The martial warrior wields his steel,
+15,01                 A sword in his hand and a carrot in his belt,
+15,01                        In case he must stop for a meal.
+
+15,01                 Wandering the streets never seen, never heard,
+15,01                        Vigilante and defender of right,
+15,01                  Faster than lightning and sharp as a blade,
+15,01                    Not to mention plump, furry, and white.
+
+15,01                   For this rabbit ninja is out on the prowl,
+15,01                   This black-belt is sure one tough cookie,
+15,01                    He'll kick Bugs' ass and poor Roger too,
+15,01                     And take Jessica home for some nookie.
+
+15,01                  His work is the best, he's gone in a flash,
+15,01                        And leaves behind narry a sign,
+15,01                  But wherever he goes, he always will leave,
+15,01                          A couple of raisins behind.
+
+15,01                   Fierce and determined, a master of death,
+15,01                        He drops 'em dead with a THUMP!
+15,01                     Silent and deadly and brutally quick,
+15,01                     Not to mention that bastard can jump!
+
+15,01                  So wherever you go, do keep one eye peeled,
+15,01                     He doesn't kill for fame or for money,
+15,01           So don't spit on the sidewalk or he'll surely fillet you,
+15,01                    Cause this ninja is one fucked-up bunny!
+
+
+15,01                                     . Ts .
+
+15,01        LIT - It's not just colored text.  It can be Black & White too!
+
+15,01  #00@14,15#15,01"                                                                    "14,15#00,01@15#
+15,01  00@15"m14,15#15,01 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""  14,15#15,01m"00@
+15,01    m                         0  Ninja Bunnies  0                          m
+15,01    14,15 15,01                                                                      14,15 
+15,01    14,15 15,01                      DARK Canadian Headquarters                      14,15 
+15,01    14,15 15,01                                                                      14,15 
+15,01    14,15 15,01                Union Dist Site . Corruption Dist Site                14,15 
+15,01    14,15 15,01             CIA Dist Site . Catharsis World Headquarters             14,15 
+15,01    14,15 15,01         Asylum Dist Site . DARK MemberNet World Headquarters         14,15 
+15,01    14,15 15,01                  Federation Network . Union Network                  14,15 
+15,01    14,15 15,01                       FreeFall International                         14,15 
+15,01    14,15 15,01                                                                      14,15 

@@ -1,0 +1,80 @@
+15,01                                                                                
+15,01                                                                                
+15,01                                                                                
+15,01                                                                                
+15,01 x                                                                      .xbx   x
+15,01 x                                                                              
+15,01                                                                                
+15,01$xbx+x.x_x x x                                                                  
+15,01  gxsxsxsxgx                                                sx+x,x,x+xdx7x'xbx.x
+15,01                                                                                
+15,01                                                                               x
+15,01lx$x$x7x`x  jxbx     x x x                                          gxsxsxsxgx  
+15,01  $x      $x                                                lx$xlx'x^x`x      `x
+15,014x+x,x.x_x_x.x,x+xsx                                                            
+15,01                                                                              :x
+15,01$x7x$xlx                                                            $x      $x  
+15,01  $xsxsxsx$xsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsx
+15,01.x`xnx+xSx$x$x$x$xlx  sxsxsxsx>x-x    sxsxsx>x  _x.x  sxsxsxsxsxsxsxsxsxsxsxsxsx
+15,01sx>x  .x x<xsxsxsxsxsxsxsxsxsxsxsxsx x x  -x<xsxsx>x x x<xsxsxsxsxsxsxsxsx>x xdx
+15,017x  sxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsx$xsxsxsx$x  
+15,01          $x                                                  :xgxgx            
+15,01            `x^x'xnx        .xsx#x7x          4x$xlx.x                          
+15,01  .xdx7x$x+x.x                        lx#x:x x  +xsx#xbx.x x x              dx7x
+15,01 x  :x#x:x           x x x                                          $x          
+15,01          $x                                                    `x4xbx.x        
+15,01                              lx$xlx            $x$x+xSx+x.x                  .x
+15,01dx7x`x   x`x+x$x+x.x_x         x    .x$x$xlx:x  :x$x$x$x$xbx.x            dx7x x
+15,01      $xlx x                                                        $x          
+15,01          $x                                                        `x4xbx.x    
+15,01                              lx$xlx            lx$x:x  `x+xSx+x.x          'x$x
+15,01bx.x x         x`x'x+xSxSx     x   xdxlx$x$x      ^x:x$xlx`x4xbx.x     xdx7x x  
+15,01       x4x.x                                                        $x          
+15,01          $x                                                  .x        `x4xbx.x
+15,01                              :x$x$x            :x$xlx        `x+xSx+x.x        
+15,01`x+xSx+x.x x                   x xdxPx x$x$x:x        $x$x    `x4xbx.xdx7x x   x
+15,01         x4x,x       x                                              $x          
+15,01          $x                                                  dxbx.x        `x4x
+15,01bx.x                          :x$x$x              $x$x              `x4xbx      
+15,01.x+xdx$x7x+xnx       x x       xdxPx   x:x$xlx        lx$x:x    .x$x$xbx        
+15,01           x4xbx x x x                                              $x          
+15,01          $x                                              ,xdx$x$x$xbx.x        
+15,01`x4xbx.x                        $x$x.x      _x.x  $x$x:x_x.x,x+xsx#x+x'x`x    dx
+15,01$x7x`x             x x x x x  dxPx       x$x$x        :x$xlx    `x^xnxlx        
+15,01         x x x4x$x.x x x                                            $x          
+15,01          $x                                            +x$x$x7xnx`x            
+15,01    `x4xbx.x        lxSx#x#xsxsx$x$xSxSx$x$x$x$x  lx$xlx+x+xSxbx,x          lx$x
+15,01lx                  _x.x,x  dxPx   x x   xlx$x:x   x    $x$x                    
+15,01         x x x x`x4xbx.x x x                                        $x          
+15,01          $x                                        .xdx7x'x                    
+15,01        `x4xbx.x    :x7xnx'x'x^x$x$xlx`x`x^xnx+x  :x$x$x      `x+xbx.x      $x$x
+15,01:x x                :x$x$xdxPx     x x   x:x$xlx   x x x$x$x:x                  
+15,01                   x`x4xbx.x x                                      $x   x      
+15,01          $x                                    ,xdx7x`x                        
+15,01    _x.x,x,xlx4xbx.x            lx$xlx              $x$x          `x+xbx+xdx$x$x
+15,01lx x x             xlx$x$xPx+x#xsx+x,x.x_x x$x$x   x+xdx+xnx x  _x.x,x,x.x_x x  
+15,01                       x`x4xbx,x                                    $x   x      
+15,01          $x                                .xdx7x`x                      _x+xsx
+15,01#x+xnx'x"x"x'xnx+x4x$x+x        lx$x$x            :x$x$x:x            `x$x$xbx$x
+15,01$x.x x            .x$x$xPx   x x x  `x^xnx+xlx$x:x  _x.x+x#x7x+xnx'x"x"x'xnx+x#x
+15,01sx+x_x x                   x`x4xbx.x x                              $x   x      
+15,01          $x                            .xdx7x`x                  _x+x#x+x'x`x  
+15,01                      `xnxbx+x+xdx$x$x:x          dx$x$x$xbx_x    _x.xdx$x$x$x$x
+15,01$x$xbx+x,x.x,x+xdx$x$x$x.x   x x x x x x x x:x$xlx xSxnx`x x                   x
+15,01 x`x'x+x#x+x_x                  `x4xbx,x                            $x   x      
+15,01          $x                        .xdx7x`x              _x+x#x+x'x`x          
+15,01                            `xnx4xdx$x$xbx+x,x+xdx$x$x$x7x+xnx'x^x^x'x+x4x$x$x$x
+15,01$x$x$x$x7x+x'x^x^x'xnx+x4xbx.x x x x x x.x x$x7x'x x                            
+15,01       x x`x'x+x#x+x_x              `x4xbx.x   x                    $x   x x    
+15,01          $x                    .xdx7x`x          _x+x#x+x'x`x                  
+15,01                                  `x+x$x$x$x$x$x$x$x7x`x                    `x4x
+15,01$x7x`x                    `x4xbx,x.x,xdx7x x`x                                  
+15,01           x x x x`x'x+x#x+x_x          `x4xbx.x                    $x   x x x  
+15,01  gxsxsxsx$xsxsxsxsxsxsx>x  .xdx7x`x.xsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsx
+15,01sxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsx.x`xnx$x$x$xlx  <xsxsxsxsxsxsxsxsxsxsx>x  
+15,01lx x<xsxsxsxsxsxsxsxsxsxsx>x xlx$x7xnx`x.xsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsx
+15,01sxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsxsx.x`x4xbx.x x<xsxsxsxsxsxsx$xsxsxsxgx  
+15,01  $x      $x            .xdx7x`x    _xsx+x                                      
+15,01                                              `x+xbx                            
+15,01:x         x               xdx+x`x x x                                          
+15,01                                 x x x+xsx_x x  `x4xbx.x       x x x$x x x  $x  

@@ -1,0 +1,80 @@
+15,01     ______                    .    .                          .   .
+15,01    |     / ___________        :    :  _____   _______         .   :
+15,01  __|   //__\__  \_   _)_______|    |__\__  \__\__   /_______  :   |______
+15,01%/  |  //    |    |   _______  |   :|   |    |  _/  /   ____/__|---| ____/__%%%
+15,01//    _/_    _   :|   |   .|   _   .|   _   :|  \    \   ____  \   |  ____  \%%
+15,01\___|    \___|   .|___    :|___|   .|___|   .|___\   \\_/_     \\__|_/_     \\%
+15,01%%%%|    \\%%|____|%%\_____|%%%|____|%%%|____|%%%%\____\%%\______\+tZ^%\______\
+15,01T===|______\==========================+=======================================T
+15,01|                                     |          -%[ katharsis ]%-            |
+15,01|. title    [ kts!ass-key pack #16   ]|  [%] poland's premier pc group [%]    |
+15,01|- artists  [ da kts!ask pound       ]|>  tocont % barnasch % kola % tinyz   <|
+15,01|- rating   [ really doe             ]|> tracker % wtp % jap % mace taranova <|
+15,01|- graphics [ cool ascii gfx         ]|>                gulash               <|
+15,01|- date     [ 10:31:94 <holloween>   ]| -/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\- |
+15,01|- company  [ kts!ass-key            ]|[aSSKEY]       katharsis       [ASSKEy]|
+15,01|- packager [ tINYZ                  ]|[sS]         tinyz % sparr         [SS]|
+15,01|. sound    [ err... uh... no        ]|[iNET]      eerie % k-spiff      [INEt]|
+15,01+ -- --+-- --+-- --+-- --+-- --+-- -- |[iNET] mass delusion % nightrain [INEt]|
+15,01| another month, another pack...      |[iNET]  poskgubbe % redd % saro  [INEt]|
+15,01| another pack, another nfo...        |[iNTL]   motion man % shock-g    [INTl]|
+15,01| just glance this coolio thing so i  |=%= =%= =%= =%= =%= =%= =%= =%= =%= =%==
+15,01| don't get 69,000 questions on irc about kts!ass-key sHIT                    |
+15,01|                                                                             |
+15,01| [1]=[ first off: the name. me and sparr wanted to change the name of the    |
+15,01|       group from kts!ass-key to pMp <not an acronym>... i was about to do   |
+15,01|       it, then posk started bitching, md said he liked kts, nt said "NO!"   |
+15,01|       so i put it to a vote. i recived 7 ballots: 5 against - 1 for - 1     |
+15,01|       member abstained <me> so there you have it...                         |
+15,01|                                                                             |
+15,01| [2]=[ i've released all the katharsis!ascii work from packs 1-12 as a       |
+15,01|       mEGAcOLLY, which means all the asciis are in one big fucking textfile |
+15,01|       which you can prolly find on ummm deadbaby, or your local dist site   |
+15,01|       the colly includes EVERY SINGLE WORK i did during my solo career,     |
+15,01|       it's about 350k of ascii, about 230-240 asciis...                     |
+15,01|                                                                             |
+15,01| [3]=[ some of rEDD's shit in the last pack was double released... it        |
+15,01|       doesn't really matter, because nobody noticed, but some of the asciis |
+15,01|       from the pack can also be found in rEDD's Subliminal pack, which was  |
+15,01|       released onto the amiga scene...                                      |
+15,01|                                                                             |
+15,01| [4]=[ sliver cut went to the army for three years (urgh)                    |
+15,01|                                                                             |
+15,01| [5]=[ rEDD's modem blew up so i'm not sure of his status right now...       |
+15,01|                                                                             |
+15,01| [6]=[ kts!ass-key now has a senior staff... it's made up of uhh... me and   |
+15,01|       sparr! sparr was selected because of his work with recruting members  |
+15,01|       spreading packs, etc etc etc etc etc etc                              |
+15,01|                                                                             |
+15,01| [7]=[ gnu members this month include k-spiff of union ansi fame... mah      |
+15,01|       nikka mD [mass delusion] formerly of alIve and now of uNION...        |
+15,01|       poskgubbe, da dope ass finnish iCE coder living in beverly hills      |
+15,01|       is wit us  ... motion man [dom] from denmark hooks up wit us for some |
+15,01|       more euro-flava... eerie comes in from da killer (relic) side of the  |
+15,01|       scene to drop some high ascii...                                      |
+15,01|                                                                             |
+15,01| [8]=[ MUCHO IMPORTANT! Dist Site sysops, you MUST get in touch with me via  |
+15,01|       the internet/a member to tell me that you're alive and to give me     |
+15,01|       your internet e-mail address! i'm working on a whole new way of       |
+15,01|       setting up a courier network so GET IN TOUCH WITH ME!                 |
+15,01|       [zynit@maloka.waw.pl]                                                 |
+15,01|                                                                             |
+15,01| [9]=[ this pack has one hundered individual pieces of work! so i do hope    |
+15,01|       that every ascii fan can find something for him/herself in here...    |
+15,01|       enjoy the pack everyone... and happy holloween                        |
+15,01|                                                                             |
+15,01| [0]=[ dist site changes - there were a lot of these, so just compare this   |
+15,01|       with the sitelist from the 15th pack... pthht...                      |
+15,01|                                                                             |
+15,01|      ---/\/ tINYZ /\/--/\/ katharsis!ass-key cOMMANDER+iN+cHIEF /\/---      |
+15,01|      ---[     "this is the present. enjoy it while it lasts"      ]---      |
+15,01|                                                                             |
+15,01|   +----+----+----+----+----+----+----+----+----+----+----+----+----+----+   |
+15,01|   :  gREETS /\/ eNCRYPTED fIRST-nAME gREETS - bOO-yEAH! [aC] \/\ STEERg :   |
+15,01|   +  Brian [603] - nice piece of code! and the hidden `G'reets          +   |
+15,01|   :  Asaf [+972] - where the fuck is my toonsi?                         :   |
+15,01|   +  Juho [+358] - we're still be pimp man... don't be bitter           +   |
+15,01|   :  Josh  [616] - is PPiC still around fool?                           :   |
+15,01|   +  Rob   [703] - i never call you cuz i never have cards!             +   |
+15,01|   :  Matt  [817] - so when's the wedding??? carolyn invited me =D       :   |
+15,01|   +  Jay   [413] - gangs suck =) call irc sometime man...               +   |

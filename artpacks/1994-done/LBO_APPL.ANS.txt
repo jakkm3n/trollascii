@@ -1,0 +1,50 @@
+15,01 -=======================================================================-
+
+15,01                 Do you want to join LBO (Little BiG One) ??
+
+15,01   We are looking for new Artists. So if you are interested,
+15,01   Fill in the following application and send it to HYSTERiA BBS (+322-736-4868)
+
+15,01   Including a few samples of your best ANSi-art.
+
+15,01 -=======================================================================-
+
+15,01   -=[ Personal Informations ]=-
+
+15,01 REAL Name .... :
+15,01 Handle ....... :
+15,01 Date of Birth. :
+15,01 Voice number . :
+15,01 Data number .. :
+15,01 Address ...... :
+15,01 City ......... :
+15,01 Country ...... :
+15,01 Hardware ..... :
+15,01 Modem ........ :
+
+
+15,01   -=[ Other Informations ]=-
+
+15,01 Are you a programmer? If so, which languages? :
+15,01 Where did you get this Ansipack/Application form? :
+15,01 Are you affiliated with any other group? :
+15,01 Anything else we should know about you? :
+
+
+15,01   -=[ Ansi Artists ]=-
+
+15,01 How many ansis can you draw into a month? :
+15,01 How much time do you use on ONE ansi? :
+15,01 How many times can you call Flames of Hell in month? :
+
+
+15,01 -=======================================================================-
+
+15,01   Now call our WHQ and leave a Mail to WhiTesnaKe or TorLock
+15,01   Remember to include this file and Your Creations into that message.
+15,01   If you do not screw up anything, you should soon get a phonecall or a
+15,01   Reply or something, that tells you IF you are part of us!
+
+15,01 -=======================================================================-
+15,01 WoRLD HQ   > HYSTERIA BBS  +32-2-736-4868  00:00 - 24:00  96oo-144ooBps
+15,01 -=======================================================================-

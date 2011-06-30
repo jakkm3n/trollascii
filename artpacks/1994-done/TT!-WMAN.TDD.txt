@@ -1,0 +1,44 @@
+
+00,01                                 ...:;;;;:...
+00,01                             .... . ...[[:.;.;f[;..
+00,01                           :;SRRR@@@@R;..[;.;[.;iRf;.;;;
+00,01                         .:ii;;;;iiii[RR:.:..;i.:f@Ri.iRf.;;
+00,01                        .....;;;[[;. ..::... .:..;R@;:;@S;.fK[:
+00,01                       ...;...;.....;.    ..  . ..[;.:.S[..[;.:[i;
+00,01                     ....:i;fK[f:.. ..;;ffKffi;:. .. ..;...:[K[;:..::
+00,01                   ..;ffi:iiff:. .:ifSRRRKKKKKRRKff[:    .:[:...;fRRfii
+00,01                  .:;;fKKRSiii ....:..::.:[i:::;[fffKKfi:  ..:i;::::;ii;i
+00,01                  .ifK@RSSfKi. ..;;:::iii:.fKf;:ifiKSfffff[ ....;iiii;...
+00,01               . ..[KK[f;iKf; .;;::ifii[f[:iRR[iiK#[@S:..f[[;  ..... .....
+00,01              . ...[K[[[:iKfi..[Si:[KfifRSi;R@fiiSK#@@::. .;;;.   .;[i....
+00,01              . ...:S[i;:.;Sf;;[ff[[[Kf[#R[;R@f;iSS#@S. . ...;: .   ..;;..
+00,01             :..  .:;ffi;::i[f[i[fffffS[fR[iKRi:;f[KS: ...;.. .. .    ....
+00,01           ;.f;.   ..:;iifS[fffffSSSSffffKfiKS;:i[Kf...;iii:.   .   .. ...
+00,01         ;:[.:[ .    ..;;iifSSSSSKKSSSSffKfiK[.;[f:..;ii; . ... .    .: .
+00,01         :f;..;; . . ..:[ffSSSSK##RKSSSfSff[f:;i[:.:;:. .::;: .  .  .;i:.
+00,01        ;fK..;...... .;ffSfSSSSKSSSKSSSSfSfff[ii::::.:. . .......   ..f[.
+00,01        :fS... ..:.. ifffSSKSSSSfSSSSSSSfSffff[f[i::.. . ....     . ..f..
+00,01        .if: . .i;..[ffSfSSfSSSSSfffSSSSfSffffffffff[[[i:. ..    . ..fi.
+00,01       ...;[: ..Si.[ffSfffffff;.:"fSfffSffffffffff[f[f[[i;:. .     .i..
+00,01       .. ..:i:.;i;fffSfff[f[[[[[[.~[fffSfffff[f[tT![[[[ii;:. .   .: .
+00,01      ...;. .....:[ffffSfffiii[fff[[.i[fffffff[f[f[[[[[[ii;;: . .. .:
+00,01      . ..;;: . .:ffSSSSfffi:..~+f[i[i[ffff[fff[[[[[[[[[i[i;: ...:i..
+00,01       .. ..:;: .ifSSKSSSSff[:.   .:if[ffffffffffffff[[[i[i:. ..:. .
+00,01         ..   ...[fSSK#RSSSSfff;;i[[fffSSf[i+~_   .~:i[[ii;. ..::i .
+00,01         ..ii ...[fSSKSKSSSKSSSSSSfSffSffi...[[[[ii;;ii[i;. .;i. ..
+00,01         :.:.. ..[fSSSSSSSSfSfSfffffSfSfi. .-:iii:-::[[i;. . ...;..
+00,01            . ...[fffSSSSfffffffffffSSfi..::. . ..:;[[i;. .  . .
+00,01              ...iffSSf[[ff[[[[fSSffSf[:.:i[[i;;i[[[i;: .. .
+00,01                .;[ffff[ffi[[f[:ffSSSf:.:ii[[f[f[[[i;..   . ..
+00,01               ..:[ffffffi:iSSSf..i[i:..;ii[[[[[ii;..     .
+00,01     ..,nnffffff:[[ffSfffff[ii[fff:::::;%iiii[i;:..      .
+00,01,nffSSSSSSSSfSfi[ff[ffSSf[f[fi:. . ..:;ii[i[i;:..
+00,01fSSKKKKSSSSSf[iffSfff[fSS[%::.:::::;iii[i[i;;. ..
+00,01fSSSSSSSfSffffSSffffff[[fSf[[ii;;;%[i[[i;;;.....:::..
+00,01fSfSfSfSfffSSSfSfffffff[ii[[[[[[[[[ii;;::;i;:.:;;iii;;.
+00,01fffffSSffffSfSfffffffffff[i;;;;;;;;:;i[[[[i;:;;ii[[[iii;.
+00,01fffffffSffffSfSfSfffffffffff[[[[[[[[[[[f[i;:iii[[[[[[i[i;.
+00,01fSfffSSffffffffSSSfSfSfffffff[[f[[f[[[[trinitron/tdd]::::::
+15,01>SAUCE00Amazing...                         Trinitron                            
+15,01   19941228a
+15,01  @@P )                             

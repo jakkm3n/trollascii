@@ -1,0 +1,80 @@
+15,01------------------------/___|--------\__/------------------------------------
+15,01 # filename       release name                 release date  filesize group
+15,01-----------------------------------------------------------------------------
+15,01 1 KTS!TZ16.ZIP -  kts pack#16               - fall 94     - ~35k   - kts
+15,01 2 THENME.TXT   - "the nme"-kts pack #17     - december 94 - ~215k  - kts
+15,01 3 KTS-NBK.TXT  - "natural born killers"-#18 - spring 95   - ~210k  - kts
+15,01 4 %%%%%%%%.%%% -  unnamed colly             - fall 95     - ~30k   - kts
+15,01 5 FRUITO~1.BOT - "but mom it's only heroin" - spring 96   - ~24k   - kts
+15,01 6 KOWOBORG.TXT - "kow of borg"              - spring 96   - ~39k   - kts
+15,01 6 IJ-KWBG.TXT  -  same as above                             ~32k?? - trank
+15,01 7 POSK-BBS.001 - "bong brothers #1"         - summer 96   - ~16k   - bbs
+15,01 8 PKTS-RAY.TXT - "raymond ebanks"           - fall 96     - ~20k   - kts
+15,01 9 PKTS-DEC.TXT - "decepticons"              - december 96 - ~28k   - kts
+15,0110 PKTS-DCI.TXT - "dunston checks in"        - jan 97      - 31337b - kts
+15,0111 KTS-HULA.TXT - "hula baloo balai"         - spring 97   - ~54k   - kts
+15,0112 KTS-LADY.TXT - "sorry I'm a lady"         - spring 97   - 31337b - kts
+15,0113 KTS-BAM.TXT  - "bad ass motherfuckers"    - summer 97   - ~27k   - kts
+15,0114 KTS-DRHU.TXT - "dr hustla is best"        - january 98  - ~18k   - kts
+15,0115 RMRS-PMD.TXT - "poskgubbe making dollars" - spring 98   - ~31k   - remorse
+15,0116 KTS-YEAH.TXT - "draw ascii"               - spring 98   - ~55k   - kts
+15,0117 P-BLADE.TXT  - "blade one crew"           - spring 98   - ~65k   - puma
+15,0118 P-PERFEC.TXT - "the perfect combination"  - summer 98   - ~215k  - puma
+15,0119 P-SPICEW.TXT - "spice world"              - fall 98     - ~21k   - puma
+15,0120 P-E-P-PU.TXT - "evil pedestrian"          - fall 98     - ~60k   - puma
+15,0121 thisfile!!!  -  rock on baby!             - november 98 - ???    - remorse
+15,01-----------------------------------------------------------------------------
+15,01chronologically ordered___ | | |___ __\_ |/  _|     |__|   / | | | ........
+15,01   /   \|     |  |   |   / | | |   /  _/     \_____ | ||  |   ___|  ..    .
+15,01--> if you have any of my ascii releases not listed here, please contact me!
+15,01|/  / \ |  _/ |  |_  | /|   |  | /|  ||__| \__|_____| ||  |___|           .
+15,01|__/~~~\|_____|___/  |/ |___|  |/ |  |_             |____/                .
+15,01greetz to my peepz \_|            |___/ ____  ___ __  ____    __ ___      .
+15,01                                .      /  _/|/  |/   /  _/_  /  |  /__    .
+15,01                boner               k-spiff             phobia _|     |   .
+15,01                bugsy               letharic            prizm  \_____ | ...
+15,01                cardiac             mca                 redd\   |  _/ |
+15,01                cyberkid            mjolnir             riot \__|_____|
+15,01                daze                motionman           rza
+15,01                doitall             mr.dawson           shock-g
+15,01                donrapello          mr.x.               sparr
+15,01                dune                necrom              spermwhale
+15,01                eerie               necronite           sulphur
+15,01                fahrenheit          omicron             tinyz
+15,01                gimle               pariah              whodini
+15,01                hashie              phaserx             hiro p.
+15,01                bitstream           pmk                 cypherhex
+15,01                thclone             whirr               blade
+15,01                                    prst                _
+15,01   __| |_______|    \      __| |  | ___  ______      __| |__   ___
+15,01and if you're not on the list, mail me, get in touch!  __|  |_|   |
+15,01 /  / _|   /  /|      \  /  / _|  __ /_  /   / _/_ /  / _|   _    |
+15,01and yo.. mjolnir did the posk logo on top.  peace brotha!|  | |   | ____
+15,01|______|_/\    |__|"\   |______|/  |___|___/|    \|______|__| |   |/   /
+15,01-----------\__/------\_____|----------------|_____|           |_______/
+15,01                                 ________________  ____  ___      ____
+15,01                                /               /  \_  \/   |____|    |
+15,01< CRaCK < TeCH < 2ooo <        /               /    /  /  | |    | |  |
+15,01                              /               /    /  |_ ___| |  |___/
+15,01--------------------------   /_______________/    |_____|   |___/
+
+
+
+15,01check this board out!
+
+15,01and yo astarte, here's your menu set:
+
+15,01mpeg3, goodbye, oldies, emulators, modules, graffities
+
+
+
+15,01                                  ___                    ____
+15,01                                 |   |_____ ___         |    |
+15,01                         _____|  | | |     |   |        |___ |\
+15,01                  ___   /     |  | | |   __|   |  _____    / | |
+15,01             __  /   | /      |   ___|  |_     | |     |  /  | |
+15,01            |  |/    |/  /|   |   |   ____||   | |_    |  \  | |
+15,01            |_____/|    / |___|___|  |_        |  /   / ___\ | |
+15,01             \     |___/   \      |____|   |   | /   / |     | |
+15,01              \_____\  \  / \______\   \   |   |/   /  |_____| |
+15,01                     \__\/          \___\  |       /   /\    \ |

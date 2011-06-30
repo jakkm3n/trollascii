@@ -1,0 +1,63 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                A    U    G    U    S    T     1    9    9    9
+15,01-------------------------------------------------------------------------------
+
+15,010. Sinned Soul was not mentioned in this info file.
+
+15,011.  In an attempt to overthrow the  government, iCE has launched a presidential
+15,01campaign.  The  "Vote for WWW.iCE.ORG for President" project is being headed by
+15,01none  other  than  the  king  turd himself, Lord Soth. Visit WWW.iCE.ORG today!
+
+15,012.  iCE  didn't manage to enslave any new artists this month. Someone had to be
+15,01punished, and  Syntax Error quickly volunteered. However, his begging for "that
+15,01special pain" quickly  led to him being led back to his cage by his master, the
+15,01Doctor of Love, aka Vesalius.
+
+15,013. The iCE  ANSI  squad  was far too busy  playing "Hide the Hotdog" with Force
+15,01Ten  to  be  bothered with matters as trivial as ANSI. Somehow, a few dedicated
+15,01artists   managed   to   produce   a   few   lines   of   pixelated   goodness.
+
+15,013.5  In totally  unrelated news,  iCE's high-resolution department continued to
+15,01whoop  major butt  this month.  Be sure to check out every disk of the iCEPack.
+
+15,014.  In yet  another  sign that the world can't get enough of iCE's art, 3D stud
+15,01Steven  Stahlberg  sold  his  Virtual  Girl  model for an estimated 2.3 billion
+15,01dollars.  Steven  immediately donated every  penny to the "Vote for WWW.iCE.ORG
+15,01for President" campaign.
+
+15,015.  Some  know Devastator as an iCE "Member", but his true  focus in life is to
+15,01spread  the  gospel  of his love for hamsters. In accordance with this, Dev has
+15,01purchased the 3rd world nation of Canada and turned it into a full time hamster 
+
+15,01sex clubhouse. Streaming video of Devastator and his furry friends can be found
+15,01at WWW.iCE.ORG.
+
+15,016. As summer winds down, iCE continues to march into the new millenium. Will we
+15,01all  die?  Will  all the computers turn into chop suey?  Will Syntax Error ever
+15,01get over his Ricky Martin obsession?  The only way to find out will be to catch
+15,01us again next month. Until then, toodles!
+
+15,01- Trip "Naked ANSI for life!" (iCE)
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------

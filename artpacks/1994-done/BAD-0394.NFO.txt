@@ -1,0 +1,80 @@
+01,01Information File(<[25
+
+15,01                14,15 15,01""""""""""""""14,15 15,01""""""""""""""14,15 15,01"""""""""""m
+15,01                14,15 15,01 14,10  ##11,01@@10##14#11m   14,15 15,01 14,10  ##11,01@@10##14##11m  14,15 15,01 14,10  ##11,01@@10##14#11m 15m
+15,01                14,15 15,01 14,10 ##11,01@@15   11"14##11m 14,15 15,01 14,10 ##11,01@@15   11"14##11m 14,15 15,01 14,10 ##11,01@@15   11"14##15 14,15 
+15,01                14,15#15,01 14,10##11,01@@10#15   14,15#15,01 14#01@15 14,15 15,01 14,10##11,01@@10#15   14,15#15,01 01@@15 14,15 15,01 14,10##11,01@@10#15   14,15#15,01 01@15 14,15 
+15,01                14,15#15,01 14,10#11,01@@10##15   14,15#15,01 01@@15 14,15 15,01 14,10#11,01@@10##15   14,15#15,01 01@14,14#15,01 14,15 15,01 14,10#11,01@@10##15   14,15#15,01 01@15 14,15#
+15,01                14,15#15,01 11@@10###15 14m 14,15#15,01 01@14,14#15,01 14,15#15,01 11@@10###15 14m 14,15#15,01 14,14##15,01 14,15#15,01 11@@10##14,11 11,01   14,15#15,01 14,14#15,01 14,15#
+15,01                14,15#15,01 11@10####15 14"14,14 14,01m 14,14# 15,01 14,15#15,01 11@10##11"m 14"14,14 14,01m 14,14# 14,01 14,15#15,01 11@10##11"m   14,15#15,01 14,14#15,01 14,15#
+15,01                00@15 10###11"m   14"14,14   14,01 14,15#15,01 10#11"m14,11 14,01#15   14"14,14   14,01 14,15#15,01 10#11"m14,11 14,01#15   14,15#15,01 14,14 14,01 00@
+15,01                00@15 10#11"m14,11 14,01#15   14,15#15,01 14,14  14,01 14,15#15,01 11m14,11 14,01###15   14,15#15,01 14,14  14,01 14,15#15,01 11m14,11 14,01###15   14,15#15,01 14,14 14,01 00@
+15,01                00@15 11m14,11 14,01###15   14,15#15,01 14,14  14,01 00@15 14###01@@15   14,15#15,01 14,14  14,01 00@15 14####01@15   14,15#15,01 14,14 14,01 00@
+15,01                00@15 14###01@@15   14,15#15,01 14,14  14,01 00@15 14#01@@@14,14#15,01   14,15#15,01 14,14  14,01 00@15 14##01@@@15   14,15#15,01 14,14 14,01 00@
+15,01                00@15 14#01@@@14,14#15,01   14,15#15,01 14,14  14,01 00@15 14#01@@14,14##15,01   14,15#15,01 14,14  14,01 00@15 14#01@@14,14##15,01   14,15#15,01 14,14 14,01 00@
+15,01                # 01@@@14,14##15,01 """ 14,14  14,01 15# 01@14,14####15,01   14,15#15,01 14,14  14,01 15# 01@@14,14###15,01 ""14m14,14  14,01 15#
+15,01                # 01@14,14#####      14,01 15# 14,14#### 15,01 m"14m14,14   14,01 15# 01@14,14### 15,01 14,14    14,01"m15#  14HR
+15,01          00-15-14-----------------------------------------------------15-00-
+15,01                    00B 10i 11t 14c h i n '  A n s i   D e s 11i 10g 00n
+15,01          00-15-14-----------------------------------------------------15-00-
+15,01                       00I 10n 11f 14o r m a t i o n   F 11i 10l 00e
+15,01          00-15-14-----------------------------------------------------15-00-
+00,01T10h11i14s month,  Bitchin' ANSi Design  brings  you  their best pack in two mont11h10s00,
+00,01m10a11k14ing it infinitely better than last month's pack.   Admittedly,  it's  be11i10n00g
+00,01r10e11l14eased a little bit later than hoped, but it's here and it kicks ass.   N11o10w00,
+00,01o10n 14to the news of the past couple months.
+
+00,01I10n  14answer  to the letters we've received from our many fans,  no,  BAD is 11n10o00t
+00,01d10e11a14d,  we just didn't put out a pack last month.   However, we've combined 11t10h00e
+00,01a10r11t14work and effort of  two  months  into  one,   so  this pack should be qu11i10t00e
+00,01s10a11t14isfactory.   In addition, we may skip another month sometime in the futu11r10e00,
+00,01s10o 14if this occurs, have no fear, BAD is still here.
+
+00,01W10e 14have a few unfortunate  departures  this  month  so  we  big  them  a  f11a10i00r
+00,01f10a11r14ewell.  First of all, Basehead leaves us to work for Gothic, creating mu11s10i00c
+00,01f10o11r 14them including a new musicdisk project that he's working on.  In additi11o10n00,
+00,01D10r11e14adnought  leaves  us  to  devote  his  time  better on schoolwork and ot11h10e00r
+00,01a10c11t14ivities.   We'll still be  using  his  code  as  a  base for the viewer 11a10n00d
+00,01a10p11p14lication generator so still report any bugs or comments on it to us.   B11o10t00h
+00,01o10f 14these previous members have been moved to the newly created Special Memb11e10r00s
+00,01s10e11c14tion of our Member Listing for their continued support  and  help.    Al11o10n00g
+00,01w10i11t14h  them,   Persecutor  and Squirrel move with them into the Special Memb11e10r00s
+00,01s10e11c14tion for their long-time status with BAD.
+
+00,01T10o 14counteract this unfortunate  turn  of  events,   BAD has gained several 11n10e00w
+00,01m10e11m14bers.   Our first new member is SleepWalker who has become  a  courier  11f10o00r
+00,01B10A11D14.    Along  with  him comes Hell Raiser,  an ANSi artist who specializes 10i00n
+00,01f10o11n14ts.   We also gain Stone Angel  and Neurotic as couriers.   We welcome t11h10e00m
+00,01a10l11l 14aboard as full-fledged members (..   of  the  Hollis  Crew.    Heh,   h11e10h00,
+00,01h10e11h14eh...) of BAD.
+
+00,01B10i11t14chin'  ANSi Design will moan a sigh of relief when,  from the bowels of 11o10u00r
+00,01m10e11m14bers,  FLATULENCE explodes onto the scene next month,  wiping out all ot11h10e00r
+00,01f10i11l14e description creators.  Stay tuned.
+
+00,01F10o11r14tunately,  BAD has been able to place  a stable foot onto the InterNet,  10s00o
+00,01f10o11r 14everybody who's anybody,  you can reach many  members  there  as  well  10a00s
+00,01o10b11t14ain all the packs from various FTP sites.   On IRC, BAD members will alw11a10y00s
+00,01b10e  14available on both #iCE and #BAD.   All the BAD packs are currently loca11t10e00d
+00,01o10n 14wasp.eng.ufl.edu in the  /pub/msdos/demos/ansi  directory so look their 11f10o00r
+00,01a10n11y 14further information on that.
+
+00,01T10h11a14t's about all we've got to say this month.   Hope you enjoy the pack,   11a10n00d
+00,01w10a11t14ch out for FLATULENCE, it'll knock you off your seat.  laTeR...
+
+15,01                                              00B10l11a14ck Kni11g10h00t 14[00B10A11D 14Senior Mem11b10e00r14]
+15,01                                                       00b10k11n14ight@freenet.fsu.11e10d00u
+15,01                                             00N10u11m14ber Crunc11h10e00r 14[00B10A11D 14ANSi Art11i10s00t14]
+15,01                                                    00p10a11t14ters@dirac.scri.fsu.11e10d00u
+
+00,01G10r11e14e11t10Z00:
+
+00,01S10l11e14epNig11g10e00r 14: 00I10'11l14l trust you on this one, bud. 10;00]
+00,01H10e11l14l Rai11s10e00r 14: 00T10h11i14nk you'll be able to keep up this one ANSi every day thi11n10g00?
+00,01S10o11u14l Re11b10e00l  14: 00I10f 14only I knew what the hell your board name mea11n10t00!
+00,01S10h11i14h11e10a00r15     14: 00Y10e11s14, it's finally out.  Now you can quit bugging me. 10;00]
+00,01B10a11s14eh11e10a00d    14: 00C10a11n14't wait to see some more of your stu11f10f00.
+00,01R10N11D14S11e10r00v15     14: 00T10h11a14nX for the packs, g11u10y00.
+00,01T10.11D14. H11a10l00f   14: 00S10e11n14d us some more of your lit, we'll ANSiFi it for 10y00a.
+00,01C10a11v14al11i10e00r    14: 00Y10o11u 14are the most 3133t3 /<-rAd d00d i kn11o10w00!
+00,01D10r11. 14De11a10t00h   14: 003101113143t0 Burr11i10t00o

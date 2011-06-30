@@ -1,0 +1,28 @@
+15,01Program # Select PPE - Replacement for PCBoards Select Command
+15,01Author  # Altered Destiny [HR/Reactor/AoA/PFANet/HRNet WHQ]
+
+15,01 ...-... Installation ...-...
+15,01Load Up MKPCBTXT Edit Record # 562
+
+15,01Put !C:\(PPEPATH)\SELECT.PPE
+
+
+15,01Your Done.
+
+15,01 ...-... Configurabitly ...-...
+15,01 
+15,01100% Configurable. Select.cfg contains all of the text printed through
+15,01the whole ppe. 
+
+15,01 ... Greets ...
+
+15,01Mr. Muff
+15,01Dark Jester 
+15,01Satan Claus - I'm still in ahh over your ANSi 
+15,01Tetsuo     - Thanx for the ANSi
+
+15,01 ... BlackList ...
+15,01The Sandman (Rob Brouse) - Watch out groups he lies to join groups. He told
+15,01NEXUS he had 3 nodes and Glory I think he told them 2 this is a lie. 1 Node
+15,01and thats it. He is Local to me his board is lame. If you need more info
+15,01call The Shadow's Den. 

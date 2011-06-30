@@ -1,0 +1,80 @@
+15,01iCEView v0.66 Wide Beta (c) 1994, 1995 Insane Creator's Enterprise (tm)
+15,01-------------------------------------------------------------------------------
+
+15,01        What you are now viewing is the documentation for iCE's new
+15,01    viewer, named iCEView. This program is a "one-stop" program to
+15,01    view most any artwork you might come across in your art scene
+15,01    experience.
+
+15,01        iCEView is the first viewer to include TRUE Smooth Scrolling
+15,01    in its ANSI display modes. TRiBEView once claimed smooth scrolling,
+15,01    but believe me, THIS is the real thing. Once you view an ANSI in
+15,01    25-line mode, you might never go back! :)
+
+15,01        iCEView, using proper memory techniques, will use up to 8
+15,01    megabytes of EMS memory. Using this memory, it will display ANSIs
+15,01    up to 51,200 lines long. BIN viewing is equally flexible, allowing
+15,01    a user to display pics at 163840x25, 2023x2023, 51200x80 or anywhere
+15,01    in between! ;)
+
+15,01    (now THAT figure is theoretical - no one's drawn me a pic to test
+15,01    that with yet. Any takers? ;) )
+
+15,01        In addition, it sports an interface that was drawn in ANSI using
+15,01    iCE's new iCEDraw. This program is not for public consumption.. yet.
+15,01    v2.00 will be out around August, possibly.
+
+15,01iCEView Features
+
+15,01    # ANSI/BIN Viewing in ALL supported video modes.
+15,01    # GIF viewing in VGA or Super VGA modes, with the proper resolution
+15,01      auto-detected.
+15,01    # The debut of the new iCEDraw format, which utilizes custom font
+15,01      and palette remapping.
+15,01    # File manipulation functions - Copy, Move, Delete and Mkdir.
+15,01    # VGA ANSI Display. This is far faster than any other viewer out there.
+15,01      A little slower to draw, perhaps, but far faster to scroll. Gotta love
+15,01      those demo tricks.
+15,01    # BIN Display. Handles unlimited width and unlimited length, up to the
+15,01      size of available memory.
+15,01    # Smooth scrolling in all 4 directions. TOP THIS ONE! =)
+15,01    # SAUCE Detection and inclusion.
+15,01    # EMS memory usage. Using 8 M of EMS allows 51000+ lines of ANSI.
+15,01      If no EMS is found, it will use 128k of RAM (allowing 800 lines)
+15,01    # VGA Screen saver.
+15,01    # CRC self-checking to resist virus infection. If you have an
+15,01      infected copy of iCEView, contact Friar on IRC, or the iCE WWW
+15,01      page.
+15,01    # External file association. By editing the .CNF file, you can run
+15,01      DMP for your .S3M and .MOD files, and whatever.
+15,01    # Side-by-side ANSI viewing. This can view up to 50 ANSIs in text
+15,01      mode, or 3 ANSIs in VGA mode.
+
+15,01SETTING UP iCEVIEW
+
+15,01        iCEView is really simple to set up. Just unzip it into any
+15,01    directory. Keep the .CNF file and the .EXE together - it'll still run
+15,01    without it, it'll just be much nicer with your settings.
+
+15,01        If you use Desqview(tm), iCEView comes with a PIF to use it under
+15,01    Desqview(tm). To load this pif:
+
+15,01      1. Run Desqview(tm).
+15,01      2. Choose 'Open Window'.
+15,01      3. Choose 'Add a Program'.
+15,01      4. Choose 'Other'.
+15,01      5. Type in the path information to IV-PIF.DVP. (It should have been
+15,01         in the package you got iCEView from.)
+15,01      6. iCEView will work with Desqview(tm) now!
+
+15,01COMMANDS
+
+15,01Main Menu
+15,01------------------------------------------------------------------------------
+15,01Delete file                 del
+15,01Create .DSC file            alt-d
+15,01Debug Info                  alt-i
+15,01Edit Sauce Desc             ctrl-s                                        *
+15,01<A-Z>                       Skips to that section of the file list
+15,01Quit                        esc or alt-x
+15,01Tag file                    space

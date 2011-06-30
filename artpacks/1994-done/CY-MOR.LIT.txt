@@ -1,0 +1,30 @@
+
+
+15,01        03M09o00rrow
+
+15,01        03T09h00e 03D09a00wning 03D09a00y
+15,01        03T09h00e 03S09u00n's 03E09y00e 03O09p00ening 03O09n 03A D09e00vasted 03W09o00rld
+15,01        03T09h00e 03O09n00ce 03G09r00een 03F09e00ilds
+15,01        03N09o00w 03L09a00y 03I09n 03A09s00hen 03R09u00in.
+15,01        03T09h00e 03S09m00ell 03O09f 03B09u00rnt 03B09o00dies 03A09n00d 03G09r00ass
+15,01        03S09q00ueazing 03H09a00rd 03O09n 03T09h00e 03T09h00roat.
+
+15,01        03I09n 03T09h00e 03D09i00stance, 03T09h00e 03S09u00rvivors 03R09u00n
+15,01        03T09o00wards 03A N09e00w 03L09a00nd
+15,01        03F09r00ee 03O09f 03D09i00saster 03A09n00d 03W09a00r
+15,01        03B09u00t 03F09o00r 03T09h00em, 03T09h00e 03M09o00rrow 03W09i00ll 03N09e00ver 03E09r00ease
+15,01        03T09h00e 03T09r00agedy 03O09n 03W09h00ich 03T09h00e 03M09o00on 03S09l00eeps.
+
+15,01        03F09o00rever 03I09n 03T09h00eir 03M09i00nds
+15,01        03H09a00unting 03T09h00em, 03T09h00e 03T09o00rment
+15,01        03T09h00e drag 03O09f 03L09i00ving
+15,01        03W09e00ighing 03H09a00rd 03U09p00on 03T09h00eir 03T09i00red 03A09n00d 03F09r00ail 03S09h00oulders.
+
+15,01        03B09u00t 03F09o00r 03T09h00ose 03L09e00ft 03B09e00hind
+15,01        03O09n00ly 03A S09o00uvenir 03M09o00ist 03W09i00th 03T09e00ars 03S09t00ill 03E09x00ists
+15,01        03I09n 03T09h00e 03B09o00thered 03M09i00nds 03O09f 03A09l00l.
+
+15,01                   03C09Y00PHER.03i09M00PERiAL
+
+15,01>SAUCE00Morrow                             Cypher              Imperial         
+15,01   20940701    @@P v                             

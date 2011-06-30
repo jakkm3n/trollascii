@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    J    U    N    E      1    9    9    9
+15,01-------------------------------------------------------------------------------
+
+15,011.  Oh  say,  can  you  see?  By  the  dawn's  early  light!  No, it isn't  the
+15,01fight  for  independence,  but instead,  an all-new  iCE  Pack  coming  to  you
+15,01just  in  time  for your Independence  day  celebration!  And  if you  live  in
+15,01Canada,    we   heard   that   gay   pride   day   was   last   week,    kudos.
+
+15,012.  A  fellah  by  the  name  of  Tim Lewis wandered into our commons recently,
+15,01deciding  that,   he  too,  had  the  desire  to   create  incredible  art  and
+15,01associate  with  the  best  in  digital  art.  We couldn't agree with him more.
+
+15,013.   As  we  announced  last  month,  the  new  iCE  website  has  finally gone
+15,01online  amidst  a  bunch  of  hooplah  and one of the more interesting was that
+15,01www.ice.org  was  posted  to  the  almighty  Slashdot.org,  the  news  site for
+15,01geeks.   As   many  people  know,   this  will  cause  the  "slashdot"  effect,
+15,01attempting   to   cripple  servers  with  thousands  of  simultaneous  viewers.
+15,01Luckily,  our  systems  held  up  great under the load and the web server never
+15,01exceeded a load of 1! 
+
+15,014.   In  other  recent  website-related  news,  Ansiconv  aka  Artview  1.7 was
+15,01released  fixing  a  small  command  line parameter bug that prevented many DOS
+15,01users  from  using  the  program  non-interactively.  This  has been fixed  and
+15,01the  new  version  has  been  posted  to  http://artview.ice.org.  We  will  be
+15,01compiling   a   DOS   version   for   you   gimps   as   soon    as   possible.
+
+15,015.  We  would  like  to  congratulate  Anarchy and Aphid Twix on the release of
+15,01the  Nintendo  64  game  they  have  been  laboring on for a long time.  It's a
+15,01racing  game  called  World  Championship  Driver, from Boss Studios.  Check it
+15,01out,  it's  a  fantastic  racing  game, if you're into that sort of thing  like
+15,01Mongi is into jello.
+
+15,016.  Did  we  mention  that  in  June  alone,  our web site served more than 2.3
+15,01million   hits?   You'll  be  hard-pressed  to  find  another  art   group  who
+15,01can  offer  the  hirez  AND  lowres  artists  as  much  exposure as we can!  If
+15,01you're  interested  in  joining  iCE,  simply  visit  our  website  or  send an
+15,01email to apply@ice.org!
+
+15,017.  You  know mellons are just like pears, except they're completely different.
+
+15,018.   Update  on the  Jamie  McCarter  situation:  APS Technology has sent  us a
+15,01pre-release  of their  Summer  catalog!   Jamie's  art  can  be  found  on  the
+15,01cover,  the  first page  of  the  catalog,  and  another page towards the back!
+15,01Congrats again Jamie on a job well done!
+
+15,019.   Women's   world   cup,   broadcasting   cellular    phone   conversations,
+15,01government-sponsored  co-ops,  mysterious  H:  drive  formats,  and  love  that
+15,01you just can't get enough of!
+
+15,019.5  The  votes  have  been  tallied,  and it's official: iCE's favorite Asian:
+15,01Sinned Soul!
+
+15,01-Mass "I'm as happy as a leetle gurl" Delusion // iCE Senior Staff
+
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------
+15,01>SAUCE00iCE 99/06 Info                     iCE Staff           iCE Advertisement
+15,01s  199907 1o<                                    

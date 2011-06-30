@@ -1,0 +1,80 @@
+15,01/*---------------------------------------------------------------------------
+15,01iCECOLOR v1.3 programmed by Leviathan 
+15,01-----------------------------------------------------------------------------
+15,01   Compiler : Borland C++ v3.1
+15,01           Date : 10-22-93
+15,01Description : Partial source code to ICECOLOR.EXE. The source code included
+15,01                          demonstrates how a program can interphase/control the 
+15,01COLOR 
+15,01                          TSR. The only source code not included is the code to 
+
+15,01                          load_tsr(). The code is the code which loades the TSR 
+15,01module
+15,01                          into memory.
+15,01---------------------------------------------------------------------------*/
+
+15,01#include <dos.h>
+15,01#include <stdio.h>
+
+15,01#include "tsr_lib.h"
+
+15,01char *status_msg[] =
+15,01        {
+15,01        "Disabled ",
+15,01        "Enabled  ",
+15,01        "Installed",
+15,01        "Unloaded "
+15,01        };
+15,01char *help_msg[] =
+15,01        {
+15,01        "+----------------------------------------+\n"
+15,01        "|                iCECOLOR                |\n",
+15,01        "|  iCE COLOR 16 Background Color Driver  |\n",
+15,01        "+----------------------------------------+\n",
+15,01        "| Usage   : ICECOLOR [option]            |\n",
+15,01        "|                                        |\n",
+15,01        "| Options : /U - Unload from memory      |\n",
+15,01        "|           /D - Disable ICECOLOR        |\n",
+15,01        "|           /E - Re-enable ICECOLOR      |\n",
+15,01        "|           /? - Help with commands      |\n",
+15,01        "|                                        |\n",
+15,01        "| Default : Installs iCE COLOR in memory |\n",
+15,01        "+----------------------------------------+\n",
+15,01        NULL
+15,01        };
+15,01int status = 2;
+
+15,01void help (void)
+15,01{
+15,01        int i =0;
+
+15,01        for(i=0;help_msg[i];i++)
+15,01                printf(help_msg[i]);
+15,01        exit(1);
+15,01}
+
+15,01void get_status (void)
+15,01{
+15,01        if(status == 3) return;
+
+15,01        if(!check_vector())                  // make shure something is there
+15,01                {
+15,01                status = 2;                      // no? load
+15,01                return;
+15,01                }
+15,01        if(tsr_loaded())                     // yes, get status
+15,01                status = tsr_status();
+15,01        else
+15,01                status = 2;                      // else, load
+15,01}
+
+15,01void put_status (void)
+15,01{
+15,01        get_status();
+
+15,01        printf("+----------------------------------------+---------------------+
+15,01\n");
+15,01        printf("|                iCECOLOR                |  Status:  %s |\n",sta
+15,01tus_msg[status]);
+15,01        printf("|  iCE COLOR 16 Background Color Driver  |                     |
+15,01\n");

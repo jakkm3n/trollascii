@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01+---------------------------------------------------------------------------+
+15,01|                                                                           |
+15,01|                                                                           |
+15,01|         NOTE:                 This is the first Shocked Pack              |
+15,01|         released due to the numerous requests from friends and            |
+15,01|         acquaintances.  Since the ACiD Acquisition, as well as its        |
+15,01|         many other packs out there to date does not necessarily           |
+15,01|         reach ALL of the Computer users out, it seemed to be a            |
+15,01|         good idea to share not only my artworks, but also the             |
+15,01|         boards which I done the arts on.  This Pack should not            |
+15,01|         be looked at as an egotistical attempt on my part to show         |
+15,01|         off my works, but rather as a sharing experience.  For I          |
+15,01|         know, as well as others, that  I am  far  from being the          |
+15,01|         top VGA artist out there, but I do think that my works are        |
+15,01|         somewhat satisfactory to the eyes of beholders.....               |
+15,01|                                                                           |
+15,01|                                                - Shock Wave [ACiD]        |
+15,01|                                                                           |
+15,01+---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        |           Shocked Pack :   1993 Premier Edition           |
+15,01        +-----------------------------------------------------------+
+
+15,01+---+-------------+--------+---------+-----+--------------------------------+
+15,01| # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01+---+-------------+--------+---------+-----+--------------------------------+
+15,01|1  |SHOCKED  NFO |   7126 |01.01.94 |a    | Shocked Pack Information File  |
+15,01|2  |ARCHANGL PCX |  42476 |04.01.93 |iH   | Soul of the Hunter             |
+15,01|3  |BATMAN   PCX |  71316 |05.01.93 |iH   | Evilution                      |
+15,01|4  |DING     PCX |  76636 |09.25.93 |aH   | Dementia Net                   |
+15,01|5  |MAXX     PCX |  13858 |07.15.93 |aL   | ACiD Release                   |
+15,01|6  |MEGATON  PCX |  81206 |11.20.93 |aH   | Out of Nowhere & Access Denied |
+15,01|7  |PROPHET  PCX | 117099 |12.05.93 |aH   | CountDown to Extinction        |
+15,01|8  |REAPER   PCX |  89300 |07.10.93 |aH   | ACiD Release                   |
+15,01|9  |SPREADPC PCX |  18052 |12.24.93 |aL   | SpreadPoint / PC               |
+15,01|10 |VOODOO   PCX |  69262 |08.30.93 |aH   | Cyclops                        |
+15,01|11 |SW-CERE  EXE |  50685 |07.01.93 |aHL  | ACiD Release                   |
+15,01|12 |SW-CTE   EXE | 176884 |12.31.93 |aLM  | Countdown to Extinction        |
+15,01|13 |SW-CYC   EXE |  26641 |08.29.93 |aHM  | Cyclops BBS                    |
+15,01|14 |SW-DB    EXE |  49648 |06.26.93 |aL+  | ACiD Release                   |
+15,01|15 |SW-WHERE EXE | 218390 |12.31.93 |aHL  | Out of Nowhere & Access Denied |
+15,01|16 |NOWHERE  ANS |  24345 |11.28.93 |aA   | Out of Nowhere & Access Denied |
+15,01+---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +--------------------------------------------------+
+15,01|                                                                            |
+15,01|              a = ACiD Production      i = iCE Production                   |
+15,01|              H = High Resolution  (640x480 256 color)                      |
+15,01|              L = Low  Resolution  (320x200 256 color)                      |
+15,01|              M = Adlib/ANSi Music/SB                                       |
+15,01|              A = ANSi                 + = Animated                         |
+15,01|                                                                            |
+15,01+----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   21     Average Compression Rate: %56          |
+15,01|          Total Bytes:  1,132,789     Total Bytes Zipped:   513,010          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01  Thanks: + Radman and ACiD for giving me the opportunity to show my works
+15,01            to the BBSers of Today.  (just get the coding on time OK?)    
+
+15,01          + iCE for getting me started in the VGA scene in the beginning of 
+15,01            1993 year.
+
+15,01          + Maximum Carnage for being a bud from the beginning

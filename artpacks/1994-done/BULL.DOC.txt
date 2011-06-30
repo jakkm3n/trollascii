@@ -1,0 +1,80 @@
+15,01              -=BULLETINS DOOR BY ECLiPSE and DARK KNIGHT=-
+15,01              .............................................
+
+15,01What Is It?
+15,01...........
+15,01        Well This is a door that will make a user upon your request read
+15,01ANSI files.  I made this because I was sick of how people always cut the
+15,01files short and never looked at the whole thing, well with this door if 
+15,01you want, the user must read every one you tell them to..
+
+15,01THERE ARE ONLY 5 POSITIONS FOR NEWS, I DIDN'T WANT THE USER IN IT FOREVER
+
+15,01The Config Program
+15,01..................
+15,01        The config program is easy to use, first of all, you have the menu
+15,01highlight the item to configure and press enter..
+
+15,01  1. Highlight item to config & Press Enter..
+
+15,01  2. Type Description of News (20 charachters) and name (8 charachters 
+15,01     out .ans extension)
+
+15,01     **NOTE**  If you want your users to be forced to read the news item
+15,01     Press the '*' while entering the description, the description should now
+15,01     appear in red to show that the user must read the news item..
+
+15,01  3. Press <ESC> to save it..
+
+15,01  4. Other Commands:
+15,01                     ALT-W - this is to clear all the description and file
+15,01                     names and required to read marks, basically this starts
+15,01                     you over, use this if you have a problem with the file
+
+15,01                     H - this will bring up a help screen
+
+15,01Setting Up For BBS Use
+15,01......................
+
+15,01   1. Edit the bull.ctl file, everything in the file is self explaining, plus
+15,01      there are descriptions by every item, look at it carefully..
+
+15,01   2. make a .bat saying
+
+15,01        cd\bull    (bull dir)
+15,01        bull /p c:\bbs (/nx, where x is the node if needed)
+15,01        cd\bbs
+
+15,01   3. Insert it into your logon.bat or Startup menu, for instance, I made a 
+15,01      menu in Renegade that had a agreement on it, if they pressed yes then
+15,01      the door was run, then it quit to the main menu, if no then hung up..
+15,01      (somthing like that)..
+
+
+15,01Command Line Parameters
+15,01.......................
+
+15,01"/L"      This tells Bull to load up in LOCAL
+15,01          mode. This is good for testing or when a sysop just wants
+15,01          to "try out" the door without messing with his BBS setup.
+15,01          The "/L" mode will ask the user for his name and run the
+15,01          door in local mode.
+
+15,01"/S"      This command will tell doordriver to load up
+15,01          in the Sysop FAST local mode. The only difference between
+15,01          this and "/L" above is that the sysop is not asked his
+15,01          name - it is plucked out of the control file
+15,01          automatically.
+
+15,01"/M"      This is a generic maintenance mode. It logs
+15,01          into the game with the name "SYSTEM MAINT" in local mode.
+15,01          You can use it if your program requires a nightly
+15,01          maintenance or something similar.
+
+15,01"/Nx"     (where x is 1..9) This specifies a "node
+15,01          number". Some bbs software support multinode environments
+15,01          in which you must know the node number of the drop file to
+15,01          use. For example, RBBS-PC uses DORINFOx.DEF. If you
+15,01          specified "/N2" then doordriver would use DORINFO2.DEF.
+
+15,01"/Pyyy"   This specifies the PATH to the drop files.

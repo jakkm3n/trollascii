@@ -1,0 +1,58 @@
+12,01                                                                    00          
+12,01                       .       .       .       .                    00          
+12,01                   ___/*\_____/*\ ____/*\_____/*\____________       00          
+12,01                 ..\TE .  \  . . *\.      \  .  . \.  .  . ./..     00          
+12,01                  11...\    /  /:.   \  .\.  \./_____/  /___/... 12     00          
+12,01                  10../   . :   :/ . :.  /   /    .  \  .  .\..11  12     00          
+12,01                  10 ..\   .:____    :   ___/____.   : . ___/..11  12     00          
+12,01                  11.../   /    . \ .: . :  .  ./  . :. \   \... 12     
+12,01                 .11./___    . __/   :   :\ .     . /  .  ____\..12     00          
+12,01                       14\  .__/   . \   .\  .  . /. . __\12            00          
+12,01                         15\/__ .  . / .. . \  . .\ __/12               00          
+12,01                         15    \  . /\ . /\/ . /\/     12               
+12,01                               00\/    \ /  \/ 12                       00          
+12,01                               00       *      12                       
+12,01                               00       .      12                       00       
+12,01                               00       .      12                       
+12,01                               00       .      12                       00          
+
+00,01                             12Lapse Member Listing 
+00,01                                                                      
+12,01Delirium Tremens        [DT]    Ansi Staff Coordinator             00 
+12,01Time Killer             [TK]    Relations/Organization Coordinator 00  
+12,01Game                    [GM]    Music Staff Coordinator            00   
+12,01The Red Flame           [TRF]   Coding Coordinator                 00   
+11,01Hyped                   [HY]    Ansi Artist
+11,01Rodent                  [ROD]   Ansi Artist 
+11,01Waxman                  [WX]    Ansi Artist    00                     
+11,01T/+E                    [TE]    Ansi Artist    00                      
+10,01Insanitor               [IR]    Musician/Coder   00                       
+10,01Pyro Maniac             [PM]    Vga Artist/Coder
+10,01Ghent                   [GH]    Coder            00                     
+10,01Tanis                   [TN]    Courier
+10,01The Wizard              [TW]    Courier                            00 
+15,01                                                 10    15               00  
+10,01                                                                   00 
+15,01                                                                    12     00     
+10,01Deadly Intoxication       World HQ       Time Killer           801 00 12     00     
+11,01The Crimson Waters        Canadian HQ    Proze                 613  12     00     
+11,01Bogus Boutique            Norwegian HQ   HO>>>S                +4715  12     00     
+11,01Project-X                 Israeli HQ     Nyc Kid              +972  12     00     
+11,01Blood Wych                Oz HQ          Lone Sector           +61  12     00     
+11,01Open For Application      Eastern HQ                           XXX  12     00     
+11,01The Eighth Plane          Mountain HQ    Orcus                 XXX15  12     00     
+11,01The Forgotten Underground Member Board   Tanis                 20915  12     00     
+14,01The Court House           Distribution   The Judge             206 15 12     00     
+14,01Reversed Utopia           Distribution   Mr. Sinister          404 00 12     00     
+14,01Evil Intentions           Distribution   Betrayer              408 00 12     00     
+15,01The Cartel                Distribution   Omega Redd            516  12     00     
+15,01Reunion of Souls          Distribution   Sandman               703 00 12     00     
+15,01Terra Firma               Distribution   Somms                 714  12     00     
+15,01The Dead Sovereignty      Distribution   Mathules              801 00 12     00     
+15,01Tramontane                Distribution   Desolated Dreams      813 00 12     00     
+00,01Distant Oasis             Distribution   Deadpool              905
+
+00,01If you were left out, either you have been dropped as a site or I forgot
+00,01to put you on the list. If you find an error, please contact me asap.
+15,01>>SAUCE00Lapse Productions 11/94 Member ListTime Killer         Lapse           
+15,01    19941101+!  @@P v                             

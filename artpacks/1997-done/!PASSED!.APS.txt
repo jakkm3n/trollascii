@@ -1,0 +1,21 @@
+15,01                                                             __xxxxxXXXXXxx._
+15,01                         _,xxXXXXXx ZXXXXXXXXXXXXxx_      xXXXXXXXXXXXXXXXXXX
+15,01                     ,xXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXx xXXXXXPnnnnXXXXXXXXXX
+15,01                  ,xXXXXXXPnnXXXXXX XXXXXXX      `XXXXXX.YXXn        ^nXXXXX
+15,01===============,xXXXXXXX'====XXXXXX=XXXXXXX========`XXXXX.XXx===========^nn==
+15,01A.P.Station ,xXXXXXXXX'     XXXXXXX XXXXXXX         `XXXXX XXXx_ A.P.Station
+15,01==========,XXXXXXXXX'=======XXXXXXX=XXXXXXX==========XXXXX=xXXXXXXx_=========
+15,01        ,XXXXXXXXXn         `XXXXXX XXXXXXX   ,xxx_,4XXXX' nXXXXXXXXXXx_
+15,01      xXXXXXXXXXX  ,xxXXXXXx   XXXX XXXXXXX ,XXnnnXXXXXX'     XXXXXXXXXXXx
+15,01    ,XXXXXXXXXXXXXXXn^^    XX  XXXX XXXXXXXXXX     ^nn^         ^XXXXXXXXXXx
+15,01   4XXXXXXXXXXXXXXn     ,xXXxxXXXXX XXXXXXXXXXx          xXx_      ^XXXXXXXXX
+15,01 ,XXXXXXXXXXXXXXX'    xXXXXXXXXXXXX XXXXXXXXXXXXx      xXXXXXXxx___xXXXXXXXXX
+15,01,XXXXXXXXXXXXXXn     XXXXXXXXXXXXXX XXXXXXXXXXXXXX   xXXXXXXXXXXXXXXXXXXXXXXX
+15,01YXXXXXXXXXXXXn'      `CXXXXXXXXXXP'zXXXXXXXXXXXXX7 xXXXXXXXXXXXXXXXXXXXXXXXP
+15,01                                                     ^^^nnnXXXXJAGERXXXXPn
+15,01SysOp - Andrew Prokhorov, ap@aha.ru aka                     ^^^^^^^^
+15,01===================================---------------------.............. . .  .
+15,012:5020/1035@fidonet.org 963:1/116@ViwaNet 917:438/116@UserNet 9:666/17@PriMus
+15,01===================================---------------------.............. . .  .
+15,01Freq_time 1:30-5:30/Freq_MinBaud 9600/Freq_MaxTime 30/Freq_Nodes ALL/ WELCOME
+15,01===================================---------------------.............. . .  .

@@ -1,0 +1,13 @@
+15,01-----------
+15,01EMiGRE Info
+15,01-----------
+
+15,01Programmed in complete Turbo Pascal 7.0 by DimeBag of TekLordZ. If you come
+15,01across any bugs or have problems running it on your system.  Please give us
+15,01a call at 808-637-4460 Box#207 and leave voice mail for DimeBag or Smooth.
+
+15,01This is issue #1 - If interested in authoring articles, turn in interviews,
+15,01do artwork for the mag, etc... contact us at the above VMB.  Thanks.
+
+15,01Smooth [ACiD.TL.EMi]
+15,01>

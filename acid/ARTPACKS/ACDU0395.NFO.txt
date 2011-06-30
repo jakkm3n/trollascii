@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  February Update *      March 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0395.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0295 ANS |   4749 |02.28.95 |%+   | February 1995 Member/Board List|
+15,01*|2  |ACIDAPP  EXE |  35263 |03.01.95 |%    | ACiD Application Form Generator|
+15,01*|N/C|ACIDVIEW CFG |   3973 |03.01.95 |%    | ACiD View configuration        |
+15,01*|3  |ACIDVIEW EXE | 369968 |03.01.95 |%    | ACiD View version 3            |
+15,01*|4  |ACIDVIEW NFO |  42282 |03.01.95 |%+   | ACiD View Documentation        |
+15,01*|5  |AK-BADL1 ANS |  14056 |03.01.95 |%+   | The BadLands                   |
+15,01*|6  |AS-AW1   ANS |  11835 |03.01.95 |%+   | Alien Workshop                 |
+15,01*|7  |BM-LOKI  RIP |  17016 |03.01.95 |%    | Loki's Error                   |
+15,01*|8  |CS-AW1   GIF | 197309 |03.01.95 |%    | Alien Workshop                 |
+15,01*|9  |CS-DUNG2 GIF | 141327 |03.01.95 |%    | Dungeon 2                      |
+15,01*|10 |CS-TT1   GIF | 203715 |03.01.95 |%    | Termite Terrace                |
+15,01*|11 |CS-VP1   GIF | 198893 |03.01.95 |%    | Visual Purple                  |
+15,01*|12 |FI-SUCCO ANS |  28555 |03.01.95 |%+   | Succotash                      |
+15,01*|N/C|FILE_ID  DIZ |    403 |03.01.95 |%    | Acquisition FILE ID by {BE}    |
+15,01*|13 |FM-FRNGS GIF | 145539 |03.01.95 |%    | The Fringes                    |
+15,01*|14 |FM-VENG  GIF | 112082 |03.01.95 |%    | Vengence                       |
+15,01*|15 |GS-MD    ANS |  19361 |03.01.95 |%+   | Mortal Disorder                |
+15,01*|16 |GU-NO1   ANS |  23943 |03.01.95 |%+   | No!                            |
+15,01*|17 |IO-TJ1   GIF | 138538 |03.01.95 |%    | The Joint                      |
+15,01*|18 |LOGO0395 ANS |  25551 |03.01.95 |%+   | ACiD logocluster #1     (03/95)|
+15,01*|19 |MG-AGORA RIP |  94540 |03.01.95 |%    | Loki's Error                   |
+15,01*|20 |P1-TST   ANS |  23201 |03.01.95 |%+   | The Screaming Tomato           |
+15,01*|21 |PS-ACID1 RIP | 132729 |03.01.95 |%    | ACiD Demo                      |
+15,01*|22 |RL-AC1   ANS |  61495 |03.01.95 |%+   | Alpha Centauri                 |
+15,01*|23 |SL-CYBH1 GIF |  67982 |03.01.95 |%    | Cybernetic Holocaust           |
+15,01*|24 |SM-SUCCO RIP |  10253 |03.01.95 |%    | Succotash                      |
+15,01*|25 |SO-PG1   ANS |  37199 |03.01.95 |%+   | The PowerGrid                  |
+15,01*|26 |SR-CC1   ANS |  20366 |03.01.95 |%+   | Silver Rat                     |
+15,01*|27 |SR-ST1   ANS |  26449 |03.01.95 |%+   | Sarcastic Toaster              |
+15,01*|28 |SS-DYS1  GIF | 110102 |03.01.95 |%    | Dystopia                       |
+15,01*|29 |SS-LIQ1  GIF | 179987 |03.01.95 |%    | Liquid Dreams                  |
+15,01*|30 |SS-TT1   RIP |  42743 |03.01.95 |%    | Termite Terrace                |
+15,01*|31 |SS-UF1   RIP |  27061 |03.01.95 |%    | Unseen Fate                    |
+15,01*|32 |STC-A2   ANS |  15758 |03.01.95 |%+   | Area 2                         |
+15,01*|33 |STC-ACID ANS |  14447 |03.01.95 |%+   | ACiD Advo                      |
+15,01*|34 |STC-AVGA ANS |  19669 |03.01.95 |%+   | AVGA                           |
+15,01*|35 |STC-CC1  ANS |  34026 |03.01.95 |%+   | Cat's Cradle                   |
+15,01*|36 |STC-DSOC ANS |  17474 |02.26.95 |%+   | The Dark Society               |
+15,01*|37 |STC-HACK ANS |  27004 |03.01.95 |%+   | Hack Shack                     |
+15,01*|38 |TY-CC1   GIF | 132224 |03.01.95 |%    | Cat's Cradle                   |
+15,01*|39 |TY-LCH1  GIF | 106544 |03.01.95 |%    | LeechWorld Inc.                |
+15,01*|40 |US-PACBL RIP |  21710 |03.01.95 |%    | Packaged Rebellion             |
+15,01*|41 |US-SE    RIP |  11737 |03.01.95 |%    | Suicidal Entity                |
+15,01*|42 |VS-ACID2 ANS |  12143 |03.01.95 |%+   | "Making the competition scream |
+15,01*|43 |ACDU0395 NFO |   6901 |03.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+

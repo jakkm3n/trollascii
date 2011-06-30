@@ -1,0 +1,60 @@
+15,01                                00mm|14,00  00,01mm14"15"00,15"14,00 00,01"  "
+15,01                             00mmm14,00 00,15"15,01 00"14,00  00,15"00,01""14,00 00,01m
+15,01                       00m14,00   00,15"00,01""15             00,15"00,01m15      00mm00,15m14,00   00,15m15,01m
+15,01                        00"15                    00"15,15@15,01"00"00,15"14,00         00,15m
+15,01                         14,00 15,01       m00,15m14,00     00,15m15,01      00"14,00 00,01mm "00,15"14,00      00,01|
+15,01                        00,15|14,00 15,01      00,15m14,00 00,01"15"00""14,00 00,15"15,01    00|00,15m15,01   00,15"14,00  00,01m  14,00    00,15"
+15,01                       00m14,00  00,15|15,01    00,15|14,00 00,01|15         00,15m14,00   00,15m15,01   00,15"14,00 00,01m|14,00 00,01 mmm15m
+15,01                   00mm00,15m14,00     00,01    14,00  15,01m      00m00,15m14,00       00,15m15,01  00"14,00 00,15"15,01 00|14,00     00,15m
+15,01               m00,15m14,00          00,15|15,01   14,00   00,01mm00,15m14,00             00,01| 14,00 00,01| 00,15m14,00       00,01|
+15,01                   "00""00,15"14,00     00,01mm 00,15|14,00                  00,01  00,15|14,00         00,15"
+15,01                         "00""15"   00,15"14,00               00,15"15,01"   00"00,15"14,00    00,15"00,01"
+15,01                         00DT/i10C11E   15"00""00,15"14,00     00,15"00,01""15"
+
+15,01                      iCE: 00May 199415.. Active Member Listing
+
+
+15,01                                  01.00President
+15,01                                 Tempus Thales
+15,01   01(Without a doubt, the gayest fairy ever to grace the iCE member listing.)
+15,01                                 01.00Senior Staff
+15,01     01Rock on dude!15           Shaggy   Syntax Error
+
+15,01                                   00Coordinators
+15,01                                  US - Xerobe
+15,01                              Canada - Ellis Dee
+15,01     01Killer Handle.. as if!15         01(How can one person be so cheery?????)
+15,01          01+------v15                    00ANSI
+15,01       B. Runner      Elminster    iNCUBUS      Nitrous       Ravage Bias
+15,01       Crewl Blade   14*15G. Washing. 14*15Iron Man     Pnakotic      Sand
+15,01       CybeR ChrisT   Gwar        14*15L. Carnuss   Quick Silver  Soul Blazer
+15,01       Dr. Tongue     Hoaks        Lord Soth    R. Majere     Soul Rebel
+
+15,01                                      00VGA
+15,01        Alphaspin        Cardinal          E. Darkness     00Master Koresh
+15,01        Anarchy          Cid Vicious       Flashback       sober
+15,01        Banana Basher    C. Perspective    Mascot          Twink
+
+15,01                                     00Coders
+15,01        Ford Prefect   Friar Tuck   Natex   Poskgrubbe   Prolog   Zoid
+
+15,01                                   00Musicians
+15,01            C.C.Catch   Chuck Biscuits   Mellow-D   Necros   00Nemesis
+
+15,01                                   00Literature
+15,01     Maelstrom   Phoenix Hawk   R. Noble   00Ronin    15Swami   Tron Powerhouse
+
+15,01                                 00Communications
+15,01              Dual Standard     S1W              Vash
+15,01              Rappo             Sy Kotic         Tyrus Sithius
+15,01              Reaper Wildwood   00The Inquisitor   15Zenith Blitzkrieg
+
+15,01                                    00Members
+15,01              Black Ire   Kaska F. Kaska   Ren   Sexual Chocolate
+15,01 14-----------------------------------------------------------------------------
+14,01  15This new memberlist compilation was completed on May 1st, 1994.. and to the
+15,01     best of our knowledge, depicts the current/active membership of iCE...
+15,01      Being left off this list does NOT constitute removal from the group.
+
+15,01          00White 15text signifies a team leader of the respective section
+15,01     A grey 14* 15signifies a new addition to the memberlist as of last release

@@ -1,0 +1,80 @@
+15,01                                            00mm|14,00  00,01mm14"15"00,15"14,00 00,01"  "
+15,01                                       00mmm14,00 00,15"15,01 00"14,00  00,15"00,01""14,00 00,01m
+15,01                                 00m14,00   00,15"00,01""15             00,15"00,01m15      00mm00,15m14,00   00,15m15,01m
+15,01                                  00"15                    00"15,15@15,01"00"00,15"14,00         00,15m
+15,01                                   14 15       m00,15m14,00     00,15m15,01      00"14,00 00,01mm "00,15"14,00      00,01|
+15,01                                  00,15|14,00 15,01      00,15m14,00 00,01"15"00""14,00 00,15"15,01    00|00,15m15,01   00,15"14,00  00,01m  14,00    00,15"
+15,01                                 00m14,00  00,15|15,01    00,15|14,00 00,01|15         00,15m14,00   00,15m15,01   00,15"14,00 00,01m|14,00 00,01 mmm15m
+15,01                             00mm00,15m14,00     00,01    14,00  15,01m      00m00,15m14,00       00,15m15,01  00"14,00 00,15"15,01 00|14,00     00,15m
+15,01        What's new in:   m00,15m14,00          00,15|15,01   14,00   00,01mm00,15m14,00             00,01| 14,00 00,01| 00,15m14,00       00,01|
+15,01                             "00""00,15"14,00     00,01mm 00,15|14,00                  00,01  00,15|14,00         00,15"
+15,01                                   "00""15"   00,15"14,00               00,15"15,01"   00"00,15"14,00    00,15"00,01"
+15,01                                   00DT/i10C11E   15"00""00,15"14,00     00,15"00,01""15"
+15,01 001.  15Recent policy changes:
+
+15,01     00a.  15The 00iCE Trial 15system is no more.   It had evolved into an overbearing,
+15,01         inefficient monster that was so far from its original purpose as to be
+15,01         unrecognizable.
+15,01     00b.  15The 00"US" system 15has been created to take its place.  Originated by
+15,01         Shihear "Is It Out Yet?" Kallizad and Syntax Error, it allows iCE
+15,01         artists the option to have a non-iCE Quality ansi worked on by
+15,01         another iCE artists, rather than not being released in the iCE Pack.
+15,01     00c.  15All iCE artists must recognize as fact that Syntax Error is gay.
+
+01,01.002.  Xerobe 15has become the new coding coordinator.  A coder himself, he will
+15,01     be helping to bring about the first stand-alone iCE demo.
+
+15,01 003.  15As a result, the iCN hub will be changed to 00Sanctuary(tm).  15Filling
+15,01     Xerobe's position as net Coordinator is 00Wizzkidd15, with 00Tempus 15becoming
+15,01     the moderator.
+
+15,01 004.  15New artists!  Recent newbies include: 00Aphex Twin15, 00AlphaSpin15, 00Anarchy15,
+15,01     00Cardinal15, 00Dr. Tongue15, 00Dual Standard15, 00Elminster15, 00Friar Tuck15, 00Pnakotic15,
+15,01     00Prime Evil15, 00QuickSilver15, 00Rappo15, 00S1W15, 00sober15, 00Soul Blazer15, 00Stranger15, 00Twink15,
+15,01     00Vizier15, and 00Zoid15...
+
+15,01 004b. 15Honorable Mention:  two of our new iCE artists, 00Anarchy 15and 00Twink 15are
+15,01     babes. Welcome girls, it's a brave new world.
+
+15,01 004c. 15On the same note, we made many removals on the memberlist due to either
+15,01     inactivity or decreased quality of artwork.  In addition, 00White Knight
+15,01     has decided to remove himself from the scene from a while, and we wish
+15,01     him the best... read his text file for some info on this.
+
+15,01 005.  15Oops!  A few corrections from last month's pack.  The artwork by Hoaks
+15,01     was iCE Trial art done in January, and was included due to an oversight,
+15,01     Our apologies to Hoaks.  Banana Basher, and Sober, who was a new artist
+15,01     last month, had not been put on the memberlist, once again, we're sorry.
+15,01     Finally the ansi, TTLS-PG.ICE, should have been named US-PG.ICE.
+
+15,01 006.  Syntax Error 15is gay.
+
+15,01 007.  15Our European Headquarter has been changed to 00Timo's 15board, 00Crystal15.
+15,01     Timo has also become the new iCE European Coordinator, and will be
+15,01     representing our interests overseas.
+
+15,01 008.  15Our Canadian Headquarter has been changed to 00The Twisted Tower15, run
+15,01     by Elminster.  An excellent artwork oriented system, it will hopefully
+15,01     fill the gap that has existed since Altars of Madness went down.
+
+15,01 009.  15Our Western Headquarter has been changed to 00Belfast, 15run by 00Sexual
+15,01     00Chocolate15.  Glenn Danzig has left the scene, and with him went his board,
+15,01     After Dark Club.  We thank Sexy for filling this void for us efficiently.
+
+15,01 0010. 15MULTI-VIEW is finally released. :)  All art files for this month's pack
+15,01     are now easily viewable under one convenient source.  Three pieces of
+15,01     artwork, however, aren't supported by XV.  Those pieces are the two
+15,01     .JPG's, by Twink and sober, and Friar Tuck's Dot Tunnel. We highly
+15,01     encourage you to take the time to look at them.
+
+15,01 0011. 15The iCE World Headquarters is 00Sanctuary(tm), 15it is up and back in business.
+15,01     Let there be no confusion.
+
+15,01 0012. 15We wanted to take a second to thank EVERYONE for their hard work this
+15,01     month.. it really shows in the quality of the pack!  To those of you with
+15,01     unreleased art this month, we'll be contacting you soon about US partners.
+
+15,01 0013. 15We'll leave the greets list to something lame like that ACiD VMB.
+
+15,01                00Loves and Kisses, Tempus Thales.. your favorite bed-mate.
+15,01                 00with some modifications by Syntax Error (heh)

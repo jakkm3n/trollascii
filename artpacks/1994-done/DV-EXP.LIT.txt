@@ -1,0 +1,33 @@
+15,01                   01-03=14- 03T14 H 03E 14 E 03X14 P 03E15 14R 03I14 M 03E14 N 03T15 14-03=14-
+03,01A14s the light liquid15 14boils
+03,01T14he madman gives a little cackle
+03,01T14he Servent runs to hide
+03,01A14s the overhead thunder bolts crackle
+
+03,01H14e screems in exultation
+03,01A14s his experiment jolts to life
+03,01S14uddenly with a misplaced spark
+03,01B14egins the madmans strife
+
+03,01T14he monster's eyes turn blood red
+03,01A14s he sees the madmans growing fear
+03,01T14he madman runs to hide in the corner
+03,01A14s his time of death comes near
+
+03,01T14he monster begins to choke the madman
+03,01W14ith the vitality of an Ox
+03,01W14hen suddenly from behind the creature
+03,01C14omes flying a tool-filled box
+
+03,01T14he servent smiles gallently
+03,01A14s he watches the horror die
+03,01A14nd the madman takes one last look
+03,01I14nto the monsters blood filled eye
+
+03,01T14he madman takes his one last look
+03,01A14s he and the servent trudge away
+03,01F14rom a horror filled lab
+03,01A14t the end of a fright filled day
+15,01        03D14EViATED
+15,01>SAUCE00The Experiment                     Deviated                             
+15,01   19941024LA  @@P v                             

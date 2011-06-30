@@ -1,0 +1,80 @@
+15,01; DMP.INI
+15,01;
+15,01; Config file for DMP.EXE
+15,01;
+
+15,01[StartUp]
+15,01; Use these entries to change the default behaviour of DMP
+
+15,01; Default cmdline (overrides DMP environment variable)
+15,01;CmdLine =
+
+15,01; Directory DMP will change to before searching for modules
+15,01; Useful if your modules are in only one directory
+15,01;DefaultDir =
+
+15,01; DMP automatically tries following extensions when given a filename
+15,01; without extension
+15,01DefaultExt = MOD STM NST AMF S3M 669 MTM FAR ZIP LZH LHA ARJ
+
+15,01; Following characters are used as channel identificators in
+15,01; instrument list (32 chars)
+15,01ChannelID = 123456789ABCDEFGHIJKLMNOPQRSTUVW
+
+15,01[Colors]
+15,01; This section defines the colors used in DMP, but if you're using
+15,01; a monochrome video, then DMP uses [MonoColors] section instead.
+
+15,01; Each entry defines one attribute, upper nibble is background color
+15,01; lower nibble is foreground color.
+
+15,01; NOTE! You can also use bright backgorund colors, because blinking
+15,01; is disabled (for example 3D2 uses "bright" black background).
+
+15,01; Here is a list of colors and matching numbers (in hexadecimal):
+
+15,01; BLACK     = 0         DARK GREY       = 8
+15,01; BLUE      = 1         BRIGHT BLUE     = 9
+15,01; GREEN     = 2         BRIGHT GREEN    = A
+15,01; CYAN      = 3         BRIGHT CYAN     = B
+15,01; RED       = 4         BRIGHT RED      = C
+15,01; MAGENTA   = 5         BRIGHT MAGENTA  = D
+15,01; BROWN     = 6         YELLOW          = E
+15,01; GREY      = 7         WHITE           = F
+
+15,01; Top line (the copyright)
+15,01Header = 0x5d
+
+15,01; Module playing info
+15,01Info1 = 0x07
+15,01Info2 = 0x0E
+
+15,01; 3D effect in track display
+15,013D1 = 0x00
+15,013D2 = 0x00
+15,013D3 = 0x00
+
+15,01; Track info
+15,01Track = 0x5d
+
+15,01; Volume bar colors
+15,01VolumeBar1 = 0x0A
+15,01VolumeBar2 = 0x0E
+15,01VolumeBar3 = 0x0C
+
+15,01; Instrument list colors
+15,01Instr1 = 0x0E
+15,01Instr2 = 0x0A
+15,01Instr3 = 0x0D
+
+15,01; Contact screen colors
+15,01Contact1 = 0x07
+15,01Contact2 = 0x0d
+
+15,01; Help screen colors
+15,01Help1 = 0x5d
+15,01Help2 = 0x5f
+
+
+
+15,01[MonoColors]

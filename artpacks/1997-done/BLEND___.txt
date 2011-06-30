@@ -1,0 +1,43 @@
+15,01------
+
+15,01Believe it or not, Unix has a sense of humour:
+
+15,01 % cat "food in cans"
+15,01 cat: can't open food in cans
+15,01 > % nice man woman
+15,01 No manual entry for woman.
+15,01 > % rm God
+15,01 rm: God nonexistent
+15,01 > % ar t God
+15,01 ar: God does not exist]
+15,01 > % ar r God
+15,01 ar: creating God
+15,01 > % "How would you rate Quayle's incompetence?
+15,01 Unmatched ".
+15,01 > % [Where is Jimmy Hoffa?
+15,01 Missing ].
+15,01 > % ^How did the sex change operation go? ^
+15,01 Modifier failed.
+15,01 > % If I had a ( for every $ the Congress spent, what
+15,01 would I have?
+15,01 Too many ('s.
+15,01 > % make love
+15,01 Make: Don't know how to make love. Stop. >
+15,01 % sleep with me
+15,01 bad character
+15,01 > % got a light?
+15,01 No match.
+15,01 > % man: why did you get a divorce? man::
+15,01 Too many arguments.
+15,01 > % !:say, what is saccharine?
+15,01 Bad substitute.
+15,01 > % %blow
+15,01 %blow: No such job.
+15,01 > /* not csh but sh */
+15,01 $ PATH=pretending!/usr/ucb/which sense no
+15,01 sense in pretending!
+15,01 > $ drink <bottle; opener
+15,01 bottle: cannot open
+15,01 opener: not found
+
+15,01------

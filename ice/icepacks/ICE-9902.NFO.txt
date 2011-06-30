@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 F  E  B  R  U  R  U  R  U  A  R  Y   1  9  9  8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Egoteq  hit  the nail  on  the  head  this month  with   his  hirez  piece,
+15,01"iCE  V2: Ready To  Fly".  We couldn't have  said it more accurately!  With our
+15,01server back online and a backup mirror being implemented now, iCE V2 is winding
+15,01down into its final stages.  Some text re-writes, a few graphics here and there
+15,01and  the implementation  of the last couple  of interfaces  and it's  go  time!
+
+15,012. Great  member  news this month!  Recently added  member  BMXMEN  is  already
+15,01making  big waves; he  is working on the 3D portion  of a new Red Man video for
+15,01MTV.  You can check out his work this month in the vga portion of the iCE Pack.
+15,01DaVinci  was chosen as a  winner in Adobe's "Give The  President A New Haircut"
+15,01competition.  Making the CEO of Adobe look just a little more punk proved to be
+15,01too  much for the  judges to  ignore.  And in the "New Member  Kicking Ass(tm)"
+15,01department, last-month inductee Funbaby was  seen tearing it up when  his image
+15,01was  chosen as a MetaCreations  Image Of The Day.  Not  just any monkey  can be
+15,01chosen for something like that, it takes an iCEMonkey( (C) Darkmage )!
+
+15,013.  Three comes before four.  *applause*
+
+15,014.  About this time in the newsletter,  we like to tell everyone who joined and
+15,01who quit and  who we had to neuter a second time.  However, we  don't feel like
+15,01doing that quite yet.
+
+15,014.  We have  heard your requests!  Yes, the  whining and  bitching has  finally
+15,01pierced  our sound-proofed ear  plugs and we can now  hear you shrill and clear
+15,01saying "smaller packs".  We realize that the 30 second difference between 4.5mb
+15,01instead of 4.0mb is time sorely  torn away from special "wacky" time, and we're
+15,01making  inroads to accomodate  you, the viewer.  The iCE staff  will be using a
+15,01complicated formula to ensure that iCE high-resolution pieces are optimized for
+15,01downloading, and heaven forbid, not viewing.
+
+15,015.  Inazone said  that FOS 13 will be inspired by a recent experience involving
+15,01women of large caliber, social gatherings, and  hormone-enraged females yelling
+15,01obscenities regarding sexual intercourse.  Sick, just sick.
+
+15,016.  Still not in the mood to share that information...
+
+15,017.  Man, some months you're just not funny.  I think Seinfeld had that problem.
+
+15,018.  Frequently.
+
+15,019.  While we're laying in bed at night, trying  to get some rest, we often hear
+15,01the delighted and  joyful screams of esctacy as Senior Staff Sinned Sould views
+15,01another  ass-kicking iCE Pack.  Many of these throes of  passion are because of
+15,01our  VGA crew placing  those pixels in oh-so provocative  manners.  Perhaps you
+15,01too wake  people at  night with your  screams?  Would you like  to instill this
+15,01same effect in others?  Jamie McCarter wants to make  that a reality with a new
+15,01series  of 3D  tutorials.  Want to  learn how iCE guys  do some of their stuff?
+15,01Just email icestaff@ice.org and we'll do our best to lose it!
+
+15,0110.  iCE is proud to announce this month that we have a NEW drawing program! It
+15,01is almost  ready for release  and is VERY close to being  made public.  It will
+15,01support all the popular formats (xbin/adf/idf/bin) and  will include ANSImation
+15,01support  in a later  release!  We also  took into account  that since the Linux
+15,01Penguin is  slowly taking over  the world, we should support  Linux.  And so it
+15,01will be.
+
+15,0111.  Did we say _lose_ it?  Ha  Ha  Ha!  That  was a typo.  We would never lose

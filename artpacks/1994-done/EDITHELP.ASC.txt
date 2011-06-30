@@ -1,0 +1,23 @@
+15,01                                 EDIT HELP
+
+15,01There are a variety of editor commands.  All of them may be used either as
+15,01single letters from the edit menu or as a slash ("/") + the letter while
+15,01entering text, that is, entering "/S" on a blank line will save the message.
+
+15,01Letter  Purpose
+15,01------  -------
+15,01S       Save
+15,01A       Abort
+15,01E       Enter edit mode
+15,01C       Continue
+15,01F       Fix line
+15,01L       List message
+15,01N       New (clear)
+15,01D       Delete line
+15,01I       Insert line
+15,01B       Backup (fix)
+15,01T       Change title
+15,01R       Search and replace
+15,01M<text> Center text
+
+15,01The editor supports word-wrap and backup, that is, if you press the backspace

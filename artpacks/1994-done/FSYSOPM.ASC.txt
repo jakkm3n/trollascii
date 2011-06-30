@@ -1,0 +1,9 @@
+
+
+15,01+===================  File Transfer Sponsor Menu - Commands  =================+
+15,01| N) Search for new files   K) Kill the area   R) Rename area   A) Add File   |
+15,01| W) Add by wildcard        C) Change a file   M) Move a file   L) List users |
+15,01| X) Range Move             +) Send Netfile    Z) Batch Cmds    .) File Purge |
+15,01| O) Reorder Areas          *) Change Area     !) .GIF Description            |
+15,01| S) Sort the area          D) Delete a file   E) Rename file   Q) Quit       |
+15,01+=============================================================================+

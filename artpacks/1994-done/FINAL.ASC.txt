@@ -1,0 +1,33 @@
+15,01                              Official NET of CiA
+
+15,01 +--OPERATORS--+       """ "          "14,15 15,01  """14,15 15,01 mmm  m
+15,01 |  Trident    |       14,15 15,01"  14,15 15,01 ""14,15 15,01 14,15 15,01"14,15 15,01   "  14,15 15,01  14,15 15,01 " " """
+15,01 |  Coudsend   |       "   " " " "" " """ "  " """  ""
+15,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+14,15 15,01 ## - BASE NAME        14,15 15,01         CONFERENCE DESCRIPTION         14,15 15,01  FLAGS  14,15 
+14,15 15,01mmmmmmmmmmmmmmmmmmmmmmm14,15 15,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,15 15,01mmmmmmmmm14,15 
+14,15 15,01[01] FN-GENERAL        14,15 15,01 [FINALNET] -  General Chatter          14,15 15,01    !    14,15 
+14,15 15,01[02] FN-ANSIDISPOS     14,15 15,01 [FINALNET] -  Ansi Post/Talk           14,15 15,01    !    14,15 
+14,15 15,01[03  FN-CIAPUB         14,15 15,01 [FINALNET] -  CiA Public Disscussion   14,15 15,01    !    14,15 
+14,15 15,01[04] FN-ANSGRPDIS      14,15 15,01 [FINALNET] -  ANSi Group Disscussion   14,15 15,01    !    14,15 
+14,15 15,01[05] FN-WARE-Z         14,15 15,01 [FINALNET] -  Warez Chit-Chat          14,15 15,01    !    14,15 
+14,15 15,01[06] FN-FINALSUGG      14,15 15,01 [FINALNET] -  FiNAL Net Suggestions    14,15 15,01   !,#   14,15 
+14,15 15,01[07] FN-FORSALE        14,15 15,01 [FINALNET] -  For Sale                 14,15 15,01    !    14,15 
+14,15 15,01[08] FN-SYSOP          14,15 15,01 [FINALNET] -  SysOp Disscussion        14,15 15,01   !,#   14,15 
+14,15 15,01[09] FN-PROGRAMMING    14,15 15,01 [FINALNET] -  Programming Disc         14,15 15,01    !    14,15 
+14,15 15,01[10] FN-PCB            14,15 15,01 [FINALNET] -  PCBoard Disc             14,15 15,01    *    14,15 
+14,15 15,01[11] FN-OBV2           14,15 15,01 [FINALNET] -  OBV/2 Disc               14,15 15,01    *    14,15 
+14,15 15,01[12] FN-OS/2           14,15 15,01 [FINALNET] -  OS/2 Disc                14,15 15,01    *    14,15 
+14,15 15,01[13] FN-DOS            14,15 15,01 [FINALNET] -  DOS Disc                 14,15 15,01    *    14,15 
+14,15 15,01[14] FN-INTERNET       14,15 15,01 [FINALNET] -  INTERNET Disc            14,15 15,01    *    14,15 
+14,15 15,01[15] FN-TECH           14,15 15,01 [FINALNET] -  New Technology           14,15 15,01    *    14,15 
+14,15 15,01[16] FN-NETMAIL        14,15 15,01 [FINALNET] -  Netmail Only             14,15 15,01    !    14,15 
+14,15 15,01[17] FN-TESTING        14,15 15,01 [FINALNET] -  Test Message Base        14,15 15,01    !    14,15 
+14,15 15,01[18] FN-CIACODERS      14,15 15,01 [FINALNET] -  CiA Coders               14,15 15,01   !,@   14,15 
+14,15 15,01[19] FN-CIAMEMBRDS     14,15 15,01 [FINALNET] -  CiA Member Board Disc    14,15 15,01   !,@   14,15 
+14,15 15,01[20] FN-CIAPRIVDIS     14,15 15,01 [FINALNET] -  CiA Private Disscusion   14,15 15,01    @    14,15 
+14,15 15,01[21] FN-CIASSPRIV      14,15 15,01 [FINALNET] -  CiA <ss> Private         14,15 15,01    @    14,15 
+14,15 15,01[22] FN-FINALPRIV      14,15 15,01 [FINALNET] -  FiNAL Priv Disc          14,15 15,01   !,#   14,15 
+15,01""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01!=Required Sub  @=CiA Members Boards and HQ's   #=SysOps Only    *=Optional
+15,01>

@@ -1,0 +1,36 @@
+
+15,01                      # Shiver Net Echo Listing # # 001 #
+15,01+--+---+-------------------------+-----------------------+----------+---------+
+15,01|# |Key|  Base Names             |  Description          | TAG      | Date    |
+15,01+--+---+-------------------------+-----------------------+----------+---------+
+15,01|00|#  | [SHIVER] Private Email  | Email Support         | SV_EMAIL |+08/19/94|
+15,01|01|!  | [SHIVER] Senior Private | Senior's Chatter      | SV_PSEN  |+07/25/94|
+15,01|02|*  | [SHIVER] Artist Chatter | Artists Chatter       | SV_SCHAT |+07/25/94|
+15,01|03|*  | [SHIVER] Ansi Posts     | Posted Shiver Ansis   | SV_SANSI |+07/25/94|
+15,01|04|*  | [SHIVER] Pack Reviews   | Review our Compititn. | SV_SREV  |+07/25/94|
+15,01|05|*  | [SHIVER] Suggestions    | Inside Suggestions    | SV_SSUGG |+07/25/94|
+15,01|06|*  | [SHIVER] Artist Help    | Coding/Ansi/Misc Help | SV_SHELP |+07/25/94|
+15,01|07|#  | [SHIVER] Public Base    | General Shiver Discusn| SV_GPUBL |+07/25/94|
+15,01|08|#  | [SHIVER] Applicants     | Shiver Applicants     | SV_GAPP  |+07/25/94|
+15,01|09|#  | [SHIVER] Public Suggest.| Public Suggestions    | SV_GSUGG |+07/25/94|
+15,01|10|#  | [SHIVER] Evolution      | Evolution Emag        | SV_EVOL  |+08/19/94|
+15,01|11|#  | [SHIVER] Lancelot ][    | Lancelot ][ Emag      | SV_LANCE |+08/23/94|
+15,01|12|#  | [SHIVER] Insane Creators| Ice Chatter           | SV_ICE   |+08/23/94|
+15,01|13|#  | [SHIVER] Justice Ansi   | Justice Ansi Group    | SV_JUST  |+08/23/94|
+15,01|14|#  | [SHIVER] Nation Ansi    | Nation Ansi Team      | SV_NAT   |+08/23/94|
+15,01|15|#  | [SHIVER] Acid Ansi      | Acid Ansi Team Chat   | SV_ACID  |+08/23/94|
+15,01|16|#  | [SHIVER] Rem Ansi       | Rem Ansi Team         | SV_REM   |+08/25/94|
+15,01|17|#  | [SHIVER] Insomnia       | Insomnia Emag         | SV_INS   |+08/25/94|
+15,01+-----------------------------------------------------------------------------+
+15,01+--------------------------+
+15,01| ! - Senior Seniors Only  |   Please see to it that the correct access levels
+15,01| * - Shiver Artists Only  |   are implemented.  We would not want the general
+15,01| # - General Public       |   public in the private bases.  Also, set all the
+15,01+--------------------------+   bases to have private message capibilities.
+
+
+15,01* NOTE All sites will be polling Spazm BBS at 94:613/1
+15,01* NOTE All sites will be packed for XXX/1 not XXX/0
+15,01* NOTE You do have to take all the above sites, they are optional.
+15,01>SAUCE00Shiver Network Sub Names           Shiver              Shiver           
+15,01   19940826B      @@P v                             

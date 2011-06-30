@@ -1,0 +1,37 @@
+15,01             ---- WORLD Pud Template ----
+
+15,01----------------------------------------------------------------
+15,01Title                   -  Standard 4 Player Deathmatch PUD
+15,01Filename                -  VEX4PLRZ.PUD
+15,01Author                  -  Curtis Slade (VeX)
+15,01Email Address           -  vex.vinlandia@usa.net
+15,01Short Description       -  128x128, 4 Players, Deathmatch Play
+15,01Additional Credits to   -  None
+15,01----------------------------------------------------------------
+
+15,01---- General Info ----
+
+15,01Single Player           -  Nah!
+15,01Cooperative             -  Indeed!
+15,01Warmatch                -  Indeed!
+15,01Difficulty [1-10]       -  Unknown
+15,01New Sounds              -  Nah!
+15,01Construction Time       -  15-20 mins
+
+15,01---- Long Description ----
+
+15,01I dare not on the basis that it conflicts with my non-religious beliefs.
+
+15,01---- Do's and Don'ts ----
+
+15,01Authors MAY use this level as a base to build additional
+15,01levels, as long as I am mentioned as the original creator.  
+
+15,01----------------------------------------------------------------
+
+15,01You MAY distribute this PUD, provided you include this file, with
+15,01no modifications.  You may distribute this file in any electronic
+15,01format (BBS, Diskette, CD, etc) as long as you include this file 
+15,01intact.
+
+15,01----------------------------------------------------------------

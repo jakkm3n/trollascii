@@ -1,0 +1,80 @@
+
+15,01                                    00m00,00#00,15#14 15   15,01m
+15,01                                   |15,15@00# 14 15   14#15,01|
+15,01#28 [Union]                         ""15,15 14 15  15,01""
+00,01m00,00#00,15# 14       00##14,01#15|14,15#15,01m14#00 m00,00#00,15#14         15,01"14,15 15,01m00 "00,00#15,15@00#14  ##01@14,01|00m00,00#00,15#14        ##15,01"00,15#14 15,01m14#00 m00,00#00,15#   14   15  14#15,01"14,15 15,01m
+00,00#00,15# 14        15 00#14,01#15|14,15 #15,01|00|00,00#15,15@14         #15,01||14,15 15,01|14#00m00,15#14    ##14,01#00,00#00,15#14          #14,01#15|15,15 14 15,01|00|00,00#00,15#14         15 15,01||00,15#15,01|
+15,15@14            14,01#15|14,15 #15,01|00,00#00,15##14         #15,01||14,15 #15,01 15,15@00# 14    #14,01#15,15@00#14        15  14#14,01#15|14,15 #15,01|00,15#15@14          #15,01||00,15#15,01|
+00,15#14           #15,01||15,15 14#15,01|15,15@00#14 00#14        #14,01#15|00,15#14#14,01#00,15#14     ##14,01#00,15#14          15 14#15,01||14,15 #15,01|00,15##  14        #14,01#15|14,15 #
+15,01|14,15  15  14       #15,01|m14,15  14,01#00,15##14         15 14#14,01#15|00,15#14#14,01#00,15#14     15 14#15,01||14,15           #15,01|m14,15 01@14,01#00,15# #14         01@14,01#00,15#14 #
+15,01  """""""""""""  """""""""""""" """""""""""""" """""""""""""  """""""""""""" """
+02,02@02,01mmm mmm12,02#02,01mmmmmmmm01,02# 02,01mmmm14,02  12#02,01mmmmmmmmmmmm01,02# 02,01mmmmmm01,02#02,01mmmmmmmmmmmmm14,02#01#02,01mmmmmmmmmm mmm01,02#02,01mm12,02#
+02,02@02,01m12,02#                        01union august 94 info file                          12##
+12,02##14 02,01"#14,02@02,01"""""" """"""14,02@02,01"""  """" """""01,02#02,01"01,02mmmmmmm02,01""" """" ""#14,02@01m15,01  01,02mmmm#02,01"""12,02#02,01""""""14,02 02,01"01,02#12#02@
+12,02#02,01|14,02@15,01                                                                          14,02@02,01|12,02#
+14,02 02,01"#15                                                                          02#m12,02#
+12,02#02,01|15                                                                            02|14,02 
+12,02#15,01       Hey there folks, if you're reading this then I'll assume the           12,02#
+12,02 15,01   September 1994 Union pack has finally been released, despite the various02  |14,02 
+02,02 02,01|15  last minute delays. Be sure to check out the first Union music disk,      02|14,02 
+14,02 02,01|15  UNIM0994.ZIP which was released the same time as this pack. It has 8       12,02#
+12,02#02,01|15  quality tunes in it and is quite worth the download. On to the nfo.        02,02@
+14,02 15,01       For any of you who were regular requenters of our world headquarters02   14,02 
+14,02 15,01   you most likely (assuming you are less dense than Pluto) noticed that it02  |14,02 
+12,02#15,01   was/is in a state of flux. For quite a long period of time Flatlined      02|14,02 
+14,02 02,01|15  Reality was run at Optical Illusion's (a mutual friend of Nailz and I)02    |14,02 
+14,02 15,01   house at the 613-224-8279 phone number. Halfway through this month that02    14,02 
+14,02 02,01|15  changed. OI has finally decided to give up modeming, and he takes his      12,02#
+14,02 02,01|15  phone line with him. FR was quickly moved over to Stone Angel's house,     14,02 
+12,02#02,01|15  replacing his previous board, Metal Edge.                                 02|14,02 
+14,02 02,01|15      The new phone number is 613-521-7366 and that is where the whq         14,02 
+14,02 02,01|15  currently resides.                                                        02|14,02 
+12,02#15,01       Unfortunately though, Stone Angel tires of drawing ansis and would02    |14,02 
+14,02 02,01|15  prefer to play Doom 2 on his new computer, putting the board in           02|14,02 
+14,02 15,01   jeopardy. The solution to this is to move FR to my house. This has yet02    |12,02#
+14,02 02,01|15  to happen, but we plan to have FR full transfered to my place by the 5th02   14,02 
+14,02 02,01|15  of September. The new number will be 613-824-7375, but unfortunately      02|14,02 
+14,02 15,01   Nailz won't let me change the name to Flatlined Reality 3: Programmed     02|14,02 
+14,02 02,01|15  Illusion Is Back! Oh well.                                                02|14,02 
+14,02 15,01       Amazingly enough we've managed to keep all accounts and passwords     02|14,02 
+12,02#15,01   intact throughout all this moving. Only the number has changed. Well, we12   12,02#
+12,02 15,01   did switch from Renegade to Vision/2, but that's besides the point. The02   |14,02 
+02,02 02,01|15  new UnionNet nodelist reflects this future change.                        02|14,02 
+14,02 02,01|15      Since Nailz and I have tired of the continuous courier applications12    12,02#
+12,02#02,01|15  we decided to promote TaZ's board, Wasteland, to the Courier HQ. All       02,02@
+14,02 15,01   courier apps will be processed there. The phone number is 314-987-8981.02    14,02 
+14,02 15,01       The first new member to Union this month is Asskicker. He hails from02  |14,02 
+12,02#15,01   Portugal and we will hopefully be seeing some of his vga work soon.       02|14,02 
+14,02 02,01|15  Riff, a friend of Qur'An also joins the vga department this month. We'll02  |14,02 
+14,02 15,01   have some of his stuff as soon as I get around to calling him. :)          14,02 
+14,02 02,01|15      A friend of GodSpeed's, X-Factor, joins Union's music department       12,02#
+14,02 02,01|15  this month. Two of his songs can be heard in the first issue of our        14,02 
+12,02#02,01|15  music disk. Cheese Grater from Shiver joins Union's ansi and rip          02|14,02 
+14,02 02,01|15  departments this month. His work isn't cheesy but my jokes are.            14,02 
+14,02 02,01|15      Last month we forgot to mention Karnaaj amongst all the new members02   |14,02 
+12,02#15,01   from Visual Insanity so I am rectifying that fact now. A bunch of guys02    |14,02 
+14,02 02,01|15  from Alive joined us this month, although Alive is not dead. Read the     02|14,02 
+14,02 15,01   top of MD-FR1.ANS for more info.                                          02|12,02#
+14,02 02,01|15      Mass Delusion from Alive joins Union as a pack/telecom co-ordinator02    14,02 
+14,02 02,01|15  and an ansi artist. Abomination, Dive and HammerHead join as ansi         02|14,02 
+14,02 15,01   artists as well. Thee 3rd will be doing vgas and rips for us, and would02   |14,02 
+14,02 02,01|15  have had something in this pack if his boss hadn't been looking over his02  |14,02 
+14,02 15,01   shoulder while he was on irc. The Beholder will be doing rip and Ded      02|14,02 
+12,02#15,01   Silence will be doing music as well as couriering for us.                  12,02#
+12,02 15,01       New in the coding department this month is Immortal Shadow, who you02   |14,02 
+02,02 02,01|15  may recognize from issues #2 and #3 of Blur. Hi Brian.                    02|14,02 
+14,02 02,01|15      The Temperate Hijacker, Terminal Nothing and Percicles join Union's12    12,02#
+12,02#02,01|15  couriering department this month, which is a bit disorganized due to the12   02,02@
+14,02 15,01   fact that TaZ now has an LD block on his phone line. Time to pay those     14,02 
+14,02 15,01   bills. :)                                                                 02|14,02 
+12,02#15,01       There is also a new department this month, the article writing        02|14,02 
+14,02 02,01|15  department. Just check out the memberlist to see who's in it.             02|14,02 
+14,02 15,01       In other group changes, Sole Assassin switched his nick to             14,02 
+14,02 02,01|15  Stormfront. Cool name. Village Idiot switched from the ansi department     12,02#
+14,02 02,01|15  to the couriering department. We say farewell to Einstein this month       14,02 
+12,02#02,01|15  because he is leaving the scene over some personal problems. Stone Angel02  |14,02 
+14,02 02,01|15  left Union because he's tired of drawing ansis and is addicted to Doom     14,02 
+14,02 02,01|15  2. :)                                                                     02|14,02 
+12,02#15,01       A big howdy goes out to our college division, which boasts of having02  |14,02 
+14,02 02,01|15  Mass Delusion, Peak Velocity and others in it's member list. This         02|14,02 
+14,02 15,01   reminds me of the fact that school is starting quite soon, and you'll     02|12,02#

@@ -1,0 +1,80 @@
+15,01Unit SrolANSi;
+
+15,01Interface
+
+
+15,01Function Scroll(ATx,ATy,TextLength  : Integer;
+15,01                        Message     : String;
+15,01                        Delaytime   : Word;
+15,01                        BackForth,
+15,01                        WantBorder  : Boolean): String;
+
+15,01Procedure FadeIn(Str:String; X,Y:Byte;Which:Boolean);
+
+15,01Implementation
+
+
+15,01Uses Crt;
+
+
+15,01Procedure FadeIn(Str:String; X,Y:Byte;Which:Boolean);
+15,01Begin
+15,01   If Which
+15,01      Then
+15,01         Begin
+15,01            Gotoxy(X,Y); TextColor(15); Write(Str); Delay(100);
+15,01            Gotoxy(X,Y); TextColor(7);  Write(Str); Delay(100);
+15,01            Gotoxy(X,Y); TextColor(8);  Write(Str); Delay(100);
+15,01            Gotoxy(X,Y); TextColor(0);  Write(Str); Delay(100);
+15,01         End
+15,01      Else
+15,01       Begin
+15,01          Gotoxy(X,Y); TextColor(0);   Write(Str); Delay(100);
+15,01          Gotoxy(X,Y); TextColor(8);   Write(Str); Delay(100);
+15,01          Gotoxy(X,Y); TextColor(7);   Write(Str); Delay(100);
+15,01          Gotoxy(X,Y); TextColor(15);  Write(Str); Delay(100);
+15,01       End;
+15,01End;
+
+
+15,01Function Scroll(ATx,ATy,TextLength  : Integer;
+15,01                        Message     : String;
+15,01                        Delaytime   : Word;
+15,01                        BackForth,
+15,01                        WantBorder  : Boolean): String;
+15,01Var
+15,01 X,OrigLength:Integer;
+15,01 TempStr:String;
+15,01 Out,ForwardBack:Boolean;
+15,01 Ch:Char;
+15,01Begin
+15,01 TextBackGround(0);
+
+15,01 If Wantborder
+15,01    then
+15,01        begin
+15,01           gotoxy(ATx,ATy);
+15,01           write('#');
+15,01             for x:=1 to TextLength do
+15,01              write('-');
+15,01              write('#');
+15,01                  gotoxy(ATx,ATy+1);
+15,01                  write('|');
+15,01                  gotoxy(ATx+TextLength+1,ATy+1);
+15,01                  write('|');
+15,01           gotoxy(ATx,ATy+2);
+15,01           write('#');
+15,01             for x:=1 to TextLength do
+15,01             write('-');
+15,01             write('#');
+15,01        end;
+
+15,01 OrigLength:=Length(Message);
+15,01 For x:=1 to TextLength do
+15,01    Message:=' '+Message;
+
+15,01 
+15,01 ForwardBack:=True;   { True = Forward - False = Backwards }
+15,01 x:=1;
+15,01  Repeat
+15,01     TempStr:=Copy(Message,X,TextLength);

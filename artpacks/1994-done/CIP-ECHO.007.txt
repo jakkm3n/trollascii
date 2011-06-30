@@ -1,0 +1,63 @@
+
+15,01        14,15 15,01"" 14,15   15,01 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01"14,15 15,01    14,15 15,01 14,15 15,01m||   14,15   15,01 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15   15,01 14,15 15,01"14,15 15,01 14,15 15,01"" 14,15 15,01""
+15,01        14,15 15,01mm 14,15 15,01"m 14,15 15,01 14,15 15,01||14,15 15,01 14,15 15,01mm    14,15 15,01 14,15 15,01|14,15 15,01|   14,15 15,01   14,15 15,01"m 14,15 15,01m14,15 15,01 14,15 15,01m14,15 15,01 14,15 15,01"m 14,15 15,01mm mm14,15 15,01 mm14,15 
+
+15,01                     ### CRiME iN PROGRESS NETWORK ###
+15,01                           Echolist #6 (07/23/94)
+
+15,01AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvA
+
+15,01                           -/- iLLEGAL EMBASSY -/-
+15,01                             CiPNet WHQ (18:18/0)
+15,01  
+15,01      -/- CELL BLOCK 4 -/-                         -/- Stellar Nights -/-
+15,01        CiPNet Cen. US Hub                            CiPNet E. US Hub
+15,01            (18:815/0)                                   (18:610/0)
+15,01  
+15,01AvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvAvA
+
+15,01  New Additions: CIP-DOPP, CIP-DOPM, CIP-RAVP, CIP-RAVM, CIP-MGMT
+15,01        
+
+15,01  Deletions:     CIP-HVK
+15,01              
+
+15,01  Changes:       Adding new group all the time, added two new hubs to
+15,01                 help share the workload.
+15,01                                
+15,01                                AREA LISTING
+15,01                              ----------------
+15,01  ! = Sysop Access only   # = Areas you must carry    C = CiA Members Only
+15,01  M = Main Hubs Only      * = New Sub                 D = DoPE Members Only
+15,01                                                      R = RaVE Members Only
+15,01                         # CIP-MISC   General Chatter
+15,01                           CIP-ANSI   ANSi Scene
+15,01                           CIP-ADS    BBS Ads
+15,01                           CIP-MUSC   Musical Interests
+15,01                           CIP-LIT    Literature Discussion
+15,01                           CIP-PROG   Programming
+15,01                           CIP-WARE   Warez Talk
+15,01                           CIP-GTIP   Game Tips
+15,01                           CIP-BBS    BBS Software
+15,01                           CIP-CONS   Console / Arcade
+15,01                           CIP-HARD   Hardware
+15,01                           CIP-BMKT   Black Market
+15,01                           CIP-SPRT   Sports Forum
+15,01                           CIP-ENT    Entertainment
+15,01                           CIP-DEBT   Current Debates
+15,01                           CIP-SUGG   CiP Suggestions
+15,01                           CIP-CIAP   CiA Public Forum
+15,01                  *        CIP-DOPP   DoPE Public Forum
+15,01                  *        CIP-RAVP   RaVE Public Forum
+15,01                       !#  CIP-SYS    Sysop Base
+15,01                       !#  CIP-TEST   Test Messages
+15,01                        C  CIP-CIAM   CiA Members Only
+15,01                  *     D  CIP-DOPM   DoPE Members Only
+15,01                  *     R  CIP-RAVM   RaVE Members Only
+15,01                  *     M  CIP-MGMT   CiP Main Hubs Only
+
+
+
+15,01  NOTE: If your group would like an area of their own, public and/or private,
+15,01        contact Tron on Illegal Embassy at 513-923-4984 NUP: united 
+15,01        or on our VMB at 800-245-4366

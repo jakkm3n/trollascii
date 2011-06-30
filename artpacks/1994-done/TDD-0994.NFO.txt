@@ -1,0 +1,80 @@
+15,01 
+15,01          /(______________________/(________           /(________
+15,01        -/                                  \ ------- /          \ -----------+
+15,01       -/                                    \ ----- /            \  ---------|
+15,01      -(_____        _________________        |\ -- /______        |\ ------- |
+15,01     -- \   /       /\        _____   )       | \ -_____   )       | \ -----  |
+15,01    ---- \_/       /  \______/    /\_/       /   |/    /\_/       /   | ---   |
+15,01   ------ /       /   / --- /    /__/       /   //    /__/       /   / ---    |
+15,01  ------ /       /   / --- /               /   //               /   / ---     |
+15,01 ------ (_______/   / --- (_______________/   /(_______________/   / ---      |
+15,01-------- \      \  / ----- \              \  / -\              \  / ---       -
+15,01+-------- \______\/ ------- \______________\/ -- \______________\/ ---+      -
+15,01| The Dirty Dozen Proudly (More or Less) Presents :                   |     -
+15,01|=======[ TDD SEPTEMBER ART PACK ]==----------------------------- - . |    -
+15,01|=======[ Featuring Art done by all the TDD members ]==---------- - . |   -
+15,01|=======[ Release Date : September 17, '94 ]==------------------- - . |  -
+15,01|=======[ Number of disks : 1 ]==-------------------------------- - . | -
+15,01+---------------------------------------------------------------------+-
+15,01      +----------------------------------------------------------+
+15,01   +=--------- -  -   -   .   .            .   .   -   -  - -----------=+
+15,01   |========[ Group News : ]============================================|
+15,01 +.|  Hia... During this month, we've done some editing to our member   |.+
+15,01 | |list. We, took out many people, who did nothing for the group, so   | |
+15,01 | |if you're not on the list, you're not a member (but you can always  | |
+15,01 | |re-apply). But we also had a VERY valuable addition since the last  | |
+15,01 | |pack, and that is: WE'RE MORE THAN HAPPY TO WELCOME TWO NEW ARTISTS | |
+15,01 | |ABOARD. This month, POSYDEN and POWER BLADE (The sysop of an all-art| |
+15,01 | |TDD memberboard - BLOWN AWAY!) joined TDD member list.              | |
+15,01 | | We also had some problems this month, since our WHQ, ~TSL, was down| |
+15,01 | |for some time. It is now, that we've realized, how much it means    | |
+15,01 | |to the group, that we's like to make it's SysOp, BATMAN, our hono-  | |
+15,01 +.|rary member.                                                        |.+
+15,01   | Ok, that's all the group news. Lets move down a bit now :)         |
+15,01   +=--------- -  -   -  .  .              .  .  -   -  - -------------=+
+15,01      +----------------------------------------------------------+
+15,01 
+15,01 
+15,01      +----------------------------------------------------------+
+15,01   +=--------- -  -   -   .   .            .   .   -   -  - -----------=+
+15,01   |========[ This Release Contains : ]=================================|
+15,01 +.| CK&TT-AD.TDD | Out Of Nowhere And Access Denied                    |.+
+15,01 | | CK-AKIRA.TDD | Outer Limits ][                                     | |
+15,01 | | CK-TDD.TDD   | TDD Logo                                            | |
+15,01 | | NM&TG-BM.TDD | Black Magik                                         |A|
+15,01 | | NM-CLSVM.TDD | The ColesiVm                                        | |
+15,01 | | NM-NOMAD.TDD | Nomad's Room                                        |N|
+15,01 | | PB-AUTO.TDD  | AUTO MESSAGE Header                                 | |
+15,01 | | PB-BM.TDD    | Black Magik                                         |S|
+15,01 | | PB-CYBER.TDD | Cyberspace                                          | |
+15,01 | | PB-INF.TDD   | Infinity                                            |I|
+15,01 | | PB-LAST.TDD  | LAST CALLS Header                                   | |
+15,01 | | PO-BM.TDD    | Black Magik                                         | |
+15,01 | | PO-ED.TDD    | Eternal Death                                       | |
+15,01 | | PO-G0.TDD    | Ground Zero                                         |F|
+15,01 | | PO-HTN.TDD   | Highway To Nowhere                                  | |
+15,01 | | PO-OL2.TDD   | Outer Limits ][                                     |I|
+15,01 | | PO-OO.TDD    | Out Of Nowhere And Access Denied                    | |
+15,01 | | PO-TDD.TDD   | TDD Logo                                            |L|
+15,01 | | TG-SOC.TDD   | The Society                                         | |
+15,01 | | TG-TDD.TDD   | TDD Logo                                            |E|
+15,01 | | TG-TSL.TDD   | The Shattered Lands                                 | |
+15,01 | | TG-TWH1.TDD  | The White House                                     |S|
+15,01 | | TG-TWH2.TDD  | The White House                                     | |
+15,01 | | TT-LAND.TDD  | The Shattered Lands                                 | |
+15,01 | | TT-TDD.TDD   | TDD Logo                                            | |
+15,01 | | TT-TMT.TDD   | The Midnite Tunnel                                  |_|
+15,01 | | TT-READ.ME!  | Trust's Sharing                                     | |
+15,01 | | NM-MENU.ZIP  | Renegade Menu's                                     |M|
+15,01 | | NETVIEW.EXE  | Our ANSi Viewer (Don't be afraid to use another one)|I|
+15,01 | | NETVIEW.DOC  | NETVIEW Manual                                      |S|
+15,01 | | TDD-APP.EXE  | TDD Application Generator                           |C|
+15,01 | | NETVIEW.INI  | NETVIEW Initialization file                         | |
+15,01 | | FILE_ID.DIZ  | Take A Wild Guess...                                | |
+15,01 +.| TDD-0994.NFO | You're Reading It. Du-u-u-uh!                       |.+
+15,01   | =============+===================================================  |
+15,01   +=--------- -  -   -  .  .              .  .  -   -  - -------------=+
+15,01      +-----------------------------------------------------------+
+15,01      +------------------(     TDD MEMBERS      )----------------+
+15,01   +=--------- -  -   -   .   .            .   .   -   -  - -----------=+
+15,01   |====================[ Founder and President ]=======================|

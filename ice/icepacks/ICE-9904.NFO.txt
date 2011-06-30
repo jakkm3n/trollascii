@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                      A   P   R   I   L    1   9   9   9
+15,01-------------------------------------------------------------------------------
+
+15,011.  With the  coming of May and all of  the free love  politics  that typically
+15,01ensues, we dedicate this pack to fourteen foofoos falling.
+
+15,012.  In the Fortress of Solitude (coincidentally abbreviated by FOS) this month,
+15,01the extra time police suggested we try out our cryogenic equipment as a routine
+15,01test.  By mistake,  we unfroze Chromatik, Gorechild and Misfit. Not by mistake,
+15,01they were  forced into the iCE  mines and out popped a  few pieces of the past.
+15,01Witness new CK, GC and MT work this month in iCE ANSI.
+
+15,013.  We also want to  welcome aboard Kirk from  Belgium to the iCE hirez team. A
+15,01friend of  Necrofiliac's, you can expect excellent high-resolution  pieces with
+15,01that Euro touch that we've come to know and love.
+
+15,014.  In recent efforts  to raise capital for the iCE Global Domination Fund, the
+15,01head  brainiacs at the corporate  headquarters  decided to  send Count Zero and
+15,01Winter to dig  up dead  bodies at the  local graveyard  and rob them  for their
+15,01jewelry. Well, after  they dug up Jerry Sandefur, he started walking around and
+15,01chewing on Winter's arm.  We're letting him release  his  amazing high-rez with
+15,01us in exchange for not cannibalizing the entire team. Thanks Jerry!
+
+15,015.  Ex-Senior Staffer Sinned Soul was found practicing  the mastery of knee-pit
+15,01action  on himself this month.  He stood  up promptly, and  declared that iCE's
+15,01much anticipated new website would go live on June 1st!
+
+15,016.  Prizm was considered less  than a man this month as we reduced his quota to
+15,01just 15kb.  Prizm declared war on Serbia in exchange for this  act of hostility
+15,01and the Red Cross is now holding us personally responsible.
+
+15,017.  In what  media analysts are  calling an unbelievable  string of  legitimate
+15,01news in the April  1999 Info file, iCE stuns again by announcing that iDraw 1.0
+15,01will be  released this month.  To the average  Tetanus or Trip, iDraw becomes a
+15,01powerful weapon, allowing them to avenge any injustices in the scene.  Learn to
+15,01be a  warrior like them,  get iDraw 1.0  and just  draw!  If  you think an  iCE
+15,01sponsored  drawing is keen, wait  until we wow you with tutorial "plug-ins" and
+15,01iCE members recreated in ANSI doing the macerena!
+
+15,018.  So excited he could  hardly help but pee  himself,  Jamie McCarter released
+15,01another  quicktime animation  this month featuring the sultry Miss Piggy.  When
+15,01asked  for a  sound  byte,  Jamie said,  "It's grr-r-r-r-eat!"  Something  more
+15,01original  can be found in the last  disk of the iCE Pack  this month, replacing
+15,01our previous policy of releasing iCE-SPCX.ZIP.
+
+15,019.  The iCE Mathematics team  based at University of Waterloo recently revealed
+15,01its findings on the elementary numbers.  Count Zer0, in  a press release today,
+15,01announced  that 9 is the  last single  digit number  before 10.  Unfortunately,
+15,01that  left us with only two options for releasing iCE-SPCX.ZIP this month: name
+15,01it  iCE-SPCP.ZIP, or  repeat one  of the  previous  special release  filenames.
+15,01Fortunately, a global summit  was called and we all agreed to name it just like
+15,01the  regular pack but with a new letter.  Then we all  went for iCE cream, that
+15,01was a sticky situation!
+
+15,0110.  Turkey trots,  hashing runs, three-legged sack  races and anything that the
+
+15,01guy  from  joecartoon.com  might come  up  with  can be  discussed  with  us  at
+
+15,01icestaff@ice.org.
+

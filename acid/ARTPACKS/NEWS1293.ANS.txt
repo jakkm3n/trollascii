@@ -1,0 +1,80 @@
+14,01The ---------------------------------------------------------------------------
+14,01 00A  00,00#00,01m    00,00###00,01" 00,00######15,01 00,00###00,01" "00,00###00,01|00,00#######00,01|00,00##00,01"  |00,00#####00,01|00,00#####00,01|00,00#####00,01|00,00#####00,01|00,00#####00,01m
+00,01 C  15,15@@@00,01m  15,15@@@15,01  15,15@@@15,01    15,15@@@15,01   15,15@@@15,01 00"15,15@@00,01m   |15,15@@15,01   00|15,15@@15,01     15,15@@15,01    00|15,15@15,01| 00|15,15@@15,01    mm  00"15,15@@15,01m
+15,01 00i  00,15###15,01"00,15#15,01m00,15###15,01  00,15###15,01"   00,15###15,01 00,15#15,01 00,15###15,01   "00,15##15,01m |00,15##15,01   |00,15##15,01"    00,15##15,01    |00,15#15,01| |00,15##15,01"   00,15##15,01 m14,15  15,01"
+15,01 00D 15m14,15   15,01  "14,15   15,01 m14,15      15,01|14,15   15,01m"m14,15   15,01|14,15       15,01|14,15     15,01|14,15     15,01| 14,15  15,01    |14,15 15,01| |14,15     15,01|14,15  15,01  "14,15  15,01m
+14,01-------------------------------------------------------------------------------
+15,01Issue #2      An Official ACiD Productions14(tm) 15Public Update      December 1993
+14,01-------------------------------------------------------------------------------
+14,01 14,15 15,01m |14,15 15,01" 14,15 15,01  |  14,15 15,01m m|14,15 15,01" |m m14,15 15,01|01,15#14 15,01 14,15 15,01" |"14,15  15,01 |14,15 15,01"                  14m m
+14,01 14,15 15,01 14,15 15,01|14,15  15,01m|"m|  14,15 15,01 " |14,15  15,01m| " 14,15 15,01|15,15 01#15,01|14,15  15,01m|"mm m14,15  15,01                 m14||
+14,01 " " """  "   "   " """   " """ """ "" """15       14|------- 15|00,15"14 14,01|15m15,15 15,01m 14-----------
+15,01      Through our quest to produce the best  art 14|14,15       15,01 14,15 15,01"14,15 15,01|14,15 15,01m00,15|15,01|14,15         14,01|
+14,01 15around, we've recently picked up a few new tal- 14|14,15       15,01" "14m14,14  14,01m15" 00m15"14,15       14,01|
+14,01 15ented members.  These are our most recent  add- 14|14,15      15,01"00m14,00  00,01m14""00m14,00    00,01m15"14,15 15,01"14,15   14,01|
+14,01 15itions to our developing departments.           14|14,15   15,01"00m15"14,15 15,01m00"14,00   00,01""m14,00  00,01"15m14,15 15,01 14,00 00,01 14,15  14,01|
+15,01                                                 14|14,15  15,01|00m"m 15" 14m 00"""" 14m 00mm"m"15m14,15 14,01|
+15,01                                                 14|14,15  15,01m00"14,00 00,01m""14|14,14   14,01mmm14,14   14,01m 00"15m14,15   14,01|
+14,01 00# 151114/1514  Cisco (VGA artist previously of TAG)   14|14,15    15,01mm 14"" |m| "14,14  14,01|""15m14,15    14,01|
+14,01 00# 151114/1514  Mr. Man (previously of TRiBE)          14|14,15         15,01 14|m|mmm"15m14,15       14,01|
+14,01 00# 151114/1513  Aphex Twin (previously of iMAGE)       14|14,15         15,01|14|14,14 14,01"""15m14,15         14,01|
+14,01 00# 151114/1513  Data (previously freelancing)         14----------- "14,14 14,01" -----------|
+14,01 00# 151114/1513  Hannibal Lecter (readmitted after
+15,01          begging and presenting great logos.)   14Enthusiastic about the new
+14,01 00# 151114/1510  Eight Ball ("You take the good with    14members, artist Alter Ego
+15,01          the bad."  An excellent VGA artist.)   14smiles for the camera.
+
+15,01 00# 151014/1523  Beastie, one of ACiD's hottest new artist, has recently resigned as
+15,01          the president of TAG to join the talented ACiD ANSI team.
+15,01 00# 151014/1523  Vapor (Previously a TAG artists, has settled nicely in ACiD).
+15,01 00# 151014/1522  Guile joins ACiD as an ANSI artist.
+15,01 00# 151014/1515  Crewl Blade, a one time iCE artist, joins ACiD.
+15,01 00# 151014/1511  The Hit Man (of New Age) introduces ACiD View and is accepted as
+15,01          a programmer into the group.
+15,01 00# 151014/1510  Tasmaniac (from Belgium) joins ACiD.
+
+15,01 00# 150914/1505  Egghead gets promoted to American Coordinator.
+15,01 00# 150914/1511  Kingpin (previously of Nemesis) re-joins ACiD bringing superior VGA.
+15,01 00# 150914/1514  Nemesis merges into ACiD Productions(tm) bringing Andrew Nice.
+15,01 00# 150914/1520  Due to internal conflicts and disagreements between Tribe members,
+15,01          Cyber-X, CyberHack, and Quasar leave Shihear Kallizad and come
+15,01          to ACiD.
+15,01 00# 150914/1526  Upon invitation from a third party, Glenn Danzig leaves his previous
+15,01          group to join ACiD.
+15,01 00# 150914/1529  Eternal Lie joins as Admissions Coordinator.
+
+15,01      In news outside of ANSI, ACiD has recruited two new  genius  programmers:
+15,01 The Hit Man and Tasmaniac.  The Hit Man is also a coder for New Age, and  Tas-
+15,01 maniac codes demos and loaders.  Consequently, a new  and improved  version of
+15,01 the ACiD ANSI Viewer has emerged from scratch (now, one can view ANSIs in dual
+15,01 modes, as well as hirez, and can view RIPScrip graphics.)  Hence, we bid fare-
+15,01 well to Tank's large, but lovable TK-AV3xx.EXE  (which we're sure you all will
+15,01 miss dearly.)  14-VS/RM <ACiD>
+15,01                                14,15 15,01"  14,15 15,01"14,15 15,01|14,15 15,01"14,15 15,01|14,15 15,01"m|01,15#14 15,01 14,15 15,01m|14,15 15,01"  |14,15 15,01"
+14,01--------- 15mm14m14,14  14,01mm -----------| 15|14,15 15,01m14,15 15,01|14,15 15,01m14,15 15,01|14,15 15,01m14,15 15,01 14,15 15,01m"|15,15 01#15,01| 14,15 15,01 14,15  15,01m m14,15  15,01  m  m  m
+15,01 14|14,00  00,01"14,00  00,01"15m14,15   15 14,01"14,14    14,01m00"14,00  00,01"15m00"14,00    14,01|  """ """" """ "" """ "  """ """ "" "" ""
+14,01 |14,00 00,01m15"  14,15  15,01"""14,15 14,01"14,15 15,01"14""14,14  15,01 m   14m00"14,00  14,01|    15Even though we gain   fresh  blood  every few
+15,01 14|14,00   00,01 15"mm14,15 00m14 15,01m-m14,15 00mm15,01mm" 14,00 14,01|m14,14  14,01m00|14| 15months, we also loose  some very talented people
+15,01 14|14,00   15,01|14,15 15,01m"00,15"14  15,01"m"14,15  00"15,01"14m14,14 14,01|14,00 00,01m14""14,14 14,01 00|14| 15due  to  various  unfortunate  reasons.  On this
+15,01 14|14,00  00,01 14,15    15,01mmm14,15   15,01m14mm14,14    15,01 14mm14,14 14,01"00|14,00 14,01| 15list are:
+15,01 14|00|14m"15|14,15           14,14 14,01m14,14 00 14,01|14,14 14,01""00m14,00   14,01| 00# 15Cyberpsyco (VGA artist, removed because of in-
+15,01 14||14,14 14,01| 14,15    15,01"mmm"14,15 14,14 14,01m14,14   15,01  14m15mmm00"14,00 14,01|   15activity)
+15,01 14|00|14,14  14,01 00m15"14,15       14,01"m14,14  14,01"00m14,00 14,01|  00,15"00,00 15,01|14,00 14,01| 00# 15Evolutionary Shadow  (Left  for a 416 associa-
+15,01 14|00|14"|"00m14,00 00,01m15""14,15   15 14,01m""00m14,00  00,01"15m14""15""m00|14|   15tion of ANSI artists)
+15,01 14|14,00  00,01m14,00 00,01""14mm  m m  mm00" 15"14"15""14"15"14"00|14| 00# 15Liquid Nitro (Released  from  the group due to
+15,01 14|14,00  00,01"14m14,14     14,01m14,14 14,01 14,14 14,01m14,14     14,01m00"14,00      14,01|   15producing far too infrequently)
+15,01 14|---------------------------- 00# 15Rautha Feyds away:  The    ACiD   crew   finds
+15,01  14Sadly seeing some great art-   15itself suffering along  side the NAG ANSI team
+15,01  14ists  depart,  Egghead,  the   15now that  Feyd-Rautha,  the  brainchild behind
+15,01  14US Coordinator, waves  good-   15NAG, has decided to  take an extended leave of
+15,01  14bye.15                           action.  We're sorry  to  see him go, but glad
+15,01                                 we parted without strife.  14-VS/RM <ACiD>
+
+15,01|"" 14,15 15,01"  14,15 15,01m 14,15 15,01 14,15 15,01" 14,15 15,01""m 14,15 15,01"14,15 15,01 14,15 15,01    14,15 15,01m 14,15 15,01 14,15 15,01" "m   ||14,15 15,01"
+14,15 15,01m14,15 15,01|14,15  15,01m 14,15 15,01 "14,15 15,01|14,15  15,01m| "m 14,15 15,01"| 14,15 15,01m|  14,15 15,01 "14,15 15,01 14,15  15,01m 14,15 15,01m"m|m14,15  15,01  m  m  m
+14,01"""" """"" "" """  """ " """  "  "" """ "" " """ "" "" ""
+15,01      Besides members coming  and  going,  ACiD's  production  rate is smoothly
+15,01 going.  We haven't had any major  problems with our Acquisitions, neither with
+15,01 our popularity; members are  constantly  applying.  In case you haven't heard,
+15,01 the new ACiD Eastern Agora is The Dark Sun World, a very unique board operated
+15,01 by Alter Ego (so unique, that  you  may  want to give it a call, especially if

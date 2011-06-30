@@ -1,0 +1,12 @@
+15,01MODINFO1
+
+15,01MODULE $H-HUMG.XM
+15,01SIZE 482542
+15,01  TYPE XM
+15,01  TITLE Humming Goa
+15,01  CHANNELS 30
+15,01  PLAYTIME 7:07
+15,01  CDATE 28.05.1997
+15,01  COMPOSER shinigami
+15,01  STYLE psychedelic dark goa
+15,01  COMMENT write me complaints at shinigami@deathsdoor.com

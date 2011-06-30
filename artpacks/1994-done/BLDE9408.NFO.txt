@@ -1,0 +1,80 @@
+15,01     BL/+DE '94 Presents - The Edge: The Official Blade Information File.
+
+15,01                   11mmmm mm   mmmm mmmm mmmm  m mmmm m mm
+15,01                   14,11##15,01 14,11#15,01 14,11##15,01   14,11##15,01 14,11#15,01 14,11##15,01 14,11#15,01 14,11##15,01 11"    14,11#15,01 14,11##15,01 14,11#15,01 14,11##
+15,01                   10,14##11,01"10,14#15,01 10,14##15,01   10,14##11,01"10,14#15,01 10,14##15,01 10,14#15,01 10,14##11,01"15     11""10,14##15,01 11""10,14##
+15,01                   14,14  14,01m14,14 14,01 14,14  14,01m14,14 14,01 14,14  14,01 14,14 14,01 14,14  14,01m14,14 14,01 14,14  14,01m14,14 15,01      14,14  14,01   14,14  
+15,01       10A15           10U15           10G15           10U15           10S15           10T
+15,01                   11mmm  m  m mmmm    mmmm m mm mmmm mmmm
+15,01                    11m " 10,11#15,01 11m10,11#15,01 10,11#15,01 11mm    10,11#15,01 11mm 10,11#15,01  10,11#15,01 10,11#15,01 11mm 10,11#15,01 11mm
+15,01                    10,10#15,01   11,11@15,01  11,11@15,01 11,11@15,01 11mm    11,11@15,01 11mm 11,11@15,01 11m11,11@15,01 11,11@11,01m 11,11@15,01 11,11@15,01 11mm
+
+11,01  00T15his is the Blade Info File. 00A 15monthly publication from Blade Productions.
+15,01  00T15his file outlines the past months happenings of Blade.................
+15,01  00T15his text is written by MindCrime, Blade founder and president. 00I15f there
+15,01  are any spelling or grammatical errors within this text, please remember
+15,01  that MC is only human, as are most other people. 00B15lade is a group much like
+15,01  that of iCE or ACiD [At least, we like to think so] which releases a monthly
+15,01  pak of the prior months work [Or something like that]. 00B15lade paks are released
+15,01  on the first of each month [They can be found at any one of our lovely
+15,01  distribution sites]. If you wish to contact Blade in any way, please
+15,01  call Eternal Insanity @ 908.224.8780; All blade members can be reached
+15,01  on Ei. 00I15f you like the work of Blade, let us know. 00L15eave a message to
+15,01  MindCrime at his lame ass internet address............[MCBLADE@DELPHI.COM]
+15,01  or call up Eternal Insanity . 00E15njoy the pack.
+
+
+15,01  00115] First off this month, an extremely talented artist by the name of 00Facsimile
+15,01     joins up with Blade. We know Fac will be a most excellent addition, as can
+15,01     be told by his debut work this month. Great job Fac!
+
+15,01  00215] Still absent from the active member list this month is 00Soul Seeker 15and
+15,01     Shadow Master <Who has changed his handle to 00Counterpoint15>. 00Mystic Plague
+15,01     is back around, but so far no work from him. Next month we should have
+15,01     all three back in action to once again complete the blade power force. <g>
+
+15,01  00315] With 00Soul Seeker15's absence, so went 00Ravenhill15, the former Blade USHQ..
+15,01     This void has been nicely filled by 00Despair 215, the new Blade USHQ.
+
+15,01  00415] 00Physical Solution 15has gone on vacation for the end of this month till
+15,01     the end of august, and so went The Dark Side, the Blade Courier HQ.
+15,01     If you don't see a courier on yer board this month, we're sorry, shit
+15,01     happens.. Call Eternal Insanity @ 908.224.8780, the pak is available for
+15,01     download through the matrix.
+
+15,01  00615] Last, but most certainly not least... Blade now has an official support
+15,01     network. Speed Network was devised and setup by me <mc> in about 2 days
+15,01     and is now fully active. As of right now, it is required by all HQ
+15,01     boards, offered to all distros, and available though INVITE ONLY.
+15,01     If you are a blade affiliated board, feel free to ask to carry the net.
+15,01     If you are not blade affiliated, don't ask.. We'll come to you if we want
+15,01     you. The WHQ for speed is of course Eternal Insanity @ 908.224.8780 <g>
+
+15,01  00715] And so wraps up another month of hard work by the blade crew.. Enjoy
+15,01     the pak and look for upcoming articles about Blade in many major e-mags.
+
+
+15,01...00Group Greets15.................................................................
+
+00,01CiA 15- Hum De Dum Dum... 'Sup? <g>
+00,01UNiON 15- You guys are better than us <pout> <g>...Good work folks..
+00,01EGO 15- Lit, Lit, Lit.. it better be good Lit <g>
+00,01TEAM2 15- We rock da houzzzz.. 0BV/2 R0C/<Z <g>
+00,01EVERYONE ELSE 15- <g><g><g><g><g><g><g><g><g><g>
+
+15,01...00MC Greets15....................................................................
+
+00,01BiSHOP 15- Team2 all da way. We rule :)
+00,01Somms 15- Terra Firma is nice, but.. <g>...TEAM/2!!
+00,01Eternal Lie 15- Evolutions End is nice, but.. <g>...TEAM/2!!
+00,01Qur'An 15- OBV/2 was made for HM.. What ever made you choose V/2? ;)
+00,01White Noise 15- It'z In the mail, I swear.. :).. Cybercon looking sweeeeet man..
+00,01Napalm 15- If you say w00p one more time, I'll castrate you. <g>
+00,01Abomination 15- Your the 3l33+3'st of em all.. You make everyone else look 2l22+2
+00,01Mass Delusion 15- Where would you be without the help of Mr. Dawson? ;)
+00,01Morpheus,Beast,MCP,Magnus, etc... 15- Uh..huh huh huh.. Conferences are cool.
+00,01Everyone Else 15- What do ya think, Do i need more greets with <g>'s? <g>
+
+
+15,01Ablee blee thats all folks...
+

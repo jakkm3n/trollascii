@@ -1,0 +1,15 @@
+15,01appgen.zip OPTiK's App generator
+15,01dp-optk.gif Digital Pixel's new OPTiK logo
+15,01fl-firme.ans Flave's Firm menu set
+15,01fl-gdn.ans Flave's German Demo Network Logo
+15,01fl-sanit.ans Flave's Sanitarium logo
+15,01nk-fluid.mod Nuke's techno nightmares
+15,01nk-gdn.ans Nuke's German Demo Network logo
+15,01nk-keg.ans Nuke's ANSi for The Keg BBS
+15,01nk-pi.ans Nuke's ANSi for Programmed Illusion
+15,01nk-sanit.ans Nuke's login screen for Sanitarium
+15,01nk-under.mod Nuke's Underground experiences
+15,01optk-nwz.nfo OPTiK's news bulletin
+15,01optk0394.nfo Informations about the group
+15,01nk-decad.mod Nuke's Hardcore x-travaganza
+15,01nk-origi.mod Nuke's Trance-Mania!

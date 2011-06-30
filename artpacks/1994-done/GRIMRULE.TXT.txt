@@ -1,0 +1,80 @@
+15,01 mmmmmmmmmmmm  mmmmmmmmmmm  mmmm mmmmmm   mmmmmm mmmm   mmmm mmmmmmmm mmmmmmmmm
+15,01 14,15 ########## 15,01  14,15 ######### 15,01  14,15 ## 15,01 14,15 ##### 15,01m14,15 ##### 15,01 14,15 ### 15,01  14,15 ## 15,01 14,15 ###### 15,01 14,15 ####### 
+15,01 14,15 ## 15,01""""""""  14,15 ###    ## 15,01  """" 14,15 ############# 15,01 14,15 #### 15,01 14,15 ## 15,01 14,15 ## 15,01"""" ""14,15 ## 15,01"""
+15,01 14,15 ## 15,01 mmmmmm   14,15 ######### 15,01  mmmm 14,15 ## 15,01"14,15#####15,01"14,15 ## 15,01 14,15 ## ##  ## 15,01 14,15 ## 15,01mm     14,15 ## 
+15,01 14,15 ## 15,01 14,15 ##### 15,01m 14,15 ## 15,01"14,15 ## 15,01""  14,15 ## 15,01 14,15 ## 15,01  14,15 # 15,01  14,15 ## 15,01 14,15 ##  ## ## 15,01 14,15 #### 15,01     14,15 ## 
+15,01 14,15 ## 15,01 """"14,15 ## 15,01 14,15 ## 15,01  14,15 ## 15,01   14,15 ## 15,01 14,15 ## 15,01   14,15 15,01   14,15 ## 15,01 14,15 ## 15,01 14,15 #### 15,01 14,15 ## 15,01""     14,15 ## 
+15,01 14,15 ## 15,01mmmmm14,15 ## 15,01 14,15 ## 15,01   14,15 ## 15,01  14,15 ## 15,01 14,15 ## 15,01       14,15 ## 15,01 14,15 ## 15,01  14,15 ### 15,01 14,15 ## 15,01mmmm   14,15 ## 
+15,01 14,15 ########### 15,01 14,15 ## 15,01    14,15 ## 15,01 14,15 ## 15,01 14,15 ## 15,01       14,15 ## 15,01 14,15 ## 15,01   14,15 ## 15,01 14,15 ###### 15,01   14,15 ## 
+15,01 """"""""""""" """"    """" """" """"       """" """"   """" """"""""   """"
+15,01                            Rules and Regulations
+15,01                      (Taken directly from ImperialNet)
+
+15,01 # APPLYING:
+15,01        To apply to the network, you must already have a front end mailer up
+15,01        24 hours a day, as well as the mail tosser/scanner.  You must be 
+15,01        willing to make calls to you feed once every week, at least.  If your
+15,01        feed is a toll or long distance call, you will still need to make the
+15,01        proper arrangements until a new HUB can be defined that may be closer
+15,01        to your area.  If you are the first system in your area code, chances
+15,01        are that you will become the HUB/Host for your area.  You must make 
+15,01        your calls directly to the net WHQ.
+
+15,01 # BASES:
+15,01        There is a minimum that a system must carry,  These include any 'sysop
+15,01        only' bases, and bases which I would consider important to the users.
+15,01        HUBS However, must carry ALL the bases withing the net.  If the HUBS
+15,01        would not like to have the base on their boards, they have to allow
+15,01        'passthrough' areas.  If the HUBS refuse to send you a certain base,
+15,01        inform me, and I shall take care of it.
+
+15,01 # ACCESS:
+15,01        Access to the net should be given to those who have what the sysop
+15,01        of a the system would think of as a 'Good User.' This person should
+15,01        be a good user all around.  A good poster is the most important, but
+15,01        you should allow a well rounded user on.  Someone new to BBSing,
+15,01        unless superly great, should NOT be allowed to access the network.
+15,01        That degrades the net, and the quality of the messages.
+
+15,01 # NODELISTS:
+15,01        You, as a sysop, must keep up with the updated nodelists.  If you 
+15,01        have the chance to get a HUB in your area with their system set up 
+15,01        with the TIC format file echo areas, you can probably get your 
+15,01        nodelist from the system every time they get the new one through mail.
+15,01        If they don't have this system, the sysop of your HUB may opt. to send
+15,01        it to you VIA Netmail File Attach.  If none of these pertain to you, 
+15,01        it is your responsibility to get the nodelist yourself, and keep up 
+15,01        with the new updates.
+
+15,01 # SYSTEM DOWN/CRASH:
+15,01        If you system is down for a prolonged period of time, please get in 
+15,01        contact with your HUB to relay the message to myself, or you can call
+15,01        the net WHQ, and leave me mail.  If you don't do so, chances are you
+15,01        will get deleted from the net.
+15,01 
+15,01 # FIGHTING/WARRING/FLAMING:
+15,01        Fighting/Warring/Flaming or whatever else you would like to call it,
+15,01        is strictly forbidden!  If a user is fighting with another user on 
+15,01        the net, both parties will be taken out of the net, even if it is a
+15,01        co-sysop of the system.  If a sysop is found to be fighting, they will 
+15,01        receive a warning, and for a second time that they do such a thing,
+15,01        they shall be removed from the nodelist.
+
+15,01 # ONE-LINERS:
+15,01        One-Line posts (NOT INCLUDING QUOTED TEXT) should not be posted.  On
+15,01        occasion, a one line post may be appropriate, but if they are too
+15,01        frequent, the user who does the one-line posting shall be removed 
+15,01        from the net.
+
+15,01 # SIGNATURES:
+15,01        Signatures, or macros are used quite frequently.  There are many 
+15,01        different types of color codes used by different software.  Since
+15,01        these color codes may not come out on the other systems, I am going
+15,01        to make a '3 Line' total Macro rule.  If you macro or signiture is
+15,01        longer then this, you will be asked to change it.  If you do not do
+15,01        so, then you will be locked out of the net.
+
+15,01 # ANSI SCREENS:
+15,01        If you decide to upload an ANSI into the ANSI base, make sure it is 
+15,01        saved in standard FIDO Format.  (i.e. Save Length Is 76 [MAX]).  If
+15,01        this is not done, the message will not be correctly displayed on 

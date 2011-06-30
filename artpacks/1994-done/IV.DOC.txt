@@ -1,0 +1,80 @@
+15,01                               Intense View
+15,01                             -----------------
+15,01                              Coded by Techie
+15,01 
+15,01 
+15,01 A.  Features
+
+15,01 B.  Installation
+
+15,01 C.  Command Explanation
+
+15,01 D.  Future Plans
+
+
+
+
+
+
+15,01 A)  Features
+
+15,01        -  Ansi in 80x25, 80x50, and VGA - 640x480x256c
+
+15,01        -  Scrollback
+
+15,01        -  Multiple selectable, configurable file masks 
+15,01        
+15,01        -  Ansi speed delaying
+
+15,01        -  File deletion from the viewer
+
+15,01        -  iCE Color (tm) support
+
+15,01        -  Sauce (tm) support
+15,01        
+15,01        -  " Find - a - Sig " hidden sig support
+
+15,01        -  GIF support, via calling VPIC externally (it still works great
+15,01           FROM the veiwer
+
+15,01        -  RIP support, via calling Deadview externally (see above note)
+
+15,01        -  Directory changing
+
+15,01        -  Slideshow!
+
+15,01        
+
+15,01 B)  Installation
+
+
+15,01        The best way for IV to run properly, is to copy all of the files
+15,01        to your DOS directory.  The viewer is coded to write all config
+15,01        files back to the DOS directory.  It will work fine if used from
+15,01        another directory, but will not save your current configuration
+15,01        (last viewing resolution, scrollback toggle, iCE Color toggle).
+15,01        Follow these simple steps:
+
+15,01        1.  Copy all viewer files to the DOS directory:
+
+15,01                IV.COM
+15,01                GIF.EXE    (VPIC renamed)
+15,01                RIP.EXE    (Deadview renamed)
+
+15,01        2.  Get into your DOS directory.
+
+15,01                CD\DOS
+
+15,01        3.  Run the viewer ONE time by itself.
+
+15,01                IV    (ENTER)
+
+15,01        4.  That's it!  Now, you can run IV from anywhere on your hard
+15,01            drive and when you exit the viewer all your current settings
+15,01            will be saved.
+
+
+15,01 C)  Command Explanation
+
+15,01     
+15,01     F1  -  Help           - Onscreen help menu

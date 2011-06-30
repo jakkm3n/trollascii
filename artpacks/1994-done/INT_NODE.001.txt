@@ -1,0 +1,30 @@
+15,01;  IntentNet  Nodelist -- Updated 06/25/94
+15,01; ================================================================
+15,01;
+15,01Zone,3,IntentNet_WHQ,,,1-916-662-5283,9600,CM,H14,V42,V42B
+15,01;
+15,01; -- Application Node --
+15,01Region,100,Application_Node,,,X-XXX-XXX-XXXX,9600,CM,H14,V42,V42B
+15,01;
+15,01; -- 305 Region --
+15,01Region,305,IntentNet_(305),,,1-305-436-2493,9600,CM,H14,V42,V42B
+15,01,1,Revolution_Number_9,?,The_Wolverine,1-305-436-2493,9600,CM,H14,V42,V42B,XX
+15,01;
+15,01; -- 408 Region --
+15,01Region,408,IntentNet_(408),,,1-408-251-6220,9600,CM,H14,V42,V42B
+15,01,1,Evil Intentions,San_Jose_CA,Betrayer,1-408-251-6220,9600,CM,H14,V42,V42B,XX
+15,01;
+15,01; -- 714 Region --
+15,01Region,714,IntentNet_(714),,,1-714-963-4851,9600,CM,H14,V42,V42B
+15,01,1,Terra_Firma,?,Somms,1-714-963-4851,9600,CM,H14,V42,V42B,XX
+15,01;
+15,01; -- 805 Region --
+15,01Region,805,IntentNet_(805),,,1-805-834-5195,9600,CM,H14,V42,V42B
+15,01,1,Nulear_Nightmare,Bakersfield_CA,Bounty_Hunter,1-805-834-5195,9600,CM,H14,V42,
+15,01V42B,XX
+15,01;
+15,01; -- 916 Region --
+15,01Region,916,IntentNet_(916),,,1-916-662-5283,9600,CM,H14,V42,V42B
+15,01,1,Mindfuk,Woodland_CA,Deranged_Evil,1-916-662-5283,9600,CM,H14,V42,V42B,XX
+15,01;
+15,01;

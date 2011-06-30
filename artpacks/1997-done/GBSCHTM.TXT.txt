@@ -1,0 +1,11 @@
+15,01***GeL Productions `97***
+15,01***BASIC HTML***
+15,01***<HTML>=Tells the browser it is a HTML file being loaded                ***
+15,01***<TITLE> ***Put your unique title here***  </TITLE>                     ***   
+15,01   
+15,01***</BODY>= Put the body of your text here!                               ***
+15,01***<P>= Show previous line of text on separate line to user               ***
+15,01***<HR>= Add a break in the text by inserting a basic line                ***
+15,01***<H#>(#=Stands for the number you wish to add) Headings, the lower the  ***
+15,01***number the bigger the text                                             ***
+15,01***</HTML>= end of HTML file                                              ***

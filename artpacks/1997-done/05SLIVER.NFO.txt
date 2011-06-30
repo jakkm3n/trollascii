@@ -1,0 +1,80 @@
+
+
+
+15,01  00   15      00##14,00 13#14 00,01"15 00 15     08           15      00##mmmmm00,00#00,01mmmmmm14,00#00,01m15 00  15            09 15  09#
+15,01   00#mm13,00#00,01mmm04 15 00|00,04|15,06@04,01|15 04 13##mm06m14,06#15,01      09#15 04 15   00mmm14,00   00,15""00,01"15""00,15#15@00#00,01"15""00,15""14,00   00,15"14,00 00,01mmm 15          09 
+15,01  00,04"13,00#00,04"00,01"15 04 00"13,00# 00,01m00,04"14 00,06#15,01 04 13m04 13|14,13 13#06,06@13#06,01|##04   15  00 m00,15#15@00,00#14 00,01"14,00 00,01"15"00,15#15,01    00 00,15#15,01     00,15#15,01""00,15m#m14,00   00 ##00,01mmm ##
+04,01#|13,04#14 04,01|## 13,04##14 00#13##04,01|15 13,13#15,01 13#15 14,13#13,01""06"15   04   13#mmm15 13,04#13,01mm13,13#13,01mm04    13mm13,13#13,01mm04   15     00   "00,00##00,01"" mm14,00#00,01m02mm ##00 
+15,01 04 14,04   13,01m04   15 04m""" 15 13mm04  13mm13,13#13,01m13,04"13,13#13,04"04,01#00 13m00 04 13,04"13,13# #13,01"" "14,13 13#13,01m14,13 13#13,04"13,01"13,04"#04@13,13# 13,01m15 04 15    00## 00,00#15,01 00m00,02""12m#m12,12 12,02m12,12#02,02@12#02,01m00    
+12,01 04##"13""14,13 13#13,01mm m13,13# 13,01|##13,13 # 13,04"13,13##13,01|04|04,04@@04,01|13"13,13#13,01"04#04,04@@13#04,01| 12 04##m04,04@13,13#04,01|04,04@13 04,01##14,04 13# 04,01"##15        00 02|12,02#02@12,12 14 12,01"14,12  12,01"14,12  12 #12,01m  
+04,01 13m13,13#13,04"13,01"# |13,13#04,04@13"#04@13,13#15,01   04|04,04@@04,01|14,04 04@@13,01 14,04 13##15,01  04 13,04##14 13##04,01""13,04#04,01""" 14,04 13##04,01|15  13"04  15      09#15   12 "12,12  14  12,01m14,12  12,01m14,12 12   12,01|##
+15,01 13,13#04,04@13#04,01m15  04m13,04#   #04,01mm15 04m13,04##14 04,01#|13,04 ##15,01 04""13,04#04,01m14,04 04,01"" 14,04 13##04,01mm13,04##14 04,01"|14,04 13##04,01m 15    13# 15       12##"14,12 12,01m""""""m12,12#12,01"
+09,01# 04""13,04####04,01""##""13,04#04,01""""15 04"""""""#15 04"#"13,04#04,01" 15 04""""##"" """" 13"14,13#13,01 "  15           12"12,12#12,01""""15 12#
+15,01               00  m14,00  00##15,15@00#00,01"15                04 
+15,01      04s15    04l15    04i15   04 v15    04 e15     04r15   04 
+
+
+00,01sliver info file for packet 5..15 00.
+
+15,01hello, and welcome to the 00sliver15 packet.  we apologize, as the release is a bit
+15,01late.  the pack is a fair size this month, though not as big as last month's art
+15,01release.  00sliver15 remains local to the 0040315 area code, though we are willing to 
+15,01accept a few long distance members.  if you'd like to join, please feel free to 
+15,01contact either 00demolisher15, 00unique phreak15 or myself.  our email addresses can be
+15,01found at the end of this file.
+
+15,01the 00sliver application generator15 is finally finished, and can be found in this
+15,01pack and all of our future releases.  we're still on the hunt for some decent   
+15,01coders, so if you're willing to join us, drop one of the seniors a line.
+
+15,01during the slow summer months, not as much goes on and therefore the packs are
+15,01not as big.. but we assure you, 00sliver15 is still going strong and does not plan
+15,01on dying anytime soon.  
+
+00,01members joining.. .
+
+15,01this month we welcome ansi artist 00spank15.  he is a very talented local artist who
+15,01has decided to release with us.. we just hope he doesn't grow an ego and quit   
+15,01for a big irc group. ;)
+
+15,01also joining 00sliver15 this month is a guy named 00umkilla15, who has had virtually no 
+15,01exposure in the world of ansi until now.. we welcome him with open arms, and we
+15,01hope he can grow and become a better artist while with us.
+
+15,01last but surely not least, is ascii artist 00clorox15.  he has previously drawn for
+15,01the local group 00blind15, and has decided to showcase his talents with us.
+
+00,01members leaving. ..15 00.
+
+15,01this month, we unfortunately lost 00the sad jester15.. he has left to pursue other 
+15,01things, but we wish him the best of luck in his future endeavors.
+
+15,01also, 00ruiner15 has decided to quit the group, as he isn't drawing much nowadays..
+15,01he says he'll be back in  few months.. we'll just have to wait and see. :)
+
+00,01final words.. . 15   00.
+
+15,01we at 00sliver15 believe that all artists have potential, and that is why we accept
+15,01pretty much anyone that cares to join.  artists that you think are bad now may
+15,01very well be unreal in a year or two.. so watch what you say. :)
+
+15,01well, that's it for this month.. hope you enjoy the pack, and we'll see you next
+15,01month!
+
+
+00,01                                   sliver 1997                                  
+15,01                           00when we're god, everyone dies.
+
+
+15,01        01,15"""  """"08,01 01,15  08,01 01,15# 08,01  01,15    
+15,01           01,15| |08,01   01,15|00#01|| |08,01 01,15| |
+15,01           00#01,15##08,01   01,15 00"01m  00,01#08 01,15  mm15,01        13info file done by sadistic intent
+15,01            01,15| |15,01     01,15mm08,01  01,15   #00,01#15   04..11 13(15c13)04opyright sliver productions 1997... .
+15,01               01,04"13#01|
+15,01                13,04||15,01       01,15    #00,01#15       13sadistic intent09 
+15,01                01,04|13,13#01,04|15,01     01,15|  08,01 01,15  00#15,01             04ditan@telusplanet.net
+15,01              14,04@01""13#01 "  m15,01     01,15"""15,01       13demolisher/unique phreak
+15,01                01,04m   m15,01       01,15|  00,01#15            04d3m0z@freenet.edmonton.ab.ca
+15,01                  01,04m15,01      01,15"  m  |
+15,01                 13m09 13"09  06#03 00#01,15  |08,01 01,15|  
+15,01                01,06m15,01        01,15mmmm| #mm

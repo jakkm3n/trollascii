@@ -1,0 +1,80 @@
+15,01???     Return amulet- On realization of it's realt spells use the physical
+15,0116    Bafunction, owner must choose a place. When used with any elemental eal
+15,0118    Tedrop, it will allow the caster's party to be teleported to that 
+15,01In townsplace, (must be the same dimension) and the elemental drop is y.cks
+15,0120    Seconsumed. The destination cannot be changed after you choose it.or
+15,01100     Magic paint (per use)- Used in special callings & portals.,
+15,01400     Magic staff-Can indefinitely hold 3 spells cast on it. You can only 
+15,01        own one at a time. When a spell is cast into it, it is held theread
+15,01        until the user wants to use that spell.300ead.t's supposed to heal!
+15,01???     World locket- A magic locket representing a dimension. When used with 
+15,0130    Demagic paint, an elemental drop of any sort, and the appropriate spell,
+15,01        a portal appears to that world. Note that lockets are never labeled,
+15,0132    Drand unless you have a locket for your homeworld, don't expect a round
+15,0134    Fotrip.                                 3000 non-undead etheral foes****
+15,0140      Mer-man gill- Allows water breath for D12 +10 min. The gill is 
+15,01EXTRAS**destroyed in the process.*********************************************
+15,01******************************************************************************
+15,01fin   ????                                    ???? force is just basictra and
+15,01physical force done with magic, and has no special etheral alignment, just.
+15,01The names are just suggestions. You can call them all 'rubber chicken' if
+15,01you really want.pell, in the same turn, to help them get on their feet.the
+15,01       ie: using lifebooster with Heal2, (you must know the spell,)notherse
+15,01Magical blades should have 25% more cost at least, if they can0+D20 HP.other 
+15,01be found in stores at all.....e idea of it, you'll find yourself knowing these
+15,01Magical blades can hurt things that wouldn't normally be damaged, likeanimate
+15,01ghosts, or werewolves.lls, and leaves the character with 20+D20 hp.ments******
+15,01RESISTING MIND CONTROL EFFECTS- Water/Ice, Air/Lightning.
+15,01RANGE WEAPONS:ro- This spell creates a similar effect as a heal spell, yet
+15,01WQ      Name                        Cost           ammoill not heal wounds,
+15,01       nor injure undead. The living feel a soothing sensation, (as if by
+15,012       Sling                       50             1 rounds, (magical
+15,013       Novice bow                  70             "GM's discretion) of
+15,015       Agile bow                   130            " with irritation, af the
+15,01       useful effect for weeding out undead interlopers. The living willthe
+15,017       Basic Bow                   170            "if you DO find an undead
+15,019       Pro Bow                     210            "t!o use.
+15,0112      Composite Bow               260            "e air.your powers, only
+15,0114      Specialist bow              350            "effect, as well as doing
+15,01UNDEAD HEALING SPELLSt wins, and resists the mind control, they still take
+15,0120      Low power gun               550            "ng, just because mostpell,
+15,0125      High power gun              700            5 rounds stated.e weapons
+15,0130      Heavy guns                  900            10 rounds other purposes.
+15,0135      Energy weapon               2000           2 electricityundead.l,
+15,0145      High energy weapon          5000           5 electricitys why, if
+15,01  there are no classes in the world, why some janitor may never learn
+15,0170      Plasma Bomber               not in stores  150 electricitycan haveh
+15,01        The plasma bomber hits alley KNOW that many spells. Their spell
+15,01        other enemies for 20 HP asn undead. Spreadable.he spell, you have to
+15,01        well.ell drop". Spell drops occur in nature every now and then.f the
+15,0130MP   Undead heal3: heals 100 HP on undead. Spreadable. been a fire, or this
+15,0160      Rocket launcher             15000          1 rocketpell drops play.
+15,01        In grid play, will also hitn undead. Spreadable.e just show up,able
+15,01        any adjacent spots for 30gins. 1.5 damage, with an extra 7 to AIM,
+15,01        damage, including players!hp (knocked out, killed, whatever..)r.
+15,01       will be recovered to 20+D20 HP (undead). This can bring undeadit
+15,014D10    Shotgun                     800            1 roundess zombiesng as
+15,013D20    Double shotgun              1500           2 roundswice in a rowthere
+15,01       on a mind will check, to be turned into mindless zombies. have to make
+15,01Combustion and electrical wepons will not work underwater. Maybe, for aboutng
+15,01$50, a weapon shop owner will fix that problem....you to also cast another
+15,01       undead healing spell, in the same turn, to get them on their feet.
+15,01Keep in mind that guns, which do not require great strenth to be effective,
+15,01do not have the player's STR added to their WQ to get damage. WQ IS theghe
+15,01damage. Bows and such may look weaker on the list, but depending on the
+15,01user's strength, they may actually be a cheap, and more effective alternative
+15,01to firearms.. of course, if your game is set in an olden world, gun may just**
+15,01not be available..ers and slows down everyone. It is my opinion that too 
+15,01A player party who is turned entirely into mindless zombies can only hope that
+15,01AMMO & POWERind enough to have them wander to safety, and be cured by somethat 
+15,01-note.. it is common to assume that weapons always have the ammo required to
+15,01 operate, so as not to bog things down for the gameplay, bothering withople
+15,01 keeping track of how many ammo you have, etc, but due to the power of some***
+15,01 of the more powerful weapons, it is suggested that you keeptrack of ammo10
+15,01 for any weapon that takes anything besides normal bullets or arrows.omeone 
+15,014 MP      Smoke: allows your party to escape from a battle in the feild.d 
+15,01 I suggest keeping track of ammo for any weapon that takes more than onehen  
+15,01 normal round. of fire: Lasts D10 +10 minutes. Those who pass through suffer .
+15,01          effects similar a to fire spell. Can surround D4ies. there is no 
+15,015 rounds: $1 (single rounds apply to regular arrows or bullets. first. Each 
+15,01exploder: $32 Works like a grenade, but the weapon makes it go farther. 30hp

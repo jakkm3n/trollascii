@@ -1,0 +1,54 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 4/7/1998
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01ice-9803.mem,ANSI,iCE - March 98 Members,iCE staff
+15,01ice-9803.nfo,ANSI,iCE - March 98 Info,iCE staff
+15,01ice-9803.sit,ANSI,iCE - March 98 Sites,iCE staff
+15,01----
+15,01(PICS)
+15,01----
+15,01c0-girl.ans,ANSI,iCE Girl,Count Zero
+15,01c0-gp.ans,ANSI,Geeksta's Paradise,Count Zero
+15,01c0-id.ans,ANSI,Infinite Darkness,Count Zero
+15,01c0-li.ans,ANSI,Lethal Injection,Count Zero
+15,01c0-pw.ans,ANSI,Perpetual Winter,Count Zero
+15,01us-ice.ice,ANSI,iCE Promo,C0/MI/SQ2/IN
+15,01----
+15,01(LOGOS)
+15,01----
+15,01fr-logo.ans,ANSI,Logo,Fractal
+15,01c0-colly.ans,ANSI,Logo Colly,Count Zero
+15,01----
+15,01(MPEG)
+15,01----
+15,01jm-nurby.mov,EXTERNAL,Intro (MPEG Movie),Jamie McCarter
+15,01----
+15,01(VGA)
+15,01----
+15,01ci-lost.jpg,EXTERNAL,Lost,Cyberise
+15,01di-11.JPG,EXTERNAL,11th Dimension,Digital Interface
+15,01id-dino.jpg,EXTERNAL,Dinosaurs,Ian Dale
+15,01ja-punk2.jpg,EXTERNAL,Punk Rocker,Jae
+15,01ja-spc98.jpg,EXTERNAL,Space 1998,Jae
+15,01ja-trans.jpg,EXTERNAL,Transition,Jae
+15,01kb-decay.jpg,EXTERNAL,Decay,Kabal-13
+15,01m3d-end.jpg,EXTERNAL,The End,Mad-3D
+15,01m3d-sg1.jpg,EXTERNAL,Stargate 1,Mad-3D
+15,01mi-rollr.jpg,EXTERNAL,Roller Girl,Mongi
+15,01mi-sorro.jpg,EXTERNAL,Sorrow,Mongi
+15,01mn-bsch2.jpg,EXTERNAL,Bsch2,Mant|s
+15,01mn-giger.jpg,EXTERNAL,Giger,Mant|s
+15,01pn-guard.jpg,EXTERNAL,Guard,Pnakotic
+15,01tn-cannon.jpg,EXTERNAL,Super Cannon,Taron
+15,01tn-hallwn.jpg,EXTERNAL,Halloween,Taron
+15,01tn-mcar.jpg,EXTERNAL,Car,Taron
+15,01tw-burke.jpg,EXTERNAL,Burke: VA,Tim Wallace
+15,01tw-camps.jpg,EXTERNAL,HQ Campus,Tim Wallace
+15,01tw-jail.jpg,EXTERNAL,Robot Jail,Tim Wallace
+15,01tw-king.jpg,EXTERNAL,King Robot,Tim Wallace
+15,01tw-splsh.jpg,EXTERNAL,Splash Image,Tim Wallace
+15,01tw-tunnl.jpg,EXTERNAL,Tunnel,Tim Wallace
+15,01us-di_ffh.jpg,EXTERNAL,Joint Piece,DI and FFH
+15,01ve-kid.jpg,EXTERNAL,No Quarters,Vesalius
+15,01xt-sauce.jpg,EXTERNAL,Sauce,Xten

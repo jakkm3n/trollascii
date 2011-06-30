@@ -1,0 +1,47 @@
+15,01             ---- WORLD Pud Template ----
+
+15,01----------------------------------------------------------------
+15,01Title                   - Rain  
+15,01Filename                - rain.pud
+15,01Author                  - Pure Massacre
+15,01Email Address           - None
+15,01Short Description       - Kill everything that moves
+15,01Additional Credits to   - Bah....  
+15,01----------------------------------------------------------------
+
+15,01---- General Info ----
+
+15,01Single Player           - Sure!
+15,01Cooperative             - Sure!
+15,01Deathmatch              - Sure!
+15,01Difficulty [1-10]       - 7.5
+15,01New Sounds              - none 
+15,01Construction Time       - 1 hour
+
+15,01---- Long Description ----
+
+15,01simple... 4 islands... you own one.... you want the others... :)
+
+15,01---- Do's and Don'ts ----
+
+15,01Authors MAY use this level as a base to build additional
+15,01levels, as long as I am mentioned as the original creator.  
+15,01 
+15,01----------------------------------------------------------------
+
+15,01You MAY distribute this PUD, provided you include this file, with
+15,01no modifications.  You may distribute this file in any electronic
+15,01format (BBS, Diskette, CD, etc) as long as you include this file 
+15,01intact.
+
+15,01----------------------------------------------------------------
+
+15,01---- Places Where This PUD Is Found ----
+
+15,01BBS Names and Numbers - T.a.R. (7o9)579-1925
+15,01   
+15,01FTP Sites -
+
+15,01WEB Sites - www.geocities.com/TimesSquare/Castle/8730
+
+15,01----------------------------------------------------------------

@@ -1,0 +1,80 @@
+
+15,01+-----------------------------------------------------------------------------+
+15,01|        ## Z'97 - Competicao Brasileira de Demos, Graficos e Musicas ##      |
+15,01+-----------------------------------------------------------------------------+
+15,01+-----------------------------------------------------------------------------+
+15,01|                                                                             |
+15,01|  Z'97 sera o primeiro encontro nacional da demoscene brasileira, assim como |
+15,01| a primeira competicao real realizada na America Latina. A intencao dos or-  |
+15,01| ganizadores e divulgar e unir a demoscene do pais, que praticamente nao tem |
+15,01| significado para o resto do mundo.                                          |
+15,01|                                                                             |
+15,01|  A Z'97 sera como todas as competicoes internacionais,  apenas diferindo-se |
+15,01| no fato de contar com categorias menos explicitas a programadores e musicos |
+15,01| com nivel avancado de experiencia. Tudo esta bem explicado e detalhado nes- |
+15,01| se arquivo,  mas voce pode entrar em contato com os organizadores do evento |
+15,01| a partir de um dos enderecos listados aqui mesmo.                           |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+15,01+-----------------------------------------------------------------------------+
+15,01| #1# Local e Datas                                                           |
+15,01+-----------------------------------------------------------------------------+
+15,01+-----------------------------------------------------------------------------+
+15,01|                                                                             |
+15,01|   O encontro e a competicao serao realizadas na cidade de Vitoria,  capital |
+15,01| do estado do Espirito Santo no periodo de 11, 12 e 13 de Julho.  Vitoria e  |
+15,01| uma cidade litoranea e aconchegante, o que significa tempo excelente quase  |
+15,01| o ano todo alem de uma hospitalidade invejavel :).                          |
+15,01|  O local e o auditorio de uma escola, com capacidade para 150 pessoas, ar   |
+15,01| condicionado, sistema de som de alta definicao e telao de 4x3 metros.       |
+15,01|  As competicoes serao realizadas sempre no periodo da noite,  a partir das  |
+15,01| 19:00h,  o que permite que o participante do evento realize as ultimas al-  |
+15,01| teracoes na sua contribuicao antes da deadline.                             |
+15,01|   Durante o periodo em que nenhuma competicao classica (demos, gfx, musica) |
+15,01| estiver sendo realizada, competicoes de Quake em rede serao oferecidas aos  |
+15,01| presentes no evento.                                                        |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+15,01+-----------------------------------------------------------------------------+
+15,01| #2# Competicoes e Regras                                                    |
+15,01+-----------------------------------------------------------------------------+
+15,01+-----------------------------------------------------------------------------+
+15,01| Categorias SENIOR ou classicas                                              |
+15,01| ------------------------------                                              |
+15,01|                                                                             |
+15,01|  # DEMOS                                                                    |
+15,01|                                                                             |
+15,01|  - Tamanho maximo permitido a producao: 2 megabytes (2.048 kilobytes).      |
+15,01|  - Tempo maximo de apresentacao: 8 minutos. Caso o demo ultrapasse este     |
+15,01|    limite, os organizadores encerrarao a execucao do mesmo.                 |
+15,01|  - Resolucao maxima permitida: 640x480, 256 cores                           |
+15,01|  - O demo *DEVE* suportar no minimo Sound Blaster. Producoes com suporte    |
+15,01|    exclusivo para Gravis UltraSound serao desclassificados. Demos sem som   |
+15,01|    perderao imediatamente 20 pontos dos 100 totais a serem dados pelo juri. |
+15,01|  - O demo nao pode conter material pornografico ou violento de nenhuma es-  |
+15,01|    pecie.                                                                   |
+15,01|  - E permitido apenas um demo por autor ou por grupo.                       |
+15,01|                                                                             |
+15,01|  # MUSICA                                                                   |
+15,01|                                                                             |
+15,01|  - Tamanho maximo permitido a musica: 1 megabyte (1.024 kilobytes).         |
+15,01|  - Formatos suportados: XM, IT, MTM, S3M e MOD.                             |
+15,01|  - Tempo maximo de reproducao: 10 minutos.                                  |
+15,01|  - Musicas remixadas ou covers serao imediatamente desclassificadas.        |
+15,01|  - Samples podem ser ripados. Pedimos que sejam especificadas as origens    |
+15,01|    dos instrumentos utilizados na musica, se possivel.                      |
+15,01|  - E permitida apenas uma musica por autor. Musicas em cooperacao sao       |
+15,01|    permitidas, porem nenhum dos colaboradores pode participar com outra     |
+15,01|    musica.                                                                  |
+15,01|                                                                             |
+15,01|  # GRAFICOS                                                                 |
+15,01|                                                                             |
+15,01|  - Resolucao maxima da imagem: 640x480, 16 milhoes de cores.                |
+15,01|  - Formatos suportados: GIF, PCX, LBM, TGA, BMP e JPG.                      |
+15,01|  - A imagem deve ser criada em qualquer programa grafico, incluindo 3D      |
+15,01|    Studio, Corel Draw e PhotoShop.                                          |
+15,01|  - Imagens digitalizadas (scanner) serao imediatamente disclassificadas.    |
+15,01|  - Apenas uma imagem por autor.                                             |
+15,01|  - E necessaria a informacao de onde a imagem foi processada/renderizada.   |
+15,01|                                                                             |
+15,01|                                                                             |

@@ -1,0 +1,80 @@
+
+15,01            a$"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"a
+15,01           l$$$$$$"$$$$$$$#$$$$$$$$$$$$$'$$$$$$$$$$$$$$$$$$$'$$$$$$$$l
+15,01           $$$$' $$$&&&$$$$$$$$$$$$$$" "$$$$$$$$$$$$$$$$$" "$$$$$$$$$$
+15,01           $$$$$a"      "$$$$$$$$"'      "$$$$$$"$$$$"'      "$$$$$$$$
+15,01           $$$$$$$$yyy'$$ "$$$"    aa$$,   "" "$$$"    aa$$,   "$$$$$$
+15,01           $$$$$$$""    "#$$$'   ,$$$$$$$$oa,d$$$'   ,$$$$b"  aaad$$$$
+15,01-----------$$$$$a$$$a    l$$l    $$$$$$$$$$$" "$l    $$a    a$$$$"$"$$---------
+15,01ice ice ice$$$$$$$$$$l   l$$!    l$$$$$$$$'    $!    l$$$$o#$$"    $$$nfo nfo n
+15,01-----------$$$$$$$$$$$    $$$a    l$$$$$'   a$aa$a    l$$$$$'   a$aa$$---------
+15,01           $$$$$$$$$$l    l$$$a    "$$$"  d$$$$$$$a    "$$$"  d$$$$$$$
+15,01           $$$$a$$$$"      '$$$$a    "$  $$$$$$$$q$$$a    '  $$$$$$$$$
+15,01           $$$$$$$aa$l$$$$o,l$a$a$$a,   l$$$$$$$$$$$$$$$a   l$$$$$$$$$
+15,01           $$$$$$$$$$$$$$$a$$$$$$$X$$#,l$$$$$$$$$$$$$$$$$$&a$a$$$$$$$$
+15,01           l$$$$$$$$$$$$$$$$$$$$$$$$aa$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$l
+15,01         #28"&&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%$$&"
+
+15,011. Hello, we're  back to Lord Soth's turn at  writing this...  so I'm supplying
+15,01   this 0-day pack from the depths of the  dank iCE(tm) office building.  Okay,
+15,01   first off I want to  apologize to a few people  over some  STUPID mistakes I
+15,01   made in last month's pack.  Apologies to (in no order):  SleepWalker, Tempus
+15,01   Thales, Force Ten, Cooly,  Grimace, Veks, Friar, Spiff, and Azagoth.  I also
+15,01   want to apologize  to everyone out there for my blatent mistakes in the last
+15,01   pack.  But onto this month.   Despite finals, AP Tests, and  post-graduation
+15,01   partying,  we've got a nice  collection of  artwork this month.   The coders
+15,01   also hit their compilers to put together 3 nice loaders on the side of their
+15,01   more major projects.
+
+15,012. We  have a whole  boatload  of new  artists  again  this month.   But first,
+15,01   Biscuit  and  Masterken  have been  moved  back to  the  "Active" list,  and
+15,01   BodyCount has changed his handle to Highness.  Force Ten has also started to
+15,01   help us again in group administration, and he will be a big help to iCE once
+15,01   again.   Our new members  include Shockwave, an old-scene  VGA artist who is
+15,01   returning  to iCE after a  long stay with ACiD.  Also from ACiD comes CETiS,
+15,01   who  left the scene  in June 1994 and has  returned a year  later with  iCE.
+15,01   Musicphreak has also joined the group after  parting with ACiD.  Joining iCE
+15,01   from  Union  comes the ansi  artists  Image,  Juice, and  #28,  who are  all
+15,01   excellent  masters of  the blinking  cursor ;).  It doesn't  seem  possible, 
+15,01   
+15,01   but our long time friend, Ed.. otherwise known as Terminator 2,  has  graced
+15,01   us with his presence after giving Unchained a shot.  We also want to welcome
+15,01   Mahbell,  a very  talented new  ansi artist,  and also Delsion,  a demoscene
+15,01   graphician  from  Finland  who  previously  did  some  of  the  graphics for
+15,01   Epidemic.  Finally, but not to be discredited,  the coder Greater Evil comes
+15,01   from Relic bearing gifts,  namely RIP code in C that has been implemented in
+15,01   iCEView this month.
+
+15,012X.We had 3  departures this  month.  Nttk, aka Culture Shock, has left iCE and
+15,01   joined  ACiD.   Quazar decided he didn't have  time to  make the comback  he
+15,01   started,  and Grateful  Dead has left and joined  Vintage.  We wish them all
+15,01   luck!
+
+15,013. Congratulations to Borian, who is now a daddy to a happy, healthy, baby boy.
+15,01   Lets hope Borian Jr gets some of dad's talent :)   Also, happy 18th Birthday
+15,01   to Neurotic.  (HAAAAAPPPPPYYYY BBBIIIIIRRRRTTTTTHHH.....)
+
+15,014. The Number to out WHQ, Sanctuary, is now 305-KNOW-iCE. Tempus has moved once
+15,01   again :).  But, guess what.. he's still a big fag.
+
+15,015. Toon Goon's System 1 ansi is not being re-released.   He did not mean for it
+15,01   to be released  last month, although through  miscommunication I  put it in.
+15,01   The ansi in last month's pack was not finished, and the version in this pack
+15,01   has alot of changes in it.  My apologies to TG again.
+
+15,016. As always, you can buy VGA, Rip, Ansis, or full graphics/music presentations
+15,01   by contacting us at  ice@freedom.wit.com  or slothy@netcom.com  (by the way,
+15,01   ansis do not really cost $100-200, that was an April Fools' joke :)
+
+15,017. The following  files are viewable  in the  viewer  although they  have  been
+15,01   stripped of 65,534/65,535ths of their colors to further enhance your viewing
+15,01   pleasure:
+
+
+
+
+15,018. Hi Ellis Dee. ;)
+
+15,019. Rick, dood, are you like.. an ansi recruiter?  You are?  Then welcome to iCE
+15,01   dood! :D
+

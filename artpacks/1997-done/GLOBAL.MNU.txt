@@ -1,0 +1,21 @@
+15,01@ Global Menu                                                                   
+15,01                                                                                
+15,01                                                                                
+15,01                 *Global                                                      *G
+15,01LOBAL                                                                           
+15,01                                                                                
+15,01                                                                                
+15,01                                                                 xMAIN    @*@@@@
+15,01@@                                                                              
+15,01                        Goodbyedbye - Logoff System        !Logoff system (goto 
+15,01goodbye menu)                                     @G                            
+15,01      14,15@15,01-/ GOODBYE                                                               
+15,01  Fast logofft Fast - Immediate Logof>Immediate logofft                         
+15,01                            14,15@15,01/G                                 14,15@15,01HI'|lf|u2Thanks
+15,01 for calling|u3, |u1%UN|u3.|CS|DM|16|CS|01Cya |09%UN|01.    Command helpmandt - 
+15,01Immediate Logof*Displays help information on menu commands                      
+15,01      14,15@15,01/?                                 14,15@15,01-? |17|CS|DM|21|CS|DM|18|CS|DM|23|CS|
+15,01DM|20|CS|DM|16|CS|01Cya |09%UN|01.   
+15,01SysOp menuOperations Menu          &[sysop] Goto the sysop operations menu      
+15,01                          @*             xs250                14,15@15,01-/ASYSOP         
+15,01                                                         

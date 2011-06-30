@@ -1,0 +1,80 @@
+15,01         Oneliners
+15,01         Coded by Wildfire
+15,01         A BL/+DE Production
+
+15,01         -------------------------------------------------------------
+
+15,01         Installation of Oneliners is very simple.  All that you need
+15,01         to do is copy all of the files to a directory.  I suggest
+15,01         that you put them all in one directory, by themselves. Here
+15,01         is a line-by-line description of the ONELINER.CFG file:
+
+15,01         Line 1: A bullet of up to 5 characters.  This should include color
+15,01                 codes. For example, if you want to use # as a
+15,01                 bullet, then you'd make the bullet:
+15,01                 "@X08#@X03 "
+15,01                 (Without the quotation marks, of course) ... that
+15,01                 would make the color of the bullet 08 and the
+15,01                 oneliner would be 03. Make sure that there is ONE
+15,01                 trailing space, unless you specifically want it not
+15,01                 to have one.
+
+15,01         Line 2: This should be the prompt (with color codes) that
+15,01                 asks them if they want to add a oneliner. An example
+15,01                 would be:
+15,01                 "@X0BDo you want to add a oneliner"
+15,01                 which would come out to:
+15,01                 "Do you want to add a oneliner? ( )"
+15,01                 If you do not want the "? ( )" thing, then make sure
+15,01                 that you have an "_" at the end .. for example:
+15,01                 "@X0BDo you want to add a oneliner -> _"
+15,01                 Would come out to:
+15,01                 "Do you want to add a oneliner -> "
+15,01                 I suggest that you leave out the "_" thing, though.
+
+15,01         Line 3: This is the prompt that says:
+15,01                 "Enter your oneliner below:"
+15,01                 This is pretty simple .. as usual, make sure that you
+15,01                 add color codes.
+
+15,01         Line 4: This is the color that you want the brackets to be
+15,01                 when you're adding a oneliner ... since you type in
+15,01                 the oneliner like:
+15,01                 "? (                       )"
+15,01                 ... you can choose what color you want the ( ) part
+15,01                 to be. Note that the text that you type INSIDE the
+15,01                 brackets is the default text color that you
+15,01                 designated in PCBSETUP.
+
+15,01         Line 5: This is the string that notifies the user that his
+15,01                 oneliner has been added.  An example might be:
+15,01                 "Your oneliner has been added."
+15,01                 Be sure to include color codes.
+
+15,01         Line 6: This is the type of macro checking that is used.
+15,01                 There are 3 options, which are described below:
+
+15,01                 LONG   This is the best checking. However, if you have
+15,01                        a slow system, it may not be the best. What
+15,01                        this checks for is when someone types in a
+15,01                        macro (@ code) into their oneliner. These are
+15,01                        not always desired, since they perform various
+15,01                        functions (And in PCBoard 15.1, you can
+15,01                        designate environment variables using @
+15,01                        codes.) For example, a caller might enter:
+15,01                        "Anyone with the phone # @HOMEPHONE@ is an
+15,01                        idiot." would not do any harm, but would be
+15,01                        somewhat annoying. What this does is check the
+15,01                        oneliner for any @ variable. This is certainly
+15,01                        the best checking. It does NOT check for the
+15,01                        new variables in PCBoard 15.1, because they do
+15,01                        not do anything. The variable list will be
+15,01                        updated soon, however.
+
+15,01                 QUICK  This is a faster way of scanning for @
+15,01                        variables. It does, however, have some obvious
+15,01                        advantages and disadvantages. You cannot use
+15,01                        the "@" sign in your oneliner AT ALL. On the
+15,01                        other hand, it will catch *ALL* @ variables,
+15,01                        no matter what version of PCBoard is running.
+

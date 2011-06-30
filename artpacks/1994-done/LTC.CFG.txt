@@ -1,0 +1,14 @@
+15,01@X08
+15,01@X03
+15,01@X0B
+15,01@X09
+15,01@X05mmm@X08m@X05mmm@X08m@X05mm@X08m@X05m@X08m@X05m@X08mmm@X05m@X08mmmm@X05m@X08m
+15,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm@X0Dm@X08mmm@X0Dm@X08mm@X0Dm@X08m@X0Dm@X08m@X
+15,010Dmm@X08m@X0Dmmm@X08m@X0Dmmm
+
+15,01;-----------------------------------------------------------------------------
+15,01Line1: The Border color
+15,01Line2: The User Name color
+15,01Line3: The User Note color
+15,01Line4: The Security lvl comment color
+15,01Line5: Bottom line of the screen

@@ -1,0 +1,23 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 1/1/2001
+15,01###############################################
+15,01ice-0012.sit,ANSI,iCE Site Listing,iCE Staff
+15,01ice-0012.nfo,ANSI,iCE NFO File 12/2000,iCE Staff
+15,01ice-0012.mem,ANSI,iCE Member List 12/2000,iCE Staff
+15,01prm-m5d.ice,ANSI,Tribute,Prizm
+15,01us-m0d1.ice,ANSI,m0d joint,Prizm
+15,01ag-cllge.jpg,EXTERNAL,Collage,Adam Grossi
+15,01dh-rf.jpg,EXTERNAL,Rebirth Flame,Darkhalo
+15,01fb-alone.jpg,EXTERNAL,Alone,Funbaby
+15,01mi-nstar.jpg,EXTERNAL,Ninja Star,Mongi
+15,01mrmr-aln.jpg,EXTERNAL,Alien,Mr. Mister
+15,01mrmr-dl.jpg,EXTERNAL,DL Logo,Mr. Mister
+15,01mrmr-mct.jpg,EXTERNAL,Mascot,Mr. Mister
+15,01mrmr-tbl.jpg,EXTERNAL,Tribal logo,Mr. Mister
+15,01ss-nwbdy.jpg,EXTERNAL,Female Model,Steven Stahlberg
+15,01vc-claes.jpg,EXTERNAL,Character Model,V. Claes
+15,01ve-bomb.jpg,EXTERNAL,War is Peace,Vesalius
+15,01ve-gogs.jpg,EXTERNAL,Gogs,Vesalius
+15,01ve-win.jpg,EXTERNAL,Wininstantly.com Promo,Vesalius
+15,01xe-ice.jpg,EXTERNAL,iCE.org Promo,Xebra
+15,01file_id.diz,ANSI,Zipfile Description,iCE Staff

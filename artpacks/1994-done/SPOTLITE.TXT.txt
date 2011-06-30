@@ -1,0 +1,43 @@
+
+
+
+
+00,01DarkHawk15     00- 12Specializing in just about everything, DarkHawk is the co-founder
+15,01               12of EDGE Productions, and contributed a member list and app gener-
+15,01               12ator to the group.  We are looking forward to a new generation
+15,01               12ANSI/TEXT viewer for the group from him.  Thanks, DH.
+
+00,01Max15          00- 12The other co-founder of EDGE productions, MSD is a promising ANSI
+00,01ShadowDrake    12artist and coder, with a couple selections appearing in our  ANSI
+15,01               12department.
+
+00,01B00MER15       00- 12Now this guy is something incredible, a member of FUSiON and ours
+15,01               12as well, Boomer can code, do vga, and ansi art, yet his forte is
+15,01               12MUSIC with a bang, check out his demo in this issue.  We hope to
+15,01               12hear more in the future.
+
+00,01The Master   - 12A former member of ACiD, and presently working with Integrity and
+00,01Mind15           12Spazm/VGA, TMM is one of 214's finest ansi artists, and we are
+15,01               12lucky to have him with us.
+
+00,01Livewire15     00- 12Another form of talent is coding, which is an art in itself, I've
+15,01               12selected Livewire to head the coding dep't,.  He is currently the
+15,01               12mag coder of Stripped Ink, and in the future we'll see some work
+15,01               12from him.
+
+00,01Scimitar15     00- 12Formerly from iCE, SW is working with GOTHiC, Psychosis, and God
+00,01Wraith15         12knows what else these days:)  He is our literature dep't header,
+15,01               12and we look forward to having some work from him put into the
+15,01               12pack.  (call more often, man.. hint, hint).
+
+00,01Solar Sexx   - 12Despite his handle, SS is an ok guy.  Formerly from Australia,
+15,01               12he is currently attending UT and lives in Austin, TX,.  He brings
+15,01               12his PREMiER idea from many months ago, finally able to hook up w/
+15,01               12members to spread his idea.  Good luck.
+
+
+15,01We are able to bring you this pack because of these people and the other members
+15,01in the group, and we (the senior staff) want to extend a special thanks to every
+15,01Integrity/EDGE/PREMiER member in the pack, and the future members to come. THANK
+15,01YOU.  Other personal greets from 214 go out to Destroyer, Hendrik, Zardoz, Exo-
+15,01thermik, Techmaster, Ink, Jack the Ripper, Third Space, Kid Frost, and Sludge...

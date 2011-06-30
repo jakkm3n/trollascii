@@ -1,0 +1,20 @@
+15,01Mind
+15,01Sensation. Expression. Control.
+15,01Parasite of the flesh.
+15,01Controller of its surroundings.
+
+15,01Flesh
+15,01Solid. Interacting. Affecting.
+15,01Changer of the world.
+15,01Pollutant of the stream.
+
+15,01World
+15,01Surrounding. Resulting. Influence.
+15,01Shaper of the mind.
+15,01Cause of all that is.
+
+15,01The self destroying three.
+15,01The end of the cycle the start of it too.
+15,01The endless cycle of decay.
+
+15,01/ Blue Apache : AV Snr \

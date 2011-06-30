@@ -1,0 +1,80 @@
+15,01                         m
+15,01                        m m                                m
+15,01                         "||m             m|m       mmm14,15   15,01"
+15,01                         |14,15 15,01m14,15 15,01|        mm14,15  15,01| 14,15  15,01mmm14,15        
+15,01                          "14,15  15,01" m|mm14,15       15,01 |14,15            15,01|
+15,01                         m  mm14,15  15,01 14,15   15,01|"""14,15  15,01|"""14,15   15,01mm"""""
+15,01                         |14,15      15,01||14,15   15,01  mmm14,15   15,01"m"14,15 15,01m|14,15   15,01"   .
+15,01  --------------------- # 14,15      15,01 14,15    15,01 |14,15     15,01 14,15 15,01m14,15      15,01|  - ------------------
+15,01  ice ice ice ice ice  |m14,15      15,01|m14,15   15,01"m14,15  15,01#14,15  15,01|14,15         15,01  " nfo nfo nfo nfo nfo
+15,01  ---------------- - #||14,15      15,01" #14,15       00,01@14,15  15,01|14,15         15,01 | --------------------
+15,01                      14,15 15,01|"14,15       00,01@15m m"""14,15 #  15,01    #""14,15   15,01  |
+15,01                     |"14,15 15,01m "    m14,15#15,01    mmm14,15 15,01""|   00@15|   "||14,15 
+15,01                     | |""14,15  15,01mm14,15    15,01mm"14,15   15,01mm  mm14,15 # 15,01m m m14,15 15,01|
+15,01                     ||||  m""14,15 15,01  "mm14,15      15,01""""14,15  15,01|"14,15 15,01""14,15 15,01"
+15,01                     14,15 15,01  "m"  ||    14,15    15,01" |mm"""14,15 15,01 mm""
+15,01                    |14,15 15,01|   ""m14,15 15,01|   ||"""mm14,15 15,01     14,15 15,01 | -Sliver.iCE
+15,01                     "        |mm14,15 15,01"     ||     ||
+15,01                              14,15 15,01""        |     |14,15 
+15,01                              |                 |
+15,01                              |                 |
+15,01                                                |
+
+15,01 1.   All iCE members are required to have an account on Sanctuary(tm).
+15,01      The *NEW* number is 305.pro.sanc (776.7262).  Furthermore, it will
+15,01      soon become policy for the artist to maintain the responsiblity
+15,01      for getting his artwork to the board if he/she wants it included
+15,01      within the pack.  A shuttle menu will be added to facilitate the
+15,01      artwork transfer and to reduce the cost for the artists.
+
+15,01 2.   Special thanks go out to Soul Rebel for agonizing over the assembly
+15,01      of this month's pack.  His dedication is appreciated.  Also, thanks
+15,01      to Deeply Disturbed and Sexual Chocolate for their assistance.
+
+15,01 3.   We'd like to extend our sincere apologies to both Stone the Crow
+15,01      and Thor for the unfortunate exclusion of their work from last
+15,01      month's pack.  However, some of the previously omitted work is 
+15,01      featured in this month's pack.
+
+15,01 4.   New to our ANSI division this month are Spirit of Illusion, Lithium,
+15,01      Psyberman, Vanquish, Red Leader, and Animal.  These artists should 
+15,01      prove to be an invaluable addition to the already exceptional team of 
+15,01      iCE ANSI artists.  VGA-wise, please welcome Cheese Grater, ImageSex,
+15,01      and Ink, who designed the interface for Epidemic.
+
+15,01 4.5  We'd also like to make mention of the VGA's done by two of Finland's
+15,01      best, Pixel and Skaven.  They really wanted to see what people thought
+15,01      of their VGA work, so we'll continue to provide our friends at FC
+15,01      the arena in which they can show off their talents.
+
+15,01 5.   Our new coding coordinator, Friar, has been hard at work, and his
+15,01      much anticipated PowerGrid loader, complete with Assembly source
+15,01      code, is included in this month's pack.  Another completed
+15,01      project is Captain Crunch's work on Corruption #4.  New coding
+15,01      recruits include Nightfire and the return of Poskgubbe.
+
+15,01 6.   On the Internet front, iCE has established a private mailing list
+15,01      to facilitate communication between members.  Members who are
+15,01      interested in subscribing to the mailing list may contact
+15,01      egghead@cloud9.net.  A big thanks goes out to Egghead for his
+15,01      hard work in maintaining the list.
+
+15,01 7.   Thor has informed us that he will no longer be able to
+15,01      participate in iCE.  He received an unexpected phone bill in
+15,01      excess of $1000 dollars and has decided to sell his computer to
+15,01      accommodate this debt.  We wish him luck, and hope he will be
+15,01      able to rejoin us soon.
+
+15,01 8.   iCE is losing a valuable senior staff member--one we will not
+15,01      easily be able to replace.  Aphex Twin has recently left for
+15,01      college, and though we are sorry to see him go, we wish him luck!
+15,01      We look forward to his continued tradition of fine ansi art, and we
+15,01      will hopefully be able to bring you some of his new work in the months
+15,01      to come.
+
+15,01 9.   There are a few items unable to be viewed within our MultiView
+15,01      program.. those include the RIPS by MasterKen and Lord Soth, the 
+15,01      PowerGrid Loader/Source by Friar Tuck, and the two .BIN files.
+15,01      Also, make sure to look at the three wonderful .JPG's by ImageSex
+15,01      and Mascot.
+

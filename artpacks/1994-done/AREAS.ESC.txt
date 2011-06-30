@@ -1,0 +1,12 @@
+15,01General         ESCGEN
+15,01The Scene       ESCTS
+15,01Escape          ESCESC
+15,01Programming     ESCPRO
+15,01Debate          ESCDEB
+15,01Sports          ESCSPO
+15,01Ansi            ESCANS
+15,01Internet        ESCINT
+15,01BBS ADS         ESCBBS
+15,01Music           ESCMUS
+15,01Modem Talk      ESCMT
+15,01Software Talk   ESCST

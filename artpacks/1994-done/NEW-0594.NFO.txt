@@ -1,0 +1,80 @@
+15,01       ##
+15,01      #00@14,15#00,01@
+15,01     #00@14,15# #
+15,01    #00@14,15#   
+15,01    00@14,15#00,01@14,15   
+15,01    14,15# #   15,01 "  "" """"""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01    14,15      15,01     14,15     15,01  #00@14,15#      15,01  #00@14,15# 15,01     14,15    #15,01  #00@14,15#      15,01  #00@14,15# 15,01  14,15     
+15,01    14,15      15,01     14,15     15,01 #00@14,15#  15,01|14,15    15,01||00@14,15#  15,01|   |14,15   #15,01||#00@14,15# 15,01|14,15     15,01 #00@14,15#  15,01 |14,15    15,01|
+15,01    14,15      15,01 14,15         15,01 00@14,15#   15,01 14,15     15,01 14,15#    15,01   14,15   #00,01@15 #00@14,15#  15,01 14,15     15,01 00@14,15#   15,01 14,15     
+15,01    14,15      15,01 14,15        #15,01 00@14,15    15,01 |14,15    15,01||14,15    15,01| |14,15  #00,01@15||00@14,15#  15,01| 14,15    #15,01 14,15#         15,01|
+15,01    14,15      15,01     14,15   #00,01@15 14,15     15,01mm14,15    #15,01 14,15     15,01 14,15  #00,01@15# 00@14,15#   15,01  14,15   #00,01@15 14,15     15,01 14,15    #
+15,01    14,15      15,01     14,15  #00,01@15# 14,15     15,01  |14,15  #00,01@15||14,15      #00,01@15#||14,15#   15,01|nb14,15  #00,01@15# 14,15     15,01 |14,15  #00,01@15|
+15,01    14,15      15,01     14,15 #00,01@15#  14,15     15,01   14,15 #00,01@15#  14,15     #00,01@15#  14,15#        #00,01@15#  14,15     15,01  14,15 #00,01@15#   
+15,01 mmm14,15      15,01 m  mm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+15,01  "14,15       15,01                  NewsLetter Issue #2
+15,01    "14,15     
+15,01      "14,15   
+15,01        "14,15 
+15,01  
+15,01Introduction
+15,01        
+15,01        Havok merged with a group by the name of iLLUSiON this month, 
+15,01        they show some pretty good potential and good organization,
+15,01        and should make a nice addition to the group.  We've also 
+15,01        introduced a new ansi editing program written by Techie, but
+15,01        upon the author's request, only an unregistered alpha version 
+15,01        has been included with the pack.  I'd also like to aknowlege
+15,01        that Mr. Corruption, one of the newly gained senior members
+15,01        from the iLLUSiON merge, will be adding to the Newsletter 
+15,01        this month.
+15,01        
+15,01New Members:
+15,01        New members include everyone from iLLUSiON, too numerous to 
+15,01        list.  Just compare the new member list to the old. :)
+15,01        
+15,01Members resigning:
+
+15,01        One resignation has occured this month, Perkman left to join
+15,01        Vi, but apparently was not accepted, so his current affiliations
+15,01        are unknown.
+
+15,01News
+
+15,01        As I said before, Havok is introducing a new ANSi editor,
+15,01        once that supports 3800 lines of editing, surpassing 
+15,01        Thedraw (tm) 100 line limit.  To top it off, it is written
+15,01        in pure Assembler, so the editor is a whopping 7k with
+15,01        the documentation.
+15,01        An Application form generator has been included this month,
+15,01        if you have talent, feel free to apply.
+
+15,01Artwork: 
+
+15,01        In RiP art this month, we have gained a new rip artist from
+15,01        iLLUSiON, Asrael.  So hopefully you will be seeing a lot
+15,01        more rip art from Havok.
+
+15,01        Our VGA department is getting even better with new acquisitions
+15,01        of several artists from iLLUSiON.  Perkman has left Havok, his
+15,01        current whereabouts is unknown.
+
+15,01        Due to some personal problems, The Replicant has only shown
+15,01        one piece of art this month.  Nightbreed showed some outstanding
+15,01        work again, and is continuing to improve his artwork.  The Stalker
+15,01        has rejoined Havok, and shows that his skills have improved 
+15,01        imensly since he left Havok.  Sword Weaver as well had some
+15,01        personal business to attend to, i.e., filling out college 
+15,01        applications, so his artwork is limited this month, but still
+15,01        of terrific quality.
+
+15,01        The Lit department is again very solid, with Zaphod contributing 
+15,01        another large quantities of work, as well as quality.  Destiny
+15,01        has continued to show her originality, improving her style of
+15,01        'colorful' poetry.
+
+15,01Coding:
+
+15,01        As stated before, DarkDraw, the ANSi editor produced by Techie
+15,01        of Havok Enterprises(tm) is complete, and an unregistered beta
+15,01        version is included with this archive.  Also, Techie has improved

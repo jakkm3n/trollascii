@@ -1,0 +1,26 @@
+15,01         
+15,01         14,15          15,01            14,15          
+15,01         14,15   15,01    14,15   15,01            14,15   15,01    14,15   
+15,01         14,15   15,01    14,15   15,01            14,15   15,01    14,15   
+15,01         14,15   15,01    14,15   15,01            14,15   15,01    14,15   
+15,01         14,15   15,01    14,15   15,01            14,15   15,01    14,15   
+15,01         14,15   15,01    14,15   15,01            14,15   15,01    14,15   
+15,01         ##14,15  15,01#  14,15   15,01            14,15   15,01  #14,15  15,01##
+15,01         ###14,15  15,01# 14,15   15,01            14,15   15,01 #14,15  15,01###
+15,01        #####14,15  15,01#14,15   15,01            14,15   15,01#14,15  15,01#####
+15,01      ########14,15     15,01Byssimal    14,15     15,01########Issimulation
+15,01       Serving The Finest In Bullshit Found Anywhere
+15,01        It May Be Slo, But It's Faster Than Yo' Ass
+15,01         
+15,01      [Member] REALiTY Literature Productions [Member]
+15,01         [Member] Creators Of Intense Art [Member]
+15,01        [Member] MiSTiGRiS Art Productions [Member]
+15,01             [MemBer] Evoultion Mag. [Member]
+15,01                 [Distro] RAiD [Distro]
+15,01               [TX HUB] EViL Net [TX HUB]
+15,01                 [HUB] Scream Net [HUB]
+15,01                 [NET] KiTSCH NET [NET]
+15,01                  [NET] RAiD NET [NET]
+15,01      [SysOP] psychoskylark [RLT/CiA/MiST/Evol] [SysOp]
+15,01         [Co'S] Sabatoge, Dark Vengeance [Co'S]
+15,01            1713  -      427     -     9508

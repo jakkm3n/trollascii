@@ -1,0 +1,73 @@
+
+15,01         12mm14,12    12,01mm
+15,01      12mm14,12           12,01mmm15                12mmm02m
+02,01    12m14,12                  12,01|15            12m14,12  #02,01@12#14,02 02,01m
+02,01   12|14,12       12,01" ""14,12         15,01            12"14,12 #02,01@12#14,02  02,01"
+02,01   14,12        15,01     12"14,12     12,01"15               02""""
+02,01  12|14,12       12,01|
+12,01  |14,12       15,01            12mmm14,12  12,01m mmm14,12    12,01|mmm14,12  12,01m  m14,12   12,01m   m14,12   #02,01@12#02m m14,02    02,01m
+02,01  14,12       12,01|15          14,12                 12,01|14,12      12,01|14,12           #02,01@12#14,02          
+02,01  14,12       #12,01   02mm14,02     02,01mm12"14,12      12,01""14,12       12,01|14,12     12,01|14,12      12,01"""14,12 #02,01@12#14,02  02,01"14,02        
+02,01  14,12      #02,01@12| 02"14,02          02,01m12|14,12   12,01|   "14,12    12,01"|14,12   #12,01| |14,12    12,01|   02|@12#14,02  02,01|  14,02      
+02,01  12|14,12    #02,01@12#14,02 15,01     02""14,02       12,01|14,12  15,01           14,12  #02,01@12   14,12    15,01     12#14,02   02,01   |14,02     
+02,01  12|14,12   #02,01@12#14,02  02,01m15       14,02       12,01|14,12 15,01           14,12 #02,01@12#   14,12    15,01     14,02    02,01   |14,02    
+02,01   14,12  #02,01@12#14,02    02,01m    m14,02        12,01|14,12#02,01m15         12m14,12#02,01@12#14,02 02,01m 12m14,12    12,01m   02m14,02    02,01m  |14,02    
+02,01    14,12#02,01@12#14,02                   12,01|02@12#02|15       12|14,12#02,01@12#14,02   02,01|14,12     #02,01| |14,02      02,01| |14,02    
+15,01     02"14,02                   12,01|02@12#14,02  15,01       14,12#02,01@12#14,02     12,01|14,12   #02,01@12# 14,02        02,01  14,02    
+15,01       02"14,02               02,01"12|02@12#14,02   15,01      14,12#02,01@12#14,02      12,01|14,12  #02,01@12#14,02 02,01 14,02        02,01  14,02    02,01|
+15,01          02""14,02        02,01" 12"14,12 02,01@12#14,02   02,01"15      02""14,02      02,01"14,12  #02,01@12#14,02 02,01" "14,02      02,01"  |14,02   12,01#02m
+15,01                                                                14,02  12,01#02@14,12# 12,01mm
+15,01         12.. 02Gr12ou11p of Revolutionary and Innovative MultiM12ed02ia 12..  #02@14,12#     12,01mmm
+15,01                                                                 02"14,12#          12,01m
+15,01                                                                   12"14,12           
+15,01                                                                      12""14,12      12,01"
+15,01                                                      14F02f12ejTable?14[12GR02i12M14]
+
+02,01m------------------------------------------------------------------------------m
+14,02 15,01                        12GR11i12M NEWS - August 1st, 199415                          14,02 
+02,01"------------------------------------------------------------------------------"
+
+02,01    11Welcome to the first GRiM pack.  Contained in this package you will find
+11,01 artwork and literate from various individuals.  The artwork isnt ACiD quality
+11,01 so if thats what you are looking for, go get the fucking ACiD pack.  If you
+11,01 picked up this pack cause you were interested in what it would be like, well
+11,01 then I say thank you.  Let me tell you a little about our group.
+
+02,01GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M
+
+02,01    11GRiM is a no-bullshit, no politics group.  We give our members the freedom
+11,01 to do what the hell they want, when the hell they want to do it.  We won't
+11,01 take part in any of the ragging often seen in the art world, thats a lot of
+11,01 bullshit I can do without, we are in this for the fun of it, not to become
+11,01 cool or popular to people we dont know and will never meet.  So if you think
+11,01 our pack sucks, you are probably right, beauty is in the eye of the beholder
+11,01 afterall.  And you have to take into consideration how long some of the
+11,01 artists in GRiM have been drawing, compared to the better groups.  The bottom
+11,01 line is that GRiM is here to stay, as long as somebody is around to
+11,01 contribute something.
+
+02,01GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M
+
+02,01    11If you are an artist and are interested in becoming part of a mature
+11,01 group, and help a worthy cause, by all means, stop sitting there reading this
+11,01 and go fill out the application! (I apologize for not having an application
+11,01 generator completed, I was working on the viewer all month).
+
+02,01GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M
+
+02,01    11If you are a Sysop of a BBS that would like to become an official
+11,01 distrobution site for GRiM, an application for you is also included.  We
+11,01 are looking for systems that meet specific quality criteria.  We are
+11,01 limiting ourselves to one distrobution site per area code, but there are
+11,01 always exceptions to every rule.
+
+02,01GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M
+
+02,01    11Finally, I would like to inform you about GRiMNet, the official GRiM
+11,01 and Ffejware! support network.  This network is NOT limited to distrobution
+11,01 sites only.  Please refer to the GRIMN001.ZIP package for details on
+11,01 applying.
+
+02,01GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M GR11i02M
+15,01 SAUCE+#GRiM News Bulletin 8/94            GRiM                                 
+15,01                                                 

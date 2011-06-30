@@ -1,0 +1,80 @@
+15,01###############################################################################
+15,01# iCEView configuration file
+15,01# Written by Friar Tuck.iCE
+15,01#
+15,01# A lot of this is for functions not implemented in the prerelease.
+15,01# These have been disabled. Look for a full-fledged viewer soon.
+15,01#
+15,01# Valid Modes: TEXT25,TEXT50,VGA320,SVGA640,SVGA800,SVGA1024
+15,01# *** not implemented
+15,01DefaultMode=VGA320
+
+15,01# Bad video modes. Don't use these.
+15,01# *** not implemented
+15,01BadMode=SVGA400
+
+15,01#
+15,01# Some variable defaults
+15,01#
+15,01# This makes the smooth scrolling portion automatically start down.
+15,01AutoScroll=YES
+
+15,01# This enables/disables the smooth scroller. If disabled, uses ANIM parser.
+15,01SmoothScroll=YES
+
+15,01# This includes iCECOLOR support.
+15,01IceColor=YES
+
+15,01# This makes the menu automagically track extension type.
+15,01TrackType=NO
+
+15,01# This is for Tseng ET4000 vidcards. NOTICE it completely disables VGAW.
+15,01VGABugFix=NO
+
+15,01# This controls the debug window and pause.
+15,01DebugMode=NO
+
+15,01# This turns off alphabetizing the list, as well as the letter hotkeys.
+15,01Alphabetize=YES
+
+15,01# Turn off if it's gonna take six weeks to run SAUCE.
+15,01SAUCEDetect=YES
+
+15,01# You feel like gambling?
+15,01DeleteConfirm=YES
+
+15,01# Virus check all .EXEs?
+15,01CRCCheck=YES
+
+15,01# Allow swap to EMS?
+15,01EMS_Swap=YES
+
+15,01#
+15,01# Types of files: RIP,ANSI,ANIM,GIF,JPEG,PCX
+15,01#
+15,01Extension=.ICE,ANSI
+15,01Extension=.MEM,ANSI
+15,01Extension=.NFO,ANSI
+15,01Extension=.ANS,ANSI
+15,01Extension=.DOC,ANSI
+15,01Extension=.ASC,ANSI
+15,01Extension=.SIT,ANSI
+15,01Extension=.STS,ANSI
+
+15,01#
+15,01# Filename for Description File
+15,01DescriptFile=*.DSC
+
+15,01#
+15,01# Backup if no COMSPEC environment variable found (for DOS shell)
+15,01ComSpec=C:\DOS\COMMAND.COM
+
+15,01#
+15,01# File patterns to exclude from file list. Uses UNIX wildcards.
+15,01# Does not affect DIR or DRIVE list.
+
+15,01# Exclude iCEView, ACiDView, etc.
+15,01Exclude=*VIEW*EXE*
+
+15,01# Exclude KV.EXE, TV.EXE, XV.EXE etc.
+15,01Exclude=?V*EXE

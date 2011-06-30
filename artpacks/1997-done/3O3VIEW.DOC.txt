@@ -1,0 +1,80 @@
+15,01===============================================================================
+15,01 .     .. . .    .  .  6$$$n$Ss.  .. .   . .  6$$$n$Ss.   . ..    .   . .    .
+15,01-----------------------n"^'- $$$b--sS$n"n$Ss.-n"^'- `$$b-----------------------
+15,01####################### .. %$$$$$#$$$' # `$$$ ### $#$$$$ ######################
+15,01-----------------------.sSp -$$$'-$$$b---d$$$-.sSp- a$$P--[PRODUCTiONS]----[97]
+15,01.   . . . .        .   n$$6.d$n' . n$$SsS$$n..n$$6.S$n'  ..       .  . .      .
+15,01===============================================================================
+
+
+15,01                           3o3 ANSI VIEWER v1.1 B
+15,01                      (compiled at least on 04/11/97)
+
+15,01                              * QUICK MANUAL *
+
+
+15,01==> INSTALLATION <============================================================
+
+15,01  1) Copy all files into a directory of your choice.
+
+15,01  2) Add the directory with the files to your systempath (important).
+
+15,01  3) Now edit the 3o3VIEW.INI (especially the Sound section).
+
+
+
+15,01==> INFO TO THE 3o3VIEW.INI <=================================================
+
+15,01  The INI file is the main configuration file of the Ansi-Viewer.
+15,01  So I've divided it into three section: SOUND, STARTUP and SCROLLVIEW.
+
+15,01  The most important section is SOUND. Here you must configure the
+15,01  programm to the soundcard that you use. So I'll only explain you what
+15,01  you've to configure in this section and what you can do with it.
+
+15,01  The other sections can be experienced by yourself.
+
+15,01  # SoundCard       : This option let's you choose which Soundcard you has
+15,01                      installed into your system. Please look at the
+15,01                      script below this chapture to get the information what
+15,01                      you has to enter here.
+
+15,01  # BaseAddress     : Hmmm, thinkI must'nt tell you to much about this
+15,01                      option. Just the base - address that your soundcard
+15,01                      uses. Look at the script below for a summary of the
+15,01                      valid addresses.
+
+15,01  # IRQ             : This is is the IRQ that you soundcard uses.
+15,01                      Look at the script below for a summary of the valid
+15,01                      entries.
+
+15,01  # DMA             : Just like the IRQ.
+
+15,01  # Surround        : Here you can decide if you sound - card supports
+15,01                      surround-sound or not.
+15,01                      Enter here ' ON ' if yes and  ' OFF ' when not.
+
+15,01  # VideoMode       : This is a imortant option cause it's needed for the
+15,01                      pollmix - routine. You've to enter here if your
+15,01                      monitor operates in NTSC or PAL mode.
+
+15,01                      The pollmix - routine is used when you scroll the
+15,01                      Ansi on the screen. Every time when the screen
+15,01                      begins to be refreshed the music routine be
+15,01                      called.
+
+15,01  # Gain            : Here you can decide the volume gain. Just look at
+15,01                      the script below for a summary of the valid ranges.
+
+15,01  # Rate            : The Sampling Rate will define the quality of the
+15,01                      sound replay. Look at the script below for the
+15,01                      valid ranges.
+
+15,01  # UseDAT          : Let's you decide to use the internal soundfile or
+15,01                      no. If you don't uses the file you've to specify
+15,01                      your own soundfile at the option "ModuleUse".
+15,01                      Valid options are: YES and NO
+
+15,01  # ModuleSelect    : Here you can select in which way the music will be
+15,01                      selected. The internal soundfile contains four
+15,01                      modules. You can select them direct or per random.

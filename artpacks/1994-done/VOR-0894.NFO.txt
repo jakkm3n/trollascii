@@ -1,0 +1,80 @@
+15,01          11.# Visions 10of Reality Information Packe11t
+15,01          11.# August 10Pack, Nineteen Nighty-Four
+
+15,01        14He11re, once a10gain, is the Visions of Reali11ty pack.  T14he Visions
+14,01of Reality 11pack is a 10representative of the artwor11k that has 14been made
+14,01as adverti11sements fo10r boards by Visions of Realit11y members.  14The pack
+14,01has been g11oing out m10onthly, ever since fall of '9113.  The pac14k is only
+14,01a represet11ative of t10he artwork that has been used 11as adverti14sements,
+14,01and all wo11rk by arti10sts may or may not be include11d.  Now, fo14r a few
+14,01tidbits of 11what has 10gone on in the group recently11:
+
+15,01        14# 11Late last 10month (that would be June), s11everal memb14ers of the
+14,01former LIG11HT came ov10er to VOR.  Technically this 11was not a m14erge,
+14,01although, 11around 9 m10embers have come over from th11e former LI14GHT.  We
+14,01did merge 11with a gro10up last month, but the detail11s were very 14sketchy
+14,01at the tim11e, for it 10happened at the very end of t11he month.  14This group
+14,01was iLLEGA11L F/X (iFX10), another local group in our 11area consi14sting of
+14,01very good 11artists.  10A rundown of who joined each 11indivual se14ction, can
+14,01be found l11ater in th10is file.  Raistlin Majere (no11, not the i14CE one, <g>)
+14,01from the a11rea code 61015 has also joined VOR.  He w11ill be doin14g VGA Artwork,
+14,01RIP Artwor11k, and ANS10I logos.
+
+15,01        14# 11Under the 10iFX merger, the member system 11of VOR has 14changed.
+14,01Shadowdanc11er was to 10represent iFX as a VOR leader 11and I was 14to be the
+14,01other VOR 11leader.  A10fter some thinking, it was de11cided that 14having two
+14,01leaders wi11th a senio10r council under them of three 11people wou14ld not
+14,01work, due 11to some se10rious split decisions that co11uld occour 14due to a
+14,011-1 disput11e between 10the two 'leaders'.  The syste11m was chang14ed due to
+14,01this, and 11VOR has no10w has no 'Leader', but instea11d, the coun14cil was
+14,01expanded t11o include 10myself (Widow Maker), Shadowd11ancer, Holl14ow Point,
+14,01and Venom.  11Then we 10got to thinking again.  A fou11r member co14uncil that
+14,01would vote 11on all de10cisions could still cause spl11it decision14s (2-2).
+14,01The next s11tep was to 10add another member into the 11council.  I14t was
+14,01unaminousl11y voted in 10as the only 4-member council 11vote of VO14R to let
+14,01Ace of Nor11thwall, RA10W Head (VOR Music), into the 11council to 14represent
+14,01the music.
+
+14,01    Specif11ics:
+
+15,01        14# 11As you pro10bably figured out before, pri11or to the m14erge with
+14,01iFX, and t11he additio10n of members from the former 11LIGHT, our 14ANSI
+14,01section wa11s quite we10ak.  Hollow Point was our str11ongest arti14st, and he
+14,01would coug11h out thre10e or four ansis to go into a 11pack that w14ould
+14,01appear to 11boost the 10ANSI section, while Tommy Lee11, Starbuck, 14and the
+14,01occasional 11ANSI by D10ark Wolf, Asterix, or other m11ulti-talent14ed people
+14,01put in a f11ew ANSIs.  10Before, we could honestly no11t AFFORD qu14ality
+14,01control in 11the ANSI 10section, and sometimes, an AN11SI was put 14into the
+14,01pack that 11was not th10e greatest.  Now, we have the 11addition o14f Lord
+14,01Scarlet, S11ilver Rat, 10Forego, Murcurochrome, Scyth11e, Thunderh14awk, and
+14,01Shattersta11r, as well 10as logos by Raistlin Majere.  11This shou14ld greatly
+14,01help the s11ize of the 10ANSI section, and should all11ow us to ha14ve some
+14,01quality co11ntrol on w10hat goes into the pack.  Welc11ome to all 14of the new
+14,01ANSI artis11ts.
+
+15,01        14# 11In the VGA 10division, a few members were 11added to s14ection.
+14,01The VGA se11ction, tho10ugh small, is probably still 11our stronge14st
+14,01section.  11It had alr10eady included Venom, Dark Wol11f, Muttonhe14ad, and
+14,01myself, bu11t now woul10d have Chaos, Fat Ass, Pluto, 11Shadowdanc14er,
+14,01Calypso, a11nd Ackman 10added to it.
+
+15,01        14# 11Due to the 10merge, a minor change was in11flicted in 14the Coding
+14,01Division.  11Sinister 10Outlaw is now the Coding Head 11of the Cod14ing
+14,01section.  11The coding 10section previously including 11only Aster14ix and
+14,01Lief O'Par11dy as main 10coders (with additional help 11from Dark 14Wolf) was
+14,01expanded t11o include 10Lord X, Warveth Windrose, Plu11to, Thunder14hawk, and
+14,01Sinister O11utlaw.  In 10Coding news, Illuminate, our 11viewer, ha14s been
+14,01severly up11dated to i10nclude SVGA modes of viewing, 11RIP suppor14t,
+14,01documentat11ion, and a 10few cosmetic changes.
+
+15,01        14# 11The lit se10ction gained a few members as 11well.  The 14lit
+14,01section, h11eaded by A10rturius Pendragon, includes t11he old memb14ers
+14,01(Apothecar11y, Felyne, 10Alexa), as well as Murcuroch11rome, Grey 14Mouser, and
+14,01Ralgoth.
+
+15,01        14# 11We are sta10rting a RIP division.  It is 11headed by R14aistlin
+14,01Majere, an11d Shatters10tar & Silverrat are experimen11ting with R14IP.  We
+14,01would real11ly appreci10ate RIP artists if you wish t11o apply.
+
+15,01        14# 11Our courie10r section is VERY weak, and w11e are still 14looking
+14,01for courie11rs.  We su10pposedly have a group courier11ing for us, 14but we

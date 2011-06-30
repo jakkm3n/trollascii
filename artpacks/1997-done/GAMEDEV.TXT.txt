@@ -1,0 +1,80 @@
+15,01 +------------------------------------------------------------------------+
+15,01 |                Synthetic 3D Game Development Information               |
+15,01 +------------------------------------------------------------------------+
+
+15,01  Ok, Hey ppl.  Well I would just like to notify you'se that Synthetic is
+15,01  realeasing a game (Yes a GAME!).  The release date is unknown at the
+15,01  moment, becuase it is still in its very starting stage of production. At
+15,01  the moment We have one other 3D/Logo artist other then myself working on
+15,01  it and this is no way near enuf.
+
+15,01  Also if any other art groups want to get involved you are welcome, you
+15,01  just have to contribute like the rest of us, so if this is wanted we can
+15,01  make a joint production.  But if we find the work not up to scratch or
+15,01  not at all, we wont hesitate to flick the switch on the joint pro.
+
+15,01  ------------------------------------------------------------------------
+15,01  |What I'am looking for and the qualifications are not REALLY needed but|
+15,01  |are fairly common in developement of gfx and other departments so if u|
+15,01  |have ne other good qaulifications just email me (Ataxia) or Syd Waters|
+15,01  ------------------------------------------------------------------------
+15,01  Artists:
+15,01  --------
+
+15,01  3D artists capable of high quality 3d art.  Must have experience in 3D
+15,01  art and be able to produce a fair amount of gfx in a certain time(we
+15,01  will have dead lines). Also would be good if artist could animate
+15,01  realistic anims, but not neccesary
+
+15,01  If you want a doc on how to model and animate realistic humans
+
+15,01  Email Me (Ataxia) on Mur Systems or Decay
+
+15,01  Logo artists must have exp in high end programs, such as ps4 and
+15,01  painter/sketcher programs to produce intro screens and still images
+15,01  throughout the game.
+
+
+15,01  Coders:
+15,01  -------
+15,01  Coders in various formats such as pascal, asm, c++ or any other format
+15,01  is acceptable, must be fairly experienced in coding, as you know making
+15,01  a game is not childs play.  Also we will need to have some coders with
+15,01  axs to jpeg decompression routines as well as .midi, .wav, .mpeg, .voc,
+15,01  .mod(s3m etc.) and some 3d routines.  Also picture changing routines
+15,01  like fade, merge, fadeinto and other vga changing routines.
+
+
+15,01  Sound Artists:
+15,01  --------------
+15,01  No quals really neccesary just being able to produce stereo 44 khz
+15,01  sounds that are preety realistic and good, also special effects and
+15,01  stuff.
+
+
+15,01  Music Artist:
+15,01  -------------
+15,01  No quals really neccesary just being able to produce good mods that are
+15,01  good and playwell . Techno/Fast PUMPING STEREO and GRUNGE(ick :>) but
+15,01  mostly FAST HITTING TECHNO and scary eery stereo channeling songs.
+
+
+15,01  Game Designers:
+15,01  ---------------
+15,01  Nothing much really, maybe some doom wads or nukem wads but other than
+15,01  that just maybe some vgaz of level/game/character designs. It doesnt need
+15,01  any qualifications just imagination.  The vgaz dont have to be very good,
+15,01  just explanitive pictures and good ideas.
+
+15,01  Email Me (Ataxia) & Syd Waters at either Mur Systems or Decay BBS and also
+15,01  upload 2 examples of your work such as 2 pictures/.exe's/mods/sounds/designs
+15,01  and specify the name of the files and in what conf you upped in the
+15,01  email and nething u find neccesary.
+
+15,01  +--------------------------------------------------------------------------+
+15,01  |                   So Far, in the developers room . . .                   |
+15,01  +--------------------------------------------------------------------------+
+
+15,01  So far I have some vgaz, and so does Syd.  As for the game layout we
+15,01  think (Huh so developers do have a brain :>) that is should be a layout
+15,01  as such.  You use the mouse to aim and the controls to move, or you use

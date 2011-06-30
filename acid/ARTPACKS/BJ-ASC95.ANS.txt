@@ -1,0 +1,65 @@
+15,01$S@g,,._           ___      , ** ,,gg@P'' ,gg@@SS$S@g , ,_                     ,
+15,01`Y$$$$$SSlllS',g@S$$$S@g ,dP"` 'l$$P''d$$$P;ilS$$$$P',d$$S, `Yb, @gg,,,ggg@@S$$$
+15,01lb,_`''i;; ;i dP"` ` ` ,d$$@@b, ,Yb,;iS$$$SlS$$$$$$$,d$$$$$$b`Y$ lSS$$$$$PPPnn"_
+15,01'nYS@gg,,_ ,  ' g@$$$Sb, `nY$@bml Y$$$$$$$$$$$$P"^;illSS$$`Yl; l ;ll$$$gg@@SPP''
+15,01      ```~S$,  '`'`Y`Y$$$bg,`nY$$bl$P'`'' ,,gg@**$$$$$llS; ;iillb, ''``,,___
+15,01   ,,,  +++ (      `$bnYnY$SSg, Y$'Y$liilSP ,gg'**$$$$$$$$$$P'gg@' nn gg  `nYb,
+15,01'           ;  n`   `$g,_ ` $$b ,n `Y$$SP;iP' ,;;i$$P$$P'". _ _     _,,gg@@,  `Y
+15,01      ''''`      , ' .`n **  , **b,. mg$;dP    `  'n'` '    ;        `Y$$$$;   `
+15,01          ,;     ;   ~~          .,    ,ibg,_ _ ,_       n* '  l  ;   ;$$$l   `;
+15,01     ''  ,    ;   `                ' `;;ilS$$$$$$b,  ; _`''  ,d;  l; ,l$$$;
+15,01       '       b,_  ,  *            ''  ``''YY$$$$$,l$$$S@@S$$P',d$$ ,d$$$',
+15,01                ;                 ,,,;;iiii;;,,``'' ;;il$$$$$$$S$$@@S$ $$P ;b
+15,01  ;                  .     ''   ;; iiiSS$$$$$SSlllig, '`'Y$$$$$$$$PllSS$$; l$$,
+15,01                 .    ;      , ;; ;;iillSSSs&&$$$lll;; **, ,``__,,_Y$$$$P ;$$$$l
+15,01                  ;   l'~  ,  ,;`nnYY@@S$$$$$$llii;,g@@@gP;i`$$$$$$S@b,' d$$$$$$
+15,01                         gg@S@g,`''  ** ,,``` , **,gS$$P  ;i Y$$$$$$$$$."Y$$PnY$
+15,01                        '`""nYY$$$$S@gg,_ ,;iill$$$P''`  ;;i ;S$$$$$$$$; ;$$ ,dP
+15,01                 ;      `*g,_`'nYY$$$$YY$$$$$$$$P',-- ',gdl'd$$S$$$$$$$'d$$P ,d$
+15,01                 ;      .   `'d$lSSli;,`'Y$$$$$S$$$$$$$$$b`YSSllSS$$$P'd$P';,$$$
+15,01                 l     ;   ,g@S$$$$SSllilSS$$$$$$$$$$$$$$$; Y  ;',d$P d$P P P$$$
+15,01                  Y    ;  gd',`YPnY$$$$$SSYYYS$$$$P'nY',`$l ,Y$S$$P',d$$$P P P l
+15,01                   l    `   ;$  'd ""~~````````~~" b',d, `Y, ,g$P g@$P'' '   P l
+15,01                     ;   `b Y$$,d$n, dg ,,  ,, gb n$b$$P ' l g$ ,d4PP ';; ,,;ill
+15,01                  _,,, ,    b,`' `_,,g@d$S@@SS$$@SS@@$$' g ,, ',dP' gg,,;$illlS$
+15,01            ,,  ,;;ii '       `; Y$P`.;i$$$$$i;``'nYYn'    ,gg g    gg@@S$$$$$PP
+15,01   __,,,__,dlib, `Y                   'nnYYYnn'` `  _ _ ,,$P'      g**@@$$P''',$
+15,01;;iill$lllllii;;b, `   * b,                                   , , +        ,d$$$
+15,01lllSS$llliii;; '                      . ,,--- - , , _ +  '``     ,gg@@$$PPnn"" ~
+15,01SS$$ll P P          , __ ,,gg ** ,__,;                        .       black jac
+15,01SSlliiii; ;,         ;;;;;;'''  ``                             ;      minotaur
+15,01llii;;;'                                        '            ;;'         ____ ,*
+15,01iii;;;                                          ,    `;       `;, ,;;;;iiilll ll
+15,01;;;            .                   ,   ' ,  ,d'     _+    ''';;iillSS$$$$$illl l
+15,01 ;;;            )             ,g '  ;  ,P ,dP'  .' ,  g,_ ,;;ilSSSSSS$$$liiii;;;
+15,01            , (            ,,;; ''  gg$$,d$$b ;;' . , `nnYlliillS$$$$$$llii;;;;;
+15,01     ,,i;;' '       ;;;iillSS$$$lll SS$$$$$Sllii ; .'';;;;iiilllSSS$$$$$lii;;;$$
+15,01;;; ;iiiill,    ,;;,,,;iilllSSS$lii;;illSSS$S;; `b, ,;;;iillllSSS$$$$$$$$$$$$$$$
+15,01;;;iillllSSSSSSS$$$$$$$$$$$$$$$$SSSllSS$$SSlliii;;  ;;iiillSSSS$$$$$$$$llliii;;;
+15,01 ;;;iilllSS$$$$$$$$$$$$$$$$$$$$$$$$$S$$$$SSllllli;  ,,;;iilS$$$$$$$$$$$$$$$$$$$$
+15,01  ;;iilSSSSSP"'nY$$$$$$$$$$,`Y$$b`~"nY$$$$$$SSlllliillSS$$$$$$$$$$$$$$$$$$$$$ii;
+15,01;ilSSSSS$$$$g@S  ,*`'Y$PnnY$$Pnn$b   ,$$$$$$$$$$$llSSlllSSS$$$$$$$$$$$$$$$$$$$$$
+15,01;;SS$$$$$$$$$$P  l$b, ' @  `$b      g'l$$$$$$$$$$$$SSSSllSSS$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$$P    Y$$$b,_ , '   l;     Y$$$$$$$$$$$$$S$$$lS$$$$$$$$$$$$$$$$$$$$$
+15,01$$$$$$$$$$$$P  ,g@S$$$$$$$$g,,gd$b, ,g@S$$$$$$$$$$$$$$$$S$$$lSSS$$$$$$$$$$$$$$$$
+15,01--------------------------------------------------------------------------------
+
+15,01hi, this looks kinda weird.. and well .. so was the pic I got it from, so its
+15,01all good. another thing.  I haven't drawn in 4 months so I'm a bit rusty.. my
+15,01next pic should be better... btw, thats actually a font, that says TOIL.. :)
+
+15,01anyhow, i produced.. and thats the important thing.. ;)
+
+15,01Heres a quote from #ascii (kaes ) :
+
+
+15,01 <kaes> bg - but what im shouting is, who CARES what fucking group you are in,
+15,01  if you are cool to talk to and shit, then everythings cool. you can suck, but
+15,01  if you have a cool personality online, thats great.. thats like the rich and
+15,01  the poor and the middle class. the rich have nothing to do with the lower
+15,01  classes, and thats wrong as fuck. you know?..
+
+15,01Black Jack
+15,01--------------------------------------------------------------------------------
+15,01>>SAUCE00Toil                               Black Jack          REMORSE         
+15,01    199712 5-<  @@P v                             

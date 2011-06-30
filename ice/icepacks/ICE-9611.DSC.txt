@@ -1,0 +1,55 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 9/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+
+15,01ice-9611.nfo,ANSI,iCE - Nov. 1996 Info,iCE staff
+15,01ice-9611.mem,IDF,iCE - Nov. 1996 Memberlist,iCE staff
+15,01ice-9611.sit,ANSI,iCE - Nov. 1996 Sites,iCE staff
+15,01-ansi---.---,ANSI,,
+15,01ass-gs2.bin,BIN,Grimscum 2,Soul Assassin
+15,01az-promo.ice,ANSI,iCE Advertisements,Azrael
+15,01bv-fail1.ice,ANSI,Failed Illusions,Black Viper
+15,01bv-thur1.ice,ANSI,Black Thursday,Black Viper
+15,01cu-dv0.ice,ANSI,Disembodied Voices,Cold and Ugly
+15,01jk-fail.ice,ANSI,Failed Illusions,Joker
+15,01ka-666.ice,ANSI,Route 666,Kadaver
+15,01kp-kaoz.ice,ANSI,Kaoz,Kyp
+15,01ti-poo!.ice,ANSI,Poo!,Trip
+15,01us-fl1.ice,ANSI,,CU/SP
+15,01us-flat.ice,ANSI,Flatscan,TI/KA
+15,01us-ice1.ice,ANSI,iCE Advertisements,WY/TE/CU/CP
+15,01us-nyu.ice,ANSI,NYU Sucks,CU/LS/KA
+15,01us-sd.ice,ANSI,Snake's Domain,KA/SR/KZ
+15,01-logo---.---,ANSI,,
+15,01ax-1yr.ice,ANSI,1 Year Anniversary Logos,Apox
+15,01ma-lgo02.ice,ANSI,Logo Colly,Mass Murderer
+15,01nd-logo1.ice,ANSI,Logo Colly,Noodles
+15,01us-fc4.ice,ANSI,Free Coke,MA/AX
+15,01-rip----.---,ANSI,,
+15,01prm-ice1.rip,RIP,iCE Advertisements,Prizm
+15,01tw-ice!.rip,RIP,iCE Advertisements,Twitch
+15,01tw-sig!.rip,RIP,Twitch,Twitch
+15,01-vga----.---,ANSI,,
+15,01an-elf2.jpg,EXTERNAL,Elf,Anarchy
+15,01an-fairy.jpg,EXTERNAL,Fairy,Anarchy
+15,01at-hybrd.jpg,EXTERNAL,Hybrid,the Aphid of Twix
+15,01at-kfmf1.jpg,EXTERNAL,KFMF,the Aphid of Twix
+15,01at-mcro.jpg,EXTERNAL,Micro,the Aphid of Twix
+15,01at-nower.jpg,EXTERNAL,Nowhere,the Aphid of Twix
+15,01at-sloth.jpg,EXTERNAL,Sloth,the Aphid of Twix
+15,01at-yelo.jpg,EXTERNAL,Yelo,the Aphid of Twix
+15,01ja-bldg1.jpg,EXTERNAL,Church,Jae
+15,01l0-mstpc.jpg,EXTERNAL,,Leg0blox
+15,01ls-ice1.jpg,EXTERNAL,iCE Advertisements,Lord Soth
+15,01mt-illum.jpg,EXTERNAL,Vale of Illumination,Mantis
+15,01mt-rls.jpg,EXTERNAL,Release,Mantis
+15,01nx-cats.jpg,EXTERNAL,Acid Cats,Nixus
+15,01nx-dirty.jpg,EXTERNAL,Dirty Love,Nixus
+15,01nx-fish.jpg,EXTERNAL,Fish,Nixus
+15,01rb-fork2.jpg,EXTERNAL,Forker Attack,Renderbrandt
+15,01rb-mcha4.jpg,EXTERNAL,,Renderbrandt
+15,01rb-sunf1.jpg,EXTERNAL,,Renderbrandt
+15,01sh-jazz.jpg,EXTERNAL,Blue Note,Shiva
+15,01sk-gthic.jpg,EXTERNAL,Gothic,Sprite
+15,01file_id.diz,ANSI,,

@@ -1,0 +1,29 @@
+15,01                 00Waterfall
+
+15,01                 00The leaves are nearly all down;
+15,01                 00or brown, at least,
+15,01                 00a rust mosaic of dirt
+15,01                 00and decay covers the land.
+
+15,01                 00The bay is wind-whipped
+15,01                 00and dark, empty of boats,
+15,01                 00stark in the grim twilight
+15,01                 00of fall. On the shore,
+
+15,01                 00in the stall of wind caused
+15,01                 00by an outcrop of rock,
+15,01                 00we stop beneath
+15,01                 00the banded sky,
+
+15,01                 00your hand in mine,
+15,01                 00finding that nothing
+15,01                 00defines gravity like a waterfall.
+15,01                 00We turn to the sky,
+
+15,01                 00the clouds are thin and high,
+15,01                 00and the weather grows colder.
+
+15,01                                        10F11l14ux   11.10:14I10:11.   14BL/10+14DE.Lit
+
+15,01>SAUCE00'Waterfall'                        Flux                Blade Productions
+15,01   19941129+14,15@15,01  @@P v                             

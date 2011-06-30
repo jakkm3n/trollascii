@@ -1,0 +1,80 @@
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 =-. | D |                                                           | D | .-=
+15,01 =-. | A |              Digital Artists of the Rare Kind             | A | .-=
+15,01 =-. | P |                                                           | P | .-=
+15,01 =-. | K |                                                           | K | .-=
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 Revision 1.01         DiSTRiBUTiON SiTE APPLiCATiON FORM           April 1994
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 Please look over the application BEFORE filling it out.
+
+15,01 [ BBS Information       ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                       |
+15,01 | BBS Name              | >
+15,01 | BBS Location          | >
+15,01 | Number of Nodes       | >
+15,01 | Phone Numbers         | Node1 (a/c)pre-stuff   Node2 (a/c)pre-stuff
+15,01 | +>Add more if needed  | Node3 (a/c)pre-stuff   Node4 (a/c)pre-stuff          
+15,01                                                             
+15,01 | BBS Program used      | >
+15,01 | Maximum Baud Rate     | >
+15,01 | Minimum Baud Rate     | > 
+15,01 | New User Password     | > 
+15,01 | Number of Users       | >
+15,01 | Number of LD users    | >
+15,01 | Number of Conferences | >
+15,01 | Conference Names      | >
+15,01 |                       |
+15,01 | Sytem Staff           | SysOp  1:                SysOp 2 :
+15,01 | +>Add more if needed  | Co-Sys 1:                Co-Sys2 :
+15,01 |                       | File    :                SysOp   :
+15,01 |                       | ANSi    :                Onliners:               
+15,01 |                       | Other   :                Other   :
+15,01 |                       |
+15,01 | Pirate or PD?         | >
+15,01 | Age of BBS            | >
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 [File Base Information  ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                       |
+15,01 | Number of Drives      | >
+15,01 | Maximum HD space      | >
+15,01 | Number of File Bases  | >
+15,01 | Most Common File Types| >
+15,01 | List Files Bases      | 1)                     2)
+15,01 | +>Add more if needed  | 3)                     4)
+15,01 |                       | 5)                     6)
+15,01 |                       | 7)                     8)
+15,01 |                       | 9)                    10)
+15,01 |                       |11)                    12)
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 [Message Information    ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                       |
+15,01 | Number of MSG Bases   | >
+15,01 | # of NetMail Bases    | >
+15,01 | HUB Name & Number     | >                      (a/c)pre-stuff
+15,01 | LD Nets?              | Yes[ ]  No [ ]
+15,01 | List NETs             | 1)                     2)
+15,01 | +>Add more if needed  | 3)                     4)
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 [Other Site Information ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                       |
+15,01 | # Of Groups Supproted | >
+15,01 | List Groups           |
+15,01 | +>Add more if needed  | 1)                     2)
+15,01 |                       | 3)                     4)
+15,01 |                       | 5)                     6)
+15,01 |                       |
+15,01 ==-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-==
+
+15,01 [Other information      ]=-===-===-===-===-===-===-===-===-===-===-===-===-==
+15,01 |                        
+15,01 |>                       
+15,01 |>
+15,01 |>
+15,01 |>

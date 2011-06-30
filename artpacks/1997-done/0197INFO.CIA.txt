@@ -1,0 +1,80 @@
+15,01             mm00mmmm
+15,01      mm """    ""00,15"00,00 14  00,01mm15                                   03mm
+03,01   14m15               "00,15"00,00 14   00#00,01m15                      00m09m  03m  00"09" 09,03 09,09 15,01 00"09"
+15,01                    |00,15|00,00 14     00,01m  04#15                09"09,09 09,03 03,01" 03,03 03,01" 09,09 09,03"15,01 03"" 09,09 14,03 
+03,01 14#15                   14,15#00,00 14      00#15,01                  03"09,03m14 03,01 "09,03"03,01" """"""09,03m14 
+15,01           14##15        |00,15|00,00 # 14    00,01|15                            00"09" 03""
+15,01                     |15,15 00#15@00,00#  14  00 15,01           02#12m12,11"12,01m
+14,01#15                    14,15 00,00# #14      00,01|15            12"" "10,12 12,11"12,01mm    m10,12# 12,01"15          12m14,12 12,01"#"10,12 12,11"12,01m
+15,01                   m00,15m00,00  14        00,01 04#01,04#13m13,01m04mmm    12m10,12# 12,01" |10,12 14 12,01 "10,12#15,01  10,12  12,01|  "10,12 12,11"12,01mm    10,12  12,01|   |10,12 14 
+12,01 01n15              14#15m00,15m00,00#  00,01"""00,15"14,00    00,01| 04|13,04|00,13#13 # 13,04""04,01"" 10,12  12,01| 04#02|14,12  12,01|  "02#10,12  02,01| 04" 12|10,12 14 12,01 "10,12#12,01"02#10,12  02,01| 04"#02|14,12  
+12,01 01a15     mm    mm14,15#15,01""14,15#00#15,01mm00,15#m00,00#00,01mm00,00#14 00,01" 04m13,04#"13,01"04""15     12|10,12  02,01|  12,02|14,12 12#12,01| 04# 12|00,12#10 12,02|02,01#  |14,12  12,01m   |00,12#10 12,02|02,01#  12,02|12,12# 
+15,01 01p 14"15      ""m   m""     00""00,15"00,00 15,01              12|00,12#10 12,02|02,01# 12,12 12,02"12,01"02"   "12"12,02"12,12 15,01   12,02|14,12 12#12,01| 04# 02"12"12,02"12,12 15,01   12,12 12,02"02,01"
+02,01 01a    14#15            04#13,04#04,01"    15|00,15|00,01|15             02"12"12,02"12,12 15,01 12"   14na.15     12"  12,12 12,02"12,01"02"15       12"#"
+12,01 01l15              mm      m00m00,15m00,01"15                  12"15              12"
+12,01 01m    14"15       14,15#15,01"00,15#00,01""00,15mm00,00 00,15m00,00#00,01""
+15,01                "00,15"14,00 00,15m00,01mm00,00  14 00,01m15      happy new years to everyone out in compuworld!
+15,01                 |00,15|14,00   00  00,01"""15     the 00fourty first cia conspiracy 15release info..
+15,01           "  14#15mm00,15m00,00#00,01""" 15m00m "
+15,01     14" mm m15m  mm  mm00,15m15,01 00,15#00,00#00,01"15          02Chapter 12I
+15,01        14"  00,14 #15,01 00,14#14,15#00#15,01 00,15#00,00 00,01"
+15,01              14"15"      ..hello and welcome to novel writing, live from Brighton.
+15,01                   this is the 0041st cia conspiracy 15containing artwork and other
+15,01                such things from the latter part of 12/96 & the earlier part of
+15,01                1/97. As you may have deducted, this is the 00information file 15my
+15,01                name is napalm, secret agent double oh napalm, this is my story
+
+15,01                                   02Chapter 12][
+
+15,01         On a cold and icy night in mid july a dark man wearing nothing
+15,01        but a plaid skirt and horse hair handed me an envelope.  It was
+15,01        clearly labeled: 00Member Information
+
+
+15,01         ..opening the envelope carefully i noticed a small scrap paper
+15,01        with the words: 00new members 15printed on it in third grade  hand-
+15,01        writing.. even the e's were backwards, this could only mean one
+15,01        thing.. 00empty 15had rejoined the group & had taken over the 00ascii
+15,01        department while discyple takes a break. trying to read his bad
+15,01        penmanship i noticed the names of 00hellfire15, 00sammael15, 00black jack
+15,01        & 00cyndicide  15joining ascii ranks,  it also appeared that 00trahma
+15,01        wished to  be  referred to by  his new  secret agent name, 00dark
+15,01        00entity15, not to be  confused with darkened  emnity or whatever..
+15,01        listed under  ansi  appeared the names  00ironghost15,  00sinister x15,
+15,01        00mr. 4tune 15and 00estatic15. The word zeul][  was crossed  out due to
+15,01        a grevious spelling  error and  replaced with  00zeus][ 15, like it
+15,01        should have  been last  month 14(sorry zii!)  00garf 15and 00sinister x
+15,01        join the coding crew, 00tonto 15says hello to  the music department
+15,01        and 00reebok 15returns to the lit side of things. reading on, i saw
+15,01        that 00julian 15had been promoted to 00revival co-coordinator 15&  that
+15,01        00unholy spirit 15had become 00telecom coordinator15..
+
+15,01         ..by my feet i notice a  small crumpled up piece of paper with
+15,01        even more names on it. 14wintamute  15takes  off to focus attention
+15,01        everyone's  favorite  80's  metal band  and now art group black
+15,01        maiden. in early  december agent 14nahal 15was taken down by secret
+15,01        school agents, rumor has it they clipped off 14tk 15in the process.
+15,01        i  noticed that some  names  from last  month were missing from
+15,01        both lists, it appeared that thay had actually been removed due
+15,01        to inactivity or lack of contact with other cia members14.
+
+15,01                                   02Chapter 12]I[
+
+15,01         ..rumor had it that my arch enemy and master villan known only
+15,01        as '00shrike15' was back in town with a second  release of the all-
+15,01        together evil music disk secretly dubbed '00chaos15' in  an attempt
+15,01        to throw me off the  case. the un-marked package was released a
+15,01        few weeks ago under the code name 00cia-dk02.zip15. this reminds me
+15,01        to be  on the  look out for  cia's next music  release from the
+15,01        newly dubbed '00defunct15'  music department  which  promises to be
+15,01        even more  powerful and deadly than the previous two. my secret
+15,01        photos even show the construction of a new playing utility..
+
+
+15,01                                   02Chapter 12IV
+
+15,01         ..my  continuing investigation  led me to the  down-town  area
+15,01       known as the '13red canuck15' district. it was disgusting!  00triple15-00x
+15,01       00theatres15,  0025  cent peep shows 15and  countless 00shops  filled 15with
+15,01       00perverted literature15,  00videos 15and 00sex toys  15lined the streets. I
+15,01       took it upon myself to explore  each and every one of them in my

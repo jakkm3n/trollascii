@@ -1,0 +1,80 @@
+14,11         04,01m01mmmmm04"m01mm14,08     13##04@@08,13##13,01m01mmmmmmmmmmmmmmm08m13,08#04@01,01mm04,08@13#08,04#@#01,01m14,04 01,01m04m01mmmmmmmmmm04""13,04#04@@13,13#14    
+14,13  13#04,04@13#04,01"01mmm04mmmm01mmmmmmm08"14,08     13##04@08,13##14 13,01m01mmmmmmmmmmmmm08"04,08@08,13#01,01mmm04""08,04#@13,08#01,01mm14,04 01,01mmmmmmmmmmmmmm04"13,04#04@13,13#14 13 
+13,13#14 13#04,04@13#14 #04,01mm01mm04"01m13mmmmmm01mm08mm""""13,08#04@08,13###14    13,01mm08"01mm04  01m13mmm01m08,13##04,01mmmm 08"13,08#08,04#04,01m08,04#01,01mmmmmmmmmmmmmm04m"13,04#04@13,13#14 
+04,04@13,13#04,04@13#04,01m14,04 01,01m04m""13 14,13 13,01m"14,13 08#04,08@13#14       08,01mm01m08"04,08@08,13##14      13,01m01mm08mm01mmm13"14,13 13,01m13,13 #04,04@04,01"08,04#@01,01m08,04@#@01,01mmmmmmmmmmmmmmm04"m01m04"04,04@13,13#
+04,01"01m04""  01mmmm13""14,13  08#04,08@13# 14          13#04@08,13#14         08#13,01m08"13,08#04@08,13#14 13,01m"14,13   01,01mm08,04#@14 08@01,01mmmmmmmmmmmmm04m01mmmm14,04 04,01m01m13"
+04,01m14,04  04,01mm14,04 01,01mmm08,13#13,01mmm14,13#04,08@13# 14           13#04@08,13##14          08#13,01m01m13,08#04@08,13#13,01m14,13   01,01m08m13,08##08,04@13,08#01,01mmmmmmmmmmmmmmmmm04"01m04"14,04 04,01m
+04,01mm"14,04 04,01"01mmm08,13###04,08@13#08,01m"13,08#04@13#14          13#04@@08,13##14           08#01,01m13"04,08@08,13#14   01,01m08m13,08 08,01m13,08##01,01mmmmmmmmmmmmmmm14,04 01,01mm14,04 04,01m"14,04 
+04,01mmmmm01mmm13"14,13 08##04,08@13#14  13#04@13##14    08,01"14,08  13#04@08,13##14               01,01m08,13#14     04,08@13#04@13#04@01,01mmmmmmmmmmmm04m01mmm13,04#04,01m"13,04 04,01m"
+04,01""mm 08mm14,08  13#04@08,13##04,08@13#14  08,01""01mmmmmmmmmm08,13##14                      08#04,08@08,13#04,08@08,13#01,01mmmmmmmmmmmmm14,04 01,01mm04,04@13#04,01m13,04#04@04,01m
+01,01mmm08m14,08      13#04@13#08,01"""01mmmm00 01mmmmmmm04,08@@08,13#####14                   08#14 08#14 01,01mmmmmmmmm04"01m04m01m14,04 01,01mm13,13#04,04@13#04@13,13#04,04@
+01,01mmmm08m14,08    08,01""01mmm00 mmmmmm01mmm00 01mmm13,08##04@@@@08,13#####14              01,01m13"14,13  13,01"01mmmmmmmmm14,04 01,01m13,04 01,01m04"13,04#01,01m13"13,13#04,04@13,13###
+01,01m08m14,08   13 14 01,01m08m14,08 01,01mm00m"14,00         00,01m01m00 01mmm13,08#08,01"01m13,08#04@@@@@08,13###14            13,01| 01mmmmmmmmmmmm13,04 01,01m14,04 13#01,01m04,04@13#01,01m13,13####04,04@
+08,01m"14,08  13 14 01,01mm13,08# 01,01m14,00             00,01|01mmmmm08m13,08 14 13####04@@@08,13###14           13,01 01mmmmmmmmmm04m14,04    13#01,01m13,13#04,04@13,13##  #04,04@
+14,08      01,01m08m04,08@13#01,01m14,00 00,01"01mm00m14,00 00,01"14,00      00,01|01mmmm13,08#14      13###04@@@08,13##14          13,01|01mmmmmmmmmm14,04   04,01m13,04#04@13,01m04,04@13,13#   #04,04@13#
+14,08       13#04@08,13#13,01m00"01mmmm00"01mm14,00    00,01"01m13m01m08m04,08@@13###14 13 14   13###04@08,01"08,13##14    08 14    13,01| 01mmmmmmmmm14,04 01,01mm14,04 13#04@13,13##    #04,04@13#
+14,08        13#04@08,13#13,01m01mm14,00  01,01mmm00""13mmm14,13 08  ###04,08@@@13#14 13 14 13 14 13##08,01m04,08@08,01"08,13#14          01,01m04m01mmmmm04"01m14,04 04,01"01m04"04,04@13#04@13,13##   #04,04@04,01m13,04#
+13,08 14 13 14   13 #04@@08,01 13"14,13 04,08@13,01mmmmm14,13     08 14     08###04,08@@13# 01,01m08"14,08 13#01,01m04,08@08,13###14         01,01m13,04 01,01mmmmmmm04"01mm13,13#04,04@13##04@@13,13# #04,04@13,01m"01m
+14,08 13 14 13 #04@08,13####13,01m14,13                     08###04,08@@13#01,01m08"14,08 08,01m01m04,08@08,01m08,13###14  13,01""14,13   01,01m13,04#13,01 01mmmmm04m13,04#04@13,13#04,04@13# 01,01m13,04#04@13,01"04m"13,04#04,01"m14,04 
+14,08  13#04@08,13### 14                          08##04,08@@08,01m01mm08"01mm08"m13,08#04@08,13##14 13,01m01mmmm04m01m04"01m04 "13,04#04@13,13##04,04@13#04,01"01mm14,04 04,01m14,04 13,01"04"m14,04 13,01"04m
+13,08 #04@08,13##14 08 14                           08##04,08@@13#14 01,01mmm08m01mm13,08##04@@08,13###14 01,01mmmm04m13m14,13#04,04@13,13#  #04,04@04,01"01mm14,04 01,01m04mm13,04#04@@13#04,01m"
+13,08#04@@08,13#14                               08##08,01"14,08 13 14 08,01m01mm08""14,08 13##14 08,01"01mm04m14,04 04,01m13,04#04@13,13##      13,01"m13,13 #04,04@13#04,01"14,04  13#04,01"14,04 01,01mm
+13,08#04@@08,13#14                               08##04,08@13#14  08,01""01m08m01mmm08""14,08 08,01m01mmmm04"01m04""04,04@13,13##       #04,04@13#14 04,01"mm01mmm
+14,08 13#04@08,13##14                               08##04,08@08,01m""14,08 08,01mmm01mmm08m01mm04mm14,04   04,01"""01mm04m04,04@13,13#     #04,04@13#14 04,01m01mmmmm
+13,08#14 13#04@08,13###14                           08 14 08##04,08@13## 08,01m01m08"01m08"01mmm08m01mmm04m01mmmmm04m13,04#04@13,13#    #04,04@13#14 01,01m04m01mmmmm14,04 
+14,08  08,01mm13,08#04@@08,13##01,01m13,08"14,13                         08##04,08@@13##14   08,01"mm01mmmmmmmmmmm04"14,04  13 #04@13,13##04,04@13#04,01mm14,04 08,01m01mmmmm04m01m
+13,08  14  13 08,01""13,08""08,13#04,08@13#14,13                      08  ##04,08@13##  14  08,01m01mmmmmm04"01m04"01m04mmm14,04  04,01"01mmmm03mmmmm01mmmmmm04"01mm
+13,08 14  08,01"01m08mmm13,08 mm14,13                      08 14 08##04,08@@13##14    08,01"01mm13   04m01m04""01mmmm04"03mm03,03@@08@@@03@@09###14 03,01m 01mmmmm
+14,08  08,01m13,08 mm08,13  14                        08 14 08 ##04,08@@13#14  08,01""01mmmm04"mmm14,04 04,01"01mmmm03m09,03##03@@09,08####08,03@@03@@09##14 03,01| 01mmmm
+01,01m13,08m08,13  14                             08 ##04,08@@13##14 01,01mmm04m"01m04"""m"01m04m01mmm03|14,03  09##03@@08@@03@@09##14   ##01,01mmmmm
+13,01m14,13 08 14 13,01"""""""14,13                       08##04,08@@13#08,01"01mm04m13,04#04@04,01"01mmmm14,04 04,01m"01mmmm09@14,03#   09#####14    ##09,01@@03 01mmmm
+13,01"04mmm14,04  08#13,08@04#13@08,04#04,01mm01m13"""14,13                08##04,08@@08,01"01mm04m13,04#04@04,01"01mmm04m14,04 13#04@04,01"01mmmmm03#09@@14,03##       ###09,01@03#01m03 01mmmm
+14,04 08#14    01,01m04"""01m04"01mmmmmm13"14,13            08 #04,08@13#08,01"01mmm14,04 04,01m04,04@04,01"m"01m04m13,04#04@04,01"01mmmmmmmm03#09@@@14,03#######09,01@@@03# 01mmmmmm
+04,01"01mmmm04m08,04#04,01m01m04mmm14,04 04,01m01mm08m13m14,13            08#04,08@13#08,01"01mmmm13,04#04@04,01"01m04"01m13,04#01,01m13,04#04@01,01mmmmmmmmmm03 ##09@@@@@@@@03###01mmmmmmmm
+04,01m"08,04#13,08@08,04#14 13,08@04##13@08,04#04,01"01mmm13,08#04@08,13#14          08#04,08@13#08,01"01mmmm04m"04,04@04,01"""01mmm13,04#01,01mmmmmmmmmmmmmm03 #########  01mmmmmmmm
+01,01mm04"08,04#13,08@04##13@08,04##04,01"01mm08m13,08#04@08,13#14         08#04,08@08,01" 01mmmm04m14,04 04,01""03mm01mmmm14,04 01,01mmmmmmmmmmmmmmmmm03         01mmmmmmmmm
+01,01mmmm04"""08mmmmm14,08 13#04@08,13#14      08 14 08#04,08@13,01"01mmmmm03 01mm03#09@14,03# #09,01@03#01mm04"01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmm14,13 08#04,08@13#14     13#04@08,13#14    08 ##04,08@13,01"01mmmmmmmmm03#09@14,03# 09##14 #09,01@03# 01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmm13"04,08@13##14    13##04@08,13#14 08##13,01""01mmmmmmmmmm03#09@14,03# 09#03@09#14 #09,01@03#01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmm13"04,08@13##14   13#04@13,01""01mmmmmmmmmmmm03#01m03 #09@09,03##14 #09,01@03#01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmm04"01mmmmmmmmmmmmmmmmmmmm03#09@14,03##09,01@03#  01mmm03 01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmm03m14,03 01,01mmmmmmmmmmmmmmmmmm03#09@@03#01mmmmmmm03m|01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmm09@14,03#01,01mmmmmmmmmmmmmmmmm03###01mmmmmmmm03|14,03 03,01|01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmm03#09@01mmmmmmmmmmmmmmmmmmmmmmmmmmmm09,03#14 01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmm03#01mmmmmmmmmmmmmmmmmmmmmmmmmmmm03,03@09#01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm09,09#03,03@01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03m"01mmm
+01,01m03"01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03,03@09,09#01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmm03 m14,03 03,01"""01mmmmmmmmmmmmmmmmm09,03#03@01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmm03"01mmmmmmmmmmmmmmmmmmmmmm03|09,03#01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,03 01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03||01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03"01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmm03""01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmm03 01m03###09@@@03###01mm03 01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmm03##09@@14,03###   ##09,01@@03##01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmm03##09@@14,03##  09####14  ##09,01@@03##01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmm03##09@14,03##09 ##03@@@@09##14 ##09,01@@03##01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mm03##09@@14,03#09 ##03@08@09,08##08,03@03@@09#14##09,01@@03##01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03m01mmmmmmmmmmmmmmmmm
+01,01mm03##09@@14,03## 09##03@08@03@09##14 ##09,01@@03##01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,03 01,01mmmmmmmmmmmmmmmmm
+01,01mmm03##09@@14,03##  09###14  #09,01@@03##01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm09,03#14 01,01mmmmmmmmmmmmmmmm
+01,01mmmm03##09@@14,03###  ##09,01@@03## 01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03,03@09#03,01m01mmmmmmmmmmmmmmm
+01,01mmmmmmm03####09@@03### 01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03,03@09#01,01mmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03m01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03m01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03m"m01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm09mm01mmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03m09,03#03,01"01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm03,03@09,08#03,03@01,01mmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmm09m03,03@09#01,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm08,03@09,08#08,03@01,01mmmmmmmm
+01,01mmmmmmmmmmmmmmmmmmmmmmmmmmm03m03,03@09,01""01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14"09,08#08,03@03@01,01mmmmmmm

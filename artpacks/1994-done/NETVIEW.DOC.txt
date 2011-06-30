@@ -1,0 +1,80 @@
+15,01      NETMAN of TDD Productions presents...
+
+
+15,01                                        m14,15  15,01"""""""""""""14,15  15,01m        m14,15 15,01m
+15,01         m14,15    15,01m    m14,15    15,01m  m14,15       15,01||  |14,15  15,01|    m14,15    15,01m   |14,15  15,01|      |14,15    
+15,01        "m  "14,15   15,01  "m  "14,15   15,01|14,15  15,01"  m  m14,15 15,01  14,15   15,01  m "m  "14,15   15,01   14,15   15,01      14,15   15,01 "|
+15,01        14,15  15,01   |14,15  15,01| 14,15  15,01   |14,15  15,01|"|  14,15  15,01  14,15  15,01  14,15  15,01| 14,15  15,01 14,15  15,01   |14,15  15,01|  |14,15  15,01      14,15  15,01|
+15,01        14,15  15,01    14,15   15,01 14,15  15,01    ""     14,15  15,01  14,15  15,01  14,15  15,01  14,15  15,01 14,15  15,01    ""   |14,15  15,01      14,15  15,01|
+15,01        14,15  15,01    14,15   15,01 14,15  15,01   m14,15  15,01m    14,15  15,01  14,15  15,01  14,15  15,01  14,15  15,01 14,15  15,01   m14,15  15,01m  |14,15  15,01      14,15  15,01|
+15,01        14,15  15,01    14,15   15,01 14,15  15,01 """""     14,15  15,01  14,15  15,01  14,15  15,01  14,15  15,01 14,15  15,01 """""   |14,15  15,01   m  14,15  15,01|
+15,01        14,15  15,01    14,15   15,01 14,15  15,01           14,15  15,01  14,15  15,01  14,15  15,01  14,15  15,01 14,15  15,01         |14,15  15,01|m14,15 15,01| |14,15  15,01|
+15,01        14,15  15,01    14,15   15,01 14,15  15,01      mm   14,15  15,01  14,15  15,01||14,15  15,01  14,15  15,01 14,15  15,01      mm  14,15     15,01 m14,15   
+15,01        14,15  15,01    14,15   15,01 14,15  15,01    m14,15   15,01|  14,15  15,01  |14,15    15,01|  14,15  15,01 14,15  15,01    m14,15   15,01| |14,15   15,01||14,15   15,01|
+15,01        14,15  15,01    14,15   15,01 14,15  15,01 mm14,15    15,01"   14,15  15,01   "14,15  15,01"   14,15  15,01 14,15  15,01 mm14,15    15,01"   "14,15 15,01"tG"14,15 15,01"
+15,01              |14,15  15,01|
+15,01               "14,15  15,01m   VERSION  1.14B                ANSi by GOBLIN
+15,01                 ""|
+
+15,01       Previous versions: [1B, 1.01B, 1.10B, 1.11B, 1.12B, 1.13B].
+15,01"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+15,01Disclaimer..14,15 15,01  This is a BETA version of NETView.
+15,01mmmmmmmmmmmm14,15 15,01  Although there should be no such occurences, the author of this
+15,01              program (NETMAN) is still NOT LIABLE for any damage caused by 
+15,01              NETView to your HARD- SOFT-Ware. 
+
+15,01Legal Stuff.14,15 15,01  This program is a FREEWARE, and can be used and distributed
+15,01mmmmmmmmmmmm14,15 15,01 as much as you want, as long as no charge is made for it.
+15,01              If distributed, the files included are NOT to be modified in any
+15,01              way, but a NETVIEW.INI file can be INCLUDED with the original
+15,01              files if distributed. (See below for details about NETVIEW.INI)
+15,01              This program is NOT to be made a part of any shareware collection
+15,01              and is NOT to be distributed by anyone who charges for the dist-
+15,01              ribution. (And I don't really think anyone would actually pay for
+15,01              it anyway) All this raises a reasonable question:
+15,01               What CAN you do with it??? Well, in a nutshell, you can:
+15,01                1)GIVE it to a friend, or upload it to a FREE BBS (A BBS that 
+15,01                  offers a free access with the ability to Download)
+15,01                2)Include it in any FREEWARE release (Art pack ect.).
+15,01              Well, that's about it. Now onto a little less boring part...:)
+
+15,01 General... 14,15 15,01  This Program was released just because TDD has no alternative
+15,01mmmmmmmmmmmm14,15 15,01 viewer in production yet. It was written 100% in TURBO PASCAL
+15,01              version 6.0. All ANSi interface was drawn and converted to
+15,01              PASCAL codes using THEDRAW ANSi Editor.Just as most BBS programs 
+15,01              NETView will support a 79-column ANSi fine (I hope),but an ANSi 
+15,01              of 80 or more columns is almost bound to result in garbage on 
+15,01              your screen.
+15,01               NETView was tested with the ANSi's done using:
+15,01                Good ol' THEDRAW
+15,01                GuileDraw (Not a very faimous program released around June '94)
+15,01                The long awaited ACiDDraw
+15,01                And the recently released PABLO.
+15,01              No errors occured while displaying 79 column ANSi's done by these
+15,01              programs.
+15,01               For the BEST results you are still advised to use ACiDView, the
+15,01              greatest ANSi Viewer to date. 
+15,01               NETView now features PCB codes support. SO you can view your
+15,01              PCB Pictures in the privacy of your own home.:) It does not yet
+15,01              support ALL the PCB functions, but can display the basic ones
+15,01              such as Color Change and Clear Screen. It may also have some 
+15,01              errors while displaying the "@" characters not intended as codes.
+15,01             
+15,01 Set-Up...  14,15 15,01  To set up the NETView, just unzip or copy the file
+15,01mmmmmmmmmmmm14,15 15,01              NETVIEW.EXE         
+15,01              to any directory. (All other files included with it are not
+15,01              neccessary, but may contain useful information... like this file)
+15,01               The file NETVIEW.INI can be created to contain a pre-set file
+15,01              list of the ANSi's, that will be displayed at the start of 
+15,01              NETView. This is very useful for ANSi packs.
+15,01              For Example:
+15,01               NETVIEW.INI looks like this...
+15,01              ANSI1.ANS
+15,01              ANSI2.ANS
+15,01              ANSI3.ANS
+15,01              OTHER FILE
+15,01              and the progarm is loacated in directoey where files
+15,01              ANSI1, ANSI2 AND ANSI3 .ANS are located.
+15,01              when you run NETVIEW.EXE, the file selector will look like this:
+15,01               ANSI1.ANS
+15,01               ANSI2.ANS

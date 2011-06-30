@@ -1,0 +1,13 @@
+
+
+15,01+=========================== User Editing Commands ===========================+
+15,01| W) Change Wanted Flag            N) Change Phone Number      L) Set Level   |
+15,01| O) Set File Xfer Points          B) Board Access Flags       H) Handle      |
+15,01| Y) Special Sysop Access          P) Change Password          D) Delete User |
+15,01| E) Set Xfer Level                T) Time Left Today          S) Status      |
+15,01| C) Sub-Conference Flags          X) Expiration Date          G) Gfile Level |
+15,01| F) Set G-File Points             !) Set U/D Ratio (0=0)      $) Set UDK     |
+15,01| ^) Set Post/Call Ratio           &) Set Daily Time Limit (0=Default)        |
+15,01| A) Change Usernote               J) Main Conference Flags    B) Set Misc.   |
+15,01| I) View Infoforms                Q) Quit                        Other Stuff |
+15,01+=============================================================================+

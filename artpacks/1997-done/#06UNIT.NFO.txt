@@ -1,0 +1,57 @@
+15,01                       00         ___         
+15,01                    00 /--,____,-/  /________,-----\__  ___ 
+15,01        00__,-------,_/--,_/15       00/__     \___/----/__/15   00/_,-------,__   
+15,01       00)____,---15   00/15    00/15    00/15     00 \/15    00__/15    00___    ___/  ---,____(  
+00,01  +--  __/       _/    /   _/,_      '   [__15     00 \   /_   \        /__  --+
+00,01  |15   00 \_15     00   \15    00 15        00\15   00  15      00/15   00  __\__15      00 15      00  _/    | 
+00,01  :  ::/:::  :                  \_     15   00/15          00/15          00:  :::\::  : 
+00,01  :    \__,-------,___-,_________/\__,---/----,_____/______,-------,__/axb : 
+00,01  :     .                                                                  : 
+00,01  :15               00 --% 14unit packet number six six six00 %--   .15              00:
+00,01  ":::..;....................  .          .... . . .........;..........,;;;"
+15,01        00:::  :15                                                  00:  :::
+
+15,01 gravedancer here...
+15,01        00another day, another month, another release from unit. yah, so we're
+00,01 late.. but at least we're out. a lot has gone on with unit.. along with the
+15,01 00change of presidency. b love decided to step down because of personal problems
+15,01 00so i took over. yea! also, we welcome back psion, after his computer crash
+00,01 bring his little coding thing he does. ;) no one new recruited and no one left.
+00,01 was really a lazy month for the unit crew.. but ya know.. :)
+
+15,01 unit webpage!@#~!@
+15,01        00yes.. ashed.. there is a new unit web page.. but temporarily down. :)
+00,01 so, the other page, 08http://www.access.digex.net/~image/unit.html00, is still
+00,01 the official page until druid gets everything all worked out.
+
+15,01 now, here comes 08psion15 with the coding news.
+
+15,01               08it's the monthly15 00coding15 08division report!
+
+00,01   tap tap tap ... hello?  HEY, is this thing on?  tap tap tap .. ah, okie...
+00,01hey all... what's up out there in modemland?  i'll tell you one thing,
+00,01computers can really suck at times.  i had a system crash on the 9th of jan,
+00,01which made me miss unit #5.  meanwhile, i had to get a new motherboard, and 
+00,01pester a million different peo... oh shit, you don't want to hear this, do you? 
+00,01   anyways, back to unit ... uhm, since i was away, nothing happened.  :)
+00,01i've got a small but fleshy wwiv mod in the pack.  i also have a chat screen
+00,01compliant with AsylumChat ... for all you WWIV folks.  puff did the ascii a 
+00,01while ago, and i wrote up the ini file.  tweak the ini if you need, but not 
+00,01the ascii.  other than that, nothing much in the pack for coding (that i know
+00,01of) ... sorry.  i
+00,01   in other news, i'm piecing together a demo of some sorts.  it might be 
+00,01released next pack, but i doubt it.  i don't have any time with my show going
+00,01on ... anyways, i'll turn it back over to...
+
+15,01 08what you saying?~!@ you wanna join?
+15,01        00to apply to unit.. it's the same as usual. fill out the app in the pack
+00,01 and get it to any of the unit members.. along with at least 5 pieces of your 
+00,01 work.. we'll get back to you after we decide.
+
+15,01 finally, gravedancer leaves the stage 00*clap*clap*
+15,01        00well.. basically it.. from me, the new pres.. ahh.. hell this month.. ;)
+00,01 enjoy the pack.. questions and comments goto 08gravey@juno.com00. see you people
+00,01 next month.
+
+00,01-gdr [unit pres]
+15,01>

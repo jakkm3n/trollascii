@@ -1,0 +1,68 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                A   P   R   I   L             2   0   0   0
+15,01-------------------------------------------------------------------------------
+
+15,011.  Welcome to another punctual iCE pack!  Although this month got off to a sad
+15,01beginning, with Darkmage admitting  that he removes tartar 10%  better than the
+15,01leading brand, not all spirits were low.  The Knave continues his path to world
+15,01domination, recently signing a contract to write a chapter for an upcoming book
+15,01on Flash.
+
+15,012.  I,  Lord Tiberius Soth,  would like  to personally  apologize to  Tear  and
+15,01Necrofiliac for leaving them off the active memberlist last month.   It was not
+15,01a plot to under-appreciate our fine European members, but was actually a result
+15,01of recent brain surgery.   This time they found the sponge but lost the forceps
+15,01and the serving spoon...  ahh...  Syntax can only do so well,  he's new at this
+15,01stuff.
+
+15,013.  We managed to catch up with Tim Wallace recently, and we learned that he is
+15,01working on the upcoming Sierra game,  Homeworld.   While we can't show you what
+15,01he's working on, Vesalius's  image this month sums up  our feelings quite well.
+
+15,014.  We would like to  point out that  Vesalius is a doctor.   Doesn't that make
+15,01you feel better now?   Think about his pictures  the next time you go talk to a
+15,01doctor about a serious medical condition...
+
+15,015.  Thanks to everyone  who contributed this month.  This pack turned out to be
+15,01a real treat, so we hope you enjoy it.   Congrats to the ansi guys for a really
+15,01stellar pack as well.
+
+15,016.  Farmy would like a rest from all this  CIO stuff.   If anyone has some free
+15,01time, feel free to donate it to him.  He really could use some.
+
+15,016.5  Mass Delusion  would like  to add that he, too,  needs more free time.   A
+15,01cashier's check for at least 5 hours of free time can be sent to him.   He will
+15,01gladly repay you on Wednesday for a hamburger today.
+
+15,017.  Also included  this month are iCE's  first flash releases.  Hfaze  put some
+15,01experiments together using Actionscripts and other  little tricks.  Looking for
+15,01inspiration?  Start with hf-*.exe.
+
+
+15,01-Mass "Can I come to your dot com party?" Delusion
+15,01-Lord "I can't stop listening to Esquivel!" Soth
+
+15,01-------------------------------------------------------------------------------
+15,01                 Mass Delusion               Lord Soth
+15,01-------------------------------------------------------------------------------
+
+15,01>

@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                           M  A  Y    1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011. Welcome to another crazy  month on  the insane  Creators Enterprise  Boat of
+15,01Love.  With  Slothy as your host,  let's take a virtual tour of the upper deck.
+15,01Vlad "pissboy" Dev will  be around to cater to your  every need.  Please notify
+15,01him if  you feel  seasick, don't like the  food, or if  Syntax Error  has  been
+15,01hitting on you again.
+
+15,012. Recently  jumping off the Boat of Love were  longtime ice members Aphid Twix
+15,01and Digital Interface,  as well as Fire From Heaven.   All 3 of these guys will
+15,01be missed, and we wish them the best of luck on their future endeavors.
+
+15,013. Most importantly this month, the largest iCE get-together so far occurred at
+15,01E3 in  Atlanta, Georgia.   A big  ugly mob of  iCE members,  namely  Lord Soth,
+15,01Roland,  Farmicus, Friar Tuck,  Syntax Error,  Vesalius,  and Greater Evil, and
+15,01ex-ACiD members  The Cardinal and  Der Schatten all  met and partied  together.
+15,01Some (low/)highlights  will now be repeated,  with the most incriminating facts
+15,01removed to protect the guilty.
+
+15,01100mph+ car  rides down the freeway  MIGHT have occurred, as  well as dull cops
+15,01who didn't  manage to get the offending  individuals.  Additionally, there is a
+15,01poor old lady in  Atlanta who almost  didn't get home to make her grandchildren
+15,01some tasty walnut muffins due to the expert driving  of yet another iCE member.
+
+15,01At E3, Syntax Error and Vesalius brandished their Press passes to hob-knob with
+15,01the who's who of the gaming  industry.   Lots of free things  were collected by
+15,01the others, and MANY gorgeous models were thoroughly ogled.
+
+15,01A  certain  iCE member  whom  we all  know and love  didn't do so  well in  the
+15,01drinking games one night,  and ended up spectacularly puking  out the side of a
+15,01rental car going 75mph down  the freeway on the way to E3.  We discovered (much
+15,01to our dismay) that  women in the Atlanta  area aren't  turned on by  a man who
+15,01pukes on his friend's car.  Their loss.
+
+15,01One night, the  whole  gang went  out to  dinner to  celebrate   Syntax Error's
+15,01birthday.   We  end up  parading  through  downtown  Atlanta  with  a bottle of
+15,01Summer's Eve held aloft for all to bathe in its glory, finally stopping to hang
+15,01out at a bar until they closed and kicked us out.
+
+15,01E3 was definitely one of the best  times that iCE Members have ever had!  We're
+15,01looking forward to future years of E3 and other iCE get-togethers!
+
+15,014. Congrats to Vesalius and Syntax  Error for becoming  doctors!  Dr. Error and
+15,01Dr. lius,  we're very proud of you  guys!  In the smoking lounge of the Boat of
+15,01Love we're showing  the videos of their  ceremony followed by Rainmaker's Bris.
+
+15,015. Down on the freight deck, iCErs are furiously throwing coal into the roaring
+15,01iCE  Furnace(tm).  iCE T-Shirts  are on  their  way,  the new  website  (V2) is
+15,01drawing closer,  and Retrocade  should be releasing  it's first public beta any
+15,01day now (http://www.retrocade.com).  Admittedly, many ice members were busy off
+15,01with their normal  lives this month,  but every now and  then you have to stand
+15,01up, stretch, and go buy groceries, now don'tcha?
+
+15,016. 'Till next  month, ladies  and fellas.   We'll keep working,  you just relax
+15,01now.  Thanks for sailing iCE Nuthouse Airlines(tm)!
+
+15,01                                                                - Slothy
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion

@@ -1,0 +1,23 @@
+15,01                            06You look at the ground,
+15,01                             14And to your surprise,
+15,01                            04A shiny silver object,
+15,01                            06Hit light on your eyes.
+15,01                              14As sharp as it is,
+15,01                             04You pick it right up,
+15,01                            06It glimmers, it gleams,
+15,01                             14Then starts to erupt.
+15,01                               04An image you see,
+15,01                             06Appears in The Blade,
+15,01                           14A dark, shadowy figure,
+15,01                           04And then starts to fade.
+15,01                           06You turn and look behind,
+15,01                           14And there the man stands,
+15,01                           04Why, Yes, it's the Reaper,
+15,01                         06And your death the man plans.
+15,01                            14You fall to the ground,
+15,01                             04You quiver and quake,
+15,01                           06It's the forsaken curse,
+15,01                            14Of the Reaper's Blade.
+
+15,01                                                        04-S14ce06o
+15,01                                                        14[N06I04T06R14O]

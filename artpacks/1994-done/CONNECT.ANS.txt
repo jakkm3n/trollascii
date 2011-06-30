@@ -1,0 +1,5 @@
+15,01 06ViSiON-X15 06OS/215 12PC-Compatible15 12DOS
+15,01 12Version15 120.9815 12by15 12The15 12ViSiON-X15 12Programming15 12Team15 1202-08-93
+15,01                12(C)opyright15 12The15 12ViSiON-X15 12Team15 121992(tm)
+
+00,01 

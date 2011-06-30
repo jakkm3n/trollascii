@@ -1,0 +1,34 @@
+
+
+
+15,01                 +-----. .                              .
+15,01                 :     Cri - App v1.3   by Dr. Love     :
+15,01                 .                              . .-----+
+
+
+
+15,01+-----. .
+15,01: Introduction
+15,01.
+15,01    This is just a boring little info file telling you a little about the
+15,01application generator.
+
+15,01+-----. .
+15,01: Usage
+15,01.
+15,01    Run It!
+
+15,01+-----. .
+15,01: History
+15,01.
+15,01  v1.0 : Boring and lame as hell!
+15,01   1.1 : Fixed a few bugs maybe, added some pix.
+15,01   1.2 : Drastic changes : o Added fresh pix
+15,01                           o Infoform type input
+15,01                           o Saves as text file
+15,01   1.3 : o New Infoforms
+15,01         o Minor Cosmetic changes
+
+
+15,01Later!
+15,01-DL

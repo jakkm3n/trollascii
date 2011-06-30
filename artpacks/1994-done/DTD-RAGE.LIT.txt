@@ -1,0 +1,32 @@
+00,01S11o14uls 00R11a14ge
+
+00,01B11l14eeding heavily as you lie still,
+00,01y11o14ur lifeblood drains away -
+00,01y11e14t still you struggle, unto death
+00,01t11o 14confront the ruthless murderer before you...
+
+15,01        00H11e 14slashed and sliced, and tore at your heart,
+15,01        00s11l14owly, but surely, ripping your flesh apart -
+15,01        00y11o14u kick and scratch, but still he is stronger,
+15,01        00a11n14d since he is, he'll live even longer...
+
+15,01                   00F11i14ghting for your life, fighting for his death,
+15,01                   00g11r14abbing a weapon, and guiding it true
+15,01                   00s11t14abbing and killing, with deadly force,
+15,01                   00y11o14u vow for vengeance...
+
+15,01                                      00W11i14th such heart and bravery you fought,
+15,01                                      00a11n14d when your in your final resting, place
+15,01                                      00a11t 14least you'll know,
+15,01                                      00h11e 14felt your souls rage -
+
+00,01D11a14lamar 00T11h14e 00D11a14rk (04CiA14)
+
+06,01Greets:
+06,01Sudden Death - Hope you like, good luck with the board...
+06,01image - I'm working on the couriers... :)
+
+06,01This lit was another death-defying performance by DtD, I think I'll actually
+06,01write something thoughtful next time...or maybe I won't...
+15,01>SAUCE00"Souls Rage"                       Dalamar The Dark    CiA              
+15,01   19940728O*  @@P v                             

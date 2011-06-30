@@ -1,0 +1,32 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 9/1/1999
+15,01###############################################
+15,01ice-9908.nfo,ANSI,iCE 99/08 Info File,iCE Senior Staff
+15,01ice-9908.mem,ANSI,iCE 99/08 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01file_id.diz,ANSI,File ID,Ironghost
+15,01c0-kung.ice,ANSI,Kung Fu,Count Zero
+15,01c0-l899.ice,ANSI,08/99 Logo stack,Count Zero
+15,01mi-pcrew.ice,ANSI,Phrozen Crew,Mongi
+15,01ti-0899.ice,ANSI,08/99 Logo/Smallscale stack,Trip
+15,01ti-shs2.ice,ANSI,Shurato's Heavenly Sphere,Trip
+15,01ti-shs3.ice,ANSI,Shurato's Heavenly Sphere,Trip
+15,01di-itan.jpg,EXTERNAL,In The Air Now,Digital Interface
+15,01fb-nude.jpg,EXTERNAL,Nude,Funbaby
+15,01fb-tlrs.jpg,EXTERNAL,TLRS,Funbaby
+15,01fy-bike.jpg,EXTERNAL,Bike,Fyrenurbs
+15,01fy-demon.jpg,EXTERNAL,Demon,Fyrenurbs
+15,01ja-hlh.jpg,EXTERNAL,HLH,Jae
+15,01ja-ppf.jpg,EXTERNAL,PPF,Jae
+15,01jm-ruf.jpg,EXTERNAL,Ruff Riders,Jamie McCarter
+15,01ki-wast.jpg,EXTERNAL,Wasteland,Kirk
+15,01mi-captr.jpg,EXTERNAL,Capture,Mongi
+15,01nf-3face.jpg,EXTERNAL,3 Faces,Necrofiliac
+15,01nf-wstld.jpg,EXTERNAL,Wasteland,Necrofiliac
+15,01sq2-down.jpg,EXTERNAL,Download,Squidgalator2
+15,01sq2-seal.jpg,EXTERNAL,Seal,Sq2 & Phat Kontroller
+15,01te-chlk2.jpg,EXTERNAL,Chalk #2,Tetanus
+15,01ve-ghia.jpg,EXTERNAL,The Ghia Monster,Vesalius
+15,01ve-ss.jpg,EXTERNAL,Super Shareware,Vesalius
+15,01xe-as.jpg,EXTERNAL,Alien Senses,Xebra
+15,01xe-wm.jpg,EXTERNAL,War Machine,Xebra

@@ -1,0 +1,30 @@
+15,01                     V       i        B       E
+15,01                 ViSiON  iMPAiRED BEYOND  EXPLANATiON
+15,01                                  
+15,01                 ANSi Group - Established in May 1994
+
+15,01-|- What is ViBE?
+
+15,01    [ViBE] Vision Impaired Beyond Explanation is an ANSi Group that
+15,01consists ANSi/VGA/GIF Artists. Give us time for the group to expand.
+15,01ViBE is different from all other ANSi Groups [I hope] because we can
+15,01only draw Title Screens including: InfoForms/Door Games/BBS Ads/Menus
+15,01& more! We will not draw any kind of pictures. It's hard to see some
+15,01sample of our work because until people requests something done, 
+15,01then ANSi packets will be released monthly. For now, get VIBEINFO.ZIP
+15,01which is all the Information you need to become a Distribution Site
+15,01or have an ANSi made just for your BBS or Door Game. If you want to
+15,01take a look at some ANSis/VGA we made, get VIBE594.ZIP. That's the
+15,01official May 1994 Art Packet. If everything works out, GREAT! Then 
+15,01we can get bigger and serve you better. If you havn't noticed, 
+15,01Christopher Jong is the President [Maker of WildCat! ANSi Screens]. 
+15,01IF YOU NEED AN ANSI DONE FOR YOU, PLEASE ASK ViBE TO DO THE JOB!
+
+15,01ANSis are NOT free, you of course have to pay a small fee.
+
+15,01Where's the forms to fill out? Get it from:
+
+15,01FidoNET#   : 1:125/85 [FREQ VIBE]
+15,01Support BBS: The Shareware Exchange! [415]992-4320 [Download VIBEINFO.ZIP]
+15,01Vibe Packet: VIBE594.ZIP [FREQ VPACK from 1:125/85]
+15,01President  : Christopher Jong [DiCE]

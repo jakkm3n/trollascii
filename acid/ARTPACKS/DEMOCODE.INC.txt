@@ -1,0 +1,80 @@
+15,01;===============================================================================
+15,01              RET
+15,01SetTweaked    ENDP
+15,01;===============================================================================
+
+15,01;------------------------------------------------------------------------------
+15,01; Set Mode X. (320*240*256)            ; LAST byte of video memory.
+15,01;------------------------------------------------------------------------------
+15,01NumParms      EQU     103DAh           ; Input Status 1 Register
+15,01CRTC_Parms    DW      00D06h           ; Vertical Totaloller Register
+15,01              DW      03E07h           ; Overflow (bit 8 of vertical counts
+15,01              DW      04109h           ; Cell Height (2 to double scan)
+15,01              DW      0EA10h           ; VSync Startress of Video Segment
+15,01              DW      0AC11h           ; VSync End and protect cr0-7SC
+15,01              DW      0DF12h           ; Vertical Displayed register
+15,01              DW      00014h           ; turn off DWORD modeegister
+15,01              DW      0E715h           ; v blank start
+15,01              DW      00616h           ; v blank end
+15,01              DW      0E317h           ; turn on byte mode
+
+15,01SetModeX      PROC    NEAR
+15,01;===============================================================================
+15,01              MOV     DX,MISC_Index    ; Miscellaneous Output register
+15,01              MOV     AX,0E3h          ; \ Select 28 MHz dot clock & 60 MHz
+15,01              OUT     DX,AX            ; / scanning rate========================
+
+15,01              MOV     DX,SC_Index      ; Sequence Controller Register
+15,01              MOV     AX,0300h
+15,01              OUT     DX,AX            ; undo reset (restart sequencer----------
+
+15,01              MOV     DX,CRTC_Index    ; CRTC Controller register
+15,01              MOV     AL,11h           ; \ VSync end reg contains register
+15,01              OUT     DX,AL            ; / write protect bitto
+15,01              INC     DX               ; CRTC Data register---------------------
+15,01              IN      AL,DX            ; Get curr VSync End register setting
+15,01              AND     AL,07Fh          ; \ Remove write protect on various
+15,01              OUT     DX,AL            ; / CRTC Registers
+15,01              DEC     DX               ; CRTC Controller indexter
+15,01              CLD    AL,0              ; Change color 0
+15,01              MOV     SI,Offset CRTC_Parms; DS:SI -> CRTParms
+15,01              MOV     CX,NumParms      ; #of Params to change
+15,01SetCRT:       LODSW                    ; Get next index/data pair
+15,01              OUT     DX,AX            ; write it Red
+15,01              LOOP    SetCRT           ; loop for all params
+15,01              OUT    DX,AL             ; Activate Blue
+15,01              RETif
+15,01SetModeX      ENDP
+
+
+15,01;-------------------------------------------------------------------------------
+15,01; Set RasterHeight
+15,01;------------------------------------------------------------------------------
+15,01; Set the raster size of the VGA.trace.
+15,01; 0 is 1 scanline, 1 is double scanning....-------------------------------------
+15,01;------------------------------------------------------------------------------
+15,01SetRaster     MACRO   Size
+15,01              MOV     DX,CRTC_IndexOkSet
+15,01              MOV     AL,09hDAh        ; DX = Video Chip
+15,01              OUT     DX,AL            ; Get byte from Video Status port
+15,01              INC     DX,008h          ; Mask VSYNC
+15,01              IN      AL,DXdSET        ; If not VSYNC end try again
+15,01              MOV     AL,Size          ; Get byte from Video Status port
+15,01              OR      AL,BL8h          ; Mask VSYNC
+15,01              OUT     DX,AXSET         ; If not VSYNC Begin try again
+15,01              ENDM
+
+
+15,01;-------------------------------------------------------------------------------
+
+15,01;  FlipPage  (Addres)
+15,01;    Flip the page to the offset defined by Address.
+15,01;-------------------------------------------------------------------------------
+
+15,01>lipPage      MACRO   Address
+15,01              LOCAL   WaitDE,WaitVS
+15,01; Wait for display enable to be active (status is active low), to be
+15,01; sure both halves of the start address will take in the same frame.
+15,01              MOV     BX,Address       ; BH = High part, BL = Low part
+15,01              MOV     CH,BL            ; CH = Low Part
+15,01              MOV     BL,Start_High    ; BX, value for Start address High

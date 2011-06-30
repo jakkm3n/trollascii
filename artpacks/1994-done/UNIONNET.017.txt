@@ -1,0 +1,80 @@
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - The OFFICIAL Union ONLY Network - Compiled 09/01/94 - v017
+15,01;----------------------------------------------------------------------------
+15,01;
+15,01; Current Nodelist Coordinator: Neurotic
+15,01;
+15,01;       What's New      - Fixed Black "Willow"'s alias :)
+15,01;                       - Got the numbers for a few of the 1-###-SOMETHINGs
+15,01;                       - Flatlined Reality changed phone numbers
+15,01;                       - Node numbers that end with a * in their description
+15,01;                         are supposed to take the members only bases
+15,01;                       - Packaged Rebellion is finally recieving the net!
+15,01;                         Way to go MiZtAh DaWz0N!! :)
+15,01;                       - Added Temporal Distortion to the net (Ab0m iz co0)
+15,01;                       - Added Eternal Nightfall & Death Row to the net
+15,01;                       - Removed Ninja Bunnies, Illusion Island and Warner Stud
+15,01ios
+15,01;                       
+15,01;
+15,01;
+15,01Zone,193,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v
+15,0142b,*
+15,01;
+15,01;
+15,01Region,214,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42
+15,01,v42b,*
+15,01,1,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v42b,*
+15,01,2,CDi,Member_Board,Splint,1-613-838-2691,9600,CM,XA,v32,v42,v42b,*
+15,01;3 is free
+15,01,4,Rash_Reflections,Quebec_Abode,Coluche,1-514-635-4043,9600,CM,XA,v32,v42,v42b
+15,01;
+15,01;
+15,01Region,215,Harvest_Moon,Eastern_Hub,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42
+15,01b,*
+15,01; Polling off of 193:214/0
+15,01,1,Harvest_Moon,Ohio_Station,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42b,*
+15,01; Pack for 193:216/1, not 193:216/0.. Qur'an's just weird or something :)
+15,01,2,Eternal_Nightfall,US_HQ,Shadow_Hawk,1-412-439-2831,9600,CM,XA,v32,v42,v42b,*
+15,01,3,Eternal_Insanity,US_Dist,MindCrime,1-908-224-8750,9600,CM,XA,v32,v32b,v42b
+15,01,4,Psalm_69,US_Dist,Khyron,1-513-530-9250,9600,CM,XA,v32,v32b,v42b
+15,01,5,Reversed_Utopia,Georgia_Station,Mr_Sinister,1-404-320-1612,9600,CM,XA,v32,v32
+15,01b,v42b
+15,01,6,Realm_Of_Insanity,Member_Board,God_Speed,1-203-568-1502,9600,CM,XA,v32,v32b,v
+15,0142b,*
+15,01,7,Death_Row,US_Dist,Sociopath,1-413-782-1851,9600,CM,XA,v32,v42,v42b,*
+15,01;
+15,01;
+15,01Region,216,Packaged_Rebellion,Western_Hub,Mass_Delusions,1-916-246-7165,9600,CM,
+15,01XA,v32,v42,v42b,*
+15,01; Polling off of 193:215/1
+15,01,1,Packaged_Rebellion,Western_Abode,Mass_Delusions,1-916-246-7165,9600,CM,XA,v32
+15,01,v42,v42b,*
+15,01,2,Exiled_Race,California_Station,KooL,1-714-527-0327,9600,CM,XA,v32,v42,v42b,*
+15,01; 193:215/3, and all other 193:215/all, will poll off of 193:215/2
+15,01,3,Subliminal_Wasteland,Member_Board,Sole_Assassin,1-714-892-6081,9600,CM,XA,v32
+15,01,v32b,v42b,*
+15,01,4,House_of_Silence,Member_Board,Streaker,1-714-531-5826,9600,CM,XA,v32,v32b,v42
+15,01b,*
+15,01,5,Terra_Firma,Member_Board,Somms,1-714-963-4851,9600,CM,XA,v32,v32b,v42b
+15,01,6,Malicious_Insanity,Member_Board,Bishop,1-714-831-1981,9600,CM,XA,v32,v32b,v42
+15,01b,*
+15,01;
+15,01;
+15,01Region,217,Despair_2,Central_Hub,Usul,1-708-301-2948,9600,CM,XA,v32,v32b,v42b,*
+15,01; Polling off of 193:215/1
+15,01,1,Despair_2,Northern_HQ,Usul,1-708-301-2948,9600,CM,XA,v32,v32b,v42b,*
+15,01,2,Jello_Insanity,Member_Board,#28,1-708-420-0587,9600,CM,XA,v32,v32b,v42b,*
+15,01,3,The_Crawl_Space,Member_Board,Terminal_Psychosis,1-708-SOMETHING,9600,CM,XA,v3
+15,012,v32b,v42b,*
+15,01,4,Temporal_Distortion,Member_Board,Abomination,1-510-510-283-4430,9600,CM,XA,v3
+15,012,v32b,v42b,*
+15,01;
+15,01;
+15,01;
+15,01;
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - Echo_Tags
+15,01;-----------+-------------------------+--------------------------------------
+15,01; Echo_Name | Echo_Description        | Access Given To:
+15,01;-----------+-------------------------+--------------------------------------

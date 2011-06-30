@@ -1,0 +1,31 @@
+15,01                      00mm15             00mm
+00,01    04m14,04 13,01#04@14,13###13,01mm15        00"14,00  00,01"15           00"14,00  00,01"
+00,01  04m14,04    13,01#04,04@@@13,13###13,01m   m14,13#13,01m
+13,01 04|14,04       13,01##04@@@@15 04m13#04@@14,13##13,01m15     13m14,13#04,01@@14,13#13,01mm15         13m14,13#04,01@13#14,04 04,01mm15         00m14,00  00,01m
+00,01 14,04   04,01" ""14,04   13,01##04"m14,04   13,01##04@14,13#13,01""   14,13#04,01@13#14,04 13,01#04@14,13###13,01m15      14,13#04,01@13#14,04      04,01m15        00""
+00,01 01,04  14 15,01      04"" 14,04     04,01"" m13m14,13##15,01 14,13#04,01@13#14,04 04,01"""13#04@13" 04m13m14,13##15,01 14,13#04,01@13#14,04 04,01"""14,04  04,01" 14m 14,13#04,01@15 14,13#04,01@15 14,13#04,01@15 13m04@13"14,13#13,01m 14,13#04,01@15 14,13#04,01@15 14,13#04,01@
+14,01|04|14,04   15,01      04mm"14,04   04,01 14m 14,04 13,01#04@@@15  04"13#14,04   04,01mm  14,04 13,01#04@@@15  04"13#14,04   04,01mm  14,14  14,01 04@13#15 04@13#15 04@13#15 04@13#15 04@13#15 04@13#15 04@13#15 04@13#15 14|
+14,14 14,01 04"14,04    04,01mmm14,04   04,01"m14,04 04,01 14m14,14 14,01m 14,04  13,01##15 14,04  04,01m""14,04    04,01  14,04  13,01##15 14,04  04,01m""14,04    04,01  14,14 14,01 13#14,04 04,01 13#14,04 04,01 13#14,04 04,01 mmm13#14,04 04,01 13#14,04 04,01 13#14,04 04,01 13#14,04 04,01 14,14 
+14,01"14,14 14,01m 04""14,04 01FS14  04,01" 14,04  04,01" 14,14   14,01m 14,04  04,01  "14,04      04,01" 14mm 14,04  04,01  "14,04      04,01" 14m14,14  14,01m 04"14,04 04,01"  14,04  04,01 "14,04 04,01mmm "14,04 04,01mmmm14,04 04,01" 14,14 
+14,01  ""14,14 14,01mmmmmmmmmmm14,14 14,01" "14,14 14,01mmmm14,14 14,01mmmmmmmm14,14   14,01mmmm14,14 14,01mmmmmmmm14,14 14,01" ""14,14 14,01mmm14,14 14,01mmmmmmmmmmmmmmmmmm14,14 14,01"
+15,01       14"""""""""15      14""""    """"""   """   """""15       14""""""   """""  """"
+
+15,01                      04# 15Additional Notation reguarding 04#
+15,01                          04# 15Updates in Version 2.0 04#
+15,01                       04# 15Coded by: Viper 14[15Crisis14/15REM14] 04#
+15,01                           04# 15This file by: Sludge 04#
+
+15,01       Crisisvu has a separate setup file, CRISISVU.CFG, which contains values
+15,01   and setting for a number of different sound cards.  You may need to adjust
+15,01   some of the settings in order for the Viewer to interpret your sound card
+15,01   correctly.  The CRISISVU.CFG file may be edited with any common text editor,
+15,01   and you should have some knowledge of what all is necessary for your card
+15,01   to function properly, such as; IRQ, DMA, and Port Addresses.  CRISISVU is
+15,01   set to utilize a SoundBlaster Pro (Mono) card by default.  The config file
+15,01   is similar in layout to your Dos CONFIG.SYS or AUTOEXEC.BAT file and should
+15,01   be fairly easy to configure.  If you're unsure of your sound card's settings
+15,01   it might be a good idea to check the settings in those two files and then
+15,01   make the necessary adjustments to the .CFG file.  Good Luck, and thanks
+15,01   again for downloading the pack and using CrisisView.  Look for version 2.1+
+15,01   in the CRiSiS Chronicles June Packet, Chapter 4, it'll be the only viewer
+15,01   you'll ever want to use.   Peace.. .

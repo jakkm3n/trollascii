@@ -1,0 +1,42 @@
+15,01            `;;,                       `'''''''' ,, ,,     black jack >> rmrs ;;
+15,01`,g@$,        ,,,,, ,        _ _,,,,,,,,,,,,,,,         `;;;;;iiillllii;;;'';;;,
+15,01,,`,g@$b,   ,;;''    ,,,,;;;;;;iiillll&&&$$$&&ii;;;,,,,         ``;;;;;iiill&&&$
+15,01    `Y,g$P      ,;;iilllii;;;;;;iiiilll&&$$$$&&ii$$$$$&&ii;;,      `;;iilll&&&$$
+15,01;;;;  `Y$$b, ,;;iill&&$$&&&&ii;;;iil&&$&&&&llliii$&&&&$$$$$$li;,     ;;;;iilll&&
+15,01 ;;illb,`Y,g;i;;&$&&&llilll&&ii;iiill&&&&lliiiiii;;;;ll&&$$$$$ii;,      ,,,,;;ii
+15,01   ;;i;;  Y;;;iil&&&lliiii;;iilll&&&&&&&&$$$$$&&llii;;iill&&llii;;    .;;;iiill&
+15,01      ;;  ,;;iilliiiiiii;iiilll&&&$$$$$$$$$$$&&llii;;;;  ;;iillii;, ,;;iill&&&$$
+15,01       ; ,;;iill&&&llii;;iilll&&$$$$$$$$$$$$$$$$&&llii;;;;;iilli;;;`;;il&&$$$$ll
+15,01         ;ilIll&&llii;;;iill&&$$$MM$$$UU$$$$$$$$$$&llii;;;;;;ii;;il  `;il&&$$$$$
+15,01     ;   ;Illiiib,lli;;iill&&$$$$$$$$M$$$$$$$$$$$$$&&&li;;;iiill&&$  ,  `;;;iil&
+15,01         il$liii;in&&ll;iill&$$$M$$UMMUU$$$$$$$$$$&lliii;;;,;,g@S$$; ;;, ,;iil&$
+15,01,g + '   ;',`'ii,;il&g,;;iil&&$$$$$$$UU$$$$$$$$$&&liii;i;;,;d$$$$$$l  `;;;iii;;i
+15,01l       ,d$b,;ill&&$$&&ii,;;iil&&$$$$$$$$U$$$&&liiiii;,;;;,''`nY$$$;;;   ;;illll
+15,01b,     ,d$$$bg`'iill&&$llii,;;;iiil&$$$$$$$&llii;;;;il&lliii;,''``'       ;iill&
+15,01`nYgggggg$$$$$$b,'ill&&$$$$iii,;;;iillllliiii;;;;;ill&$$&&ii;;,d$  ;;    ;il&&$$
+15,01`;;,,   '''```''n$b,'il&$$$$$$$igi;;;iiilli;;,d$$$$$$$&$&&n''`;;'  ;    ;;;iill&
+15,01 `;;;b,,'$g,,db,  n'   'i&$$&$$$$$i;,    ,g@S$$$$$P'     00 15 ,,;;',; ;   ,;;;iil&&
+15,01        ,l,d$$$$$b,   ''   `nY$$$$$Pn   d$$$$$$$P'  ;''   ';i&$ ; ;  `;;iilll&&&
+15,01        l' Y$$$$$$$b, ,,`   00 15''nnn',,,,_""'',, `,   00  15 ,,;;i&$b,' ,i    `;;iill&
+15,01  ;;   ,i,, `nY$$$$$$P',g@@@gg,,,'***nnY$$&$$$$$b,;;iill&$$$$P'  ,;l     ,;;;iii
+15,01       ;;i;,  `Y$$$$P,,gg@S$$$$$$$$$SS@@g,,'nnYP',;il&&$$$Pn`   ,;$$   ,;;;,, ;;
+15,01;;     iiili;   Y$$$Pgdn',,gg@@@@gg,,,nY$$$$MS@g,Y$b,,`nY'   ,;il&$; ,;;;;ii;;''
+15,01 `, ,  `Illi;;  li&$b'n''Y$$$$$$$$$$$$$S@@g,nnY$$blY$$b   ,;;iil&P' ``;;iill&&$,
+15,01   ; ; ``Y&&ii;   ;ii gg@ `;""***nnYnnnY**'''`  'nY$&lii; ;il&$P'    `;;;iill'
+15,01+ ' '  ' ,`,Y$i; ;il$,$$$, .       '    00    15'  g@b,'&ii;;il&$P  ,,,;;;;;;iillb,,
+15,01  ,gg@P,d$$P `Ygg ;$$b`Yg$,        ,     00  15,   $$$, Y$b,d$$P' ,;;;;;iilll&&$$$$$
+15,01,d$P',d$$P',dg,`$$`Y$$ll$$$,,_     ;      _;,gdg$$,d $$$Pn'  ,;;iillPPnn'''```
+15,01$P ,d$$P'd$$$$$ `Y$YY'Y`nYgg$$$$$S$$g@@S$$$$$$$$P'd$ l$P,;;iiilll&$P''' ''
+15,01$$,`Y$$b, nnnn'' `Y`Yb,Yb,`'nY$$$$&&&$$$$$$Pn',dP'd$$P'  
+15,01$$$b,`'d&ii;;;, ;i$P 'Y$$$$$$S@g,,``'',,ggg@S$Pgd$$P''       look for it.....   
+15,01,d`Y$$b,$I;il&ii;P'b,   `''ggg@$$$$$$$$$$@gg'',
+15,01Y$$$&&&ii;&Pn,,,`' ,'       `''***nnn***''`
+15,01   ```nY$$Pgd,i;,.;ii;;,,  `;;,,  _             the haven.   Matrix & info.
+15,01          `Yb,Y&i;;;, ,   ,,;;''` 
+15,01            `Y,`$i;,, ,   ''` `       there was a font .. but it sucked so much
+15,01              `Yggg a      a                             i took it out.         
+15,01                ``` ,,;;;,,
+15,01                    ;;ii;''
+15,01                ,;;''
+15,01>>SAUCE00Matrix/Advertisment (theHaven)     Black Jack          REMORSE/ACiD Pro
+15,01d.  19970603K   @@P (                             

@@ -1,0 +1,80 @@
+15,01                                 Rumors v1.2
+
+15,01                                   by NotB
+15,01                             Revised by Defcon 4
+15,01---------------------------------
+15,01Upgrading from a previous version
+15,01---------------------------------
+
+15,01  Copy all *.PPE files into the directory of your old rumor's ppes.  Enter 
+15,01  PCBoard and run the rumor editor (rumored.ppe).  Upgrading is automatic.
+15,01  Refer to following installation for using new features.
+
+15,01------------
+15,01Installing:
+15,01------------
+
+15,01  Umm, type INSTALL.  Hard ehh?
+15,01  
+15,01  Syntax for INSTALL:
+
+15,01  INSTALL C:\PCB\PCBTEXT C:\PCB\RUMORS
+15,01  ^^^^^^^ ^^^^^^^^^^^^^^ ^^^^^^^^^^^^^
+15,01  Guess   PCBtext File   Directory of
+15,01          to install in  Rumors Files
+
+15,01-----
+15,01   If you reall want to know what install is doing, or for some wierd
+15,01   reason you rather do it manually, here ya go:
+15,01-----
+15,01  
+15,01  Go into PCBTEXT and edit #396.
+15,01  Copy down what it says. Let's say for now that 396 says:
+15,01    "%\TXT\COMND.396" or "(Prompt): _"
+15,01  Change it to say:
+15,01    "%\PCB\PCBTEXT.396"
+
+15,01-----------------------
+15,01 Setting Up Rumors v1.2 
+15,01-----------------------  
+
+15,01  Now save and goto your PCBoard directory. From there edit a file called
+15,01  PCBTEXT.396. In that file it should say:
+
+15,01  !C:\PCB\PPE\RUMORS.PPE (or wherever it is)
+15,01  %\TXT\COMND.396 (or "(Prompt): _" or however yours was)
+
+15,01  (sample PCBTEXT.396 is included for you dumb asses out their)
+
+15,01  and save this file. Now your rumors will work at your menu prompt.
+15,01  The next step is even easier. Go into PCBSetup. File Directories.
+15,01  Configuration Files. Look for CMDS.LST or CMD.LST.. Right near the
+15,01  PCBML.DAT file. If it isn't there, put it in. Then hit F2 to edit the file.
+15,01  Hit Alt-I to insert a command and enter this:
+
+15,01  Command: RUMOR     SL: (Minimum SL to edit)  New: C:\PCB\PPE\RUMORED.PPE
+
+15,01  And save it. From then on, you will have rumors.
+
+15,01-----------------------
+15,01The Configuration File                                                
+15,01-----------------------                                                
+
+15,01  All you have left to do now is to edit your RUMORS.CNF file to set your
+15,01  options.  Below is a detailed explanation of the options, a brief summary     
+15,01                                           
+15,01  is included in the CNF file.                                                
+15,01                                                
+15,01                                                  
+15,01                     Rumors Config File for Version 1.2+
+15,01                ---------------------------------------------
+15,01  Line 1: Add a space between the rumor and the prompt [Y/N]
+15,01          This option MUST be set to yes if your prompt is
+15,01          % out to another file.  If your rumors are typing
+15,01          over your prompt, set this to Y
+
+15,01  Line 2: Center the rumor on the line [Y/N]                  
+15,01          If you want the rumor to be centered on the line, set
+15,01          this to Y
+15,01  
+15,01  Line 3: Name of the optional external menu                  0 = None

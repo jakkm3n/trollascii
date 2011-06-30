@@ -1,0 +1,80 @@
+15,01iCE PACK 11/2002 NFO File by iCE Staff
+15,01Converted to ASCII text by RaD Man of ACiD Productions (www.acid.org)
+15,01HTML version available at http://www.ice.org/fullGallery.php?year=2002&month=11
+
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    N   O   V   E   M   B   E   R           2   0   0   2
+15,01-------------------------------------------------------------------------
+15,011. First off, we'd like to welcome two new artists to iCE! Batting first is
+15,01   Zef, a very original artist whose abstract works reminds us of DaVinci's
+15,01   older works.  Zef is a part time hot air balloon folder and he says he's
+15,01   keen to learn more about zero-light kalleidoscopes.
+
+15,01   Up next we have Helm, a pixel artist who joins us from Greece.  He likes
+15,01   smiling, Ewoks, puppies, and works on adventure games.  Given the
+15,01   opportunity to invent a disease, he said he would really like to go with
+15,01   a slowly degenerative one, maybe something with more of a mauve color.
+
+15,011a. We'd like to thank everyone who applied to help out with the site last
+15,01    month!  We need to welcome our two new coders to iCE!  Silicon Ghost
+15,01    and Oblius will be helping us out in the coming months as we make some
+15,01    changes to ice.org.  Both of them are very talented coders and we are
+15,01    deeply indebted that they offered their time and energy to help make
+15,01    iCE even better!  Welcome to the group, guys. We hope you guys have a
+15,01    lot of fun with us.
+
+15,012. Speaking of DaVinci, he's back this month after a long haitus.  His art
+15,01   is a bit different from his older works, but still very cool.  Stay
+15,01   tuned for an interview with our master engraver next month! 
+
+15,013. Jamie McCarter has done a fantastic tutorial for beginners wanting to
+15,01   learn how to do rendering in Maya. It's definitely worth checking out if
+15,01   you want to learn a bit about Maya or you're not a 3D person and you're
+15,01   interested in learning. 
+
+15,014. I bet you thought we weren't going to mention you this month, eh?
+
+15,015a. In Jamie-related news, Jamie worked on the effects in the newest Bond
+15,01    flick, Die Another Day.  We must stress that Jamie was NOT involved in
+15,01    the script.  He is an innocent!  We look forward to the movie he's
+15,01    working on now, which is sure to include gratuitous breasts bouncing. 
+
+15,015. Sadly, all we could come up with is an interview with that Slothy guy.
+15,01   He gets some questions asked to him and responds or something and stuff.
+15,01   Next month we're giving you DaVinci, did we mention that?  That should
+15,01   be much better - we apologize for this month's interview.  Slothy sucks.
+
+15,016. No I don't. 
+
+15,017. Bob told us that he has a sinkhole in his yard.  And you do too, Slothy.
+15,01   V.I.C.I. from Small Wonder could kick your ass.
+
+15,018. Oh.
+
+
+15,01Love,
+
+15,01Root88, Slothy, and Trip
+
+
+15,01-------------------------------------------------------------------------------
+15,01          Lord Soth                    Root88                    Trip

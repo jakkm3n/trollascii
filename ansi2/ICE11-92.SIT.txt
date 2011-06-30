@@ -1,0 +1,34 @@
+15,01                               00i13C04E 00Headquarter Boards
+
+15,01             14W15or00ld -----------------------------------04[002o104] 00Rivend15el14l
+15,01             14U15ni00ted States -----------------------04[003o504] 00Sanctuary(15tm14)
+15,01              14N15o00rthern ------------------------04[007o804] 00The Dark Crus15ad14e
+15,01              14S15o00uthern -----------------------04[003o504] 00Infinite Darkn15es14s
+15,01              14E15a00stern ---------------------------04[0021204] 00The Black G15at14e
+15,01              14W15e00stern ----------------------------04[008o504] 00Sudden Imp15ac14t
+15,01             14C15an00adian ------------------------04[0041604] 00Altars of Madn15es14s
+15,01             14C15ou00rier (acting) --------------------04[003o504] 00Sanctuary(15tm14)
+
+
+15,01                               00i13C04E 00Distribution Sites
+
+15,01             14B15an00ned in the USA 04[0051o04]15                 04[0033304] 00Hard Wi15re14d
+15,01             14B15on00ers Domain 04[0031404]15                04[0061304] 00Hydrogen Pal15ac14e
+15,01             14C15re00wel Lye 04[0071304]15        04[0031304] 00The Nevada Testing Grou15nd14s
+15,01             14F15/X 04[0041604]15                          04[006o404] 00Physical Dam15ag14e
+15,01             14E15ig00ht Miles High 04[0051604]15              04[0071404] 00Street Spyd15er14s
+15,01             14H15el00l 04[0031304]15                                04[0021404] 00Subur15bi14a
+
+
+15,01                                 00i13C04E 00Member Boards
+15,01                                                04[0041604] 00Northern Sec15to14r
+15,01             14B15la00destorm 04[0031o04]15                   04[0061304] 00Organized Cr15im14e
+15,01             14C15it00adel 04[003o504]15                      04[003o104] 00Psycho Neuro15si14s
+15,01             14C15ri00tical Mass 04[0061304]15                 04[0071804] 00Reign in Bl15oo14d
+15,01             14C15yb00ertron 04[0031304]15                       04[006o904] 00Sunset St15ri14p
+15,01             14J15uv00enocracy 04[003o504]15            04[0081704] 00The Brink of Insan15it14y
+15,01             14L15uc00id Euphoria 04[002o104]15                04[00xxx04] 00The Molten 15BB14S
+15,01             14M15as00ter Computer 04[0051604]15       04[0071404] 00The Two Minute Warn15in14g
+
+
+15,01      14* There may be some member boards missing.  We have alot of members.

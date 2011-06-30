@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :      July Update *     August 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0894.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0794 ANS |   8975 |07.31.94 |%+   | July Member/Board Listing      |
+15,01 |2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01 |3  |ACIDVIEW EXE | 132304 |06.01.94 |%    | ACiD Acquisition Viewer + 2.02 |
+15,01*|N/C|ACIDVIEW NFO |  37470 |08.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AD-01B   ZIP | 110953 |08.01.94 |%    | ACiDDraw v0.1b                 |
+15,01*|5  |AE-ACID  RIP |  12186 |08.01.94 |%    | ACiD Promo                     |
+15,01*|6  |AE-WTWRX RIP |  12531 |08.01.94 |%    | Wet Works                      |
+15,01*|7  |AN-TV1   RIP |  29131 |07.13.94 |%    | The Visage                     |
+15,01*|8  |AZ-CS1   RIP |  89828 |07.30.94 |%    | Corrupted Society              |
+15,01*|9  |AZ-WTWRX ANS |  23313 |08.01.94 |%+   | Wet Works                      |
+15,01*|10 |BG-HOOD  EXE |  25396 |08.01.94 |%    | The Hood                       |
+15,01*|11 |BK-DIGIT ANS |  23516 |08.01.94 |%+   | Digitalia                      |
+15,01*|12 |BK-SOE   ANS |  28005 |08.01.94 |%+   | State of Euphoria              |
+15,01*|13 |EL-TTT1  ANS |  19052 |08.01.94 |%+   | The Twisted Tower              |
+15,01*|N/C|FILE_ID  DIZ |    439 |08.01.94 |%    | Acquisition FILE ID by {T2}    |
+15,01*|14 |LD-ACID2 RIP |  36915 |07.27.94 |%    | ACiD Productions               |
+15,01*|15 |LD-BLUR  ANS |  13762 |08.01.94 |%+   | blur Issue #4                  |
+15,01*|16 |LD-FR    COM |  12773 |08.01.94 |%+   | Flatlined Reality              |
+15,01*|17 |LD-NT    RIP |  44280 |08.01.94 |%    | Neo Tokyo                      |
+15,01*|18 |PC-ALIEN ANS |  36042 |08.01.94 |%+   | Alien Workshop                 |
+15,01*|19 |RS-DREA2 EXE |  49108 |07.31.94 |%M   | The Elusive Dream              |
+15,01*|20 |SB-DR1   COM |   8793 |08.01.94 |%+   | Distorted Reality              |
+15,01*|21 |SB-WS1   ANS |  17983 |08.01.94 |%+   | Warner Studios                 |
+15,01*|22 |SM-BAD1  RIP |  18836 |08.01.94 |%    | The BadLands                   |
+15,01*|23 |SM-NOTB1 ANS |  18416 |08.01.94 |%+   | Number of The Beast            |
+15,01*|24 |SO-LR1   ANS |  56260 |08.01.94 |%+   | Last Resort                    |
+15,01*|25 |SW-TTT1  EXE |  59796 |07.31.94 |%    | The Twisted Tower              |
+15,01*|26 |T2-SOD   COM |  12773 |08.01.94 |%+   | Seeds of Destruction           |
+15,01*|27 |T2-TF    COM |   4525 |08.01.94 |%+   | Terra Firma                    |
+15,01*|28 |US-BL1   COM |  16773 |08.01.94 |%+   | The BadLands                   |
+15,01*|29 |US-CULT1 RIP |  18851 |08.01.94 |%    | The Cult                       |
+15,01*|30 |US-TERRA RIP |  28073 |08.01.94 |%    | Terra Firma                    |
+15,01*|31 |ACDU0894 NFO |   5941 |08.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   33     Average Compression Rate: %50          |
+15,01|          Total Bytes:  1,111,111     Average Of Bytes/File: 33,670          |

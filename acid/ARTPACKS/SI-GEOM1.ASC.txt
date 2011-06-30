@@ -1,0 +1,25 @@
+
+15,01GEOMETRY by soi+mecha[&]ogre!
+
+15,01                G
+15,01                /
+15,01              //|      Given: /_H = 90 
+15,01            / / |             JL _|_ GK
+15,01          /  /  |             GH = GL
+15,01      L /   /   |
+15,01      /\   /    |      Show:  /\ GLJ = /\ GHJ
+15,01    /____\/_____|             ~~       ~~
+15,01   K     J      H
+
+15,01statement               reason
+15,01-----------------------------------------
+15,01/_H = 90                given
+15,01JL _|_ GK               given
+15,01/_GLJ = 90              definition of perpendicular
+15,01/_GJL = /_GJH           same side
+15,01JH = JL                 Pythagoras
+15,01GLJ = GHJ               Side-Angle-Side
+
+15,01(soi+mecha/remorse1981 geometry division)
+15,01>SAUCE00Geometry                           Spirit of Illusion  REMORSE/ACiD Prod
+15,01.  19970603f14,15@15,01  @                                 

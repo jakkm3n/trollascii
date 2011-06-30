@@ -1,0 +1,20 @@
+15,01IntentNet Application -- Updated 06/25/94
+15,01=============================================
+
+15,01Handle     :
+15,01First Name :
+15,01Voice #    :
+
+15,01Board Name  : 
+15,01Mailer #    :
+15,01City, State :
+
+15,01Affiliation with Manifest -   
+15,01:
+15,01:
+
+15,01How Can I reach you to give you your Address?
+15,01  (BBS or Voice Call is prefered, if possible, tell me the best time to call)
+15,01:
+15,01:
+15,01:

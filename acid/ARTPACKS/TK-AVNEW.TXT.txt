@@ -1,0 +1,80 @@
+
+15,01   ++--- --  -   -  -- ---------------------------------------------------+-
+15,01   ++---------------------------------------------------------------------+
+15,01   ||              Update History of Acquisition File Viewer              |.
+15,01   :|                                                                     |:
+15,01   .|             By Tank and Rad Man of ACiD Productions(tm)             ||
+15,01    +---------------------------------------------------------------------++
+15,01   -+--------------------------------------------------- --  -   -  -- ---++
+
+15,01    [ Current version of Acquisition File Viewer : 3.53 / 6-01-1993.17:22 ]
+
+
+15,01+--------------------------+
+15,01| Acquisition Viewer 3.53  |
+15,01+==========================+
+
+
+15,011) This month the viewer has been modified to include a configuration
+15,01   file (TK-AV353.CFG) that will automatically select your video mode
+15,01   and select whether or not you wish display Extended File Information.
+15,01   (**NOTE: EFI is still in its beta stages and is still being tested**)
+
+15,012) Added new ACiD Artists to EFI and changed some capitalization.
+15,01   (Suggested by RaD Man and Fusio"N")
+
+15,013) Removed the 50 line mode bouncing Main Menu.
+15,01   (Suggested by RaD Man and friends)
+
+15,014) Viewer now returns you to 25 line mode after exiting.
+
+15,015) RaD Man made minor corrections to the Display Ansi Help Menu.  It
+15,01   now reads 2000 ANSis are the maximum amount of ANSis to view in
+15,01   the same directory.
+
+
+15,01+--------------------------+
+15,01| Acquisition Viewer 3.52  |
+15,01+==========================+
+
+
+15,011) A new 50 Line Mode parameter has been implemented.  It is not yet
+15,01   fully configured with new ANSi menus yet, but there will be different
+15,01   ones as soon as they are available from ACiD.
+
+15,012) Made the 'S' and 'P' while displaying ANSi non-case sensitive.
+15,01   (Requested by RaD Man)
+
+15,013) Extended File Information added in the ANSi Viewer.  Will recognize
+15,01   current ACiD Artists, and a few others at my discrepancy.  The file
+15,01   statistics will appear on screen and pause for a short while, then
+15,01   start displaying the ANSi.
+
+15,014) *Should* have fixed the garbage outputted to the screen after playing
+15,01   a MODule.
+
+15,015) The Overlay manager has been removed.  It is corrupt somewhere and I
+15,01   am unable to compile the ANSi Viewer when using it.
+
+
+15,01+--------------------------+
+15,01| Acquisition Viewer 3.51  |
+15,01+==========================+
+
+
+15,011) The Magical Gangster (and others) pointed out that Screen Saver would
+15,01   not activate properly during an ANSi displaying, this bug has been
+15,01   fixed.
+
+15,012) File window will not appear if there are no files in the current
+15,01   specified directory.
+
+15,013) Overlay manager will now attempt to load most of the data into EMS
+15,01   Memory if there is EMS Memory available to allocate.  If EMS memory
+15,01   can't be allocated, it will load into conventional memory like normal.
+
+15,014) Reduced number of maximum amount of viewable ANSis from 5,000 to 2,000
+15,01   in order to conserve memory.  (Who in their right mind has over 2,000
+15,01   ANSis in one directory?!)
+
+

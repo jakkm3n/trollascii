@@ -1,0 +1,80 @@
+15,01Creaping Death
+15,01Cthulhu
+15,01Cypher Hex              chexbitz@epit.netset.com
+15,01Deep                    delamop@sdcoe.k12.ca.us
+15,01Diabolos                mocat@hooked.net
+15,01Discyple                samiss@bc1.comRS-*.ZIP
+15,01Endless Nameless        endless@deltanet.com
+15,01Enigmatic               alien@seanet.com +
+15,01Epidemiccii             -       ???  | . :              +
+15,01Erupt                   erupt@erupt.thenet.net_    ____//\__ _
+15,01Eternal Chaosscii       -       KTS!, KTS-, KTS_---)   /  _/_//
+15,01Ewheat                  ewheat@chinet.chinet.com      +   |_   .
+15,01Fahrenheit              fah@europa.com*.ZIP                 ))_:_ _
+15,01Firestorm               yablonka@shani.net!A*.ZIP__            |
+15,01Forgeyester             -       POLY*.ZIP         /            |
+15,01Fractal                 fractal@istar.caP___     /___ _        |
+15,01Gangstal                -       SERIAL*.ZIP/                   |
+15,01Gravedancer             gravey@juno.com.ZIP______________     ______
+15,01Haji  /______/__________ __   \ |     ________     _    /____/      \_______
+15,01Hiro Protagonist        hiro@breaks.for.alienz.org ____/     \ \____/_  _  /__
+15,01Hyped___       _______//_/     \/   /__________\/____________ \       \___//_/
+15,01K-Spiff                 -       ALTER001.ZIP                 \________/
+15,01Kaleidas                kaleidas@pacbell.net
+15,01Killa Hertz             khz@acid.org*.ZIP e m o r s e          |
+15,01Kokanec                 -       BASIC-*.ZIP                    |
+15,01KXMode                  randrew@primenet.com 9 8 1             |
+15,01Lethal Injection        ease@digital-rain.com                __|_ _
+15,01Lord Jazz               -       GRP-0796.ZIP              ._)) :
+15,01Maestro/The Despised    maestro@breaks.for.alienz.org +   |_ _ +
+15,01Martyrucination         -       HN-*.ZIP (_____    ____\  _/_//
+15,01Megga Hertz             phils7@primenet.com   (----)   \\/
+15,01Mephitopeles            -       IESUS000.ZIP            +
+15,01The Messiah             dan@dinjax.com*.ZIP
+15,01Miasma                  miasma@pb.net.ZIP, BOO-96.ZIP
+15,01Mice                    mikkol@icon.fiZIP
+15,01Mr. Self Destruct/MSD   msd@pangea.caE01.ZIP
+15,01Necromancer             dunn@pacbell.netP
+15,01Necronite/Opus          necros@qpt.com1.ZIPesents ...
+15,01Nightrain               -       ???
+15,01Nitrogen/Lord Nitrogen  -       TK-, TRANK-*.ZIP
+15,01Nuremburg               ckks@netcom.caASC
+15,01Ogre                    ogre@total.netIP, TPY-*.ZIP
+15,01Omicron                 omi@breaks.for.alienz.org
+15,01Omot
+15,01Paradox
+15,01Phaser-X                phaserx@berkshire.net
+15,01Piromaniak
+15,01Polymorph               polymorph@cryogen.com  _ _____________
+15,01Posk/Poskgubbe___________        _ __\  \__\ \_\\\           /    _____ __
+15,01Revert                  reve@unix.dsoe.com ____   \         /____/     \\/
+15,01Shadow Sorcerer____      /_____________________|   \  _____/     _\     \
+15,01The Silent Killer/      /                                    ____\       \
+15,01Sir Death       /_                            _______\       \ nM/        \
+15,01SpawnA T U M A   /____________________________\       \_______\ /_________/
+15,01Spear                   spear@cps.k12.ny.us
+15,01TAE\\___ __  _  4. Group releases, past and present.
+15,01Terminator 2            term2@netcom.com
+15,01Trip                    tripapa@nether.net
+15,01Twisted Logic
+15,01Unsane1.ZIP             December 01, 1994       Group
+15,01Whodini                 whodini@epit.netset.comite)
+15,01Woj            "<martz> but we'll rip remorse's oldschool dev."
+15,01Zipperhead
+15,01RMRS-02.ZIP             December 25, 1994       Group
+15,01Second Remorse Pack
+
+15,01                                     ___   __  _ _____________
+15,01_________________________        _ __\  \__\ \_\\\           /    _____ __
+15,01                        /_               _ ____   \         /____/     \\/
+15,01           ________      /_____________________|   \  _____/     _\     \
+15,01___________\     /      /                                    ____\       \
+15,01                /_                            _______\       \ nM/        \
+15,01   K A T U M A   /____________________________\       \_______\ /_________/
+
+
+15,01/\_\\___ __  _  7. Remorse affiliated BBS's, FTP sites and web pages.
+15,01Fifth Remorse Pack
+15,01                                                    /\
+15,01"Abraxas"               Op: Megga Hertz         Remorse 1/2 USHQ
+15,01Dialup: 818-XXX-XXXX]                       +       /\

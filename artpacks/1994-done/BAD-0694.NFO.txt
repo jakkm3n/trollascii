@@ -1,0 +1,63 @@
+01,01BAD Information File(<[25
+00,01"""""""""08"00""08"00"08""00"08"""""""""""""""""""""""13"08""13"08"13""08"13""""""""""""04"13""04"13"04""13"04"""""""""""
+14,13#13,01""04m 13" ""14,13#13,01"" m""04m 14,13#15,01  13#15 13" 14,13#13,01m #15 13"14,13#15,01    13m""04m 14,13#13,01m #15 13m"" "    14,13#13,01""04m 14,13#13,01"" m"" " m""" 14,13#13,01m #
+04,01@13"04"m @15   04@15   04@15  04m @13"04"13 15 04@15 04@15 04"13 15       04@13"04"13 15 04@15 04"13 15  13"04m @15    04@15  13 15 04@13"   "04m @15 04@15 04"13 15 04@15 04"13 
+01,04m04,01""  "   "    ""  "  " " "  "15       04"  " "  " ""  "    """  """ ""  "  """ "  "
+04,01"""""""""13"04""13"04"13""04"13""""""""""""""08"13""08"13"08""13"08"""""""""""""""""""""00"08""00"08"00""08"00"""""""""""
+04,01B13i08t00chin' ANSi Design once again shoves  another  BAD Pack at your face and s08a13y04s
+04,01"13L08o00ok,  ma,  I got this killer shit just now!" It's a pretty small pack.    08O13k04.
+04,01Y13o08u 00got me.  It's a really small pack, but do you see the look of concern on 13m04y
+04,01f13a08c00e?  It's summer, so byte me.  Anyway, I hope you enjoy it because that's 08a13l04l
+04,01y13o08u00r gonna get this month.
+
+04,01W13h08y 00is this pack so small?   Why wasn't there a pack last month?   Why are y08o13u04r
+04,01h13e08m00orhoids  flaring up again?   All these answers AND MORE can be found in t08h13i04s
+04,01w13e08e00k's Weekly World News on the page after the Elvis, JFK and Hitler story.
+
+04,01W13e 00gained a new member this month,  Death Karnage.   The bad part is,  he's 08n13o04t
+04,01D13e08a00th Karnage.   Yeah, I know, that sounds real weird but it's not really.   13H04e
+04,01c13h08a00nged his handle,  but I did write down what it was and I also lost his vo08i13c04e
+04,01n13u08m00ber.   So,  if anyone knows any of that info, tell him to call me or call 13m04e
+04,01y13o08u00rself.  On the bad side, we lost one of our best artists this month, LiQU08i13D04.
+04,01H13e 00is leaving the scene for a  while  "Somewhere between a month and a year" 13s04o
+04,01a13s 00soon as he's back,  I'm sure everyone will welcome  him  with  open  arms08.13.04.
+04,01R13I08G00HT!?!  In addition, Thadicus left us...   again.  He's currently hanging 08o13u04t
+04,01a13t 00Vi...   again.   However,  I hear that Vi has merged with another group,  13s04o
+04,01h13o08p00efully  we'll  see  some  stuff  coming  from that area soon.   That's it 13o04n
+04,01m13e08m00bership stuff.
+
+04,01N13u08m00ber Cruncher and I got off our lazy ass's and did a loader this month.  I08t13'04s
+04,01p13r08e00tty cool,  but a little hard to read  because I went a little silly with 08t13h04e
+04,01f13o08n00t.  It looked fine when all the letters were lined up in alphabetical ord08e13r04,
+04,01r13e08a00lly,  it did!   It doesn't even have a MOD,  so it should work on just ab08o13u04t
+04,01a13n08y 00system with relative speed.  Enjoy the "fireworks"!
+
+04,01I13f 00you'd like to join BAD,  please do.   We'd really like to see some more A08N13S04i
+04,01a13r08t00ists hop over and join us, so if you like what you see, come on down!
+
+04,01W13h08a00t?   What did I hear?  Where can you reach us?  Well, so nice of you to a08s13k04.
+04,01Y13o08u 00can always reach any BAD member at the BAD WHQ,  The Chasm of  Doom  <pl08u13g04,
+04,01p13l08u00g, plug>.  The number is in the SIT file.  Some of us are also active on 08t13h04e
+04,01I13n08t00erNet and also on IRC.   One of us (BKnight,  NCruncher,  Zodiac, Probe) 08c13a04n
+04,01u13s08u00ally be located on either #ANSi or #BAD.
+
+04,01T13h08a00t's about all that's important.  Hope you enjoy the pack.  laTeR...
+
+15,01                                                                 00# 04B13l08a00ck Kni08g13h04t
+15,01                                                      00# 04b13k08n00ight@freenet.fsu.08e13d04u
+
+15,01      04C13a04v00: 04*13B08ur13p04*
+04,01    W13i08n13t04a00: 04B13K08n00ight slaps g008h13d04.
+04,01  M13T08h00r08e13a04t00: 04Y13o08u00're the phattest d00d I kn08o13w04.
+04,01    F13l08o13o04d00: 04J13u08s00t call me the mac dad08d13y04.
+15,01      04T13D04H00: 04L13e08t 00me know when you wanna get off your ass and send me my lit. 13;04]
+04,01T13G08u00ard08i13a04n00: 04I13'08m 00not greeting you 8 times, but this is good en08u13f04.
+15,01       13P04X00: 04I 08d00on't know who the hell you are, but you wanted me to greet y08o13u04.
+04,01   S13u08dd13e04n00: 04Y13o08u 00G, gimme another ca08l13l04.
+04,01 W13i08d00ow08M13a04k00: 04I13'08m 00gonna kill you AND your family because.. uhh08.13.04.
+04,01    F13l08i13c04k00: 04D13o 00me another AN08S13i04.
+04,01   S13y08nt13a04x00: 04S13P08E00AKING of ANSi... We had some kinda deal, right? 13;04]
+04,01  T13a08f00k08a13S04K00: 04I 08t00hought I'd call you by the proper name JUST ON08C13E04.
+15,01       04T200: 04I 08n00ever talk to you, but you (: is annoying as hell. 13;04]
+15,01       04;]00: 04Y13o08u00're the /<-raddest smiley face I kn08o13w04.
+04,01t13h08e 00wBALLs c08r13u04e00: 04Y13o08u 00all are the coolest of the co08o13l04.

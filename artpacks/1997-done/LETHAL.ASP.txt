@@ -1,0 +1,21 @@
+15,01                         yyyyyyyy     yyyyy
+15,01n           n     nmmmmmmmm$$$$$mmmm  $$$$$yyyyyyyyyy
+15,01                         $$$$$$$$     $$$$$   $$$$$$$
+15,01                         $$$$$$$$     $$$$$   $$$$$$$
+15,01      yyyyy yyyyymmmmmyyyyy yyyyy  E  $$$$$ yyyyymmmmmyyyyy ::yyy
+15,01yyyyy $$$$$ $$$$$     $$$$$ $$$$$     yyyyy $$$$$ yyy $$$$$ ii::: yyy yyyyy yyy
+15,01      $$$$$ $$$$$     $$$$$ $$$$$     $$$$$ $$$$$ $$$ $***$ lliii     $$$$$
+15,01    ,d$$$7' $$$$$     $$$$$ $$$$$mm ,d$$$7' $$$$$ $$$ $$$$$ 88lll     $$ $$
+15,01   :$$$$:   $$$$$mm   yyyyy $$$$$  ~~~$$$yy $$$$$mmmmmmm$$$ $$888     $$ $$
+15,01    `4$$$b. $$$$$mmmmm$$$$$ $$$$$mmmmm$$$$$ $$$$$     $$$$$ $$$$$mmmmm$$yy
+15,01      $$$$$              mmmmmmmmnmmmmmmnmn   n         n   yyyyy        $
+15,01      $$$$$mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm$$$$$        8
+15,01yyyy                                                                     l
+15,01# yyyyymmmmmyyyyy yyyyymmmmmyyyyy yyyyymmmmmyyyyymmmmmyyyyymmmmmmmmmm    :
+15,01% $$$$$mmmmmmm$$$ yyyyyy    +++++ $$$$$     $$$$$     yyyyy     yyyyy     yyyyy
+15,01: $$$$$   : $$$$$ $$$$$mmmmmyyyyy $$$$$     $$$$$     $$$$$     $$$$$     $$$$$
+15,01. $$$$$   l $$$$$ yyyyy     $$$$$ $$$$$     $$$$mmm   $$$$$     $$$$$mm   $$$$$
+15,01`4$$$$$7' 8 $$$$$ 888$$     $$$$$ $$$$$mmmmm$$$$$     $$$$$     $$$$$     $$$$$
+15,01  `4$7'   $ $$$$$ lll88mmmmmmm$$$ $$$$$     yyyyymmmmm$$$$$mmmmm$$$$$mmmmm$$$$$
+15,01    `     $mmmn   :::ll              -- the lethal aspect --                 $$
+15,01                     ::              www.interlog.com/~xmtrx

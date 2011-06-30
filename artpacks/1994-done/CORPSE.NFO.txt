@@ -1,0 +1,17 @@
+15,01CoRPSE Production '94  -
+
+
+15,01[Program Name : User Insulter v1.04     ]
+15,01[Coder        : Nighthawk               ]
+15,01[Date Release : 08.06.94                ]
+15,01[Time Release : 22:59 PST               ]
+
+15,01Description:
+
+15,01This is a spiffy little program that is humorisly rude.  Just stick this
+15,01program as one of your logon events to insult your users as they logon.
+15,01There are 99 different rude remarks that can either be run from the BBS
+15,01or locally.  There shouldn't be any problems installing this in any BBS
+15,01program as long as it supports a logon events which run executables and
+15,01some sort of ANSI.SYS is loaded.
+15,01                                        --Nighthawk [ViA/CoRPSE]

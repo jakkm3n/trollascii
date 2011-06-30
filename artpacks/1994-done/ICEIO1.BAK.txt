@@ -1,0 +1,80 @@
+15,01end;VAREIO1;
+15,01      position : byte;
+15,01Function EditFields:String;
+15,01Var Z:String;th(Line)=0 then Exit;
+15,01Begin position:=Length(line);
+15,01  RepeatILE line[position] = ' ' DO
+15,01    EditField(CurField,Z);
+15,01    EditFields:=Z;l + position
+15,01  Until Abort=True;End procedure}
+15,01End;Str15 = string[15];
+15,01  PROCEDURE WordRight;          
+15,01BeginAR position : byte;
+15,01  Abort:=False;
+15,01  AdaptorType; := cursor - col + 1;
+15,01  CurField:=1;ne[position] <> ' ' DO
+15,01  LastField:=1;rOff;
+15,01  LastUsed:=1;position);
+15,01End.      IF position = fieldlength THEN Exit;
+15,01        END;verseVideo;
+15,01      Inc (position);
+15,01      cursor := col + position - 1ng; PadLength : byte);
+15,01    END; {of WordRight procedure}:  string);
+15,01PROCEDURE EditLine(VAR line:string; VAR cursor:byte; col,row,fieldlength:byte; V
+15,01  PROCEDURE WordLeft;           ean);
+15,01    VAR position : byte;X,YY,Len:Byte; Var S:String; Msg:String; ZZ,WW:Byte);
+15,01    BEGIN EditField(ID:Byte; Var X:String);
+15,01      position := cursor - col + 1;
+15,01      WHILE (line[position] <> ' ') AND (position >= 1) DO
+15,01        Dec (position);ing;
+15,01      WHILE (line[position] = ' ') AND (position >= 1) DO
+15,01        Dec (position);ing):String;
+15,01      WHILE (line[position] <> ' ') AND (position >= 1) DO
+15,01          Dec (position);ing):Boolean;
+15,01      cursor := col + position - 1;:string;
+15,01      IF cursor > col THEN Inc (cursor)
+15,01    END; {of WordLeft procedure}boolean;
+
+15,01  PROCEDURE BackSpace;          
+15,01    VAR
+15,01      position : byte;
+15,01    BEGINertFlag:Boolean=True;
+15,01      IF cursor < col THEN cursor := col;
+15,01      If Cursor=Col then Exit;
+15,01      position := cursor - col + 1;
+15,01      Delete (line, position - 1, 1);
+15,01      CursorLeft;
+15,01      line := line + ' '
+15,01    END; {of BackSpace procedure}
+15,01      TempStr:String;
+15,01  PROCEDURE DeleteChar;         
+15,01    VAR
+15,01      position : byte;
+15,01    BEGIN
+15,01      position := cursor - col + 1;
+15,01      Delete (line, position, 1);
+15,01      line := line + ' '
+15,01    END; {of DeleteChar procedure}
+15,01    LastUsed:Byte;
+15,01  PROCEDURE DeleteWord;         
+15,01    VAReenBase : word;
+15,01      position : byte;an;
+15,01    BEGIN,
+15,01      position := cursor - col + 1;
+15,01      REPEATtring;
+15,01        DeleteChar
+15,01      UNTIL (COPY(line, position, 1) = ' ');
+15,01      DeleteChar
+15,01    END; {of DeleteWord procedure}(Ch); Delay(50);
+15,01  GotoXy(X,Y); TextColor(1); Write(Ch); Delay(50);
+15,01  PROCEDURE DeleteEOL;          te(Ch); Delay(50);
+15,01    VARolor(15);
+15,01      count, position : byte;
+15,01    BEGIN
+15,01      position := cursor - col + 1;
+15,01      count := FieldLength - position + 1;
+15,01      Delete (line, position, count);
+15,01      Pad (line, FieldLength)
+15,01    END; {of DeleteEOL procedure}
+15,01  For Len:=1 to Length(S) do Tmp:=Tmp+Upcase(S[Len]);
+15,01  PROCEDURE ToggleInsert;       

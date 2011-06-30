@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                          J  U  L  Y     1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  Summer hit full force this month with record breaking temperatures and over
+15,01three megabytes of fresh new artwork from the only group able to battle the hot
+15,01summer swelter!   Anyone who ever said anything about the "lazy days" of summer
+15,01has obviously never met this group of overacheivers!
+
+15,012.  Our highly-paid  recruiters  disguised  as religious prophets  of impending
+15,01doom  and  telephone psychics  convinced the  following  wayward  artists  that
+15,01salvation is in iCE this month:  Fractal, who joins the ANSI team, and Cyberise
+15,01in  the  VGA department.   Also  returning  to the scene  this month  is  Black
+15,01Lighting, to the ANSI department.  Welcome to our new mates.
+
+15,013.  In related news this month, former iCE ANSI Department Coordinator Lemonade
+15,01has recently escaped  from an evil guerilla  activist  group compound  in Santa
+15,01Clara, CA.   The group captured Lemonade and held him for almost a year just to
+15,01try to stop him from releasing quality ANSIs.   Fret not,  citrus fans, for our
+15,01loveable Lemonade is back with ANSIs for the world to enjoy!
+
+15,014.  Nobody caught a virus in a public restroom,  went skydiving without working
+15,01parachutes, flew the coop, hit the road, made like a tree, orbited Earth on Mir
+15,01aborted  their mission,  gave Magnetic M their  Ultima Online CD,  went fishing
+15,01for shark, was two fries  short of a happy meal,  or left the group this month.
+
+15,015.  Promotion!  iCE ANSI Artist  Kadaver has been  promoted to the vacant  ANSI
+15,01Coordinator position!  He's already setting things in motion with the Avalanche
+15,01project, as well as being involved with the ANSI team.  Congrats, Kad!
+
+15,016.  A badly beaten,  bruised,  and oozing Information Systems director Lickbert
+15,01reports this month that "system the UNIX  and web but cold".   We simply choose
+15,01to ignore him now.  SpaceDev has unveiled the new Frozen Delivery system on the
+15,01iCE web  pages, which is  available for this  month's iCEPACK!   Check out this
+15,01fresh new way to get quality art on http://www.ice.org.
+
+15,017.  iCE VGA talent Epoch will be  releasing an iCE Special Release shortly that
+15,01is related to this iCEPACK  (although it will  not be distributed with the main
+15,01pack).   It is an amazing  VGA animation  that is 9.2Mb in size.   You can find
+15,01this upcoming release (along with the archive of other iCE special releases) on
+15,01ftp://ftp.ice.org/pub/special/ice-spc8.zip.  Check it out!
+
+15,018.  Friar Tuck was reprimanded this month for going over 73 days without coming
+15,01onto IRC.   He explained with the coy Friar smile that,  "Well, I've been busy,
+15,01man".   Rumor has it that Friar was off trying to start a new career as a blues
+15,01guitarrist.   When asked about that,  Friar seemed despondant  and simply said,
+15,01"I just got my music,  cuz I've got the blues."   (It just sounds  like another
+15,01excuse -ed).
+
+15,019.  iCE ANSI artist Black Viper  decided that he's going to be  taking a break
+15,01from the scene this past month.  He will be finishing up a couple of works and
+15,01resting for  an indeterminate  amount of time.   Black Viper is  known for his
+15,01awesome works  as well  as being a group-focused member  who donated  his time
+15,01for  many months this year  packing the iCEPACK  at the end of the month.   He
+15,01will be missed,  and we really appreciate  all he's done for the staff and the
+15,01group.  Come back soon, BV!
+
+15,0110. Megalith's group  attempt to retake  Hong Kong  for the Queen  failed  this
+15,01month.   BoA and  his buddies  were eager to help  but were sidetracked  on the
+15,01outskirts of the  city by a strange  shop specializing in  'Crowes bootlegs and
+15,01marijuana paraphanalia.   The ogre-mages were, well,  not so effective since he

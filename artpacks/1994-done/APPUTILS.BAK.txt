@@ -1,0 +1,80 @@
+15,01         inc (count);S }
+15,01      end;by Zealot }
+15,01end;
+15,01{$G+}
+15,01function getstr (c1, c2 : byte;  limit : integer) : string;
+15,01var
+15,01   temp : array[0..79] of char;
+15,01   sx, sy, current, tempi : integer;
+15,01   tempstr : string;nk:char): string;
+15,01   ch : char;tr(c1,c2: byte; limit: integer): string;
+15,01beginion Yesno(default: boolean): boolean;
+15,01   ch := #0;oseOne(c : choicetype): byte;
+15,01   textcolor (c1);s : string; limit: integer);
+15,01   textbackground (c2);(var lst: listtype);
+15,01   sx := wherex;
+15,01   sy := wherey;Off;
+15,01      for current := 0 to 79 do
+15,01         temp[current] := #0;
+15,01   tempi := 0;
+15,01   gotoxy (sx, sy);
+15,01   current := 0;
+15,01   while (tempi < 80) and (tempi < limit) do
+15,01      begin
+15,01         if temp[tempi] = #0
+15,01            then write (' ')
+15,01            else write (temp[tempi]);
+15,01            inc (tempi);Boolean): Boolean;
+15,01      End;
+15,01   gotoxy (sx, sy);
+15,01   while (ch <> #13) and (ch <> #27) do
+15,01      Beginnteger;
+15,01          while not keypressed do;
+15,01          ch := readkey;
+15,01          if ch = #8
+15,01             then
+15,01                begin (*  backspace  *)
+15,01                   dec (current);
+15,01                   if current < 0 then current := 0;
+15,01                   temp[current] := #0;
+15,01               end;ch) <> 'Y') and (upcase(ch) <> 'N') and (ch <> #13) do
+15,01          if (ch <> #8) and (ch <> #13) and (ch <> #27)
+15,01             then = 'Y'
+15,01               beginrue
+15,01                  temp[current] := ch;
+15,01                  inc (current);
+15,01                  if current > 79 then current := 79;
+15,01                  if current > limit - 1 then current := limit - 1;
+15,01               end;
+15,01          tempi := 0;;
+15,01          gotoxy (sx, sy);
+15,01          while (tempi < 80) and (tempi < limit) do
+15,01             begin ('No ');
+15,01                if tempi > current then write (' ')
+15,01                else write (temp[tempi]);
+15,01                inc (tempi);
+15,01             end;mList(Var Lst: ListType);
+15,01         gotoxy (sx + current, sy);
+15,01      End;nteger;
+15,01   tempi := 0;                                {-1}
+15,01   tempstr := '';
+15,01 while (temp[tempi] <> #0) and (tempi < limit ) and (tempi < 80) do
+15,01    Begin
+15,01       tempstr := tempstr + temp[tempi];
+15,01       inc (tempi);
+15,01    End;= TRUE;
+15,01  Getstr := tempstr; and (ch <> #27) do
+15,01End;  Begin
+15,01         If Need
+15,01            Then
+15,01Procedure CursorSize(Size:Byte);
+15,01Begin           For Temp:= 0 to Lst.Limit-1 do
+15,01   Regs.AH:=$01;   Begin
+15,01   Case Size Of       If Temp = Current
+15,01    0:Begin              Then
+15,01        Regs.CH:=$20;     Begin
+15,01        Regs.CL:=$20;        Textcolor(lst.c3);
+15,01      End;                   Textbackground(lst.c4);
+15,01    1:Begin               End
+15,01         Regs.CH:=$6;    Else
+15,01         Regs.CL:=$7;     Begin

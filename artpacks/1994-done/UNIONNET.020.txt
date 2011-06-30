@@ -1,0 +1,80 @@
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - The OFFICIAL Union ONLY Network - Compiled 10/02/94 - v020
+15,01;----------------------------------------------------------------------------
+15,01;
+15,01; Current Nodelist Co-Ordinator: Neurotic
+15,01;
+15,01;       What's New      - Now have a what's new section for each zone
+15,01;                   214 - Added Syndication-X
+15,01;                       - Removed Rash Reflections
+15,01;                       - Readded Altered Sanity
+15,01;                   215 - Added Edge of Darkness
+15,01;                       - Removed Psalm 69
+15,01;                       - Added Realm ofAnarchy
+15,01;                       - Removed Death Row
+15,01;                   216 - PACKAGED REBELLION HAS A NEW NUMBER!!!
+15,01;                       - Added Meltdown
+15,01;                       - Since Exiled Race is fucked to hell, the 714 boards
+15,01;                         will poll Malicious Insanity instead
+15,01;                   217 - Removed Temporal Distortion
+15,01;                       - Removed The Crawl Space
+15,01;
+15,01Zone,193,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v
+15,0142b,*
+15,01;
+15,01;
+15,01Region,214,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42
+15,01,v42b,*
+15,01,1,Flatlined_Reality,World_HQ,Neurotic,1-613-824-7375,9600,CM,XA,v32,v42,v42b,*
+15,01,2,CDi,Member_Board,Splint,1-613-838-2691,9600,CM,XA,v32,v42,v42b,*
+15,01,3,Syndication-X,Member_Board,The_Temperate_Hijacker,1-609-467-3573,9600,CM,XA,v
+15,0132,v42,v42b,*
+15,01,4,Altered_Sanity,Member_Board,Raze,1-705-670-9452,9600,CM,XA,v32,v42,v42b,*
+15,01;
+15,01;
+15,01Region,215,Harvest_Moon,Eastern_Hub,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42
+15,01b,*
+15,01; Polling off of 193:214/0
+15,01,1,Harvest_Moon,Ohio_Station,QuR'aN,1-216-951-7059,9600,CM,XA,v32,v42,v42b,*
+15,01; Pack for 193:216/1, not 193:216/0.. Qur'an's just weird or something :)
+15,01,2,Eternal_Nightfall,US_HQ,Shadow_Hawk,1-412-439-2831,9600,CM,XA,v32,v42,v42b,*
+15,01,3,Eternal_Insanity,US_Dist,MindCrime,1-908-224-8750,9600,CM,XA,v32,v32b,v42b
+15,01;4,Realm_of_Anarchy,Member_Board,Cyric,1-313-282-1250,,9600,CM,XA,v32,v32b,v42b,
+15,01*
+15,01,5,Reversed_Utopia,Georgia_Station,Mr_Sinister,1-404-320-1612,9600,CM,XA,v32,v32
+15,01b,v42b
+15,01,6,Realm_Of_Insanity,Member_Board,God_Speed,1-203-568-1502,9600,CM,XA,v32,v32b,v
+15,0142b,*
+15,01;7 is free
+15,01,8,Edge_Of_Darkness,Member_Board,Terminally_Nothing,1-301-898-0882,9600,CM,XA,v3
+15,012,v42,v42b
+15,01;
+15,01;
+15,01Region,216,Packaged_Rebellion,Western_Hub,Mass_Delusions,1-408-246-0281,9600,CM,
+15,01XA,v32,v42,v42b,*
+15,01; Polling off of 193:215/1
+15,01,1,Packaged_Rebellion,Western_Abode,Mass_Delusions,1-408-246-0281,9600,CM,XA,v32
+15,01,v42,v42b,*
+15,01,2,Meltdown,Member_Board,Necronite,1-408-445-9323,9600,CM,XA,v32,v42,v42b,*
+15,01,3,Malicious_Insanity,Member_Board,Bishop,1-714-631-3355,9600,CM,XA,v32,v32b,v42
+15,01b,*
+15,01; 193:215/4, and all following 193:215, will poll off of 193:215/3
+15,01,4,Subliminal_Wasteland,Member_Board,Stormfront,1-714-892-6081,9600,CM,XA,v32,v3
+15,012b,v42b,*
+15,01,5,Terra_Firma,Member_Board,Somms,1-714-963-4851,9600,CM,XA,v32,v32b,v42b
+15,01,6,Exiled_Race,California_Station,KooL,1-714-527-0327,9600,CM,XA,v32,v42,v42b,*
+15,01,7,House_of_Silence,Member_Board,Streaker,1-714-531-5826,9600,CM,XA,v32,v32b,v42
+15,01b,*
+15,01;
+15,01;
+15,01Region,217,Despair_2,Central_Hub,Usul,1-708-301-2948,9600,CM,XA,v32,v32b,v42b,*
+15,01; Polling off of 193:215/1
+15,01,1,Despair_2,Northern_HQ,Usul,1-708-301-2948,9600,CM,XA,v32,v32b,v42b,*
+15,01,2,Jello_Insanity,Member_Board,#28,1-708-420-0587,9600,CM,XA,v32,v32b,v42b,*
+15,01;
+15,01;
+15,01;
+15,01;
+15,01;----------------------------------------------------------------------------
+15,01; UnionNet - Echo_Tags
+15,01;-----------+-------------------------+--------------------------------------

@@ -1,0 +1,80 @@
+15,01.    ..    ....   .  . ...   . .... ------- . ... .... ... ...  . .. .. . .   .
+15,01                            . . - -- [OCP] -- - . .
+15,01            . . - -- [O]rganiztion for [C]orrupt [P]irates -- - . .
+15,01                   . . - -- Echolist Compilation #1 -- - . .
+15,01                           . . - -- 2/14/94 -- - . .
+15,01.    ..    ....   .  . ...   . .... ------- . ... .... ... ...  . .. .. . .   .
+
+15,01    Legend
+15,01    +----------- --  -- - .. . .  .
+15,01    | *=Required
+15,01    | !=Sysops Only
+15,01    | %=Optional
+15,01    | @=New
+15,01    | $=Approved Systems Only
+15,01    | C=Changed Since Last Echo List
+15,01    | +=Activation Date
+15,01    | -=Removal Date
+15,01    +----------- --  -- - .. . .  .
+
+
+15,01+-----------------------------+----------+------+.. . .  .  . . ..------------+
+15,01. Base Name: Misc.            . Tag Name . Flag . Date . Notes                .
+15,01+---------.. . .  .  . . ..---+----------+------+------+----------------------+
+15,01| General Bullshit            | OCP-BULL |*     |      | General Discussion   |
+15,01| Software                    | OCP-SFTW | %    |      |                      |
+15,01| Hardware                    | OCP-HRDW | %    |      |                      |
+15,01| Modem Talk                  | OCP-MODM | %    |      |                      |
+15,01| OS/2 & Windows              | OCP-OS2W | %    |      | Multi-Tasking Support|
+15,01| Programming                 | OCP-PROG | %    |      |                      |
+15,01| Utility Review              | OCP-UTIL | %    |      |                      |
+15,01| Game Review                 | OCP-GAME | %    |      |                      |
+15,01| New Games                   | OCP-NEWG | %    |      |                      |
+15,01| Console Support             | OCP-CONS | %    |      |                      |
+15,01| 32Bit Gaming                | OCP-32BT | %    |      | 3DO/Jaquar/etc..     |
+15,01| Arcade Scene                | OCP-ARCD | %    |      |                      |
+15,01| Black Market                | OCP-BLKM | %    |      | 4 Sale/2 Trade       |
+15,01| Amiga Talk                  | OCP-AMGA | %    |      |                      |
+15,01| Musak                       | OCP-MUSK | %    |      | Music Discussion     |
+15,01| Red Tape                    | OCP-RDTP | %    |      | Politics             |
+15,01| Illegal Substances          | OCP-DRUG | %    |      | Drugs                |
+15,01| General HP Talk             | OCP-GNHP | %    |      |                      |
+15,01| Space-Time Continuum        | OCP-STCM | %    |      | Science Talk         |
+15,01| New Group Ideas/Support     | OCP-NGRP | %    |      |                      |
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01. Base Name: BBS Support      .          .      .      .                      .
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01| BBS/Mailer Support          | OCP-MBBS | %    |      |                      |
+15,01| ViSiON-X Support            | OCP-VISX | %    |      |                      |
+15,01| Obv/2 Support               | OCP-OBV2 | %    |      |                      |
+15,01| ViSiON/2 Support            | OCP-VIS2 | %    |      |                      |
+15,01| Renegade Support            | OCP-RENE | %    |      |                      |
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01. Base Name: /+NSi            .          .      .      .                      .
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01| /+NSi Discussion            | OCP-ANSI | %    |      |                      |
+15,01| /+NSi Gallery               | OCP-ANSG | %    |      | ANSi Pictures        |
+15,01| Board Ads                   | OCP-BBSA | %    |      | BBS Ads Only!        |
+15,01| General Group Discussion    | OCP-GRPD | %    |      |                      |
+15,01| ACiD Discussion             | OCP-ACID | %    |      |                      |
+15,01| iCE Discussion              | OCP-ICED | %    |      |                      |
+15,01| EMPiRE Discussion           | OCP-MPIR | %    |      |                      |
+15,01| BAD Discussion              | OCP-BADD | %    |      |                      |
+15,01| TRiBE Discussion            | OCP-TRIB | %    |      |                      |
+15,01| GOTHiC Discussion           | OCP-GTHC | %    |      |                      |
+15,01| RELiC Support               | OCP-RLEC | %    |      |                      |
+15,01| iLLuSioN Support            | OCP-ILLU | %    |      |                      |
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01. Base Name: Private Groups   .          .      .      .                      .
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01| iLLuSioN Private Group Talk | OCP-PILL |   $  |      |                      |
+15,01|  [Mail Scandal for Info]    | OCP-???? |   $  |      |                      |
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01. Base Name: OCP Bases        .          .      .      .                      .
+15,01+-----------------------------+----------+------+------+----------------------+
+15,01| OCP Suggestion Box          | OCP-SGST |*     |      | Comments/Suggestions |
+15,01| OCP Test Base               | OCP-TEST |*     |      |                      |
+15,01| OCP Blacklist               | OCP-BLKL |* !   |      | Blacklist users?     |
+15,01| OCP Sysops                  | OCP-SYSO |* !   |      | Sysops Only!         |
+15,01+---------.. . .  .  . . ..---+----------+------+.. . .  .  . . ..------------+
+

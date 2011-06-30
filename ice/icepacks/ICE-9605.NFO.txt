@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                          M  A  Y      1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+15,011.  Another month, another pack. :)  We've decided to try to get this pack
+15,01    out at the beginning of the month and bite the bullet with all the artists
+15,01    who needed thier typical day or two to finish thier artwork... The size
+15,01    might not be what we're accustomed to releasing, but the change for the
+15,01    better can never occur otherwise.
+
+15,012.  Our webpages were officially open to the public on 10:00p on the 15th of
+15,01    the month!  That's right, http://www.ice.org is now a reality.  We're
+15,01    quite pleased with the outpouring of positive comments we've received,
+15,01    and are confident that these pages are the beginning of something
+15,01    fantastic for us as a group.  In the first 15 days, we had over 1.5 gigs
+15,01    of information transfered to thousands and thousands of new users.
+15,01    Congratulations to all those involved in the construction of the page,
+15,01    your diligence has made something we can all be truly proud of.
+
+15,013.  The pages.. are HTTP://WWW.ICE.ORG.. repeat.. HTTP://WWW.ICE.ORG.  Is
+15,01    this a shameless plug?  Of course not.  We're beyond shame. :)
+
+15,014.  A very warm welcome this month to Annihilatus, Megalith, and Vesalius..
+15,01    three VGA artists with very different styles among them.  These three
+15,01    fellas will be sure to bring a wealth of high quality VGA artwork for you
+15,01    all to enjoy.  In our ansi department, we welcome Dieznyik and his
+15,01    wonderfully unique personality and artistic style to the iCE ranks.  He's
+15,01    certainly no stranger to attention, and perhaps being among the iCE
+15,01    family will focus the world's attention on his artistic skill.  George
+15,01    Washington also was summoned back to life from the positive vibes we've
+15,01    been exuding, and returns with some old school flair.  Last, but
+15,01    certainly not least, we welcome our old friend Cavalier to our memberlist.
+15,01    His presence to the group, for those who know him, needs little
+15,01    explanation, and we're pleased to have him back oiling our gears.
+
+15,014b. On the flip side, we're sad to mention that Maestro has left the iCE
+15,01    ranks to persue some group entitled Quest.  We never truly found out
+15,01    what his intents were in doing this, but we wish him the best regardless
+15,01    in his endeavors.  In addition, we'd like to pay a quick thanks to Borian,
+15,01    who stepped down this month as VGA coordinator.  Needless to say, he
+15,01    did an awesome job in this capacity, and our VGA department could be
+15,01    nothing but better for the wear because of the input he had.  We
+15,01    understand the personal issues that have forced him to devote less time
+15,01    to his group stuff, and we look forward to his future pictures with the
+15,01    group.  In related news, we'd like to welcome Xten as our new VGA
+15,01    coordinator.  His leadership on the webpage as well as his long time
+15,01    loyalty to the group's cause makes him a natural replacement for the
+15,01    position.  Congratulations!
+
+15,015.  Blunder department!  We made a very big error.  Our apologies to Borian
+15,01    for releasing an unfinished picture in last month's pack.  The picture,
+15,01    bn-ice6.jpg, even though it looked fantastic as all of Brent's other work
+15,01    does, wasn't finished.  Our sincere apologies for this blunder.  We're
+15,01    awaiting our wet noodle flogging.
+
+15,016.  NAID:  As of this writing, we just received word that one of our artist
+15,01    duos, that of Visigoth and Lintec, was disqualified from the contest.
+15,01    Needless to say, we need to find out the whole story as to what happened,
+15,01    but from what we understand from Visigoth, the two artists were
+15,01    disqualified following the judging process, after thier pic was voted
+15,01    overwhelmingingly the best picture by the public.  We send out our support

@@ -1,0 +1,80 @@
+15,01+-- # [LiNK] Linking Humans Everywhere
+15,01+-- # Infofile/Progress Update 07/08/94
+
+15,01# What is Link?
+
+15,01        Link is not an echomail network.
+15,01        Link is not a file network.
+15,01        Link serves only to Link the virtual community.
+
+15,01        I don't see Link as a Fido Style network.  There are rules.
+15,01        But, it is for a completely different purpose.
+15,01        It is not net as a whole like fido is.
+15,01        It is a collection of networks.
+15,01        Each Network has a completely different society.
+15,01        But they are all linked.
+15,01        People could have an address.
+
+15,01        beatle link@13:13/0
+
+15,01        If you were on any system anywhere in the world that was linked
+15,01        you could send netmail to me at my TabNet address.
+15,01        It is basically a poor mans internet.
+
+
+15,01# How does Link work?
+
+15,01        Link works when a network joins with the other.                
+15,01        Right now there are three networks, loosely linked.
+15,01        UC-Link, PsychoNet, and TabNet.
+15,01        The Hosts of these three nets act as LinkHubs.
+15,01        The same way Fido has RC, NC and DC's.
+15,01        But they do not all share the same zones.
+
+15,01                TabNet    13:13/* 13:18/*
+15,01                PsychoNet 666:604/* 666:1313/*
+15,01                UC-Link   10:604/* 10:416/*
+
+15,01        The Link nodelist only contains the Link Hubs (the hosts
+15,01        for the seperate networks).  The most important thing about
+15,01        Link is netmail routing.
+15,01        That will be explained later.
+
+15,01# Rules of Link
+
+15,01        1. No posting of BBS Adds, the origin line is for that.
+15,01        2. No Ansi, RIP or Pipe codes.
+15,01        3. No talk of illegal subject matter.
+15,01        4. Please be courtious and friendly.
+15,01        5. PGP Mail is allowed, right now in both
+15,01           netmail AND the echomail area.
+15,01           (routing is not fully functional yet)
+
+15,01# Link Stats
+
+15,01        Echoarea tag  :  LINK
+15,01        Area name     :  [LiNK] BBS Name
+15,01        Origin line   :  [LiNK] BBS Name - [###]pho-ne##
+15,01                (if you want your system to remain private then
+15,01                 just put [###]pri-vate for the phone number)
+
+15,01# Netmail Routing
+
+15,01        This is by far the most important thing.  This is what Link
+15,01        is for.  The echomail base serves only as a pathway to meet
+15,01        new people.  The Netmail base is for everything else.
+15,01        All netmail routing is done through the host of your net.
+15,01        As he is the one with the nodelist.
+15,01        From there your host will send it to the host of the net
+15,01        you are trying to reach.  Where it will be sent to the node.
+15,01        You might think that this is a slow method.  Well, in fact it
+15,01        isn't.  All nodes are encouraged to build there own paths.
+15,01        If you think there is a shorter way to route it, then tell
+15,01        everyone, and set it up.  If you want to send direct, then add
+15,01        the node to your nodelist, if it is long distance and you still
+15,01        want to send direct then hey! go ahead!
+15,01        In essence Link will be a living breathing entity.
+15,01        Always growing webs and reaching out to other networks.
+15,01        Whenever a new network joins, netmail routing will be
+15,01        adjusted.  Faster paths may be found.
+15,01        If everyone who joins keeps it up and looks for the faster

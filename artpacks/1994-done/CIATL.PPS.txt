@@ -1,0 +1,34 @@
+15,01;           CiA Turbo Login v.01 - by Defcon 4 [=CiA=] [=PCB/X=]
+15,01;
+15,01;This source has been included ONLY for the purpose of changing any prompts
+15,01;or paths and filenames used in this ppe.  It has also been released to 
+15,01;insure sysops of a back door free ppe.  Please do not re-distrubite this ppe
+15,01;in any altered form.
+
+15,01STRING TL                    
+
+15,01INPUTSTR "@X0BTurbo Login", TL, 0Eh, 1, "YynN", FIELDLEN + GUIDE + HIGHASCII + L
+15,01FAFTER + UPCASE
+15,01IF (TL = "N") THEN
+15,01  NEWLINES 2
+15,01  IF (EXIST(PPEPATH() + "LOGON.")) THEN
+15,01    DISPFILE PPEPATH() + "LOGON.", LANG + SEC + GRAPH
+15,01    GOTO END
+15,01  ELSE
+15,01    PRINTLN "@X0BCannot find login file, notify sysop"
+15,01    WAIT
+15,01    GOTO END
+15,01  ENDIF
+15,01ELSE
+15,01  IF (EXIST(PPEPATH() + "NEWS.")) THEN
+15,01    DISPFILE PPEPATH() + "NEWS.", LANG + SEC + GRAPH
+15,01    GOTO END
+15,01  ELSE  
+15,01    GOTO END
+15,01  ENDIF
+15,01ENDIF
+
+15,01:END
+15,01NEWLINES 1
+15,01PRINTLN "CIATL by Defcon 4 [=CiA=] [=PCB/X=]"    ;DO NOT REMOVE THIS LINE
+15,01END

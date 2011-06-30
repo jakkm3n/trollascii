@@ -1,0 +1,20 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 3/1/2000
+15,01###############################################
+15,01us-idraw.ice,ANSI,iCE Draw,Kitiara
+15,01ice-0002.nfo,ANSI,iCE 00/02 Info File,iCE Senior Staff
+15,01ice-0002.dsc,ANSI,iCE 00/02 iCEView description file,iCE Senior Staff
+15,01ice-0002.mem,ANSI,iCE 00/02 Member List,iCE Senior Staff
+15,01ice-0002.sit,ANSI,iCE 00/02 Site listing,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01dh-dt.jpg,EXTERNAL,DT,Darkhalo
+15,01dm-swm.jpg,EXTERNAL,Sex With Wings,Darkmage
+15,01dv-oscar.jpg,EXTERNAL,Oscar Interface,DaVinci
+15,01ja-jj1.jpg,EXTERNAL,Imagination,Jae
+15,01nf-efas.jpg,EXTERNAL,Zombie Love,The Necro
+15,01rl-animo.jpg,EXTERNAL,Animo "The Alien",Rogue Leader
+15,01sd-1911a.jpg,EXTERNAL,1911,Shade
+15,01sk-lost.jpg,EXTERNAL,Lost,Sprite
+15,01te-nitmr.jpg,EXTERNAL,Nightmare,Tetanus
+15,01ve-think.jpg,EXTERNAL,iCE,Vesalius
+15,01xe-escp2.jpg,EXTERNAL,Escape,Xebra

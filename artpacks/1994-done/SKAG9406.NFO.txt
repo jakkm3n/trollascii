@@ -1,0 +1,80 @@
+
+
+15,01                           mm
+15,01                 mm14,15    15,01mm  14,15  15,01"
+15,01                14,15  15,01""  ""14,15  15,01 14,15 15,01|
+15,01               |14,15 15,01|      |14,15 15,01 14,15 15,01|
+15,01                14,15  15,01mm    "  14,15 15,01|mm14,15   15,01mm    mm14,15   15,01mm     mm14,15   15,01mm
+15,01                 ""14,15    15,01mm  14,15   15,01"  "14,15  15,01|  14,15  15,01"   "14,15  15,01   14,15  15,01"   "14,15  
+15,01                 m    ""14,15  15,01 14,15  15,01|     14,15 15,01| |14,15 15,01     |14,15  15,01| |14,15 15,01     |14,15  15,01|  m"
+15,01                14,15 15,01|      |14,15 15,01|14,15 15,01|14,15  15,01mmm14,15 15,01" m14,15  15,01    m14,15 15,01|14,15 15,01| 14,15  15,01    m14,15 15,01|14,15  15,01m"
+15,01                14,15  15,01mm  mm14,15  15,01 14,15 15,01| "14,15 15,01m  m14,15  15,01|14,15  15,01mm14,15  15,01  14,15   15,01|14,15  15,01mm14,15   15,01 14,15  
+15,01                 ""14,15    15,01""  14,15  15,01m "14,15    15,01"  "14,15   15,01"   "14,15 15,01"  "14,15   15,01"m"|14,15 
+15,01                           ""    ""                   mm"  |14,15 
+15,01                                                    m14,15 15,01"    |14,15 
+15,01                                                   |14,15 15,01m    m14,15 15,01|
+15,01                                                    ""14,15    15,01""
+
+
+15,01SKAG pack 2 is finally here, 1 month after the first pack.  We have some more
+15,01ANSI, VGA accompanied by an S3M and SKAGVIEW V1.1.  It has been difficult to
+15,01produce much work for this pack, since we have been up to our ears in homework.
+15,01We are still taking up requests so feel free to contact me on Breakdown or
+15,01Internet.  There are only 2 ANSI/VGA artists in SKAG so contact me now if you
+15,01wish to join!  We welcome new talent such as RIP and ASCII artists, coders and
+15,01of course, ANSI and VGA artists.  Myth is now into VGA as well as ANSI, so
+15,01you'll see more VGA in the future.  Dynamic has improved SKAGVIEW and removed
+15,01some bugs you may have discovered.
+
+
+15,01SKAG welcomes a new member -
+
+15,01Acid Rain is a talented musician who is also currently in Breakdown Demo Crew
+15,01and Unregistered.  Be sure to check out his SKAG S3M.
+
+
+15,01SKAG Members - 1st June 1994 -
+
+15,01ACID RAIN         - Musician
+15,01DYNAMIC           - Coder
+15,01LORD GRAFIX       - ANSI/VGA artist
+15,01MYTH              - ANSI/VGA artist
+
+
+15,01 +================+================+==============================+===========+
+15,01 |  ARTIST        |  FILENAME      |  DESCRIPTION                 |   MODE    |
+15,01 +================+================+==============================+===========+
+15,01 |  Acid Rain     |  AR-SKAG.S3M   |  SKAG music (10 channel)     |     -     |
+15,01 +----------------+----------------+------------------------------+-----------+
+15,01 |  Dynamic       |  SKAGVIEW.EXE  |  SKAG ANSI viewer V1.1       |     -     |
+15,01 +----------------+----------------+------------------------------+-----------+
+15,01 |  Lord Grafix   |  LG-BD#1.ANS   |  Breakdown BBS Logon Screen  |   80x25   |
+15,01 |                |  LG-UP#1.ANS   |  Unknown Pleasures FSP Logo  |   80x25   |
+15,01 +----------------+----------------+------------------------------+-----------+
+15,01 |  Myth          |  MT-SOUL.ANS   |  SKAG Ansi                   |   80x25   |
+15,01 |                |  MT-XME#1.GIF  |  X-Men VGA                   |  320x200  |
+15,01 |                |  MT-VOO#1.GIF  |  SKAG VGA                    |  320x200  |
+15,01 +================+================+==============================+===========+
+
+
+15,01Lord Grafix greets - Denthor, Dungeoneer, Electron, GiDEON
+
+15,01Myth greets        - Dungeoneer, everyone at Kilcunda!
+
+15,01Group greets       - Asphyxia, Breakdown Demo Crew
+
+
+15,01Official Dist Site - Breakdown: Line 1 - +613-555-9818
+15,01                                Line 2 - +613-555-4448
+15,01                                Line 3 - +613-555-6993
+
+
+15,01If you wish to join SKAG, want to be a dist site, want an ANSI or VGA, contact:
+
+15,01        Lord Grafix on: Breakdown
+15,01                        Internet: 9125590@edna.cc.swin.edu.au
+15,01                                  Please address E-mail to Lord Grafix
+15,01                                  Or catch me on IRC as LordGFX
+
+
+

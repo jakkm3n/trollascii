@@ -1,0 +1,73 @@
+
+15,01        mm14,15  #15,01m                m # "   m        mm14,15 ##15,01m                m
+15,01    mm14,15        #15,01m         mmm14,15#15,01"          #  mm14,15       ##15,01m         mmm14,15#15,01"|
+15,01  m14,15  15,01"14,15      #####15,01mmmmm14,15     #15,01|     mm     m14,15   15,01"14,15#       ##15,01mmmmm14,15      15,01|#"   mm
+15,01 |14,15 #15,01| |14,15    15,01"""    # 14,15      ##15,01mmm14,15#   ##15,01m  |14,15   15,01 |14,15#  15,01""""   ## 14,15       #15,01mmm14,15#   ##15,01m
+15,01 14,15  #15,01|##"    mmm14,15 #15,01m |14,15      #15,01|  |14,15     ###15,01 14,15   15,01| "    mmm14,15  #15,01m |14,15      #15,01| "14,15      ##15,01|
+15,01 14,15  #15,01| mmm14,15        #15,01| 14,15      ##15,01#m14,15#     ##15,01| 14,15  #15,01|  mm14,15        #15,01| 14,15     ##15,01|##|14,15      ##
+15,01 14,15# ##15,01  14,15          # 15,01 |14,15    ##15,01|  14,15#     #15,01|| |14,15 ##15,01m |14,15         ##15,01 |14,15    ##15,01|"#m14,15     ###15,01|
+15,01 |"14,15  #15,01m"14,15        ##15,01|  14,15# 00,01@15""14,15 #15,01mm14,15    ##15,01" | |"14,15  ##15,01m"14,15       ##15,01|  14,15#    ##15,01m  |14,15  ## 15,01""|
+15,01 |  "14,15        ###15,01"" m""00@15|     |""""  # | | |"14,15         ##15,01""||""       | 14,15  #15,01"    |
+15,01 "m   |"""""""     |  #|   ##|    ## m" |    |"""""""|   ||  ##  mmm||14,15#15,01" # mm""
+15,01   "m14,15###15,01     |   m | mm"""mmm14,15#15,01m   mm"   "m   |      #|  m||mm""""    | ##m"
+15,01     "14,15#15,01mmmmmm14,15#15,01mm"  ""         """"        "mm|   # ##14,15#15,01m"             |#m"
+15,01                                             """"""""                |"
+15,01..cH!SAC..
+
+
+15,01    when#the search for the higher intelligence fails, ch & cb come through
+15,01+-------00@15---------------------------------------------------------------------+
+15,01| #####00@14,15#00,01@@15###################################################################|
+15,01+-------00@15---------------------------------------------------------------------+
+15,01+-------#-- -- 00@15-+
+15,01|release#notes # |
+15,01+-- +------------+
+
+15,01 Well, just unarj and run :) We ripped out the windows 3.1 out of the suite.
+15,01 this is because .. hmm.. well.. NOONE HAS WINDOWS 3.1!!!! =).  Anyway, I really
+15,01 dont think there is much reason to explain what this util is.
+
+15,01 * What's New in SoftICE 3.2
+15,01      SMP Support (Windows NT version)
+15,01      Memphis Beta 1 support (Windows 95 version)
+15,01      Universal Video Driver
+15,01      Improved serial operation
+15,01      43 Lines on Hercules-compatible Monochrome Cards
+15,01      Miscellaneous Options
+
+15,01ok.. btw- when you install this thing, just enter any serial you want to.
+
+15,01Thats about it :) DONT expect much more from the dynamic duo :)
+
+15,01+-------00@15---------------------------------------------------------------------+
+15,01| #####00@14,15#00,01@@15###################################################################|
+15,01+-------00@15---------------------------------------------------------------------+
+15,01+-------#-+
+15,01|members# |
+15,01+-- +-----+
+15,01                        China Blue   &   Creature of Hell
+
+15,01+-------00@15---------------------------------------------------------------------+
+15,01| #####00@14,15#00,01@@15###################################################################|
+15,01+-------00@15---------------------------------------------------------------------+
+15,01+-------#-+
+15,01|news   # |
+15,01+-- +-----+
+
+15,01      special super mega killer combo greet goes out to ACP .. MEEP!!! .. thanx
+15,01      for teaching me the shaolin method of cracking installshield.  I guess
+15,01      generic greets go to everyone else including (but not contstrained to)
+15,01      the following people:
+
+15,01      MADMAX!, TAIL GUNNER, J0B (the king of install shield), ALL THE PC`97 AND
+15,01      UCF CREW, RAZZIA, THATDUDE, HOLYBEAST, ZEUS, HEMP HOODLUM, SHARPARINA,
+15,01      COUSIN M00NL0RD, PSYCHOTRON, REFORMED, TOTH, KIRK HAMMET, ZIMA, LINK,
+15,01      WOLVERINE, G-ROM, MUSASHI, TERAPHY, JESTRZ, MENION, SNOOPY, GARFIELD,
+15,01      JOHNY BRAVO, THAT BLACK GUY IN WU-TANG CLAN, THE WICKED ONE aka TWO
+15,01      and i guess that covers it all.
+15,01                                   1
+
+15,01      oh.. I forgot, I must say peace to:
+
+15,01      PDM, SAC, SEiGE, RiSE, RAZOR, and PEE -N- CEE
+15,01>

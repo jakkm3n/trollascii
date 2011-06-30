@@ -1,0 +1,5 @@
+15,01Infectious view is still in EARLIE BETA testing. It doesnt even support a
+15,01file mask other than *.ans, or even have a real interface yet. You've
+15,01been warned.
+
+15,01this pack is best viewed using acidview... for now

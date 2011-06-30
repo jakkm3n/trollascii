@@ -1,0 +1,45 @@
+15,01[Jihad...General]
+
+15,01Handle:
+
+15,01Give us a 2 letter abbriviation of your handle:
+
+15,01Full name:
+
+15,01Age:
+
+15,01Voice #:
+
+15,01Data #:
+
+15,01Inter Net email address:
+
+15,01City, State:
+
+15,01Country:
+
+15,01Computer type:
+
+15,01Previous groups:
+
+15,01Do you run a board?
+
+15,01        Name:
+15,01        Number:
+15,01        NUP:
+
+15,01[Jihad...Musician]
+
+15,01How many mods have you made:
+
+15,01What is the average length of your mods:
+
+15,01What is your style (techno, rock, chip, etc):
+
+
+15,01Now, zip this up with a sample of your best work and return it to me at:
+15,01        Eleutheria
+15,01        Harvest Moon
+15,01        Terra Firma
+15,01        email:  hFaze@cybernetics.net
+15,01        dcc it to me on irc

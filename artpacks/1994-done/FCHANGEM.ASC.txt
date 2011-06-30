@@ -1,0 +1,8 @@
+
+
+15,01+==========================  FILE CHANGE - SYSOP MENU  =======================+
+15,01| D) Description               S) Special request        A) Password          |
+15,01| F) Filename                  U) Uploader               P) Path              |
+15,01| B) Take Offline              T) Change To Who          Q) Quit              |
+15,01| N) New file rating           V) Point value                                 |
+15,01+=============================================================================+

@@ -1,0 +1,31 @@
+15,01ETE0194.ETE,January 1994 Member/Site List  Mazter
+15,01CY-MMS.ETE,Multimedia System  Cybernary
+15,01CY-IVR1.ETE,Inverse Reality  Cybernary
+15,01CY-FANAT.ETE,FanaticNet Logo  Cybernary
+15,01CY-PSY1.ETE,Psychosis Logo1  Cybernary
+15,01CY-PSY2.ETE,Psychosis Logo2  Cybernary
+15,01CY-IRID.ETE,Iridium Logo  Cybernary
+15,01DD-DIST2.ETE,Distorted Logo  Deeply Disturbed
+15,01D&D-HOP.ETE,House Of Pain  Darkwolf/Deeply Disturbed
+15,01D&D-POP.ETE,Palm of Prophecy  Darkwolf/Deeply Disturbed
+15,01DW-STATS.ETE,Stat Screen  Darkwolf
+15,01LI-REAL.ETE,Reality Logo  Lithium Insanity
+15,01LI-WEB1.ETE,The Web  Lithium Insanity
+15,01MA-DR3.ETE,Death Row  Maestro
+15,01MA-DELR.ETE,Delusions Of Reality  Maestro
+15,01MA-CRI2.ETE,Critic Logo  Maestro
+15,01MA-FAN2.ETE,FanaticNet Logo  Maestro
+15,01MA-MH2.ETE,Mass Hysteria  Maestro
+15,01MA-MHMX.ETE,Mass Hysteria Matrix  Maestro
+15,01MA-ELGO4.ETE,ETERNiTY Logo  Maestro
+15,01MA-REAL.ETE,Reality Ad  Maestro
+15,01MA-STAT4.ETE,Message Stats  Maestro
+15,01MA-STAT5.ETE,File Stats  Maestro
+15,01SOI-AN1.ETE,Advertisement  Spirit Of Illusion
+15,01SOI-FLE2.ETE,File Menu  Spirit Of Illusion
+15,01SOI-DEV1.ETE,Devo Ad  Spirit Of Illusion
+15,01SOI-DEV2.ETE,Devo Ad 2  Spirit Of Illusion
+15,01SOI-DEV3.ETE,Devo Ad 3  Spirit Of Illusion
+15,01SOI-MSG2.ETE,Message Menu  Spirit Of Illusion
+15,01SOI-MN2.ETE,Main Menu  Spirit Of Illusion
+15,01SOI-DC1.ETE,Dark Courage  Spirit Of Illusion

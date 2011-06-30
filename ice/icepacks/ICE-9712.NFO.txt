@@ -1,0 +1,70 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                 D  E  C  E  M  B  E  R    1   9   9   7
+15,01-------------------------------------------------------------------------------
+
+15,011.  Seasons greetings  from the South Park  fan club (aka iCE Advertisements)!! 
+15,01 
+15,01We hope that you  and your families, friends, and loved ones enjoy the holidays
+15,01safely.  Of course,  when its all  said  and done,  there's a few more presents 
+
+15,01under the tree for you to open -- the iCEPACK graphics!
+
+15,012.  I (Force Ten) would like to note that the above  inclusion of the word/term
+15,01"families" was intentional and was a testimony about  the social culture of the 
+
+15,01modern era.
+
+15,013.  Number three fell out of the sleigh and is therefore unavailable.
+
+15,014.  Santa and Jesus  were busy fighting over orange  smoothies this month, thus
+15,01we were forced to enlist  Hanukkah Harry to  act as director of human resources 
+15,01 
+15,01for this pack's info file.  Harry unfortunately became verclempt and was unable
+15,01to divulge any information.   Even worse,  the humidity was too  much for  him. 
+15,01 
+15,01Well,  either way,  nobody left,  nobody joined,  and nobody got  lost in Times 
+
+15,01Square half-naked.
+
+15,015.  Due to  the festive holiday feeling we  all have around  the office here at
+15,01iCE  headquarters,  the obligatory Devastator  sexual  deviance story  has been 
+
+15,01omitted from  the final draft  of the info file.   Fans of Dev's silly exploits
+15,01can find some more at http://www.marvalbert.com/friends/Dev. 
+
+15,016.  I'd like to apologize  for the lack of real news this month.   Everyone was
+15,01busy drawing, partying, opening presents,  getting annoyed, returning presents,
+15,01standing  in line,  bitching and moaning, having a cow,  taking  vacation,  and 
+
+15,01pretending to be Friar Tuck this month.
+
+15,017.  As yet another year ends,  we at iCE look forward to 1998 as  another great
+15,01year of quality artwork,  fun times,  and good friendships.   Many people don't 
+
+15,01realize that the great iCE train started  rolling in 1991 (and may have existed
+15,01in some form since '90) and has not stopped since.   It's been a great ride and
+15,01we don't expect  it to end any time soon.  So,  tune in here  each month in the
+15,01coming year.  We at iCE wish you all a happy, healthy, safe new year!
+
+15,01-------------------------------------------------------------------------------
+15,01           Cold and Ugly           Force Ten           Mass Delusion
+15,01-------------------------------------------------------------------------------

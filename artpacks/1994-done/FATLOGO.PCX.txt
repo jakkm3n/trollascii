@@ -1,0 +1,67 @@
+
+15,01A@     ?@+ u u             >>>^^^   (((000888@@@HHHPPPXXX```hhh @@@@            
+15,01                                                         +           +          
+15,01 +           +           +           +           +           +           +     r
+15,01 +{    a     + +{+ +{    a     + +{+ +{    a     + +{+ +{    B     + +{+ +{    r
+15,01     + +{+ +{    r     = +{+ +{+ +{    E     + +{+ +{    0     + +{+ +{    E    
+15,01 + +{+ +{    *     + +{+ +{    *     + +{+ +{= +{    |     + +{+ +{= +{    |    
+15,01 + +{+ +{+ +{- +{    |     + +{+ +{+ +{+ +{    |     + +{+ +{= +{ -{    "     + 
+15,01+{+ +{- {+ +{    E     + +{+ +{+ {+ +{+ +{    n     + +{+ +{+ +{+ {- +{    r    
+15,01 + +{+ +{+ +{+ +{- +{    r     + +{+ +{ +{+ +{+ +{    r     - +{+ -{+ +{    n   
+15,01  + {+ +{    E           +           +           +           +           +      
+15,01     +           +           +           +           +           +           +  
+15,01         +           +   % +b+ +b    +   % bc+bc+bc+b+c+ c+b+cb+c+b+c+bc+bc    +
+15,01   % b+cbc+b+cb+cb+c+bc+ +c+bcb+cbcb+c+b+cbcbc    +   % +c+b+c+b+c+ +c+b+c    + 
+15,01  % +cd+cd+cd+ +cd+cd+c    +   % +d-cd+c+d+cd+cdc+ c+d+cd-c+d+c+d+c+d    +   % c
+15,01-d+co c+d+c+d    +   % +dcd+ +b+ +dc+d    +   % +d+ +bcb+cb+cb+ +d    +   % e+d+
+15,01e+d+ -cb+cb+cb+c+ ede+dede    +   % +d+ed+ede- +c+ +c+ +d+e    +   % +ed+ed+e- +
+15,01d+c+d+ +c+d+c+ +ed-e    +   % +ef+ef+ef+ +d+ f+ef-e    +   % f+ef+e+f+ef+e+ e+d+
+15,01 +ef+e+f    +   % +fe+fe+fefe+fe+ ed+ededed +d+e+de+ e+fe    +   % fe+f+ +eded+e
+15,01ded-e+ +f    +   % -fg+f+ +e+fef-efe+f+ +fg+f    +   % g+fgfgf+ fefe+fe+ e+fefef
+15,01+ fgfg+fgf    +   % +f-gf+ +f+ +f+ -g+f+g    +   % +g+ f+gf+g+ +f+g+fg+ +g    + 
+15,01  % +g+ gfgfgf-g+f-gf+g+ +g    +   % g+hg+hg+ +gh+gh+gh+g+ hg+h-g    +   % -hg+h
+15,01+ hg+hg+hghg +h+ghgh+ +hg+hghg    +   % +h+ +hg+ +h+ +hgh    +           +      
+15,01     +           +           +       + e  0   + +e+ +e  a +e+ -e  *   + +e+ -e  
+15,01| -e+ +e  *   + +e +e+ +e +e  | -e+ +e  0   + +e+ +e+ +e+ +e  | +e- +e  E   + +e
+15,01+ e+ +e+ e  | -e+ +e  E   + +e+ e+ +e+ +e+ +e  m +e +e+ +e +e  n   + e+ +e+ +e- 
+15,01+e+ +e  | +e +e- +e +e  =   + +e+ +e+ +e- +e+ +e  | +e +e- +e +e  +   + +e+ +e+ 
+15,01e+ +e  | +e +e+ +e+ +e  +   + e+ e+ +e+ +e  | +e+ +e+ +e+ +e  >   + +e +e+ +e +e
+15,01  | +e+ +e+ +e+ +e  >   + +e +e+ -e+ +e+ e+ -e+ e+ +e+ +e+ +e+ +e+ +e  I   + -e+
+15,01 +e- +e+ +e+ +e+ +e+ +e+ +e +e- +e+ e+ +e+ +e+ +e+ +e+ +e+ +e+ +e +e+ +e+ e+ +e 
+15,01 +   = -e+ +e- +e +e+ +e +e+ +e+ +e+ +e+ +e+ +e+ +e- +e +e+ +e+ +e+ +e+ +e+ +e+ 
+15,01e- +e +e -e  +   = +e+ +e+ +e +e+ +e+ +e+ +e+ +e+ +e+ +e+ +e+ +e- +e +e+ +e+ +e+
+15,01 +e +e- +e+ +e+ +e+ +e +e -e  +   + +e+ +e- +e+ +e+ +e+ +e+ +e+ e+ +e+ +e+ +e+ +
+15,01e- -e +e+ +e+ +e- +e+ +e+ +e+ +e e +e  14,15 15,01   + +e+ e+ +e+ +e+ +e +e+ e+ +e+ +e+ e 
+15,01+e+ +e+ +e+ +e- -e+ -e+ +e- +e+ +e+ +e+ +e+ +e +e +e  m   + +e+ e+ +e+ +e +e+ +e
+15,01+ +e= +e+ +e +e+ +e+ +e+ +e+ +e- +e+ +e- -e- +e+ +e+ +e+ +e +e +e  |   + +e+ +e+
+15,01 +e+ +e+ +e+ -e+ +e= +e +e +e +e+ e+ +e+ +e+ +e+ +e+ +e+ e+ +e+ +e+ +e+ +e+ +e+ 
+15,01+e  |   + +e +e+ +e- +e+ +e- +e +e+ +e+ +e +e+ +e+ +e- +e+ -e+ +e+ +e+ +e+ +e+ +
+15,01e+ +e +e+ +e  |   + -e+ +e+ +e+ +e+ +e+ +e+ -e+ -e+ -e+ +e +e+ +e= +e+ +e- +e+ +
+15,01e+ +e  |   + +e+ +e+ e+ -e+ +e+ +e+ +e+ +e+ +e+ +e= +e+ +e+ +e+ e- +e  m      +e
+15,01l +e+ +e  =     +el +e    +   2 +e+ +e        n +e+ +e         j +e+ +e         
+15,01. +e- +e      +   . +e+ +e      +   . +e+ +e      -   . +e      +   j +e      + 
+15,01          +           +           +           +           +       = -j  +       
+15,01= +j  +       n +j  +       n +j  +       E +j  +       E +j  +       E +j  +   
+15,01    E +j  +       0 +j  +       0 +j  +       * +j  +       * +j  +       * +j  
+15,01+       o +j  +       o +j  +       o +j  +       o +j  +       o +j  +       o 
+15,01+j  +       * +j  +       * +j  +       * +j  +       * +j  +       * +j  +     
+15,01  o -j  +       * +j  +           +           +           +           +         
+15,01  +           +           +           +           +           +           +     
+15,01      +           +           +           +           +           +           + 
+15,01          +           +           +           +           +           +         
+15,01  +           +           +           +           +           +           +     
+15,01      +           +           +           +           +           +           + 
+15,01          +           +           +           +           +           +         
+15,01  +           +           +           +           +           +           +     
+15,01      +           +           +           +           +           +           + 
+15,01          +           +           +           +              >>>^^^   (((000888@
+15,01@@HHHPPPXXX```hhhpppxxxaaaiiioooLLLnnnKKK++++++---++++++mmmEEE***lllnnnnn+n++n+n
+15,01++n+nn+n++nLnnLn+LnLLnL+nLn+LnLLnL+nLnnLn+LnLLnl+nlnnln+lnLlnlllnllnLln+lnnl+nlL
+15,01n+lnnlnnl+nlLn<<nl<nL<n+<nn<+n<Ln<ln<<n<<nl<nL<n+<nn<+n<Ln<ln<<nl<nL<n+<nn<nn<+n
+15,01<Ln<ln <n  n< nl nL n+ nn +n Ln ln <n  n  n< nl nL n+ nn +n Ln ln <n  n< nl nL n
+15,01+ nn nn +n Ln l+ <+  +< +l +L ++ L+ l+ <+  +  +< +l +L ++ L+ l+ <+  +< +l +L ++ 
+15,01++ L+ lL <L  L< Ll LL lL <L  L  L< Ll LL lL <L  L< Ll LL LL ll <l  l< ll <l  l  
+15,01l< ll <l  l< ll l<  <<  <  <<  << <l<<ll<<l<<ll<<ll<lL<<Ll<LL<lL<<L<<Ll<LL<lL<<L
+15,01l<LL<LL<l+<<+l<+L<++<L+<l+<<+<<+l<+L<++<L+<l+<<+l<+L<++<++<L+<l+ll+Ll++lL+ll+ll+
+15,01Ll++lL+ll+Ll++l++lL+LL++LL+LL++LL++L+LllLLllLllLLllLLlL   <<<lllLLL+++nnnnX L_PE
+15,01En   XXXyyy+++n  

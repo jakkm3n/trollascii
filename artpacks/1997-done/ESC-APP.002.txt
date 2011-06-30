@@ -1,0 +1,50 @@
+15,01GENERAL INFORMATION
+15,01-------------------
+
+15,01alias :
+15,01real name :
+15,01age :
+15,01voice phone number :
+15,01city :
+15,01state :
+15,01country :
+15,01current affils :
+15,01email addressed used :
+
+15,01BBS INFORMATION
+15,01---------------
+
+15,01bbs name :
+15,01baud rate(s) :
+15,01number of nodes :
+15,01phone number(s) :
+15,01type of mailer :
+15,01up 24 hours? :
+15,01megs online :
+15,01# of users :
+15,01length bbs up :
+15,01main focus of bbs :
+15,01bbs affils :
+15,01bbs rating (1-10) :
+
+
+15,01OTHER INFORMATION
+15,01-----------------
+
+15,01        Tell us a little bit about yourself, and how you want to poll us
+15,01(internet) or direct to the whq.  Also tell us if you have any echo/twilight
+15,01members on your board.  Also tell us why you want to join this net, and why
+15,01we should accept you.  Leaving this area BLANK will result in automatic
+15,01rejection.
+
+15,01.
+15,01.
+15,01.
+15,01.
+15,01.
+15,01.
+
+15,01        Zip up this application in the form xxx-esc!.zip.  Look in
+15,01esc-cntc.xxx to find out how to contact us and where to drop off your
+15,01application.  We will most probably contact you through email if you are
+15,01long distance for us.

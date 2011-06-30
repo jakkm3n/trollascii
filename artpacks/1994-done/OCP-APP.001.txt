@@ -1,0 +1,80 @@
+15,01   Thank you for your interest in the [O]rganization for [C]orrupt [P]irates.
+15,01    Please fill this app out with a Text Editor that saves in straight ASCii
+15,01      form. Fill this application out in its entirity and then call any HQ
+15,01   or Official Support Board listed at the bottom, and UL your app under the
+15,01 Handle: OCP, PW: OCP, Last 4 Digits of Phone Number: 1234 to the correct area
+15,01      specified. We will contact you within 1-2 weeks if you are accepted.
+
+15,01      .
+15,01    . +-------------------------------.. .  .   .
+15,01  .-+.+-----------------------------------------.. .  .   .
+15,01    |-| Personal Info
+15,01    | | . .-------. .
+15,01    | | Real Name:...............................  ..  . .   .      .
+15,01    | | Handle:............................   .   . ...  ..  ..
+15,01    | | Age:...
+15,01    | | Area Code:...
+15,01    | | Voice Number:.......... .
+15,01    | | Best Time To Call:............ . .. .  ..
+15,01    +.+---.. .  .    .
+15,01    |-| Board Info
+15,01    | | . .----. .
+15,01    | | Name:........................... ..  . ..  . ..    .
+15,01    | | Sysop:.....................  . ...   ..    .  .
+15,01    | | Co-Sysop(s):..................................  .. .   .  .  .
+15,01    | | Number:........ .. .
+15,01    | | Software/Version:.................  ....  ..   . .   .
+15,01    | | NUP:..................  ..  .  . ...    .
+15,01    | | Number Of Nodes:..
+15,01    | | Meggage NOW:.....  .   .       .
+15,01    | | Affiliations:..................................   ....  . .   .
+15,01    | |             :................................ ....  .  .   . ..
+15,01    | | Other Nets (Name and Address)
+15,01    | | .............................(  :  /  .  )
+15,01    | | .............................(  :  /  .  )
+15,01    | | .............................(  :  /  .  )
+15,01    | | Length Up:........ .. .  .   .
+15,01    +.+---.. .  .    .
+15,01    |-| User Info
+15,01    | | . .---. .
+15,01    | | Number Of Users:....
+15,01    | | Average Number of Call/Day:...
+15,01    | | Average Number of Posts/Day:.....
+15,01    +.+---.. .  .    .
+15,01    |-| Modem Info
+15,01    | | . .----. .
+15,01    | | Brand:............. .. .  .    .
+15,01    | | Speeds Supported (Check All That Apply)
+15,01    | | [ ] 300   [ ] 1200  [ ] 2400  [ ] 9600
+15,01    | | [ ] 14.4k [ ] 16.8k [ ] 19.2k [ ] 21.6k
+15,01    | | [ ] 24.0k [ ] 28.8k
+15,01    | | Protocals Supported (Check All That Apply)
+15,01    | | [ ] v.32      [ ] v.42      [ ] HST
+15,01    | | [ ] v.32bis   [ ] v.42bis
+15,01    +.+---.. .  .    .
+15,01    |-| Mailer Info
+15,01    | |. .-----. .
+15,01    | | Mailer Used:.......... . .   .     .
+15,01    | | Is it Operational?:...
+15,01    | | Is it up 24hrs/Day?:...
+15,01    | | Are you willing/able to poll every night?:...
+15,01    +.+---.. .  .    .
+15,01    |-| References
+15,01    | | . .----. .
+15,01    | | User Vouches:
+15,01    | | 1>.....................  ...   .     .
+15,01    | | 2>....................  ..  .  . .  ..
+15,01    | | 3>....................... . . .  ... .
+15,01    | | Boards on w/AC
+15,01    | | 1>...................... . .   ... .  . .  .[   ]
+15,01    | | 2>......................... ..  ...   ..  ..[   ]
+15,01    | | 3>....................... . . .. .  . .  . .[   ]
+15,01    +.+---.. .  .    .
+15,01    |-| Essay
+15,01    | | ..-..
+15,01    | | In the following space, tell why you choose
+15,01    | | OCP, and give any other info you feel we
+15,01    | | should know:
+15,01    | | >
+15,01    | | >
+15,01    | | >

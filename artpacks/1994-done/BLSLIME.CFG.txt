@@ -1,0 +1,12 @@
+15,01BLSLIME                 ; ANSI boarder screen name
+15,01PROMPTS                 ; Name of Prompt file
+15,01QUEST                   ; Name of Question File
+15,01@X08                    ; Header color (Seted 2b copyright 1994)
+15,01@X0B                    ; Menu Selection color (1,2,3)
+15,01@X09                    ; Description color (Your Password is)
+15,01@X0F                    ; Data Color (<Hidden>)
+15,01@X09                    ; Prompt Color (Edit 1-17)
+15,01@X09                    ; Questions color (Enter new Password)
+15,01@X01                    ; Dash color ( - )
+15,01@X0B                    ; Users Input Color
+15,01@X01                    ; colon color ( : )

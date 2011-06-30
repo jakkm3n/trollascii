@@ -1,0 +1,7 @@
+15,01AX-DOD1.VOR      08Daw05n o0Df Dar05kn08ess 06(0CBy Asterix06)
+15,01GF-METAL.VOR     08Met05al 0DMen05ga08rie 06(0CBy Gyrfalcon06)
+15,01GF-VOR.VOR       08Visio05ns o0Df Rea05lit08y Logo 06(0CBy GF06)
+15,01GF_HP-UG.VOR     08Unk05now0Dn Ga05lax08ies 06(0CBy HP & GF06)
+15,01HP-CR.VOR        08Cy05be0Dr 05Ro08ck 06(0CBy Hollow Point06)
+15,01HP-THW.VOR       08The 05Hi0Ddde05n W08all 06(0CBy Hollow Point06)
+15,01SB-IMREC.VOR     08Immor05al 0DRec05re08ation 08(0CBy Starbuck06)

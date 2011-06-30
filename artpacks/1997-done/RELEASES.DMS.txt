@@ -1,0 +1,80 @@
+
+15,01                                            #  m
+15,01m "          "   #m                 #      "     # m        m  "    14,15#15,01 m    "  m
+15,01 m14,15  15,01"14,15  15,01m   m14,15  15,01"14,15  15,01m # m14,15  15,01 mA!   m14,15  15,01"14,15  15,01m " m14,15  15,01"14,15  15,01m   m14,15  15,01"14,15  15,01m # m14,15  15,01"14,15  15,01m # m14,15  15,01"14,15  15,01m
+15,01|14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15 # 15,01 ###  |14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15 # 15,01 14,15   15,01|
+14,15    15,01 14,15    15,01 14,15    15,01""""" 14,15    15,01      14,15    15,01""""" mmmmm14,15    15,01 14,15    15,01mmmmm 14,15    15,01m14,15    15,01 14,15    15,01mmmmm
+14,15    15,01      14,15 15,01#14,15  15,01 14,15    15,01 14,15    15,01 14,15    15,01 14,15 ## 15,01 14,15    15,01 14,15  # 15,01 14,15    15,01 mmmm 14,15 ## 15,01 14,15    15,01 mmmm mmmm 14,15 #  
+15,01|14,15 # 15,01 ###  |14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15   15,01 14,15 00,01@14,15 15,01| |14,15   15,01 14,15   15,01| |14,15   15,01 14,15   15,01| |14,15   15,01 14,15 # 15,01|
+15,01#"14,15  15,01       "14,15  15,01m14,15  15,01" # "14,15  15,01m14,15  15,01"   "14,15  15,01m14,15  15,01"   "14,15  15,01m14,15  15,01"   "14,15  15,01m14,15  15,01" # "14,15  15,01m14,15  15,01"   "14,15  15,01m14,15  15,01"
+15,01 "  m          m  "                   #"        ##          " m       14,15#15,01   m  #"
+15,01                                     m
+
+15,01- -------------------------------------------------------------------------- -
+
+15,01  the old 'dms-xxxx.zip' releases are not listed here!
+
+
+15,01 d!cultur.zip  05-05-96  acid culture / xm-tune by: apollo
+15,01                          style: melodic acid / 4:38 minutes
+
+15,01 d!genetc.zip  16-05-96  genetic / s3m-tune by: molk
+15,01                          style: a new style of acid / 5:26 minutes
+
+15,01 d!kil201.zip  18-05-96  kill`em v2.01 / coded by: eliza
+15,01                          viruskiller for the major.1961 virus!
+
+15,01 d!kil202.zip  18-05-96  kill`em v2.02 / coded by: eliza
+15,01                          new version, because v2.01 was too buggy!
+
+15,01 d!imm100.zip  19-05-96  immunize v1.0 / coded by: eliza
+15,01                          immunize your exe-files against the major.1961 virus
+
+15,01 d!densit.zip  09-06-96  hi-density / xm-tune by: apollo
+15,01                          style: rave/hardtrance / 5:00 minutes
+
+15,01 d!login.zip   08-07-96  login manager v1.0 / coded by: snowman
+15,01                          login ppe for pc-board v15.2 or higher!
+
+15,01 d!lliner.zip  14-07-96  love liner (lp'96) / coded by: snowman
+15,01                          oneliner ppe for pc-board v15.2 or higher!
+
+15,01 d!sep96a.zip  01-09-96  demons artpack september '96
+15,01                          ansis, asciis, vga-art, tunes and intros
+
+15,01 d!sep96b.zip  01-09-96  demons artpack september '96
+15,01                          ansis, asciis, vga-art, tunes and intros
+
+15,01 d!illusn.zip  12-09-96  illusions / it-tune by: molk
+15,01                          style: hardtrance / 4:10 minutes
+
+15,01 d!haste.zip   22-09-96  hastenichtgesehen / it-tune by: molk
+15,01                          style: insane acid / 3:15 minutes
+
+15,01 d!naofxl.zip  30-09-96  the nates of xl / xm-tune by: apollo
+15,01                          style: house/acid/trance / 5:15 minutes
+
+15,01 d!witm.zip    09-10-96  world inside the music / it-tune by: molk
+15,01                          style: hard trance / 4:25 minutes
+
+15,01 d!feelin.zip  14-11-96  acid feelings / it-tune by: molk
+15,01                          style: acid / 4:45 minutes
+
+15,01 d!sec110.zip  18-12-96  security checker 1.10 / coded by: POS!P
+15,01                          password protection for pcboard v15.1 or higher!
+
+15,01 d!bdn3pp.zip  21-12-96  the bdn3 photo pack with some nice'n crazy pics
+15,01                          by: positive pain and butcher
+
+15,01 d!theend.zip  20-01-97  this is the end: demons leave the scene!
+15,01                          text written by: positive pain
+
+15,01 # weiter geht's.. denn: wir ham noch lange nich genug!
+
+15,01 d!mar97.zip   24-03-97  demons artpack march '97
+15,01                          ansis, asciis, and tunes
+
+15,01 d!ms97pp.zip  10-05-97  the mekka/symposium'97 photo pack
+15,01                          by: butcher
+
+15,01 d!0697a3.zip  13-06-97  demons artpack #3 june '97

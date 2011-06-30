@@ -1,0 +1,69 @@
+15,01*** Connecting to irc02.irc.aol.com (6667)
+15,01-
+15,01-irc02.irc.aol.com- Looking up your hostname...
+15,01-
+15,01-irc02.irc.aol.com- Found your hostname
+15,01-
+15,01Welcome to the Internet Relay Network kathylee
+15,01Your host is irc02.irc.aol.com, running version 2.8/th.v5a.3
+15,01-
+15,01-irc02.irc.aol.com- *** Your host is irc02.irc.aol.com, running version 2.8/th.v
+15,015a.3
+15,01-
+15,01This server was created Mon Feb 3 1997 at 22:39:50 EST
+15,01irc02.irc.aol.com 2.8/th.v5a.3 oiwscrkfydn biklmnopstv
+15,01-
+15,01There are 10432 users and 18429 invisible on 67 servers
+15,01201 IRC Operators online
+15,0110348 channels formed
+15,01I have 355 clients and 1 servers
+15,01-
+15,01Current local  users: 355  Max: 505
+15,01Current global users: 28861  Max: 31587
+15,01-
+15,01Message of the Day
+15,01-
+15,01End of /MOTD command.
+15,01-
+15,01*** kathylee sets mode: +i
+15,01--
+15,01#sweatshop WORK WORK WORK dammit! .. stop coming to this channel!
+15,01#blender topic set by nike on Wed Jun 18 21:33:47
+15,01-
+15,01#sweatshop kathylee bubra @nike sanchez rico jeru walla_ t3lla| KeeMo
+15,01#sweatshop End of /NAMES list.
+15,01-
+15,01*** Now talking in #sweatshop
+15,01* Logging #sweatshop to: [#sweatshop.log]
+15,01*** nike sets mode: +o kathylee
+15,01<rico> can i have a raise?
+15,01<kathylee> NO...you know i am a slave-driving bitch
+15,01<sanchez> yeah, she never gave Frank a raise
+15,01*** sanchez has been kicked by kathylee (i will kill you)
+15,01* nike is talking with mj about the latest sweatshop in cambodia.
+15,01*** bubra has quit IRC (time to work for no pay)
+15,01*** NaLa (NaLa@slaves.org) has joined #sweatshop
+15,01<NaLa> SLAVE LABOR NEEDS TO STOP NOW!!!!
+15,01*** NaLa has been banned by kathylee (shaddup)
+15,01<jeru> i love working with roaches.
+15,01*** kathylee sets mode: +v jeru
+15,01<walla_> yesterday, i learned how to make skirts.
+15,01<KeeMo> did you stitch yer fingers to the material at all?
+15,01*** nike is now known as nike-away
+15,01* nike is away (talking with mike)
+15,01<walla_> yes twice.
+15,01<walla_> then my supervisor poured salt in my cuts!
+15,01<kathylee> waaaawaaa .. stop crying and work!
+15,01*** walla_ has been kicked by kathylee (work you worthless piece of @#$!)
+15,01<KeeMo> i need to go spank it.
+15,01*** KeeMo has quit IRC (shpankin it)
+15,01<jeru> i stitched my dick to a skirt last week so i cant spank it.
+15,01<kathylee> i know how it is...i have to finger myself since Frank is a bastard!
+15,01*** RAFA invites you to #xxxkidpixors
+15,01<kathylee> umm...i got to ummm...go jogging er something
+15,01<jeru> bye
+15,01* Logging for #sweatshop halted
+
+15,01*** Now talking in #xxxkidpixors
+15,01-
+15,01Disconnected.

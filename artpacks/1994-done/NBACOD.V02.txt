@@ -1,0 +1,80 @@
+15,01                      +--....                    ....--+
+15,01                      | The "Unofficial" NBA Jam Guide |
+15,01                      |       By Colossus # ViCE       |
+15,01                      |      Revision 2 [03/13/94]     |
+15,01                      +--....                    ....--+
+15,01        Since everyone is in search of NBA Jam codes for the SNES or Genesis
+15,01I figured I'd write up the codes for it.  If you already don't know how to
+15,01use the hidden characters then please read this section:
+
+15,01+--....  ....--+
+15,01| Introduction |
+15,01+--....  ....--+
+15,01        Well welcome to the NBA Jam "Unofficial" Guide!  I hope you find
+15,01this guide the best around!  Anyways lets get Jammin!
+
+15,01+--.... ....--+
+15,01| Differences |
+15,01+--.... ....--+
+15,01        Whats different about the SNES & Genesis versions of NBA Jam?
+15,01All together they're more or less the same.  I've heard rumors that the 
+15,01Genesis version has a Battery Backup, which makes it much better (?).
+15,01The main difference here is that the hidden character/cheat codes are
+15,01different.  Thus I can't release a "fully tested" guide b/c I don't have
+15,01the Genesis version only the SNES one.  Anyway, the initials for the players
+15,01are probably all the same... Have fun!
+
+15,01+--....  ....--+
+15,01|  Whats New   |
+15,01+--....  ....--+
+15,01- Revision 1 # First release [03/12/94]
+15,01- Revision 2 # Fixed up the Genesis "cheat" codes, added new rumors
+15,01               and made more greets :) Added "Whats New" Section,
+15,01               "Introduction" Section, and "Differences" Section
+
+15,01+--....                      ....--+
+15,01| How to use the hidden characters |
+15,01+--....                      ....--+
+15,01        To use hidden characters you must enter the first 2 letters of the
+15,01characters initials.  You then must goto the 3rd initial and Enter the code
+15,01given.  For example if you wanted to play Air Dog, you would enter the letters
+15,01AI And goto letter R you would then press <if using SNES> L START and X, the
+15,01stats for Air Dog (Wins, Losses, etc) should come up!
+
+15,01+--....       ....--+
+15,01| Hidden characters |
+15,01+--....       ....--+
+15,01This section includes all the TESTED characters for the Super Nintendo 
+15,01Entertainment System.  Unfortunetly, I was NOT able to test the codes on the
+15,01Sega Genesis, so please report back to me to make sure the codes work:
+15,01                           
+15,01AIR Dog
+15,01-------                           
+15,01        Air Dog is a 12 yr. old boy who I assume was a friend or child of       
+15,01                     
+15,01an NBA Jam Staff member.  He has alot of speed, and good dunks.        
+15,01Code: AIR 
+15,01SNES Key Punch: L START X
+15,01Genesis Key Punch: START A                           
+
+15,01Bill Clinton                           
+15,01------------                           
+15,01        Bill Clinton is of course (if you've been living in a sewer for awhile)
+15,01the President of the United States Of America.  He is more or less a well       
+15,01                    
+15,01rounded character, with good dunks, and good 3 pointer's.
+15,01Code: ARK 
+15,01SNES Key Punch: L START X
+15,01Genesis Key Punch: START A
+15,01                           
+15,01Kabuki 
+15,01------                           
+15,01        Kabuki maybe called someone else on the Genesis (at least thats         
+15,01                   
+15,01what my friends say), I'm not sure, but on the Super Nintendo he is Kabuki.
+15,01He was probably a staff member or friend of a staff member at Acclaim.          
+15,01                 
+15,01Kabuki is also a well rounded character, and has ok dunks and ok 3 pointers
+15,01Code: QB_ 
+15,01SNES Key Punch: L START X
+15,01Genesis Key Punch: START ABC? (Either A, B, Or C)

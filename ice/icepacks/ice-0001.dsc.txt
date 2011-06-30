@@ -1,0 +1,25 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 01/01/2000
+15,01###############################################
+15,01ice-0001.nfo,ANSI,iCE 00/01 Info File,iCE Senior Staff
+15,01ice-0001.dsc,ANSI,iCE 00/01 iCEView description file,iCE Senior Staff
+15,01ice-0001.mem,ANSI,iCE 00/01 Member List,iCE Senior Staff
+15,01ice-0001.sit,ANSI,iCE 00/01 Site listing,iCE Senior Staff
+15,01iceview.cnf,ANSI,iCEview configuration file,Friar Tuck
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01iceview.exe,ANSI,iCEview,Friar Tuck
+15,0109-fc1.ice,ANSI,Free Coke,Fluor
+15,01kt-ffh.ice,ANSI,Fire from heaven,Kitiara
+15,01us-ice.ice,ANSI,iCE Advertisements,Multiple Artists
+15,01ag-love.jpg,EXTERNAL,Love,Adam Gross
+15,01bmx-f1.jpg,EXTERNAL,F1 Composite,BMXmen
+15,01bmx-new.jpg,EXTERNAL,New kitchen,BMXmen
+15,01dm-water.jpg,EXTERNAL,Water,Darkmage
+15,01dv-elite.jpg,EXTERNAL,Elite swap,DaVinci
+15,01eoe-rain.jpg,EXTERNAL,Rain,Epoch of entropy
+15,01fb-knf.jpg,EXTERNAL,Knife,Funbaby
+15,01sd-nir.jpg,EXTERNAL,Nine inch rails,Shadow
+15,01xe-angst.jpg,EXTERNAL,Against,Xebra
+15,01xe-artif.jpg,EXTERNAL,Artifact,Xebra
+15,01xe-depar.jpg,EXTERNAL,Departure,Xebra
+15,01file_id.diz,ANSI,file_id.diz,Kamikazee

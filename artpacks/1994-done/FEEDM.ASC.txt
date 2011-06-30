@@ -1,0 +1,5 @@
+
+15,01+=============================+ FEEDBACK COMMANDS +===========================+
+15,01| I) Info-form read   L) List feedback   A) Read again   D) Delete   Q) Quit  |
+15,01| Enter) Read next    E) Edit sender     Number) Read    R) Reply             |
+15,01+=============================================================================+

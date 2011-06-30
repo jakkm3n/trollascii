@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                F  E  B  R  U  A  R  Y           2   0   0   2
+15,01-------------------------------------------------------------------------------
+
+15,011. Check it out!  ANSI in two consecutive packs!  That's a feat not done in two
+15,01   years.
+15,01   
+15,012. Our  featured  artist  this  month is Stereophoenix,  aka SPX.   He's  got a
+15,01   great interview for you to read,  and two images in the pack.  Come find out
+15,01   about this interesting Aussie :)
+15,01   
+15,013. DJ Monkeyboy  did  a great  intoduction to using Maya for  our tutorial this
+15,01   month.   So put those pens down and  get your pucks out  and get prepped for
+15,01   doing some  3D work on a  $7500 (base price)  professional package.  You can
+15,01   download a free Personal Learning Edition from
+15,01   http://www.aliaswavefront.com/
+
+15,014. Quick note to  excessively thank  Mynx and  Quantum-X  specifically, as well
+15,01   as everyone else in iCE for  helping out with so much around  the home base.
+15,01   The interview and tutorial html  were done by Mynx this month, and Quantum-X
+15,01   has done  previous months.   You  guys all kick ass,  and it's  great to see
+15,01   people kicking in to help the group!  
+15,01   
+15,015. We have a couple new members this month!  First up is Yonadaan,  a great new
+15,01   hi-res artist who  survived our  terrible application process.   He's really
+15,01   excited  to  finally  be  a part of iCE,  even though we made  him shave his
+15,01   hands  and  hazed   him  a  bit  excessively.     Although  the  police  are
+15,01   investigating,  we feel confident that they'll  never find the photos or the
+15,01   name of the youth organization that was involved.
+
+15,01   Next up we have  Allan!  No handle,  just Allan.  Allan ran on  the election
+15,01   platform of  "Vote for me and  I'll make babies cry!",  which was a real hit
+15,01   among the younger crowd.   He cleaned up at the  election booths and made it
+15,01   into iCE.   And we're very glad  to have him with us!   Congrats  to both of
+15,01   our new members this month!
+
+15,016. We have to wave farewells to a  few people this month.   First, we are sadly
+15,01   losing defected,  who is leaving to be with Raster  (using the name Psilic).
+15,01   We certainly  wish him well  with Raster!   Andrew is a  great guy and we'll
+15,01   miss him.  Good luck Andrew!
+15,01   
+15,01   Also departing is  Precurser,   whose website  (endeffect.com)  and life are
+15,01   taking  too much of his time.   He's departing on the best of terms,  and we
+15,01   will certainly miss him.
+
+15,01   Finally,  Cadaverous Fate is leaving to join Noir.    It's sad to see people
+15,01   go, but we only hope they're happy in their new homes.   Good luck everyone!
+
+15,017. Although  we  don't  normally  discuss  group  policy in our  newsletters, I
+15,01   figured I'ld explain here.   iCE has always had a rule against dual-grouping
+15,01   in cases where the groups  overlap. In other words, if someone wants to join
+15,01   iCE to release  artwork  and join  another group to  release poetry,  that's
+15,01   fine.  But we ask that our members are  dedicate themselves to the group and
+15,01   don't take membership lightly by "shopping around".   Every group can always
+15,01   use help from their members -  get in the  one you want  and work to improve
+15,01   it as much as you can.
+
+15,018. We have a special  guest  release this month from  Greg and Jito.   We don't
+15,01   normally release  non-iCE art in the pack,  but this one was special.   Greg
+15,01   and Jito  are  such  fantastic artists  and  it  turned  out so well that we
+15,01   thought  we  should  give it  some extra  publicity.   So check out Greg and

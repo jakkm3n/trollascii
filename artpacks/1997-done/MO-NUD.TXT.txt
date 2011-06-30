@@ -1,0 +1,41 @@
+15,01[m0!] - - - - - - - [remote.access.new.user.disclaimer] - - - - - - - [m0!]     
+15,01          
+
+15,01                         a transmission produkshun
+
+15,01[installation]-------------------------------------------------------------
+
+15,01        put the newuser.ans in \ra\txtfiles and newuser.q-a in whatever
+15,01        path you've got defined as your questionnaire path.  if you can't
+15,01        figure that out, you must be just a 12 year-old kid who wants to
+15,01        be k-r@d 3771T3 by setting up your own board, and shouldn't be
+15,01        reading ra's docs instead.  there are just too many lame boards
+15,01        out there already.
+
+15,01        remote access recognizes this file name in its' coding, so you 
+15,01        don't need to put anything in your menus regarding it, which is
+15,01        convenient.  whenever a new user logs in, he'll have to fill it
+15,01        out.  
+
+15,01        change the ansi.  it'll look pretty lame if you see a disclaimer
+15,01        for a board that isn't yours on your board.  just leave the [m0!]
+15,01        sig and transmission's name in there somewhere.
+
+15,01[greetz]-------------------------------------------------------------------
+
+15,01        lord narayana - BlackZiNE? whoa...
+15,01        kweiheri tron - teaching me what it's really all about
+15,01        liquid - me and Minor Threat got money that you're going back up!       
+15,01 
+15,01        pestiferous - i need a name, give me a name
+15,01        random - the 18-lingual coder who won't give up your mac
+15,01        EDjE - hey all...
+15,01 
+15,01[reach.me]-----------------------------------------------------------------
+
+15,01        somewhere in [4o3] - inet is too big.  catch me on extremist vector
+15,01        the wHQ and Cdn HQ of EDjE.
+
+
+15,01    
+15,01[m0!]                          [end.of.file]                          [m0!]

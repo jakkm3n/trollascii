@@ -1,0 +1,6 @@
+15,01  
+15,01  This text here may contain some important information for you, so read on!
+
+15,01  If you choose to apply to FAWK, then besure you check the FAWK2994.NFO file
+15,01  for some important information, as well as the closing statements (after 
+15,01  having saved your app) from the FAWK-APP.EXE file.

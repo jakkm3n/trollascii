@@ -1,0 +1,80 @@
+15,01                             << NationView v3.1 >>
+15,01                Copyright (C) 1994 by MindCrime of Chemical Youth
+15,01                              All rights reserved
+
+
+15,01< Disclaimer >
+15,01This software is presented to you as-is.  I make no guaruntees of any kind.  I
+15,01cannot be held responsible for any damages resulting from the use, abuse, or
+15,01inability to use this program.
+
+
+15,01< What is NationView? >
+15,01NationView (NV) is a general file viewer.  It's not just an ANSi viewer.
+15,01It currently supports text files, BIN format files, and 320x200 resolution
+15,01PCX files.  Current display resolutions include 80x25 and 80x50 text modes,
+15,01and 320x200x256 VGA mode.  NV also supports scrollback, variable speeds,
+15,01slideshow, grey scale, ASCII mode, iCE color, the option to change the
+15,01default file mask and path, and the ability to copy/move/delete files.
+15,01NV has full command-line support, and also has full mouse support, even
+15,01while viewing an image.  SAUCE v00 and ACiD's old description format are
+15,01also supported.
+
+
+15,01< Note >
+15,01In the little info box on the right side in the middle of the screen is
+15,01the current date and time, and the file's size.  The date and time are
+15,01NOT the file's date and time, rather the CURRENT date and time.
+
+
+15,01< Key listing >
+15,01     F1 : Help (List keys)
+15,01     F2 : Change display mode
+15,01     F3 : Toggle scrollback
+15,01     F4 : Change speed
+15,01     F5 : Change file mask
+15,01     F6 : Toggle slideshow
+15,01     F7 : Change path
+15,01      A : Toggle ASCII mode
+15,01      G : Toggle grey scale
+15,01      I : Toggle iCE Color
+15,01  Alt-C : Copy tagged files (or current file if none are tagged)
+15,01  Alt-M : Move tagged files (or current file if none are tagged)
+15,01  Alt-D : Delete tagged files (or current file if none are tagged)
+15,01<SPACE> : Tag or untag the current file
+15,01<ENTER> : View the current file, or tagged files (if slideshow is active)
+15,01  <ESC> : Exit the viewer
+
+
+15,01< Keys while viewing >
+15,01     F4 : (not Scrollback)  Change speed
+15,01      A : (Text modes, non-PCX file)  Toggle ASCII mode
+15,01      G :  (Any mode, non-PCX file)  Toggle grey scale
+15,01      I : (Text modes, non-PCX file)  Toggle iCE Color
+15,01<ENTER> : If done scrolling, return to menu or view next file (slideshow)
+15,01  <ESC> : Abort scrolling; If scrolling done, return to menu
+15,01   <UP> : (Scrollback)  Scroll up one line
+15,01 <DOWN> : (Scrollback)  Scroll down one line
+15,01 <PGUP> : (Scrollback)  Scroll up one page
+15,01 <PGDN> : (Scrollback)  Scroll down one page
+15,01 <HOME> : (Scrollback)  Scroll to beginning of file
+15,01  <END> : (Scrollback)  Scroll to end of file
+
+15,01Note: When viewing a file, especially pure text files, the action may not
+15,01      occurr immediately when you hit a key.  If there's a pause, it
+15,01      shouldn't be too long, but there may be one.  The reason for this
+15,01      is that keyboard and mouse checks are only done after 256 bytes have
+15,01      been written to the screen.  The program would have been much too
+15,01      slow if keyboard/mouse checks were done after every character was
+15,01      printed.
+
+
+15,01< Variable speeds >
+15,01The variable speeds simulate baud rates.  Unlike other viewers, however, NV
+15,01does not accurately simulate the baud rate.  NV only pauses after a character
+15,01is printed to the screen, not after each character is read.  Also, you can
+15,01change speed while viewing in ANSi if scrollback is inactive by hitting F4.
+15,01    
+15,01    Speed          1         2         3         4         5
+15,01Baud rate        Local     14400      9600      2400      1200
+

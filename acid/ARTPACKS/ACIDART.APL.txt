@@ -1,0 +1,80 @@
+
+15,01========================================================================
+
+15,01          . <ACiD> Application: ANSi/VGA Artists & Coders .
+
+15,01========================================================================
+
+15,01 Introduction:
+
+15,01 Thank you for  considering membership in ACiD,  the greatest and
+15,01 most popular  Art Creating Group ever!  ACiD is a group which is
+15,01 comprised  of  a  select  few  of  the  most  talented  computer
+15,01 artists in  the  world.   Unfortunately,  not  everyone  has the
+15,01 talent required to become an ACiD member.  Many inferior artists
+15,01 rely on an acquired skill  when  creating their art.  Many times
+15,01 this  skill  is  derived  from  much  practice  and  many  times
+15,01 "borrowed" ideas from the artwork  of others.  These are NOT the
+15,01 types of artists that ACiD is  looking for.  ACiD is looking for
+15,01 people with not only SKILL,  but TALENT and ORIGINALITY in their
+15,01 artistic creations.  ANSi/VGA is  art  just  like any other.  If
+15,01 you are serious about your art,  and have the skill,  talent and
+15,01 originality that it takes  to  create  professional looking art,
+15,01 then you may have what it takes to be an ACiD member.
+
+15,01 Of course,  you'll have to prove you have what it takes to be an
+15,01 ACiD  member.  The  following  application  will  help  ACiD  to
+15,01 decide whether or not  you will be a member.  Please fill it out
+15,01 COMPLETELY,  leaving   NO  BLANKS   whatsoever.   If  you  leave
+15,01 omissions or answer questions dishonestly, your application will
+15,01 be discarded no matter how good your art is, so please be honest
+15,01 and thorough.
+
+15,01                                              -- The <ACiD> Staff
+
+
+15,01+-----------------------------------------------------+
+15,01| I.                      PERSONAL DATA / EQUIPMENT   |
+15,01+-----------------------------------------------------+
+
+15,01Your Handle   :
+15,01Real Name (First and Last):
+15,01Are You A SysOp Of A Board:
+15,01If So, BBS Name And #     : (   )
+15,01Are you affiliated with any National Groups or Organizations?
+15,01If So, Which Group(s):
+15,01Home Voice Phone Number:                     (   )
+15,01Daytime Voice Phone If Different From Above: (   )
+15,01Data Phone (if applicable):                  (   )
+15,01Your City:
+15,01Your State:
+15,01Your Country:
+15,01Your Age:
+15,01Years Of Experience BBSing:
+15,01Computer Type (Ex: XT, 286-16, 386-25, 486-33):
+15,01Graphics Card & Monitor Resolution:
+15,01Modem Type and Speed:
+15,01Do You Have Any Programming Experience?
+15,01If So, What Languages Can You Program In?
+
+15,01+-----------------------------------------------------+
+15,01| II.              ANSi/VGA PROFICIENCY / EXPERIENCE  |
+15,01+-----------------------------------------------------+
+
+15,01How Long Have You Been An Artist:
+15,01In Your Opinion, What Is The Best Artwork That You've Made?
+15,01What Size Is The Largest ANSi or VGA That You've Made?
+15,01What Type Of Screens Are You Better At, Still Screens Or Animated?
+15,01How Long Do You Spend Making Each ANSi or VGA On The Average?
+15,01How Much Art Are You Capable Of Making For The Group Each Month?
+15,01Does Your Level Of Creativity Enable You To Constantly Come Up With
+15,01New And Fresh Ideas For Art?
+15,01Do You Or Have You Ever Taken Any Art Classes In School?
+
+15,01+-----------------------------------------------------+
+15,01| III.               CODING PROFICIENCY / EXPERIENCE  |
+15,01+-----------------------------------------------------+
+
+15,01What Languages Can You Program In Fluently?
+15,01How Many Loaders Have You Made?
+15,01How Long Does It Take You To Code A Loader?

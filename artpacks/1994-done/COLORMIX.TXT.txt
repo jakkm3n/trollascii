@@ -1,0 +1,50 @@
+15,01                        ANSI Color Mixing
+15,01                   by The Red Flame (08/05/94)
+
+15,01     The topic of mixing colors in ANSI viewers seems to be a
+15,01little vague; no one really knows the exact color mixing scheme
+15,01to yield the right colors.  Some people have speculated that the
+15,01shades #, 00@15, and 14,15#15,01 are a one-fourth, one-half, and three-fourths
+15,01mix.  On an older display with a 8x16 font, this may have been
+15,01true, but on the VGA, where a 9x16 font is used, it is not.
+15,01     With a 9x16 font, there will be a line between each
+15,01character.  00@@@15 clearly shows two lines in between the three
+15,01shaded regions.  Because of these lines, the average mix is
+15,01altered slightly from the traditional values.
+15,01     Included in this archive are two GIF's.  The first is a
+15,01direct capture of the screen, done with Screen Thief.  The second
+15,01is a blended version of the original.  Aldus Photostyler 2.0 in
+15,0124-bit mode was used to blend the picture together in order to
+15,01determine the exact colors that result.
+15,01     The results were the following, each number the same for
+15,01each color component:
+
+15,01     #    54
+15,01     00@15    110
+15,01     14,15#15,01    167
+15,01     14,15 15,01    255
+
+15,01     255 is the highest value, 0 is the lowest.  Dividing these
+15,01numbers yields the following:
+
+15,01     #    0.212
+15,01     00@15    0.4314
+15,01     14,15#15,01    0.655
+15,01     14,15 15,01    1
+
+15,01     Calculating a round fraction gives the concluding results:
+
+15,01     #    2/9 mix (also could use 1/5)
+15,01     00@15    4/9 mix (also could use 11/25 <grin>)
+15,01     14,15#15,01    2/3 mix
+15,01     14,15 15,01    no mix
+
+15,01     While the difference between 2/9 and 1/4 is rather small,
+15,01consider the larger difference in 3/4 (0.75) and 2/3 (0.667) and
+15,01perhaps you can see where I'm coming from.  In addition, in VGA
+15,01where the color components have a range of 0-63, a difference may
+15,01not be achievable; however, in TrueColor mode (which I endorse),
+15,01a difference is almost certain, and one can say with confidence
+15,01that one's color mixture is fundamentally precise.
+
+15,01     --The Red Flame [Lapse/CLi]>

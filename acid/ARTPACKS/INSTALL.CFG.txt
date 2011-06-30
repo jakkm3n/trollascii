@@ -1,0 +1,8 @@
+15,01* @ 14,15@15,01 * x *   @ 14,15@15,01 * * @ A *     A   @ A * x E14,15#15,01  au+ * \STUNTISL 14,15@15,01 14,15@15,01 Welcome to t
+15,01he Stunt Island Installation Program (C) 1992 Disney * Thank you for purchasing 
+15,01Stunt Island. To start the program from DOS type: STUNT * @ VAULT\DISK1.CN_ @ SE
+15,01TS\DISK1.CN_ @ RES\DISK1.CN_ @ PILOTS\*.* @ DISK1.CN_ @ INSTALL.* x @ DISK2.CN_ 
+15,01@ SETS\DISK2.CN_ @ VAULT\DISK2.CN_ @ RES\DISK2.CN_ x @ DISK3.CN_ @ SETS\DISK3.CN
+15,01_ @ VAULT\DISK3.CN_ @ RES\DISK3.CN_ x @ DISK4.CN_ @ SETS\DISK4.CN_ @ VAULT\DISK4
+15,01.CN_ @ RES\DISK4.CN_ x @ DISK5.CN_ @ SETS\DISK5.CN_ @ VAULT\DISK5.CN_ @ RES\DISK
+15,015.CN_ x @ DISK6.CN_ @ SETS\DISK6.CN_ @ VAULT\DISK6.CN_ @ RES\DISK6.CN_ 

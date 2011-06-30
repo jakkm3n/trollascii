@@ -1,0 +1,74 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  December Update *    January 1st, 1997 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file(s) ACID-54?.ZIP are only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-54   NFO|   5220 |01.01.97 |%+   |Acquisition Information File    |
+15,01*|2  |ACID-54   XB |  14657 |01.01.97 |%+   |January Member/Site Listing     |
+15,01*|3  |ACIDAPP   EXE|  45307 |08.01.96 |%    |ACiD Application Generator V2.1 |
+15,01*|4  |ACIDVIEW  DAT| 125438 |01.01.97 |%    |ACiD View BGI/RIP font data     |
+15,01*|5  |ACIDVIEW  EXE| 122111 |01.01.97 |%    |ACiD View V4.32                 |
+15,01*|6  |ACIDVIEW  NFO|  52511 |01.01.97 |%+   |ACiD View Documentation         |
+15,01*|7  |CWSDPMI   EXE|  20217 |10.21.96 |%    |CWSDPMI V0.90                   |
+15,01*|8  |FILE_ID   DIZ|    704 |01.01.97 |%    |Acquisition FILE ID by {B2}     |
+15,01*|9  |PX-ACID   ANS|  12041 |01.01.97 |%+   |ACiD Advo                       |
+15,01*|10 |BE-ACID   ASC|   3728 |01.01.97 |%+   |ACiD Promotional                |
+15,01*|11 |FM-CF     ASC|   9664 |01.01.97 |%+   |Chronic Farts                   |
+15,01*|12 |FM-DSTR   ASC|  13007 |01.01.97 |%+   |Distortion                      |
+15,01*|13 |US-BTH    DAT| 438419 |01.01.97 |%    |Beyond The Horizon Datafile     |
+15,01*|14 |US-BTH    EXE|  76621 |01.01.97 |%    |Beyond The Horizon Loader       |
+15,01*|15 |EG-MEN    JPG| 149777 |01.01.97 |%    |Men In Black                    |
+15,01*|16 |EG-ORANG  JPG|  39158 |01.01.97 |%    |Orange Is For Anguish           |
+15,01*|17 |PR-QUADZ  JPG|  83345 |01.01.97 |%    |Quadzilla                       |
+15,01*|18 |US-ABRAX  JPG|  60123 |01.01.97 |%    |Abraxas                         |
+15,01*|19 |US-AGE1   JPG|  82338 |01.01.97 |%    |Age Advo                        |
+15,01*|20 |US-ARTPX  JPG|  68750 |01.01.97 |%    |The ACiD Artpacks Archive       |
+15,01*|21 |US-FONGU  JPG|  87130 |01.01.97 |%    |Fongu                           |
+15,01*|22 |WC-ALTER  JPG| 125873 |01.01.97 |%    |The Alter Ego                   |
+15,01*|23 |US-BTH    NFO|   9139 |01.01.97 |%+   |Please see US-BTH.EXE for detail|
+15,01*|24 |PZ-ACID   RIP|  16653 |01.01.97 |%    |ACiD's Tha' Bomb                |
+15,01*|25 |WE-WILL   SUE|   1531 |01.01.97 |%    |ACiD Legal Disclaimer           |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net): 25       Total Bytes: 1,663,466                 |
+15,01|                                      Average Of Bytes/File: 66,538          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

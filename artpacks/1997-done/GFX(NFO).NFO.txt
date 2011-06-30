@@ -1,0 +1,80 @@
+15,01                                      .----.
+15,01                                   _.'__    `.
+15,01                               .--(#)(##)---/#\
+15,01                             .' @          /###\
+15,01                            :         ,   #####
+15,01                             `-..__.-' _.-\###/
+15,01                                   `;_:    `"'
+15,01                                 .'"""""`.
+15,01                                /,       ,\
+15,01                               //  KewL!  \\
+15,01                               `-._______.-'
+15,01                               ___`. | .'___
+15,01                              (______|______)
+
+15,01                          ___  ___  ___    ___  ___  ___  ___ ___
+15,01               (---)(___)(___)(-__ (      (___ (___)(---)(___(_
+15,01                    ____||  production     ___)| team        (___
+15,01 ___________________________________________________________________________
+15,01: some news in hyper space:                                                 :
+15,01`---------------------------------------------------------------------------'
+15,01.G.
+15,01.Wohua.this.is.the.news.4.this.month.lot's.of.thing's.goes.around.so.let.me.
+15,01.2.get.this.crap.end.in.a.few.word's.(lines).first.of.all.we.get.new
+15,01.member's.what.is.wery.nice.from.them.huh..here.is.new.thing.that.i.was.
+15,01.like 2 tell u.we.loose.our.only.ansi/ascii.artist...he.said.that.he.don't
+15,01.have new.idea's.4.hS!.so.he's.gone.now.if.u.know.how.2.draw.ascii.please.
+15,01.just.send.me.some.of.your.work.and.u'r.in!.as.u.know.ass-boy.we.are.vga.
+15,01.oriented.and.we.don't.do.ascii.in.our.artpack's.so..u'r.job.will.be.
+15,01.logo.(up).on.our.nfo.files..i.think.that.that's.no.big.job.4.ya.
+15,01.so.if.u.have.time...join.us!
+15,01.and.btw.sorry.for.late...we.didn't.release.last.month.(may).our.pack.
+15,01.becouse.i.have.some.problems.with.internet.provider.
+15,01                             .WE.ARE.BACK.ON.SCENE!.
+15,01                                                          .see.Ya!
+15,01                                                         ./stinger/.
+
+
+15,01 ___________________________________________________________________________
+15,01:in and out 4 this month ;)                                                 :
+15,01`---------------------------------------------------------------------------'
+15,01  iron eagle is out becouse of his nice opinion on our pictures. i'm sorry
+15,01  iron but u have lot 2 learn about photo shop from other's people, i'm
+15,01  not u'r baby guide. have some fun and kick ass around world but without
+15,01  me and my group. problems between me and u are not so simple that u was
+15,01  telling around irc. so. be quick and get better pic on scene.
+
+15,01                                                      see ya looser
+15,01                                                         stinger
+15,01 ___________________________________________________________________________
+15,01:hyper space members and positions:            e-mail's:                    :
+15,01`---------------------------------------------------------------------------'
+15,011  stinger     ./prezident/vga/photo/html/    : stinger@eunet.yu
+15,012  -x-         ./vice prezident/music/.       : dima@afrodita.rcub.bg.ac.yu
+15,013  error       ./vga/hand-art/html/           : dunno
+15,014  predator    ./hand-art/.                   : dunno
+15,015  hustler     ./vga/.                        : hustler@fon.fon.bg.ac.yu
+15,016  dr djulio   ./vga/.                        : janko@vesta.tmf.bg.ac.yu
+15,017  pentax      ./3D/.                         : dunno
+15,018  no good     ./vga/3D/.                     : dunno
+15,019  gastoni     ./vga/.                        : dunno
+15,0110 lindahl     ./music/.                      : sinatra@sysedata.no
+15,0111 lmg         ./member/.                     : lmg@dma.be
+15,0112 firestarter ./member/.                     : firestarter@beotel.yu
+15,0113 jandor      ./member/.                     : jandor@auronline.com
+15,0114 cockroach   ./member/.                     : cockroach@planetd.com
+15,0115 lindow      ./visiting-profesor/.          : secret
+15,0116 squizy      ./vga/.                        : dunno
+15,0117 webmaster   ./vga/.                        : beli@eunet.yu
+15,0118 paradox     ./member/.                     : dunno
+15,0119 sQverqY     ./java/html/.                  : dunno
+15,0120 geRa        ./hand-art/.                   : secret
+15,0121 heX         ./3D/.                         : Marko.Klemencic@guest.arnes.si
+15,01 ___________________________________________________________________________
+15,01: hyper space pack's and format's that we produce and support               :
+15,01`---------------------------------------------------------------------------'
+15,01  firs't of all we produce photo's, log's, hand art's, 3D's, and much more!
+
+15,01              <jpg>  <tif>  <bmp>  <pp5>  <txt>  <max>  <3ds>
+15,01              <gif>  <tga>  <dep>  <cdr>  <nfo>  <dxf>  <e/c>
+

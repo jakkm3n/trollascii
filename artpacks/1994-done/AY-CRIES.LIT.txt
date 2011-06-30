@@ -1,0 +1,26 @@
+15,01          14Death Cries 08of th04e Dying
+
+14,01Open his eyes, look 08into 04his soul
+14,01nothing is seen but 08an e04mpty mind.
+14,01Once again is deat08h in 04our presance
+14,01to decide when we 08all 04shall end our time.
+14,01Eras begin, gian08ts fa04ll,
+14,01The great song 08of de04ath,
+14,01with its level08ing v04oice.
+
+14,01Soon to be go08ne,
+14,01the dying sh08all 04say
+14,01what more t08o lo04se
+14,01than my one 08la04st day?
+14,01And mourne08rs 04gather about the deathbed,
+14,01rats awai08t t04he end of the wait.
+
+14,01Open hi08s e04yes, look into his soul,
+14,01nothin08g i04s seen but an empty mind.
+14,01Once 08aga04in death is in our presance
+14,01to d08eci04de when we all shall end our time.
+
+15,01                                   13[06Apothecary13]
+
+15,01>SAUCE00Death Cries of Dying               Apothecary          READ THE INI FILE
+15,01   19941001=*  @@P v                             

@@ -1,0 +1,34 @@
+15,01          *0-*1-*2- READ ALL OF THIS CAREFULLY, IT IS VITAL FOR ACCESS -*1-*0-
+
+15,01            *6As a user of this system, I hereby agree to all of the
+15,01            *6following policies and rules.  I understand that
+15,01            *6violation of these rules and/or not understanding these
+15,01            *6policies will result in deletion and I will not be
+15,01            *6invited to call back.
+
+15,01            *9I understand fully that no mail is truly "Private", and
+15,01            *9the sysop is legally allowed to read all private E-Mail
+15,01            *9at his leisure.  I understand that the most likely, the
+15,01            *9only reason he will read private E-Mail is if he recieves
+15,01            *9a racial/sexual harassment complaint between two other
+15,01            *9users.
+
+15,01            *9I understand that no file on this system is guaranteed to
+15,01            *9do anything except occupy disk space, and if my hard
+15,01            *9drive is damaged because of a file recieved on this BBS,
+15,01            *9the sysop is in no way liable, even though he goes
+15,01            *9through great pains to be sure that each file is virus-
+15,01            *9free and not corrupted.
+
+15,01            *3Sign Here *6- *3Write "*9I, *6<your name here>*9, fully agree to
+15,01            and understand the aforementioned policies:*3"
+15,01            *8|@Q@
+
+15,01            *3Finally, tell me if you are in any way involved with the
+15,01            *3police, the FBI, or any government agency of that sort.
+15,01            *2IF YOU ARE INVOLVED WITH THE POLICE AND YOU LOG ON HERE
+15,01            *2WITHOUT TELLING ME, IT WILL BE CONSTRUED AS ENTRAPMENT,
+15,01            *2AND LEGAL ACTION WILL BE TAKEN:
+15,01            *3Sign Here *6- *3Write "*9I, *6<your name here>*9, am/am not
+15,01            involved with any government agency:*3"
+15,01            *8|@Q@

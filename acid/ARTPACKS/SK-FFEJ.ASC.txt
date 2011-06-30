@@ -1,0 +1,80 @@
+15,01  Ascii should be viewed in 80x25 or a VGA mode to view at highest quality.
+
+15,01              ............
+15,01  ...oooddXXXXXXXXXXXXXXXXXXXXXbboo..
+15,01XXXPP'''                  ```??XXXXXXboo.
+15,01                                   ``?XXXXbo.
+15,01                                          XXb XXXXXXXboo..
+15,01                                           ?Xb.       XXXXXXbo.
+15,01                                             ?X            `?XXbboo..
+15,01                                              `?.            ``?XXXXXXboo.
+15,01                                               `X                    ``??X
+15,01                                                 `
+
+15,01                         .........
+15,01                ...ooodXXXP'' ``?XXbooo...
+15,01          ..oodXXXP''                ``?XXXboo..
+15,01        XbXP''                              ``?XdX
+15,01     .'   `?Xbo.                          .odXP'   `.
+15,01    ;        `?Xbo                      odXP'        .
+15,01   :           `?Xb.                  .dXP'           `
+15,01                `?Xbo                odXP
+15,01  :               `?Xb.            .dXP'               '
+15,01                    ?Xbo          odXP                 .
+15,01          `.         `?Xb.      .dXP'         .'
+15,01  :        :x          ?Xb.    .dXP          x;
+15,01  :         ?bo.        ?Xbo..odXP        .odP         :
+15,01             `XXbo.      `?XbdXP'      .odXX'
+15,01               `XXXb.      ?XXP      .dXXX'            .
+15,01  :              `?XXbo.   )db(   .odXXP'                                .
+15,01   `               '''    .dXXb.    ```               '   ...         .dXP
+15,01       .                 .dXP?Xb.                 .    .dXP`?XXboo..xP''
+15,01          `.           .dXP'  `?Xb.           .'   .dXP'        ``?X(.
+15,01            ;         .dXP'    `?Xb.         :   .XP'               `d
+15,01           .        .dXP'   .   `?Xb.         .  `                  ?Xb
+15,01                   .dXP'    ;    `?Xb.                                 `
+15,01          .      .dXP'    .:X:.    `?Xb.        .
+15,01               .dXP'  .odXXXXXXXbo.  `?Xb.
+15,01        .     .dXPodXXXXP'' x ``?XXXXbo.Xb.        .
+15,01             .odXXXP' .X    x    X. `?XXXbo.
+15,01      ,   .odXXP'     dX    x    Xb     `?XXbo.
+15,01    .   .odXPdP'      XP    .    ?X        `?Xbo.    `
+15,01     .odX'  dX'      .X'    x    `X.       Xb  `Xbo.  .  `.
+15,01   .dP'    .XP       dX     `     Xb       ?X.    `?b.     .X  o...
+15,01   X'      dX'       XP     ;     ?X       `Xb      `X   dX     ``?XXbo..o
+15,01  .P   .  .XP       .X'     x     `X.       ?X.      ?..XP          `?XXP'
+15,01  d' .X  .dX'       dX      `      Xb       `Xb      `bdX
+15,01    Xd'  dXP        XP      x      ?X        ?Xb      XP
+15,01  XPP'  .XP'        X'      x      `X         ?X.     X;
+15,01XP`dX   dX'        .X       l       X.        `Xb    ,X
+15,01P  dX  .XP         dX       x       Xb         ?X.   dP
+15,01   d'  dX'        .XP      ,X`      ?X         `Xb   X;           .d'
+15,01  :X  dXP         dX.oooddXXXXXbbooo;X.         ?Xb .Xb.          X'
+15,01  :X  XP'   ..oddXXP''             ``?XXbbo..   `?X.d'?o         dX
+15,01  `Xb `?..odP''                           ``?bo. `XbY `X.        XP
+15,01   ?Xb  `P'                                   `?boxX'  Xb        Xb.
+15,01    ?Xb                  .                       ``'   ?Xbo..    ?Xbo
+15,01      ?Xb              odXbo.                          .odXXXXYYXboP;Xo.
+15,01        ?Xb        .odXXP  dXbo.                   dXYYXP''        ``?Xbo.
+15,01        ?XXb   dXXXP         dXbo.              .dXP'                  `?X
+15,01           ?XXXP      .,    dXb  dXo          dXXP                       `
+15,01             `Xbo.    `?bo.  dXXb  X        dXP
+15,01)              `?Xbo.   `?XXb     dX      dXP'
+15,01 X                 `?Xbo.         XP     dXP'
+15,01                       ```.       Xb     XP
+15,01                                  ?Xb    Xb
+15,01 `X.                               dX)   ?X
+15,01  Xb                             dXP      Xb
+15,01b.`?X                         dXb         ?Xb
+15,01Xbo?Xb                        Xb.          ?X
+15,01`XXbo..                       ?XXb.        dX
+15,01   `?XXbo..                    `?XXb.     dXP
+15,01       ``?XX                     `XXb.  dXP'
+15,01        .   .                 .    .
+15,01                                   :
+15,01        :   :                 :    |
+15,01________|   |_______          |    |_________ ___  ___ _______________
+15,01\       | -.|_______)---------:  -.|.-       \   \|  _\      _       /:>
+15,01:\__    |  ||      _\    .    _\  |||  ______/    |   \\  |   \\    /:.
+15,01  .:\   :  :|       \\   |     \\ :|:  __)___   | |    \\-|    \\--'
+15,01   .:\  .  .|       //   |     // .|.        \  |      // |    '/:.

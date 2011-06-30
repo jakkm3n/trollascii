@@ -1,0 +1,80 @@
+
+15,01                    14,15 15,01"""14,15     15,01"""14,15 15,01     "14,15     15,01" "14,15     15,01"
+15,01                        14,15     15,01 14,15#15,01        14,15     15,01 14,15#15,01 14,15     15,01 14,15#
+15,01             ---------- 14,15     15,01 00@15 ------ 14,15     15,01 00@15 14,15     15,01 00@15 -----------
+15,01                        14,15     15,01 00@15 RiBE   14,15     15,01 00@15 14,15     15,01 00@15 iEW
+15,01             ---------- 14,15     15,01 00@15 ------ 14,15     15,01 00@15 14,15     15,01 00@15 -----------
+15,01                        14,15     15,01 00@15        14,15     15,01 00@15 14,15     15,01 00@
+15,01                        14,15     15,01 #         "14,15    15,01m 14,15     15,01 #
+15,01                       """""""             """"""""
+
+15,01                         "Where did I put my remote?"
+15,01                               # Version O.9b #
+
+
+15,01                 14,15  15,01"""""""""""""""""""""""""""""""""""""""14,15  15,01 14,15#
+15,01                 14,15  15,01 14,15#15,01  Coded by      : SiDS               14,15  15,01 00@
+15,01                 14,15  15,01 00@15  Design By     : Shihear Kallizad   14,15  15,01 00@
+15,01                 14,15  15,01 00@15  Beta Testers  : Warndering Maruder 14,15  15,01 00@
+15,01                 14,15  15,01 00@15                  Sulfuric Acid      14,15  15,01 00@
+15,01                 14,15  15,01 00@15                  Silent Slaughter   14,15  15,01 00@
+15,01                 14,15  15,01 #  Dox Redone By : Killean & Shihear  14,15  15,01 00@
+15,01                 14,15  15,01mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14,15  15,01 #
+
+
+
+
+15,01    +--------------+
+15,01-- 14,15 #15,01 Introduction 14,15 #15,01 --
+15,01    +--------------+
+
+15,01        TRiBE proudly presents the finest viewer in the ANSi scene, TRiBE ViEW.
+15,01        Although this puts everything else to shame, be sure to look for newer
+15,01        versions in the TRiBE archives, because we still have a lot we were
+15,01        unable to put in here due to a lack of time.  A big thanx goes out to
+15,01        Shihear for the time he put into evaluating and writing hundreds of
+15,01        lines of suggestions.  Much of this viewer has been made possible be-
+15,01        cause of the active part he played in its creation.
+
+
+
+15,01    +----------------------------------+
+15,01-- 14,15 #15,01 TRiBE ViEW's Aspect Ratio System 14,15 #15,01 --
+15,01    +----------------------------------+
+
+15,01        I've been playing with ANSi to VGA interputation for a couple months
+15,01        now and have talked to a few artists and here's what I've come up with.
+15,01        When ANSi is drawn there are two distinct looks/aspect ratios, 25 and
+15,01        50 row modes. In 25 row mode, each charactor is about twice as tall as
+15,01        it is wide, whereas in 50 row mode, each charactor is about as tall as
+15,01        it is wide.  Thus, an ANSi can look distorted if interpreted wrong. 25
+15,01        row mode ANSis look squished in 50 row mode and 50 row mode ANSis look
+15,01        stretched in 25 row mode.  The technical term for this is ASPECT RATIO,
+15,01        the ratio of X:Y for the pixels to form a perfect square.  ACiD has
+15,01        always avoided this issue by supporting just one aspect ratio or an
+15,01        aspect ratio that is half way between the two.  Thus many ANSis look
+15,01        distorted.  Until now, iCE has been the only group to deal with this
+15,01        issue with any success.  I also have heard a lot of compliments about
+15,01        the wide mode in old ACiDViEWs, so I have included wide modes that
+15,01        still maintain the correct aspect ratios.
+
+15,01        I did not put in the multiple fonts like I had in viewers I've done in
+15,01        the past, because not only is this somewhat confusing, most fonts cause
+15,01        distortion upon the ratio.  I belive that artists should have control
+15,01        over the way their work is viewed.  Now the fonts are built into the
+15,01        modes, and the artist has regained complete control.
+
+
+15,01    +---------------+
+15,01-- 14,15 #15,01 The Interface 14,15 #15,01 --
+15,01    +---------------+
+
+15,01 Esc             KeyPad                         Funtion Keys
+15,01 +----+          +------+------+------+-----+   +-----------------------------+
+15,01 |Exit|          | Num  | Grey |Color |  -  |   | F1  = Help                  |
+15,01 +----+          | Lock | Scale|Strip | Res |   +-----------------------------+
+15,01                 +------+------+------+-----+   | F2  = Change Resolution     |
+15,01 Tab             | Home |  Up  | Page |     |   +-----------------------------+
+15,01 +-----------+   |      |      |  Up  |     |   | F3  = Toggle iCEColor       |
+15,01 |File Format|   +------+------+------+  +  |   +-----------------------------+
+15,01 +-----------+   |      |      |      | Res |   | F4  = Color/GreyScale/ASCii |

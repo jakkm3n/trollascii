@@ -1,0 +1,13 @@
+15,01Well, basically what we have decided to do this month is create a zip file
+15,01with all of the HI-REZ VGA that we were uable to code into a loader, instead
+15,01of the normal throw it in with everything else routine. We have also decided
+15,01to do this instead of using HyperView, Since we had alot of bitching last month
+15,01for HyperView, And also had one artist quit over his VGA going through HyperView
+
+15,01instead of it being just thrown out as either a .GIF or coded in some way.
+15,01Eventually, We might just spread this zipfile by itself so the people with
+15,01VGA monitors don't have to waste their time downloading an extra 500k or so
+15,01zip file that they can't do anything with. If you have any suggestions/opinions
+15,01then call up one of our HQ boards, or post your opinions up on CyberCrime
+15,01International Network and we will take it all into consideration for next
+15,01months pack.

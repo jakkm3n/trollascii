@@ -1,0 +1,22 @@
+15,01KS-CRIM3.ANS% Kurse% Crime Logo
+15,01KS-DCII.ANS% Kurse% ANSI for Death Camp ][
+15,01WP-AU.ANS% War Pig% ANSI for Anarchist Underground
+15,01ZY-MLU.ANS% Zypher% ANSI for My Little Underground
+15,01WP-PSYCH.ANS% War Pig% ANSI for Psychedelic
+15,01IM-CRIM2.ANS% Impact% CRiME Logo
+15,01KS-NWO.ANS% Kurse% ANSI for New World Order
+15,01GD-TO1.ANS% Gideon% ANSI for Toxic Overdose
+15,01ZY-DM1.ANS% Zypher% ANSI for Depeche Mode 101
+15,01IM-CRIM1.ANS% Impact% ANSI for CRiME
+15,01KS-CULT.ANS% Kurse% ANSI for The Cult
+15,01ZY-DM2.ANS% Zypher% ANSI for Depeche Mode 101
+15,01ZY-TLOD.ANS% Zypher% ANSI for The Last Half of Darkness
+15,01ZY-CRIM1.ANS% Zypher% Lit for CRiME
+15,01KS-CRIM1.ANS% Kurse% CRiME Logo
+15,01KS-CRIM2.ANS% Kurse% CRiME Logo
+15,01KS-BS1.ANS% Kurse% ANSI for Black Sunday
+15,01KS-AU.ASC% Kurse% ASCII for Anarchist Underground
+15,01KS-GAG.ASC% Kurse% ASCII for GaG
+15,01KS-TO1.ASC% Kurse% ASCII for Toxik Overdose
+15,01CRIM0494.NFO% Kurse% Crime News and Information
+15,01CRIMEMEM.NFO% War Pig & Gideon% CRiME Member Listing

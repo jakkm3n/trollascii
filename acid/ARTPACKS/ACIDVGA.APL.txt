@@ -1,0 +1,69 @@
+
+15,01========================================================================
+
+15,01                  . <ACiD> Application: VGA Requests .
+
+15,01========================================================================
+
+
+15,01+-----------------------------------------------------+
+15,01| I.                      PERSONAL DATA / EQUIPMENT   |
+15,01+-----------------------------------------------------+
+
+15,01BBS Name:
+15,01Number of Nodes :
+15,01Phone Number(s) : (   )
+15,01SysOp Name      :
+15,01CoSysOps Name(s):
+15,01Storage Space   :
+15,01Modem Type/Speed:
+15,01Group Affiliations:
+15,01BBS Software    :
+15,01Nets Carried    :
+15,01Additional Info :
+
+
+15,01+-----------------------------------------------------+
+15,01| II.                     LOADER / DEMO INFORMATION   |
+15,01+-----------------------------------------------------+
+
+
+15,01Do you want Sound Blaster or Adlib sound?
+15,01Do you have a .MID, .CMF, or .ROL music file you want used?
+15,01Do you have a .MOD you want included instead?
+15,01Do you already have a picture you want used?
+15,01Do you have a closing ANSi screen you want included with the loader?
+15,01Do you have a special idea for your loader?
+15,01Do you have an artist you want to request?
+15,01Do you have a coder you want to request?
+15,01Do you want a scrolly?
+15,01If you want a scrolly, please fill in the space below:
+
+15,01+----------------------------------------------------------------------+
+15,01 
+15,01         In the following space provided, type EXACTLY what you want
+15,01  the scrolly to say:
+
+
+
+
+
+
+
+
+15,01+----------------------------------------------------------------------+
+
+
+15,01        Note:  If requesting Sound Blaster - Rocket Scientist and
+15,01 Machine Head code SB/Adlib .MID, .ROL, or .CMF only.  Other cod-
+15,01 ers do  .MOD  files.  Although donations are not required,  they
+15,01 will speed up the process of completing your loader.
+
+15,01----------------------------------------------------------------------
+
+
+15,01        Thank  you  for  taking   the   time   to  complete  this
+15,01 application.   Be sure to ZIP up  this  file with any Graphic or
+15,01 Sound files you want included  in  your loader.   When finished,
+15,01 upload this .ZIP file to:
+15,01  The Dark Society,  1-408-268-7308   NUP: United Venture

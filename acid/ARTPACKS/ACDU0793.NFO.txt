@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : June Update      *       July 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0793.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0793 ANS |   9087 | 6.04.93 |%+   | June Members List              |
+15,01*|2  |ACIDAPP  EXE |  22049 | 7.01.93 |%+   | ACiD Application Generator     |
+15,01*|3  |CP-PHUN  EXE |  23506 | 6.28.93 |%+   | Phun Line                      |
+15,01*|4  |DEMO0793 NFO |   5968 | 6.30.93 |%+   | ACiD Mega-Demo Info            |
+15,01*|5  |DB-SW1   EXE |  49648 | 6.26.93 |%    | Maxx Loader                    |
+15,01*|6  |DH-TERZN ANS |  59332 | 5.31.93 |%+ A | Terror Zone                    |
+15,01*|7  |DT-WHAT1 ANS |   2976 | 6.14.93 |%+   | What The                       |
+15,01*|8  |DY-CRB   EXE |  62243 | 6.30.93 |%+   | ACiD Logo                      |
+15,01*|9  |EX-WET01 ANS |   8854 | 6.20.93 |     | Wet Works                      |
+15,01*|10 |FN-AM    ANS |  19704 | 6.30.93 |%+   | Atomic Meatloaf                |
+15,01*|11 |FN-KAOS  ANS |  15221 | 6.11.93 |%+   | Kaos                           |
+15,01*|12 |FN-VOD   ANS |  26669 | 6.22.93 |%+   | Vision of Death                |
+15,01*|13 |FX-ACID  EXE | 201729 | 7.01.93 |     | ACiD Loader                    |
+15,01*|14 |FX-ADREN EXE |  31532 | 7.01.93 |%+M  | Adrenalin                      |
+15,01*|15 |FX-ORIGN EXE | 108094 | 6.29.93 |%+M  | Unknown Origin                 |
+15,01*|16 |GO-CHAOS ANS |  86015 | 6.23.93 |%+ A | Chaos                          |
+15,01*|17 |GO-HLTR1 ANS |  61991 | 6.23.93 |%+ A | Helter Skelter                 |
+15,01*|18 |GO-MERC1 ANS |   5276 | 6.27.93 |%+   | Merfiful Release               |
+15,01*|19 |GO-STAT1 ANS |   4638 | 6.31.93 |%+   | ViSiON-X Stat Screen           |
+15,01*|20 |HL-ELDR  ANS |   8165 | 6.17.93 |%+   | Elusive Dreams                 |
+15,01*|21 |HL-RZR1  ANS |   1984 | 6.23.93 |%+   | Razor Logo                     |
+15,01*|22 |HL-STLT1 ANS |   7092 | 6.17.93 |%+   | Stealth Logo                   |
+15,01*|23 |IB-CTE   EXE |  13698 | 6.28.93 |%+   | Countdown to Extinction        |
+15,01*|25 |IB-V3D1  EXE |  37337 | 6.25.93 |%+   | Vector Demo                    |
+15,01*|26 |IM-ACID1 ANS |   5797 | 6.24.93 |%+   | ACiD Logo                      |
+15,01*|27 |IM-UD    ANS |  33285 | 6.29.93 |%+   | Utopian Dream                  |
+15,01*|28 |IZ-DD    ANS |  20449 | 6.25.93 |%+   | Digital Destruction            |
+15,01 |29 |IZ-HELLB ANS |  16298 | 6.25.93 |%+   | HellBound                      |
+15,01*|30 |LN-SHANG ANS |  21183 | 6.22.93 |%    | Shangri La                     |
+15,01*|21 |LN-SNDB  ANS |   3962 | 7.01.93 |%    | Sound Barrier                  |
+15,01*|22 |MP-SANIT ANS |  10226 | 6.25.93 |%    | Sanitarium                     |
+15,01*|33 |MR-ACID  ANS |  52486 | 6.22.93 |%    | ACiD ANSi                      |
+15,01*|34 |NEWS0793 NFO |   5983 | 6.28.93 |%    | ACiD Newsletter                |
+15,01*|35 |PJ-DSOC1 ANS |  25595 | 6.12.93 |%    | Dark Society                   |
+15,01*|36 |PJ-INDR  ANS |  32739 | 6.13.93 |%    | Infinite Dreams                |
+15,01*|37 |RA-AI1   ANS |   4456 | 6.30.93 |%    | Asylum Isle                    |
+15,01*|38 |RA-NEM1  ANS |   6838 | 6.30.93 |%    | Prime Time                     |
+15,01 |39 |RN-TRS   EXE |  27696 | 6.02.93 |%  M | The Rising Sun                 |
+15,01*|40 |RS-IR2   EXE |  60688 | 6.22.93 |%  M | Infinite Ragnarok              |
+15,01*|41 |RS-JUDGE EXE |  46364 | 7.01.93 |%  M | Judgement Day                  |
+15,01*|42 |RS-JURA  EXE |  82793 | 7.01.93 |%  M | Jurassic Park                  |
+15,01*|42 |SC-ACD3  EXE |   4154 | 6.15.93 |%    | ACiD Logo                      |
+15,01*|43 |SI-UNOR1 EXE | 107977 | 6.10.93 |%    | Unknown Origin                 |
+15,01*|44 |SW-CERE  EXE |  50685 | 7.01.93 |%    | Grim Reaper Loader             |
+15,01*|45 |VS-EVLN  ANS |  24917 | 6.05.93 |%+   | Evilution                      |
+15,01*|46 |VS-GHETO ANS |  12912 | 6.21.93 |%    | Gheto                          |
+15,01*|47 |ACDU0793 NFO |   3922 | 7.01.93 |%    | Acquisition Information File   |

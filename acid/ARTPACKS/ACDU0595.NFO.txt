@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :     April Update *        May 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0595.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0495 ANS |   4922 |04.30.95 |%+   | April 1995 Member/Board List   |
+15,01*|2  |ACIDAPP  EXE |  35277 |04.01.95 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW CFG |   3973 |03.01.95 |%+   | ACiD View configuration        |
+15,01*|4  |ACIDVIEW EXE | 168756 |03.01.95 |%    | ACiD View version 3            |
+15,01*|N/C|ACIDVIEW NFO |  42282 |04.01.95 |%+   | ACiD View Documentation        |
+15,01*|5  |AN-SUCCO GIF | 103485 |05.01.95 |%    | Succotash                      |
+15,01*|6  |AR-ACID1 ANS |  13229 |05.01.95 |%+   | ACiD Promotional               |
+15,01*|7  |AR-PRLX2 ANS |  10316 |04.22.95 |%+   | Parallox                       |
+15,01*|8  |AY-ACID1 ANS |   3225 |04.27.95 |%    | ACiD                           |
+15,01*|9  |AY-EBS1  ANS |   4128 |05.01.95 |%    | Earth Bound Studios            |
+15,01*|10 |AY-HAQ1  ANS |   3567 |04.14.95 |%    | Haq Shaq                       |
+15,01*|11 |AY-MD1   ANS |   6038 |04.11.95 |%    | Mystic Dreams                  |
+15,01*|12 |AY-MIST1 ANS |  19395 |04.11.95 |%+   | Mist                           |
+15,01*|13 |AY-NEVER ANS |   2153 |04.12.95 |%    | Never                          |
+15,01*|14 |AY-PRAY2 ANS |   3281 |04.26.95 |%    | Prayer                         |
+15,01*|15 |AY-REG1  ANS |   2700 |04.25.95 |%    | The Regency                    |
+15,01*|16 |AY-SBZ   ANS |   4079 |04.11.95 |%    | Sushi Bar Z                    |
+15,01*|17 |AY-SIN2  ANS |   3914 |04.13.95 |%    | Sinister                       |
+15,01*|18 |AY-SUCC3 ANS |   2952 |04.11.95 |%    | Succotash                      |
+15,01*|19 |AY-SUCC4 ANS |   4897 |04.16.95 |%    | Succotash                      |
+15,01*|20 |AY-TGATE ANS |   2035 |05.01.95 |%    | The Gate                       |
+15,01*|21 |AY-UF3   ANS |   3572 |04.23.95 |%    | Unseen Fate                    |
+15,01*|22 |AY-UW1   ANS |   4193 |04.25.95 |%    | The Underworld                 |
+15,01*|23 |BD-LD01  RIP |  11094 |05.01.95 |%    | Liquid Dreams                  |
+15,01*|24 |BM-STEM1 RIP |  24272 |05.01.95 |%    | Sadistic Temple                |
+15,01*|25 |BM-SUCCO RIP |  18811 |05.01.95 |%    | Succotash                      |
+15,01*|26 |EV-TRN1  ANS |  53679 |05.01.95 |%+   | The Ravaged Nightmare          |
+15,01*|N/C|FILE_ID  DIZ |    665 |04.25.95 |%    | Acquisition FILE ID by {LD}    |
+15,01*|27 |GAS-CFS1 ANS |  34671 |05.01.95 |%+   | Confusion                      |
+15,01*|28 |GAS-ENDL ANS |   2125 |05.01.95 |%    | Endless                        |
+15,01*|29 |LD-HUMA1 ANS |   1862 |05.01.95 |%    | Huma                           |
+15,01*|30 |LD-IC3   ANS |   3340 |04.16.95 |%    | Ill Communication              |
+15,01*|31 |LD-NL    ANS |   4525 |04.20.95 |%    | Negative Land                  |
+15,01*|32 |LD-TD1   ANS |  25391 |05.01.95 |%+   | Tori Do                        |
+15,01*|33 |MG-SYZGY RIP |  43400 |04.30.95 |%    | Syzygy                         |
+15,01*|34 |NEWS0595 ANS |  30239 |05.01.95 |%+   | ACiD Newsletter Issue #7 (05/9 |
+15,01*|35 |P1-FBYND ANS |  22180 |05.01.95 |%+   | Far Beyond                     |
+15,01*|36 |P1-NT    RIP |  20006 |04.27.95 |%    | Neo Tokyo                      |
+15,01*|37 |P1-PCITY RIP |  26579 |04.22.95 |%    | Psycho City                    |
+15,01*|38 |RN-ELF4  ANS |   4403 |05.01.95 |%    | Elite Leisure Files            |
+15,01*|39 |SM-PSD   RIP |  20594 |05.01.95 |%    | Psycho Squad                   |
+15,01*|40 |SP-SUCCO ANS |   3069 |04.18.95 |%    | Succotash                      |
+15,01*|41 |SRAT-ACD BIN |  33409 |05.01.95 |%++  | ACiD '95                       |
+15,01*|42 |SRAT-AD1 ANS |   9156 |04.25.95 |%+   | Atomic Delusions               |
+15,01*|43 |SS-EVO   GIF | 197437 |05.01.95 |%    | Evolution                      |
+15,01*|44 |SS-NAID  GIF | 151788 |05.01.95 |%    | NAID Graphics Entry (2nd Place |
+15,01*|45 |SS-VOTB  RIP |  16351 |04.30.95 |%    | Valley of the Buffalo          |

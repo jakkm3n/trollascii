@@ -1,0 +1,80 @@
+15,01             Tempus . RedMan . Skull Leader . Mr. Sinister
+15,01                 Spyder Man . R.Noble . Prozac . Mandor
+15,01            Elminster . Aphex . Cavalier . Metal Skin's Mom
+
+15,01                      (and all the guys we forgot)14,15 #00,01@14,15#15,01 #
+15,01      #14,15#15,01m            #00@14,15#00,01@14,15 15,01 14,15 15,01"m 14,15 15,01 m"m 14,15 15,01 14,15 15,01"m 14,15 15,01 14,15 15,01 00@15 14,15   #00,01@15#
+15,01-----------------------------------------------------------------------
+15,01      . 14,15 15,01          #14,15#00,01@14,15#   15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15    #00,01@15#     .
+15,01                    00@14,15#00,01@14,15   15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15    #00,01@15#       00@14,15#
+15,01-----[ Dedication ]----------------------------------------------------
+15,01                   14,15#00,01@14,15#    15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15 15,01 14,15    #00,01@15#        "
+15,01                       This pack is dedicated to 14,15   ##00,01@15#       .
+15,01                             Xypher Matryx 14,15 15,01 14,15 15,01 14,15 15,01 14,15    ##15,01#
+15,01                                  -#-14,15 15,01 14,15 15,01 14,15#15,01 14,15 15,01 14,15 15,01 14,15#15,01 14,15   ##00,01@
+15,01                        For working hard to help 14,15   #00,01@15#00@
+15,01                         your friends, and for # 14,15  #00,01@@15 #
+15,01                    not letting life keep you down.00@@15#00@
+15,01               #
+15,01-----------------------------------------------------------------------
+
+
+
+15,01             Be young, have fun, drink DARK, join Pepsi...-------------
+
+15,01             DON'T TOUCH THAT DIAL, DO NOT ADJUST YOUR SET.
+
+15,01      (DARK's fourth pack is here and it's going to blow you away.)
+
+
+15,01Welcome to the DARK August art package.  We'll keep this NFO file short
+15,01and  sweet so you can get down to  the fun stuff.  The group was really
+15,01tested these past  two months with the Evil  Misfit fiasco and the  WHq
+15,01going down, but that hasn't slowed the group down a bit.  We managed to
+15,01squeeze out a great pack with the help of  everyone in the group.  Have
+15,01a look for yourself  and I'm sure you'll agree that DARK is moving full
+15,01steam ahead.
+
+15,01One little  note: DARK  still  has not lost  a  member to another group
+15,01since the release  of our first pack 7 months ago.  Perhaps  that's  an
+15,01indication of  how much our members enjoy being part of the team.  Lots
+15,01of groups claim to be "only in it for the fun", but only one seems able
+15,01to make  good on the promise by  keeping  the  group enjoyable  for the
+15,01members.
+
+15,01-----------------------------------------------------------------------
+
+
+15,01-----[ Filenames ]-----------------------------------------------------
+
+15,01DARK art files will now be named in the following manner:
+
+15,01                              XXXXX-##.DRK
+
+15,01XXXXX  represents five characters  for artist name.  ## is a hexadecimal
+15,01number representing the number of releases that artist has made to date.
+15,01With the  increase of conflicts involving  initials, it's become obvious
+15,01that the old Mirage file  naming scheme is  out-of-date.  Hopefully this
+15,01new method  will help  to alleviate  that problem.  We're hoping that if
+15,01any other art groups find this  convention logical, they feel free to go
+15,01ahead and use it.
+
+15,01-----------------------------------------------------------------------
+
+
+15,01Welcome  to a new revolution in  NFO files!  This is the world's first-
+15,01ever interactive  text  file!  Yes, this  file has full mouse and Sound
+15,01Blaster support, no matter which editor you view it in!
+
+
+15,01                    +------------------------------+
+15,01                    |                              |
+15,01                    |  Double-click here for more  |
+15,01                    |                              |
+15,01                    |          +======+            |
+15,01                    |          |  OK  |            |
+15,01                    |          +======+            |
+15,01                    +------------------------------+
+
+
+15,01Yes,  for  the first time ever you  can enjoy thundering  sound effects

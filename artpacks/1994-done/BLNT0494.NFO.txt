@@ -1,0 +1,33 @@
+15,01                06mmmm 13mmm    06mmmm15        06mmmm 13mm    mmmm 06mmmm
+15,01                14,06   06,01"13|14,13    13,01m  14,06   06,01" 14,13  13,01  14,13  13,01 14,06   06,01"13|14,13   13,01m  14,13    13,01|14,06   06,01"
+15,01                14,06 06,01"13m14,13 13,01 "14,13     13,01 14,06 06,01"13m14,13 13,01 14,13  13,01  14,13  13,01 14,06 06,01"13m14,13 13,01 14,13    13,01  """" 14,06 06,01"13m14,13 
+15,01                13m14,13   13,01 mm14,13    13,01 m14,13   13,01 "14,13 13,01  14,13 13,01" m14,13   13,01  14,13    15,01      13m14,13   
+15,01                14,13    13,01 """""  14,13    13,01 14,06 06,01m13""06m14,06 06,01 14,13    13,01  14,13    15,01      14,13    
+15,01                14,13    13,01 14,13     13,01m 14,13    13,01 06"""""" 14,13    13,01  14,13  13,01"06m15      14,13    
+15,01                14,13    13,01    14,13   13,01 14,13    13,01 m14,13     13,01 14,13    13,01  "06m14,06  15,01      14,13    
+15,01                14,13    13,01 "14,13    13,01" 14,13    13,01|14,13      13,01 14,13    13,01  14,06    15,01      14,13    
+15,01                                                        08[10UC08]
+15,01                13m14,13            13,01"06m14,06             06,01"13m14,13             13,01"
+15,01                    03E09d14itor : Anton The Pimp [BLuNT Pre09z03]
+
+03,01G09r14eetings BLuNTeD ones! This is our very first pack. We don't claim to be BA09D03,
+03,01i09C14E, ACiD, or TRiBE. We are just a third party group tryin' to make a name f09o03r
+03,01o09u14rselves.  We are currently looking for more members.  If interested fill o09u03t
+03,01t09h14e BLUNTAPP.EXE and upload to the WHQ Anton's Corner -=3o4.346.2932=-.  Log09i03n
+03,01a09s 14BLuNT Password-BLuNT.  We are noot asking that our artists be the best an09s03i
+03,01a09r14tists in the biz, but have a good degree of talent.  We are also looking f09o03r
+03,01t09a14lented VGA artsists, coders, musicians, couriers, and distribution sites. 09I03f
+03,01y09o14u are interested in these positions, contact us on Anton's Corner.   We ha09v03e
+03,01w09o14rked really hard to get this pack out.. so I'd like to give a few shout-ou09t03s
+
+15,01                                     04G13r00ee13t04s
+
+15,01       14UN15KN00OWN C15OM14iC    - Fuck man... you made this pack what it is!
+15,01       14Te15mp00us Th15al14es    - You still are the best in iCE!
+15,01       14Q15u00az15a14r15           14- Even if I'm not on TSG, you still kick ass!
+15,01       14Bl15ac00k Kn15ig14ht15     14- Thanks again for the site!  My own group!
+15,01       14R15a00D M15a14N15          14- You STiLL don't know who I am!
+15,01       14L15i00QU15i14D15           14- That RAiDEN ANSi ruled... keep it up!  Join BLuNT!
+15,01       14Th15e Co00nquist15ad14or - Thanks for the app gen.
+15,01       14Th15e Cr00ack Ad15di14ct - Conquistador should be thankin you bee-yotch!
+15,01       14Thu15rm00an Th15om14as   - get 'em next year Bud!

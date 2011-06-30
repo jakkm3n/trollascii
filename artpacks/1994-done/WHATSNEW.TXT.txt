@@ -1,0 +1,21 @@
+15,0110-02-93 v1.0
+15,01--------
+15,01    Origional release
+15,0110-03-92 v1.1
+15,01--------
+15,01    Bug Fix - I forgot to disable the blink when the program initializes,
+15,01              but only when the video mode changes. That is fixed now. 
+15,01              We didn't have time to beta test. This was 1 line of code
+15,01              to fix this problem. arg
+15,0110-12-93 v1.2 - not realesed
+15,01--------
+15,01    Bug Fix - I had some complaints that the program slowed down cursor
+15,01              movement. The problem was that it didn't properly ditermin
+15,01              when it was suposed to disable to blink. This is now
+15,01              fixed. 
+15,0110-14-93 v1.3
+15,01--------
+15,01    -- Additon of programing interphase and source
+15,01    -- Unload from memory option
+15,01    -- Disable/Re-Enable option
+15,01    -- Interphase program

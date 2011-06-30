@@ -1,0 +1,34 @@
+15,01      ViSiON-X DOS Matrix for Oblivion/2 v2.xx by Luke Cage [SToneD]
+15,01  -------------------------------------------------------------------------
+
+15,01  This was started out as a joke. I wanted to make OBV/2 look like ViSiON-X.
+15,01  I thought it would be funny to have a ViSiON-X Matrix and make someoone
+15,01  think that I was running a cracked version, so it may get back to Ryec.
+15,01  Hopefully, he would call trying to use ViSiON-X's Backdoors. Pahaha.
+15,01  Unfortunately, it didn't get back to him, so I decided to go ahead and
+15,01  release it. 
+15,01  --------------------------------------------------------------------------
+15,01  Instructions: Put all the *.ANS Files in the C:\OBV(2)\TEXTFILE directory
+15,01                and put the MATRIX.MNU file in the OBV\MENU directory. After
+15,01                that, you are all set. Oh, yeah. Go into you PROMPT EDITOR
+15,01                and change the following things:
+
+15,01                1> Find "n Detecting Emulation n" and change it to "Testing
+15,01                   for ANSI/AVATAR Graphics Mode (CR/Abort)".
+
+15,01                2> Find "Connect at |OT" and change it to |U2|09# |05Connect
+15,01                   at |OT. The # code is ALT-254.
+
+15,01                3> Go to Emulation Detect:AVATAR, Emulation Detect:ANSI,
+15,01                   etc., and delete them.
+
+15,01  After that, instant ViSiON-X. If you find any bugs or have any suggestions,
+15,01  e-mail me at lcage@deeptht.armory.com. 
+15,01  ---------------------------------------------------------------------------
+
+15,01  I'm thinking of making a Wildcat, PCBoard, or UNIX matrix for Oblivion/2.
+15,01  Dunno. Just keep an eye out.
+
+15,01          L8r 
+
+15,01              Luke Cage [SToneD/ViOLATiON]

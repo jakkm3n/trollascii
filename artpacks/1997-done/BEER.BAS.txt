@@ -1,0 +1,9 @@
+15,01PRINT "99 bodulz o beer undo wall"
+15,01FOR x = 10 TO 1 STEP -1
+15,01PRINT x; " bodulz o beer undo wall, "; x; " bodulz o beer"
+15,01PRINT "if one uf doze bodulz shood hapun to fal,"
+15,01PRINT x - 1; " bodulz o beer undo wall"
+15,01PRINT ""
+15,01PRINT "press keyz0r tew cuntinew . . . . "
+15,01SHELL "pause >nul"
+15,01NEXT

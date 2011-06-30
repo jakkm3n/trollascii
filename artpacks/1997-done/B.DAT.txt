@@ -1,0 +1,80 @@
+15,01There is a toilet plunger hiding behind the bog.he time we had to stop
+15,01LOCATION 13 (*bathroom*)the Queen Mum pictures, or help Prince Charles
+15,01END_NOUNrom the Adelaide Koala Zoo after an unfortunate case of mistaken
+15,01identity.
+15,01NOUN_DESCR 2032
+15,01Suffice to say, you wouldn't want to lick it. to contact the Ancients
+15,01Apparantly it too was involved in the great attempt at purging the
+15,01fungus from the washroom."
+15,01END_NOUN_DESCR
+15,01He pushes a button opening a trap door in the ceiling through which a
+15,01NOUN 204 tourists tumble.
+15,01CheeseOM
+15,01Great Bigan is sitting in the corner, meditating blissfully.
+15,01The table groans in protest beneath the weight of a large round of cheese.
+15,01LOCATION 14 (*booth*)t contains such various and sundry items as
+15,01END_NOUN_DESCRapers, offtrack betting slips, a pile of dirty laundry,
+15,01one half bottle of ketchup (in refridgerator) and one broken reading
+15,01NOUN_DESCR 204y enough, also in the refridgerator).  There is a bed next
+15,01Although it is only a cheese, it is indeed mighty.  It seems to have gone
+15,01somewhat.. rancid.ll, a dreary mess. The door leads south.
+15,01END_ROOM_DESCR
+15,01It's a big round mutherfuck.
+15,01ROOM_DESCR 20
+15,01END_NOUN_DESCRn is actually not a bad place, although it is somewhat
+15,01dreary with respects to scenery.  Small bits of rubbish flit across the
+15,01NOUN 205d the sky seems overcast even though the sun is shining.  Such
+15,01Number effect of Watford, I guess.  There are no trains in the station
+15,01Phonently, so the only exit you can see is up the stairs at the north end.
+15,01On the wall is inscribed, "For a beefy time, call 155899817.
+15,01LOCATION 13 (* bathroom*) 
+15,01UNMOVABLEe sidewalk in front of your flat, you notice a small boy
+15,01END_NOUNtford Station picking his nose.  He frowns at you. Unlikable
+15,01SOUTH 20it, isn't he.  Your flat is close by to the north, and a tube entrance
+15,01NOUN 206to the south.  Some other buildings are barely visible to the west.
+15,01Tourists9DESCR
+15,01Family ofNYMS MAGIC_WORD 155899817
+15,01A desperately flailing family of tourists are here.
+15,01LOCATION 18fy's Donuts
+15,01END_NOUNCR 21utside your flat *)
+15,01There are two benches, one lining each wall of the hallway.  A telephone
+15,01NOUN 207d near the mouth of the station.  A cab is parked by the side of the
+15,01Shrubberythe east.  If you want to enter a number, just type it.
+15,01NiceROOM_DESCR
+15,01Green and leafy
+15,01LOCATION 1 (*pockets*) banner proclaims your location as to be outside North
+15,01END_NOUNs greatest donut emporium.  The fact that you're in England doesn't
+15,01EXIT 3o faze its enthusiasm in the foggiest. Outside your flat is back to the
+15,01NOUN_DESCR 207ntrance is to the north.  A great noise is coming from the
+15,01It's a shrubbery. It's in your pocket. You have no idea where it came
+15,01from, but you do have a hangover.
+15,01END_NOUNin a cab.  Whee.
+15,01Because he was so in awe of the giant "B" emblazoned on your chest, the cabbie
+15,01NOUN 208 to charge you a fee. 
+15,01GumsROOM_DESCR 22
+15,01Wine 13
+15,01Sweet and chewy
+15,01LOCATION 1 (*pockets*)n
+15,01EDIBLE20
+15,01UNMOVABLER 5
+15,01END_NOUNthe (in)famous Duffy's Donuts, home of the Deep Fried Maple Bar
+15,01ROOM_DESCR 30h when first unveiled in 1972 caused two people to faint
+15,01NOUN 209n the subway.  How pleasant.  Hey, look at this!able, and a man of
+15,01Beef fatr stop!rse the creator in such an inventive way that he left the
+15,01gelatinous cube ofraight into lorry driving.  Duffy is sitting behind the
+15,01fatty and beefy.d pub stool, polishing the counter glass. They don't call him
+15,01LOCATION 190e he stands, you know. On several ingenious apparatuses are hung
+15,01END_NOUNPicadilly Circusnderwent some kind of torture during the Spanish
+15,01NORTH 7tion. There is a bathroom to the east and a booth to the west.  You
+15,01NOUN 210 to the south.
+15,01wrappers_DESCR
+15,01wimpyburger31
+15,01greasy as hecksubway.  How pleasant.  Hey, look at this!
+15,01LOCATION 190op!
+15,01END_NOUN_DESCR
+15,01EAST 15 (* ticket vending machine - not yet*)
+15,01NOUN 211 (* tube platform - not yet *)
+15,01wrapper Console
+15,01cheeseburger
+15,01greasy as all getout
+15,01LOCATION 190be station.

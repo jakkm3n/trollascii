@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :       May Update *       June 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0694.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0594 ANS |   9694 |05.30.94 |%+   | May Member/Board Listing       |
+15,01*|2  |ACIDAPP  EXE |  98112 |10.29.93 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 132304 |06.01.94 |%    | ACiD Acquisition Viewer + 2.02 |
+15,01*|N/C|ACIDVIEW NFO |  33192 |06.01.94 |%+   | ACiD Acquisition Viewer Docs   |
+15,01*|4  |AK-CULT  EXE |  62376 |05.30.94 |%xM  | The Cult                       |
+15,01*|5  |AN-ACID1 RIP |  12035 |05.23.94 |%    | ACiD Promotional               |
+15,01*|6  |AN-CAES2 RIP |  20397 |05.09.94 |%    | Caesar's Palace                |
+15,01*|7  |AN-HV1   ANS |  15457 |06.01.94 |%+   | Harvest Moon                   |
+15,01*|8  |AN-LD1   RIP |  20467 |05.07.94 |%    | Lost Destiny                   |
+15,01*|9  |AZ-AMBER RIP |  87521 |05.18.94 |%    | Amber                          |
+15,01*|10 |AZ-STGHD RIP | 157945 |05.14.94 |%    | Stronghold                     |
+15,01*|11 |BE-FRNGS ANS |  16606 |06.01.94 |%+   | The Fringes                    |
+15,01*|12 |BE-PR1   ANS |  20885 |06.01.94 |%+   | Perfect Rebellion              |
+15,01*|13 |BK-TD    ANS |  34940 |06.01.94 |%+   | Terminal Drift                 |
+15,01*|14 |DH-CS    ANS |  17411 |05.28.94 |%+   | Corrupted Society              |
+15,01*|15 |DR-NEO1  ANS |  20080 |06.01.94 |%+   | Neo Tokyo                      |
+15,01*|16 |DV-ARDEV EXE | 104712 |05.31.94 |%M   | Arrested Development           |
+15,01*|N/C|FILE_ID  DIZ |    445 |06.01.94 |%    | Acquisition FILE ID by {SO}    |
+15,01*|17 |GN-TASB  RIP |  38180 |05.18.94 |%    | The Armageddon Support BBS     |
+15,01*|18 |GN-THA   RIP |  39012 |06.01.94 |%    | The Heretic Asylum             |
+15,01*|19 |GU-ACD1  ANS |  27378 |05.10.94 |%+   | ACiD Promotional               |
+15,01*|20 |KM-69    ANS |  56683 |06.01.94 |%+   | Psalm 69                       |
+15,01*|21 |KM-ACID1 ANS |  10561 |06.01.94 |%+   | "We're All F*cked Up"          |
+15,01*|22 |KM-SANC1 ANS |  29252 |06.01.94 |%+   | Sanctuary                      |
+15,01*|23 |LD-BL    ANS |  31094 |06.01.94 |%+   | The BadLands                   |
+15,01*|24 |LD-CH02  RIP |  32288 |05.14.94 |%    | Channel Zer0                (2)|
+15,01*|25 |LD-COD1  RIP |  23650 |05.12.94 |%    | Castle of Darkness             |
+15,01*|26 |LD-ER    RIP |  16322 |05.12.94 |%    | Exiled Race                    |
+15,01*|27 |LD-TF1   ANS |  34617 |06.01.94 |%+   | Terra Firma                    |
+15,01*|28 |LD-TF2   RIP |  39924 |05.13.94 |%    | Terra Firma                    |
+15,01*|29 |LOGO0694 ZIP |   9754 |05.30.94 |%    | Logo Assortment for June       |
+15,01*|30 |NEWS0694 ANS |  12759 |06.01.94 |%+   | ACiD Newsletter Issue #4       |
+15,01*|31 |SAUCE    PAS |  10532 |05.28.94 |%+   | SAUCE assembly code            |
+15,01*|32 |SM-ACID3 RIP |   5999 |06.01.94 |%    | ACiD Logo                   (3)|
+15,01*|33 |SM-NEO1  RIP |  17739 |05.30.94 |%    | Neo Tokyo                      |
+15,01*|34 |SM-PRMSP RIP |  19034 |05.20.94 |%    | Primordial Soup                |
+15,01*|35 |SM-TF1   RIP |   9091 |06.01.94 |%    | Terra Firma                    |
+15,01*|36 |SO-BNW1  ANS |  63889 |06.01.94 |%+   | Brave New World                |
+15,01*|37 |SO-FR1   ANS |  32795 |06.01.94 |%+   | Flatlined Reality              |
+15,01*|38 |SW-ALTER EXE |  63763 |06.01.94 |%M   | Alter Reality                  |
+15,01*|39 |SW-HOTEL EXE |  75062 |06.01.94 |%M   | Hotel California               |
+15,01*|40 |T2-TF1   ANS |  45566 |06.01.94 |%+   | Terra Firma                    |
+15,01*|41 |US-TSBD  RIP |  28967 |06.01.94 |%    | Texas School Book Depository   |
+15,01*|42 |WM-CCHOP EXE |  14272 |06.01.94 |%M   | CCHOP                          |
+15,01*|43 |ACDU0694 NFO |   6901 |06.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+

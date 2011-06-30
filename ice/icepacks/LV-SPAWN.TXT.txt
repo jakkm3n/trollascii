@@ -1,0 +1,35 @@
+15,01    --------------------------
+15,01    DON'T DISTRIBUTE THIS FILE
+15,01    --------------------------
+15,01    
+15,01    -- Leviathan [iCE]
+
+15,01    Well here is the demo you whanted... I don't know why you whanted that
+15,01    huge ANSI on the end, it increesed the files size somehere between 
+15,01    10-20k (I'm not shure because of the compression) and messed up the 
+15,01    compression ratio because of the TEXT and GRAPHIC data!! 
+
+15,01    Also, why the MUSIC? it's just a scroller... this could have been 
+15,01    12-14k if it didn't have the ANSI and MUSIC!!
+
+15,01    I've included the source code to this program in SOURCE.ZIP, it can be
+15,01    distributed freely -- This is nothing special, so mabey it'll help
+15,01    someone... 
+
+15,01    also, the way the source code is set up, you could make another stupid
+15,01    loader with the same code and juts switching couple things, it's all
+15,01    explained in READ.ME -- you can save us coders some time! heheh
+
+15,01    hey, could you PLEASE leave the name as LV-SPAWN.EXE, the past 2 loaders
+15,01    I've made, I havn't done the art for, and I never get my name on it.
+
+15,01    Please leave it as LV-SPAWN.EXE
+
+15,01    thanks
+
+15,01------------------------------------------------------------------------------
+15,01The Files that should be in the distribution ZIP are :
+
+15,01    LV-SPAWN.EXE    - Executable  (Pklited' EXE stripped of header)
+15,01    SPAWNDAT.ICE    - Music file  (MOD)
+15,01------------------------------------------------------------------------------

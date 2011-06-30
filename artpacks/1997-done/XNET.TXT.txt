@@ -1,0 +1,43 @@
+15,01                       
+15,01                          $$$$$$.       ,$$$$$$
+15,01                          `$$$$$$. THE ,$$$$$$'
+15,01                           `$$$$$$.   ,$$$$$$'
+15,01                            `$$$$$$. ,$$$$$$'
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSS.`$$$$$$v$$$$$$'.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSSS.`$$$$$$$$$$$'.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS> $$$$$$$$$ <SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSSS' $$$$$$$$$$$ `SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01SSSSSSSSSSSSSSSSSSSSSSSSSSSS' $$$$$$^$$$$$$ `SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+15,01                             $$$$$$' `$$$$$$
+15,01                            $$$$$$'   `$$$$$$
+15,01                           $$$$$$' NET `$$$$$$
+15,01                          $$$$$$'       `$$$$$$
+
+
+15,011. X-Net
+15,01--------
+
+15,01This net has been in the back of my head ever since I started my own board.
+15,01But I never had the guts to start it cuz I didn't know dick about anything...
+15,01I still don't, but hey.  Anyways, I've joined ViViD and since then and I've 
+15,01learned alot, so I decided to start it up.  It focuses on "Art Scene" type 
+15,01stuff. (ie: ansi, coding, modding...) 
+
+15,012. ViViD
+15,01--------
+
+15,01The best kick ass group in 6i3. If you wish to become part of ViViD or just 
+15,01want to know what it's about, write in the ViViD support Echo on any ViViD 
+15,01distro site. Or download a pack.
+
+
+15,013. Rules (yay)
+15,01--------------
+
+15,01Rule #1:  Keep to the subject, there's a general chatter if you want to write
+15,01          about other stuff.
+
+15,01The other rules you'll learn as you go along.
+
+
+15,01(c) 1997 King Nothing & ViViD

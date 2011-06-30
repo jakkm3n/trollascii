@@ -1,0 +1,80 @@
+15,01   _______________ ____________ _______________
+15,01  \\          ___/_\______    /_\____         //_   Tits n' Ass Sauce Editor
+15,01  ::\__       /____|_|    |    |_____|   |    ::/         version  1.1
+15,01  |:::/     :|       |    |   :|     |   _    :|
+15,01  |__/      :|__   __|    |   :|__ __|   |    :|
+15,01  |:/       :|:(___):|____|   :|:(_):|___|    :|        by   m_mouse [cia]
+15,01  |___      :|:::::::::::/    :|::::::::/   ___|        and  fever   [cia]
+15,01    /________________________________________\
+
+
+
+
+15,01                                      *1*
+
+15,01                           part 1 - index           [013]
+15,01                           part 2 - disclaimer      [023]
+15,01                           part 2 - intro           [031]
+15,01                           part 3 - commands        [040]
+15,01                           part 4 - new features    [094]
+15,01                           part 5 - bugs            [101]
+15,01                           part 6 - credits         [115]
+
+15,01                                      *2*
+
+15,01               Disclaimer: As soon as you unzip  this puppy, you've
+15,01               taken it into your  own hands  not to  screw up your
+15,01               computer,  so  don't blame  me  for any  damamges or
+15,01               long term  memory  loss or  anything, cause it's not
+15,01               my fault.  Enjoy.
+
+15,01                                      *3*
+
+15,01               Tits  n'  Ass   Sauce  Editor   1.1   provides  many
+15,01               features  to  help  add an  extensive description to
+15,01               your  files.  I  won't  get  into  all  65 types of
+15,01               file's  it  supports but  you'll  find it  useful on
+15,01               nearly anything you want to  add a sauce description
+15,01               to.
+
+15,01                                      *4*
+
+
+
+15,01  <enter>    - edit/add sauce or change directory
+
+15,01               When you have a  file selected  and you press enter,
+15,01               it  will  check  to see if  the  file is  actually a
+15,01               directory or a  file.  If it's  a directory, it will
+15,01               just change  into  that  directory and  load the new
+15,01               file  listing.  If  it  isn't  a  directory, it then
+15,01               checks if  the file  has  sauce or  not.  Regardless
+15,01               wether it does  or  doesn't  contain  sauce, it will
+15,01               ask you to  enter  the new  author, group and title.
+15,01               If  the  files originally  didn't  contain sauce, it
+15,01               will  then  prompt  you  to  select  a datatype  and
+15,01               filetype complete the  sauce structure.
+
+15,01  <v>        - view file
+
+15,01               If  you   have  a  highlighted  file  that  isn't  a
+15,01               directory,  you can  view it.  For now, we only have
+15,01               this  function  as a  sort  of  preview  of the file
+15,01               incase you  forgot what  it  looked  like, etc.  For
+15,01               now,  this  "viewer"  only  supports ascii and ansi,
+15,01               and will  screw up  if  the  file is  more  than 255
+15,01               lines long.   This  means that if you went to view a
+15,01               binary file (.bin)  it would come out as garbage and
+15,01               beep and  probably  piss you off.  Support  for more
+15,01               filetypes may be added later.
+
+15,01  <d>        - delete file (no confirmation)
+
+15,01               If you find  a file  which you  no longer need, just
+15,01               press "d" and  your  problem  will  be solved.  But,
+15,01               be  carfull,  there  is  no  confirmation.  What  we
+15,01               mean  by  this  is  that when  you press "d" there's
+15,01               no turning back.  It  won't  ask  you  you  "Do  you
+15,01               really  want  to  delete  this  file?"  or anything.
+15,01               (just a little warning to save my ass :)
+

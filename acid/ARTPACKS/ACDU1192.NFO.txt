@@ -1,0 +1,71 @@
+
+15,01  #-------------------------------------------------------------+
+15,01  |  "The Acquisition"  -  Contains A-Z of the ART Collection.  |
+15,01  |  Background History:   The Acquisition  was  originated in  |
+15,01  |  San Jose, California.   After  it  had been organized and  |
+15,01  |  its  contents  sorted,  it  first  appeared  on  Fear and  |
+15,01  |  Loathing BBS.   To  this  day the original zips are still  |
+15,01  |  floating  around,  but  as  more  and  more high  quality  |
+15,01  |  computer  graphics  are  produced,  the more tighter  the  |
+15,01  |  zipped volumes become.                                     |
+15,01  +=============================================================+
+15,01   +-----------------------------------------------------------+
+15,01   |  The Acquisition : October Update  *  November 1st, 1992  |
+15,01   +-----------------------------------------------------------+
+15,01   || Note:   The file ACDU1192.ZIP is only an update of the  ||
+15,01   || latest works not included in the preceding Acquisition. ||
+15,01   ++-- --  -  -                                   -  -  -- --++
+15,01 +---+-------------+--------+--------+------+-----------------------------+
+15,01 | # |FileName.Ext |   Size |   Date | Data | Description                 |
+15,01 +---+-------------+--------+--------+------+-----------------------------+--+
+15,01*|1  |ACID-MS2 ANS |  27611 |10.31.92 |%A  | ACiD Logo by Mysterio        (2)|
+15,01*|2  |ACID-TR2 ANS |  30599 |10.05.92 |%A  | ACiD Logo by Tracer          (2)|
+15,01*|3  |ACID-VN  ANS |  15590 |10.15.92 |%+  | ACiD Logo by Vindication        |
+15,01*|4  |ACID92   ANS |   6162 |11.01.92 |%+  | ACiD Member List for November   |
+15,01*|N/C|ACIDART  APL |   4907 |10.29.92 |%+  | ACiD Artists Application Form   |
+15,01*|N/C|ACIDCOUR APL |   3414 |10.30.92 |%+  | ACiD Courier Application Form   |
+15,01*|5  |ACIDWOLF EXE |   5586 |10.13.92 |%   | ACiD EGA/VGA Wolf (Hi-Res ANSi) |
+15,01*|6  |AIRACID1 ANS |   3132 |10.01.92 |%   | Artists in Revolt Logo       (1)|
+15,01*|7  |AIRACID2 ANS |   9168 |10.23.92 |%+  | Artists in Revolt Logo       (2)|
+15,01*|8  |BADLACD1 ANS |   9451 |10.08.92 |%+  | The BadLands                 (1)|
+15,01*|9  |BADLACD2 ANS |   9315 |10.13.92 |%+  | The BadLands                 (2)|
+15,01*|10 |BCACID8  ANS |   2261 |10.03.92 |%   | Body Count                   (8)|
+15,01*|11 |CCIACID1 ANS |  13190 |10.04.92 |%+  | CyberCrime International Logo   |
+15,01*|12 |CN1ACID  ANS |  15578 |10.10.92 |%+  | Carbon Nation                   |
+15,01*|13 |DEEPACID ANS |  20652 |10.31.92 |%+  | The Deep                        |
+15,01*|14 |DSOCACD2 ANS |  28537 |10.28.92 |%+  | Dark Society                 (2)|
+15,01*|15 |DSOCACD3 ANS |  28403 |10.31.92 |%Ax+| Dark Society                 (3)|
+15,01*|16 |DSOCACD4 ANS |   3976 |10.31.92 |%+  | Dark Society                 (4)|
+15,01*|17 |IMPACID2 ANS |  28567 |10.17.92 |%Ax+| Imperial City                (2)|
+15,01*|18 |IODACDZN ANS |   2131 |10.30.92 |%   | INC Oriental Division Logo      |
+15,01*|19 |KINDACID ANS |   4372 |10.19.92 |%   | KinderGarden                    |
+15,01*|20 |KOROVA5  ANS |  18155 |10.18.92 |%+  | Korova Milkbar               (5)|
+15,01*|21 |LABZNACD ANS |   4055 |10.18.92 |%   | The Lab                         |
+15,01*|22 |LM1ACID  ANS |  11456 |10.17.92 |%   | Liquid Metal                 (1)|
+15,01*|23 |LM3ACID  ANS |  15551 |10.28.92 |%   | Liquid Metal                 (3)|
+15,01*|24 |MERC2ACD ANS |   5025 |10.02.92 |%+  | Mercury Logo                 (2)|
+15,01*|25 |MNO3ACD2 ANS | 171175 |10.17.92 |%Ax | MidNite Oil ]I[              (2)|
+15,01*|N/C|PSYCACID ANS |   5766 |10.23.92 |%+  | PsychoNeurosis (New Version)    |
+15,01*|26 |RICK-SC  ANS | 248198 |10.16.92 |%Ax | Force 10 Calls GTE MobileNet    |
+15,01*|27 |SANCACD3 ANS |  23777 |10.06.92 |%+  | Sanctuary                    (3)|
+15,01*|28 |SANCACD1 EXE | 116808 |10.31.92 |%M  | Sanctuary                       |
+15,01*|29 |SC-ACID4 ANS |   2395 |10.07.92 |%   | Spyrits Crypt                (4)|
+15,01*|30 |SC-ACID5 ANS | 184885 |10.18.92 |%Ax | Spyrits Crypt                (5)|
+15,01*|31 |SC-ACID6 ANS |   9340 |10.11.92 |%+  | Spyrits Crypt                (6)|
+15,01*|32 |SNKPACD1 ANS |  17996 |10.12.92 |%+  | Snake's Place                   |
+15,01*|33 |ACDU1192 NFO |   4998 |11.01.92 |%   | This File                       |
+15,01 +---+-------------+--------+---------+----+---------------------------------+
+
+15,01  +-+ Data Legend +------------------------------------+
+15,01  |                                                    |
+15,01  | % = ACiD Production      A = Animated/ANSiMated    |
+15,01  | M = Adlib/ANSi Music/SB  + = Scrolling             |
+15,01  | x = Multi-Screen         * = New Since Last Update |
+15,01  +----------------------------------------------------+
+
+15,01  +-+ Statistics +-------------------------------------------+
+15,01  |                                                          |
+15,01  |   Total Files: 36         Average Compression Rate: %74  |
+15,01  |   Total Bytes: 1,112,233  Average Of Bytes/File: 30,895  |
+15,01  |                           Total Bytes Zipped:   294,969  |
+15,01  +----------------------------------------------------------+

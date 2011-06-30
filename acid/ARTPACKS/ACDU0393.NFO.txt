@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : January Update   *      March 1st, 1993 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU0393.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |   Date  | Data|   Description                  |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|N/C|ACIDART  APL |   4916 | 2.01.93 |%+   | ACiD Artists Application Form  |
+15,01*|N/C|ACIDCOUR APL |   3416 | 2.01.93 |%+   | ACiD Courier Application Form  |
+15,01*|1  |AP-LGCY1 EXE |  15782 | 2.27.93 |%xM  | Legacy Logo                    |
+15,01*|2  |CE-CITA1 ANS |  12604 | 1.24.93 |%+   | Citadel                        |
+15,01*|3  |CE-ROSE1 ANS |   9695 | 1.13.93 |%+   | Rose Garden                    |
+15,01*|4  |EX-METLW ANS |  13992 | 2.25.93 |%+   | Metal Works                    |
+15,01*|5  |FD-CLOAK ANS |  15340 | 1.23.93 |%+   | Cloak and Dagger               |
+15,01*|6  |FD-FG    ANS |   2398 | 1.28.93 |%+   | Forbidden Grounds              |
+15,01*|7  |FD-LQD   ANS |   1408 | 1.28.93 |%    | Liquid BBS Software Logo       |
+15,01*|8  |FD-WISH  ANS |  25472 | 2.05.93 |%+   | Wish List                      |
+15,01*|N/C|FILE_ID  DIZ |    306 | 2.28.93 |%    | Acquisition FILE ID by Cerebrus|
+15,01*|9  |FN-DRNET ANS |   5502 | 1.21.93 |%    | Dragnet                        |
+15,01*|10 |FN-LOZ   ANS |  12696 | 2.07.93 |%+   | Land of Zeist                  |
+15,01*|11 |FN-MARSH ANS |  14043 | 2.14.93 |%+   | Mars Hotel                     |
+15,01*|12 |IM-AC01  ANS |   3234 | 2.20.93 |%    | Alpha Centauri                 |
+15,01*|13 |IM-EM01  ANS |   7891 | 2.20.93 |%+   | Electro Magnetic               |
+15,01*|14 |IM-PB01  ANS |   2887 | 2.20.93 |%    | Plan B                      (1)|
+15,01*|15 |IM-PB02  ANS |   2453 | 2.20.93 |%    | Plan B                      (2)|
+15,01*|16 |JD-CVRT1 ANS | 414512 | 2.01.93 |%Ax  | Covert Action 2                |
+15,01*|17 |KP-FORB1 ANS |   2981 | 1.21.93 |%    | The Forbidden Realm            |
+15,01*|18 |MH-ACID1 EXE |  21101 | 2.26.93 |%AxM | ACiD Demo                      |
+15,01*|19 |MX-ACID1 EXE |  26778 | 2.27.93 |%xM  | ACiD February Members VGA      |
+15,01*|20 |RS-ACID1 EXE |  54596 | 2.21.93 |%AxM | ACiD Demo                      |
+15,01*|21 |RS-ELUSV EXE |  25855 | 2.24.93 |%AxM | The Elusive Dream Loader       |
+15,01*|22 |SC-ACDII EXE |   4643 | 2.04.93 |%    | ACiD Logo                   (2)|
+15,01*|23 |SC-BITCH EXE |   8976 | 2.23.93 |%    | "...is BACK"                   |
+15,01*|24 |SC-PFED  EXE |   9440 | 2.13.93 |%    | The Elusive Dream VGA ANSi     |
+15,01*|25 |SC-RICK2 ANS | 952535 | 2.28.93 |%Ax  | Force 10 Adventures   (Part II)|
+15,01*|26 |TK-AV310 EXE |  91264 | 2.27.93 |%    | ACiD Acquisition Viewer v3.10  |
+15,01*|27 |TK-BGATE ANS |   3456 | 2.07.93 |%+   | The Big Black Gate             |
+15,01*|28 |TK-PRSTN ANS | 753602 | 2.18.93 |%Ax+ | The Pristine Tower             |
+15,01*|29 |TK-SCITY ANS |   5551 | 2.28.93 |%+   | Sin City                       |
+15,01*|30 |TK-XAP2  ANS |   5376 | 2.07.93 |%+   | XAP Logo                    (2)| 
+15,01*|31 |VN-THECT ANS |  72053 | 2.23.93 |%Ax+ | "The City" Super-Scroller      | 
+15,01*|32 |VS-ACD93 ANS |   6063 | 2.28.93 |%+   | ACiD Members List for 3/1993   |
+15,01*|33 |VS-ADREN ANS |  15594 | 2.20.93 |%+   | Adrenalin                      |
+15,01*|34 |ZN-UNIQ1 ANS |   2143 | 2.11.93 |%    | UNIQ Logo                      |
+15,01*|35 |ACDU0393 NFO |   6324 | 3.01.93 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Adlib/ANSi Music/SB  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

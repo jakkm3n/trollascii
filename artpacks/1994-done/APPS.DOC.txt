@@ -1,0 +1,22 @@
+15,01           Well, here it is, the utility  you've  all been waiting for!  
+15,01       It slices, it dices, it  makes  a damn nice steak!  You can even
+15,01       apply to  ECLiPSE with  it!  It's  ECP-APP.EXE!   Now, on to the  
+15,01       part you've  been  fucking  waiting  for...  This  documentation
+15,01       isn't  really  neccesary,  but  it DOES  make things  within the 
+15,01       program  seem a bit  easier.  In the  opening  screen, scroll up
+15,01       and down with (whoah) the up  and down  arrow keys.  Hit <ENTER>
+15,01       to select what  you want  to be in  eclipse,  and also  enter on
+15,01       the <Done> command when you have  selected what you want.  Then,
+15,01       go ahead and fill out the infoforms to the best of your ability.
+15,01       (If you need help on that, I'll tell you right now you won't get
+15,01       into  eclipse).  Once  you enter all  the information, you might 
+15,01       want to  create a text  file (Name it whatever  you want),  that
+15,01       tells a little  more about you that  might not have been covered
+15,01       in the infoform... such as if you've won any art contests, etc..
+15,01       Well, once that's done, zip up  the file with "APP.TXT" (Created
+15,01       when you run  ECP-APP.EXE) and some  samples of your work.  Once
+15,01       you have that, send it to an eclipse member or member board, and
+15,01       they  will be sure to  get it to the right  people.  You will be
+15,01       notified  within  2 weeks whether you are  accepted.  Well, good 
+15,01       luck.
+15,01                                                -Vlad the Impaler 

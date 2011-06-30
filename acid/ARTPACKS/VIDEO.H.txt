@@ -1,0 +1,7 @@
+15,01/* Video Routine Prototypes */
+15,01void detect_vga(void);
+15,01void set_palette(char *,int);
+15,01void set_vga(void);
+15,01void set_text(void);
+15,01void block_image(int,int,char *,int,int,int);
+15,01void shiftline(int,int);

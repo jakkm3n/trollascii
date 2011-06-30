@@ -1,0 +1,42 @@
+15,01# iCEView Description File
+15,01# Created by ICEVIEW.EXE on 8/1/1999
+15,01###############################################
+15,01ice-9907.nfo,ANSI,iCE 99/07 Info File,iCE Senior Staff
+15,01ice-9907.mem,ANSI,iCE 99/07 Member List,iCE Senior Staff
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+15,01file_id.diz,ANSI,File ID,Ironghost
+15,01c0-l0799.ice,ANSI,Logo Colly 07/99,Count Zero
+15,01fr-ice.ice,ANSI,iCE,Fraktal
+15,01kt-ice.ice,ANSI,iCE,Kitiara
+15,01kt-rca.ice,ANSI,RCA,Kitiara
+15,01ma-ice99.ice,ANSI,iCE,Mass Murderer
+15,01mi-dala.ice,ANSI,The Project,Mongi
+15,01mm-9907.ice,ANSI,9907,Magnetic M
+15,01mt-gto1.ice,ANSI,Ghetto,Misfit
+15,01tg-ic799.ice,ANSI,iCE,Toon Goon
+15,01ti-shs1.ice,ANSI,Shurato's Heavenly Sphere,Trip
+15,01us-esque.ice,ANSI,esque.ice.org,Multiple Artists
+15,01mt-dose1.rip,ANSI,iCE,Misfit
+15,0188-g.jpg,EXTERNAL,G,Root 88
+15,01ag-cpfd.jpg,EXTERNAL,CPFD,Adam Grossi
+15,01dm-pkp.jpg,EXTERNAL,Pi Kappa Phi,Darkmage
+15,01dm-thief.jpg,EXTERNAL,Thief,Darkmage
+15,01dv-o2000.jpg,EXTERNAL,Oscar 2000,DaVinci
+15,01fy-futr1.jpg,EXTERNAL,Futuristica 1,Fyrenurbs
+15,01fy-futr2.jpg,EXTERNAL,Futuristica 2,Fyrenurbs
+15,01ja-elf2.jpg,EXTERNAL,Elf 2,Jae
+15,01js-aship.jpg,EXTERNAL,A Ship,Jerry Sandefur
+15,01js-fice.jpg,EXTERNAL,iCE,Jerry Sandefur
+15,01js-nchic.jpg,EXTERNAL,New Chicago,Jerry Sandefur
+15,01nd-c888.jpg,EXTERNAL,Club 888,Noodles
+15,01rl-droid.jpg,EXTERNAL,Battle Droid,Rogue Leader
+15,01sd-bh.jpg,EXTERNAL,Bankhead Studios,Shade
+15,01sk-bacc.jpg,EXTERNAL,Bacc,Sprite
+15,01tk-up.jpg,EXTERNAL,Urban Paradise,The Knave
+15,01tl-celot.jpg,EXTERNAL,Celot,Tim Lewis
+15,01tl-city1.jpg,EXTERNAL,City,Tim Lewis
+15,01tl-hawii.gif,EXTERNAL,Hawaii,Tim Lewis
+15,01tl-undrw.gif,EXTERNAL,Underwater,Tim Lewis
+15,01us-skel.jpg,EXTERNAL,Skeleton,Multiple Artists
+15,01us-staff.jpg,EXTERNAL,Staff,Multiple Artists
+15,01us-you.jpg,EXTERNAL,You,Multiple Artists

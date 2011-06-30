@@ -1,0 +1,64 @@
+15,01*****************************************************************
+15,01              If you love someone,
+15,01              Set her free...
+15,01              If she comes back, she's yours,
+15,01              If she doesn't, she's never was....
+
+
+15,01   The New Versions.....
+
+15,01      Pessimist:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              If she ever comes back, she's yours,
+15,01              If she doesn't, as expected, she never was ...
+15,01 
+15,01      Optimist:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              Don't worry, she will come back.
+
+15,01      Suspicious:
+15,01              (1) If you love someone,
+15,01                  Set her free ...
+15,01                  If she ever comes back, ask her why.
+
+15,01              (2) If you love someone,
+15,01                  Set her free ... but get someone to follow her
+15,01              (3) If you love someone,
+15,01                  ...are you sure you love that someone?
+15,01      Go-getter:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              If she comes back, she's yours,
+15,01              If she doesn't, go get her !
+15,01 
+15,01      Hunter:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              Don't even wait whether she comes back, go hunt her
+15,01              down!
+15,01 
+15,01      Impatient:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              If she doesn't comes back within some time forget her.
+15,01 
+15,01      Patient:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              If she doesn't come back, continue to wait until she
+15,01               comes back ...
+
+15,01      Playful:
+15,01              If you love someone,
+15,01              Set her free ...
+15,01              * If she comes back, and if you love her still,
+15,01                set her free again,
+15,01                repeat *
+15,01 
+15,01      C++ Programmer:
+15,01              if(you-love(m_she))
+15,01               m_she-free();
+15,01               if(m_she == NULL)
+15,01               m_she= new CShe;

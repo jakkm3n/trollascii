@@ -1,0 +1,80 @@
+15,01              mmmmmm
+15,01              |"14,15######15,01    mm   m14,15##15,01m mm14,15####15,01m         m14,15###00,01@@@@15#m
+15,01        mmmm      "14,15####15,01  |  "   "14,15###15,01m    "00@@15m      14,15### 15,01"    "#"|
+15,01       | 14,15####15,01       00@@14,15##15,01   m14,15###15,01   00@14,15##15,01m     ##|    m14,15###
+15,01          "14,15##00,01@15       00@@14,15#15,01" | 14,15###00,01@15  "00@14,15##15,01      "     14,15###
+15,01            14,15#00,01@@15     ##00@15      14,15#00,01@@15   "00@14,15#15,01||""14,15#####15,01m |14,15##15,01| mm14,15#00,01@15#"|
+15,01             "00@15#   ##"       14,15#00,01@15|    #00@15|       14,15##15,01m 14,15##00,01@15 "          
+15,01               ## ##        ##|    |#00@15|        14,15#00,01@15|14,15#00,01@@@15 DiCE m##m
+15,01                # "        #"      ###         m00@15| 14,15#00,01@@@15m   ###" |
+15,01                | "      |"       m##" "mmmmm##00@15"   "00@@@@15####"
+15,01                      Vision Impaired Beyond Explanation
+15,01                                 ANSi Group
+
+15,01                              ANSi done for you                                 
+15,01 
+15,01-----------------------------------------------------------------------------
+15,01-|-ANSi Information
+15,01   
+15,01   We can only draw TITLES which means LETTERS, WORDS etc.. We're not very
+15,01 good with figures and stuff like that.
+
+15,01   Once receiving your ANSi made by us, you're NOT to change anything in the
+15,01 ANSi we drew for you!
+15,01   
+15,01   This is the order form to request an ANSi to be made for you. You must
+15,01 pay first and once I receive payment, I'll start working on the ANSi or
+15,01 whatever it is you want. There's no refunds so look closely at our sample
+15,01 work. ANSi's & Loaders will take around 3-7 days to complete and you'll
+15,01 have two choices:
+
+15,01 If you're in FidoNET, FREQ IT: Just FREQ your initials [Example, I would
+15,01 FREQ CRJ since my name is Christopher Robert Jong.] After 1 week or longer.
+
+15,01 [FREQ IT]
+
+15,01 Call the support BBS The Shareware Exchange! and you can download it from
+15,01 the attached message. Please be sure that you apply before I receive this
+15,01 form.
+
+15,01 [CALL BBS]
+
+15,01-|- EVERYTHING must be filled out in order to process your order
+
+15,01 [Circle want you want done]
+
+15,01 [1 ANSi Screen                              ]................$ 4.00 each
+15,01 [5 or MORE ANSi Screens-At ONE REQUEST ONLY!]................$ 3.00 each
+15,01 [VGA Loader                                 ]............... $ Soon     
+15,01 [ANSi /w Sound Blaster Music                ]................$ Soon     
+
+15,01 Payment: [CHECK]  [MONEY ORDER]                      Total   $_____
+
+15,01 If you don't add the prices correctly, I'll send BACK the payments and
+15,01 tell you what you need to add.
+
+
+15,01 DETAILED Description of what to DRAW:______________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01                       
+15,01 DETAILED Description of what to WRITE:_____________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+15,01 ___________________________________________________________________________
+
+
+15,01 If it's not what you wanted, sorry, we followed your EXACT descriptions.
+15,01 Or better yet, send us a copy of your ANSi you want us to IMPROVE.
+
+15,01 First/Middle/Last FULL Name:[_____________________________________________]
+
+15,01 Street Address:[__________________________________________________________]
+
+15,01 City/State/Zip:[__________________________________________________________]
+

@@ -1,0 +1,80 @@
+
+
+14,01--------------//[00dee jay is back in the scene, ripping!14]\\-------------------
+
+
+
+15,01     hi out there.  spuds on the line.  just before we released the 
+15,01     ncd0397 pack, we got a notice on a rip of an old msc script by
+15,01     crunsher/msc.  as both i and jellyfish was da admin in msc,
+15,01     we figured out that we should write it here.  jah.
+
+15,01     anyway, lets get to the facts, eh?  the ripper is no other 
+15,01     than 00dee jay15!  again!  this is not the first time he is out
+15,01     ripping. if ya think you just can go on ripping the rest of yer
+15,01     filthy life, you're wrong!  poor child...nah!
+15,01     what he did, he took tha code to a last caller mbbs script 
+15,01     by crunsher/msc, and released it as HIS work under future kids.
+
+15,01     i've tried to find the most awesome of what he has done 
+15,01     (the script is too long, so i've not included all of it).
+
+15,01     00our comments in white
+
+
+14,01--------//00the original msc version14\\----------------------------------
+
+
+14,01   !ASSIGN 3 C:
+
+14,01   !----------------------------------------------------------\
+14,01   !  configuration                                           |
+14,01   ! Enter your drive letter after !assign 3                  |
+14,01   ! When you have done that, the script is ready to use!     |
+14,01   !----------------------------------------------------------/
+14,01   !This SCript is made by Crunsher Msc^drk^dom
+14,01   !
+
+14,01   !You are not allowed to change nothing down _FROM_ _her_!!!!
+14,01   !_Don't make me kick your ass!!! _do not change the name
+14,01   !how has made this script_!!
+
+14,01   !ASSIGN 9 %SO
+14,01   !SET PAGELENGTH 0
+14,01   !EXISTS %3\LAST\ORG.BAT START
+14,01   !FILE %3\LAST\ORG.BAT
+14,01   !Writeln %3
+14,01   !WRITELN @ECHO OFF
+14,01   !WRITELN CD\LAST
+14,01   !WRITELN DEL LAST.010
+14,01   !WRITELN REN LAST.009 LAST.010
+14,01   !WRITELN REN LAST.008 LAST.009
+14,01   !WRITELN REN LAST.007 LAST.008
+14,01   !WRITELN REN LAST.006 LAST.007
+14,01   !WRITELN REN LAST.005 LAST.006
+14,01   !WRITELN REN LAST.004 LAST.005
+14,01   !WRITELN REN LAST.003 LAST.004
+14,01   !WRITELN REN LAST.002 LAST.003
+14,01   !WRITELN REN LAST.001 LAST.002
+14,01   !START
+14,01   !local LocalLogin
+14,01   !assign 1 %sp
+14,01   !goto Login
+14,01   !LocalLogin
+14,01   !assign 1 Local
+14,01   !Login
+14,01   !FILE %3\LAST\LAST.001
+14,01   !WRITELN %#R2 [0;1;36m%1  %#L24 [0;36m%U %#L22 [1;30m%A2 %#L11 [0;36m%T
+14,01   %#R2 [0;1m#%O [0m
+14,01   !DOS %3\LAST\ORG.BAT
+14,01    [2J
+14,01    [0;1;36;46m14,14#14,01 [0;36m14,14   14,01    [1;46m14,14#14,01 [0;36m14,14   14,01"14,14 14,01    [1;46m14,14#14,01 [0;36m14,14   14,01"14,14 
+14,01   ""14,14    14,01""   14,14  14,01   [1;46m01@14 [0;36m14,14 14,01"""14,14  14,01    [1;46m14,14#14,01 [0;36m14,14   14,01"14,14 
+14,01    [1;46m14,14#14,01 [0;36m14,14   14,01"14,14 14,01  [1;46m14,14#14,01 [0;36m14,14   
+14,01    [1;46m01@14 [0;36m14,14   14,01    [1;46m01@14 [0;36m14,14   14,01m14,14 
+14,01    [1;46m01@14 [0;36m14,14   14,01 [5C14,14   14,01 [1;46m# [5C [0;36m14,14 14,01 [1;46m# [2C# [0;36m14,14 14,01   14,14  
+14,01     [1;46m01@14 [0;36m14,14   14,01    [1;
+14,01   14,14    14,01m14,14 14,01 14,14    14,01 14,14 
+14,01   14,14 14,01m14,14    14,01 [5C14,14   14,01 [1;46m01@14 [5C [0;36m14,14 14,01 [1;46m01@14 [2C [0;36m14,14  14,01mmm14,14  14,01   14,14    14,01m14,14 
+14,01   14,14    14,01 14,14 14,01 14,14    14,01m14,14 14,01 14,14    14,01m14,14 
+

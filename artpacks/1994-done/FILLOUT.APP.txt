@@ -1,0 +1,17 @@
+15,01Quick Ref:
+
+15,01BOARD NAME:
+15,01SYSOP NAME:
+15,01V32 or HST:
+15,01BOARD NUMBER:
+15,01CITY:
+15,01STATE:
+15,01COUNTRY:
+
+
+15,01Fill this out and upload it zipped with your APPLICATION.  
+
+
+15,01QUICK REF # 009E
+
+15,01TDA 516 752 9820.

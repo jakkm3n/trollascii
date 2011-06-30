@@ -1,0 +1,23 @@
+
+15,01             02. . . 12. . . 00W14.00H14.00I14.00T14.00E   S14.00A14.00N14.00D14.00S 12. . . 02. . .
+
+15,01             02Th12e wise old men in the center of the village,
+15,01             02Te12ll of a place where riches shine in the light,
+15,01             02A 12place indentified by its distorted color,
+15,01             02A 12region in the desert where the sand is white.
+15,01             02Th12is place can be reached by only the pure,
+15,01             02Wh12ere only the people without sin may go,
+15,01             02An12d once they reach that place of reward,
+15,01             02Th12e understand the purpose of life, they finally know.
+
+15,01             02Tw12o young men sat and listened to the tale,
+15,01             02Th12eir eyes shone as their greed sprouted,
+15,01             02Th12ey were but thieves in this friendly town,
+15,01             02Th12eir sincerity, no one doubted.
+15,01             02To12gether, they left on this difficult journey,
+15,01             02Th12ey reached it after travelling through many lands,
+15,01             02Th12ey however forgot the one rule of entry,
+15,01             02Al12as, they perished in the region of the 00White Sands12.
+
+15,01                                           02- WH12i02TE SANDS12[022312.020212.029412]
+15,01                                           02- SN12i02PER12[02GR12i02P12/02AD12]

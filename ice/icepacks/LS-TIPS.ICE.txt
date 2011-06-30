@@ -1,0 +1,80 @@
+08,01The Head00Lessons from Slothy - Medium Experienced to Advanced
+15,01      12##15                                      02@12  #15m""m
+00,01I'm 15#The Human head is 3/2 as tall as it is wide. 14,15 15,01..14,15 15,01 mmmmm00,15##15,01m00common15      00,15##
+00,01drawi15In other words, if it is 4 blocks wide it12#02@12#14,12#15,01"mm"   00,15#######15,01m00or in thi00,15###
+00,01begin15will be 3 blocks tall (since a vertical block is the size of 2m     |15,15@00##
+15,01     horizontal blocks)  3/2*4=6 half-blocks high = 3 blocks high00,15#####15,01  |15,15@00##15,01|
+15,01    m00,15#########12,01"15m12"14,12 ##12,01m00l be w12# ###    #  # #02@12 #15        mm15,15@@@@@@@@@@@00###15,01| m15,15@00###15,01|
+15,01   14,15#15,01#The eyes on a human head are exactly HALFWAY down15,15@@@15,01m""15,04"15,01""m15,15@@@@00########15,01|
+15,01    "the head.15,15@@00#14##15,01m12##02@@@12##02@14,12##02,01@14,12#02,01@14,12#12,01m14,12#12,01| m14,12#12,01|14,12#02,01@14,12#12,01   15m15,15@@@@@@@@14 15,01   14,04 15,15@@@14 15@@@@@@00#####15,01|00mmm
+15,01 00,15#14##15,01#The eye should be 1/5 the width of the head.15,15@@@@@@15,01||15,15@@@14,04 15,15@@@15,01||15,15@@@@@@@00###
+00,01 00,15##15@@15,01In other words, the head is 5 eye-widths across.  14,15 15,01 |14,15 15,01|14,04 15,01|14,15 15,01| 14,15 15@@@@@@@@00##
+00,01 00,15#15@@15,01#To find where the eyes should go, you only need15,15@@@15,01||15,15@@@15,04 15,15@@@15,01||15,15@@@@@@@@@00#
+00,01 15,15@@@@15,01to follow the angle from the tip of the nose to15,15@@@@14 00,00###15,04 15,15@@@14 15@15,01""15,15@@@@@@@15,01|
+15,01 |15,15@@@15,01the nostrils on either side.  That line will point  "mm15,04m15,01mm"00 mm15,15@@@@@@@@15,01|
+15,01 |15,15@@@15,01to exactly where the eye should go.00,00##############00,01""""00,00#00,01mmm 00,00##15,15@@@@@@@@@@
+00,01  15,15@@@@00,00########00,01m"00,00##########00,01m"00,00###00,01mm""00,00#############00,01"""  mmm00,00###00,01""m"00,00####15,15@@@@@@@
+00,01 15| 15,15@15,01This applies to the bottom 1/200,00#00,01mm""00,00#15,01-00,00#14 00,01""mmm00,00##00,01"m00,00##00,01"""mm00,00##00,01||00,00#####15,15@@@@15,01"
+15,01 13mm 15of the face, i.e. eyes to chin14,00 00###15,012 |00""14,00  14,15 14,00 00,01""15|14,15  15,01|  04 15  |14,15  15,01|   14,15 15,01 00m00,00#00,01""14,12        
+00,01 13|14,13  15,01#The nose ends exactly halfway.00""   15|00m""m15||14,00        04,01 00,00###00,01mmmm00,00#15,01||00"   04m04,04@@04,01m14,12     
+14,12##02,01@14,12#15,01#The nose is 1 eye-width wide.14,12#02,01@14,12#02,01@12# 15-12 "|02@15||12 ##02@12# 15m 04 15 m02@12###02@@15||02@@@14,12######### 
+15,01                            hinking to m-self 14,15 15,01well, a"""his hea14,15 15,01 is fairly 14,12###
+12,01#02@@14,12#15,01Now, with the remaining 1/4 scalp.2 |herefo14,15 15,01e, I'll04 15shade  14,15 15,01 slowly to02@@12  02@
+12,01#02@14,12##15,01of the face, we're going toditionall|, to ad"mto it04 15 I wam"going through02@
+02,01@14,12##02,01@15divide it into 3 parts.ere I though -asic colo""mmmmmmm""l, so I actually
+12,01#02@12#02@14,12#15,01_SKIP_m"  "mmm"  "m7 with no - Noseg blocks on it.  I should have been 12#02@
+02,01@@12  14,15 15,01gagg 14,15 15,01   mm   mm   14,15#15,01epeat14,15 15,01 2 |       don't# 1/3 down is the mouthe, please.
+02,01@12  #15 14,15 12,01  02@15 # """14,15     15,01""" #   12#14,15 15,01 12 ##15- Mouth     14,12#15,01# 2/3 down is the upper chin  12#
+00,013.   15 14,15 15,01  00inuing 15mmm00f Block15  14,15 15,01   2 |00 shading15   12|14,12#15,01                             12#
+12,01#15      "m      "02@12  15"      m"     12#15- Upper chin 14,12#15,01                              12#
+15,01     A   ""mmm  ing  mmm""   som2 |ing I wrestled with for a long time.  That 02@
+12,01##15   is the di"""""""f what color - lower chin-blocks (F5,F6,F7,F8) in the case
+14,12#02,01@@12##15of a shaded area.  In the earlier version of the ansi below, you can see12"14,12#
+08,01The Body15sed some color 15 half-blocks around 15 on 7 F2's.  Although this is a
+01,01@@14##15#The human body can be anywhere from 6-8 head-lengths long, about 7 forit
+08,01m08,08##08,01""15average people.is face gets brighter at     edges of the shadows in his    
+15,01     face.  Keep in mind also that you're drawing the 00Bottom of head length14##01@@
+15,01     but really you're drawing the SHADOWS from those 00marks:15s.  In shading, you
+15,01     want to continue the shading trend of+   m""m darker or lighter.  Here are
+15,01     Don't use this if you don't want to, +   "04mm15"  12#  15Head itself
+15,01     they really are the true proportions + mm14,15    15,01mm12  02@14,12#
+15,01     of the human body.  If you want your + 15,04"15,01|15,04""""15,01|15,04"02,01@14,12#15,01 Bottom of chest
+15,01     person to look normal, he should13,13##04,04@04,01m15 + 14,15 15,01|14,15    15,01|14,15 12,01  15mmmmmm00,15##15,01m            00,15##
+15,01     follow these basic proportions.13,13#04,04@@13##04,01|15+ 15,04"15,01 15,04""""15,01 15,04"15,15@@00#15,01Belly button       00,15###
+15,01            13,13###   15,01  04,04@13,13#    15,01  13,04##14    15,01  04,04@13##14   15,01+ 14,15 15,01 14,15    15,01 14,15 12,01 15"15,15@@@00#########15,01mm     |15,15@00##
+15,01      00,15###15,01mmm  12"14,12    12,01m15        12# #15           + 15,04"15,01 15,04""""15,01 15,04"15,01  |Crotch15,15@00########15,01  |15,15@00##15,01|
+15,01    m00,15#########12,01"15m12"14,12 ##12,01m15      12# ###    #  # #15+12 #15 14,15 15,01||14,15 15,01   mm15,15@@@@@@@@@@@00###15,01| m15,15@00###15,01|
+15,01   14,15#00#15,01To pull back up the earlier piece, we+ll 15,04"15,01||15,04"15,01 at aThighl selection and00,15#15,01|
+15,01    "combine a lot of the things I've disc+sse14,15 15,01||14,15 15,01 far.  15,15@@@@@@@@@@@@@@00#####15,01|
+15,01 00,15#14##15,01mm15,15@@@@@@@@@@@@00#14##15,01mm 12##15m12#02@15m12"|14,12#  ##12,01|14,12#02,01@12 #15+12 15m15,15@15,04"15,01||15,04"15,15@@@@@15,01Knee/Ankle15,15@@@@@@@@00###
+15,01  00Origionally Released15,15@@15,01 m|m15,15@@@15,01m12"14,12#12,01"14,12#02,01@12 02@12# 15m+   14,15 15,01||14,15 15,01  003/16/9615,15@@@@@@@@@@@@@@@00##
+00,01 00,15#15@@@@@@@@@@@@@@@@@@@@@15,01m|| 15,15@@@@@15,01m  12"02@12#15m15,15@@@15,01+ 04m15,04""15,01  15,04""04,01m15,15@@@15,01Foot15,15@@@@@@@@@@@@@@@@00#
+00,01 15,15@@@@@00###15,01mmm  12"14,12    12,01m15,15@@@@@15,01|||12# #15,15@@@15,01mm15,15@@@04,01 15,15@@15,01  +--++--+m 12"12,12#14  12#02,01m00,00#15,15@@@@@15,01""02##12@15,15@@@@15,01|
+15,01    m00,15#########12,01"15m12"14,12 ##12,01m00,00#15,15@@@@@12,01# ###    #  04 12 15  14#14,14#15,012 Wide14,15## 15,01#14m12"12,02"12,12 #14,02#02,01#00"" mm02#12@@14,02# 02,01#12   02#12  
+15,01   14,15#00#15,01That's all you get for now... I might do more tutorials and come out with12 
+15,01    "more of these cool proportions for hands and things :)  If this stuff      
+15,01 00,15#14##15,01minterests you, get any and all art books by Burne Hogarth, that's where I02,02@
+00,01 00,15##15@@15,01got these from.  I heartily recommend these books.00,15## 14   ##00,01@15 14# m00,14#01,15@@14,01m02"12,02"12,01"12,12#14,02 12,01 14,02#
+00,01 00,15#15@@@@@@@@@@@@@@@@@@@@@15,01m|| 15,15@@@@@15,01m  12"02@12#15m04  01,15@14##00    ####15@@@@@00##### 15,01m01@00,14#15,01 00,14#01,15@14###15,01m  02"12@02#15m
+00,019. 15  00Picture Choice!15,15@@@@@15,01|||15,15@@@@@@15,01mm15,15@@@04,01  14,15#00    ##15,01"15,15@@@00,00#####15,15@@@@@00###15,01|||14,15#00     15,01mm00,15###00,01 
+15,01 |15,15@@@@@@@00,01m15"00"00,00##########15,15@@@@@00,01m15,15@@@@@@@@@@@04,01  15|00,15  ##15@@@00,01m15"00"00,00     #####15,15@@@@@15,01m00,15  #####15@@@@
+15,01 |15,15@@@15,01This really is the most important part of a good ansi.  If you decide to00,00##
+00,01  15,15@@@15,01draw an orange monster with brown hair and dark skin, don't expect people00,00 
+00,01 15| 15,15@@15,01to really enjoy it much... (dark skin = color 6, brown hair = color 6,00mm15"00"
+15,01 13mm 00,00#15,01there is no color for orange except sometimes 12/6 or 12/4)  If the picture
+00,01 13|14,13  13,01m15is too much for you to handle and you know it, don't try it.  However, I00  
+00,01  15,15@15,01""must encourage artists to try drawings from comics besides Gen 13, Spawn,00,00#
+00,014.15  00m15etc, as although they have nice art, it's mostly subtle shading and well-  
+15,01|m15,15@@00,00#15,01proportioned bodies, which don't give you much of a chance to do detailed  
+15,15@00#15@00,00##15,01ansi.  Look for detailed pics that will let you do some real detailed work,
+15,15@00##15@00,00#15,01and not just some pic that is in front of you.  Oh, just for everyone's00,00 00,01"
+00,01 15""00,15#15@15,01knowledge, I DO NOT recommend drawing from your head.  Don't expect        
+00,01|15    yourself to be able to do it; people that can do it are called Professional
+14,00 15,01    Artists (normally :).  a GREAT example.14,15   00,01|00,15""15,01" m14,15##15,01m ""mm          "m  08#@@
+14,00 00,01|   08@#   14,00 00,01|  08##   00m15,15@15,01"      14,15###15,01mm00""00,15mm15@@@@@@@@00m00,01"15"mm14,15  ####15,01|    ""mm        "m 08@
+15,01This is Lord Soth signing off... we'll have more tutorials on the way from      
+15,01various iCE Artists :)  In the meantime, enjoy, keep drawing, and remember that
+15,01you mother should not be the center of your sexual attention!04## 14,00  00,01 15m15,15 00### ##14  15  
+15,15 00,00#14    00##14 00,01"14,00   00,01| 15m |00,15##15,01|04"|00m14,00 00,01|00,15#15@@15,01mmm""13@@@@@@@04#   #00,15#15,01"""m14,14####01,01@14  08@14,08#08,01 04# 14,00  00,01 00,15 #### 14    15 14#01@
+15,01Slothy with the capital P.00 mm15"""15,15@00,00##04,01#13@@@@@@04#00mmm00,00##15,15@@14,14####01,01@14  08@14,08#08,01 04# 14,00  00,01 00,15#15@00### 15,01"01,15@14  ###01@
+15,01p.s. Happy birthday me!  04m00"14,00  00,01||14,00   00,01m  m14,00   00,01m  m14,00   00,01|14,14####01,01@14  08@14,08#08,01   14,00  00,01 00,15#15@@@@15,01"14 15"01,15@00#14   ##

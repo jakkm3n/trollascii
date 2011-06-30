@@ -1,0 +1,80 @@
+
+15,01    +-----------------------------+
+15,01-- 14,15 #15,01 .BIN Information by TafkaSk 14,15 #15,01 --
+15,01    +-----------------------------+
+
+15,01 Artists have always pissed and moaned about the limitations of ANSi.  One of
+15,01 these limitations has been only 80 columns worth of width.  Between ANSIM's
+15,01 advent of VGA Viewing, with it's wrap mode, and TheDraw's 160 width support,
+15,01 I've been wanting to push this boundry.  Unfortunately, no other coder of no
+15,01 other viewer from no other group has been able to or BOTHERED to explore the
+15,01 possibilities of the .BIN format.  With THIS version of TV we *NOW* have a
+15,01 fully functional .BIN Viewer, in both text and graphics modes.
+15,01             ---------- 14,15     15,01 00@15 ------ 14,15     15,01 00@15 14,15     15,01 00@15 -----------
+15,01 You can use .BIN as easily as you .ANS, really.  Simply go into TheDraw, the
+15,01 ONLY ANSi Editor currently with 160/.BIN support, under the Options submenu,
+15,01 select Setup Options.  The very FIRST option is "Worksheet Width", which you
+15,01 want to toggle from 80 to 160.  You will see the second option, "Worksheet
+15,01 Depth" go from 100 to 50, which is the current maximum per Page in 160 Mode.
+15,01 You then draw your ANSi, now with 160 columns.  When you're ready to save it
+15,01 all you do is select (B)inary.  If your finished ANSi is going to be longer
+15,01 than 50 lines, and it probably will be, simply use the same "COPY" Method
+15,01 you do with .ANS files.  (IE: C:\THEDRAW>COPY 1.BIN + 2.BIN 3.BIN)
+
+15,01 To do .BIN's wider than 160, use the utility BINCPY to copy like length
+15,01 segments horizontaly.  If the ANSi is longer than the drawing program can
+15,01 support, you can then use the copy command, as above, to copy like width
+15,01 segements together.  Kind of like virtual building blocks.
+
+
+15,01    +-----------------------------+
+15,01-- 14,15 #15,01 SiDS Notes on Aspect Ratios 14,15 #15,01 --
+15,01    +-----------------------------+""""""""""""""""""""""""14,15  15,01 14,15#
+15,01                 14,15  15,01 14,15#15,01  Coded By      : SiDS                14,15  15,01 00@
+15,01 I've been playing with ANSi to VGA interputation for a couple months
+15,01 now and have talked to a few artists and here's what I've come up with.
+15,01 When ANSi is drawn there are two distinct looks/aspect ratios, 25 and
+15,01 50 row modes. In 25 row mode, each charactor is about twice as tall as
+15,01 it is wide, whereas in 50 row mode, each charactor is about as tall as
+15,01 it is wide.  Thus, an ANSi can look distorted if interpreted wrong. 25
+15,01 row mode ANSis look squished in 50 row mode and 50 row mode ANSis look
+15,01 stretched in 25 row mode.  The technical term for this is ASPECT RATIO,
+15,01 the ratio of X:Y for the pixels to form a perfect square.  ACiD has
+15,01 always avoided this issue by supporting just one aspect ratio or an
+15,01 aspect ratio that is half way between the two.  Thus many ANSis look
+15,01 distorted.  Until now, iCE has been the only group to deal with this
+15,01 issue with any success.  I also have heard a lot of compliments about
+15,01 the wide mode in old ACiDViEWs, so I have included wide modes that
+15,01 still maintain the correct aspect ratios.
+
+15,01 I did not put in the multiple fonts like I had in viewers I've done in
+15,01 the past, because not only is this somewhat confusing, most fonts cause
+15,01 distortion upon the ratio.  I belive that artists should have control
+15,01 over the way their work is viewed.  Now the fonts are built into the
+15,01 modes, and the artist has regained complete control.
+15,01    +--------------+
+15,01 Questions, comments, bug reports, death threats, need a phycotic
+15,01 reading or an apathic shoulder:
+
+15,01 You can reach me via:roduce you to what is probably the best Viewer that the
+15,01 scene has yet to see, TRiBE ViEW!  TV is *NOT* an "ANSi Viewer", nor was it
+15,01   Extreme Prejudice 6O3.598.34O3hard work put into the coding by SiDS, TV was
+15,01   Local: Silent Slaughter briefly became BLOODViEW.  With some assistance in
+15,01   Remote: SiDS [TRiBE]he artist formerly known as Shihear Kallizad, it has
+15,01           Lord Heinousiewer, for all your viewing needs.  No more using THIS
+15,01   O-7 day art   H/P/A/V   Quality Warezthe OTHER for GIF's or PCX's.  Today,
+15,01   TRiBE Member Board         ELiTE net many new and innovative things you
+15,01   CoRoSioN SiTE            Crimson netngs NO other Viewers can do while ALSO
+15,01   PHART SiTE EVERYTHING they can do, much of the time BETTER then even they
+15,01 do it.  You MAY find something in one of the other Viewers TV doesn't do, or
+15,01 doesn't do quite as well.  We still feel if you weigh the advantages TV has
+15,01   Belly of the Beast 6O3.PWA.iN94 be YOUR Viewer too.
+15,01   Local: Sulferic Acid
+15,01   Remote: The Collector
+15,01           TopCat
+15,01   O-14 day warez   H/P/A/V
+15,01   Over a Gig + Tape Requests
+15,01   PWA Affiliate Board       ELiTE net
+15,01   DREAD Distro              Thunder net
+15,01   DreadLoc Distro
+15,01   W.A.S.P. Distro--

@@ -1,0 +1,36 @@
+15,01@CNC INC. Presents@
+15,01@C A N C E R M I X@
+15,01- Volume 1 -
+15,01@AUGUST, 1994@
+15,01#HARLQUIN.MOD
+15,01HARLEQUIN
+15,01Channels : @04@
+15,01Tune Length  
+15,01by MiNDBENDER
+15,01@GUEST ARTIST@
+15,01#MS-CHAS
+15,01CHASMFLIGHT
+15,01Channels :  @8@
+15,01Tune Length 
+15,01by Mystica Schedar
+15,01@CNC MUSICIAN@
+15,01#MS-ECHO.S3M
+15,01THE ECHO
+15,01Channels : @8@
+15,01Tune Length
+15,01by MYSTICA CNC/iDP
+15,01#CANCER.Mod
+15,01LEGION OF CANCER
+15,01Channels : @6@
+15,01Tune Length
+15,01by Mendellsohn
+15,01##
+15,01Press ESC to return to the playing screen, 
+15,01F10 to exit.Greets go out to 
+15,01all aspiring musicians, Lord Jazz, RW, Ear, 
+15,01and especially LEster for all 
+15,01his help. Big smootch to all the great 
+15,01musicians who made this small showcase 
+15,01possible..
+15,01               -Dj CNC
+15,01#

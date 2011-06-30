@@ -1,0 +1,80 @@
+15,01         look pretty weird in normal mode.
+15,01| What is SAUCE?           |
+15,01     Graphics==============+
+15,01     --------
+15,01     For all graphics types, TInfo1 holds width of the image, TInfo2
+15,01     holds the Height of the image and TInfo3 holds the number of bits
+15,01     per pixel (a 256 colour image would have 8 bits per pixel, a
+15,01     TrueColor image would have 24);
+
+15,01     Following Graphics filetypes are available : were just pictures,
+15,01   loaders were just loaders  and quite frankly,  every file was just
+15,01     0) GIF     (CompuServ Graphics Interchange format)o change, how-
+15,01     1) PCX     (ZSoft Paintbrush PCX format) their  files  an  extra
+15,01     2) LBM/IFF (DeluxePaint LBM/IFF format)be  adding SAUCE to every
+15,01     3) TGA     (Targa Truecolor)
+15,01     4) FLI     (Autodesk FLI animation file)
+15,01     5) FLC     (Autodesk FLC animation file), let us explain what we
+15,01     6) BMP     (Windows Bitmap)ds  for  "Standard  Architecture  for
+15,01     7) GL      (Grasp GL Animation) Although originally intended for
+15,01     8) DL      (DL Animation)RIP screens,  early in the developement
+15,01     9) WPG     (Wordperfect Bitmap)) it  was decided that EFI should
+15,01    10) SBM     (SUN BitMap)pport  for  more  than  just ANSi and RIP
+15,01    11) JPG     (JPeg compressed File)  and  the specs were designed.
+15,01    12) MPG     (MPeg compressed animation/video) and after rejecting
+15,01    13) AVI     (Audio Visual Interlace)as  unanimously chosen.  This
+15,01   leads us to the big question in the sky,  "What is sauce?"   SAUCE
+15,01     FLAGSiversal process to incorporate  a  full description for any
+15,01     ----- file.  The most outstanding aspect of this concept is that
+15,01     Not used, should be all zeroes.ile name,  the file's title,  the
+15,01   creation date, the creator of the file, the group that the creator
+15,01     Vectoryed by, and much, much, more.
+15,01     ------
+15,01     Following Vector filetypes are available :e record layouts used.
+15,01     0) DXF     (CAD Data eXchange File)  are  in  a  variated pascal
+15,01     1) DWG     (AutoCAD Drawing file)errable  enough to implement in
+15,01     2) WPG     (WordPerfect/DrawPerfect vector graphics)eading,  the
+15,01     3) SVI     (Sun VectorImage)le  is  correct  and  that no error-
+15,01   checking need be included.  How  rigorous  you check for errors is
+15,01     FLAGSely up to you, and will most likely depend on the file type
+15,01     ----- describing.
+15,01     Not used, should be all zeroes.
+
+15,01     SoundECORD
+15,01     ----------
+15,01     Following sound filetypes are available :
+15,01     0)  MOD    (4, 6 or 8 channel MOD/NST file)out the SAUCE record.
+15,01     1)  669    (Renaissance 8 channel 669 format) and provides other
+15,01     2)  STM    (Future Crew 4 channel ScreamTracker format)
+15,01     3)  S3M    (Future Crew variable channel ScreamTracker3 format)
+15,01     4)  MTM    (Renaissance variable channel MultiTracker Module)
+15,01     5)  FAR    (Farandole composer module)
+15,01     6)  ULT    (UltraTracker module)
+15,01     7)  AMF    (DMP/DSMI Advanced Module Format)
+15,01     8)  DMF    (Delusion Digital Music Format (XTracker))
+15,01     9)  OKT    (Oktalyser module) numeric value (0 to 255)
+15,01     10) ROL    (AdLib ROL file (FM))meric value (0 to 65535)
+15,01     11) CMF    (Creative Labs FM)umeric value (-32768 to 32767)
+15,01     12) MIDI   (MIDI file)signed numeric value (-2147483648 to 2147483647)
+15,01     13) SADT   (SAdT composer FM Module)onger character fields are
+15,01     14) VOC    (Creative Labs Sample)It is _NOT_ a PASCAL string (with a
+15,01     15) WAV    (Windows Wave file)e), and it's _NOT_ a C-Style string
+15,01     16) SMP8   (8 Bit Sample, TInfo1 holds sampling rate)aracter field
+15,01     17) SMP8S  (8 Bit sample stereo, TInfo1 holds sampling rate)
+15,01     18) SMP16  (16 Bit sample, TInfo1 holds sampling rate)
+15,01     19) SMP16S (16 Bit sample stereo, TInfo1 holds sampling rate)
+15,01     20) PATCH8 (8 Bit patch-file)ero when not used, character fields
+15,01     21) PATCH16(16 Bit Patch-file)ed.
+15,01   
+15,01     FLAGS      : SAUCE Version number.  This indicates the version of
+15,01     -----        SAUCE when the field was implemented.
+15,01     Not used, should be all zeroes.
+15,01    Description : Complete description of the field.
+15,01     BinaryText
+15,01     ----------
+15,01     The Binary Text format, basically has no Filetype, since the datatype!!
+15,01     has already defined how the file will look.t for ID, Version, FileSize,
+15,01     The FileType however specifies the WIDTH of the BinaryText screen.
+15,01     Only the Width is required, as the Height can be calculated by dividing
+15,01     the filesize by the Width.
+15,01     In an attempt to provide as much WIDTH as possible in a possible 256

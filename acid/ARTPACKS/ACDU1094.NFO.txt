@@ -1,0 +1,76 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition : September Update *    October 1st, 1994 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1094.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID0994 ANS |   8711 |09.30.94 |%+   | September Member/Board Listing |
+15,01*|2  |ACIDAPP  EXE | 106288 |09.01.94 |%    | ACiD Application Form Generator|
+15,01*|3  |ACIDVIEW EXE | 132304 |06.01.94 |%    | ACiD Acquisition Viewer + 2.02 |
+15,01*|N/C|ACIDVIEW NFO |  37470 |08.01.94 |%+   | ACiD View Documentation        |
+15,01*|4  |AE-AMBER ANS |   9934 |10.01.94 |%+   | Amber                          |
+15,01*|5  |AK-CR1   ANS |  26351 |09.30.94 |%+   | Crossroads                     |
+15,01*|6  |EL-FBD   ANS |  21420 |10.01.94 |%+   | Far Beyond Driven              |
+15,01*|N/C|FILE_ID  DIZ |    625 |10.01.94 |%    | Acquisition FILE ID by {T2}    |
+15,01*|7  |LD-DOG   ANS |  24567 |09.05.94 |%+   | Delusions of Grandeur          |
+15,01*|8  |LD-HUMA  ANS |  12561 |09.05.94 |%+   | Huma                           |
+15,01*|9  |MB-RMS   ANS |  32704 |09.04.94 |%+   | Rise of the Midnight Suns      |
+15,01*|10 |PC-THA   ANS |  71388 |09.02.94 |%+   | The Heretic Asylum             |
+15,01*|11 |SO-NEO1  ANS |  33638 |10.01.94 |%+   | Neo Tokyo                      |
+15,01*|12 |SM-DUNG2 ANS |  20778 |10.01.94 |%+   | Dungeon II                     |
+15,01*|13 |SS-GOLG1 EXE |  68315 |10.01.94 |%    | Golgotha                       |
+15,01*|14 |SS-HELL  RIP |  33542 |09.27.94 |%    | Hell                           |
+15,01*|15 |SS-LOKI  RIP |  46702 |09.28.94 |%    | Loki's Error                   |
+15,01*|16 |SS-POT1  RIP |  26884 |09.28.94 |%    | Potsdam                        |
+15,01*|17 |SS-RAIN  RIP |  29653 |09.10.94 |%    | Rain Couriers                  |
+15,01*|18 |SS-SG2   RIP |  25310 |09.27.94 |%    | The Shallow Grave              |
+15,01*|19 |SW-CORPT EXE |  66331 |10.01.94 |%    | Corruption Magazine            |
+15,01*|20 |SX-CCHP3 ANS |  25643 |09.03.94 |%+   | Chewy Cheesy House of Phlegm 3 |
+15,01*|21 |US-ACID2 RIP |  13478 |10.01.94 |%    | ACiD Productions               |
+15,01*|22 |US-CH02  RIP |  15353 |09.02.94 |%    | In Memory of Channel Zer0      |
+15,01*|23 |US-DUNG2 RIP |  31471 |09.04.94 |%    | Dungeon II                     |
+15,01*|24 |ACDU1094 NFO |   5381 |10.01.94 |%    | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   26     Average Compression Rate: %47          |
+15,01|          Total Bytes:    926,802     Average Of Bytes/File: 35,641          |
+15,01|                                      Total Bytes Zipped:   497,228          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

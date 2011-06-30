@@ -1,0 +1,73 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                  O   C   T   O   B   E   R    1   9   9   8
+15,01-------------------------------------------------------------------------------
+
+15,011.  Once upon an iCE initiation, Lord Soth was caught with his pants down
+15,01bending over in front of Friar Tuck.  Since then, iCE has changed.  First thing
+15,01we did was stop renting out a glass penthouse.  Second thing was, we continued
+15,01the tradition without fail for every member since then.  They say life as the
+15,01King is good, well let me tell you about being Senior Staff...  This month we
+15,01welcome a gaggle of new members: Grindstone and Quip from Canada, Root 88 from
+15,01the States, and two boys from Belgium, Necrofiliac and The Knight!  We welcome
+15,01them all with a twisted smile and a crooked eyebrow.  At least the Staff does.
+
+15,012.  Lounging in our Fortune 500 HeadQuarters this month, our team of lawyers
+15,01noticed a small discrepancy in a design company's website.  That flaw was the
+15,01fact that iCE artists were responsible for several of the graphics on those
+15,01pages!  Off we raced to the corporate jet, and like a bolt of lightning, the
+15,01legal action was quickly settled.  Trauma, aka Airbrush, aka Render, or maybe
+15,01one of the other fifty aliases he has used, was responsible for ripping the art
+15,01and we hope that he has learned his lesson.
+
+15,013.  Due to a recent "donation" by a concerned purveyor of iCE handicraft, iCE
+15,01will be giving away stickers in the coming months.  When the stickers are done,
+15,01we will provide an address to send an SASE.  We hope these stickers can help
+15,01commemorate the launch of our new website - which is again - closer than ever
+15,01to going live.  Stay tuned for all kinds of fun stuff to come.
+
+15,014.  The southernly migration of ten million black-bellied pigeons every year
+15,01does pose almost insurmountable problems.  The Port Authority in Louisiana had
+15,01apparently found what they believed to be a solution - feeding Tainted X to the
+15,01flock of pigeons.  Tainted's whereabouts remain unknown, but we're confident
+15,01that he'll make it back intact.
+
+15,015.  Blenderhead became Bagboy.  The operation was apparently very painful and
+15,01we're not sure why it was done in the first place.
+
+15,016.  Following a rash series of applications this month (resulting in our new
+15,01members, coincidentally) the application procedure for iCE is a bit behind
+15,01schedule.  Those who have applied to iCE may already know that the staff seems
+15,01to move as if we actually _were_ frozen when it comes to voting, but the influx
+15,01of applications has backed this up even further.  Yeah yeah, good for nothings!
+
+15,017.  Another fun-filled month of great proportions - everyone will enjoy the art
+15,01this month, we packed it thick and juicy for the people.  Because we're about
+15,01people.  People about people.  Small naked teddy bears about people.  Angry
+15,01fat kids about juicy cheeseburgers.  Cheeseburgers about people.  I think the
+15,01underlying point here, is that it's all about ham, isn't it?
+
+
+15,01-Mass "Ham Hock Eating Icicle Juggler" Delusion
+
+15,01-------------------------------------------------------------------------------
+15,01     Cold and Ugly        Force Ten        Mass Delusion        Lord Soth
+15,01-------------------------------------------------------------------------------

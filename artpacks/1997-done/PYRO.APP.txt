@@ -1,0 +1,68 @@
+15,01       .
+15,01     ,aSa,
+15,01  " ""$$$"""
+15,01gggggg$$$g  gggg  g ggggggg ggggggggggg            
+15,01$$$   $$$   $$$  . .i   $2$   $$$   $$$gg          Thank you for your interest
+15,01$2$ gg$$$gg SSS  gii;gg  % g g$$$gg SSS    ,       in Pyronet.  Please fill out
+15,01 %    $$$   :::   lli   .;.   $2$   :::  ,aSa,     this application for our
+15,01.;.   $2$   ...   SSl   ;i;    %    ... ""$$$"" "  files.  This information
+15,01;i;    %    :::   $2S   ili   .;.   :::   $$$      will be kept pretty much
+15,01ili   .;$   SSS    %    lSl   ;i;  gSSSg  S2S      confidential, and will only
+15,01lSl  ,;i'  ,$$'  ,.;'   `$S,  `li,  `$$,   %       be used in emergencies or
+15,01S$S  $il  g$$l   $;l     l$$g  Sl$   l$$  .;.      other extraordinary
+15,01$$$  `lS,  `$$,  `il,   ,$$'  ,SS'  ,$$'  ;i;      circumstances.  Please fill
+15,01SSS   S$$   $2$   lSS  gSSSgg :::   $2$   ili      out the application fully
+15,01::: gg$$$gg  %    S$$   :::   ...    %    lSl      and truthfully.
+15,01...   $$$   .;. gg$$$gg ...   :::   .;.   S$S      Fabrications and omissions
+15,01:::mmm$$$mmm;i;  `2S2'  :::  gSSSmmmli; gg$$$g     only hurt yourself.
+15,01SSS::     mmili    * mmmSSS ::SS$massmmmmm$SS:: :  Trust and obey. ;]
+15,01$$$                           ::           ::
+15,012S2'                          :: Pyronet
+15,01 *                               Application
+15,01                                 Version 4
+15,01------------------------------------------------------------------------------
+15,01 Personal Info:
+15,01------------------------------------------------------------------------------
+15,01Handles:
+15,01Addresses (snail-mail, e-mail, other network addresses - LIST ALL OF 'EM!):
+
+
+
+
+15,01Affiliations: (include scene affils, secret societies, law enforcement orgs)
+
+
+15,01Voice #:
+15,01Best time to call:                      Who to ask for:
+
+15,01Do you know anyone well enough so that, if something were to happen to you,
+15,01we could get the real story from them?  If so, put down their handle and
+15,01their e-mail address, or a board they can be contacted on:
+
+
+15,01------------------------------------------------------------------------------
+15,01 BBS Info:
+15,01------------------------------------------------------------------------------
+15,01               BBS Name:
+15,01    BBS phone number(s):
+15,01    NUP (if applicable):
+15,01               BBS Type:
+15,01  BBS Software, Version:
+15,01                  Sites:
+15,01 Nets (inc. addresses!):
+15,01        Mailer software:
+15,01         Mailer version:
+15,01        Tosser software:
+15,01         Tosser version:
+15,01Will use TransX to poll: [ ] yes   [ ] no
+15,01        
+15,01Name some Fire members calling on your board:
+
+15,01Miscellaneous Information you'd like us to know:
+
+
+15,01------------------------------------------------------------------------------
+15,01 That's the end of the Pyronet application.  Rename it to something like 
+15,01 xx-pyro.appif needed, follow the instructions in the information file and you 
+15,01 should be all set. 
+15,01------------------------------------------------------------------------------

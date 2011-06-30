@@ -1,0 +1,26 @@
+15,01Here are some frequently asked questions about Acid View for Java.
+15,01(Well, I haven't gotten any questions yet, but I assume these questions
+15,01 will be asked sooner or later)
+
+15,01Q:  I don't know how to run Acid View for Java!
+15,01A:  Read the file README included with this zip.
+
+15,01Q:  It can't find <blah>.class!
+15,01A:  You might have unzipped the files incorrectly.  Read the file
+15,01    called "AcidView.files" and make sure the names are correct.
+
+15,01Q:  I get "unsupported screen depth" errors when I try and run it
+15,01A:  For some odd reason, java doesn't like Accelerated X,  try running it
+15,01    in 256 color mode.
+
+15,01Q:  I tried to view a file, but the screen is blank.
+15,01A:  Acid View detected a problem in decoding the file, and cannot display
+15,01    it.  There will be error warnings in the future.
+
+15,01Q:  Scrolling an ansi is really slow.
+15,01A:  That's a feature ;)  I'll try and speed up the display routines a little
+15,01    so it's not so unbearable.
+
+
+15,01If you have any questions that aren't listed here, please email me at
+15,01seank@u.arizona.edu

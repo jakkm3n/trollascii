@@ -1,0 +1,80 @@
+15,01   04mm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+14,01   14,04   ##13,01@@@04##   00mmmmmmmm    mmmmmmm15          00mmmmmmm15       00mm15     04##13@@14,04##  
+04,01   14,04  ##13,01@@04###00m14,00            00,01  14,00         00,01 14#01@14,14#  14,01" 14,00         00,01 14#01@14,14# 14,01"00m14,00  14,01#01@14,14# 14,01|04##13@@14,04## 
+04,01   14,04 ##13,01@@04##00m14,00   00,01"15      00"14,00   00,01|  14,00       00,01 14#01@14,14# 14,01"    14,00       00,01 14#01@14,14#14,01"00m14,00    00,01|14#01@14,14# 04,01##13@@14,04## 
+04,01   14,04 ##13,01@@04#00|14,00   00,01| 14#01@14,14#   14,01m 00""   |14,00     00,01|14#01@14,14# 14,01|15     00|14,00     00,01|14#01@14,14#14,01|  00|14,00    14,01#01@14,14# 14,01|04##13@@14,04# 
+04,01   14,04 #13,01@@04##14,00    00,01 14#01@14,14# 14,01" "14,14  15,01      14,00     00,01 14#01@14,14# 15,01       14,00     00,01 14#01@14,14#14,01" 00mm14,00    00,01|14#01@14,14# 04,01##13@@14,04# 
+04,01   14,04 13,01@@04##00|14,00    00,01 14#01@14|15            00|14,00   00,01|14#01@14,14# 14,01|15       00|14,00   00,01|14#01@14,14#14,01|00|14,00       00,01|14#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 13,01@@04##00|14,00 00##14 00,01 14#01@14,14#15,01       14m14,15"14,01|  14,00 00 # 14 00,01 14#01@14,14# 14,01|15      14,00 00 # 14 00,01 14#01@14,14#14,01|00"""00,00####14,01|#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 13,01@@04##15|00,00####00,01|14#01@14,14#15,01      14,15 00,00##14,01| 14,15|14,00 00###14 14,15|15,01 14#01@14,14# 15,01     14,15|14,00 00###14 14,15|14,01##01@14,14#14,01    14,15 00,00##14,01|#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 #13,01@@04##14,15|15@@@@15,01 14#01@14,14#14,01mm  15m15,15@@@14|14,01|14,15 15@@@@@14 14,01|#01@14,14# 14,01|   |14,15 15@@@@@14 14,01|#01@14,14#14,01|  15m15,15@@@14|14,01#01@14,14# 14,01|04##13@@14,04 
+04,01   14,04 ##13,01@@04##14,15| 00####15,01mmmmm00,15#####14,01|14,15|00#######14|15,01 14#01@14,14# 14,01   14,15|00#######14|15,01 14#01@14,14#14,01  00,15####14,01|#01@14,14# 04,01##13@@14,04# 
+04,01   14,04 ###13,01@@04##14"14,15m #########m14,01""|14,15m#######m14,01|#01@14,14# 14,01| |14,15m#######m14,01|#01@14,14#14,01|14,15##m14,01""#01@14,14# 14,01"04##13@@14,04# 
+04,01   14,04 # ##13,01@@04## 14""""""""""15     14"""""""15          14"""""""15     14"""15       04##13@@14,04## 
+04,01   "" """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" ""
+04,01   14,04 ##13,01@@04#""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""#13@14,04## 
+04,01   14,04 ##13,01@@04#15        04C 14R 13E A T O R S  04O 14F  04I 14N 13T E N S E  04A 14R 13T15          04#13@14,04## 
+04,01   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" SD
+
+04,01 14Hey, dudes.. Lot's of cool shit this month. My phone bill is gonna be
+14,01incredible.
+14,01    The most notable item this month, is that we merged with Atomic. From
+14,01what I understand, there are/were three groups calling themselves Atmoic
+14,01at one point and time. We got the good one :)  This of course, dramatically
+14,01increased our memberlist, so I can't mention each individually, but huge
+14,01greets to all our new Atomic buds! One item worth mentioning, Atomic had
+14,01just merged with a demo/vga/coding group called UA/FX. Therefore, they are
+14,01also a part of the CiA family. We've included some items from them this
+14,01month that still include their logos. Great stuff, guys. Welcome aboard!
+14,01    Next, to say goodbye to a few. Sole Assassin was lost to UNiON in a
+14,01freak phone number screw up (on his end, I'm happy to report). Apparantly,
+14,01he wrote down my wrong number, and tried to logon to our World HQ during
+14,01some downtime while upgrading to four nodes. So, I guess he thought we were
+14,01blowing him off. Union, meanwhile, saw a good thing and snatched him up!
+14,01Enjoy UNiON, SA, they're a great bunch of guys. You're always welcomed back,
+14,01if not. Also, Mister E. skipped over to mix it up with the big boys of Lit.,
+14,01Reality. We are saddened by this loss but couldn't possibly get in the way
+14,01of such a great offer (you owe me a beer to cry in, at the user meet :)
+14,01And finally, Dr. Death, I've heard, had something happen that's forced him
+14,01out of the scene for awhile, hope all is well there.
+14,01    But, things are jamming. We'd also like to welcome a few new members.
+14,01Sneaky Car Thief (Havok), Techie (Havok), and Hitman (Havok) joined us from
+14,01uh..hmm.. Oh! Havok. Hitman is our newest RiP addition and decided to go with
+14,01Brett Hart as a new handle, Techie, did our newest viewer in ASM (7k!!!) and
+14,01will hopefully be adding to it to make it awesome, and S.C.T., the dude that
+14,01runs the awesome "Crime in Progress (CiP)" net, will be moving our packs
+14,01around for us. Welcome guys!! Also, we'd like to welcome Questor and
+14,01White Noise from Pixel, proving that the Canadians still give us a run for
+14,01our money, The Exile, formerly Blade Senior Staff, will be adding nicely to
+14,01the Lit. department (Hey, man!), Dark iCE, formerly wasting away in iCE
+14,01Trial (looking forward to your stuff..we don't do trial!), and in another
+14,01interesting twist to an already mind-boggling month, Farmicus joins our RiP
+14,01department. You won't see much from him in the next month or so, as he is
+14,01working closely with the Oblivion/2 team, releasing the RiP menus on behalf
+14,01of himself and the rest of the group, to the eagerly awaited RiP compatible
+14,01Oblivion/2! Also, Ground Zero went to Gothic last month, and came back this
+14,01month as White Power, go figure. Great to have ya back, dude! And last, but
+14,01certainly not least, we welcome Demon Death from Tribe! Awesome! With all
+14,01that's happened this month, we hope noone feels as if they've fallen through
+14,01a crack somewhere. If so, call the vmb and say what's on your mind, and
+14,01we'll get right back to ya.
+14,01    Also, HAPPY ANNIVERSARY, CiA!!!! Yep, it's our 12th pack - 1 year! I'd
+14,01like to say it's been great working with everyone, and I'm looking forward
+14,01to a hell of a lot more!
+14,01    We'd also like to mention that we are working to expand our Lit. and
+14,01Music sections. We've got some neat plans for the Lit. guys and we've got
+14,01some killer stuff going on that should set us up nicely in the music area,
+14,01including the addition of a prominent ACiD music member that will be leading
+14,01and coordinating the future music disks. It's a done deal, but he wants to
+14,01stay out of the member list until next month.
+14,01    In other news, FinalNet, the official CiA net is doing well, and is
+14,01currently accepting new sites. Grab the net pack and send it in. Also, we'd
+14,01also like to give you access to the CiP net pack, included with this pack. It
+14,01is a good, quality net that is very active. Check it out.
+14,01    And, one more time. We are sorry to say that we are no longer giving
+14,01away sites. Member board, yes. Sites, no. Please don't bother applying, we're
+14,01full.
+14,01    And, finally, our VMB number changed. If you're a member that would like
+14,01to give us board stats, changing numbers or whatever, or if you'd like to
+14,01apply to the group, call our 03TOLL-FREE 14:) number at 03800-245-436614. Please,
+14,01TALK LOUDLY! We had a few messages last month that noone could here, so

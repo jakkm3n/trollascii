@@ -1,0 +1,25 @@
+15,01                            -/- CiPNet Rules -\-  
+15,01                              
+15,01- No slander, flaming, and that immature crap, if your board persists in 
+15,01  posting messages of this type you will be removed from the nodelist.
+
+15,01- Keep oneline messages, and inside jokes out of the net as much as possible
+15,01  the rest of the boards don't really want to hear about little inside jokes
+15,01  between your users.
+
+15,01- If you are asked to remove a user from the net then you have to do so,
+15,01  regardless if this person is part of your management.
+
+15,01- Make sure all ANSi's are saved as 78 lines or less.
+
+15,01- You must make sure all users do NOT quote the orgin lines.
+
+15,01- Since i don't know how often i'll be redoing the nodelist, it'll be your
+15,01  responsiblity to get the new nodelist when i post a message in the sysop
+15,01  base stating that i created a new one
+
+15,01- If your system will be down, then you must tell me (Sneaky Car Thief) of 
+15,01  this, or else you will be removed from the nodelist.
+
+15,01- You must poll every night unless another arrangement has been made with 
+15,01  me previously.

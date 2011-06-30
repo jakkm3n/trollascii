@@ -1,0 +1,21 @@
+15,01Imperial Group
+15,01: Comment Exemple :
+15,01CO  Coluche
+15,01TNP The Night Prowler
+15,01RR  Rash Reflection
+15,01-   > READ IMPVIEW.SCE <
+15,01* EOF (must begin with *)
+
+15,01   IMPVIEW.SCE
+15,01"" ----------------------
+15,01Used by the built-in Sauce Editor in Imperial Viewer for the
+15,01suggestion keys. Any matching keyword (column 1) beginning at the
+15,01first or second column of the filename will be displayed for the
+15,01author field. Any match at other columns of the filename will be
+15,01displayed for the tilte field. The first line is the Group field
+15,01suggestion.
+
+15,01Imperial Viewer by Coluche of Rash Reflection 1-514-635-4043
+
+15,01>SAUCE00Imperial SAUCE Info File           Coluche             Imperial         
+15,01   20940615    @                                 

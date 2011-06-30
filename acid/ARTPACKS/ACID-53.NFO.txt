@@ -1,0 +1,80 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :  November Update *   December 1st, 1996 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file(s) ACID-53?.ZIP are only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-53   NFO|   6264 |12.01.96 |%+   |Acquisition Information File    |
+15,01*|2  |ACID-53   XB |  15218 |12.01.96 |%+   |December 1996 Member/Site Listin|
+15,01*|3  |ACIDAPP   EXE|  45307 |12.01.96 |%    |ACiD Application Generator V2.1 |
+15,01*|4  |ACIDVIEW  DAT| 125438 |12.01.96 |%    |ACiD View BGI/RIP font data     |
+15,01*|5  |ACIDVIEW  EXE| 122107 |12.01.96 |%    |ACiD View V4.31                 |
+15,01*|6  |ACIDVIEW  NFO|  52281 |12.01.96 |%+   |ACiD View Documentation         |
+15,01*|7  |BIN2XBIN  EXE|  15680 |12.01.96 |%    |BIN to XBIN convertor           |
+15,01*|8  |FILE_ID   DIZ|    550 |12.01.96 |%    |Acquisition FILE ID by {RA}     |
+15,01*|9  |NEWS-53   ANS|  40837 |12.01.96 |%+   |ACiD Newsletter Issue #14       |
+15,01*|10 |SAUCE     PL |   1552 |12.01.96 |%    |PERL SAUCE Reader               |
+15,01*|11 |SPOON     EXE|  22677 |12.01.96 |%    |Spoon II V1.20                  |
+15,01*|12 |SPOON     INI|   8807 |12.01.96 |%+   |Spoon Initialization Info       |
+15,01*|13 |SPOON     NFO|   3397 |12.01.96 |%+   |Spoon Documentation             |
+15,01*|14 |ANS-53    ANS|  95740 |12.01.96 |%+   |ACiD ANSI logocluster #19       |
+15,01*|15 |CT-PSAND  ANS|  33328 |12.01.96 |%+   |Peyote Sands                    |
+15,01*|16 |CT-TML2   ANS|  34118 |12.01.96 |%+   |The Missing Link                |
+15,01*|17 |KH-MALE1  ANS|  20834 |12.01.96 |%+   |Malevolence                     |
+15,01*|18 |ON-PIR1   ANS|  24179 |12.01.96 |%+   |Piranha                         |
+15,01*|19 |VG-PUREM  GIF| 127666 |12.01.96 |%    |Pure Malevolence                |
+15,01*|20 |VN-EYES   GIF| 160518 |12.01.96 |%    |Not Anymore!                    |
+15,01*|21 |BN-ABRAX  JPG|  76214 |12.01.96 |%    |Abraxas                         |
+15,01*|22 |CS-DRACE  JPG|  51348 |12.01.96 |%    |Deadly Race                     |
+15,01*|23 |CS-XMS96  JPG|  54211 |12.01.96 |%    |h0h0h0 Merry Christmas          |
+15,01*|24 |J1-EOD    JPG|  40651 |12.01.96 |%    |Edge of Delight                 |
+15,01*|25 |J1-MESTA  JPG|  75294 |12.01.96 |%    |Da Mesta                        |
+15,01*|26 |PR-AF     JPG|  43045 |12.01.96 |%    |Ancient Future                  |
+15,01*|27 |PR-EARTH  JPG|  84134 |12.01.96 |%    |Earth                           |
+15,01*|28 |TD-MLINE  JPG|  38448 |12.01.96 |%    |Mainline Graphics               |
+15,01*|29 |US-HOTEL  JPG| 378858 |12.01.96 |%    |Hotel California                |
+15,01*|30 |US-KAYA   JPG| 157386 |12.01.96 |%    |The Kaya                        |
+15,01*|31 |US-SATEL  JPG| 124035 |12.01.96 |%    |Satellites                      |
+15,01*|32 |WC-ANGRL  JPG| 152427 |12.01.96 |%    |Anime Grrrl                     |
+15,01*|33 |SS-GENOT  RIP|  10053 |12.01.96 |%    |Genotia                         |
+15,01*|34 |ST-ABYSS  RIP|  23321 |12.01.96 |%    |Malicious Abyss                 |
+15,01*|35 |ST-PROD3  RIP|  50039 |12.01.96 |%    |The Product 3 Advo              |
+15,01*|36 |ST-XMAS   RIP|  50286 |12.01.96 |%    |Naughty or Nice?                |
+15,01*|37 |RA-ARTPX  XB |  33239 |12.01.96 |%+   |ACiD Artpacks Archive Advo      |
+15,01*|38 |WE-WILL   SUE|   1531 |12.01.96 |%+   |ACiD Legal Disclaimer           |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

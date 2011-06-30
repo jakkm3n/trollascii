@@ -1,0 +1,16 @@
+15,01                        The Dark Society Mega Loader
+15,01--------------------------------------------------------------------------------
+
+
+15,01                                                                         m14,15  15,01m
+15,01 Released By: ACiD Productions       m14,15 15,01m    m14,15  15,01  14,15  15,01  14,15    15,01m  14,15   15,01m m14,15   15,01m   14,15    15,01m
+15,01 Coding By  : Cerebrus              m14,15   15,01m  m14,15   15,01      14,15  15,01  14,15 15,01m  14,15   15,01|14,15  15,01 14,15  15,01m   14,15    
+15,01 Artwork    : MondoMan             m14,15  15,01 14,15  15,01m 14,15   15,01   14,15  15,01  14,15  15,01   14,15 15,01|  "14,15 15,01|"14,15     15,01  14,15    15,01"
+15,01 Music      : Piano Man            14,15       15,01 "14,15   15,01  14,15  15,01  14,15  15,01  14,15 15,01"        14,15   15,01" 14,15    15,01m
+15,01                                   "14,15 15,01" "14,15 15,01"  "14,15  15,01  14,15  15,01  14,15    15,01"        14,15   15,01" 14,15      
+15,01                                                                  "14,15 15,01"  "14,15    15,01"
+15,01       Howdy all Sharp here, Sysop of the Dark Society, I'd like to tell ya,
+15,01       This loader is BETTER than AWESOME...a few notes tho...You'll need EMS
+15,01       and a memory manager, such as QEMM or 386 MAXX. However I would suggest
+15,01       disabling other devices that take large quantities of heep/EMS space.
+15,01       Such as HYPERDISK,or other Caching programs. Ok...well have fun!.

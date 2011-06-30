@@ -1,0 +1,80 @@
+15,01 HA-HEART.LIT                                                                   
+15,01                                                                                
+15,01                                                                                
+15,01                )Heartless Literary                 Hammer                      
+15,01                                                                                
+15,01                                                                                
+15,01                                        HA-DR.LITLIT                            
+15,01                                                                                
+15,01                                                                                
+15,01                                                       )Death Row Literary      
+15,01           Hammer                                                               
+15,01                                                                                
+15,01                                                                        HA-LOVE.
+15,01LITT                                                                            
+15,01                                                                                
+15,01                                                                                
+15,01       )Love Literary                      Hammer                               
+15,01                                                                                
+15,01                                                                                
+15,01                        HA-NITRO.NIT                                            
+15,01                                                                                
+15,01                                                                                
+15,01                                       )Nitro Logo                         Hamme
+15,01r                                                                               
+15,01                                                                                
+15,01                                                        PX-WOLVE.NIT            
+15,01                                                                                
+15,01                                                                                
+15,01                                                                       +Wolverin
+15,01e Character                Phaser-X                                             
+15,01                                                                                
+15,01                                                                                
+15,01        SC-THOP.LITT                                                            
+15,01                                                                                
+15,01                                                                                
+15,01                       'The House Of Pain                  Sceoer-X             
+15,01                                                                                
+15,01                                                                                
+15,01                                        SC-MISC1.LIT                            
+15,01                                                                                
+15,01                                                                                
+15,01                                                       'Miscellaneous Literary  
+15,01           Sceoer-X                                                             
+15,01                                                                                
+15,01                                                                        SC-MISC2
+15,01.LIT                                                                            
+15,01                                                                                
+15,01                                                                                
+15,01       'Miscellaneous Literary             Sceoer-X                             
+15,01                                                                                
+15,01                                                                                
+15,01                        SC-MISC3.LIT                                            
+15,01                                                                                
+15,01                                                                                
+15,01                                       'Miscellaneous Literary             Sceoe
+15,01r-X                                                                             
+15,01                                                                                
+15,01                                                        SC-MISC4.LIT            
+15,01                                                                                
+15,01                                                                                
+15,01                                                                       'Miscella
+15,01neous Literary             Sceoer-X                                             
+15,01                                                                                
+15,01                                                                                
+15,01       
+15,01SC-SOH.LITIT                                                                    
+15,01                                                                                
+15,01                                                                                
+15,01               'South Of Hell                      Sceoer-X                     
+15,01                                                                                
+15,01                                                                                
+15,01                                SC-DH.LITTIT                                    
+15,01                                                                                
+15,01                                                                                
+15,01                                               'Dead Homies                     
+15,01   Sceoer-X                                                                     
+15,01                                                                                
+15,01                                                                SC-ABYSS.LIT    
+15,01                                                                                
+15,01                                                                                

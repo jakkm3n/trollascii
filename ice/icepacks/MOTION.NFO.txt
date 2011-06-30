@@ -1,0 +1,17 @@
+
+15,01----------------------------------------------------------------------------
+00,01@15# "m14,15 15,01"14,15  15,01m m14,15 15,01"14,15  15,01m # "Motion" (8-Channel FastTracker MOD, use DMP)
+15,01#m14,15 15,01|14,15 15,01|# " |14,15 15,01mm " ## by EternaL Darkness
+15,01|14,15 15,01|14,15  15,01 00@15## 14,15  15,01| ##00@@15#
+15,01"14,15 15,01 "14,15  15,01mm" "14,15  15,01mm" ## Sequenced on 09/06/93
+15,01----------------------------------------------------------------------------
+15,01This is my latest sound file release under iCE. This was sequenced
+15,01using Triton's FastTracker v1.01 and is an 8-Channel MOD. To play it
+15,01I would recommend using DMP or any other player that supports this
+15,01format.
+
+15,01This tune was written in a few hours and is a little on the hard rock
+15,01side. Enjoy.
+
+15,01EternaL Darkness / iCE
+15,01Internet Address: eternal.darkness@pleiades.com

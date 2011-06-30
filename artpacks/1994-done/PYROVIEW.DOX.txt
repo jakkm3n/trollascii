@@ -1,0 +1,44 @@
+15,01PyroView 3.0 Beta - QuikDOX
+15,01----------------------------------------------------------------------------
+15,01        Well here I am, on the nite of the pack release and still codin like
+15,01all hell... At anyrate here is a list of k-rad and flamer shit:
+
+15,01  k-Rad:
+15,01    80x25 & 80x50 works.
+15,01  Flamer:
+15,01    ANSiVGA doesnt.
+15,01  k-Rad:
+15,01    Palette colors...
+15,01  Flamer:
+15,01    Don't Run under DV!!!
+15,01  k-Rad:
+15,01    PCX and GiF Viewers work.
+15,01  Flamer:
+15,01    The GiF Viewer is buggy.. only works on 320x200...
+15,01  k-Rad:
+15,01    File selectors n Shit...
+15,01  Flamer:
+15,01    No k-Rad VGA fonts...
+15,01  k-Rad:
+15,01    F1 for help
+15,01  Flamer:
+15,01    F2 doesnt work =)
+
+15,01----------------------------------------------------------------------------
+
+15,01Thass it fer now.
+
+15,01Greets to:
+15,01 Hal: thnx for da ansi shit.
+15,01 Max: thnx for the idea.
+15,01 DH: thnx for da original.
+15,01 TI: merci beacoup and lots o kudos for da sauce source.
+15,01 All da FiRE guys: Shup.
+15,01 G_EViL [REL]: Thnx for the help... and non help <g>...
+15,01 Friar: You caid the same thing GE did with a twist...
+15,01 Senor Pato: sup d00dlebugger
+15,01 Flood: another d00dlebugger
+15,01 Bah... Hi to everyone else...
+15,01L8s ppl!!!
+15,01>SAUCE00PyroView Dox                       Wintermute          READ THE INI FILE
+15,01   19941010lx  @@P v                             

@@ -1,0 +1,66 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                        M   A   Y         2   0   0   0
+15,01-------------------------------------------------------------------------------
+
+15,011.  99 bottles of beer  on the  wall, 99 bottles  of beer, take  12 down,  pass
+15,01'em around, Slothy's wasted and easy to take advantage of - 87  bottles of beer
+15,01on the wall, 87 bottles of beer...
+
+15,012.  Greetings countrymen, ladies, and  romans - lend  me your eyes  for this is
+15,01the May installment of the iCEPack!  I'm excited to present some incredible art
+15,01this  month, including some fantastic pieces from the prolific Root 88 and some
+15,01sock-knockers from recently initiated Darkhalo.  Check out his Ecchi pic - that
+15,01girl needs  your help!  Poweronox, Necrofiliac, Roadkyll and  Mongi round out a
+15,01sweet treat of art for the month!
+
+15,013.  The ItaliCEn  division of iCE  would like to  remind you that we non-biasly
+15,01support both Romans AND non-Romans here in iCE.  Even those without eyes.
+
+15,014.  This just in, Lord Soth AKA Slothy AKA Butterbutt also has art in this pack
+15,01but according to  reports, he's horribly indecisive.  He would appreciate  your
+15,01feedback at slothy@ice.org.
+
+15,015.  Inner Vision submitted his final ANSI this month, a stunning 43k piece with
+15,01help from Kitiara and Spear.  While IV may think that's his last, we  have ways
+15,01of  making people draw  around here.  You  don't stay  around  for more  than a
+15,01decade by luck, do ya?!
+
+15,016.  For the record, no snide comments to the above joke should be attempted for
+15,01your own safety.
+
+15,017.  Since becoming a  doctor recently, Vesalius has  already been the defendant
+15,01in seven  malpractice suits claiming severe  fecal fascination and ogling  eyes
+15,01while  treating his  female patients.  We  applaud such - err  -  what a sicko!
+
+15,018.  Well, it's that time  again *sniff* .. where  we must  part ways .. *sniff*
+15,01Luckily for you though, we have a shameless plug to insert here:
+
+15,01View over a decade of digital art searchable and online: http://www.ice.org
+
+
+15,01-Mass "My brother broke my driver side window once Johnny... Once." Delusion
+
+15,01-------------------------------------------------------------------------------
+15,01                 Mass Delusion               Lord Soth
+15,01-------------------------------------------------------------------------------
+
+15,01>

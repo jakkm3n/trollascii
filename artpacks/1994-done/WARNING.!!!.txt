@@ -1,0 +1,11 @@
+
+15,01Warning :
+
+15,01    Due to compatibility problems with HyperWare's HyperScreen program, it is
+15,01recommended that all users using this program remove it before viewing the DoPE
+15,01newsletter.  If you wish to run the newsletter with HyperWare's HyperScreen
+15,01installed, you may experience computers lockups or random garbage on your
+15,01screen.  We will try to fix this problem in the future for all users of
+15,01HyperScreen.
+
+15,01                                        Entity - Newsletter Programmer

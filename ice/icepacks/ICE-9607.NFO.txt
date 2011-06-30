@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                       J  U  L  Y      1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+15,011.  The troop  was faced with  the tough  decision of whether  or not to invade
+15,01    a small  island nation and  make it our  home-base,  or to work  to release
+15,01    on the  first again.   Being  that it's  very  difficult  and expensive  to
+15,01    bring a T1  to the  island,  we decided to once again release on the first.
+15,01    Word from  the islanders is  that  they are  quite thrilled  with our  firm
+15,01    dedication to prompt packs (grin).
+
+15,012.  Over  the past few months, iCE has  grown exponentially.   While our member
+15,01    listing  is more or less  the same as it usually is,  our overall group has
+15,01    become  more  robust (yes, an  industry buzzword!).   It was  thus  decided
+15,01    that we  reinstate the  iCE Advisory  Council position.   The advisors  are
+15,01    more  or less  like a junior  staff,  and work with  the Senior  Staff  and
+15,01    department heads.  Congratulations go to Aphid Twix,  Magnetic M,  and Mass
+15,01    Delusion on their promotions to the Council!
+
+15,013.  On the  olympic front,  iCE has won gold in rendering, doodling,  and pixel
+15,01    jumping,  silver in maniacal rantings and frozen-pole licking, and a bronze 
+15,01in
+15,01    the newest olympic event, turnip farming!
+
+15,014.  Another ice.org update!  We've added our very own news server to the wildly
+15,01    impressive  list of ice.org  services!   Our  upstanding artists  will,  of
+15,01    course,   be sticking to the  art-related newsgroups,  although word on the
+15,01    street has Devastator checking out alt.eastern.european.sex.sex.sex!
+
+15,015.  A barstool  and a beer  this month to new  pixel-pushers Eporue  and Nixus.
+15,01    Two new VGA  artists with spectacular  new perspectives.   Enjoy their work
+15,01    while sitting.  Also signing up this month was Egoteq in the ANSI division,
+15,01    who  teases  viewers everywhere  with his  seductive ANSI  sketches.   And,
+15,01    last,  but  most  definately  not  least,  a big 'allo to  Citizen Blue  in
+15,01    the  Members  section.   Citizen Blue is  one of  the few,  the proud,  the
+15,01    ice.org admins,  and has been more than tremendous in that painful(?) task.
+15,01    Welcome all!
+
+15,015b. Spring  came late  this year,  as five  members  returned from  inactivity.
+15,01    They are (drumroll please...) Final Descendant,  hFaze,  and Salmon in VGA,
+15,01    Gman in ANSI, and Natex (aka Microsoft Natex 95)  in the coding department.
+15,01    Excuse them for being a bit wet,  but we've been watering them for  months!
+
+15,015c. We must also bid a fond farewell to departing  brethren Defiant  and Fluor,
+15,01    who  left for Samsamar,  and to Zarkon, who left for Legend v2.  Good luck
+15,01    all of you in your future endeavors.
+
+15,016.  We were going to put a lawsuit threat in this NFO file, but we were quickly
+15,01    contacted  by lawyers  of another  group who  told us  that doing  so would
+15,01    violate  their lawsuit  threat,  in which  case,  they'd be  forced  to sue
+15,01    us,  which would  cause us to sue them  back, which would  in turn  require
+15,01    them  to sue  not only  us,  but  the International  Olympic Committee  and
+15,01    Jimmy Carter, since he's from Georgia.
+
+15,016b. However,  if we don't  use the word "sue"  then we won't be sued, so if you
+15,01    reproduce,  retransmit, use, or sell this  pack or artwork contained within
+15,01    without the  expressed written consent of iCE,  we will be guilty  of legal
+15,01    maneuvering against you.
+
+15,016c. I was forced  by contract to inform  you that we were  informed  by another
+15,01    groups lawyers  saying that we  implied  the word  "sue" and therefore,  we

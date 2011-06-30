@@ -1,0 +1,11 @@
+
+15,01     Volume in drive C is BBS
+15,01     Volume Serial Number is 331-19F3
+15,01     Directory of C:\
+
+15,01     .           <DIR>           01-13-96  7:31p
+15,01     ..          <DIR>           01-13-96  7:32p
+15,01     QUIT        .EXE   24456    03-23-13  4:19p
+15,01           1 file(s)             24456 bytes
+15,01           2 dir(s)        755,408,896 bytes free
+15,01>

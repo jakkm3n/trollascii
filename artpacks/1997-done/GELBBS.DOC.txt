@@ -1,0 +1,26 @@
+15,01GeL BBS Lister
+15,01by REBEL '97
+
+15,01Installation is easy, just follow these steps:
+
+15,011. Put the files where they belong...
+15,01    GELBBS.EXE  -> MISC DIR     e.g. C:\RENEGADE\MISC
+15,01    GELBBS.ASW  -> MISC DIR     e.g. C:\RENEGADE\MISC
+15,01    GELBBS.INF  -> MISC DIR     e.g. C:\RENEGADE\MISC
+15,01    GELBBS.ASC  -> MISC DIR     e.g. C:\RENEGADE\MISC
+15,01    GELBBS.BAT  -> MAIN DIR     e.g. C:\RENEGADE\
+15,01    GELBBS.MNU  -> MENU DIR     e.g. C:\RENEGADE\MENU
+
+15,012. Edit the GELBBS.BAT file to be sure it is correct.
+
+15,013. Change the MAIN.MNU file to GOTO (-^) the GELBBS.MNU when B 
+15,01    (BBS LISTER KEY) is pressed. Make sure to remove other commands
+15,01    for the bbs lister.
+
+15,01And your set. Take a look at the gelbbs.asc file to see what the finished
+15,01product will look like.
+
+15,01    I make no guarantees about the useability of this product. It is given 
+15,01    free of charge and all I promise is that it will take up space on your
+15,01    computer. If you have problems I can be found on Higher Visions and 
+15,01    Cyber Village. Or my BBS K-oS ONLiNE.

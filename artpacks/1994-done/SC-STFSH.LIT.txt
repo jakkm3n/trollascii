@@ -1,0 +1,19 @@
+00,01A man was walking down a beach one day
+00,01and saw another man throwing starfish back into the water.
+00,01And the man saw him and said,
+00,01"Why are you throwing the starfish back into the sea?"
+00,01And the other man replied, "If they aren't in the sea, they will die."
+00,01And the man looked around and saw thousands and thousands of starfish
+00,01 all around the beach.
+00,01So he said, "But there are thousands! What does it matter?"
+00,01And the other man picked up a starfish and held it in his hand and looked at it.
+
+00,01Then he looked at the man and said, "Well, it matters to this one."
+00,01And he threw it into the sea.
+
+00,01This is the story of me and you.
+
+15,01     00Sceo
+00,01   [Justice]
+15,01>SAUCE00Starfish Literary                  Sceo                Justice          
+15,01   19940706?*  @@P v                             

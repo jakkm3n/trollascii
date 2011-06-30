@@ -1,0 +1,79 @@
+
+00,01What's new in 15m00,15m14,00    00,01m15         m00mm00,15m14,00    00,01mm15      m00,15m14,00 00,01"00,15"00,00  00,01"""""""""00,15"00,01mm
+15,01              "00,15"14,00    00,01"15      m00,15m14,00      00,01""""""00,15"00,01mm  15"00,15"00,01m00,15 00,00    15,01         |00,15|14,00 
+15,01                   m00mm    14,15 14,00     00,01"15        |00,15|14,00  00,01    14,15 14,00    15,01      m00m15m00,15m14,00  00,01|
+15,01               m00m00,15m14,00   00,01    15|00,15|00,00 14   00,01|15        m00,15m14,00   00,01|   14,15 14,00    15,01       "00,15"14,00  00,01"
+15,01              "00,15"14,00     00,01    14,15 14,00     15,01      "00"00,15m14,00    00,01"    14,15 14,00    00,01    15m00m
+15,01               14,15 14,00     00,01    14,15 14,00     15,01              m00,15m14,00 00,01"14,15 14,00    00,01 """00,15"14,00 00,01  15"00,15"00,01m
+15,01               14,15 14,00     00,01    15|00,15|14,00    00,01|15      14,15 14,00 00,01m   15|00,15|14,00 00,01| 14,15 14,00    15,01        |00,15|14,00 00,01|
+15,01               14,15 14,00     15,01     14,15 14,00     00,01mm  15m00,15m14,00    00,01m  15"00"" 14,15 14,00    15,01       m00,15m14,00   
+15,01               14,15 14,00     15,01      "00,15"14,00              00,15"00,01m    14,15 14,00    00,01   15m00mm00,15m14,00    00,01| 13TRiAL!
+15,01              m00,15m14,00     00,01m15        "00""00,15"14,00     00,01""15       m00,15m14,00             00,01"" 14(tm) 00recently.
+
+00,01  1. 15Here we are, 00i15TR.  Starting off the new year with a fuckin' bang!
+
+15,01  002. 15The most exciting news is the members that have recently been promoted
+15,01     to full iCE Members from SKiLL/00i15TR ... : 00Hell Raiser15, 00Soul Rebel15,
+15,01     00White Knight15, 00Master Koresh15, 00Trixter15, 00VMan15, 00The Inquisitor15, 00Sy Kotic15,
+15,01     00CybeR ChrisT15, 00RipTide15.
+15,01     Lot's of new talent, and lots of new art.
+
+15,01  003. 15In this 00i15CEPACK is included the #2 00i15CN (00i15NSAN00i15TY Corperate Network)
+15,01     packet.  The reason for this is for 00i15CN Site to be able to update thier
+15,01     packets a bit easier, and to spread the packet to 00i15CE Sites & Member
+15,01     boards that may not have it yet.  00i15CN is not fully up yet but should be
+15,01     very soon.  Every other 00i15CN packet that is released (the even numbered
+15,01     ones) will be included in the 00i15CEPACK for now on.  Thanks to 00Xerobe 15for
+15,01     setting up the net.
+
+15,01  004. 15No one seemed to like the SKiLL/00i15CE Trial idea. :)  Everyone felt that
+15,01     it was too much of a separate group, so now the SKiLL name is gone, but
+15,01     there will be a SKL-0194, then the name will be changed to avoid confusion.
+15,01     Artists will be listed in the 00i15CEPACK, no 00i15CE Trial Dist. sites will be
+15,01     used anymore, etc.  But the main part of the whole idea, the 00i15CE Trial art
+15,01     pack, will still be released.
+15,01     Note: all SKiLL sites, member boards, and HQ boards with the exception of
+15,01     the iCE Trial WHQ are no longer affiliated with iCE or iCE Trial.
+
+15,01  005. 15Look pretty colors in the .NFO file now! Oooooooooooo...
+
+15,01                                                     00- Devil's Spawm 15[00i15TR] 00Prez
+15,01                                                      00slim@cybernet.cse.fau.edu
+
+
+00,01  15Greets to:
+15,01  00Fluorescent Darkness 15- oh well, 6 days for nothing :) its ok.. ben will hear
+15,01                         it soon anyhow...
+15,01            00Metal Head 15- Make it support South of Hell Month.. :)
+15,01              00Raistlin 15- Uhh.. Hi.
+15,01          00CybeR ChrisT 15- I love you.  I cant WAIT to see CC-SoH1.iCE!!
+15,01                  00iNKY 15- I Luv U.  5OO line ansis RULE! :)
+15,01             00Lord Soth 15- Love ya.. I've wanted an ansi from you since 07/93..
+15,01                         it'd be nice if I finnally got one :)
+15,01                00Asriel 15- fresh ass ansis.. I love your style.. keep it up!
+15,01                00Syntax 15- Howdy neighbor!
+15,01       00da Salmon Moose 15- Love the handle!  (how bout an ansi for SoH?)
+15,01        00The Inquisitor 15- Hmmm check deez nuts.. your a courier god
+15,01                  00Bane 15- ok, I like you now.. cool, very cool.
+15,01             00Bad Karma 15- Loved the spawn.. a BK-SOH2 would be AWESOME! :)
+15,01         00Devil's Spawn 15- BAAAAAAAAAAAAAAAAAAAAAARRRQQQ!
+15,01     00Shihear Kallizard 15- Can I join TRiBE?  Seriously...
+15,01           00Abomination 15- LISTEN to me... Comics/2019.. liar :)
+15,01              00zeppelin 15- You're gettin better by the second.. continue!
+15,01              00ESOTERiC 15- I love you man... you're doing great.. shouldn't
+15,01                         be long till you can lose the trial in your sig,
+15,01                         as long as you stick to comics for the mean time..
+15,01                00Magnus 15- I love your additude.  Work hard on that pic I showed
+15,01                         you, and you WILL be moved up... good luck man!
+15,01                 00Hoaks 15- Nice ansi.. its just to far away.. I'm sure you'll
+15,01                         be moved up this month with your next ansi.
+15,01              00Dark iCE 15- Cool ansi... maybe use the same color shade next time.
+15,01             00War Blade 15- I've seen you're pics, they arent bad.. to bad you've
+15,01                         only done all fonts this month.. work on your pics...
+15,01                  00Thor 15- I understand about being so busy this month.. no prob..
+15,01                         nice pitt ansi.. continue doing comic-copy stuff, till
+15,01                         you get better at ANSI, then try original stuff...
+15,01                  00LiON 15- More stuff from ya this month?  Or are you going on
+15,01                         vacation?  Nice fonts...
+15,01     00Everyone I missed - 15You know I ment to give you a great, just dont have the
+15,01                         time... :)

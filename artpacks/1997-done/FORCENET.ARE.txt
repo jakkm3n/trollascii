@@ -1,0 +1,36 @@
+15,01ForceNet Echolist 20/05/96 
+
+15,01  Tag           Description                               Flags
+15,01 
+15,01  Force1        Administration Chat                       *
+15,01  Force2        Force Members                             F
+15,01  Force3        Xpress Chat                               F
+15,01  Force4        Deste Chat                                F
+15,01  Force5        Public Chat                               P
+15,01  Force6        Hip-Hop Chat                              P
+15,01  Force7        Art Chat                                  P
+15,01  Force8        Coding Chat                               P
+15,01  Force9        Music Chat                                P
+15,01  Force10       Art Help                                  P
+15,01  Force11       Coding Help                               P
+15,01  Force12       Music Help                                P
+15,01  Force13       Suggestions                               P
+15,01  Force14       Test Echo                                 *
+15,01  Force15       Force Pack Organisation                   S
+15,01  Force16       Announcements                             R
+15,01  Force17       Anime Chat                                P
+15,01  Force18       BBSmods chat                              P      
+15,01  Force19       Requests                                  P            
+
+
+15,01Flag Definitions
+15,01  
+15,01  * Sysops Only
+15,01  F Force Members Only. Sysops can only post in these chats if they are  
+15,01    Members
+15,01  P Public Chats
+15,01  S Force Seniors Only. Sysops can only post in these chats if they are  
+15,01    Members
+15,01  R Read Only. Only the Network Co-Ordinator is allowed to post.
+
+15,01Expect to see more areas coming soon.

@@ -1,0 +1,80 @@
+
+14,01 > T-T-Triple Take
+
+15,01        03  15       11##10##
+15,01         09,03"|
+15,01                           14^15                                      03mmm
+15,01                06m13m13,06m06,01m15 09,03 |m03,01|mmmmm09mm03mm15 03m15    03#09#15      06 15 06 15   06 m13,06|13,01m06m   15   09,03#09,09#09,11"09,03|
+15,01            03m15  06|13,06#13,13#13,06|15,01 03m14,03 09""03,01|14,03  09m09,09 10#09,11"09,03|14 03,01|mmmmmm01,03#14#03,01#09#03#15  09#15      06m13,06m13,13 13,06|06,01 15      03"""
+15,01         03#09#01,03#14#03,01mm15 13,06 13,01"06"15  06mm15 03"""14,03 09""10,09#09 09,03m03,01|14,03 09|09,09 09,03|m|m14 03,01|14,03  09mm09,09 09,03m14 03,01|mmm15 06" m13mm13,06|m13,01m06m
+15,01            03"15 06m13mmm13,06 06,01"13"""13,06"13,13 13,06m13,01mm06m15 03"09"09,03 14 09"03,01"""09""09,03 14 09m14 09|09,09 10##09,03|14 03,01""15 06mm13,06m 13,01""06  "13"13,06"13,13 13,06m13,01m06m15     11##10#11 
+15,01        06 15  06m13,06m13,13 13,06"13,01"06"15 06m15      06"13,06"13,13  10#13,06m06,01m15  06m13m13,06m13,13  13,01mmm15 03"""09"09,03"03,01"15 06m13,06m13,13 13,06"06,01"15 06m11m15 09,03|m14 03,01m15 06"13,06"13,13  11,06m06,01m
+15,01      03 m 15 06|13,06|10,13#13,06|06,01|15 10,13##14,06 15,01  10#11## 15 06|13,06|10,13#13,11#09#11,06|06,01|15 06|13,06|10,13##06,01 "13""13,06"13,13 10#13,11m13,01m06m15 06|13,06|10,13#13,06|06,01| 14,06 10,13#13,11#15,01 10,09##09,03|14 03,01|15 06|13,06|10,13#13,11#11,06|06,01|
+15,01    03m14,03 09m03,01|m15  06"13,06"14,13 13,06 13,01|13,13  14,06 15,01      06m13,06m13,13 10 #11,06"06,01"15  06"13""15     06 14,06 14,13  13#13,06#06,01m15 06"13,06"13,13 13,06m06,01m|13,06|10,13#15,01 09,09 09,03"14 03,01"15 06m13,06m13,13 13,06"13,01"06"
+15,01    03|09,03|10,09#09,03m|03,01|15  06|13,06|10,13#13,06m13,13 13,06 06,01|15 06mm13m13,06m10,13#13,06"13,01"06" 03#06  m13mmmm13,13 13,06"13,01"06"13"06|13,06|13,13 13,06"13,13 13,06|06,01|15   06"13,06"13,13 13,06m13,13  15,01 09,03|14  15,01 06"13"
+15,01     03"|09,03"03,01"15   06"11,06"13,11#10,13# 13,06|15,01         03m15 06m11,06m10,13#13  13,06"06,01" 15     14,06 13,13 10#06,01|13,06 13,13 13,06m06,01m15   06|13,06|10,13#13,11"10,13#15,01 09,03"14 03,01mm09mm
+15,01           03|15 06""13,06"10,13 #13,06m13,01mmmm13,06m|15,01 03"|06|11,06|09,11#13#10,13#13,06|06,01|15   11#10#15  13,06 10,13#13,11#15,01 06|13,06|13,13 13,06|06,01|03 15 06"|13,06|13,11|#06,01 09,09 09,03m14 09|10,09#09,11m15,01 03m
+15,01           03"09,03"|03,01mm09mm15 06"13""13,06"13,13 13,01"06"15 03m15 06"13,06"10,13# 13 13,06m06,01m15    06  "15 06m13m13,06m13,13 13,06"06,01"15 03m|15 06m13,06|13,13 10#13,01mm06 03|""09"15 01,03#09,01#03#15 03#
+15,01            03"""09|09,09 10##09,03m14 03,01mm09mm10,09##09,03m14 03,01mm15 06"13""13,06"10,13#13,06m13,01mm06m13m13,06m13,01"""06" 03mm09,03m09,09 09,03m15,01 06"13"06|13,06|13,13 15,01 03m14,03 09##03,01"""
+15,01     11#10#15        03|09,03""09,11m10,09#09,03"03,01|09,03|10,09##09,11"|09,09 09,03|14 09"14 09mm03,01mmm15 06""15  06m13m13,06 06,01 03"09,03m||09,09 10##09,03||09,01m03m09m03m m 
+15,01                   03m15 03m14,03 09""09,09 09,11m09,03"14 01#14 09"09,09   03,01|""""15 06"13,06"13,13#13,06#06,01|15 03|09,03"14 09"09,11m09,01|03""""     15   03m09m09,03m03,01m
+15,01         06Ear14!03Wax15            03#09#03#15          06  |"15               03 15     03"
+15,01                                           06 15               11#10#
+15,01                00I thought I told you that we won't stop..
+
+15,01  April showers bring May flowers, but in Canada.. Mother Nature can't even
+15,01  make up  her mind.  While we struggle to maintain a good piece of weather
+15,01  around here, the same has happened with Echo.  Both good and bad news has
+15,01  left Echo to where  it is at, and no we are not dead and dying.  Yet, the
+15,01  bad news has affected the group severely.
+
+
+06,01|00,06What's go00,01ing on?
+
+15,01  - The 4th Disciple is basically deciding to end his career here at Echo,
+15,01    which generally has left a lot of members/people stunned (including I)
+15,01  - Gorilla Monsoon still doesn't know how to run the WWF properly
+15,01  - Members leaving left and right, seeking new goals.. Echo damaged, but
+15,01    still plans on moving forward, with or without its superstars
+15,01  - The people of the pirate world have brought in a swarm of bots and took
+15,01    over #echo for awhile, so we had to stay in #campecho, but later on got
+15,01    back our channel and everything is running smoothly
+15,01  - Good feedback from the last package (ECHO0397.ZIP) and we hope that we
+15,01    can keep on matching our previous, and feed you guys that thirst for
+15,01    ansi/rip action
+15,01  - Selected people in tv-land, have been sporting Echo Unlimited clothing,
+15,01    and we didn't even ask them to, skill.. (huh Acid?)
+15,01  - Memberlist has gone through its spring cleaning process and are hoping
+15,01    that the activity will rise up next month for the crew..
+15,01  - Respects to Xypher Matrix, who single handedly gave me about 4 dollars
+15,01    worth of whupass in Street Fighter 2 (alpha).. yet I do claim an odd #
+15,01    of wins, and some slices of pizza :)
+15,01  - Much thanks to Serial Toon who has made a great effort into devoting
+15,01    his irc hours to distributing Echo packages.  What goes around comes 
+15,01    around, and things look well from that standpoint.. Mucho Gracious.
+15,01    
+15,01 14As one puts it:
+15,01 14<volatile_> wO : echo 03 kicked ass's
+
+
+06,01|00,06How do yo00,01u sleep at night?
+
+15,01  In the duration of the last week or so, a lot of discussion has arose at
+15,01  some  of the comments that I have made.  I'm not gonna bother going into
+15,01  details, but the  bottom line is, recent news arose (that being bad) and
+15,01  I basically flew the coop, took it out on the group, sucker punched some
+15,01  people and therefore was affected by that.  Bottom line is, I'm sorry to
+15,01  anyone I've offended.. but some of the stuff I said to some people I did
+15,01  mean to say, some people need to wake up and face reality.
+
+
+06,01|00,06Members a00,01nd15 00stuff..
+15,01 
+00,01  15Just like The Knight puts it, check the memberlisting thyself.
+15,01 
+
+06,01|00,06In Closin00,01g..
+
+15,01 So ends April, I'm just hoping that May brings joy and a lot of suprises from
+15,01 Echo to the general public.  Show your support and send your comments and any
+15,01 suggestions you might have, and write to: 00echo@globalserve.net

@@ -1,0 +1,74 @@
+15,01# iCEView Description File 
+15,01# Created by ICEVIEW.EXE on 9/1/1996
+15,01###############################################
+15,01iceview.doc,ANSI,iCEview Documentation,Friar Tuck
+
+15,01ice-9609.nfo,ANSI,iCE Sept 1996 Info,iCE staff
+15,01ice-9609.mem,IDF,iCE Sept 1996 Memberlist,iCE staff
+15,01ice-9609.sit,ANSI,iCE Sept 1996 Sites,iCE staff
+15,01ice-9609.sts,ANSI,iCE Sept 1996 Stats,iCE staff
+15,01-ansi---.---,ANSI,,
+15,014TH-PIR.ICE,ANSI,Piranha,The 4th Disciple
+15,01ASS-RPGD.ICE,ANSI,Demoniac,Soul Assassin
+15,01BV-KAOS1.ICE,ANSI,Kaos,Black Viper
+15,01CU-IOM.ICE,ANSI,Ides of March,Cold and Ugly
+15,01CU-POO.ICE,ANSI,Poo!,Cold and Ugly
+15,01CU-WOLFI.ICE,ANSI,Matrix,Cold and Ugly
+15,01EQ-SCP01.ICE,ANSI,Sausage-Cattlepork,Egoteq
+15,01GW-ALD.ICE,ANSI,Alderaan,G. Washington
+15,01IV-ICEPR.ICE,ANSI,iCE,Inner Vision
+15,01JU-JU1.ICE,ANSI,Juice,Juice
+15,01KA-DM3.ICE,ANSI,Divine Madness,Kadaver
+15,01MD-ICE2.ICE,ANSI,iCE Advertisements,Mass Delusion
+15,01TE-ALD1.ICE,ANSI,Alderaan,Tetanus
+15,01TG-PULS1.ICE,ANSI,Pulse,Toon Goon
+15,01TG-VI1.ICE,ANSI,Virtual Infinity,Toon Goon
+15,01US-DOINK.ICE,ANSI,Doink,AX/CL
+15,01US-HAVEN.ICE,ANSI,The Haven,CC/LS/CU
+15,01US-ICE09.ICE,ANSI,iCE Advertisements,CU/TG/BOA
+15,01US-PULS1.ICE,ANSI,Pulse,BV/CZ/ST/TNA/FL
+15,01-logo---.---,ANSI,,
+15,014TH-ICE.XB,ANSI,iCE (XBIN Format),The 4th Disciple
+15,014TH-ICE2.XB,ANSI,iCE (XBIN Format),The 4th Disciple
+15,01AX-DSC4.ICE,ANSI,Disco,Apox
+15,01EQ-LOGO1.ICE,ANSI,Logo Colly,Egoteq
+15,01LM-SAT7.ICE,ANSI,Saturn 7,Lemonade
+15,01SQ2-LG14.ICE,ANSI,Logo Colly,Squidgalator ][
+15,01US-FC1.ICE,ANSI,Free Coke,TE/GS
+15,01US-GBICE.ICE,ANSI,Goodbye iCE,GS/TNA
+15,01-rip----.---,ANSI,,
+15,01ASS-DMON.RIP,RIP,Demoniac,Soul Assassin
+15,01-vga----.---,ANSI,,
+15,01AN-THING.JPG,EXTERNAL,Thing,Anarchy
+15,01AT-0DAY.JPG,EXTERNAL,0 Day,the Aphid of Twix
+15,01CU-ICE3.JPG,EXTERNAL,iCE Advertisements,Cold and Ugly
+15,01JA-ABRX1.JPG,EXTERNAL,Abraxas,Jae
+15,01JA-ANIM1.JPG,EXTERNAL,Anime,Jae
+15,01JA-ICE3.JPG,EXTERNAL,iCE Advertisements,Jae
+15,01JA-SPC1.JPG,EXTERNAL,Space,Jae
+15,01JA-SKUL1.JPG,EXTERNAL,iCE Advertisements,Jae
+15,01KB-ANIM2.GIF,EXTERNAL,GifAnimation,Kabal-13
+15,01KB-DIANA.JPG,EXTERNAL,Diana Mossip,Kabal-13
+15,01KB-MTN.JPG,EXTERNAL,,Kabal-13
+15,01KB-SCAPE.JPG,EXTERNAL,,Kabal-13
+15,01L0-RKILL.JPG,EXTERNAL,Road Kill,Leg0blox
+15,01NX-HF.JPG,EXTERNAL,Higher Force,Nixus
+15,01RL-CLOCK.JPG,EXTERNAL,My Clock,Rogue Leader
+15,01RL-CURLY.JPG,EXTERNAL,Curly's Adventure,Rogue Leader
+15,01RL-GUARD.JPG,EXTERNAL,The Guards,Rogue Leader
+15,01RL-IV.GIF,EXTERNAL,iCEView,Rogue Leader
+15,01RL-LAND.JPG,EXTERNAL,Hand Modelled Landscape,Rogue Leader
+15,01RL-SGUY.JPG,EXTERNAL,Sylum Guy,Rogue Leader
+15,01RL-SYLUM.JPG,EXTERNAL,Sylum Entertainment,Rogue Leader
+15,01RL-WARDN.JPG,EXTERNAL,The Warden,Rogue Leader
+15,01RL-WEBL.JPG,EXTERNAL,WWW.ICE.ORG,Rogue Leader
+15,01SF-AS01.JPG,EXTERNAL,Ides of March,Stolen Faith
+15,01TE-ICE4.JPG,EXTERNAL,iCE Advertisements,Tetanus
+15,01TE-UFO1.JPG,EXTERNAL,A UFO,Tetanus
+15,01US-BUGS.JPG,EXTERNAL,Bugs!,Sprite/Slothy
+15,01WA-AMBI1.GIF,EXTERNAL,Ambient,Wax
+15,01WA-GOLD.GIF,EXTERNAL,Goldmine,Wax
+15,01WX-MOBIL.JPG,EXTERNAL,Accelerasi,Wix
+15,01-exe----.---,ANSI,,
+15,01BZ-DOTS.EXE,EXE,Circle Stuff,Blazer
+15,01file_id.diz,ANSI,,

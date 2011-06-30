@@ -1,0 +1,76 @@
+15,01-------------------------------------------------------------------------------
+
+15,01                             m14,15 15,01""m m14,15 15,01"" m14,15 15,01 14,15  15,01""m
+15,01                             14,15  15,01""14,15 15,01 14,15  15,01   14,15  15,01 14,15  15,01  14,15 
+15,01                              "  "  """ "" """"
+15,01         m14,15 15,01""m m14,15 15,01""m m14,15 15,01""m 14,15  15,01""m m14,15 15,01  14,15 15,01 m14,15 15,01"" "14,15  15,01" m14,15 15,01 m14,15 15,01""m m14,15 15,01""m m14,15 15,01""
+15,01         14,15  15,01""" 14,15  15,01""m 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 14,15  15,01    14,15  15,01  14,15  15,01 14,15  15,01  14,15 15,01 14,15  15,01  14,15 15,01 """14,15 15,01 (tm)
+15,01          "     "  "  """  """"   """   """   "   "  """   "  " """
+
+15,01-------------------------------------------------------------------------------
+
+15,01 +---------------------------------------------------------------------------+
+15,01 |                                                                           |
+15,01 |         "The Acquisition"  -  Contains A-Z of the ART Collection.         |
+15,01 |         Background History:   The Acquisition  was  originated in         |
+15,01 |         San Jose, California.   After  it  had been organized and         |
+15,01 |         its  contents  sorted,  it  first  appeared  on  Fear and         |
+15,01 |         Loathing BBS.   To  this  day the original zips are still         |
+15,01 |         floating  around,  but  as  more  and  more high  quality         |
+15,01 |         computer  graphics  are  produced,  the more tighter  the         |
+15,01 |         zipped volumes become.                                            |
+15,01 |                                                                           |
+15,01 +---------------------------------------------------------------------------+
+
+15,01        +-----------------------------------------------------------+
+15,01        | The Acquisition :   October Update *   November 1st, 1995 |
+15,01        +-----------------------------------------------------------+
+15,01           Note:   The file ACDU1195.ZIP is only an update of the
+15,01           latest works not included in the preceding Acquisition.
+
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01 | # |FileName.Ext |   Size |  Date   |Data | Description                    |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+15,01*|1  |ACID-TEE GIF | 164921 |11.01.95 |%    | ACiD T-Shirt Promo             |
+15,01*|2  |ACID-TEE NFO |   4268 |11.01.95 |%    | ACiD T-Shirt Order Form        |
+15,01*|3  |ACID1095 ANS |   5780 |11.01.95 |%+   | October Member/Board Listing   |
+15,01*|4  |ACIDAPP  EXE |  35277 |07.01.95 |%    | ACiD Application Form Generator|
+15,01*|5  |ACIDVIEW EXE |  96480 |11.15.95 |%    | ACiD View version 4 beta       |
+15,01*|N/C|ACIDVIEW NFO |  41346 |11.01.95 |%+   | ACiD View Documentation        |
+15,01*|6  |BM-EGOD  RIP |  15398 |11.01.95 |%    | Egod                           |
+15,01*|7  |EO-DEM1  ANS |  42914 |11.01.95 |%+   | demesne                        |
+15,01*|N/C|FILE_ID  DIZ |    547 |11.01.95 |%    | Acquisition FILE ID by {RK}    |
+15,01*|8  |GS-EVIL  ANS |  30320 |11.01.95 |%+   | Evil Intentions                |
+15,01*|9  |KO-KOSH  GIF | 178831 |11.01.95 |%    | Kosh Webpage Promotional       |
+15,01*|10 |NEWS1195 ANS |  35996 |11.01.95 |%+   | ACiD Newsletter Issue #10      |
+15,01*|11 |NIT-CHAR ANS |  47866 |11.01.95 |%+   | The Charnel                    |
+15,01*|12 |P1-BADL1 GIF | 150633 |11.01.95 |%    | The BadLands                   |
+15,01*|13 |P1-EI1   GIF | 173173 |11.01.95 |%    | Evil Intentions                |
+15,01*|14 |P1-HH    GIF | 178229 |11.01.95 |%    | Happy Halloween                |
+15,01*|15 |P1-LAN   ANS |  35565 |11.01.95 |%+   | Lan's Laughter                 |
+15,01*|16 |P1-PZERO ANS |  26645 |11.01.95 |%+   | Point Zero                     |
+15,01*|17 |PG-GZERO ANS |  33761 |11.01.95 |%+   | Ground Zero                    |
+15,01*|18 |SA-INTXC ANS |  29661 |11.01.95 |%+   | Intoxica                       |
+15,01*|19 |STC-ACD2 GIF | 102417 |11.01.95 |%    | ACiD Promotional               |
+15,01*|20 |STC-RN   ANS |  40401 |11.01.95 |%+   | The Ravaged Nightmare          |
+15,01*|21 |TRE-IOM4 ANS |  23428 |11.01.95 |%+   | The Ides of March              |
+15,01*|22 |WE-WILL  SUE |   1531 |11.01.95 |%+   | ACiD Legal Disclaimer          |
+15,01*|23 |ZV-CCI   RIP |  85751 |10.29.95 |%    | CyberCrime International       |
+15,01*|24 |ACDU1195 NFO |   5381 |11.01.95 |%+   | Acquisition Information File   |
+15,01 +---+-------------+--------+---------+-----+--------------------------------+
+
+15,01+-----------+ Data Legend +---------------------------------------------------+
+15,01|                                                                             |
+15,01|              % = ACiD Production      A = Animated/ANSiMated                |
+15,01|              M = Sound Effects/Music  + = Scrolling                         |
+15,01|              x = Multi-Screen         * = New Since Last Update             |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+
+
+15,01+--------+ Statistics +-------------------------------------------------------+
+15,01|                                                                             |
+15,01|          Total Files (Net):   26     Average Compression Rate: %23          |
+15,01|          Total Bytes:  1,586,649     Average Of Bytes/File: 61,025          |
+15,01|                                      Total Bytes Zipped: 1,226,417          |
+15,01|                                                                             |
+15,01+-----------------------------------------------------------------------------+

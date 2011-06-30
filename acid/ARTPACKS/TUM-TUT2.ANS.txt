@@ -1,0 +1,58 @@
+15,01here's a really cheap and dirty way to do fonts. this is for beginners and
+15,01intermediate artists. i did this because i had just finished a pic and didn't
+15,01feel like spending time on the font.
+
+15,01           ,+g%p+,   ,+g%p+,   ,+g%p+,   ,+g%p+,   ,+g%p+,   ,+g%p+,
+15,01          d$$$$$$$$.d$$$$$$$$.d$$$$$$$$.d$$$$$$$$.d$$$$$$$$.d$$$$$$$$.
+15,01         ;$$$$$$$$$:$$$$$$$$$:$$$$$$$$$;$$$$$$$$$;$$$$$$$$$:$$$$$$$$$;
+15,01          4$$$$$$$7 4$$$$$$$7 4$$$$$$$7 4$$$$$$$7 4$$$$$$$7 4$$$$$$$7
+15,01           `+*4*+'   `+*4*+'   `+*4*+'   `+*4*+'   `+*4*+'   `+*4*+'
+
+
+15,01this is going to be a font for my board "morph". make a circle and cut and 
+15,01paste it 6 times (morph has 5 letters, but the "m" has two curves).
+
+
+
+
+
+15,01          13yy,+g%p+,  ,+g%p+,15   13,+g%p+,  #$+g%p+, ,+,+p%p+, #$ ,+g%#p+,
+15,01          13$$$7+n+4$$d7*+n+*$$.d$7+n+4$$.$$7+'n4$$,l$n'^'n$b$$d|*+n+*$$$.
+15,01          13$$l     l$'      `$:$l     $$;$$    .d$;$$.  .,$7$$7'      l$;
+15,01          13$$:     `4        l$4$,._.,$7 $$   `'4b;$l+*4*+' $$      _,$\'
+15,01          13$$.               :` `+*4*+'  `4      )$$:15       13$$ `+*4S*+'
+15,01          13`4$15                                13.+d7``4  15    13`4
+15,01            13`15                                 13`+4$+,`15       13`
+15,01                                                 13`+4$
+
+
+15,01basically carve the letters out of the shape. note that each letter has the 
+15,01basic circle. give it a basic color to work with.
+
+
+15,01      13;+04`15 04`'+13'^`04`'+13|+'15  04``15 04;15 04|13+'04'^`^'13+;+'04`+'^13`^04'+;+13' ``15 04`+;15   13;+'04^''++.15    13:04::13:
+15,01      04`.15 04 08y13y,08+g%p13+,  ,08+g13%p+,15   08,+g%13p+,15 08 #13$+g%p+,15 13,08+,+p13%p+,15 08#$ ,+g%#p+13,15 13`+15  13::
+13,01::04::13:04:15 04;15 04 08$13$$087+n13+4$$08d7*+n13+*$$.d$7+n+08413$$.$$087+'n134$$,l$n'08^'n13$08$$13$d|08*+n+*$13$$04.15 04;15 13::
+15,01    13:04: 13;15  13$$08l 04.:.13 l$08'13 .+04;+13 `$:$l   08  $13$;$$ 04.'13 .d$;$$     j$08$13$08713'  08    13l$;15   13::
+15,01    13::04 13:04.15 13$$08:13 04;13 04;13 `4 04.13; 04 ;;13 08l$134$,._08.,$13715 13$$  08 `'4b;$l+*4*13+n`$$      08_13,$08\'15 04;15 04:13:
+15,01    04::::+15 08$$13. 04.``;,+13 04;13   l04;13 08:`15 08`+*13408*+'15  13`4 04; `+08 )$$:15  04.+;15  13$$08 `+*4S13*+'15 13.;15  04::
+15,01        04;15 08`413$15 04;15          13;04;+.,l13;..  ; .;04.15    13.+d087``413 ;15  13'.`4l15 04`13; .15 04++;;;:::::
+15,01         13`+15 13`15                              04` .13`08+413$+,`15     04`.13`15 04.
+15,01         04.` 15                                  13 .04 08`+413$
+15,01                                                 13`
+15,01lightly color it. this method is generally viewed as pretty basic, but it's a
+15,01good idea to start with this (kind of like the "granny shot" in basketball) and
+15,01then progress from there. generally logo's that look like this are usually 
+15,01made by inexperienced artists (or wierdo's like prodigy and haji who are 
+15,01allowed to do that because they have all those neat ideas and they make it
+15,01look cool =))
+
+
+15,01technically my second tutorial. i had the brilliant idea of making my first one
+15,01when i was pretty new to the ascii scene =) it's pretty funny.
+
+15,01                                                               -The Upright Man
+
+
+15,01>>SAUCE00Ascii Tutorial                     The Upright Man     Remorse Producti
+15,01ons 19980104+M  @@P v                             

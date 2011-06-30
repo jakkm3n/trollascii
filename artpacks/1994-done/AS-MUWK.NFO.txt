@@ -1,0 +1,34 @@
+
+
+15,01The WildK.I.D.S Menu Set
+
+15,01Original ANSI By Asriel of Tribe Studios
+15,01Inspired By LogaN of Tribe Studios
+15,01Characters Courtesy of and Copyright 1993 Jim Lee and Aegis Entertainment
+
+15,01All work in this menu set is original, adapted from the WildC.A.T.S SourceBook
+15,01Number 1, and WildC.A.T.S Issue 7. No work in this menu set has appeared in
+15,01any other ANSI, be it Asriel's, Tribe's, or otherwise.
+
+15,01This ANSI set was created specifically for the Lost Destiny BBS. However,
+15,01permission is granted for sysops other than those of the Lost Destiny to
+15,01use these ANSIs for non-commercial purposes insofar as the Asriel*Tribe
+15,01credit is NOT removed or altered in any way.
+
+15,01WildK.I.D.S is Trademark and Copyright 1994 Tribe Studios.
+15,01WildC.A.T.S is Trademark and Copyright 1993 Aegis Entertainment.
+
+15,01Produced in the USA
+
+15,01Contents of this archive:
+15,01-------------------------
+
+15,01AS-MWMA.ANS          'Maul' Interpretation (25 Line Stat Screen)
+
+15,01AS-MWSP.ANS          'Spartan' Interpretation (25 Line Menu Screen)
+
+15,01AS-MWGR.ANS          'Grifter' Interpretation (25 Line Menu Screen)
+
+15,01AS-MWEM.ANS          'Lord Emp' Interpretation (25 Line Menu Screen)
+
+15,01AS-MWLG.ANS          'WildK.I.D.S' Logo (25 Line Stat/Menu/Misc Screen)

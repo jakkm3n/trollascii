@@ -1,0 +1,23 @@
+15,01                       SKAGVIEW - UPDATE INFORMATION
+15,01                       -----------------------------
+
+15,01V1.1     Added Hi-Res Ansi viewing
+15,01         Added CUP (Cursor Position) command
+15,01         40% faster Ansi loading routines
+15,01         Fixed filemask bug - When changed, the filemask would return to the
+15,01                              default *.ANS after viewing each file
+15,01         Fixed no file bug  - If the file specified on the command line did
+15,01                              not exist, the program crashed
+15,01         Fixed pickfile bug - The highlight bar would always return to the
+15,01                              top-left position
+
+15,01V1.0     Initial Release
+
+15,01Future Releases - 256 Color Ansi viewing
+15,01                  Animated Ansi support including baudrate simulation
+15,01                  Background MOD support
+15,01                  GIF viewing - VESA Hi-Res support
+15,01                  More lines (200 at the moment)
+15,01                  Remote Imaging Protocol (RIP) support
+15,01                  VGA Screen Saver
+15,01>

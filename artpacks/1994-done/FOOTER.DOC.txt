@@ -1,0 +1,77 @@
+15,01                                                                 .
+15,01                                                     mmmmmmmmmmmmm.
+15,01                                    mm            mm#14,15    15,01.14,15    15,01"14,15 15,01 #|#
+15,01                                   14,15  15,01 #          14,15 15,01"14,15  15,01."""""14,15       15,01.|
+15,01            mmm                   |#14,15  15,01 |       ||14,15     15,01    | 14,15   15,01 14,15  15,01|
+15,01          mm""14,15 15,01mm                  . 14,15  15,01 |       |14,15     15,01|    14,15      15,01||
+15,01         |14,15 15,01"14,15    15,01#14,15 15,01.                 "" ||       |#14,15   15,01||   |14,15     15,01||
+15,01         | 14,15      15,01. mm.                m.|       .14,15    15,01||   14,15      15,01||
+15,01         ||14,15        15,01.14,15 15,01.14,15  15,01 .         mmm#14,15 15,01|       14,15     15,01||   #14,15    15,01||
+15,01          "#14,15    15,01|14,15        15,01||       |14,15 15,01"14,15   15,01||     |.14,15    15,01|| m14,15      15,01||
+15,01           ".14,15   15,01|14,15        15,01|        ||14,15    15,01|      |.14,15    15,01|m14,15   15,01.14,15    15,01||
+15,01            |14,15    15,01|14,15      15,01 14,15 15,01        | 14,15    15,01||     14,15         15,01"|14,15     15,01||
+15,01             .14,15   15,01|"14,15   15,01"m"         |14,15     15,01|      . 14,15     15,01"  14,15      15,01||
+15,01             |14,15   15,01|    mmm .      |14,15      15,01||    |#14,15     15,01|  |14,15     15,01.||
+15,01             |.14,15   15,01   14,15 15,01#14,15 15,01"mm#     ||14,15    15,01 ||    |14,15      15,01|| |14,15     15,01 ||
+15,01             |14,15    15,01    14,15   15,01"14,15 15,01||    #14,15     15,01 .|    |14,15       15,01| 14,15      15,01.14,15 15,01|
+15,01              #14,15   15,01    m14,15  15,01. |    . 14,15       15,01|    14,15        15,01| 14,15      15,01 #|
+15,01              |14,15   15,01|m 14,15      15,01||  .14,15        15,01.||   |14,15       15,01||14,15       15,01|||
+15,01              ||14,15 15,01|14,15        15,01 ||  .14,15         15,01#|   14,15         15,01|14,15        15,01||
+15,01             .|14,15 15,01m14,15         15,01#|   14,15          15,01||   |14,15        15,01|14,15         15,01|| |
+15,01              #"""# 14,15    15,01.14,15 15,01"|   |14,15        15,01m14,15 15,01|   14,15       15,01.14,15 15,01|14,15         15,01|  |
+15,01               " m".14,15 15,01.14,15  15,01"m"    m"14,15  15,01.14,15 15,01.14,15 15,01#"m"    14,15 15,01m 14,15  15,01#"m.".14,15 15,01#mm14,15 15,01"m"
+15,01                  " mmmm"       #mm"""mm"     #mm"""m"  #m """m"
+15,01                                    ""           "        ""
+
+15,01  +------------------------------------------------------------------------+
+15,01  |                        CiA PPL Division Presents                       |
+15,01  +------------------------------------+-----------------------------------+
+15,01  | Program: FOOTER V 1.02             | We are always looking for new PPL |
+15,01  | Programmed by: Al Bundy '94        | Programmers. If you're interested |
+15,01  |                                    | Leave mail to NotB, Trident, or   |
+15,01  | The bugs keep on appearing...      | Defcon 4 on one of our boards.    |
+15,01  | Soon I will take care of them all! |                                   |
+15,01  +------------------------------------+-----------------------------------+
+
+15,01                           /-> What Is Footer <-\
+
+15,01Footer is designed to improve the way PCBoard treats a messageafter it has
+15,01been shown to the caller.  This little utility will replace the old and boring
+15,01prompt with a whole new line of commands which are easily accessable by the
+15,01caller.
+
+15,01                          /-> How Do I Install It <-\
+
+15,01Installation is very simple.  You just load up your MKPCBTXT.EXE file and
+15,01use the F3 key to got to record #197.  There you will put the following
+15,01line:  !C:\PPE\FOOTER\FOOTER.PPE
+15,01       ~~~~~~~~~~~~~~~
+15,01       Set the path values accordenly to where you unzipped the footer to.
+
+15,01Repeat the same thing for entry #612.
+
+15,01                              /-> Support <-\
+
+15,01If you are having trouble or just would like to get in touch with the
+15,01author call these boards:
+
+15,01                 Artificial Intelligence or The Foundation
+
+15,01                            /-> Registering <-\
+
+15,01Footer has no protection and it is not cripple in any way.  However if you
+15,01like this PPE you must register it after ***14*** days.  Footer only costs
+15,01$10.00 so if you cant come up with this ammount of money then you are just
+15,01plain cheap :)
+
+15,01                               /-> Greets <-\
+15,01                     TRSi - RZR - PTG - NEXuS - TPO - TRA
+15,01             
+
+15,01                            /-> Contacting me <-\
+15,01 
+15,01You know where to find me!!!
+
+
+15,01<EOF>
+15,01>

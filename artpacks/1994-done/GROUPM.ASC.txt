@@ -1,0 +1,6 @@
+
+15,01+==========================+ GROUP EDITING COMMANDS +=========================+
+15,01| V) List members of group  C) Change creator  *) Select group  G) Add group  |
+15,01| E) Add members by level   R) Remove member   L) List groups   Q) Quit       |
+15,01| A) Change group class     D) Delete group    M) Add member                  |
+15,01+=============================================================================+

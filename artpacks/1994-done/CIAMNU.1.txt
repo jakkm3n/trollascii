@@ -1,0 +1,49 @@
+15,01@CLS@@X07
+15,01@X0F       @X08m mmmm@X01m@X09m@X03m@X0Bm@X0Fmmm     mm m@X0Bm@X03m@X09m@X01m@X0
+15,018m  m  m   m m@X01m@X09m@X03m@X0Bm@X0Fm mm     mmm@X0Bm@X03m@X09m@X01m@X08mmmm m
+
+15,01@X0F       @X0814,15 15,01           @X0F14,15 15,01     | |   PCB/X    Main Menu   ||     14,15 15,01        
+15,01   @X0814,15 
+15,01@X0F       @X0814,15 15,01 14,15 15,01 """@X01"@X09"@X03"@X0B"@X0F""     "" "@X0B"@X03"@X09"@X01"@X0
+15,018"  " "   "" "@X01"@X09"@X03"@X0B"@X0F" ""     ""@X0B"@X03"@X09"@X01"@X08""" 14,15 15,01 14,15 
+
+15,01@X0F       @X0814,15#15,01 14,15#15,01                                                           14,15#15,01 14,15#
+
+15,01@X0F       @X0800@15 00@15  @X09[@X01A@X09] @X08T@X01o@X09p @X0FTen Stats @X09[@X01L@X09
+15,01] @X08L@X01i@X09s@X07t @X0FUsers        @X09[@X01W@X09] @X08L@X01a@X09s@X07t @X0
+15,01FCallers @X0800@15 00@
+15,01@X0F       @X08# #  @X09[@X01B@X09] @X08B@X01B@X09S @X0FListings  @X09[@X01M@X09
+15,01] @X08M@X01e@X09s@X07s@X0Fage Areas     @X09[@X01X@X09] @X08P@X01r@X09o@X07t@X0F
+15,01ocol     @X08# #
+15,01@X0F            @X09[@X01C@X09] @X08C@X01h@X09a@X07t @X0Fw/Sysop  @X09[@X01N@X09
+15,01] @X08V@X01i@X09e@X07w @X0FNews         @X09[@X01Y@X09] @X08Y@X01o@X09u@X07r @X0
+15,01FStats
+15,01            @X09[@X01D@X09] @X08C@X01D@X09-@X07R@X07@X0FOM Online @X09[@X01O@X09
+15,01] @X08N@X01U@X09V               [@X01Z@X09] @X08Z@X01i@X09p@X07p@X0Fy Scan
+15,01@X09            [@X01E@X09] @X08E@X01m@X09a@X07i@X0Fl Menu    @X09[@X01P@X09] @X
+15,0108D@X01o@X09o@X07r@X0Fs Menu        @X09[@X01-@X09] @X08C@X01h@X09a@X07n@X0Fge M
+15,01enu
+15,01            @X09[@X01F@X09] @X08F@X01e@X09e@X07d@X0Fback      @X09[@X01Q@X09] @X
+15,0108Q@X01u@X09i@X07c@X0Fk Menu        @X09[@X01+@X09] @X08C@X01h@X09a@X07n@X0Fge P
+15,01W
+15,01            @X09[@X01G@X09] @X08L@X01o@X09g@X07o@X0Fff BBS    @X09[@X01R@X09] @X
+15,0108R@X01u@X09m@X07o@X0Frs Menu       @X09[@X01*@X09] @X08C@X01r@X09e@X07d@X0Fits
+15,01            @X09[@X01H@X09] @X08H@X01e@X09l@X07p @X0Fw/ Menu  @X09[@X01S@X09] @X
+15,0108S@X01c@X09r@X07i@X0Fpt Infoforms  @X09[@X01$@X09] @X08D@X01o@X09n@X07a@X0Ftion
+15,01s
+15,01            @X09[@X01I@X09] @X08I@X01n@X09f@X07o@X0Fforms     @X09[@X01T@X09] @X
+15,0108T@X01r@X09a@X07n@X0Fsfer Menu     @X09[@X01%@X09] @X08S@X01y@X09s@X07O@X0Fp Me
+15,01nu
+15,01       @X08# #  @X09[@X01J@X09] @X08J@X01o@X09i@X07n @X0Fa Conf.  @X09[@X01U@X09
+15,01] @X08Q@X01u@X09o@X07t@X0Fe For The Day                  @X08# #
+15,01@X0F       @X0800@15 00@15  @X09[@X01K@X09] @X08U@X01s@X09e@X07r @X0FConfig   @X09[@X01V
+15,01@X09] @X08V@X01o@X09t@X07i@X0Fng Booth                       @X0800@15 00@
+15,01@X0F       @X0814,15#15,01 14,15#15,01                                                           14,15#15,01 14,15#
+
+15,01@X0F       @X0814,15 15,01 14,15 15,01 mmm@X01m@X09m@X03m@X0Bm@X0Fmm     mm m@X0Bm@X03m@X09m@X01m@X0
+15,018m  m  m   m m@X01m@X09m@X03m@X0Bm@X0Fm mm     mm@X0Bm@X03m@X09m@X01m@X08mmm 14,15 15,01 14,15 
+
+15,01@X0F       @X0814,15 15,01           @X0F14,15 15,01     ||  By: @X08T@X01h@X09e @X08D@X01a@X09r@X07
+15,01k @X08S@X01e@X09r@X07v@X0Fant   ||     14,15 15,01 @X01L@X09E@X0FGA@X09C@X01Y    @X0814,15 
+15,01@X0F       @X08" """"@X01"@X09"@X03"@X0B"@X0F"""     "" "@X0B"@X03"@X09"@X01"@X0
+15,018"  " "   "" "@X01"@X09"@X03"@X0B"@X0F" ""     """@X0B"@X03"@X09"@X01"@X08"""" "

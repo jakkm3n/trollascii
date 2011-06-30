@@ -1,0 +1,56 @@
+15,01                                  08-01-94
+15,01                                Site Listing
+
+15,01                          HIGH REZOLUTION'S HEADQUARTERS
+15,01   +---------------------+------------------+--------------+-----------------+
+15,01   | BOARD NAME          |     RANK         |   PHONE #    | SYSOP           |
+15,01   +---------------------+------------------+--------------+-----------------+
+15,01   | Total Corruption    | {World HQ}       | 217-XXX-XXXX | Mr. Muff        |
+15,01   | Satans Realm        | {USHQ}           | 908-XXX-XXXX | Han Chin        |
+15,01   | Shadows Den         | {Net World HQ}   | 217-529-4336 | Altered Destiny |
+15,01   | Corrosive Poison    | {Eastern HQ}     | 516-897-0857 | Psychotic Feind |
+15,01   | Harvest Moon        | {Northern HQ}    | 216-951-7529 | Qu'Ran          |
+15,01   | Electronic Frontier | {Central HQ}     | 913-537-3680 | Net Distortion  |
+15,01   | Pentagon BBs        | {Western HQ}     | 510-xxx-xxxx | Overlord        |
+15,01   | House of Sin        | {App HQ}         | 217-864-4796 | Living Death    |
+15,01   +---------------------+------------------+--------------+-----------------+
+
+15,01                       ..*MEMBERBOARDS & DiSTROS*..
+15,01   +------------------------+-------------+--------------+-------------------+
+15,01   |      BOARD NAME        |    RANK     | PHONE NUMBER |       SYSOP       |
+15,01   +------------------------+-------------+--------------+-------------------+
+15,01   |                        |             |              |                   |
+15,01   |    Cyberphuck          | MemberBoard | ???-???-???? | Satan Claus       |
+15,01   |    Dead Water Zone     | MemberBoard | 908-522-0353 | Xanadu            |
+15,01   |    Limelight           | MemberBoard | 908-528-7781 | Semper Fi         |
+15,01   |    Beyond Death        | MemberBoard | +31-XXX-XXXX | Killer Bee        |
+15,01   |    Operating Room      |  DiSTRO     | 217-428-9803 | The Doctor        |
+15,01   |    Node 2              |             | 217-428-9818 |                   |
+15,01   |    The Beholderz BBS   |  DiSTRO     | 405-250-1329 | Madd Katt         |
+15,01   |    Piractem            |  DiSTRO     | 813-996-3902 | Burning Chrome    |
+15,01   |    The Crystallium     |  DiSTRO     | 609-587-0501 | Leader Quest      |
+15,01   |    Spiritual Void      |  DiSTRO     | 314-349-1566 | Collision         |
+15,01   |    Obejects of Filth   |  DiSTRO     | 703-356-1782 | The Seventh Son   |
+15,01   |    Seeds of Destuction |  DiSTRO     | 413-743-9183 | Phaser-x          |
+15,01   |    Meurte              |  DiSTRO     | 908-647-1093 | Trident           |
+15,01   |    Node 2              |             | 908-647-1194 |                   |
+15,01   |    Apocolypse          |  DiSTRO     | 201-934-5613 | Napalm            |
+15,01   |    Spades Evil Twin    |  DiSTRO     | 609-443-7529 | Beavis            |
+15,01   |    Digital Escape      |  DiSTRO     | 216-655-5367 | Chronos           |
+15,01   |    Lost for Wordz      |  DiSTRO     | XXX-xxx-xxxx | OSiRiS            |
+15,01   |    Corrosive Poison    |  DiSTRO     | 516-897-0857 | Psychotic Feind   |
+15,01   |    ViSAGE              |  DiSTRO     | 708-965-4643 | BrimStone         |
+15,01   |    DiSToRTiON          |  DiSTRO     | 313-426-1986 | HayWood           |
+15,01   |    The Sanitarium      |  DiSTRO     | 501-327-9069 | Puppet Master     |
+15,01   |    Major Destruction   |  DiSTRO     | 414-964-1366 | Dragon            |
+15,01   |    Green Hell          |  DiSTRO     | 701-523-5909 | Evilive           |
+15,01   |    Cell Block 4        |  DiSTRO     | 815-282-8732 | Malicious Intent  |
+15,01   +------------------------+-------------+--------------+-------------------+
+
+
+
+15,01          Site Listing for 08-01-94 If your board wasn't mentioned call
+15,01          House of SiN and apply. If you already applied for a site and
+15,01          your board is not mentioned call Total Corruption and re-upload
+15,01          your app as a file, and upload it to the right place, that's why
+15,01          you wasn't mentioned.

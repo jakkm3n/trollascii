@@ -1,0 +1,80 @@
+15,01        
+15,01        Here we are again.  This is 'Visions of Reality (VOR)'s third pack.  
+15,01Again, it's been a busy month.  An additional senior member was added to the
+15,01list.  Congradulate Hollow Point if you see him.  Not only is he a great ANSI
+15,01artist, but he has shown great leadership skills while heading the ANSI divi-
+15,01sion.  This month people were held back because of mid-terms.  I know, excuses
+15,01don't do any good, but people have been busy studying all month.  In the end,
+15,01we still got the job done for the month and have quite a bit for the pack.  
+15,01We have decided that we are going to release the mods in a seperate pack, for
+15,01last month, the mods made up over one meg of pack (which was large enough so
+15,01that the couriers (TURBINE) had to cut the whole pack by a meg).  Not much
+15,01has gone on internally for us besides for the promotion of HP.  We have a
+15,01new application generator, thanks to Asterix.  I'm not going to waste your
+15,01time anymore with telling you guys about our backround (read the other nfo 
+15,01files in our other packs for that), so I guess that's it.  I'll let the pack
+15,01say the rest.
+15,01                                                        Widow Maker
+
+15,01        I must say that we've come a long way from when we began with only
+15,01four members about half a year ago. I would like to say that VOR is very
+15,01sorry about creating a pack that was just way too big. We hope that our
+15,01efforts this month with shortening the pack help the couriers & the average
+15,01user with less of a hassle to download our pack. Another thing I would like
+15,01to mention is that VOR will be mentioned in the upcoming release of
+15,01corruption. Thanks to CX, for allowing us to present an article about us and
+15,01all. This pack is kinda small this month due to quite a few reasons. Mainly
+15,01because of semester finals, and also due to several internal changes.
+15,01Overall though it seems that this pack has improved quite a bit. Hollow
+15,01Point again has managed to produce a hell of a lot more ansi's than anyone
+15,01else in the group, creating a sort of imbalance, but with excellent art as
+15,01always. One more thing I would like to mention is that VOR now has two
+15,01seperate packs. One for art, and the other filled with kick-ass MODs created
+15,01by our composers. So be sure to check out that mod pack.
+15,01That's all I've got for now...enjoy the pack.
+
+15,01                                                        Dark Wolf
+
+15,01                            Members List
+
+15,01+==========================================================================+
+15,01| Member Name               Position of Member                             |
+15,01|==========================================================================|
+15,01|                                                                          |
+15,01| Dark Wolf...................President/VGA Artist/ANSI Artist/Mod Writer  |
+15,01|                                                                          |
+15,01| Venom.......................Council Member/Co-VGA Head                   |
+15,01|                                                                          |
+15,01| Widow Maker.................Council Member/ANSI Artist/Co-VGA Head       |
+15,01|                                                                          |
+15,01| Hollow Point................Council Member/ANSI Head                     |
+15,01|                                                                          |
+15,01| Sinister Outlaw.............Head Coder                                   |
+15,01|                                                                          |
+15,01| Alexei R....................Raytracer/VGA Artist                         |
+15,01|                                                                          |
+15,01| Scythe......................ANSI Artist/Mod                              |
+15,01|                                                                          |
+15,01| Grim Reaper.................Raytracer                                    |
+15,01|                                                                          |
+15,01| MuttonHead..................VGA Artist/Mod Head                          |
+15,01|                                                                          |
+15,01| Tommy Lee...................ANSI Artist                                  |
+15,01|                                                                          |
+15,01| Humble......................Mod Musician                                 |
+15,01|                                                                          |
+15,01| Insector-X..................ANSI Artist                                  |
+15,01+==========================================================================+
+
+
+15,01Note to Members:  If your name isn't on the list this month, it's because
+15,01                  we didn't see any art from you.  
+15,01              
+
+15,01                                Distro Sites
+15,01  
+15,01  +========================================================================+
+15,01  |                                                                        |
+15,01  | Board Name                   Number              SYSOP         Position|
+15,01  |                                                                        |
+15,01  |========================================================================|

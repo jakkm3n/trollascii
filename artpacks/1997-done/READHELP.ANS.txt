@@ -1,0 +1,23 @@
+15,01                     iNiQUiTY Message Reading Command Help
+15,01                              14(Temporary Version)
+00,01Message Reading Commands:
+
+15,01       00Enter  15Advance to the next message
+15,01       00-15      Backs to the previous message
+15,01       00?15      Display this help screen
+15,01       00A15      Display the current message over again
+15,01       00D15      Delete or undelete the current message 14(if yours)
+15,01       00E15      Edit current message 14(if yours)
+15,01       00H15      Set HiRead (NewScan pointer) to current message
+15,01       00I15      Ignore remaining messages 14(quit ans set pointer to newest)
+15,01       00L15      List messages
+15,01       00P15      Posts a message in the current message area
+15,01       00Q15      Quit reading messages
+15,01       00R15      Reply to the current message 14(private or public)
+15,01       00X15      Extract message to file for download
+15,01       00U15      Edit author of current message 14(sysops only)
+15,01       00S15      Skip this area and goto next 14(newscan)
+
+15,01       00###    15You may also type the number of any message to jump
+15,01                 directly to that message
+14,01--

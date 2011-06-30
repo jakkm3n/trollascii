@@ -1,0 +1,76 @@
+
+
+15,01               04m    "15                                      04"    m
+13,01m14,13  13,01m15       04mm"   00"""14,00         00,01""""""14,00             00,01"""14,00  00,01mm15       00mm14,00  00,01"00,04""15,01       13m14,13  13,01m
+13,01"14,13   13,01m   04m13,04# 04,01"15         00,00#14     00#15,01        00,00#14   00#00,01"""""14,00  00,01    "00,00 ##00,01m   m00,00##14 00,01"   04"14,04 13#04,01m   13m13,13 14  13,01"
+13,01  "14,13 13,01" m04,04@@04,01"15           15,15@00,00#####15,15@15,01        15,15@00,00###15,15@15,01  m   14,00 15,01      00"00,00##15,15@00,01m15,15@00,00##00,01"15       04"04,04@@13,01m "13,13 13,01"
+13,01    m13,13##04,04@15,01             00,15#15@@@@@00#15,01        00,15#15@@@00#14   15,01           m15,15@@00#15@@15,01m          04,04@13,13##13,01m
+13,01   13,13   #15,01 04m04,04@04,01m15          04,15 00##### 15,01        00,15 ### 15,01  "         m15,15@00##15,01" "00,15##15@15,01m     04m04,04@04,01m 13,13#14   
+13,01  13,13    13,01|  04""13,04#04,01m15       m15,15       15,01m      m14,15 15   14 15,01m         m00,15#  15,01"     "15,15  00#15,01m 04m13,04#04,01""  13|14,13    
+13,01   """15       04"   04,15m15,01"""""""""""""""""""""""""""""""""""         04m15""""""     13"""
+15,01                      04"15                                  04"    14ThunderHawk [15IFX14]
+
+
+
+00,01y0y0y0y0y0
+
+00,01  Allrighty then.  This is the first pack put out by a new group called iFX -
+00,01iLLEGAL F/X(notice the k-p3n1s spelling).  We were originally in a group called
+00,01EXILE.  Most of the members in iFX were in EXILE.  We have some talented new
+00,01artists that were added to the group namely Shatterstar and Scythe, who have
+00,01been only doing ANSI's for several months now.  Anyways well we are off to a
+00,01good start.  Oh in the loader SO-TH.EXE, at the end of it, it says you can reach
+00,01us, on the internet, at ifx@axposf.pa.dec.com.  Well you can no longer reach us
+00,01there do to the fact that the System Administrators decided to take away mail
+00,01priviledges.  Oh well.  Anyways, we have listed our net addresses at the bottom
+00,01of this NFO.
+00,01  Ok.  This (mini)pack was released to make artists of all type aware of our
+00,01presence in the underground art community.  This pack was also put together
+00,01to get more applicants for our group.  It doesn't matter wether you are LD or
+00,01not we will get in touch with.  That is what k0dez are for..:)  Ok greets go out
+00,01to Mercenary an Ex-EXILE member who let us have one of his MODS, that he did for
+00,01EXILE, so that we could have atleast one MOD in our pack...:)
+
+
+
+
+00,01+========================+===============================+
+00,01| Files15                  00| File Descriptor(s)15            00|
+00,01+===============+========+===============================+
+00,01| CH-SOH   GIF  | 167892 | South of Hell VGA.15            00|
+00,01| CONFIG   DAT  |    710 | Data for iFXVIEW.15             00|
+00,01| DELUSION EXE  |  26223 | Delusions Loader.15             00|
+00,01| FILE_ID  DIZ  |    507 | File iDEEZ.15                   00|
+00,01| HENDRIX  MOD  | 132650 | Jimi Hendrix MOD - Mercenary. |
+00,01| IFX15      00NFO  |   4109 | This iNFO file.15               00|
+00,01| IFXAPP   EXE  |  49040 | VGA iFX Application Generator.|
+00,01| IFXVIEW  ZIP  |   5991 | iFX ANSI Viewer.15              00|
+00,01| IX-LOGO  IFX  |   2957 | An ANSI iFX logo.15             00|
+00,01| MEM-0694 IFX  |   4608 | Complete members listing.15     00|
+00,01| SC-FILTH IFX  |  15702 | Objects of Filth ANSI.15        00|
+00,01| SC-WOLV  IFX  |  14529 | Wolverine ANSI.15               00|
+00,01| SD-GHOST GIF  |   9444 | A VGA iFX ad.15                 00|
+00,01| SD-LOGO  GIF  |  19587 | A VGA iFX logo.15               00|
+00,01| SO-TH    EXE  |  24865 | iFX Loader by SO & TH.15        00|
+00,01| SS-BONE  IFX  |  10994 | Fone Bone ANSI.15               00|
+00,01| SS-MAXX  IFX  |  16963 | Maxx ANSI.15                    00|
+00,01| SS-MHAT  IFX  |  10230 | Add for Madd Hatter BBS.15      00|
+00,01| SS-ROGUE IFX  |  22354 | ANSI of Rogue.15                00|
+00,01| TH-LOGO  IFX  |   1115 | iFX Logo.15                     00|
+00,01+===============+=========================+==============+
+00,01|15        0022 file(s)15     00539620 bytes15      00|
+00,01+=========================================+
+00,01+====+================+================================+
+00,01| CH | Chaos15          00|cha@netcom.com15                  00|
+00,01| IX | Insector-X15     00|15                                00|
+00,01| SC | Scythe15         00|15                                00|
+00,01| SD | Shadowdancer   |sdancer@cybernet.cse.fau.edu    |
+00,01| SO | Sinister Outlaw|15                                00|
+00,01| SS | Shatterstar    |15                                00|
+00,01| TH | Thunderhawk    |thunhawk@netcom.com15             00|
+00,01+====+================+================================+
+
+
+
+00,01Greets -
+00,01 Go out to all yall mutha fuckas.

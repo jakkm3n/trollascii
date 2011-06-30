@@ -1,0 +1,80 @@
+15,01Archive: HAV-0494.ZIP
+15,01+----+------------+---------+------+-----------------------------------------+
+15,01| #  |FileName Ext|  Bytes  | Data |           Description/Artist            |
+15,01+----+------------+---------+------+-----------------------------------------+
+15,01| 01 |VIOLET   669|  216,291|M     |Epic                      Violet XTC 669 |
+15,01| 02 |GK-PLUCK ANS|    3,732|E     |Gatekeeper                   Plucky Duck |
+15,01| 03 |NB-ACROP ANS|   15,060|E     |Nightbreed                 The Acropolis |
+15,01| 04 |NB-FD2   ANS|   22,161|E     |Nightbreed               Faster Disco ][ |
+15,01| 05 |NB-HAV   ANS|    1,307|      |Nightbreed                    Havok Logo |
+15,01| 06 |NB-STATS ANS|    1,897|      |Nightbreed             Skull Stat Screen |
+15,01| 07 |SW-BILL  ANS|   20,375|E     |Sword Weaver                   Billiards |
+15,01| 08 |SW-CENT  ANS|   11,254|E     |Sword Weaver                Center Court |
+15,01| 09 |SW-SQCRC ANS|   16,086|E     |Sword Weaver          The Squared Circle |
+15,01| 10 |SW-STAT  ANS|    6,267|      |Sword Weaver       Dinosaur Stat Screens |
+15,01| 11 |SW-VIS   ANS|   10,935|E     |Sword Weaver                  The Visage |
+15,01| 12 |SW-VR    ANS|   16,975|E     |Sword Weaver             Virtual Reality |
+15,01| 13 |TR-ACROP ANS|   10,778|E     |The Replicant              The Acropolis |
+15,01| 14 |TR-APOC  ANS|   13,317|E     |The Replicant            Apocalypse 2000 |
+15,01| 15 |TR-ICE   ANS|   16,942|E     |The Replicant                    ICE BBS |
+15,01| 16 |TR-KMA   ANS|    2,575|      |The Replicant                KMANet Logo |
+15,01| 17 |TR-RSTRC ANS|    6,444|E     |The Replicant      Restrictions Downfall |
+15,01| 18 |TS-ACROP ANS|    2,998|      |The Stalker           The Acropolis Logo |
+15,01| 19 |TS-ZYR   ANS|   16,111|E     |The Stalker                        Zyrox |
+15,01| 20 |HV       COM|    2,056|      |Techie           Havok ANSi Viewer v1.02 |
+15,01| 21 |FILE_ID  DIZ|      339|      |Sneaky Car Thief     File Identification |
+15,01| 22 |DT-HAV   GIF|  176,388|      |Daytripper                 "Liquid Face" |
+15,01| 23 |DT-HAV2  GIF|   79,809|      |Daytripper              "Geometric Hell" |
+15,01| 24 |PK-HAV1  GIF|   51,780|      |Perkman              Havok Advertisement |
+15,01| 25 |ZP-JH    GIF|    7,855|      |Zaphod                        Havok Face |
+15,01| 26 |ZP-LOGO  GIF|    8,787|      |Zaphod               Havok Grafitti Logo |
+15,01| 27 |ZP-SWDLG GIF|    5,394|      |Zaphod                  Havok Sword Logo |
+15,01| 28 |DES-SUN  LIT|    1,188|      |Destiny                            'Sun' |
+15,01| 29 |DES-TEAR LIT|      441|      |Destiny                           'Tear' |
+15,01| 30 |DP-1     LIT|    1,503|      |Dead Puppy                  Havok Lit #1 |
+15,01| 31 |DP-2     LIT|    1,144|      |Dead Puppy                  Havok Lit #2 |
+15,01| 32 |DP-3     LIT|    1,351|      |Dead Puppy                  Havok Lit #3 |
+15,01| 33 |DP-4     LIT|    1,114|      |Dead Puppy                  Havok Lit #4 |
+15,01| 34 |FF-1     LIT|      526|      |FrizzleFry                      Havok #1 |
+15,01| 35 |FF-UNTIL LIT|      795|      |FrizzleFry                       'Until' |
+15,01| 36 |FL-FLAME LIT|      834|      |Flame                            'Flame' |
+15,01| 37 |SP-10    LIT|    3,593|      |Spock                               '10' |
+15,01| 38 |SP-MAC   LIT|      713|      |Spock                          'Macbeth' |
+15,01| 39 |SP-SPACE LIT|      721|      |Spock                            'Space' |
+15,01| 40 |SP-WELL  LIT|      936|      |Spock                          'Welfare' |
+15,01| 41 |ZP-AUDIO LIT|      634|      |Zaphod                        'Feedback' |
+15,01| 42 |ZP-BEGIN LIT|      319|      |Zaphod                       'Beginning' |
+15,01| 43 |ZP-CLOUD LIT|      621|      |Zaphod                           'Cloud' |
+15,01| 44 |ZP-DINO  LIT|      664|      |Zaphod                 'Sex With a Dino' |
+15,01| 45 |ZP-DRUNK LIT|      721|      |Zaphod                           'Drunk' |
+15,01| 46 |ZP-HAV   LIT|      709|      |Zaphod                        Havok Poem |
+15,01| 47 |ZP-RUSH  LIT|      483|      |Zaphod                            'Rush' |
+15,01| 48 |ZP-SHADO LIT|      748|      |Zaphod                         'Shadows' |
+15,01| 49 |ZP-SVFSH LIT|      302|      |Zaphod                      'Silverfish' |
+15,01| 50 |S-HAV    MOD|   19,315|M     |Satch                Havok Techno Mod #1 |
+15,01| 51 |ART-0494 NFO|    6,197|      |                        File Information |
+15,01| 52 |MEM-0494 NFO|    5,771|      |NightBreed            April 1994 Members |
+15,01| 53 |NEW-0494 NFO|    6,172|      |Sneaky Car Thief     Newsletter Issue #1 |
+15,01| 54 |BHH-TSC  RIP|  149,591|@     |Hitman                The Squared Circle |
+15,01| 55 |BHH-VOID RIP|   16,172|@     |Hitman                            "Void" |
+15,01| 56 |STYLUS   TXT|    5,934|      |Zaphod                          'Stylus' |
+15,01| 57 |SW-RGMNU ZIP|    5,436|B     |Sword Weaver           Renegade Menu Set |
+15,01+----+------------+---------+------+-----------------------------------------+
+
+15,01            +-----------+ Data Legend +-----------------------+
+15,01            |                                                 |
+15,01            |              M = Music/Sound Effects            |
+15,01            |              @ = Animated/ANSiMated             |
+15,01            |              E = ANSi Exceeds 25 Lines          |
+15,01            |              B = Imbedded Archive               |
+15,01            |                                                 |
+15,01            +-------------------------------------------------+
+
+15,01       +========+ Stats +==========================================+
+15,01       |                                                           |
+15,01       |     Total Bytes (ALL Archives Uncompressed): 856,706      |
+15,01       |      Total Files(Including Imbedded Archive{s}): 57       |
+15,01       |         Largest File :VIOLET.669 - 216,291 Bytes          |
+15,01       |          Smallest File:ZP-SVFSH.LIT - 302 Bytes           |
+15,01       |           Average Bytes Per File: 13,386 Bytes            |
+15,01       |            Total Bytes Zipped:  482,183 Bytes             |

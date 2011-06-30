@@ -1,0 +1,53 @@
+15,01Murphy's Laws of BBS'ing
+
+15,01   * The day after you buy the fastest new modem, they will change the
+15,01     standard so that your modem can only talk to modems of the same brand
+15,01     (only 100 of which were ever sold).
+15,01 
+15,01   * The factory will ship the wrong manual with your modem and you will
+15,01     spend hours finding and setting dip switches that aren't even on your
+15,01     modem.
+15,01 
+15,01   * However the modem comes set from the factory, it will be the WRONG way
+15,01     to work on your machine.
+15,01 
+15,01   * No matter what solution you devise to fix a problem with your modem,
+15,01     it will lead to the creation of at least four other problems.
+15,01 
+15,01   * Whenever a caller has problems using the BBS, the user will insist the
+15,01     problem is on the sysop's side and the sysop will insist the problem
+15,01     is on the caller's side.
+
+15,01   * If you fail to follow the advice of more experienced modemers and use
+15,01     the same password on every BBS you call, someone will steal your
+15,01     password and make lewd comments about the sysop's mother on the boards
+15,01     you WERE on.
+15,01 
+15,01   * If you DO follow the advice of more experienced modemers and use a
+15,01     totally different password on every BBS you call, you will forget the
+15,01     password of the board where your date has left a message telling you
+15,01     where to meet them tonight.
+15,01 
+15,01   * Your spouse, who rarely visits you at your computer, will stop by at
+15,01     the exact moment you've receive a flirtatious page from another
+15,01     user...You REALLY have never chatted with them before!
+15,01 
+15,01   * You will always forget to disable call waiting when connected to a
+15,01     pay-by-the-minute BBS.
+15,01 
+15,01   * A truely great BBS is either illegal, immoral, or long distance from
+15,01     you.
+15,01 
+15,01   * If a file takes more than 30 minutes to download, someone in your
+15,01     house will pick up the phone within the last 15 seconds.
+15,01 
+15,01   * No matter how neutral the topic, your message will offend SOMEONE.
+15,01 
+15,01   * The first time you forget to scan your file downloads for viruses will
+15,01     be the first time in your life you'll actually get a virus.
+15,01 
+15,01Happy Modeming!
+15,01 
+15,01--------------------------------------------------------------------------- 
+
+15,01Copyright + 1995 Logon: Sacramento's BBS News Connection

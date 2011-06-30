@@ -1,0 +1,80 @@
+15,01#00@@@14,15##### ##  #                                                 #  # ## ####00,01@@15#
+00,01@@14,15### #                                                                    ###00,01@
+14,15##15,01"  ""14,15               15,01"14,15    15,01m      "|       ""14,15 15,01   "14,15       15,01    m14,15                #
+14,15 15,01             """14,15 15,01       ""14,15 15,01  #####      ###           ""      """""14,15        15,01"""
+15,01     ###########    ######   00@@@@@@15# ####00@15#00@@@@14,15######15,01#########00@@@@@15  """"   00@@15 
+15,01  ###00@@@@@@@@@@15# ####00@@@@@@14,15########00,01@15#00@@@15m14,15#00,01@14,15#####   15,01| 00@15#00@@@15 #00@@14,15#######15,01#00@@15  |14,15####
+15,01##00@@@@14,15###15,01mm""14,15###15,01##00@@@14,15######   15,01"14,15    #00,01@14,15##15,01  14,15 ##15,01" 14,15     15,01| 14,15#00,01@14,15###15,01 00@14,15###15,01"14,15    #00,01@14,15##15,01   14,15    
+15,01#00@@14,15####15,01""14,15   15,01 """00@@14,15#### 15,01"  "14,15 15,01"  |14,15    # # 15,01m "14,15     15,01"14,15  15,01|m14,15 ##  15,01 14,15#   15,01||14,15    #  15,01   14,15    
+00,01@14,15###   15,01"mm mm14,15#15,01m|14,15###    15,01    mm" """ 14,15    15,01""   ""  m14,15   15,01 ""14,15   15,01m14,15   15,01""|14,15        15,01mm14,15    
+14,15##     15,01  14,15 15,01  "  14,15        15,01| #m#""mm   ""    m#mm       m      "    |14,15     15,01""14,15    15,01"14,15  
+14,15#      15,01   14,15#15,01mm14,15           15,01m 00@15 _m  ""14,15 15,01m mm""    ""mmm14,15#15,01"||  mm"m    ""14,15    15,01|      14,15  
+14,15       15,01mm14,15         15,01"""      14,15#15,01  ""m14,15##15,01m"  m"_m     mm#  "#"    14,15 15,01                14,15  
+14,15               15,01      mmmm""" "m   # "m"    "mm""mm""m     mm 14,15 15,01mm14,15 15,01     14,15   15,01    14,15 15,01|
+15,01|14,15              15,01  00@15"""    mmmmm|               ""     "mm"" 14,15#15,01     "#   "14,15  15,01m_ #" 
+15,01 14,15         15,01""  mmm14,15 #15,01   """                                   00@15mmm14,15 15,01  14,15#15,01m         #
+15,01%|14,15     15,01" mmm""     14,15 15,01  %%---------------------------% _ %-----%-% 14,15 15,01m 00@15""mm"  m"%
+15,01| "14,15  15,01mm""     mm""""      e    m    p    a    t    h    y   #     || #  mm""  |
+15,01%-% ""14,15 15,01mmmm""" %%%-------------------------------------------% " % 14,15 15,01mm"" %----%
+15,01       ""14,15 15,01      _m                                                "            
+15,01        ""#m"
+15,01                             empathy v0.97 pub                                 
+
+15,01               programmed / designed by grant passmore (skaboy)                
+15,01    interface artwork by creator, knocturnal, zuessII, sinisterx, rzicus,      
+15,01                              avenger and more                                 
+
+15,01                  Copyright grant passmore (skaboy) 1998-2003                 
+15,01                      a proud member of the acid family                        
+
+15,01        Note - this is not meant to be any type of full documentation,         
+15,01     just some notes / info for you to consider (hence the file extension)     
+
+15,01 %%%----------------------------------------------------------------------%%%  
+15,01 |  what's new in this version?                                             |  
+15,01 %%%----------------------------------------------------------------------%%%  
+
+15,01 Release Notes:                                                                
+
+15,01 At last I again have time to work on Empathy! Developing Empathy was without  
+15,01 a doubt one of the best experiences I've ever had in the bbs/art scene.  It's  
+
+15,01 been so much fun relearning and rediscovering my coding past and just getting 
+15,01 back into this whole realm that was such an important part of all of our      
+15,01 teenage years.  Time is incredibly hard to come by for me these days (I now    
+
+15,01 am a Philosophy, Mathematics, & Computer Science triple major at the Univ.    
+15,01 of Texas at Austin) and working like crazy, so I must apologize for the time  
+15,01 its taken me to even get this early beta of the new Empathy out.  I will do    
+
+15,01 my very best to continue development in a much more timely fashion and thank  
+15,01 you all so much for your input and patience.                                  
+
+15,01 Next I will do my best to list what is new in this release.  Most of these    
+15,01 have been requested by users; I will credit the requester in parenthesis      
+15,01 where appropriate (Thank you testers!).                                       
+
+15,01 New in this beta (12/30/2002):
+
+15,01  Bug fixes:                                                                   
+
+15,01  [x] Fixed cosmetic saving blue line text input bug. Thanks!                  
+15,01  [x] Empathy now assumes that you wish to use available XMS instead of        
+15,01      demanding 4megs and then allowing you to specify if it should fight for  
+15,01      what's left in an allocation failure. This means no more "/small"         
+
+15,01      command for everyone with an NT/XP based system. "/small" has been       
+15,01      phased out and its equivalence in XMS allocation is assumed.             
+15,01  [x] Fixed ASCII/Text saving bug. ASCII text files saved in Empathy now       
+15,01      display accurately in standard text editors (req: radman).               
+15,01  [x] New fast direct screen input/output routines; fixed retrace bug.         
+15,01  [x] Fixed SAUCE loading bug!! (req: tasmaniac/radman).                       
+15,01  [x] Fixed SAUCE saving bug!! (found and fixed on 12/03/02 4:23am).           
+15,01                                                                               
+15,01  [x] Alt+A screen now displays correct XBiN/ADF palette for attribute         
+15,01      selection (req: radman).                                                 
+15,01  [x] Excess lines in save fixed via Alt+Q (see below). (req: radman).         
+15,01  [x] Added Alt+> & Alt+< confirmation. Not really a bug, I will double list.  
+15,01      (req: radman; Note: > and < denote right and left arrows, not carats)    
+15,01                                                                               
+15,01  New Features / Commands:                                                     

@@ -1,0 +1,27 @@
+
+15,01   All works and applications by ACiD are copyright (c)ACiD Productions(tm).
+
+15,01   All media are for the personal use  of  members and public.  Unauthorized
+15,01   selling or distribution (including but not limited to CD-ROM), commercial
+15,01   use  or  publication  without  express  written  permission  is  strictly
+15,01   prohibited.
+
+15,01   You may freely distribute and  copy  our productions provided that no fee
+15,01   is charged and  the  distribution  archives  of  our productions contains
+15,01   unmodified copies of the original  files as produced by ACiD Productions.
+15,01   Pay Bulletin Board Systems may, however, charge their normal fee provided
+15,01   that no additional  charge for our productions is levied.  No part of our
+15,01   productions may be modified,  altered,  reverse engineered, sold, or dis-
+15,01   tributed in any form whatsoever  which  would  involve some sort of trade
+15,01   without prior written permission from ACiD Productions.
+
+15,01   Our productions are provided  "as  is",  without  warranty of any kind or
+15,01   fitness for a  particular  purpose,  either  expressed or implied, all of
+15,01   are hereby  explicitly  disclaimed.  ACiD  only  guarantees that our pro-
+15,01   ductions will occupy disk space.
+
+15,01   In no way can  ACiD Productions  or  it's members be made  liable for any
+15,01   damages  that  are  caused by our productions.  You are  using  our  pro-
+15,01   ductions at your own risk!
+15,01>SAUCE00ACiD Productions' Legal Disclaimer ACiD Staff          ACiD Productions 
+15,01   19970501zA  @ P v                             

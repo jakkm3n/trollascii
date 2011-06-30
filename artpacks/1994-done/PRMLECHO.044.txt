@@ -1,0 +1,59 @@
+15,01         mmmmmmmmmm   mmmmmmmmmm   mmmm mmmm        mmmm       m mmmm
+15,01         14,15           15,01m 14,15           15,01m 14,15    15,01 14,15     15,01m    m14,15     15,01     m14,15  15,01 14,15    
+15,01                "14,15    15,01        "14,15    15,01      14,15       15,01mm14,15       15,01   m14,15    
+15,01 mmmmmmm mmmm m  14,15    15,01 mmmm m  14,15    15,01 mmmm 14,15    15,01"14,15      15,01"14,15    15,01 m14,15      15,01 mmmm mmmmmmmm
+15,01 mmmmmmm 14,15    15,01mmm14,15     15,01 14,15    15,01mmm14,15     15,01 14,15    15,01 14,15    15,01  "14,15  15,01"  14,15    15,01 14,15       15,01 14,15    15,01 mmmmmmm
+15,01  mmmmmm 14,15          15,01"  14,15          15,01"  14,15    15,01 14,15    15,01 mmmmmm 14,15    15,01 14,15 15,01" 14,15    15,01 14,15    15,01 mmmmmmmmm
+15,01 mmmmmmm ##14,15  15,01 mmmmmmm ##14,15  15,01 m "14,15   15,01m ##14,15  15,01 ##14,15  15,01 mmmm   14,15    15,01 mm 14,15  15,01## ##14,15  15,01 mmmmmmmm
+15,01         00@@14,15  15,01         00@@14,15  15,01    14,15    15,01 00@@14,15  15,01 00@@14,15  15,01     m14,15 15,01 14,15    15,01    14,15  00,01@@15 00@@14,15  
+15,01         14,15##  15,01         14,15##  15,01    14,15    15,01 14,15##  15,01 14,15##  15,01   m14,15   15,01 14,15    15,01    14,15  ##15,01 14,15##  15,01mmmmm
+15,01         14,15    15,01         14,15    15,01    14,15    15,01 14,15    15,01 14,15    15,01  14,15    15,01" 14,15    15,01    14,15    15,01 14,15         
+15,01         ####         ####    #### #### ####  ####  ####    #### #########
+
+15,01                     ITS TIME TO HAVE A NEW REIGN OF POWER
+
+15,01                       PrimalNET Official Echolist
+15,01                            rev.044 - 1/15/94
+
+15,01         Echo Base             Conf Tag  Info             Descriptions
+15,01         ---------             --------  ----             ------------
+15,01  +--------------------------++--------++--++---------------------------------+
+15,011 |  General                 ||TPO-GNRL||  ||General Chatter W/out BBS ads!   |
+15,012 |  Cracking                ||TPO-CRCK||  ||Hints On cracking and Questions  |
+15,013 |  Ansi/VGA                ||TPO-ARTS||  ||Ansi/VGA Chatter and other Art   |
+15,014 |  Sports Conflict         ||TPO-SPRT||  ||Team Support base, Conflicts     |
+15,015 |  H/P/C/A/V               ||TPO-EVIL||  ||Hack,Phreak,Card,Anarchy,Virus's |
+15,016 |  Art of Revenge          ||TPO-RVNG||  ||Strike back Discussion           |
+15,017 |  Weaponry                ||TPO-WPON||  ||For Protection, Theft, Killings  |
+15,018 |  Buy/Sell                ||TPO-SALE||  ||Ads for selling Items            |
+15,019 |  Console Games           ||TPO-CONS||  ||Genesis,SNES and other Consoles  |
+15,0111|  Other Boards            ||TPO-ADDS||  ||BBS ADS HERE! Board Conflicts    |
+15,0112|  Music                   ||TPO-MUSC||  ||RaP,Metal,Clasical,Disco, Etc    |
+15,0113|  Role Playing Games      ||TPO-RPGS||  ||Dugeon & Dragons, and other RPG's|
+15,0114|  DOS Discussion          ||TPO-DOSD||  ||DOS applications discusion etc   |
+15,0115|  Italian Connection      ||TPO-EURO||  ||MultiLanguage Connection to Italy|
+15,0116|  Movies                  ||TPO-MOVI||  ||Movie's to see, Discusion        |
+15,0117|  0-7 Day Review          ||TPO-WARZ||  ||o-7 day Warez Reviews by Users   |
+15,0118|  Rumurs                  ||TPO-RMRS||  ||Latest board Gossip, Board Busts |
+15,0119|  Human Sexuality         ||TPO-SLUT||  ||Sexual topics                    |
+15,0120|  Racism                  ||TPO-RACE||  ||Gays, Blacks, Whites, Females,etc|
+15,0121|  World Occurances        ||TPO-NEWS||  ||Wars, Assasins, World Events     |
+15,0122|  Controlled Substances   ||TPO-DRUG||  ||Drugs, Alcohol                   |
+15,0123|  Comic's Sports/Hobies   ||TPO-HOBY||  ||Recreation and Hobies            |
+15,0124|  Programming             ||TPO-PRGM||  ||Pascal,C++,Basic,Assembly,etc    |
+15,0125|  tPo Public              ||TPO-PBLC|| #||PRiMAL public Discussion, Request|
+15,0126|  tPo Private             ||TPO-PRIV||P#||PRiMAL private Discussion        |
+15,0127|  PCB, Other BBS, Support ||TPO-PCBD|| *||Support for PPE's, BBS UTILS     |
+15,0128|  TRSI Public             ||TPO-EDGE||R ||TRA Couriers, TRSi Releases etc. |
+15,0129|  Echo Testing Base       ||TPO-TEST||P ||Test echo's here.                |
+15,0130|  MiRAGE '93              ||TPO-MIRG||- ||MiRAGE[ART] Public.              |
+15,01  +--------------------------++--------++--++---------------------------------+
+
+15,01+---+ +---------+
+15,01|TAG| | Meaning |
+15,01+---+ +---------+
+15,01  *    New Base
+15,01  -    Deleted Base
+15,01  #    Group Base
+15,01  P    Private Base
+15,01  R    Renamed!

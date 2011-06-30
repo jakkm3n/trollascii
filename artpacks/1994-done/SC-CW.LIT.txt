@@ -1,0 +1,32 @@
+15,01                           03You can smell the decay,
+15,01                           09As you step up the way,
+15,01                             08A 09green 08glowing ooze,
+15,01                          00And some old smelly shoes.
+15,01                             03That's all you see,
+15,01                            09But the waste and such
+15,01                           08Some soil here and there,
+15,01                            00But there is not much.
+15,01                             03A slew of chemicals,
+15,01                            09Thrown left and right,
+15,01                          08A hand grabs your shoulder,
+15,01                          00You turn with great fright.
+15,01                               03No need to fear,
+15,01                               09I am a kind soul,
+15,01                              08My name is Hammer,
+15,01                            00And I've paid the toll.
+15,01                           03I entered here long ago,
+15,01                            09When I was once young,
+15,01                         08I've been trapped here since,
+15,01                          00To this land I have clung.
+15,01                            03The land you see here,
+15,01                          09Was once filled with power,
+15,01                          08Now it's just a wasteland,
+15,01                            00And you start to cowar.
+15,01                                 03You, my son,
+15,01                            09A once wise young man,
+15,01                         08You're trapped here forever,
+15,01                          00In the Chemical Wasteland.
+
+
+15,01                                                     00-03S09c08e00o
+15,01                                                    14[00N03I09T08R00O14]

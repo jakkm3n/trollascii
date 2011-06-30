@@ -1,0 +1,50 @@
+
+14,01..02..12#10#---12---02---+  +-+15                                      02+-+
+15,01      10The Smile02|  +-|---12--------10---------------12---------02---|-++-+
+14,01..02.#12#10#---12---02---|-++-|---12--------10---------------12---------02---|--|-+
+15,01               02+-++-+15                                      02|  |
+15,01      14Through the passage of time15                          02|  |
+15,01      14Through space and the sectors unknown15                02|  |
+15,01      14Man has matured, all for the better15                  02|  |
+15,01      14And with a smile of gratitude15                        02|  |
+15,01      14His fortune is told15                                  02|  |
+15,01                                                           12|  |
+15,01      14Though many men strive for the crown15                 12|  |
+15,01      14Though that time has passed and far gone15             12|  |
+15,01      14We still continue tp strive to be king15               12|  |
+15,01      14And with a smile of determination15                    12|  |
+15,01      14Our fortunes are told15                                12|  |
+15,01                                                           12|  |
+15,01      14And lovers, as they lay quietly together15             12|  |
+15,01      14And as lovers do, they embrace and they share15        10|  |
+15,01      14They together can conquer the world15                  10|  |
+15,01      14And with smiles of exceptance and care15               10|  |
+15,01      14Their fortunes are told15                              10|  |
+15,01                                                           10|  |
+15,01      14And with the atheletes, all sturdy and robust15        10|  |
+15,01      14And their paths to become great legends15              10|  |
+15,01      14So that they will never be forgotten15                 10|  |
+15,01      14And with a smiles of victory and defeat15              10|  |
+15,01      14Their fortunes are told15                              10|  |
+15,01                                                           12|  |
+15,01      14And so be the men we do not see15                      12|  |
+15,01      14And their works we all accept but do not admire15      12|  |
+15,01      14These men lead lives of confusion and pain15           12|  |
+15,01      14And without the smiles that they deserve15             12|  |
+15,01      14Their fortune is told15                                12|  |
+15,01                                                           12|  |
+15,01      14Those men are all poets, musicians, and shy15          12|  |
+15,01      14Those works that they construct, all given to you    12|  |
+15,01      14These men live alone, without a light to guide them  02|  |
+15,01      14And without the smiles that I deserve15                02|  |
+15,01      14My fortune itself shall be told..15                    02|  |
+15,01                                                           02|  |
+15,01                                                           02|  |
+14,01..02..12#10#---12--02-------------12--------10---------------12---------02---|--|-+
+15,01         02E12T02C *12002* Man12i02fest 12'0294 *12002* 0412/021012/029415                 02|  +-+
+14,01..02.#12#10#---12--02-------------12--------10---------------12---------02---|-+
+15,01                                                           02+-+
+
+
+
+15,01>MftInfFmt01The Smile Poem                Eek the Cat      42994

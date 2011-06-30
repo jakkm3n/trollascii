@@ -1,0 +1,80 @@
+15,01;                          PrimalNET Official Nodelist
+15,01;                              rev.043 - 11/12/93
+15,01; 
+15,01;
+15,01;  [516,718,212,914]                NEW YORK                          [10]
+15,01;                                   ^^^^^^^^
+15,01;
+15,01Zone,13,PrimalNET_World_Headquarters,PrimalNET_WHQ,President,-Unpublished-,9600,
+15,01CM,XA,V32B,V42B
+15,01;
+15,01Region,100,PrimalNET_World_Headquarters,PrimalNET_WHQ,President,-Unpublished-,96
+15,0100,CM,XA,V32B,V42B
+15,01;                          
+15,01Host,516,PrimalNET_World_Headquarters,Farmingdale_NY,Mortacan,1-516-293-7313,960
+15,010,CM,XA,V32B,V42B
+15,01Hub,100,Demon's_Abyss,Farmingdale_NY,Mortacan,1-516-293-7313,9600,CM,XA,V32,V42B
+
+15,01,1,Chronic_Disorder,NY_LI,Sticky_FiNGaZ,1-516-UHH-WHAT,9600,CM,XA,V32,V32B,V42,V
+15,0142B
+15,01,2,Reality_Unwinding,NY_LI,Slammer,1-516-FUK-YOUU,9600,CM,XA,V32,V32B,V42,V42B
+15,01;
+15,01; PROBLEMS WITH NODE NUMBER 13:111/222
+15,01Host,111,111_Host,Ny,Ny_Host,Viceroy,1-718-382-6498,9600,CM,XA,V32,V32B,V42,V42B
+
+15,01Hub,222,Cyber_Space,Ny,Viceroy,1-718-382-6498,9600,CM,XA,V32,V32B,V42,V42B
+15,01;
+15,01Host,718,718_Host,Ny,Ny_Host,Zoom,1-718-232-0652,9600,CM,XA,V32,V32B,V42,V42B
+15,01Hub,1,Hell_On_Earth,ny,ZooM,1-718-232-0652,9600,CM,XA,V32,V32B,V42,V42B
+15,01,2,Forces_of_EViL,NY_NY,FoE,1-718-265-0822,9600,CM,XA,V32,V32B,V42,V42B
+15,01,3,Nocturnal_Emissions,Ny_Ny,Shazam,1-718-845-3392,9600,CM,XA,V32,V32B,V42,V42B
+15,01;
+15,01Host,914,PrimlNET_NY_Host,New_York_NY,Corwin,1-914-779-1369,9600,CM,XA,V32B,V42B
+
+15,01Hub,100,Amber,New_York_NY,Corwin,1-914-779-1369,9600,CM,XA,V32B,V42B
+15,01,1,The_Keg,New_york_NY,Six_Pack,1-914-you-wish,9600,CM,XA,V32,V32B,V42,V42B
+15,01,2,Satans_Loft,New_York,Sage,1-914-uhh,whut,9600,CM,XA,V32,V32B,V42,V42B     
+15,01;
+15,01;          Board Down.
+15,01;Host,212,Primlnet_NY,New_York_NY,Prophet,1-212-932-1708,9600,CM,XA,V32,V32B,V42
+15,01,V42B
+15,01;Hub,100,City_Of_Chaos,New_York_NY,Prophet,1-212-932-1708,9600,CM,XA,V32,V32B,V4
+15,012,V42B
+15,01;
+15,01;
+15,01;   [203]                          CONNECTICUT                         1
+15,01;                                  ^^^^^^^^^^^
+15,01;
+15,01Host,203,PrimalNET_CT_Host,Hartford_CT,The_Phantom,1-203-233-2358,9600,CM,XA,V32
+15,01B,V42B,HST
+15,01Hub,100,The_Forgotten_World,Hartford_CT,The_Phantom,1-203-233-2358,9600,CM,XA,V3
+15,012B,V42B,HST
+15,01;
+15,01;                                                                      2
+15,01;   [419,216]                       OHIO                               
+15,01;                                   ^^^^
+15,01;
+15,01Host,419,PrimalNET_OH_Host,Toledo_OH,Waysted,1-419-865-0000,9600,CM,XA,V32B,V42B
+
+15,01Hub,100,The_Cemetary_Gates,Toledo_OH,Waysted,1-419-865-0000,9600,CM,XA,V32B,V42B
+
+15,01;
+15,01Host,216,PrimalNET_OH_Host,Cleveland_OH,Zaphod,1-216-671-0078,9600,CM,XA,V32B,V4
+15,012B 
+15,01Hub,1,Realm_of_Decadence,Cleveland_oH,Zaphod,1-216-671-0078,9600,CM,XA,V32B,V42B
+
+15,01;
+15,01;
+15,01;     [803]                     South Carolina                         1
+15,01;                               ^^^^^^^^^^^^^^ 
+15,01;
+15,01Host,803,PrimlNET_ZR_Host,Zorpex_Rolex_NY,Lone_Viking,1-803-555-1515,9600,CM,XA,
+15,01V32,V32B,V42,V42B
+15,01Hub,1,Huk_Too_Wee,ZR_ZR,Lone_Viking,1-803-555-1515,9600,CM,XA,V32,V32B,V42,V42B
+15,01;
+15,01;
+15,01;     [510,714,805]             California                             3
+15,01;                               ^^^^^^^^^^
+15,01Host,510,PrimlNET_HuB,West_Coast,-Unknown-,1-510-432-3454,9600,CM,XA,V32,V32B,V4
+15,012,V42B
+15,01Hub,100,Isles_of_Terror,West_Coast,-Unknown-,1-510-432-3454,9600,CM,XA,V32,V32B,

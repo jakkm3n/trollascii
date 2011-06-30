@@ -1,0 +1,80 @@
+15,01--- Perplexing Proverbs ----------------
+15,011.  A rotating fragment of minerals collects no plants of the class Musci.
+15,01    - A rolling stone gathers no moss.
+
+15,012.  Exercise your visual facilities prior to executing a jump.
+15,01    - Look before you leap.
+
+15,013.  An excess of individuals skilled in the preparation of edibles impairs
+15,01    the quality of a thin derivative of meat.
+15,01    - Too many cooks spoil the broth.
+
+15,014.  A feathered biped in the terminal part of the arm equals in value a pair
+15,01    of feathered bipeds in densly branched shrubbery.
+15,01    - A bird in the hand is worth two in the bush.
+
+15,015.  Everything is legitimate in matters pertaining to ardent affection and
+15,01    armed conflict between nations.
+15,01    - All's fair in love and war.
+
+15,016.  The herbage is customarily more verduous on the diametrical selvage of
+15,01    the property division.
+15,01    - The grass is always greener on the other side of the fence.
+
+15,017.  A single unit of a seam properly distributed at the correct measure of
+15,01    duration will maintain a square root of 81.
+15,01    - A stitch in time saves nine.
+
+15,018.  Feathered bipeds in their segregated environment associate with a high
+15,01    degree of amiability.
+15,01    - Birds of a feather flock together.
+
+15,019.  Any object that ascends into the stratosphere irrevocably and inevitable
+15,01    descends to terra firma.
+15,01    - What goes up, must come down.
+
+15,0110. Reclining early on one's couch and rising with the sun creates one who
+15,01    is salutary, opulent, and erudite.
+15,01    - Early to bed, and early to rise, makes one healthy, wealthy and wise.
+
+15,0111. Taciturnity is aurous.
+15,01    - Silence is golden. 
+
+15,0112. Superfluous chronological dispatch institutes riddance of valued
+15,01    effects.
+15,01    - Haste makes waste.
+
+15,0113. There's no sense demanding attention by loud screeches over fallen white
+15,01    liquid derived from the lactic glands of a female bovine.
+15,01    - There's no use crying over spilt milk.
+
+15,0114. Splintered wood and mineral chunks can rupture my skeletal system, but
+15,01    nomenclatures do not injure me.
+15,01    - Sticks and stones may break my bones, but words will never hurt me.
+
+15,0115. Monetary exchange is the source of everything sinful.
+15,01    - The love of money is the root of all evil.
+
+15,0116. Visualizing is the equivalent to having faith.
+15,01    - Seeing is believing.
+
+15,0117. Pulchritude pertains solely to the epidermis.
+15,01    - Beauty is only skin deep.
+
+15,0118. Immature homo sapiens should be endowed with visibility but not oral
+15,01    facilities.
+15,01    - Children should be seen but not heard.
+
+15,0119. If primary failure is imminent, new attempts should be made
+15,01    repetitiously.
+15,01    - If at first you don't succeed, try and try again.
+
+15,0120. A ferrous alloy rope fashioned of interlocking loops is only as hearty
+15,01    as its least potent section.
+15,01    - A chain is only as strong as its weakest link.
+
+15,0121. One more than one is a congenial group of invited guests, but one more
+15,01    than two is a multitude.
+15,01    - Two's company, three's a crowd.
+
+15,0122. Hemoglobin is more viscous than H2O.

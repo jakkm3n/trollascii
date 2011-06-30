@@ -1,0 +1,18 @@
+15,01                     Message Conference LightBar Selection
+15,01                             By: King Nothing (VVD)
+15,01                                  For: ViViD
+
+15,011. Unzip MENU.ZIP in your menu dir
+15,012. Unzip MISC.ZIP in your misc dir
+15,013. Add a command to your MAIN to display MCONF.ANS when a user uses M       
+15,014. Add another to MAIN to switch to MC_LOCAL when they press M 
+15,01   (HAS to be AFTER the previous)
+
+15,015. BANG!  Config it to fit your brd and areas.
+
+15,016. Special thanks to Sith for making me read the ANSI escape code list.
+
+
+
+
+15,01                

@@ -1,0 +1,24 @@
+
+15,01-=[ GENOCiDE Application ]=-
+15,01Lit Application
+
+15,01Handle :
+15,01Real Name/Age :
+15,01Phone Number :
+15,01Time Available :
+15,01City/State :
+15,01Modem Type/Speed :
+15,01Graphics Card :
+15,01Lits Made :
+15,01Your Style :
+15,01Boards Called #1 :
+15,01Boards Called #2 :
+15,01Board Name (Sysop?) :
+15,01Board Number/info :
+15,01Why GENOCiDE? :
+15,01:
+15,01:
+15,01:
+
+15,01zip this app with 5 examples of your best work.  Then get it to a GENOCiDE
+15,01SENIOT MEMBER.  Read the .nfo file for details.

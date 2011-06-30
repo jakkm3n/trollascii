@@ -1,0 +1,78 @@
+15,01#include "video.h"
+15,01#include <stdio.h>
+15,01extern char image[];   //the acid.pcx picture contained in acid.c
+15,01extern char palette[]; //the palette in acid.pcx contained in acid.c
+15,01void main(void)
+15,01{
+15,01int x;
+15,01static char message[]=" WHAT!!!   NO MUSIC???   NO COLOR CYCLING???   NO ANIMATI
+15,01ON?!?  "
+15,01                      "  What the #%&*#@! is going on here?  WAAITTT!!!   "
+15,01                      "What is this I see?  A demo with 100% of the source "
+15,01                      "code included?  UNBELIEVABLE!!..Who has the balls to"
+15,01                      " release such a thing?  ACiD Productions...that's who!"
+15,01                      " That's right boys and girls....Rocket Scientist here..."
+
+15,01                      " Just wanted to release some very simple and easy to "
+15,01                      "understand source code in an effort to try to help others
+15,01 "
+15,01                      "who would like to code loaders....ya, this is some of my"
+
+15,01                      " old small model stuff and not real fast either but "
+15,01                      "it is good, working 100% C and Assembler code and is"
+15,01                      " not crippled in any fashion either!  Tested with Turbo"
+15,01                      " C and TASM and also works with Borland C and TASM... "
+15,01                      "Did you expect Sound Blaster/Adlib code?...HA! figure"
+15,01                      " that out for yourself and don't critique my code "
+15,01                      "cuz i know this ain't my best...check out any of the new"
+
+15,01                      " ACiD SB/Adlib loaders for the good shit...But it is rele
+15,01ased as "
+15,01                      "stealware (steal all of it ya want) and if you want the "
+
+15,01                      "utility i wrote to convert a .PCX file into an array like
+15,01 "
+15,01                      "the one in the acid.c file, leave me mail on The Dark Soc
+15,01iety "
+15,01                      "and convince me you deserve it.....Remember--CASH TALKS a
+15,01nd"
+15,01                      " BULLSHIT WALKS....This one is for you IBM MAN...Not exac
+15,01tly "
+15,01                      "everything you were asking for but it's a start for ya...
+15,01looking "
+15,01                      "forward to yer first demo....Hey SONIC--nice work and nic
+15,01e art--"
+15,01                      "keep up the good work bud....                            
+15,01          ";
+
+15,01detect_vga();       // calls assembly routine to detect VGA or not
+15,01set_vga();          // calls assembly routine to set video mode to VGA 320X200X2
+15,0156
+15,01set_palette(palette,256);   //calls assembly routine to set the palette to the o
+15,01ne in acid.c
+15,01x=0;
+15,01for (x=0;x<309;x++)
+15,01{
+15,01block_image(0,0,image,156,x,320); //calls assembly routine to scrollout image
+15,01                           //on screen at x,y using 156 scanlines and 308 bytes 
+15,01per line
+15,01}
+15,01x=0;
+15,01while(bioskey(1)==0)       //does loop till ya hit a key
+15,01 {
+
+15,01   gotoxy(40,24);        // position scrolling characters at x-40,y-22
+15,01   printf("%c",message[x]);  //puts a letter on the screen
+15,01   x++;                      //bumps it up one
+15,01   if(message[x]==0)     // Start again when the array runs out of characters
+15,01    {
+15,01     x=0;
+15,01    }
+15,01    ShiftLine(184,16);   // calls assembly routine to move scrolly left
+15,01 }
+15,01set_text();       //calls assembly routine to go back to normal text mode
+15,01printf("Artwork and Code by Rocket Scientist - ACiD VGA SB/Adlib coder");       
+15,01//logoff shit
+15,01printf("\nReleased for the April 1993 ACiD Acquisition with full Source Code!!")
+15,01;
+15,01}

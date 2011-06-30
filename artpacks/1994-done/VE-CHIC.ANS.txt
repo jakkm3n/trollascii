@@ -1,0 +1,66 @@
+15,01                     VENDETTA PRESENTS A FiRE PRODUCTION:
+15,01                            Chicago: The True Story
+
+15,01        Recently there has been a great deal of talk about Chicago, or Windows
+15,014.0, as being the end-all killer operating system.  It is supposed to save us
+15,01from the depths of hell, or at least the DOS prompt.  It is also supposedly
+15,01going to kill OS/2 off in one fell swoop (Let me remind you that Microsoft did
+15,01produce MS-OS/2, and that was a complete flop).  This month I plan to debunk
+15,01these myths and expose the real truth.
+15,01        OS/2 uses 'C' code, and Chicago uses Assembler.  Everyone knows that
+15,01Assembler code is faster than C code, so that would make Chicago faster,
+15,01right?  Wrong.  In terms of overall speed on Intel computers, Chicago won't
+15,01blow the doors off of OS/2, and it might even be slower.  The reason is
+15,01that OS/2 is fully 32 bit but Chicago uses large amounts of 16 bit code.  Now
+15,01since OS/2 is written in C, so with a few modifications, IBM can go over and
+15,01recompile it on a PowerPC, IBM and Apple's new processor that competes with
+15,01the Pentium, and it will start really flying.  So I OS/2 is faster.
+15,01        Let me tell you a secret:  Intel, the king of CISC, is going to use
+15,01RISC processors.  Wait, let me explain:  CISC stand for Complex Instruction
+15,01Set Computing, and RISC stands for Reduced Instruction Set Computing.  Now, to
+15,01make a long story short, some years ago a guy at IBM discovered the 90/10
+15,01rule.  90% of all code uses 10% of the instruction set.  Du-wha?  Okay, if I
+15,01compile a program, 90% of all the commands I have entered in it will only use
+15,0110% of the CISC instruction set.  So if I can make a RISC processor that uses
+15,01simpler and fewer instructions, it's going to be faster than a CISC processor,
+15,01right?  Yup.  But how in the world does this relate to Chicago?
+15,01        The P7 is going to be a RISC chip.  What the heck is a P7?  Is that
+15,01like V-8, that nasty vegetable liquid?  Uh, no.  Okay, the Pentium is the P5,
+15,01so that means that the next processor is the P6, and the one after that is the
+15,01P7.  So this isn't going to happen for a couple more chip generations?  I'm
+15,01still happy with my 486sx, and I can't ever imagine using something 4 times
+15,01faster than a Pentium?  Well, people couldn't imagine having a TV in almost
+15,01every house, either.
+15,01        If the Pentium is CISC, and the P7 is RISC, the two must be
+15,01incompatible, right?  Well...  no.  You see, in reality, the P7 is an actor.
+15,01The P7 can emulate, or act like, a Pentium.  So this means you will be able to
+15,01run Chicago on a P7, but you will be no better off than if you had a Pentium.
+15,01But this time Intel stumbled because the PowerPC 620 (coming to a theater near
+15,01you in '96) is going to be running things about six times faster than a P7
+15,01emulating a Penitum.
+15,01        Next I want to talk about the microwave syndrome.  Wait, now you
+15,01really have me, what does a microwave have to do with Windows?  Have you seen
+15,01the Windows 4.0 interface yet?  Very conspicuously situated at the bottom of
+15,01the screen is a huge button titled 'START'.  Excuse me?  Are we idiots here?
+15,01At spring Comdex '94 the guy running the booth said that most people would
+15,01think of starting an application by hitting 'START'.  Look, people.  I am not
+15,01a four-year old.  I do not want to be treated as a four-year old.  Nor do I
+15,01want a four-year old messing around on my  computer.  I have been using the
+15,01Windows and OS/2 interfaces for several years now and I never needed a 'START'
+15,01button.  Wait a minute, here.  Completely computer-illiterate people have been
+15,01using the Mac interface for more than a decade now, and they never need a
+15,01'START' button.  So let me get this straight, these fools at Microsoft make
+15,01the features in their applications harder to use than anything I have ever
+15,01seen, and then they want to water down the interface to compensate?  Hello
+15,01McFly, is anybody home?
+15,01        So are you saying that Chicago is really just a piece of crud?
+15,01Well...  I wouldn't go that far.  Windows 4.0 might be worth something after
+15,01they fix all of the bugs in 4.0 and release 4.1.  Microsoft is going to
+15,01release 4.0 and charge $50-$100 per package to people, and then come out with
+15,014.1 and charge yet another $50-$100 for it.  It did this to the Windows 3.0
+15,01and Windows 3.1 people.  Why wouldn't it do this again?  If Microsoft released
+15,01a bug-free super-duper version of something, everybody would buy it, right?
+15,01If Microsoft released a half-baked operating system, everybody would buy it,
+15,01right?  Yeah...  it's sad and true.  So my message here is:  Windows 4.0 will
+15,01be okay, but wait for 4.1 before shelling out any money.  And take a look at
+15,01OS/2, people.  You might be surprised.

@@ -1,0 +1,20 @@
+
+00,01 14O15ka00y, here's what's going on with ViBE, still getting stuff together a15nd
+15,01 14t15hi00ngs done for people. Included is a great ANSi viewer just for ViB15E!
+15,01 14T15hi00s was made by Jon Zarate, a great programmer. Be sure to use it 15to
+15,01 14v15ie00w our ANSis, lots of options. Just unzip VIBEAV.ZIP into the directo15ry
+15,01 14t15ha00t contains *.VIB ANSi files. You can use these ANSi screens, but y15ou
+15,01 14C15AN 00NOT MODIFY THEM. All are copyrighted and are protected by the law15..
+
+15,01 09To get the latest Art Packs03:
+
+03,01 13FidoNET06: 13FREQ VPACK monthly from 106:1312506/1385
+13,01 Modem  06: 13Call The Shareware Exchange! 41506-1399206-134320 monthly.
+
+13,01 00Support For ViBE:
+
+00,01 World HeadQuarters
+00,01 The Shareware Exchange!
+00,01 [415] 992-4320 [8-N-1]
+00,01 Baudz 2400-14.4K
+00,01 ViBE WHQ

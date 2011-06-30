@@ -1,0 +1,21 @@
+15,01ACiD VIEW JAVA 5.0 PUBLIC BETA
+15,01PACKING LIST
+
+15,01Here is a list of files you should have, as well as their file sizes.
+15,01Remember:  Case counts.
+
+15,01   3,544 AcidAnsi.class
+15,01   1,544 AcidText.class
+15,01      28 AcidView
+15,01     315 AcidView.bat
+15,01   6,123 AcidView.class
+15,01   1,043 AcidView.faq
+15,01     504 AcidView.files
+15,01   4,096 AcidView.fnt
+15,01  64,695 AcidView.jpg
+15,01   3,152 AcidView.nfo
+15,01   3,088 AcidXBin.class
+15,01   1,547 AnsiImage.class
+15,01     968 AVDialog.class
+15,01~~~~~~~~~~~~~~~~~~~~~~~~
+15,01      13 Total Files

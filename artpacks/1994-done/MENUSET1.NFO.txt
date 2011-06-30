@@ -1,0 +1,4 @@
+15,01  00Here is a menu set that I used for my last software, which shall be left
+00,01unmentionable at this point.  It is basically a plain vanilla menu set.
+00,01Use as you see fit.
+15,01                             00Frost Byte <CiA>

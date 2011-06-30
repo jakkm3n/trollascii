@@ -1,0 +1,80 @@
+15,01      File extensions are preserved for all file formats other than ANSI,
+15,01      in which case the extension is ".DRK". (Ie. <CRNFX-01.DRK>, for- moreso,
+15,01      Carnifex' first release of the year; an ANSI image.)pictures, and logos
+15,01      (also referred to as fonts).  A picture is just that - a picture.  A
+15,018.  Where's the second disk of the July 1995 DARK Collection?e, etc.  It is
+15,01    (archive name: DARK0795.ZIP) and/or numbers.   Logos can also be drawn---
+15,01      either realistically, or with a more abstract design.   Logos and
+15,01      We wish you good luck in finding in it!  (Due to a printing error, the
+15,01      FILE_ID.DIZ identified the DARK0795.ZIP file as "Disk 1 of 2", when
+15,01      in reality, it was just a single file.)    NNNN.,a@
+15,01 ,@$$@2"``"2+$$$NN,@NN=2"``"2@NN@.nnnn,+%@NN@%+,_NNNN$@2"
+15,019.  What is "Vortex"?ses the standard PC ASCII character set, it isSfiction!
+15,01      compatible with virtually all DOS-based computers, provided an ANSI
+15,01      "Vortex" is the working title of DARK's music disk.  Organized by Moby,
+15,01      it will feature music from various DARK musicians, past and present.
+15,01      The release date of Vortex is yet unknown.  It is presumed dead.
+15,01      ANSI does not require a software specific client as with RIP (See II,
+15,0110.  Where's the pack?!le as an emulation option with most communications
+15,01      software. (ie. Telix(tm), Procomm(tm), Telemate(tm), etc... )CCCC,
+15,01      Thanks to a new development in software technology, our packs can now
+15,01      avoid you at will.
+
+15,01-----------------------------------------------------------------------------
+15,01      designed to display graphics on a CRT.
+15,01== V.  COLLECTIONS, ARCHIVES, AND WHERE YOU CAN GET THEM.
+15,01      In terms of the "scene", a VGA is generally referred to as any picture
+15,01      or image drawn with a computer painting and/or rendering program, in any
+15,011.  Listing of all DARK Collections released, and other archives:higher (SVGA)
+15,01      video modes.)  Some of the more commonly used programs are Adobedes
+15,01      Filename:      Description:aint(tm), Autodesk 3D Studio(tm), ander-
+15,01      Autodesk Animator(tm).which the organization specializes.
+15,01      DARK0294.ZIP - The February 1994 DARK Collection (Premiere)
+15,01      DARK0494.ZIP - The April 1994 DARK Collectionre very diverse - but they
+15,01      DARK0694.ZIP - The June 1994 DARK Collectionndered and non-renderedy
+15,01      DARK0894.ZIP - The August 1994 DARK Collection art drawn with the aidka
+15,01      DARK0994.ZIP - The September 1994 DARK Collectiono(tm) or POV Please
+15,01      DARK1294.ZIP - The December 1994 DARK Collectionn, "freestyle" form of
+15,01      DARK1994.ZIP - The Best of DARK 1994 Collectionrushing to there is
+15,01      DARK0295.ZIP - The February 1995 DARK Collectionorated upon in this FAQ
+15,01      DARK0495.ZIP - The April 1995 DARK Collectionlease let us know so we
+15,01      DARK0595.ZIP - The May 1995 DARK Collectionxt version.
+15,01      DARK0695.ZIP - The June 1995 DARK Collection
+15,01      DARK0795.ZIP - The July 1995 DARK Collectionaging Protocol. The Remote
+15,01      DARK0895.ZIP - The August 1995 DARK Collectiona method devised by, the
+15,01      DARK0995.ZIP - The September 1995 DARK CollectionGA quality graphicsty,
+15,01      DARK1095.ZIP - The October 1995 DARK CollectionIP was devised as a way
+15,01      DARK1295.ZIP - The December 1995 DARK Collectionentually, to send full
+15,01      DARK1995.ZIP - The Best of DARK 1995 Collection as mentioned above, is
+15,01      DARK0196.ZIP - The January 1996 DARK CollectionEGA quality.  However,
+15,01      DRK0296A.ZIP - The February 1996 DARK Collection (Disk 1/2)ed, which
+15,01      DRK0296B.ZIP - The February 1996 DARK Collection (Disk 2/2)JPEG(tm)
+15,01      DARK0396.ZIP - The March 1996 DARK Collection.org for details.
+15,01      DARK0496.ZIP - The April 1996 DARK Collection
+15,01      DARK0596.ZIP - The May 1996 DARK Collection drawn in using the Remote
+15,01      DARK0696.ZIP - The June 1996 DARK Collection VGA in the fact that only
+15,01      DARK0796.ZIP - The July 1996 DARK Collection the structure of various
+15,01      DARK0896.ZIP - The August 1996 DARK Collectiong with shading (specific
+15,01      DARK0996.ZIP - The September 1996 DARK Collectionng.  Due to thesees.
+15,01      DARK1096.ZIP - The October 1996 DARK Collectionires previous planning,
+15,01      DARK1196.ZIP - The November 1996 DARK Collectionyed across phone lines,
+15,01      DARK1296.ZIP - The December 1996 DARK Collectiondividual shapes are
+15,01      DARK1996.ZIP - The Best of DARK 1996 Collectiond to comprise a picture.
+15,01      DARK0197.ZIP - The January 1997 DARK Collection
+15,01      DARK0297.ZIP - The February 1997 DARK Collectiono this?
+15,01      DARK0297.ZIP -- The February 1997 DARK Collection
+15,01      DARK0397.ZIP -- The March 1997 DARK Collectionios once put forth their
+15,01      DARK0497.ZIP -- The April 1997 DARK Collection".  We are pleased to see
+15,01      DARK0597.ZIP -- The May 1997 DARK Collection (Mistigris World Tour)ey
+15,01      DARK0797.ZIP -- The July 1997 DARK Collectionther art groups to follow
+15,01      DARK0897.ZIP -- The August 1997 DARK Collectionp's background?
+15,01      DARK0997.ZIP -- The September 1997 DARK Collection
+15,01      DARK1097.ZIP -- The October 1997 DARK Collectioncument?
+
+15,01      DRK-FAQx.xx  - Frequently Asked Questions About DARK Illustratedho are
+15,01                     (The filename used up to v1.706)he use of aliases is
+15,01      DARK-FAQ.xxx - Frequently Asked Questions About DARK Illustratedernet
+15,01                     (The filename used as of v1.80) contact.  Aliases and
+15,01      other such monikers have been traditionally used as another fun way
+15,012. Where can I get these files?us online computer activities.?
+15,01       6. How can I request artwork from DARK members?

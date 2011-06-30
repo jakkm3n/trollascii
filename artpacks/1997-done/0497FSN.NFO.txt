@@ -1,0 +1,80 @@
+
+15,01           02 15          08#15                08m
+15,01  01fusion -->15         08#08,08|14,00 15,01            04mmm08|14,08 15,01 14,04  #
+15,01               04 15    08#08,08|14 14,00   08,01""15  04mmm14,04    01 14#15,01 08,08|15,01 14,04  #15,01 08 
+15,01           04#mmm14,04  #15,01 08#08,08|14 14,00 04,01 mmm14,04   04,01"""15   04|14,04  04,01|08,08|04,01|14,04  04,01|08 m08,08m
+15,01      04mmm14,04   04,01"""15  08mm08,08m14  00,01|04#13,04###15,01   08m08,08m14 14,00 00,01"08 04|14,04  04,01|08|04|13,04##04,01|08 """15  03                 08  
+15,01     04#13,04###15,01 08m15 04mm13 08"""""08,08"14 15,01 13|13,13##04,01|15 08"""08,08"14  14,00 08,01|04#13,04###04,01 13mmm01 14,04   04,01mmm15    04  15 03 08+ iz00e15      04#14,04 01 14#
+15,01     13|13,13##04,01|15 08"15 04mmm14,04 13  15,01 08|14,08  15,01 13|08,13##13,01|13,13#04,04@13#04,01mmm15 08""04#13,13###08,01#13,13##08#04,01 08#04  """13,04#04@13,13#13,01mmm15      08 mm08,08m14,00 08,01 15 04#13,04###
+15,01     13|08,13##13,01|13,13#04,04@13#04,01"""15  08mm08,08m14  08,01 08,13#13,08##13,01 08 13  04"""13,04#04@13,13#13,01mmm |08,13##13,01|08#08,08|14 14,00  00,01mm15  08#13,13##14 08,01 #15   08""08,08"14  14,00  08,01|13|13,13##13,01|
+15,01    08#13,08###08,01   mm13,08#08,01|#08,08|14    14,00 08,01#13,08###15,01 08|14,08   08,01m00mm15 08#08,13###08,01 |13,08##08,01|#08,08|14   14,00 14,08 14,00 15,01 08#08,13###08,01#13,08##14 08,01mmm15 08"""14,08 15,01 13|08,13##13,01|
+15,01    08#13,08###15,01 08,08|08,01#13,08###13,01 08#08,08|14   14,00 00,01|08#13,08#08,13#08,01|  08,08|14  14,00   08,01|#13,08###08,01#13,08###08,01   08,08|14     08,01 |13,08##08,01|#08,13##13,08#08,01"""14,08   08,01mm#13,08###08,01 
+15,01    08|08,13##08,01| 08,08|08,01#08,13###15,01 08|14,08  14,00 00,01""15 08|08,13#00#08,01| ""08,08"14  14,00 14,08 08,01 |13,08##08,01|#08,13###13,01|mm08m15 08""""15 08|13,08##08,01||13|00,13#08#08,01|15 08mm00m 08""14,08 13###08,01 
+15,01    08|08,13 00#08,01||||08,13 00#08,01| " m13mm13,08mm00,13#13,01""14,13 13,01mm08m15 08"""08,08"15,01 08|08,13##08,01||08,13 00#08,01| ""13"13,08"14,13 13,08m13,01mm08m08,13##13,08|08,01 08,08|08,01|14,13 00#08,01|#08,08|14 14,00  15,01  08|08,13##08,01|
+15,01   08     |||08,13   13,08mm"13,01""08"15      08"13""13,08"mm13,01m08mm13,08m00,13#13,08|13,01 08|08,13  08,01|15 08,08|14 08,01m00m 15 08"13""13,08"00,13#13,08|15,01 08,08|08,01#13,08|14,13 13,08|15,01 08#08,08|14 14,00  15,01 08|08,13 00#08,01|
+15,01 08          """15                  13"""14,13 08 13,08|15,01     08,08|08,01"08,08"14  14,00  15,01       08,08|08,01#13,08|14,13 13,08|15,01  08#08,08|14 
+15,01      08      15   09               15               08,08|14 00,01"15          08 15      08#
+
+
+15,01       14 15         00Fusion productions 15info file - april 1997                  
+
+
+15,01   00Hi there art pups!
+
+15,01     This month that has passed has been preatty fun.
+15,01     We have finally got a bot for our channel 00#fsn15 thanks to 00Spikey15.
+15,01     I had to come up with a name fast so i named it 00fsnDOG15, dont know
+15,01     if we are going to keep that name but thats not really relevant.
+15,01     Soon our very own viewer will be out but its currently nameless,
+15,01     the viewer is being coded by 00Orphic15.
+15,01     As a guest artist this month we have a former Blend member thats
+15,01     now in echo namely 00Senile.
+15,01     
+15,01   00Member News
+
+15,01     Even this month we keep getting more and more members to fusion.
+15,01     Joining up with us this time is 00Gypsy15 who is an former 00Fire
+15,01     member and who also runs our new Israeli Hq, 00Diesel Power15.
+15,01     Be sure to check out his great ansis in the pack as he is a very
+15,01     talented artist.
+15,01     00Phonyeye15 from Cia that will release some of his great logos with us.
+15,01     We also have two swedish artist joining.
+15,01     First up is 00Noah15 who comes to us from 00Bamboosh15. He has improved alot
+15,01     the last weeks and we expect alot from him in the near future.
+15,01     Last but not least is 00Absence15 who after some time finally was accepted
+15,01     in fusion on a trial time. He is a promesing artist that will grow
+15,01     and get better with time.
+
+15,01   00Board Section
+
+15,01     I have noticed that some people cant read because in the last info
+15,01     file i wrote that i didnt want any more board applications at the
+15,01     time, but i still got around 10 to 15 applications for headquarters
+15,01     and distrobution sites. So for now on we will only accept boards that
+15,01     is runned by a fusion member. Try to respect that.
+
+15,01   00Ending15 00Notes
+
+15,01     Well we just keep growing bigger and bigger every month, guess
+15,01     00Dieznyik15 was right then ;)
+15,01     We will soon have our own WWW page up and running at this 
+15,01     adress, 00www.fsn97.com.15 The other options like fusion.com and such
+15,01     where already busy so we will have to do with 00fsn97.com15 for a while
+15,01     until we figure something better out.
+15,01     Thanks to 00Weirdo15 anyway how fixed this adress.
+15,01     Well i got nothing more to say (i think) so i will return to Diablo
+15,01     and kill some more of those skinny skeletons that is lurking in the
+15,01     dungeons beneth the cathedral ;) BEWARE HERE I COME!&L@#!
+15,01     Oh, i would also wish to thank 00WatOr15 for the nice joint with him.
+15,01     00THANK YOU WATOR!
+15,01     And now ... im proud to present a new dazling preformace from our
+15,01     own acrobatic doodler .... 00iZE15!@#
+
+
+
+15,01                                          - rex ( i got the flu, sucks bigtime )
+
+
+
+15,01   00Heey! ize here!
+

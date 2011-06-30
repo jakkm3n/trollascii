@@ -1,0 +1,80 @@
+15,01                    "#
+15,01                      mmm               mmm"#        mmm
+15,01                     |14,15 00,01@14,15#15,01|         mm14,15  #  15,01|     mm14,15    15,01| "
+15,01                      "14,15#15,01" m14,15 15,01"# mm14,15  15,01"" 14,15 00,01@14,15  15,01   m14,15  15,01"  14,15 00,01@14,15 
+15,01                        m14,15  15,01| m14,15  15,01m14,15  15,01   14,15 15,01#14,15# 15,01 m14,15    15,01  "14,15 15,01m14,15 
+15,01                      m"14,15 15,01m14,15 15,01||" 14,15 15,01 14,15# 15,01  m14,15 15,01m14,15  15,01|"14,15# 15,01m14,15 15,01     ""m
+15,01----------------------- 14,15 15,01 14,15# 15,01   14,15 15,01#14,15  15,01     """m14,15# 15,01 14,15#  15,01" --------------------------
+15,01iCE iCE iCE iCE iCE iCE 14,15 15,01#14,15  15,01   14,15 00,01@14,15  15,01 m"m     14,15# 15,01#14,15 15,01   14,15  15,01m NFO NFO NFO NFO NFO NFO
+15,01-------------------- #m 14,15 00,01@14,15  15,01 m 14,15 00,01@14,15  15,01   14,15   15,01m  00@14,15 00,01@14,15 15,01   14,15 00,01@14,15 15,01"m ---------------------
+15,01                       "14,15 #  15,01m||14,15 #  15,01   14,15 00,01@14,15  15,01"m#14,15 # 15,01m14,15 15,01"14,15 15,01m14,15 15,01 ||
+15,01                      #m "14,15 00,01@14,15# 15,01 14,15 #  15,01m14,15 15,01"14,15 15,01m14,15  15,01   14,15 # 15,01"m|"14,15  15,01 "  #"
+15,01                       |14,15#15,01m 14,15#15,01"  14,15 #  15,01" m m14,15  15,01| |14,15  15,01|  14,15 15,01m || at/tt
+15,01                        00@15    m14,15  # 15,01 m14,15#15,01| |14,15 15,01"  14,15   15,01   14,15#15,01| "
+15,01                        #     |14,15   15,01  00@15  "    |14,15 15,01|   00@
+15,01                           #   14,15  15,01   #     #  "14,15 15,01   #  "
+15,01                           00@15  # "|  #     00@15    "     #
+15,01                           14,15#15,01   |m         14,15#15,01       #
+15,01                                 00@15         |         .
+15,01                                  .       #    .
+15,01-------------------------------------------------------------------------------
+15,01                    A   P   R   I   L      1   9   9   6
+15,01-------------------------------------------------------------------------------
+
+15,011.  One again, welcome one and most to another edition of the iCE monthly
+15,01    news report. It seems we've all been busy conquering foreign lands,
+15,01    so this month we enlisted the aid of Magnetic M to help create the pack.
+15,01    Thanks, Xav! :)  Don't you think that names beginning with the letter
+15,01    "X" are sassy?  Fear him in the sack.
+
+15,012.  ftp.ice.org has hit the scene! on a T1 line, with lots of goodies, you
+15,01    can find all the iCEPacks on there, in /pub/icepacks. Thanks to the 
+15,01    kind soul of Force Ten for this kickass machine. www.ice.org is about
+15,01    98.92736238263% done (whoops, buggy pentium) so we hope to have that
+15,01    out for you early this month.  In addition, the site houses UNIX accounts
+15,01    for our members.  The entrance of ice.org and all of it's offspring
+15,01    ushers in a new era for us, and we look forward to the many benefits
+15,01    it will bring about, such as a complimentary fondue party for all iCE
+15,01    members.  BYOF (Bring Your Own Forks).
+
+15,013.  The Propaganda wing of the iCE Republican Army struck again with a
+15,01    statement that they have video footage of Princess Diana and Pat
+15,01    Buchanan doing the watusi on a hidden beach in Pago-Pago. Pat was
+15,01    quoted as saying "mrff.. glop brgh" and when reached for comment, the
+15,01    Queen said "hey, is that a can of cheese-whiz you're carrying?"
+
+15,014.  A very warm welcome to Inner Vision and Fluor from ACiD. These guys
+15,01    bring a wealth of ANSI talent to the party, as Zaico has for the iCE
+15,01    Euro team. Greater Evil found a pair of talented coders named Primus
+15,01    and Purple, from whom you can expect to see great things. And the
+15,01    VGA team picked up Vortex, whose eye candy ranks right up there.  The
+15,01    music team did not pick up anyone, although they were seen growling
+15,01    seductively at a passing construction worker in cutoff jeans.
+
+15,014b. In related group swapping news, two members of the group stepped down
+15,01    from their positions in iCE to persue grass roots groups.  Surreal Logic
+15,01    took up a leadership position in a group called mOp, and Misfit decided
+15,01    to focus his efforts on his local group, called Apathy.  It's never a
+15,01    pleasant thing to say goodbye to two friends, but we wish them all the
+15,01    best with whatever they do, and hope that they realize how much we
+15,01    enjoyed having them around.  Pass the Kleenex (tm).
+
+15,015.  In other unrelated ungroup news, Lemonade and Nibbles were found playing
+15,01    nookie with each other in the local park.  What's even stranger was
+15,01    the laptop-in-women's clothing that he used to run the ferret bot.
+
+15,016.  Aphidtwix's new web page can be found at http://www.io.com/~verved.
+15,01    Lord Soth has begun making a webpage, but the other staffers kindly
+15,01    asked him to remove the flaming pink from the background, as it
+15,01    contrasted with the chartreuse scarf he's wearing in that picture.
+15,01    Besides, with the telecommunications bill in place, he still can't legally
+15,01    show those photos of him and his plentiful pets.
+
+15,017.  I have an itch. These burlap pants suck. I don't know how Rod Stewart
+15,01    does it.  What's even more perplexing, is how Rachel puts up with that.
+15,01    She could have any man she wants, more or less..
+
+15,018.  NJ/NY 4, TB 3 (shootout).  SUPPORT MAJOR LEAGUE SOCCER!
+
+15,018b. iCE didn't say that because they paid us to, you know.
+

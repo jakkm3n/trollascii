@@ -1,0 +1,60 @@
+
+15,01                  14,15 15,01""""" """ "" "  "   "  " .  #
+15,01                    14,15 15,01 14,15 15,01  14,15 15,01  14,15 15,01 14,15 15,01 14,15   15,01 14,15 15,01 14,15   15,01 14,15 15,01  14,15 15,01 .
+15,01                  14,15 15,01 -------------------------- #
+15,01                    14,15#15,01 14,15#15,01  14,15#15,01  14,15#15,01 14,15 15,01 14,15#  15,01 14,15#15,01 14,15#15,01 14,15 15,01 14,15# 15,01 14,15 15,01 m
+15,01                  # 00@15 00@15  00@15  00@15 14,15 15,01   14,15 15,01 00@15 00@15 14,15 15,01 00@15 14,15  
+15,01                  . # #00@15 #00@15 #00@14,15#15,01 #00@14,15#15,01 # #00@14,15#15,01 #  14,15 15,01 14,15 
+15,01                  # .  m  m   m  m mm mmm mmmmm14,15 
+15,01                  - -- --- -[April'94]- --- -- -
+15,01                       +==================+                                 
+15,01=======================+=====CONTENTS=====+=================================+
+15,01                       +==================+                                 |
+15,01==============+=======================================+=====================+
+15,01FILE NAME     | DESCRIPTION OF ANSI                   | ARTIST OF ANSI      |
+15,01==============+=======================================+=====================+
+15,01AZ-ASKI.ILL   | ASKi Logo............................ | /+zrael             |
+15,01AZ-DESCE.ILL  | Shadowy Descent Font Add............. | /+zrael             |
+15,01AZ-GTHC.ILL   | Gothic Logo (Font same as above)..... | /+zrael             |
+15,01AZ-MNX.ILL    | Midnite Xpress Net Advertisment...... | /+zrael             |
+15,01AZ-SD.ILL     | Shadowy Descent Add.................. | /+zrael             |
+15,01AZ-SD1.ILL    | Shadowy Descent Add.................. | /+zrael             |
+15,01AZ-SD2.ILL    | Shadowy Descent Add.................. | /+zrael             |
+15,01AZ-SD3.ILL    | Shadowy Descent Add.................. | /+zrael             |
+15,01DM-ATOM.ILL   | ATOMiC Logo.......................... | Deathmonger         |
+15,01DM-DC3.ILL    | DC3 Advertisment..................... | Deathmonger         |
+15,01DM-DMZ4.ILL   | De Militarized Zone Add.............. | Deathmonger         |
+15,01DM-EMPIR.ILL  | EMPiRE Logo.......................... | Deathmonger         |
+15,01DM-GENES.ILL  | Genetic Malfunction Poem............. | Deathmonger         |
+15,01DM-GM3.ILL    | Genetic Malfunction Add.............. | Deathmonger         |
+15,01DM-LTHM.ILL   | Lithium Add.......................... | Deathmonger         |
+15,01DM-OCP.ILL    | OCP Net Ansi......................... | Deathmonger         |
+15,01DM-T800.ILL   | T-800 Model Stat Screen.............. | Deathmonger         |
+15,01DM-WMILL.ILL  | Windmill Chat........................ | Deathmonger         |
+15,01DM-GMTX.ILL   | Genetic Malfunction Matrix........... | Deathmonger         |
+15,01MC-CS.ILL     | Corrupted Society Add................ | Mr. Corruption      |
+15,01MC-ILL1.ILL   | iLLUSiON Logo........................ | Mr. Corruption      |
+15,01MC-OCPNT.ILL  | OCP Net Ansi......................... | Mr. Corruption      |
+15,01MC-TAR.ILL    | TaR Logo............................. | Mr. Corruption      |
+15,01MC-VISX.ILL   | ViSiON-X Logo........................ | Mr. Corruption      |
+15,01MC-VOMIT.ILL  | Vomit Ville Add...................... | Mr. Corruption      |
+15,01OZ-PWA.ILL    | Pirates With Attitudes Logo.......... | Ozzy                |
+15,01OZ-SOD.ILL    | Shadow of Deceit Advertisement....... | Ozzy                |
+15,01ZA-MAINM.ILL  | Main Menu Screen..................... | Zargon              |
+15,01MEMBER.LST    | iLLUSiON Member List................. | Mr. Corruption      |
+15,01ILLUSION.NFO  | iLLUSiON Information file............ | /+zrael             |
+15,01MC-MODS1.ZIP  | Mr. Corruption's MoDs................ | Mr. Corruption      |
+15,01MC-SNOOP.ILL  | Ansimation........................... | Mr. Corruption      |
+15,01MNX-NET.ZIP   | Midnite Xpress Application Pack...... | Blazing Shadow      |
+15,01OCP-NET.ZIP   | Organization for Corrupted Pirates... | Scandal             |
+15,01ILLUSION.APP  | iLLUSiON Application................. | /+zrael             |
+15,01BS-SD1.EXE    | Shadowy Descent Loader............... | Blazing Shadow      |
+15,01AZ-RAGE.ILL   | Poem called "RaGE"................... | /+zrael             |
+15,01AZ-BTHSD.ILL  | Shadowy Descent Poem................. | /+zrael             |
+15,01AZ-INIQ4.ILL  | iNiQUiTY Net Ansimation Add.......... | /+zrael             |
+15,01AZ-CZ0.ILL    | C H A N N E L  Z E R 0  Add.......... | /+zrael             |
+15,01AZ-HRLTS.ILL  | Harsh Realities Advertisment......... | /+zrael             |
+15,01AZ-FEDX.ILL   | FED-X Ansi Logo...................... | /+zrael             |
+15,01AZ-TERFI.RIP  | Terra Firma RiP Add.................. | /+zrael             |
+15,01AZ-ACID1.RIP  | ACiD Rip Logo........................ | /+zrael             |
+15,01==============+=======================================+=====================+

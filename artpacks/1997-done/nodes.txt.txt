@@ -1,0 +1,61 @@
+15,01                .                                    .
+15,01               m:    :______/\_______/\___      :    :
+15,01               h|   :|   __/        (_____)--,__|    |
+15,01               z|   :|   \_   :|    |   `\_          |
+15,01              __|   :|    |   :|    |    :|    :|    |
+15,01              \\   .;|   _|  .;|   _|   .;|_  .;|    |_
+15,01               \___      \_____,,__\__,____/      ____/
+15,01              = ===\\_____/ VOIDnet Info. |_____//=== =
+15,01                  The Underground Art Scene Netwerk
+
+15,01                        Voidnet Nodes  08/09/97
+
+15,01    BBS Name               BBS Area Code                 sysop
+15,01 ------------------------------------------------------------------------
+15,01[!a]braxas/diabolic             818                     mhz
+15,01[i]star                         714                     gunthar
+15,01911                             717                     phoman
+15,01blah!?                          609                     radigan
+15,01bnh                             815                     intensity
+15,01chronic organism                +44                     poison
+15,01convertical                     519                     stereo
+15,01crisp                           715                     dark entity
+15,01deadlock                        905                     black jack
+15,01disgust                         412                     the lemtish
+15,01divine intervention             401                     concisis
+15,01fish garden                     813                     liquid insanity
+15,01flatscan                        602                     acolyte
+15,01fluph                           888                     phobia
+15,01grape                           +46                     milkman
+15,01infinite darkness               954                     midnight sorrow
+15,01juice                           604                     infinite madness
+15,01lithium                         604                     sarcasm
+15,01lost city                       905                     psyonide
+15,01malpractice                     604                     wishbringer
+15,01neon crayon                     519                     mafesto
+15,01neosporin                       604                     rage
+15,01organized chaos/2               +612                    krisis
+15,01paradox's den                   +44                     paradox
+15,01plastic heroes                  416                     serial toon
+15,01pOO@!                           602                     trip
+15,01route666                        603                     comatose
+15,01sabotage                        941                     narcissus
+15,01scent                           403                     toxix
+15,01singe                           410                     infect
+15,01snakes domain                   514                     snake grunger
+15,01stronghold enterprises          403                     lasher
+15,01stupidmop                       604                     geekboy
+15,01superfiend                      604                     pedantik
+15,01the abcb cafe                   808                     kyo
+15,01the fuzz hut                    606                     flame
+15,01the haven                       410                     pandora
+15,01the jade monkey                 604                     happyfish
+15,01toejam                          409                     el-eye
+15,01too oblivious                   +381                    sagittarius
+15,01toons town                      416                     morgar/watOr
+
+15,01        If you would like to apply to voidnet, contact rage at
+15,01rage_@geocities.com .. or you can call his board neosporin 604-942-9772
+15,01and apply that way. You can get the newest net packet on our ftp site at
+15,01ftp.disembodied.com/pub/nets/voidnet
+15,01               

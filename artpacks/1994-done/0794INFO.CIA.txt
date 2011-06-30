@@ -1,0 +1,80 @@
+
+
+15,01           12,12 12,01""""""02"12"""02""12"02"""12"02""""""""""""""""" ""  "    "15     02"
+15,01      13C    12,12 15,01                  14mmmmmmmmmmmmm
+15,01      13i    12,12#15,01           14,02 02,01 "    14"15        14#01@14,14# 
+15,01      13A    12,12 15,01      02" 10,02mm15,01 14,02 12,10#14,02 02,01 10,02mm02,01"10,02m02,01"10,02mmm14 15,01        02m  "10,02m02,01"10,02m14,10 14,02 02,01 10,02mmm15,01 10,02mmm14 
+15,01           12"15        02"" 14,02 12,10#14,02 02,01 """" "14,02 12,10#10,02 15,01     14,02 10mm14 02,01   " "10m14,02 02,01 """""14,02 12,10#14,02 
+15,01      14,14 14,01"""""""""""14,14 14,01    02"11,02@14 02,01    14,14 14,01   02"14,02 02,01   " "10"02""15     14,02 12,10#14,02 02,01  14""  14,02 11@14 02,01 14"""""""""01@14,14# 
+15,01      14,14 01,01@14#  02,02@15,01      14,14 14,01    14,02 11@14 02,01    14,14 14,01mmmm15     02mmm m15     14,02 12,10#14,02 15,01      02" "    14"15     14#01@14,14 
+15,01      14,14 #01,01@14# 12"15      14"    14,02 10#14 15,01      01@14,14# 15,01     02"12,10#02,01m15       14,02 12,10#10,02mmmmmm15,01 10,02mmm02,01"10m10,02mm02,01"10,02m02,01" "  14#14,14 
+15,01      14"""""""""""""""  14,02 10#02,01" 14"""" #01@14"15     14,02 12,10#14,02 15,01       14,02 11@14 02,01" " """"""""" "15      14,14 
+15,01           12,12#15,01      14,14 14,01    14,02 10#14 15,01        02m14,02 02,01    14,02 11@14 15,01       14,02 10#14 02,01   14m  14,02 11@14 02,01 14mm 14,14 14,01 mmmmmm14,14 
+15,01           12,02m15,01           02" "15      02m10,02m11@14 02,01    14,02 11@02,01m15       14,02 10#14 15,01      02m12,10#14,02 02,01   14#14,14 
+15,01           14,02 15,01     02" 10,02m15,01 10,02mmmmm15,01 10,02mmm02,01"10,02mmm12,10#14,02 02,01    14,02 10#02,01m  14" "" 14,02 10#14 02,01  14"14,14 14,01  02"10m14,02 02,01  14#01@14,14 14,01    13C
+15,01           02m15       02"""""""""""""""""    14,02 10#14 15,01       14,02 10,01m14,02 02,01  14#14,14 14,01  02"10"02"  01@14,14# 14,01    13i
+15,01           02"15      14,14 01,01@14#  14,02 10#14 15,01              02m" 01@14#15     14,02 02,01   14#01@14,14 14,01   10"02" 14""""    13A
+15,01           02"15      14,14 #01,01@14    02m15      14#01@14,14# 15,01      14,14 #01,01@14#15       14#01@14,14# 14,01  06WP [CiA]
+15,01                  14""""15      14""""""""15      14"""""""""""""""
+15,01           02m
+15,01                        00mmmmmmmmmmmmmmmmmmmmmmmmmmmm15m
+15,01                        14,00 01,15@14#02Creators14#02of14#02intense14#02Art14#01@14,14 
+15,01                        "14""""""""""""""""""""""""""""
+
+
+14,01    Okay, this shit always gets really long, so I'm gonna go  through the
+14,01month quickly - 'cuz a lot happened..
+14,01    VIRUS!?!?! Did someone say virus? Apparently, our viewer scared a few
+14,01virus scanners, last month.  Our coder and  beta testers assured us  that
+14,01it only  does this because of the way it is coded, and not because  of an
+14,01actual  virus.   You'll  notice there is no  external configuration file.
+14,01This is  because it is coded using a  self-modifying  code, that actually
+14,01writes the config into the COM file. It will be  fixed in future versions
+14,01but  everyone  that said  it was  a  virus couldn't  tell us which virus,
+14,01which  would have aided in killing that  part of the code. While we're on
+14,01that note, the veiwer is awesome this month, check it out, but be sure to
+14,01read the IV.DOC
+14,01    New guys.. 15Minuteman14,  an awesome  ansi/vga dude,  formerly of  RiOT,
+15,01Liquid Vision  14and  15Asylum14,  also  cool new ansi dudes, 15Carrion14, a do-all
+14,01kind of dude, he does ascii, lit, and  jams at music, 15Cybie14, another cool
+14,01music  guy,  15Beaner14,  yet another  cool music  guy leaves ReM to join our
+14,01kickin'  music section,  and 15Phred14,  an awesome  coder that  we  plan  to
+14,01exploit to the fullest! :) Welcome,  all! While  we're still  in members,
+15,01Dark iCE 14apparently didn't  want to have THAT in his name (kidding, iCE..
+14,01you guys jam), so he changed his  handle to 15Shrike14. And on a sadder note,
+15,01Techie  14will be  leaving this  month for college,  and  will no longer be
+14,01programming our viewer. Good luck, Paul. Thanks for everything!
+14,01    Now,  FinalNet  has  been  scrapped due to a problem with Muerte that
+14,01ended up lasting  a  very long  time  (his  board died  while  he  was in
+14,01Alaska for a month!), so  we switched to  Crime  in  Progress  Net (CiP).
+14,01Right after  we did that,  the CiP WHQ, Thieves Guild, got hit by a virus
+14,01(not the one  in the viewer, another one :)  and decided to hand over the
+14,01net. The net will be a multi-group supporting  net, not just the official
+14,01CiA  net. So if  you're interested in  getting your  group into  the net,
+14,01check out the net packet enclosed.
+14,01    You may recall many packs ago,  we had 15Mister E.  14with us as our only
+14,01Literary guy. Then he left  to join a  few other Lit groups. In the mean-
+14,01time,  CiA Lit  has  been  improving, and  is now doing quite well (we're
+14,01proud  of  'em!).  Well, we  decided  to  put out  our own Lit  mag,  and
+15,01Mister E.  14has  agreed  to come  back  and  spearhead the whole sha-bang!
+14,01Next month  will be  the release of  our monthly  Lit mag,  10 Ground and
+14,01Down. It  will showcase  all the work from CiA literary artists, and have
+14,01some  pretty impressive  affiliations  with some  of the scene's best Lit
+14,01guys.  We're very  excited about it.  On that note,  if you're interested
+14,01in  joining  a group that  believes Lit guys  should get the respect they
+14,01deserve, give us a call..
+14,01    We would like to advertise the fact that we are interested in
+14,01getting some more VGA artists. We're going to concentrate more and more
+14,01on assembling a GOOD vga team over the next few months, and we plan to
+14,01get damned serious about it. If you have some talent in that area, give
+14,01us a call.
+14,01    I  had expected  the summer to slow  us down, but so far we haven't
+14,01seen it. Everyone  was out on  vacation this  month, and we still had a
+14,01decent amount of  organization and  effort from everyone. Thanks to all
+14,01that  helped out!  Be  sure to check  out all our releases, this month.
+14,01We had enough stuff to put out two music disks, with one of those being
+14,01a special Metallica release from Cerebral Neurosis. It's awesome! Later!
+
+15,01                            14Tron 13(09C10i08A13)15     14Our VMB 800-245-4366
+15,01>SAUCE00CiA Pack #14 - Info File           CiA                 CiA              
+15,01   19940731f^  @@P v                             
